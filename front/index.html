@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rank Docentes ECT</title>
+  <link rel="stylesheet" href="./assets/css/materialize.min.css">
+  <link rel="stylesheet" href="./assets/css/main.style.css ">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+</head>
+
+<body class="blue-grey darken-4">
+
+
+  <div class="row">
+    <div class="col s12">
+      <ul class="tabs">
+        <li class="tab col s3"><a href="#test1">Test 1</a></li>
+        <li class="tab col s3"><a class="active" href="#test2">Test 2</a></li>
+        <li class="tab col s3 disabled"><a href="#test3">Disabled Tab</a></li>
+      </ul>
+    </div>
+
+    <!-- <div class="tabs transparent">
+      <li class="tab"><a class="waves-effect waves-light btn" href="#test1">button</a></li>
+      <li class="tab"><a class="waves-effect waves-light btn" href="#test2"><i class="material-icons left">cloud</i>button</a></li>
+      <li class="tab"><a class="waves-effect waves-light btn" href="#test3"><i class="material-icons right">cloud</i>button</a></li>
+    </div> -->
+
+
+    <div id="test1" class="col s12">Test 1</div>
+    <div id="test2" class="col s12">Test 2</div>
+    <div id="test3" class="col s12">Test 3</div>
+  </div>
+
+
+
+
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Item Name</th>
+        <th>Item Price</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>Alvin</td>
+        <td>Eclair</td>
+        <td>$0.87</td>
+      </tr>
+      <tr>
+        <td>Alan</td>
+        <td>Jellybean</td>
+        <td>$3.76</td>
+      </tr>
+      <tr>
+        <td>Jonathan</td>
+        <td>Lollipop</td>
+        <td>$7.00</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+
+
+  <script src="./assets/js/jquery.min.js"></script>
+  <script src="./assets/js/materialize.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      $('.tabs').tabs();
+    });
+  </script>
+
+</body>
+
+</html>
