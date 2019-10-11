@@ -72,6 +72,7 @@
         ],
         "DesvioDeNotas": 0.15388076533741432,
         "MediaDeNotas": 9.522307692307692,
+        "MediaDeDesvios": 1.8146153846153845,
         "NotaMediana": 9.5
       },
       "ECT2205 - PRÁTICAS DE LEITURA E ESCRITA II": {
@@ -87,6 +88,7 @@
         ],
         "DesvioDeNotas": 0.10208928554075702,
         "MediaDeNotas": 9.426666666666668,
+        "MediaDeDesvios": 1.72,
         "NotaMediana": 9.43
       },
       "ECT1531 - PRÁTICAS DE LEITURA E ESCRITA DE GÊNEROS DA ESFERA PROFISSIONAL": {
@@ -98,11 +100,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.35,
         "NotaMediana": 9.67
       }
     },
     "DesvioDeNotas": 0.15092104766982556,
     "MediaDeNotas": 9.514117647058825,
+    "MediaDeDesvios": 1.770588235294118,
     "NotaMediana": 9.5
   },
   "ALEXANDRE MAGNUS FERNANDES GUIMARAES": {
@@ -246,11 +250,13 @@
         ],
         "DesvioDeNotas": 0.31154463338942295,
         "MediaDeNotas": 9.323437499999997,
+        "MediaDeDesvios": 1.6906249999999996,
         "NotaMediana": 9.45
       }
     },
     "DesvioDeNotas": 0.31154463338942295,
     "MediaDeNotas": 9.323437499999997,
+    "MediaDeDesvios": 1.6906249999999996,
     "NotaMediana": 9.45
   },
   "ALEXSANDRO PEREIRA LIMA": {
@@ -294,6 +300,7 @@
         ],
         "DesvioDeNotas": 0.07909207011803102,
         "MediaDeNotas": 9.353333333333332,
+        "MediaDeDesvios": 1.6649999999999998,
         "NotaMediana": 9.42
       },
       "ECT2201 - CÁLCULO II": {
@@ -307,11 +314,13 @@
         ],
         "DesvioDeNotas": 0.05999999999999961,
         "MediaDeNotas": 9.530000000000001,
+        "MediaDeDesvios": 1.775,
         "NotaMediana": 9.59
       }
     },
     "DesvioDeNotas": 0.10697546447667333,
     "MediaDeNotas": 9.397499999999999,
+    "MediaDeDesvios": 1.6925,
     "NotaMediana": 9.42
   },
   "AMANDA MELISSA DAMIAO LEITE": {
@@ -483,6 +492,7 @@
         ],
         "DesvioDeNotas": 0.20975054996322778,
         "MediaDeNotas": 9.481388888888887,
+        "MediaDeDesvios": 1.5752777777777776,
         "NotaMediana": 9.51
       },
       "ECT2401 - COMPUTAÇÃO NUMÉRICA": {
@@ -496,6 +506,7 @@
         ],
         "DesvioDeNotas": 0.08499999999999996,
         "MediaDeNotas": 9.684999999999999,
+        "MediaDeDesvios": 0.9199999999999999,
         "NotaMediana": 9.77
       },
       "ECT2303 - LINGUAGEM DE PROGRAMAÇÃO": {
@@ -513,11 +524,13 @@
         ],
         "DesvioDeNotas": 0.2424226680820091,
         "MediaDeNotas": 9.6325,
+        "MediaDeDesvios": 1.135,
         "NotaMediana": 9.81
       }
     },
     "DesvioDeNotas": 0.21730165976786386,
     "MediaDeNotas": 9.505476190476188,
+    "MediaDeDesvios": 1.502142857142857,
     "NotaMediana": 9.52
   },
   "ANDRE BESSA MOREIRA": {
@@ -577,6 +590,7 @@
         ],
         "DesvioDeNotas": 0.10342146779078347,
         "MediaDeNotas": 9.652000000000001,
+        "MediaDeDesvios": 1.532,
         "NotaMediana": 9.64
       },
       "ECT2403 - FÍSICA EXPERIMENTAL II": {
@@ -602,6 +616,7 @@
         ],
         "DesvioDeNotas": 0.08381527307120122,
         "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.5337500000000002,
         "NotaMediana": 9.68
       },
       "ECT2304 - INTRODUÇÃO À FÍSICA CLÁSSICA II": {
@@ -619,11 +634,13 @@
         ],
         "DesvioDeNotas": 0.07500000000000036,
         "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 1.4225,
         "NotaMediana": 9.77
       }
     },
     "DesvioDeNotas": 0.09120872294834825,
     "MediaDeNotas": 9.675294117647056,
+    "MediaDeDesvios": 1.5070588235294118,
     "NotaMediana": 9.68
   },
   "ANGELA LUZIA MIRANDA": {
@@ -645,6 +662,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.46,
         "NotaMediana": 9.68
       },
       "ECT1558 - ÉTICA EM CIÊNCIA E TECNOLOGIA": {
@@ -656,11 +674,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.28,
         "NotaMediana": 9.69
       }
     },
     "DesvioDeNotas": 0.004999999999999893,
     "MediaDeNotas": 9.684999999999999,
+    "MediaDeDesvios": 1.37,
     "NotaMediana": 9.69
   },
   "ANTÔNIO PAULINO DE ARAÚJO NETO": {
@@ -696,6 +716,7 @@
         ],
         "DesvioDeNotas": 0.09759610647971548,
         "MediaDeNotas": 9.665,
+        "MediaDeDesvios": 1.4875,
         "NotaMediana": 9.7
       },
       "ECT2412 - MECÂNICA DOS SÓLIDOS": {
@@ -709,11 +730,13 @@
         ],
         "DesvioDeNotas": 0.009999999999999787,
         "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.525,
         "NotaMediana": 9.73
       }
     },
     "DesvioDeNotas": 0.08399735445569434,
     "MediaDeNotas": 9.683333333333334,
+    "MediaDeDesvios": 1.5,
     "NotaMediana": 9.71
   },
   "AQUILES MEDEIROS FILGUEIRA BURLAMAQUI": {
@@ -773,6 +796,7 @@
         ],
         "DesvioDeNotas": 0.03000000000000025,
         "MediaDeNotas": 9.559999999999999,
+        "MediaDeDesvios": 1.8199999999999998,
         "NotaMediana": 9.59
       },
       "ECT2701 - INTERNET DAS COISAS": {
@@ -784,6 +808,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.99,
         "NotaMediana": 9.07
       },
       "ECT2203 - LÓGICA DE PROGRAMAÇÃO": {
@@ -821,6 +846,7 @@
         ],
         "DesvioDeNotas": 0.13508878410821795,
         "MediaDeNotas": 9.647142857142857,
+        "MediaDeDesvios": 1.5421428571428568,
         "NotaMediana": 9.62
       },
       "ECT2527 - BANCOS DE DADOS PARA WEB": {
@@ -832,6 +858,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.97,
         "NotaMediana": 9.9
       },
       "ECT2303 - LINGUAGEM DE PROGRAMAÇÃO": {
@@ -845,11 +872,13 @@
         ],
         "DesvioDeNotas": 0.04999999999999982,
         "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.155,
         "NotaMediana": 9.94
       }
     },
     "DesvioDeNotas": 0.1990546407396722,
     "MediaDeNotas": 9.646500000000001,
+    "MediaDeDesvios": 1.525,
     "NotaMediana": 9.62
   },
   "BRUNO MARQUES FERREIRA DA SILVA": {
@@ -949,6 +978,7 @@
         ],
         "DesvioDeNotas": 0.21709157054109687,
         "MediaDeNotas": 9.6375,
+        "MediaDeDesvios": 1.6219999999999999,
         "NotaMediana": 9.63
       },
       "ECT2540 - PROGRAMAÇÃO ORIENTADA A OBJETOS": {
@@ -962,11 +992,13 @@
         ],
         "DesvioDeNotas": 0.23500000000000032,
         "MediaDeNotas": 9.504999999999999,
+        "MediaDeDesvios": 2.145,
         "NotaMediana": 9.74
       }
     },
     "DesvioDeNotas": 0.22207139050165578,
     "MediaDeNotas": 9.625454545454543,
+    "MediaDeDesvios": 1.6695454545454544,
     "NotaMediana": 9.63
   },
   "CAMILA PACELLY BRANDÃO DE ARAÚJO": {
@@ -990,11 +1022,13 @@
         ],
         "DesvioDeNotas": 0.009999999999999787,
         "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.7000000000000002,
         "NotaMediana": 9.65
       }
     },
     "DesvioDeNotas": 0.009999999999999787,
     "MediaDeNotas": 9.64,
+    "MediaDeDesvios": 1.7000000000000002,
     "NotaMediana": 9.65
   },
   "CARLOS ALBERTO OLARTE VEGA": {
@@ -1052,6 +1086,7 @@
         ],
         "DesvioDeNotas": 0.16101242188104609,
         "MediaDeNotas": 9.615,
+        "MediaDeDesvios": 1.439,
         "NotaMediana": 9.61
       },
       "ECT2540 - PROGRAMAÇÃO ORIENTADA A OBJETOS": {
@@ -1063,11 +1098,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.85,
+        "MediaDeDesvios": 0.94,
         "NotaMediana": 9.85
       }
     },
     "DesvioDeNotas": 0.1677266568108917,
     "MediaDeNotas": 9.636363636363637,
+    "MediaDeDesvios": 1.3936363636363636,
     "NotaMediana": 9.61
   },
   "CARLOS ALEXANDRE CAMARGO DE ABREU": {
@@ -1113,6 +1150,7 @@
         ],
         "DesvioDeNotas": 0.27666586345264904,
         "MediaDeNotas": 8.586,
+        "MediaDeDesvios": 2.494,
         "NotaMediana": 8.55
       },
       "ECT1503 - MATEMÁTICA FINANCEIRA": {
@@ -1132,11 +1170,13 @@
         ],
         "DesvioDeNotas": 0.16230834852218837,
         "MediaDeNotas": 9.094,
+        "MediaDeDesvios": 1.9899999999999998,
         "NotaMediana": 9.16
       }
     },
     "DesvioDeNotas": 0.34052900023346033,
     "MediaDeNotas": 8.84,
+    "MediaDeDesvios": 2.242,
     "NotaMediana": 8.93
   },
   "CARLOS EDUARDO PELLICER DE OLIVEIRA": {
@@ -1176,6 +1216,7 @@
         ],
         "DesvioDeNotas": 0.03500000000000014,
         "MediaDeNotas": 9.195,
+        "MediaDeDesvios": 2.6399999999999997,
         "NotaMediana": 9.23
       },
       "ECT2103 - CÁLCULO I": {
@@ -1189,6 +1230,7 @@
         ],
         "DesvioDeNotas": 0.06500000000000039,
         "MediaDeNotas": 8.815000000000001,
+        "MediaDeDesvios": 2.38,
         "NotaMediana": 8.88
       },
       "ECT2415 - EQUAÇÕES DIFERENCIAIS": {
@@ -1202,6 +1244,7 @@
         ],
         "DesvioDeNotas": 0.040000000000000036,
         "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.4100000000000001,
         "NotaMediana": 9.74
       },
       "ECT2301 - CÁLCULO III": {
@@ -1219,11 +1262,13 @@
         ],
         "DesvioDeNotas": 0.3552727825206992,
         "MediaDeNotas": 9.2425,
+        "MediaDeDesvios": 2.125,
         "NotaMediana": 9.4
       }
     },
     "DesvioDeNotas": 0.36159231186517227,
     "MediaDeNotas": 9.239,
+    "MediaDeDesvios": 2.1359999999999997,
     "NotaMediana": 9.23
   },
   "DANIEL NELSON MACIEL": {
@@ -1279,11 +1324,13 @@
         ],
         "DesvioDeNotas": 0.20885641000457714,
         "MediaDeNotas": 9.427000000000001,
+        "MediaDeDesvios": 1.816,
         "NotaMediana": 9.54
       }
     },
     "DesvioDeNotas": 0.20885641000457714,
     "MediaDeNotas": 9.427000000000001,
+    "MediaDeDesvios": 1.816,
     "NotaMediana": 9.54
   },
   "DARLAN ARAUJO MOREIRA": {
@@ -1327,6 +1374,7 @@
         ],
         "DesvioDeNotas": 0.08529361054615998,
         "MediaDeNotas": 9.725,
+        "MediaDeDesvios": 1.6875,
         "NotaMediana": 9.74
       },
       "ECT2201 - CÁLCULO II": {
@@ -1348,11 +1396,13 @@
         ],
         "DesvioDeNotas": 0.11682132605916676,
         "MediaDeNotas": 9.601666666666667,
+        "MediaDeDesvios": 1.5483333333333331,
         "NotaMediana": 9.65
       }
     },
     "DesvioDeNotas": 0.12144546101028213,
     "MediaDeNotas": 9.651,
+    "MediaDeDesvios": 1.6039999999999999,
     "NotaMediana": 9.66
   },
   "DEBORA MACHADO DE OLIVEIRA MEDINA": {
@@ -1448,11 +1498,13 @@
         ],
         "DesvioDeNotas": 0.1360101099183439,
         "MediaDeNotas": 9.702499999999999,
+        "MediaDeDesvios": 1.4789999999999996,
         "NotaMediana": 9.75
       }
     },
     "DesvioDeNotas": 0.1360101099183439,
     "MediaDeNotas": 9.702499999999999,
+    "MediaDeDesvios": 1.4789999999999996,
     "NotaMediana": 9.75
   },
   "DEUSDEDIT MONTEIRO MEDEIROS": {
@@ -1486,6 +1538,7 @@
         ],
         "DesvioDeNotas": 0.34708308323320297,
         "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 2.3800000000000003,
         "NotaMediana": 8.82
       },
       "ECT2301 - CÁLCULO III": {
@@ -1497,6 +1550,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 2.35,
         "NotaMediana": 9.14
       },
       "ECT2415 - EQUAÇÕES DIFERENCIAIS": {
@@ -1510,11 +1564,13 @@
         ],
         "DesvioDeNotas": 0.08000000000000007,
         "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.2850000000000001,
         "NotaMediana": 9.78
       }
     },
     "DesvioDeNotas": 0.39143610234905774,
     "MediaDeNotas": 9.276666666666666,
+    "MediaDeDesvios": 2.0100000000000002,
     "NotaMediana": 9.53
   },
   "DIEGO RODRIGO CABRAL SILVA": {
@@ -1614,6 +1670,7 @@
         ],
         "DesvioDeNotas": 0.3192314990723819,
         "MediaDeNotas": 9.1425,
+        "MediaDeDesvios": 1.9765000000000001,
         "NotaMediana": 9.15
       },
       "ECT2527 - BANCOS DE DADOS PARA WEB": {
@@ -1625,6 +1682,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.13,
+        "MediaDeDesvios": 1.61,
         "NotaMediana": 9.13
       },
       "ECT2521 - PROJETOS COM MICROCONTROLADORES E MINICOMPUTADORES": {
@@ -1636,11 +1694,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.03,
         "NotaMediana": 9.55
       }
     },
     "DesvioDeNotas": 0.31603333070374495,
     "MediaDeNotas": 9.160454545454545,
+    "MediaDeDesvios": 1.916818181818182,
     "NotaMediana": 9.15
   },
   "EDNA MARIA RANGEL DE SA": {
@@ -1690,6 +1750,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.39,
         "NotaMediana": 9.76
       },
       "ECT1530 - PRÁTICAS DE LEITURA E ESCRITA DE GÊNEROS ACADÊMICOS": {
@@ -1709,6 +1770,7 @@
         ],
         "DesvioDeNotas": 0.11038115781237294,
         "MediaDeNotas": 9.814,
+        "MediaDeDesvios": 1.01,
         "NotaMediana": 9.82
       },
       "ECT2105 - PRÁTICAS DE LEITURA E ESCRITA I": {
@@ -1738,11 +1800,13 @@
         ],
         "DesvioDeNotas": 0.10789346597454381,
         "MediaDeNotas": 9.543,
+        "MediaDeDesvios": 1.8920000000000001,
         "NotaMediana": 9.59
       }
     },
     "DesvioDeNotas": 0.16529802630400656,
     "MediaDeNotas": 9.64125,
+    "MediaDeDesvios": 1.585,
     "NotaMediana": 9.63
   },
   "EFRAIN PANTALEON MATAMOROS": {
@@ -1788,6 +1852,7 @@
         ],
         "DesvioDeNotas": 0.18312837027615336,
         "MediaDeNotas": 9.517999999999999,
+        "MediaDeDesvios": 1.404,
         "NotaMediana": 9.61
       },
       "ECT2206 - GESTÃO E ECONOMIA DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO": {
@@ -1807,11 +1872,13 @@
         ],
         "DesvioDeNotas": 0.03847076812334251,
         "MediaDeNotas": 9.370000000000001,
+        "MediaDeDesvios": 1.7920000000000003,
         "NotaMediana": 9.37
       }
     },
     "DesvioDeNotas": 0.15160474926597758,
     "MediaDeNotas": 9.444,
+    "MediaDeDesvios": 1.598,
     "NotaMediana": 9.43
   },
   "ELISAMA VIEIRA DOS SANTOS": {
@@ -1955,11 +2022,13 @@
         ],
         "DesvioDeNotas": 0.7913099799541266,
         "MediaDeNotas": 8.683124999999999,
+        "MediaDeDesvios": 2.2471875,
         "NotaMediana": 8.77
       }
     },
     "DesvioDeNotas": 0.7913099799541266,
     "MediaDeNotas": 8.683124999999999,
+    "MediaDeDesvios": 2.2471875,
     "NotaMediana": 8.77
   },
   "ELTON JOSE FIGUEIREDO DE CARVALHO": {
@@ -2007,6 +2076,7 @@
         ],
         "DesvioDeNotas": 0.24734703466093058,
         "MediaDeNotas": 9.331666666666665,
+        "MediaDeDesvios": 2.2166666666666663,
         "NotaMediana": 9.44
       },
       "ECT2102 - VETORES E GEOMETRIA ANALÍTICA": {
@@ -2020,6 +2090,7 @@
         ],
         "DesvioDeNotas": 0.19500000000000028,
         "MediaDeNotas": 9.305,
+        "MediaDeDesvios": 1.6549999999999998,
         "NotaMediana": 9.5
       },
       "ECT2202 - ÁLGEBRA LINEAR": {
@@ -2033,11 +2104,13 @@
         ],
         "DesvioDeNotas": 0.16500000000000004,
         "MediaDeNotas": 8.954999999999998,
+        "MediaDeDesvios": 2.005,
         "NotaMediana": 9.12
       }
     },
     "DesvioDeNotas": 0.2678973684081277,
     "MediaDeNotas": 9.251,
+    "MediaDeDesvios": 2.062,
     "NotaMediana": 9.18
   },
   "EMANUELE ORAZI": {
@@ -2079,6 +2152,7 @@
         ],
         "DesvioDeNotas": 0.032659863237109066,
         "MediaDeNotas": 9.280000000000001,
+        "MediaDeDesvios": 2,
         "NotaMediana": 9.28
       },
       "ECT2101 - PRÉ-CÁLCULO": {
@@ -2092,6 +2166,7 @@
         ],
         "DesvioDeNotas": 0.7000000000000002,
         "MediaDeNotas": 7.680000000000001,
+        "MediaDeDesvios": 3.31,
         "NotaMediana": 8.38
       },
       "ECT2103 - CÁLCULO I": {
@@ -2111,11 +2186,13 @@
         ],
         "DesvioDeNotas": 0.5189065426452054,
         "MediaDeNotas": 8.813999999999998,
+        "MediaDeDesvios": 2.348,
         "NotaMediana": 8.68
       }
     },
     "DesvioDeNotas": 0.7400817522409263,
     "MediaDeNotas": 8.727,
+    "MediaDeDesvios": 2.4359999999999995,
     "NotaMediana": 8.74
   },
   "EVERTON SANTI": {
@@ -2207,11 +2284,13 @@
         ],
         "DesvioDeNotas": 0.49416484290847623,
         "MediaDeNotas": 9.258947368421053,
+        "MediaDeDesvios": 1.9594736842105263,
         "NotaMediana": 9.39
       }
     },
     "DesvioDeNotas": 0.49416484290847623,
     "MediaDeNotas": 9.258947368421053,
+    "MediaDeDesvios": 1.9594736842105263,
     "NotaMediana": 9.39
   },
   "FABIANA TRISTAO DE SANTANA": {
@@ -2259,6 +2338,7 @@
         ],
         "DesvioDeNotas": 0.06020797289396147,
         "MediaDeNotas": 9.765,
+        "MediaDeDesvios": 1.675,
         "NotaMediana": 9.82
       },
       "ECT2103 - CÁLCULO I": {
@@ -2270,6 +2350,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.7,
         "NotaMediana": 9.68
       },
       "ECT2202 - ÁLGEBRA LINEAR": {
@@ -2285,11 +2366,13 @@
         ],
         "DesvioDeNotas": 0.03299831645537235,
         "MediaDeNotas": 9.796666666666667,
+        "MediaDeDesvios": 1.6433333333333333,
         "NotaMediana": 9.82
       }
     },
     "DesvioDeNotas": 0.059363288318623406,
     "MediaDeNotas": 9.766,
+    "MediaDeDesvios": 1.668,
     "NotaMediana": 9.82
   },
   "FABIO JOSE PINHEIRO SOUSA": {
@@ -2345,11 +2428,13 @@
         ],
         "DesvioDeNotas": 0.1690088755065839,
         "MediaDeNotas": 9.703999999999999,
+        "MediaDeDesvios": 1.3559999999999999,
         "NotaMediana": 9.77
       }
     },
     "DesvioDeNotas": 0.1690088755065839,
     "MediaDeNotas": 9.703999999999999,
+    "MediaDeDesvios": 1.3559999999999999,
     "NotaMediana": 9.77
   },
   "FELIPE MACEDO ZUMBA": {
@@ -2405,6 +2490,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.21,
         "NotaMediana": 9.84
       },
       "ECT2512 - FUNDAMENTOS DE PROPRIEDADE INTELECTUAL E TRANSFERÊNCIA DE TECNOLOGIA": {
@@ -2418,6 +2504,7 @@
         ],
         "DesvioDeNotas": 0.03500000000000014,
         "MediaDeNotas": 9.855,
+        "MediaDeDesvios": 0.99,
         "NotaMediana": 9.89
       },
       "ECT2206 - GESTÃO E ECONOMIA DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO": {
@@ -2447,6 +2534,7 @@
         ],
         "DesvioDeNotas": 0.13964240043768908,
         "MediaDeNotas": 9.559999999999999,
+        "MediaDeDesvios": 1.8439999999999999,
         "NotaMediana": 9.62
       },
       "ECT2517 - MODELAGEM DE RISCO": {
@@ -2458,6 +2546,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.38,
         "NotaMediana": 9.73
       },
       "ECT1564 - GESTÃO ESTRATÉGICA": {
@@ -2471,6 +2560,7 @@
         ],
         "DesvioDeNotas": 0.27000000000000046,
         "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.505,
         "NotaMediana": 9.73
       },
       "ECT1552 - INSTITUIÇÕES E SERVIÇOS TECNOLÓGICOS": {
@@ -2486,11 +2576,13 @@
         ],
         "DesvioDeNotas": 0.1510702559149952,
         "MediaDeNotas": 9.513333333333334,
+        "MediaDeDesvios": 1.5399999999999998,
         "NotaMediana": 9.61
       }
     },
     "DesvioDeNotas": 0.1910924998274519,
     "MediaDeNotas": 9.596842105263159,
+    "MediaDeDesvios": 1.612631578947368,
     "NotaMediana": 9.63
   },
   "FILIPE MARTEL DE MAGALHAES BORGES": {
@@ -2606,11 +2698,13 @@
         ],
         "DesvioDeNotas": 0.1232584277037476,
         "MediaDeNotas": 9.7956,
+        "MediaDeDesvios": 1.6024,
         "NotaMediana": 9.81
       }
     },
     "DesvioDeNotas": 0.1232584277037476,
     "MediaDeNotas": 9.7956,
+    "MediaDeDesvios": 1.6024,
     "NotaMediana": 9.81
   },
   "FRANCISCO EDSON DA SILVA": {
@@ -2664,6 +2758,7 @@
         ],
         "DesvioDeNotas": 0.07766658718800569,
         "MediaDeNotas": 9.52111111111111,
+        "MediaDeDesvios": 1.8633333333333333,
         "NotaMediana": 9.54
       },
       "ECT2102 - VETORES E GEOMETRIA ANALÍTICA": {
@@ -2675,11 +2770,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.81,
         "NotaMediana": 9.15
       }
     },
     "DesvioDeNotas": 0.133506554146229,
     "MediaDeNotas": 9.484,
+    "MediaDeDesvios": 1.8579999999999999,
     "NotaMediana": 9.54
   },
   "FRANCISCO JOSE TARGINO VIDAL": {
@@ -2759,6 +2856,7 @@
         ],
         "DesvioDeNotas": 0.38323546480930415,
         "MediaDeNotas": 9.28181818181818,
+        "MediaDeDesvios": 2.11,
         "NotaMediana": 9.32
       },
       "ECT2401 - COMPUTAÇÃO NUMÉRICA": {
@@ -2788,11 +2886,13 @@
         ],
         "DesvioDeNotas": 0.348792201747688,
         "MediaDeNotas": 9.408000000000001,
+        "MediaDeDesvios": 1.5699999999999998,
         "NotaMediana": 9.4
       }
     },
     "DesvioDeNotas": 0.37260497463155456,
     "MediaDeNotas": 9.341904761904761,
+    "MediaDeDesvios": 1.852857142857143,
     "NotaMediana": 9.36
   },
   "GLAUCIO BEZERRA BRANDAO": {
@@ -2846,6 +2946,7 @@
         ],
         "DesvioDeNotas": 0.5221933909003443,
         "MediaDeNotas": 8.888749999999998,
+        "MediaDeDesvios": 2.10125,
         "NotaMediana": 9.09
       },
       "ECT2602 - PRÁTICAS DE STARTUP TECNOLÓGICA 2": {
@@ -2857,6 +2958,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.64,
         "NotaMediana": 9.62
       },
       "ECT1566 - GESTÃO DO CONHECIMENTO": {
@@ -2868,6 +2970,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.18,
         "NotaMediana": 9.57
       },
       "ECT2601 - PRÁTICAS DE STARTUP TECNOLÓGICA 1": {
@@ -2879,11 +2982,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.73,
         "NotaMediana": 9.38
       }
     },
     "DesvioDeNotas": 0.5301941013666286,
     "MediaDeNotas": 9.06181818181818,
+    "MediaDeDesvios": 1.9418181818181817,
     "NotaMediana": 9.13
   },
   "GLICIA MARILI AZEVEDO DE MEDEIROS TINOCO": {
@@ -2941,6 +3046,7 @@
         ],
         "DesvioDeNotas": 0.12817566071606554,
         "MediaDeNotas": 9.369,
+        "MediaDeDesvios": 1.9460000000000002,
         "NotaMediana": 9.41
       },
       "ECT1531 - PRÁTICAS DE LEITURA E ESCRITA DE GÊNEROS DA ESFERA PROFISSIONAL": {
@@ -2952,11 +3058,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.96,
+        "MediaDeDesvios": 0.8,
         "NotaMediana": 9.96
       }
     },
     "DesvioDeNotas": 0.20928844424038798,
     "MediaDeNotas": 9.422727272727272,
+    "MediaDeDesvios": 1.841818181818182,
     "NotaMediana": 9.41
   },
   "GRACILENE FELIX MEDEIROS": {
@@ -3006,6 +3114,7 @@
         ],
         "DesvioDeNotas": 0.06899275324264163,
         "MediaDeNotas": 9.530000000000001,
+        "MediaDeDesvios": 2.094,
         "NotaMediana": 9.52
       },
       "ECT2205 - PRÁTICAS DE LEITURA E ESCRITA II": {
@@ -3029,11 +3138,13 @@
         ],
         "DesvioDeNotas": 0.2416271372784682,
         "MediaDeNotas": 9.358571428571429,
+        "MediaDeDesvios": 2.0257142857142854,
         "NotaMediana": 9.43
       }
     },
     "DesvioDeNotas": 0.20780599927175664,
     "MediaDeNotas": 9.430000000000001,
+    "MediaDeDesvios": 2.0541666666666667,
     "NotaMediana": 9.52
   },
   "GUSTAVO ZAMPIER DOS SANTOS LIMA": {
@@ -3063,6 +3174,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 2.05,
         "NotaMediana": 9.48
       },
       "ECT2101 - PRÉ-CÁLCULO": {
@@ -3080,6 +3192,7 @@
         ],
         "DesvioDeNotas": 0.09653367288153901,
         "MediaDeNotas": 9.6175,
+        "MediaDeDesvios": 1.6675,
         "NotaMediana": 9.68
       },
       "DBF0043 - BIOESTATÍSTICA PARA BIOMEDICINA": {
@@ -3091,11 +3204,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 2.08,
         "NotaMediana": 9.36
       }
     },
     "DesvioDeNotas": 0.12680913041084851,
     "MediaDeNotas": 9.551666666666668,
+    "MediaDeDesvios": 1.7999999999999998,
     "NotaMediana": 9.55
   },
   "HECTOR LENY CARRION SALAZAR": {
@@ -3133,6 +3248,7 @@
         ],
         "DesvioDeNotas": 0.45697070171097626,
         "MediaDeNotas": 9.403333333333334,
+        "MediaDeDesvios": 2.03,
         "NotaMediana": 8.89
       },
       "ECT2202 - ÁLGEBRA LINEAR": {
@@ -3150,6 +3266,7 @@
         ],
         "DesvioDeNotas": 0.10210288928331075,
         "MediaDeNotas": 9.345,
+        "MediaDeDesvios": 1.6824999999999999,
         "NotaMediana": 9.43
       },
       "ECT2301 - CÁLCULO III": {
@@ -3161,11 +3278,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.64,
         "NotaMediana": 9.51
       }
     },
     "DesvioDeNotas": 0.29392813747581215,
     "MediaDeNotas": 9.3875,
+    "MediaDeDesvios": 1.8074999999999999,
     "NotaMediana": 9.32
   },
   "HELTON MAIA PEIXOTO": {
@@ -3259,6 +3378,7 @@
         ],
         "DesvioDeNotas": 0.3214010189132087,
         "MediaDeNotas": 9.465263157894737,
+        "MediaDeDesvios": 1.778421052631579,
         "NotaMediana": 9.52
       },
       "ECT2703 - TÓPICOS AVANÇADOS EM INFORMÁTICA II": {
@@ -3270,11 +3390,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.51,
         "NotaMediana": 9.87
       }
     },
     "DesvioDeNotas": 0.3254454639413491,
     "MediaDeNotas": 9.4855,
+    "MediaDeDesvios": 1.765,
     "NotaMediana": 9.57
   },
   "HERCULANA TORRES DOS SANTOS": {
@@ -3340,6 +3462,7 @@
         ],
         "DesvioDeNotas": 0.025000000000000355,
         "MediaDeNotas": 9.725,
+        "MediaDeDesvios": 1.07,
         "NotaMediana": 9.75
       },
       "ECT2302 - METODOLOGIA CIENTÍFICA E TECNOLÓGICA": {
@@ -3381,6 +3504,7 @@
         ],
         "DesvioDeNotas": 0.4336743449871112,
         "MediaDeNotas": 9.08875,
+        "MediaDeDesvios": 1.930625,
         "NotaMediana": 9.29
       },
       "ECT2601 - PRÁTICAS DE STARTUP TECNOLÓGICA 1": {
@@ -3396,6 +3520,7 @@
         ],
         "DesvioDeNotas": 0.4352266331719858,
         "MediaDeNotas": 9.506666666666668,
+        "MediaDeDesvios": 1.0999999999999999,
         "NotaMediana": 9.72
       },
       "ECT2605 - ARRANJOS PRODUTIVOS TECNOLÓGICOS": {
@@ -3407,6 +3532,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 0.97,
         "NotaMediana": 9.66
       },
       "ECT2513 - GESTÃO EM TECNOLOGIAS DE RUPTURA": {
@@ -3418,11 +3544,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.06,
         "NotaMediana": 9.5
       }
     },
     "DesvioDeNotas": 0.4602674491680952,
     "MediaDeNotas": 9.24130434782609,
+    "MediaDeDesvios": 1.6678260869565218,
     "NotaMediana": 9.37
   },
   "IDALMIS MILIAN SARDINA MARTINS": {
@@ -3532,6 +3660,7 @@
         ],
         "DesvioDeNotas": 1.2428350419097725,
         "MediaDeNotas": 7.780434782608697,
+        "MediaDeDesvios": 2.616086956521739,
         "NotaMediana": 8.12
       },
       "ECT2540 - PROGRAMAÇÃO ORIENTADA A OBJETOS": {
@@ -3543,11 +3672,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 8.3,
+        "MediaDeDesvios": 1.7,
         "NotaMediana": 8.3
       }
     },
     "DesvioDeNotas": 1.2210889237570794,
     "MediaDeNotas": 7.802083333333335,
+    "MediaDeDesvios": 2.5779166666666664,
     "NotaMediana": 8.27
   },
   "IGOR ROSBERG DE MEDEIROS SILVA": {
@@ -3611,6 +3742,7 @@
         ],
         "DesvioDeNotas": 0.17919573407620806,
         "MediaDeNotas": 9.373333333333333,
+        "MediaDeDesvios": 2.0677777777777777,
         "NotaMediana": 9.37
       },
       "ECT2203 - LÓGICA DE PROGRAMAÇÃO": {
@@ -3632,11 +3764,13 @@
         ],
         "DesvioDeNotas": 0.12266711956438171,
         "MediaDeNotas": 9.598333333333334,
+        "MediaDeDesvios": 1.6700000000000002,
         "NotaMediana": 9.66
       }
     },
     "DesvioDeNotas": 0.19348270092066527,
     "MediaDeNotas": 9.463333333333333,
+    "MediaDeDesvios": 1.9086666666666665,
     "NotaMediana": 9.45
   },
   "JACOPO VITI": {
@@ -3674,6 +3808,7 @@
         ],
         "DesvioDeNotas": 0.2654555832275271,
         "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.9366666666666665,
         "NotaMediana": 9.2
       },
       "ECT2102 - VETORES E GEOMETRIA ANALÍTICA": {
@@ -3693,11 +3828,13 @@
         ],
         "DesvioDeNotas": 0.2530928683309749,
         "MediaDeNotas": 9.272,
+        "MediaDeDesvios": 2.068,
         "NotaMediana": 9.18
       }
     },
     "DesvioDeNotas": 0.25932303696355263,
     "MediaDeNotas": 9.29375,
+    "MediaDeDesvios": 2.01875,
     "NotaMediana": 9.2
   },
   "JAZIELLI CARVALHO SA": {
@@ -3753,6 +3890,7 @@
         ],
         "DesvioDeNotas": 0.23913108009915363,
         "MediaDeNotas": 9.358571428571427,
+        "MediaDeDesvios": 1.742857142857143,
         "NotaMediana": 9.32
       },
       "ECT1563 - POLÍTICA, PLANEJAMENTO E GESTÃO EM SANEAMENTO": {
@@ -3766,6 +3904,7 @@
         ],
         "DesvioDeNotas": 0.3149999999999995,
         "MediaDeNotas": 9.455,
+        "MediaDeDesvios": 1.35,
         "NotaMediana": 9.77
       },
       "ECT1560 - FUNDAMENTOS EM DESENVOLVIMENTO SUSTENTÁVEL": {
@@ -3777,6 +3916,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.38,
         "NotaMediana": 9.75
       },
       "ECT1569 - TÓPICOS EM PRÁTICAS AMBIENTAIS": {
@@ -3790,6 +3930,7 @@
         ],
         "DesvioDeNotas": 0.09000000000000075,
         "MediaDeNotas": 9.620000000000001,
+        "MediaDeDesvios": 1.16,
         "NotaMediana": 9.71
       },
       "ECT2522 - TÓPICOS ESPECIAIS EM DESENVOLVIMENTO SUSTENTÁVEL": {
@@ -3801,11 +3942,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 0.99,
         "NotaMediana": 9.67
       }
     },
     "DesvioDeNotas": 0.2580445353975176,
     "MediaDeNotas": 9.467692307692307,
+    "MediaDeDesvios": 1.5069230769230766,
     "NotaMediana": 9.53
   },
   "JEFFERSON SOARES DA COSTA": {
@@ -3843,6 +3986,7 @@
         ],
         "DesvioDeNotas": 0.2721557458515252,
         "MediaDeNotas": 8.8425,
+        "MediaDeDesvios": 2.3825,
         "NotaMediana": 8.93
       },
       "ECT2415 - EQUAÇÕES DIFERENCIAIS": {
@@ -3854,6 +3998,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.94,
         "NotaMediana": 9.36
       },
       "ECT2301 - CÁLCULO III": {
@@ -3867,11 +4012,13 @@
         ],
         "DesvioDeNotas": 0.054999999999999716,
         "MediaDeNotas": 9.315,
+        "MediaDeDesvios": 1.84,
         "NotaMediana": 9.37
       }
     },
     "DesvioDeNotas": 0.31872193754021333,
     "MediaDeNotas": 9.05142857142857,
+    "MediaDeDesvios": 2.164285714285714,
     "NotaMediana": 9.16
   },
   "JOAO RODRIGO SOUZA LEAO": {
@@ -3915,6 +4062,7 @@
         ],
         "DesvioDeNotas": 0.20042143098980217,
         "MediaDeNotas": 9.4825,
+        "MediaDeDesvios": 1.6825,
         "NotaMediana": 9.63
       },
       "ECT2204 - INTRODUÇÃO À FÍSICA CLÁSSICA I": {
@@ -3934,6 +4082,7 @@
         ],
         "DesvioDeNotas": 0.5198692143222174,
         "MediaDeNotas": 8.826,
+        "MediaDeDesvios": 2.132,
         "NotaMediana": 8.97
       },
       "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III": {
@@ -3945,11 +4094,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 8.87,
+        "MediaDeDesvios": 2.2,
         "NotaMediana": 8.87
       }
     },
     "DesvioDeNotas": 0.5024947760922495,
     "MediaDeNotas": 9.093,
+    "MediaDeDesvios": 1.9590000000000003,
     "NotaMediana": 9.34
   },
   "JOAO VITAL DA CUNHA JUNIOR": {
@@ -3989,6 +4140,7 @@
         ],
         "DesvioDeNotas": 0.0600000000000005,
         "MediaDeNotas": 8.33,
+        "MediaDeDesvios": 2.645,
         "NotaMediana": 8.39
       },
       "ECT2201 - CÁLCULO II": {
@@ -4006,6 +4158,7 @@
         ],
         "DesvioDeNotas": 0.4873910134583935,
         "MediaDeNotas": 8.67,
+        "MediaDeDesvios": 2.225,
         "NotaMediana": 8.93
       },
       "ECT2102 - VETORES E GEOMETRIA ANALÍTICA": {
@@ -4021,6 +4174,7 @@
         ],
         "DesvioDeNotas": 0.09201449161228145,
         "MediaDeNotas": 8.870000000000001,
+        "MediaDeDesvios": 2.216666666666667,
         "NotaMediana": 8.81
       },
       "ECT2103 - CÁLCULO I": {
@@ -4032,11 +4186,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 1.95,
         "NotaMediana": 8.84
       }
     },
     "DesvioDeNotas": 0.36906503491932147,
     "MediaDeNotas": 8.678999999999998,
+    "MediaDeDesvios": 2.279,
     "NotaMediana": 8.81
   },
   "JOILSON BATISTA DE ALMEIDA REGO": {
@@ -4196,11 +4352,13 @@
         ],
         "DesvioDeNotas": 0.35864833269263885,
         "MediaDeNotas": 9.413611111111111,
+        "MediaDeDesvios": 1.5908333333333333,
         "NotaMediana": 9.46
       }
     },
     "DesvioDeNotas": 0.35864833269263885,
     "MediaDeNotas": 9.413611111111111,
+    "MediaDeDesvios": 1.5908333333333333,
     "NotaMediana": 9.46
   },
   "JORGE CARLOS LOPES BRAS SILVA PEREIRA": {
@@ -4432,11 +4590,13 @@
         ],
         "DesvioDeNotas": 0.16238407282004017,
         "MediaDeNotas": 9.734074074074075,
+        "MediaDeDesvios": 1.4542592592592587,
         "NotaMediana": 9.77
       }
     },
     "DesvioDeNotas": 0.16238407282004017,
     "MediaDeNotas": 9.734074074074075,
+    "MediaDeDesvios": 1.4542592592592587,
     "NotaMediana": 9.77
   },
   "JOSE HENRIQUE FERNANDEZ": {
@@ -4474,6 +4634,7 @@
         ],
         "DesvioDeNotas": 0.09428090415820685,
         "MediaDeNotas": 9.676666666666668,
+        "MediaDeDesvios": 1.7566666666666666,
         "NotaMediana": 9.61
       },
       "ECT2204 - INTRODUÇÃO À FÍSICA CLÁSSICA I": {
@@ -4487,6 +4648,7 @@
         ],
         "DesvioDeNotas": 0.03500000000000014,
         "MediaDeNotas": 9.785,
+        "MediaDeDesvios": 1.6400000000000001,
         "NotaMediana": 9.82
       },
       "CAC1001 - FÍSICA I APLICADA ÀS CIÊNCIAS ATMOSFÉRICAS: MECÂNICA": {
@@ -4500,6 +4662,7 @@
         ],
         "DesvioDeNotas": 0.1899999999999995,
         "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.73,
         "NotaMediana": 9.78
       },
       "CAC1002 - FÍSICA II: CONCEITOS E APLICAÇÕES DE ONDAS E ÓPTICA EM CIÊNCIAS ATMOSFÉRICAS": {
@@ -4511,11 +4674,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.13,
         "NotaMediana": 9.57
       }
     },
     "DesvioDeNotas": 0.13724408001804667,
     "MediaDeNotas": 9.66875,
+    "MediaDeDesvios": 1.6425000000000003,
     "NotaMediana": 9.75
   },
   "JOSE ROMERITO SILVA": {
@@ -4553,6 +4718,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.51,
         "NotaMediana": 9.61
       },
       "ECT1530 - PRÁTICAS DE LEITURA E ESCRITA DE GÊNEROS ACADÊMICOS": {
@@ -4568,6 +4734,7 @@
         ],
         "DesvioDeNotas": 0.09463379711052201,
         "MediaDeNotas": 9.826666666666668,
+        "MediaDeDesvios": 1.1366666666666667,
         "NotaMediana": 9.81
       },
       "ECT2105 - PRÁTICAS DE LEITURA E ESCRITA I": {
@@ -4579,6 +4746,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.89,
         "NotaMediana": 9.25
       },
       "ECT2205 - PRÁTICAS DE LEITURA E ESCRITA II": {
@@ -4594,6 +4762,7 @@
         ],
         "DesvioDeNotas": 0.04496912521077418,
         "MediaDeNotas": 9.103333333333333,
+        "MediaDeDesvios": 2.1033333333333335,
         "NotaMediana": 9.13
       },
       "ECT1531 - PRÁTICAS DE LEITURA E ESCRITA DE GÊNEROS DA ESFERA PROFISSIONAL": {
@@ -4607,11 +4776,13 @@
         ],
         "DesvioDeNotas": 0.01499999999999968,
         "MediaDeNotas": 9.815000000000001,
+        "MediaDeDesvios": 1.05,
         "NotaMediana": 9.83
       }
     },
     "DesvioDeNotas": 0.33026655900953705,
     "MediaDeNotas": 9.527999999999999,
+    "MediaDeDesvios": 1.522,
     "NotaMediana": 9.72
   },
   "JOSINALDO MENEZES DA SILVA": {
@@ -4655,6 +4826,7 @@
         ],
         "DesvioDeNotas": 0.021650635094610505,
         "MediaDeNotas": 9.7375,
+        "MediaDeDesvios": 1.6824999999999999,
         "NotaMediana": 9.74
       },
       "ECT2103 - CÁLCULO I": {
@@ -4674,6 +4846,7 @@
         ],
         "DesvioDeNotas": 0.041472882706655154,
         "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.6,
         "NotaMediana": 9.75
       },
       "ECT2415 - EQUAÇÕES DIFERENCIAIS": {
@@ -4685,11 +4858,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.63,
         "NotaMediana": 9.7
       }
     },
     "DesvioDeNotas": 0.03721558813185662,
     "MediaDeNotas": 9.745,
+    "MediaDeDesvios": 1.636,
     "NotaMediana": 9.74
   },
   "JOSSANA MARIA DE SOUZA FERREIRA": {
@@ -4853,11 +5028,13 @@
         ],
         "DesvioDeNotas": 0.3108702645839314,
         "MediaDeNotas": 9.434054054054059,
+        "MediaDeDesvios": 1.6805405405405403,
         "NotaMediana": 9.48
       }
     },
     "DesvioDeNotas": 0.3108702645839314,
     "MediaDeNotas": 9.434054054054059,
+    "MediaDeDesvios": 1.6805405405405403,
     "NotaMediana": 9.48
   },
   "JOÃO MODESTO DE MEDEIROS JÚNIOR": {
@@ -4909,6 +5086,7 @@
         ],
         "DesvioDeNotas": 0.20682117879946446,
         "MediaDeNotas": 9.345,
+        "MediaDeDesvios": 2.17375,
         "NotaMediana": 9.49
       },
       "ECT2502 - DIMENSÕES FILOSÓFICAS DA TECNOLOGIA MODERNA": {
@@ -4920,6 +5098,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 1.93,
         "NotaMediana": 9.24
       },
       "ECT1558 - ÉTICA EM CIÊNCIA E TECNOLOGIA": {
@@ -4931,11 +5110,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.36,
         "NotaMediana": 9.74
       }
     },
     "DesvioDeNotas": 0.22379454863780762,
     "MediaDeNotas": 9.373999999999999,
+    "MediaDeDesvios": 2.068,
     "NotaMediana": 9.49
   },
   "KALINE MELO DE SOUTO VIANA": {
@@ -5099,11 +5280,13 @@
         ],
         "DesvioDeNotas": 0.1880432475939201,
         "MediaDeNotas": 9.627297297297302,
+        "MediaDeDesvios": 1.5943243243243244,
         "NotaMediana": 9.64
       }
     },
     "DesvioDeNotas": 0.1880432475939201,
     "MediaDeNotas": 9.627297297297302,
+    "MediaDeDesvios": 1.5943243243243244,
     "NotaMediana": 9.64
   },
   "KELLEN CARLA LIMA": {
@@ -5143,11 +5326,13 @@
         ],
         "DesvioDeNotas": 0.2712727205026131,
         "MediaDeNotas": 9.406666666666668,
+        "MediaDeDesvios": 1.8116666666666668,
         "NotaMediana": 9.5
       }
     },
     "DesvioDeNotas": 0.2712727205026131,
     "MediaDeNotas": 9.406666666666668,
+    "MediaDeDesvios": 1.8116666666666668,
     "NotaMediana": 9.5
   },
   "KELLY KALIANE REGO DA PAZ RODRIGUES": {
@@ -5247,11 +5432,13 @@
         ],
         "DesvioDeNotas": 0.23612614331233114,
         "MediaDeNotas": 9.736666666666668,
+        "MediaDeDesvios": 1.3766666666666667,
         "NotaMediana": 9.79
       }
     },
     "DesvioDeNotas": 0.23612614331233114,
     "MediaDeNotas": 9.736666666666668,
+    "MediaDeDesvios": 1.3766666666666667,
     "NotaMediana": 9.79
   },
   "LAURO WANDERLEY MELLER": {
@@ -5333,6 +5520,7 @@
         ],
         "DesvioDeNotas": 0.1275673841544144,
         "MediaDeNotas": 9.69625,
+        "MediaDeDesvios": 1.6675000000000002,
         "NotaMediana": 9.65
       },
       "ECT2105 - PRÁTICAS DE LEITURA E ESCRITA I": {
@@ -5344,11 +5532,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.57,
         "NotaMediana": 9.63
       }
     },
     "DesvioDeNotas": 0.12473640026140305,
     "MediaDeNotas": 9.69235294117647,
+    "MediaDeDesvios": 1.6617647058823533,
     "NotaMediana": 9.65
   },
   "LEANDRO IBIAPINA BEVILAQUA": {
@@ -5404,11 +5594,13 @@
         ],
         "DesvioDeNotas": 0.2925474320516248,
         "MediaDeNotas": 9.406000000000002,
+        "MediaDeDesvios": 1.9779999999999998,
         "NotaMediana": 9.52
       }
     },
     "DesvioDeNotas": 0.2925474320516248,
     "MediaDeNotas": 9.406000000000002,
+    "MediaDeDesvios": 1.9779999999999998,
     "NotaMediana": 9.52
   },
   "LEO GOUVEA MEDEIROS": {
@@ -5442,6 +5634,7 @@
         ],
         "DesvioDeNotas": 0.18220867158288614,
         "MediaDeNotas": 8.86,
+        "MediaDeDesvios": 2.6075,
         "NotaMediana": 9
       },
       "ECT2415 - EQUAÇÕES DIFERENCIAIS": {
@@ -5453,11 +5646,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 0.59,
         "NotaMediana": 9.95
       }
     },
     "DesvioDeNotas": 0.46546321014662356,
     "MediaDeNotas": 9.078,
+    "MediaDeDesvios": 2.2039999999999997,
     "NotaMediana": 9
   },
   "LEONARDO MAFRA BEZERRIL": {
@@ -5505,6 +5700,7 @@
         ],
         "DesvioDeNotas": 0.12785625609340434,
         "MediaDeNotas": 9.438333333333334,
+        "MediaDeDesvios": 2.0066666666666664,
         "NotaMediana": 9.43
       },
       "ECT2201 - CÁLCULO II": {
@@ -5520,6 +5716,7 @@
         ],
         "DesvioDeNotas": 0.06976149845485446,
         "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.7133333333333332,
         "NotaMediana": 9.46
       },
       "ECT2202 - ÁLGEBRA LINEAR": {
@@ -5531,11 +5728,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 2.09,
         "NotaMediana": 9.29
       }
     },
     "DesvioDeNotas": 0.11722201158485561,
     "MediaDeNotas": 9.433,
+    "MediaDeDesvios": 1.927,
     "NotaMediana": 9.43
   },
   "LILIAN CAVALCANTE DA SILVA": {
@@ -5795,11 +5994,13 @@
         ],
         "DesvioDeNotas": 0.28143430388144985,
         "MediaDeNotas": 9.564754098360655,
+        "MediaDeDesvios": 1.6952459016393449,
         "NotaMediana": 9.59
       }
     },
     "DesvioDeNotas": 0.28143430388144985,
     "MediaDeNotas": 9.564754098360655,
+    "MediaDeDesvios": 1.6952459016393449,
     "NotaMediana": 9.59
   },
   "LORENA RAMOS CORREIA CARDOSO": {
@@ -5843,6 +6044,7 @@
         ],
         "DesvioDeNotas": 0.08196798155377519,
         "MediaDeNotas": 9.3625,
+        "MediaDeDesvios": 1.8599999999999999,
         "NotaMediana": 9.38
       },
       "ECT2301 - CÁLCULO III": {
@@ -5854,6 +6056,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 1.59,
         "NotaMediana": 9.35
       },
       "ECT2101 - PRÉ-CÁLCULO": {
@@ -5869,6 +6072,7 @@
         ],
         "DesvioDeNotas": 0.2898658693641292,
         "MediaDeNotas": 9.443333333333333,
+        "MediaDeDesvios": 1.6433333333333333,
         "NotaMediana": 9.44
       },
       "ECT2207 - PROBABILIDADE E ESTATÍSTICA": {
@@ -5880,6 +6084,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.72,
         "NotaMediana": 9.54
       },
       "ECT2103 - CÁLCULO I": {
@@ -5891,11 +6096,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.71,
         "NotaMediana": 9.15
       }
     },
     "DesvioDeNotas": 0.1927589167846718,
     "MediaDeNotas": 9.382,
+    "MediaDeDesvios": 1.739,
     "NotaMediana": 9.38
   },
   "LUCIANA DE FIGUEIREDO LOPES LUCENA": {
@@ -5945,6 +6152,7 @@
         ],
         "DesvioDeNotas": 0.28024042156254153,
         "MediaDeNotas": 9.117142857142857,
+        "MediaDeDesvios": 1.93,
         "NotaMediana": 9.22
       },
       "ECT1569 - TÓPICOS EM PRÁTICAS AMBIENTAIS": {
@@ -5956,6 +6164,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.14,
         "NotaMediana": 9.7
       },
       "ECT1562 - POLÍTICAS, PLANEJAMENTO E GESTÃO DO MEIO AMBIENTE": {
@@ -5967,6 +6176,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.79,
         "NotaMediana": 9.09
       },
       "ECT1560 - FUNDAMENTOS EM DESENVOLVIMENTO SUSTENTÁVEL": {
@@ -5978,11 +6188,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 1.31,
         "NotaMediana": 9.35
       }
     },
     "DesvioDeNotas": 0.2970252514517913,
     "MediaDeNotas": 9.196000000000002,
+    "MediaDeDesvios": 1.775,
     "NotaMediana": 9.26
   },
   "LUCIO MARASSI DE SOUZA ALMEIDA": {
@@ -6038,11 +6250,13 @@
         ],
         "DesvioDeNotas": 0.28018565273760887,
         "MediaDeNotas": 8.725999999999999,
+        "MediaDeDesvios": 2.382,
         "NotaMediana": 8.81
       }
     },
     "DesvioDeNotas": 0.28018565273760887,
     "MediaDeNotas": 8.725999999999999,
+    "MediaDeDesvios": 2.382,
     "NotaMediana": 8.81
   },
   "MARCELA APARECIDA CUCCI SILVESTRE": {
@@ -6112,6 +6326,7 @@
         ],
         "DesvioDeNotas": 0.08924846920927205,
         "MediaDeNotas": 9.727272727272727,
+        "MediaDeDesvios": 1.5109090909090908,
         "NotaMediana": 9.71
       },
       "ECT2532 - PRÁTICAS DE LEITURA E ESCRITA DE GÊNEROS ACADÊMICOS EM INGLÊS": {
@@ -6131,11 +6346,13 @@
         ],
         "DesvioDeNotas": 0.055353410012392266,
         "MediaDeNotas": 9.854,
+        "MediaDeDesvios": 1.2760000000000002,
         "NotaMediana": 9.86
       }
     },
     "DesvioDeNotas": 0.0994182295909559,
     "MediaDeNotas": 9.766875,
+    "MediaDeDesvios": 1.4375,
     "NotaMediana": 9.75
   },
   "MARCELO BORGES NOGUEIRA": {
@@ -6243,6 +6460,7 @@
         ],
         "DesvioDeNotas": 0.16759664782935368,
         "MediaDeNotas": 9.685,
+        "MediaDeDesvios": 1.5022727272727272,
         "NotaMediana": 9.74
       },
       "ECT2521 - PROJETOS COM MICROCONTROLADORES E MINICOMPUTADORES": {
@@ -6256,11 +6474,13 @@
         ],
         "DesvioDeNotas": 0.125,
         "MediaDeNotas": 9.725,
+        "MediaDeDesvios": 1.2149999999999999,
         "NotaMediana": 9.85
       }
     },
     "DesvioDeNotas": 0.16483998975437442,
     "MediaDeNotas": 9.688333333333333,
+    "MediaDeDesvios": 1.4783333333333335,
     "NotaMediana": 9.74
   },
   "MARCELO KIYOSHI KIAN NAKAEMA": {
@@ -6314,6 +6534,7 @@
         ],
         "DesvioDeNotas": 0.0764852927038916,
         "MediaDeNotas": 9.760000000000002,
+        "MediaDeDesvios": 1.7975,
         "NotaMediana": 9.81
       },
       "ECT2403 - FÍSICA EXPERIMENTAL II": {
@@ -6333,6 +6554,7 @@
         ],
         "DesvioDeNotas": 0.11412274094149723,
         "MediaDeNotas": 9.736,
+        "MediaDeDesvios": 1.3099999999999998,
         "NotaMediana": 9.73
       },
       "ECT2304 - INTRODUÇÃO À FÍSICA CLÁSSICA II": {
@@ -6350,6 +6572,7 @@
         ],
         "DesvioDeNotas": 0.09908960591303187,
         "MediaDeNotas": 9.682500000000001,
+        "MediaDeDesvios": 1.685,
         "NotaMediana": 9.68
       },
       "ECT2204 - INTRODUÇÃO À FÍSICA CLÁSSICA I": {
@@ -6363,11 +6586,13 @@
         ],
         "DesvioDeNotas": 0.004999999999999893,
         "MediaDeNotas": 9.465,
+        "MediaDeDesvios": 1.645,
         "NotaMediana": 9.47
       }
     },
     "DesvioDeNotas": 0.13151425778218867,
     "MediaDeNotas": 9.692000000000002,
+    "MediaDeDesvios": 1.5846666666666673,
     "NotaMediana": 9.68
   },
   "MARCONI CAMARA RODRIGUES": {
@@ -6509,6 +6734,7 @@
         ],
         "DesvioDeNotas": 0.5629608235826796,
         "MediaDeNotas": 8.965333333333335,
+        "MediaDeDesvios": 2.149333333333333,
         "NotaMediana": 9.16
       },
       "ECT2521 - PROJETOS COM MICROCONTROLADORES E MINICOMPUTADORES": {
@@ -6520,6 +6746,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.47,
         "NotaMediana": 9.82
       },
       "ECT2523 - PROTOTIPAGEM MECÂNICA RÁPIDA E DE CIRCUITOS": {
@@ -6533,11 +6760,13 @@
         ],
         "DesvioDeNotas": 0.27500000000000036,
         "MediaDeNotas": 9.695,
+        "MediaDeDesvios": 0.74,
         "NotaMediana": 9.97
       }
     },
     "DesvioDeNotas": 0.5849635622378592,
     "MediaDeNotas": 9.035454545454545,
+    "MediaDeDesvios": 2.043333333333333,
     "NotaMediana": 9.16
   },
   "NEEMIAS ALVES DE LIMA": {
@@ -6585,6 +6814,7 @@
         ],
         "DesvioDeNotas": 0.11524129275375009,
         "MediaDeNotas": 9.728333333333333,
+        "MediaDeDesvios": 1.6883333333333332,
         "NotaMediana": 9.75
       },
       "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III": {
@@ -6602,11 +6832,13 @@
         ],
         "DesvioDeNotas": 0.09310612224768043,
         "MediaDeNotas": 9.7525,
+        "MediaDeDesvios": 1.2974999999999999,
         "NotaMediana": 9.8
       }
     },
     "DesvioDeNotas": 0.10759182125050207,
     "MediaDeNotas": 9.738,
+    "MediaDeDesvios": 1.532,
     "NotaMediana": 9.75
   },
   "ORIVALDO VIEIRA DE SANTANA JUNIOR": {
@@ -6716,6 +6948,7 @@
         ],
         "DesvioDeNotas": 0.17934223251547957,
         "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.5450000000000002,
         "NotaMediana": 9.7
       },
       "ECT2702 - TÓPICOS AVANÇADOS EM INFORMÁTICA I": {
@@ -6727,6 +6960,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.37,
         "NotaMediana": 9.86
       },
       "ECT2523 - PROTOTIPAGEM MECÂNICA RÁPIDA E DE CIRCUITOS": {
@@ -6740,11 +6974,13 @@
         ],
         "DesvioDeNotas": 0.08000000000000007,
         "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 0.655,
         "NotaMediana": 9.99
       }
     },
     "DesvioDeNotas": 0.1847965367640854,
     "MediaDeNotas": 9.696800000000001,
+    "MediaDeDesvios": 1.4668000000000003,
     "NotaMediana": 9.73
   },
   "PATRICIA KAORI SOARES": {
@@ -6848,11 +7084,13 @@
         ],
         "DesvioDeNotas": 0.16660501614584933,
         "MediaDeNotas": 9.588636363636363,
+        "MediaDeDesvios": 1.7672727272727273,
         "NotaMediana": 9.57
       }
     },
     "DesvioDeNotas": 0.16660501614584933,
     "MediaDeNotas": 9.588636363636363,
+    "MediaDeDesvios": 1.7672727272727273,
     "NotaMediana": 9.57
   },
   "PAULO DANTAS SESION JUNIOR": {
@@ -6888,6 +7126,7 @@
         ],
         "DesvioDeNotas": 0.5169998925424347,
         "MediaDeNotas": 8.003333333333334,
+        "MediaDeDesvios": 2.69,
         "NotaMediana": 7.71
       },
       "ECT2415 - EQUAÇÕES DIFERENCIAIS": {
@@ -6899,6 +7138,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.47,
         "NotaMediana": 9.49
       },
       "ECT2201 - CÁLCULO II": {
@@ -6910,6 +7150,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 8.57,
+        "MediaDeDesvios": 1.89,
         "NotaMediana": 8.57
       },
       "ECT2103 - CÁLCULO I": {
@@ -6921,6 +7162,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 7.77,
+        "MediaDeDesvios": 2.44,
         "NotaMediana": 7.77
       },
       "ECT2207 - PROBABILIDADE E ESTATÍSTICA": {
@@ -6932,11 +7174,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 8.42,
+        "MediaDeDesvios": 2.12,
         "NotaMediana": 8.42
       }
     },
     "DesvioDeNotas": 0.6376903477330019,
     "MediaDeNotas": 8.322857142857144,
+    "MediaDeDesvios": 2.2842857142857143,
     "NotaMediana": 8.42
   },
   "PAULO HENRIQUE SOUSA DE OLIVEIRA": {
@@ -6974,6 +7218,7 @@
         ],
         "DesvioDeNotas": 0.16977108770995758,
         "MediaDeNotas": 8.966666666666667,
+        "MediaDeDesvios": 2.2066666666666666,
         "NotaMediana": 9.05
       },
       "ECT2102 - VETORES E GEOMETRIA ANALÍTICA": {
@@ -6987,6 +7232,7 @@
         ],
         "DesvioDeNotas": 0.7299999999999995,
         "MediaDeNotas": 7.64,
+        "MediaDeDesvios": 2.835,
         "NotaMediana": 8.37
       },
       "ECT2103 - CÁLCULO I": {
@@ -6998,6 +7244,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.12,
+        "MediaDeDesvios": 1.74,
         "NotaMediana": 9.12
       },
       "ECT2301 - CÁLCULO III": {
@@ -7011,11 +7258,13 @@
         ],
         "DesvioDeNotas": 0.21499999999999986,
         "MediaDeNotas": 9.355,
+        "MediaDeDesvios": 1.65,
         "NotaMediana": 9.57
       }
     },
     "DesvioDeNotas": 0.7680077717705727,
     "MediaDeNotas": 8.75125,
+    "MediaDeDesvios": 2.1662500000000002,
     "NotaMediana": 9.12
   },
   "PEDRO DA CUNHA FERREIRA": {
@@ -7095,6 +7344,7 @@
         ],
         "DesvioDeNotas": 0.0885061203156785,
         "MediaDeNotas": 9.719999999999999,
+        "MediaDeDesvios": 1.484166666666667,
         "NotaMediana": 9.71
       },
       "ECT2204 - INTRODUÇÃO À FÍSICA CLÁSSICA I": {
@@ -7110,6 +7360,7 @@
         ],
         "DesvioDeNotas": 0.06164414002968989,
         "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.82,
         "NotaMediana": 9.59
       },
       "ECT2307 - FÍSICA EXPERIMENTAL I": {
@@ -7129,11 +7380,13 @@
         ],
         "DesvioDeNotas": 0.12970736293672788,
         "MediaDeNotas": 9.756,
+        "MediaDeDesvios": 1.268,
         "NotaMediana": 9.78
       }
     },
     "DesvioDeNotas": 0.10899082530194934,
     "MediaDeNotas": 9.711,
+    "MediaDeDesvios": 1.4805,
     "NotaMediana": 9.71
   },
   "PIERRE NIAU AKMANSOY": {
@@ -7157,6 +7410,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 2.09,
         "NotaMediana": 9.51
       },
       "ECT2101 - PRÉ-CÁLCULO": {
@@ -7170,11 +7424,13 @@
         ],
         "DesvioDeNotas": 0.03999999999999915,
         "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 2.08,
         "NotaMediana": 9.54
       }
     },
     "DesvioDeNotas": 0.03299831645537152,
     "MediaDeNotas": 9.503333333333332,
+    "MediaDeDesvios": 2.083333333333333,
     "NotaMediana": 9.51
   },
   "RAFAEL CHAVES SOUTO ARAUJO": {
@@ -7202,6 +7458,7 @@
         ],
         "DesvioDeNotas": 0.1850000000000005,
         "MediaDeNotas": 9.465,
+        "MediaDeDesvios": 1.96,
         "NotaMediana": 9.65
       },
       "FIS0625 - FISICA QUANTICA II": {
@@ -7213,6 +7470,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 2.31,
         "NotaMediana": 9.32
       },
       "ECT2304 - INTRODUÇÃO À FÍSICA CLÁSSICA II": {
@@ -7224,11 +7482,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 2.2,
         "NotaMediana": 9.04
       }
     },
     "DesvioDeNotas": 0.21729875747458888,
     "MediaDeNotas": 9.3225,
+    "MediaDeDesvios": 2.1075,
     "NotaMediana": 9.32
   },
   "RAISSA TAVARES VIEIRA QUEIROGA": {
@@ -7324,6 +7584,7 @@
         ],
         "DesvioDeNotas": 0.2512250974460491,
         "MediaDeNotas": 9.583636363636362,
+        "MediaDeDesvios": 1.7699999999999998,
         "NotaMediana": 9.64
       },
       "ECT2303 - LINGUAGEM DE PROGRAMAÇÃO": {
@@ -7369,11 +7630,13 @@
         ],
         "DesvioDeNotas": 0.1919362033927927,
         "MediaDeNotas": 9.722222222222221,
+        "MediaDeDesvios": 1.5811111111111111,
         "NotaMediana": 9.81
       }
     },
     "DesvioDeNotas": 0.2265556604917042,
     "MediaDeNotas": 9.669655172413794,
+    "MediaDeDesvios": 1.652758620689655,
     "NotaMediana": 9.76
   },
   "REX ANTONIO DA COSTA MEDEIROS": {
@@ -7481,11 +7744,13 @@
         ],
         "DesvioDeNotas": 0.29495570139344496,
         "MediaDeNotas": 9.494782608695653,
+        "MediaDeDesvios": 1.5591304347826087,
         "NotaMediana": 9.54
       }
     },
     "DesvioDeNotas": 0.29495570139344496,
     "MediaDeNotas": 9.494782608695653,
+    "MediaDeDesvios": 1.5591304347826087,
     "NotaMediana": 9.54
   },
   "RICARDO WAGNER DE ARAUJO": {
@@ -7531,6 +7796,7 @@
         ],
         "DesvioDeNotas": 0.2832242927434014,
         "MediaDeNotas": 8.727999999999998,
+        "MediaDeDesvios": 2.626,
         "NotaMediana": 8.66
       },
       "ECT2101 - PRÉ-CÁLCULO": {
@@ -7550,11 +7816,13 @@
         ],
         "DesvioDeNotas": 0.3847388724836624,
         "MediaDeNotas": 9.204,
+        "MediaDeDesvios": 1.9420000000000002,
         "NotaMediana": 9.37
       }
     },
     "DesvioDeNotas": 0.4132360100475271,
     "MediaDeNotas": 8.966,
+    "MediaDeDesvios": 2.2840000000000003,
     "NotaMediana": 8.8
   },
   "RODRIGO BARROS": {
@@ -7610,11 +7878,13 @@
         ],
         "DesvioDeNotas": 0.12862736878285277,
         "MediaDeNotas": 9.575,
+        "MediaDeDesvios": 1.6060000000000003,
         "NotaMediana": 9.6
       }
     },
     "DesvioDeNotas": 0.12862736878285277,
     "MediaDeNotas": 9.575,
+    "MediaDeDesvios": 1.6060000000000003,
     "NotaMediana": 9.6
   },
   "ROMULO DE OLIVEIRA NUNES": {
@@ -7792,6 +8062,7 @@
         ],
         "DesvioDeNotas": 0.2836977925539781,
         "MediaDeNotas": 9.278250000000002,
+        "MediaDeDesvios": 1.8032500000000002,
         "NotaMediana": 9.33
       },
       "ECT2303 - LINGUAGEM DE PROGRAMAÇÃO": {
@@ -7803,11 +8074,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.29,
         "NotaMediana": 9.76
       }
     },
     "DesvioDeNotas": 0.2899032639330305,
     "MediaDeNotas": 9.290000000000001,
+    "MediaDeDesvios": 1.7907317073170732,
     "NotaMediana": 9.33
   },
   "RONAI MACHADO LISBOA": {
@@ -7881,6 +8154,7 @@
         ],
         "DesvioDeNotas": 0.11384095622230811,
         "MediaDeNotas": 9.76692307692308,
+        "MediaDeDesvios": 1.3438461538461541,
         "NotaMediana": 9.76
       },
       "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III": {
@@ -7896,11 +8170,13 @@
         ],
         "DesvioDeNotas": 0.11518101695447307,
         "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.7000000000000002,
         "NotaMediana": 9.76
       }
     },
     "DesvioDeNotas": 0.11457632554328138,
     "MediaDeNotas": 9.761875,
+    "MediaDeDesvios": 1.4106249999999998,
     "NotaMediana": 9.76
   },
   "RONALDO CARLOTTO BATISTA": {
@@ -7934,6 +8210,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 8.32,
+        "MediaDeDesvios": 2.75,
         "NotaMediana": 8.32
       },
       "ECT2207 - PROBABILIDADE E ESTATÍSTICA": {
@@ -7949,6 +8226,7 @@
         ],
         "DesvioDeNotas": 0.08730533902472595,
         "MediaDeNotas": 8.493333333333334,
+        "MediaDeDesvios": 2.606666666666667,
         "NotaMediana": 8.55
       },
       "ECT2102 - VETORES E GEOMETRIA ANALÍTICA": {
@@ -7962,6 +8240,7 @@
         ],
         "DesvioDeNotas": 0.41999999999999993,
         "MediaDeNotas": 7.93,
+        "MediaDeDesvios": 2.41,
         "NotaMediana": 8.35
       },
       "ECT2101 - PRÉ-CÁLCULO": {
@@ -7975,11 +8254,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 8.3,
+        "MediaDeDesvios": 2.06,
         "NotaMediana": 8.3
       }
     },
     "DesvioDeNotas": 0.30812943708772794,
     "MediaDeNotas": 8.2825,
+    "MediaDeDesvios": 2.43875,
     "NotaMediana": 8.35
   },
   "RUMMENIGGE RUDSON DANTAS": {
@@ -8083,6 +8364,7 @@
         ],
         "DesvioDeNotas": 0.32257208496706574,
         "MediaDeNotas": 9.3315,
+        "MediaDeDesvios": 1.672,
         "NotaMediana": 9.36
       },
       "ECT2701 - INTERNET DAS COISAS": {
@@ -8100,11 +8382,13 @@
         ],
         "DesvioDeNotas": 0.3883538978818158,
         "MediaDeNotas": 9.2325,
+        "MediaDeDesvios": 1.885,
         "NotaMediana": 9.61
       }
     },
     "DesvioDeNotas": 0.3364644607285191,
     "MediaDeNotas": 9.315000000000003,
+    "MediaDeDesvios": 1.7075000000000002,
     "NotaMediana": 9.36
   },
   "SALETE MARTINS ALVES": {
@@ -8212,11 +8496,13 @@
         ],
         "DesvioDeNotas": 0.2078561011617657,
         "MediaDeNotas": 9.509565217391303,
+        "MediaDeDesvios": 1.7878260869565217,
         "NotaMediana": 9.57
       }
     },
     "DesvioDeNotas": 0.2078561011617657,
     "MediaDeNotas": 9.509565217391303,
+    "MediaDeDesvios": 1.7878260869565217,
     "NotaMediana": 9.57
   },
   "SEBASTIAO LUIZ DE OLIVEIRA": {
@@ -8274,6 +8560,7 @@
         ],
         "DesvioDeNotas": 0.16747212777130077,
         "MediaDeNotas": 9.554444444444446,
+        "MediaDeDesvios": 1.6755555555555555,
         "NotaMediana": 9.54
       },
       "ECT2522 - TÓPICOS ESPECIAIS EM DESENVOLVIMENTO SUSTENTÁVEL": {
@@ -8289,11 +8576,13 @@
         ],
         "DesvioDeNotas": 0.08806563209081916,
         "MediaDeNotas": 9.533333333333333,
+        "MediaDeDesvios": 1.4466666666666665,
         "NotaMediana": 9.58
       }
     },
     "DesvioDeNotas": 0.15184741976368535,
     "MediaDeNotas": 9.549166666666666,
+    "MediaDeDesvios": 1.6183333333333334,
     "NotaMediana": 9.58
   },
   "SERGIO QUEIROZ DE MEDEIROS": {
@@ -8379,6 +8668,7 @@
         ],
         "DesvioDeNotas": 0.4754237419134639,
         "MediaDeNotas": 9.188125000000001,
+        "MediaDeDesvios": 1.9806249999999999,
         "NotaMediana": 9.39
       },
       "DIM0410 - TREINAMENTO PARA COMPETICOES DE PROGRAMACAO": {
@@ -8394,11 +8684,13 @@
         ],
         "DesvioDeNotas": 0.11264496832477179,
         "MediaDeNotas": 9.896666666666667,
+        "MediaDeDesvios": 1.3366666666666667,
         "NotaMediana": 9.74
       }
     },
     "DesvioDeNotas": 0.5090134937721251,
     "MediaDeNotas": 9.299999999999999,
+    "MediaDeDesvios": 1.8789473684210527,
     "NotaMediana": 9.39
   },
   "SERGIO RODRIGUEZ PEREZ": {
@@ -8438,6 +8730,7 @@
         ],
         "DesvioDeNotas": 0.03000000000000025,
         "MediaDeNotas": 9.440000000000001,
+        "MediaDeDesvios": 2.05,
         "NotaMediana": 9.47
       },
       "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III": {
@@ -8455,6 +8748,7 @@
         ],
         "DesvioDeNotas": 0.11366067921669287,
         "MediaDeNotas": 9.642500000000002,
+        "MediaDeDesvios": 1.4774999999999998,
         "NotaMediana": 9.71
       },
       "ECT2304 - INTRODUÇÃO À FÍSICA CLÁSSICA II": {
@@ -8472,11 +8766,13 @@
         ],
         "DesvioDeNotas": 0.06670832032063172,
         "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.5050000000000001,
         "NotaMediana": 9.72
       }
     },
     "DesvioDeNotas": 0.12784756548327386,
     "MediaDeNotas": 9.625,
+    "MediaDeDesvios": 1.6030000000000002,
     "NotaMediana": 9.65
   },
   "SIMONE BATISTA": {
@@ -8522,6 +8818,7 @@
         ],
         "DesvioDeNotas": 0.06523802572120029,
         "MediaDeNotas": 9.652000000000001,
+        "MediaDeDesvios": 1.818,
         "NotaMediana": 9.67
       },
       "ECT2301 - CÁLCULO III": {
@@ -8535,6 +8832,7 @@
         ],
         "DesvioDeNotas": 0.019999999999999574,
         "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.83,
         "NotaMediana": 9.61
       },
       "ECT2101 - PRÉ-CÁLCULO": {
@@ -8546,6 +8844,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.45,
         "NotaMediana": 9.57
       },
       "ECT2201 - CÁLCULO II": {
@@ -8559,11 +8858,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.335,
         "NotaMediana": 9.7
       }
     },
     "DesvioDeNotas": 0.0631585306985523,
     "MediaDeNotas": 9.641,
+    "MediaDeDesvios": 1.687,
     "NotaMediana": 9.67
   },
   "TARCIRO NORTARSON CHAVES MENDES": {
@@ -8633,6 +8934,7 @@
         ],
         "DesvioDeNotas": 0.4659518334668412,
         "MediaDeNotas": 9.273333333333333,
+        "MediaDeDesvios": 1.902222222222222,
         "NotaMediana": 9.43
       },
       "ECT2403 - FÍSICA EXPERIMENTAL II": {
@@ -8658,6 +8960,7 @@
         ],
         "DesvioDeNotas": 0.15032776689620625,
         "MediaDeNotas": 9.436250000000001,
+        "MediaDeDesvios": 1.7825000000000002,
         "NotaMediana": 9.37
       },
       "ECT2304 - INTRODUÇÃO À FÍSICA CLÁSSICA II": {
@@ -8669,11 +8972,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.57,
         "NotaMediana": 9.66
       }
     },
     "DesvioDeNotas": 0.36039801386115,
     "MediaDeNotas": 9.367222222222223,
+    "MediaDeDesvios": 1.8305555555555557,
     "NotaMediana": 9.43
   },
   "TATIANA DE CAMPOS BICUDO": {
@@ -8785,11 +9090,13 @@
         ],
         "DesvioDeNotas": 0.35918865941946937,
         "MediaDeNotas": 9.197916666666666,
+        "MediaDeDesvios": 1.9745833333333331,
         "NotaMediana": 9.32
       }
     },
     "DesvioDeNotas": 0.35918865941946937,
     "MediaDeNotas": 9.197916666666666,
+    "MediaDeDesvios": 1.9745833333333331,
     "NotaMediana": 9.32
   },
   "THIAGO ISAIAS NOBREGA DE LUCENA": {
@@ -8855,6 +9162,7 @@
         ],
         "DesvioDeNotas": 0.21905478766737801,
         "MediaDeNotas": 9.385,
+        "MediaDeDesvios": 1.998,
         "NotaMediana": 9.45
       },
       "ECT2503 - POLÍTICA CIENTÍFICA E TECNOLÓGICA": {
@@ -8872,6 +9180,7 @@
         ],
         "DesvioDeNotas": 0.1518840017908405,
         "MediaDeNotas": 9.7325,
+        "MediaDeDesvios": 1.1725,
         "NotaMediana": 9.82
       },
       "ECT2607 - TECNOLOGIAS SOCIAIS": {
@@ -8883,11 +9192,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.43,
         "NotaMediana": 9.77
       }
     },
     "DesvioDeNotas": 0.25733678754158384,
     "MediaDeNotas": 9.503333333333334,
+    "MediaDeDesvios": 1.7399999999999998,
     "NotaMediana": 9.5
   },
   "VERA LUCIA LOPES DE CASTRO": {
@@ -8945,6 +9256,7 @@
         ],
         "DesvioDeNotas": 0.11831499271013797,
         "MediaDeNotas": 9.65625,
+        "MediaDeDesvios": 1.6049999999999998,
         "NotaMediana": 9.64
       },
       "CIV1804 - ÁGUAS SUBTERRÂNEAS": {
@@ -8958,6 +9270,7 @@
         ],
         "DesvioDeNotas": 0.27000000000000046,
         "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.3250000000000002,
         "NotaMediana": 9.81
       },
       "ECT1569 - TÓPICOS EM PRÁTICAS AMBIENTAIS": {
@@ -8969,6 +9282,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.34,
         "NotaMediana": 9.8
       },
       "ECT1562 - POLÍTICAS, PLANEJAMENTO E GESTÃO DO MEIO AMBIENTE": {
@@ -8980,6 +9294,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.31,
         "NotaMediana": 9.91
       },
       "ECT1560 - FUNDAMENTOS EM DESENVOLVIMENTO SUSTENTÁVEL": {
@@ -8991,11 +9306,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.12,
         "NotaMediana": 9.64
       }
     },
     "DesvioDeNotas": 0.16834734450643088,
     "MediaDeNotas": 9.667692307692308,
+    "MediaDeDesvios": 1.481538461538462,
     "NotaMediana": 9.64
   },
   "ZULMARA VIRGINIA DE CARVALHO": {
@@ -9047,6 +9364,7 @@
         ],
         "DesvioDeNotas": 0.266958174002346,
         "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.4166666666666667,
         "NotaMediana": 9.84
       },
       "ECT2206 - GESTÃO E ECONOMIA DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO": {
@@ -9074,6 +9392,7 @@
         ],
         "DesvioDeNotas": 0.23862776426171212,
         "MediaDeNotas": 9.24111111111111,
+        "MediaDeDesvios": 2.037777777777778,
         "NotaMediana": 9.29
       },
       "ECT1550 - POLÍTICAS DE GESTÃO EM CIÊNCIA, TECNOLOGIA E INOVAÇÃO": {
@@ -9087,6 +9406,7 @@
         ],
         "DesvioDeNotas": 0.08000000000000007,
         "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.37,
         "NotaMediana": 9.48
       },
       "ECT1552 - INSTITUIÇÕES E SERVIÇOS TECNOLÓGICOS": {
@@ -9098,11 +9418,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.45,
         "NotaMediana": 9.64
       }
     },
     "DesvioDeNotas": 0.29749771240950573,
     "MediaDeNotas": 9.384666666666666,
+    "MediaDeDesvios": 1.7853333333333332,
     "NotaMediana": 9.35
   },
   "DOUGLAS DO NASCIMENTO SILVA": {
@@ -9140,6 +9462,7 @@
         ],
         "DesvioDeNotas": 0.20500000000000007,
         "MediaDeNotas": 9.685,
+        "MediaDeDesvios": 1.4300000000000002,
         "NotaMediana": 9.89
       },
       "ECT2413 - MECÂNICA DOS FLUIDOS": {
@@ -9161,6 +9484,7 @@
         ],
         "DesvioDeNotas": 0.09882644720249047,
         "MediaDeNotas": 9.750000000000002,
+        "MediaDeDesvios": 1.415,
         "NotaMediana": 9.77
       },
       "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III": {
@@ -9172,11 +9496,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 2.14,
         "NotaMediana": 8.84
       }
     },
     "DesvioDeNotas": 0.30894483905747144,
     "MediaDeNotas": 9.634444444444446,
+    "MediaDeDesvios": 1.498888888888889,
     "NotaMediana": 9.7
   },
   "EINSTEIN GOMES DOS SANTOS": {
@@ -9332,6 +9658,7 @@
         ],
         "DesvioDeNotas": 0.32650671149772914,
         "MediaDeNotas": 9.379285714285716,
+        "MediaDeDesvios": 1.8053571428571424,
         "NotaMediana": 9.47
       },
       "ECT2203 - LÓGICA DE PROGRAMAÇÃO": {
@@ -9369,11 +9696,13 @@
         ],
         "DesvioDeNotas": 0.4565218996915254,
         "MediaDeNotas": 9.351428571428572,
+        "MediaDeDesvios": 1.5092857142857146,
         "NotaMediana": 9.56
       }
     },
     "DesvioDeNotas": 0.37511902872859676,
     "MediaDeNotas": 9.370000000000005,
+    "MediaDeDesvios": 1.7066666666666659,
     "NotaMediana": 9.47
   },
   "FABIO SPEROTTO BEMFICA": {
@@ -9409,6 +9738,7 @@
         ],
         "DesvioDeNotas": 0.040000000000000036,
         "MediaDeNotas": 8.809999999999999,
+        "MediaDeDesvios": 2.505,
         "NotaMediana": 8.85
       },
       "ECT2202 - ÁLGEBRA LINEAR": {
@@ -9426,6 +9756,7 @@
         ],
         "DesvioDeNotas": 0.052201532544552745,
         "MediaDeNotas": 9.254999999999999,
+        "MediaDeDesvios": 1.98,
         "NotaMediana": 9.29
       },
       "ECT2301 - CÁLCULO III": {
@@ -9437,6 +9768,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.67,
         "NotaMediana": 9.36
       },
       "ECT2102 - VETORES E GEOMETRIA ANALÍTICA": {
@@ -9448,11 +9780,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.52,
         "NotaMediana": 9.57
       }
     },
     "DesvioDeNotas": 0.24819032515390296,
     "MediaDeNotas": 9.19625,
+    "MediaDeDesvios": 2.015,
     "NotaMediana": 9.29
   },
   "FLAVIO BEZERRA COSTA": {
@@ -9504,11 +9838,13 @@
         ],
         "DesvioDeNotas": 0.44370772272958775,
         "MediaDeNotas": 8.838888888888887,
+        "MediaDeDesvios": 2.09,
         "NotaMediana": 9
       }
     },
     "DesvioDeNotas": 0.44370772272958775,
     "MediaDeNotas": 8.838888888888887,
+    "MediaDeDesvios": 2.09,
     "NotaMediana": 9
   },
   "MANOEL SILVA DE VASCONCELOS": {
@@ -9540,6 +9876,7 @@
         ],
         "DesvioDeNotas": 0.07000000000000028,
         "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.92,
         "NotaMediana": 9.75
       },
       "ECT2204 - INTRODUÇÃO À FÍSICA CLÁSSICA I": {
@@ -9551,6 +9888,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 8.48,
+        "MediaDeDesvios": 2.33,
         "NotaMediana": 8.48
       },
       "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III": {
@@ -9566,11 +9904,13 @@
         ],
         "DesvioDeNotas": 0.024494897427831258,
         "MediaDeNotas": 9.159999999999998,
+        "MediaDeDesvios": 1.6533333333333333,
         "NotaMediana": 9.16
       }
     },
     "DesvioDeNotas": 0.40685787854401084,
     "MediaDeNotas": 9.22,
+    "MediaDeDesvios": 1.8549999999999998,
     "NotaMediana": 9.19
   },
   "RAQUEL MENEZES BEZERRA SAMPAIO": {
@@ -9606,11 +9946,13 @@
         ],
         "DesvioDeNotas": 0.11989995829857468,
         "MediaDeNotas": 9.408,
+        "MediaDeDesvios": 1.8700000000000003,
         "NotaMediana": 9.44
       }
     },
     "DesvioDeNotas": 0.11989995829857468,
     "MediaDeNotas": 9.408,
+    "MediaDeDesvios": 1.8700000000000003,
     "NotaMediana": 9.44
   },
   "CARLA GIOVANA CABRAL": {
@@ -9644,6 +9986,7 @@
         ],
         "DesvioDeNotas": 0.20981473309141635,
         "MediaDeNotas": 9.603333333333333,
+        "MediaDeDesvios": 0.9400000000000001,
         "NotaMediana": 9.46
       },
       "ECT2106 - CIÊNCIA, TECNOLOGIA E SOCIEDADE": {
@@ -9657,6 +10000,7 @@
         ],
         "DesvioDeNotas": 0.07000000000000028,
         "MediaDeNotas": 8.67,
+        "MediaDeDesvios": 2.125,
         "NotaMediana": 8.74
       },
       "ECT2501 - COMUNICAÇÃO PÚBLICA DA CIÊNCIA E DA TECNOLOGIA": {
@@ -9668,11 +10012,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 0.93,
         "NotaMediana": 9.65
       }
     },
     "DesvioDeNotas": 0.47155770237232564,
     "MediaDeNotas": 9.299999999999999,
+    "MediaDeDesvios": 1.3333333333333333,
     "NotaMediana": 9.46
   },
   "IVANDSON PRAEIRO DE SOUSA": {
@@ -9754,6 +10100,7 @@
         ],
         "DesvioDeNotas": 0.17660714211103712,
         "MediaDeNotas": 9.740909090909089,
+        "MediaDeDesvios": 1.3299999999999998,
         "NotaMediana": 9.75
       },
       "ECT2403 - FÍSICA EXPERIMENTAL II": {
@@ -9779,6 +10126,7 @@
         ],
         "DesvioDeNotas": 0.14836083546542894,
         "MediaDeNotas": 9.69875,
+        "MediaDeDesvios": 1.3050000000000002,
         "NotaMediana": 9.74
       },
       "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III": {
@@ -9794,11 +10142,13 @@
         ],
         "DesvioDeNotas": 0.09416297927883632,
         "MediaDeNotas": 9.590000000000002,
+        "MediaDeDesvios": 1.5466666666666666,
         "NotaMediana": 9.6
       }
     },
     "DesvioDeNotas": 0.1651376836020614,
     "MediaDeNotas": 9.705000000000002,
+    "MediaDeDesvios": 1.3504545454545454,
     "NotaMediana": 9.75
   },
   "JOSE ANTONIO GOMES DE ALBUQUERQUE CESAR": {
@@ -9858,6 +10208,7 @@
         ],
         "DesvioDeNotas": 0.2630133076481117,
         "MediaDeNotas": 9.302,
+        "MediaDeDesvios": 1.861,
         "NotaMediana": 9.47
       },
       "ECT1558 - ÉTICA EM CIÊNCIA E TECNOLOGIA": {
@@ -9869,6 +10220,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.49,
         "NotaMediana": 9.45
       },
       "ECT2502 - DIMENSÕES FILOSÓFICAS DA TECNOLOGIA MODERNA": {
@@ -9880,11 +10232,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 0.96,
         "NotaMediana": 9.77
       }
     },
     "DesvioDeNotas": 0.2740235188608618,
     "MediaDeNotas": 9.353333333333332,
+    "MediaDeDesvios": 1.755,
     "NotaMediana": 9.47
   },
   "RODRIGO SILVA TAVARES": {
@@ -9932,6 +10286,7 @@
         ],
         "DesvioDeNotas": 0.45401159744244957,
         "MediaDeNotas": 9.098571428571429,
+        "MediaDeDesvios": 1.95,
         "NotaMediana": 9.11
       },
       "ECT2412 - MECÂNICA DOS SÓLIDOS": {
@@ -9945,11 +10300,13 @@
         ],
         "DesvioDeNotas": 0.29499999999999993,
         "MediaDeNotas": 9.265,
+        "MediaDeDesvios": 1.805,
         "NotaMediana": 9.56
       }
     },
     "DesvioDeNotas": 0.4294728321794603,
     "MediaDeNotas": 9.135555555555555,
+    "MediaDeDesvios": 1.917777777777778,
     "NotaMediana": 9.11
   },
   "SANDRO BRUNO DO NASCIMENTO LOPES": {
@@ -10019,6 +10376,7 @@
         ],
         "DesvioDeNotas": 0.10650821564555456,
         "MediaDeNotas": 9.766,
+        "MediaDeDesvios": 1.1439999999999997,
         "NotaMediana": 9.75
       },
       "ECT2303 - LINGUAGEM DE PROGRAMAÇÃO": {
@@ -10062,11 +10420,13 @@
         ],
         "DesvioDeNotas": 0.10289242543099414,
         "MediaDeNotas": 9.831176470588234,
+        "MediaDeDesvios": 1.3511764705882352,
         "NotaMediana": 9.87
       }
     },
     "DesvioDeNotas": 0.1072611704098271,
     "MediaDeNotas": 9.816363636363635,
+    "MediaDeDesvios": 1.304090909090909,
     "NotaMediana": 9.84
   },
   "EDUARDO JOSE SANDE E OLIVEIRA DOS SANTOS SOUZA": {
@@ -10100,6 +10460,7 @@
         ],
         "DesvioDeNotas": 0.0699999999999994,
         "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.5899999999999999,
         "NotaMediana": 9.36
       },
       "ECT2302 - METODOLOGIA CIENTÍFICA E TECNOLÓGICA": {
@@ -10115,6 +10476,7 @@
         ],
         "DesvioDeNotas": 0.07039570693980951,
         "MediaDeNotas": 9.073333333333334,
+        "MediaDeDesvios": 1.7133333333333336,
         "NotaMediana": 9.09
       },
       "ECT2601 - PRÁTICAS DE STARTUP TECNOLÓGICA 1": {
@@ -10128,11 +10490,13 @@
         ],
         "DesvioDeNotas": 0.09499999999999975,
         "MediaDeNotas": 9.585,
+        "MediaDeDesvios": 1.18,
         "NotaMediana": 9.68
       }
     },
     "DesvioDeNotas": 0.22585890484539034,
     "MediaDeNotas": 9.281428571428572,
+    "MediaDeDesvios": 1.5257142857142856,
     "NotaMediana": 9.22
   },
   "HUDSON ALVES DOS SANTOS": {
@@ -10164,11 +10528,13 @@
         ],
         "DesvioDeNotas": 0.16498105951896427,
         "MediaDeNotas": 9.1125,
+        "MediaDeDesvios": 1.7075,
         "NotaMediana": 9.07
       }
     },
     "DesvioDeNotas": 0.16498105951896427,
     "MediaDeNotas": 9.1125,
+    "MediaDeDesvios": 1.7075,
     "NotaMediana": 9.07
   },
   "NYLADIH THEODORY CLEMENTE MATTOS DE SOUZA": {
@@ -10198,6 +10564,7 @@
         ],
         "DesvioDeNotas": 0.3403266404826727,
         "MediaDeNotas": 9.153333333333334,
+        "MediaDeDesvios": 1.6533333333333333,
         "NotaMediana": 9.24
       },
       "ECT2204 - INTRODUÇÃO À FÍSICA CLÁSSICA I": {
@@ -10209,11 +10576,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.54,
         "NotaMediana": 9.47
       }
     },
     "DesvioDeNotas": 0.3250673007240196,
     "MediaDeNotas": 9.2325,
+    "MediaDeDesvios": 1.625,
     "NotaMediana": 9.47
   },
   "ROBERTO CARLOS MORO FILHO": {
@@ -10245,11 +10614,13 @@
         ],
         "DesvioDeNotas": 0.04949747468305808,
         "MediaDeNotas": 9.379999999999999,
+        "MediaDeDesvios": 1.795,
         "NotaMediana": 9.41
       }
     },
     "DesvioDeNotas": 0.04949747468305808,
     "MediaDeNotas": 9.379999999999999,
+    "MediaDeDesvios": 1.795,
     "NotaMediana": 9.41
   },
   "SERGIO LUIZ EDUARDO FERREIRA DA SILVA": {
@@ -10283,6 +10654,7 @@
         ],
         "DesvioDeNotas": 0.08993825042154717,
         "MediaDeNotas": 9.613333333333332,
+        "MediaDeDesvios": 1.61,
         "NotaMediana": 9.62
       },
       "ECT2101 - PRÉ-CÁLCULO": {
@@ -10294,6 +10666,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.52,
         "NotaMediana": 9.41
       },
       "ECT2102 - VETORES E GEOMETRIA ANALÍTICA": {
@@ -10305,6 +10678,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.43,
         "NotaMediana": 9.78
       },
       "ECT2202 - ÁLGEBRA LINEAR": {
@@ -10316,11 +10690,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.31,
         "NotaMediana": 9.75
       }
     },
     "DesvioDeNotas": 0.1356465996625053,
     "MediaDeNotas": 9.63,
+    "MediaDeDesvios": 1.515,
     "NotaMediana": 9.72
   },
   "TATIANE XAVIER DA SILVA": {
@@ -10358,6 +10734,7 @@
         ],
         "DesvioDeNotas": 0.05906681715556408,
         "MediaDeNotas": 9.256666666666668,
+        "MediaDeDesvios": 1.7366666666666666,
         "NotaMediana": 9.22
       },
       "ECT2205 - PRÁTICAS DE LEITURA E ESCRITA II": {
@@ -10377,11 +10754,13 @@
         ],
         "DesvioDeNotas": 0.19606121493043943,
         "MediaDeNotas": 9.260000000000002,
+        "MediaDeDesvios": 1.7080000000000002,
         "NotaMediana": 9.22
       }
     },
     "DesvioDeNotas": 0.15917266568101435,
     "MediaDeNotas": 9.25875,
+    "MediaDeDesvios": 1.7187500000000002,
     "NotaMediana": 9.22
   },
   "GEORGE OLIVEIRA DE ARAUJO AZEVEDO": {
@@ -10407,6 +10786,7 @@
         ],
         "DesvioDeNotas": 0.005000000000000782,
         "MediaDeNotas": 9.875,
+        "MediaDeDesvios": 1.085,
         "NotaMediana": 9.88
       },
       "ECT2412 - MECÂNICA DOS SÓLIDOS": {
@@ -10418,11 +10798,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 1,
         "NotaMediana": 9.83
       }
     },
     "DesvioDeNotas": 0.021602468994692956,
     "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 1.0566666666666666,
     "NotaMediana": 9.87
   },
   "IRENALDO PESSOA CANDIDO JUNIOR": {
@@ -10448,6 +10830,7 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 8.99,
+        "MediaDeDesvios": 1.54,
         "NotaMediana": 8.99
       },
       "ECT2403 - FÍSICA EXPERIMENTAL II": {
@@ -10461,6 +10844,7 @@
         ],
         "DesvioDeNotas": 0.2699999999999996,
         "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.495,
         "NotaMediana": 9.7
       },
       "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III": {
@@ -10472,11 +10856,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 0.53,
         "NotaMediana": 9.78
       }
     },
     "DesvioDeNotas": 0.3390704204144026,
     "MediaDeNotas": 9.407499999999999,
+    "MediaDeDesvios": 1.2650000000000001,
     "NotaMediana": 9.7
   },
   "JOSE JOSEMAR DE OLIVEIRA JUNIOR": {
@@ -10496,11 +10882,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.55,
         "NotaMediana": 9.21
       }
     },
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.21,
+    "MediaDeDesvios": 1.55,
     "NotaMediana": 9.21
   },
   "JULIANO MARCOS DA COSTA": {
@@ -10530,6 +10918,7 @@
         ],
         "DesvioDeNotas": 0.08286535263104002,
         "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.7133333333333332,
         "NotaMediana": 9.11
       },
       "ECT2517 - MODELAGEM DE RISCO": {
@@ -10541,11 +10930,13 @@
         ],
         "DesvioDeNotas": 0,
         "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.04,
         "NotaMediana": 9.68
       }
     },
     "DesvioDeNotas": 0.26536531423680815,
     "MediaDeNotas": 9.2375,
+    "MediaDeDesvios": 1.545,
     "NotaMediana": 9.18
   },
   "PRISCILA FERREIRA DE MACEDO": {
@@ -10581,11 +10972,13 @@
         ],
         "DesvioDeNotas": 0.2949169374586682,
         "MediaDeNotas": 9.508000000000001,
+        "MediaDeDesvios": 1.332,
         "NotaMediana": 9.48
       }
     },
     "DesvioDeNotas": 0.2949169374586682,
     "MediaDeNotas": 9.508000000000001,
+    "MediaDeDesvios": 1.332,
     "NotaMediana": 9.48
   }
 }

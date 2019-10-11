@@ -73,8 +73,10 @@ var maioresDesviosDeNotaArray = [];
 for (k in jsonCluster) {
   let desvioDeNotas = desvioPadrao(jsonCluster[k]['Notas']);
   let mediaDeNotas = jsonCluster[k]['Notas'].reduce((total, number) => { return total + number }, 0) / jsonCluster[k]['Notas'].length;
+  let mediaDeDesvios = jsonCluster[k]['Desvios'].reduce((total, number) => { return total + number }, 0) / jsonCluster[k]['Desvios'].length;
   jsonCluster[k]['DesvioDeNotas'] = desvioDeNotas;
   jsonCluster[k]['MediaDeNotas'] = mediaDeNotas;
+  jsonCluster[k]['MediaDeDesvios'] = mediaDeDesvios;
 
   // Sort intArray must be "(a, b) => { a - b }", but floatArray only sort(); WTF?
   var notasOrdenadas = jsonCluster[k]['Notas'].sort();
@@ -89,8 +91,10 @@ for (k in jsonCluster) {
   for (ki in jsonCluster[k]['Componentes']) {
     let desvioDeNotasComponente = desvioPadrao(jsonCluster[k]['Componentes'][ki]['Notas']);
     let mediaDeNotasComponente = jsonCluster[k]['Componentes'][ki]['Notas'].reduce((total, number) => { return total + number }, 0) / jsonCluster[k]['Componentes'][ki]['Notas'].length;
+    let mediaDeDesviosComponente = jsonCluster[k]['Componentes'][ki]['Desvios'].reduce((total, number) => { return total + number }, 0) / jsonCluster[k]['Componentes'][ki]['Desvios'].length;
     jsonCluster[k]['Componentes'][ki]['DesvioDeNotas'] = desvioDeNotasComponente;
     jsonCluster[k]['Componentes'][ki]['MediaDeNotas'] = mediaDeNotasComponente;
+    jsonCluster[k]['Componentes'][ki]['MediaDeDesvios'] = mediaDeDesviosComponente;
 
     var notasOrdenadasComponente = jsonCluster[k]['Componentes'][ki]['Notas'].sort();
     var notaMedianaComponente = notasOrdenadasComponente[Math.round((jsonCluster[k]['Componentes'][ki]['Notas'].length - 1) / 2)];
@@ -109,8 +113,10 @@ for (k in jsonCluster) {
 for (k in jsonClusterClasses) {
   let desvioDeNotas = desvioPadrao(jsonClusterClasses[k]['Notas']);
   let mediaDeNotas = jsonClusterClasses[k]['Notas'].reduce((total, number) => { return total + number }, 0) / jsonClusterClasses[k]['Notas'].length;
+  let mediaDeDesvios = jsonClusterClasses[k]['Desvios'].reduce((total, number) => { return total + number }, 0) / jsonClusterClasses[k]['Desvios'].length;
   jsonClusterClasses[k]['DesvioDeNotas'] = desvioDeNotas;
   jsonClusterClasses[k]['MediaDeNotas'] = mediaDeNotas;
+  jsonClusterClasses[k]['MediaDeDesvios'] = mediaDeDesvios;
 
   var notasOrdenadas = jsonClusterClasses[k]['Notas'].sort();
   var notaMediana = notasOrdenadas[Math.round((jsonClusterClasses[k]['Notas'].length - 1) / 2)];

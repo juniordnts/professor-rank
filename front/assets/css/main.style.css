@@ -1,2 +1,59 @@
+:root{
+  --main-bg-dark: #30373e;
+  --main-bg-light: #373f46;
+  --main-borders: #dee2e627;
+}
+
 body {
+  background-color: var(--main-bg-dark);
+}
+
+.btn-transparent {
+  background-color: transparent;
+  border: 0;
+  color: inherit;
+  width: 40px;
+  padding: 0 5px;
+}
+th .btn-transparent {
+  width: auto;
+  padding: 0;
+}
+
+
+td button, th button{
+  cursor: pointer;
+}
+
+
+#buscar-professor{
+  background-color: transparent;
+  border-color: var(--main-borders);
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+@media (max-width: 768px) {
+  #buscar-professor{
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  #buscar-professor{
+    width: 70%;
+  }
+}
+
+
+
+
+
+/* Sobreposições */
+
+.table td, .table th {
+  border-color: var(--main-borders);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }

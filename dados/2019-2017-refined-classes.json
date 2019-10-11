@@ -80,6 +80,7 @@
     ],
     "DesvioDeNotas": 0.15025109073247803,
     "MediaDeNotas": 9.50060606060606,
+    "MediaDeDesvios": 1.8681818181818177,
     "NotaMediana": 9.51
   },
   "ECT2205 - PRÁTICAS DE LEITURA E ESCRITA II": {
@@ -152,6 +153,7 @@
     ],
     "DesvioDeNotas": 0.19173050548802573,
     "MediaDeNotas": 9.324642857142859,
+    "MediaDeDesvios": 1.9160714285714289,
     "NotaMediana": 9.31
   },
   "ECT2414 - ELETRICIDADE APLICADA": {
@@ -322,6 +324,7 @@
     ],
     "DesvioDeNotas": 0.3758477596867361,
     "MediaDeNotas": 9.319999999999999,
+    "MediaDeDesvios": 1.731923076923077,
     "NotaMediana": 9.41
   },
   "ECT2103 - CÁLCULO I": {
@@ -426,6 +429,7 @@
     ],
     "DesvioDeNotas": 0.49198043660292023,
     "MediaDeNotas": 9.214500000000001,
+    "MediaDeDesvios": 2.041,
     "NotaMediana": 9.33
   },
   "ECT2411 - CIÊNCIA E TECNOLOGIA DOS MATERIAIS": {
@@ -694,6 +698,7 @@
     ],
     "DesvioDeNotas": 0.2117804620401234,
     "MediaDeNotas": 9.631338582677163,
+    "MediaDeDesvios": 1.5293700787401578,
     "NotaMediana": 9.66
   },
   "ECT2307 - FÍSICA EXPERIMENTAL I": {
@@ -827,6 +832,7 @@
     ],
     "DesvioDeNotas": 0.32115126927213294,
     "MediaDeNotas": 9.616071428571425,
+    "MediaDeDesvios": 1.5360714285714285,
     "NotaMediana": 9.72
   },
   "ECT2403 - FÍSICA EXPERIMENTAL II": {
@@ -930,6 +936,7 @@
     ],
     "DesvioDeNotas": 0.1735918389639749,
     "MediaDeNotas": 9.642325581395351,
+    "MediaDeDesvios": 1.4958139534883723,
     "NotaMediana": 9.68
   },
   "ECT2502 - DIMENSÕES FILOSÓFICAS DA TECNOLOGIA MODERNA": {
@@ -950,6 +957,7 @@
     ],
     "DesvioDeNotas": 0.23156472577277848,
     "MediaDeNotas": 9.563333333333334,
+    "MediaDeDesvios": 1.45,
     "NotaMediana": 9.68
   },
   "ECT1558 - ÉTICA EM CIÊNCIA E TECNOLOGIA": {
@@ -970,6 +978,7 @@
     ],
     "DesvioDeNotas": 0.12657891697365048,
     "MediaDeNotas": 9.626666666666667,
+    "MediaDeDesvios": 1.3766666666666667,
     "NotaMediana": 9.69
   },
   "ECT2413 - MECÂNICA DOS FLUIDOS": {
@@ -1037,6 +1046,7 @@
     ],
     "DesvioDeNotas": 0.376255232521755,
     "MediaDeNotas": 9.496,
+    "MediaDeDesvios": 1.6336,
     "NotaMediana": 9.64
   },
   "ECT2412 - MECÂNICA DOS SÓLIDOS": {
@@ -1103,6 +1113,7 @@
     ],
     "DesvioDeNotas": 0.21886105181141757,
     "MediaDeNotas": 9.512800000000002,
+    "MediaDeDesvios": 1.6752,
     "NotaMediana": 9.55
   },
   "ECT2526 - DESENVOLVIMENTO DE SISTEMAS PARA INTERNET": {
@@ -1119,6 +1130,7 @@
     ],
     "DesvioDeNotas": 0.03000000000000025,
     "MediaDeNotas": 9.559999999999999,
+    "MediaDeDesvios": 1.8199999999999998,
     "NotaMediana": 9.59
   },
   "ECT2701 - INTERNET DAS COISAS": {
@@ -1142,6 +1154,7 @@
     ],
     "DesvioDeNotas": 0.35338364421687635,
     "MediaDeNotas": 9.200000000000001,
+    "MediaDeDesvios": 1.906,
     "NotaMediana": 9.07
   },
   "ECT2303 - LINGUAGEM DE PROGRAMAÇÃO": {
@@ -1555,6 +1568,7 @@
     ],
     "DesvioDeNotas": 0.38674235103429927,
     "MediaDeNotas": 9.452577319587625,
+    "MediaDeDesvios": 1.7577835051546402,
     "NotaMediana": 9.55
   },
   "ECT2540 - PROGRAMAÇÃO ORIENTADA A OBJETOS": {
@@ -1577,6 +1591,7 @@
     ],
     "DesvioDeNotas": 0.6116780198764703,
     "MediaDeNotas": 9.29,
+    "MediaDeDesvios": 1.7325,
     "NotaMediana": 9.74
   },
   "ECT2206 - GESTÃO E ECONOMIA DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO": {
@@ -1657,6 +1672,7 @@
     ],
     "DesvioDeNotas": 0.3721637534406057,
     "MediaDeNotas": 9.244375000000002,
+    "MediaDeDesvios": 1.9796875000000005,
     "NotaMediana": 9.36
   },
   "ECT1503 - MATEMÁTICA FINANCEIRA": {
@@ -1679,6 +1695,7 @@
     ],
     "DesvioDeNotas": 0.16230834852218837,
     "MediaDeNotas": 9.094,
+    "MediaDeDesvios": 1.9899999999999998,
     "NotaMediana": 9.16
   },
   "ECT2201 - CÁLCULO II": {
@@ -1751,6 +1768,7 @@
     ],
     "DesvioDeNotas": 0.4524805072789938,
     "MediaDeNotas": 9.278076923076922,
+    "MediaDeDesvios": 1.9011538461538462,
     "NotaMediana": 9.39
   },
   "ECT2301 - CÁLCULO III": {
@@ -1820,6 +1838,7 @@
     ],
     "DesvioDeNotas": 0.24247422543437472,
     "MediaDeNotas": 9.4325,
+    "MediaDeDesvios": 1.8824999999999996,
     "NotaMediana": 9.43
   },
   "ECT2416 - EXPRESSÃO GRÁFICA": {
@@ -1947,6 +1966,7 @@
     ],
     "DesvioDeNotas": 0.21018790184411815,
     "MediaDeNotas": 9.698214285714288,
+    "MediaDeDesvios": 1.4055357142857143,
     "NotaMediana": 9.77
   },
   "ECT2202 - ÁLGEBRA LINEAR": {
@@ -2020,6 +2040,7 @@
     ],
     "DesvioDeNotas": 0.3445819008458404,
     "MediaDeNotas": 9.293076923076923,
+    "MediaDeDesvios": 1.9280769230769232,
     "NotaMediana": 9.29
   },
   "ECT2608 - METODOLOGIA DA PESQUISA PARA O TRABALHO DE CONCLUSÃO DE CURSO EM CIÊNCIAS E TECNOLOGIA": {
@@ -2037,6 +2058,7 @@
     ],
     "DesvioDeNotas": 0.07500000000000018,
     "MediaDeNotas": 9.684999999999999,
+    "MediaDeDesvios": 1.45,
     "NotaMediana": 9.76
   },
   "ECT1530 - PRÁTICAS DE LEITURA E ESCRITA DE GÊNEROS ACADÊMICOS": {
@@ -2066,6 +2088,7 @@
     ],
     "DesvioDeNotas": 0.10493301434724892,
     "MediaDeNotas": 9.818750000000001,
+    "MediaDeDesvios": 1.0575,
     "NotaMediana": 9.82
   },
   "ECT1553 - EMPREENDEDORISMO, NEGÓCIOS E GESTÃO DE PROJETOS INOVADORES": {
@@ -2088,6 +2111,7 @@
     ],
     "DesvioDeNotas": 0.18312837027615336,
     "MediaDeNotas": 9.517999999999999,
+    "MediaDeDesvios": 1.404,
     "NotaMediana": 9.61
   },
   "ECT2104 - QUÍMICA GERAL": {
@@ -2479,6 +2503,7 @@
     ],
     "DesvioDeNotas": 0.5373461924481061,
     "MediaDeNotas": 9.393689839572199,
+    "MediaDeDesvios": 1.832994652406418,
     "NotaMediana": 9.53
   },
   "ECT2415 - EQUAÇÕES DIFERENCIAIS": {
@@ -2519,6 +2544,7 @@
     ],
     "DesvioDeNotas": 0.22347740100585228,
     "MediaDeNotas": 9.558181818181819,
+    "MediaDeDesvios": 1.5472727272727271,
     "NotaMediana": 9.62
   },
   "ECT2102 - VETORES E GEOMETRIA ANALÍTICA": {
@@ -2622,6 +2648,7 @@
     ],
     "DesvioDeNotas": 0.6953854596552906,
     "MediaDeNotas": 9.08125,
+    "MediaDeDesvios": 2.0745,
     "NotaMediana": 9.16
   },
   "ECT2605 - ARRANJOS PRODUTIVOS TECNOLÓGICOS": {
@@ -2639,6 +2666,7 @@
     ],
     "DesvioDeNotas": 0.08999999999999986,
     "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.0899999999999999,
     "NotaMediana": 9.84
   },
   "ECT2512 - FUNDAMENTOS DE PROPRIEDADE INTELECTUAL E TRANSFERÊNCIA DE TECNOLOGIA": {
@@ -2662,6 +2690,7 @@
     ],
     "DesvioDeNotas": 0.21822923727126972,
     "MediaDeNotas": 9.774000000000001,
+    "MediaDeDesvios": 1.246,
     "NotaMediana": 9.84
   },
   "ECT2517 - MODELAGEM DE RISCO": {
@@ -2679,6 +2708,7 @@
     ],
     "DesvioDeNotas": 0.025000000000000355,
     "MediaDeNotas": 9.705,
+    "MediaDeDesvios": 1.21,
     "NotaMediana": 9.73
   },
   "ECT2101 - PRÉ-CÁLCULO": {
@@ -2780,6 +2810,7 @@
     ],
     "DesvioDeNotas": 0.5652579077740688,
     "MediaDeNotas": 9.242564102564106,
+    "MediaDeDesvios": 2.0030769230769225,
     "NotaMediana": 9.46
   },
   "ECT2302 - METODOLOGIA CIENTÍFICA E TECNOLÓGICA": {
@@ -2848,6 +2879,7 @@
     ],
     "DesvioDeNotas": 0.4482834200495908,
     "MediaDeNotas": 9.027777777777779,
+    "MediaDeDesvios": 1.9570370370370374,
     "NotaMediana": 9.09
   },
   "ECT2602 - PRÁTICAS DE STARTUP TECNOLÓGICA 2": {
@@ -2862,6 +2894,7 @@
     ],
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.62,
+    "MediaDeDesvios": 1.64,
     "NotaMediana": 9.62
   },
   "ECT2207 - PROBABILIDADE E ESTATÍSTICA": {
@@ -2925,6 +2958,7 @@
     ],
     "DesvioDeNotas": 0.49340359487747604,
     "MediaDeNotas": 9.177272727272726,
+    "MediaDeDesvios": 2.002272727272727,
     "NotaMediana": 9.48
   },
   "ECT2703 - TÓPICOS AVANÇADOS EM INFORMÁTICA II": {
@@ -2939,6 +2973,7 @@
     ],
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.87,
+    "MediaDeDesvios": 1.51,
     "NotaMediana": 9.87
   },
   "ECT1566 - GESTÃO DO CONHECIMENTO": {
@@ -2963,6 +2998,7 @@
     ],
     "DesvioDeNotas": 0.20169283576765912,
     "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.3,
     "NotaMediana": 9.57
   },
   "ECT2203 - LÓGICA DE PROGRAMAÇÃO": {
@@ -3259,6 +3295,7 @@
     ],
     "DesvioDeNotas": 0.8500082597929667,
     "MediaDeNotas": 9.158417266187055,
+    "MediaDeDesvios": 1.8163309352517993,
     "NotaMediana": 9.41
   },
   "ECT2306 - MEIO AMBIENTE E DESENVOLVIMENTO URBANO": {
@@ -3336,6 +3373,7 @@
     ],
     "DesvioDeNotas": 0.28861973729726836,
     "MediaDeNotas": 9.43774193548387,
+    "MediaDeDesvios": 1.7300000000000002,
     "NotaMediana": 9.46
   },
   "ECT1563 - POLÍTICA, PLANEJAMENTO E GESTÃO EM SANEAMENTO": {
@@ -3352,6 +3390,7 @@
     ],
     "DesvioDeNotas": 0.3149999999999995,
     "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 1.35,
     "NotaMediana": 9.77
   },
   "ECT2304 - INTRODUÇÃO À FÍSICA CLÁSSICA II": {
@@ -3418,6 +3457,7 @@
     ],
     "DesvioDeNotas": 0.19044492861017165,
     "MediaDeNotas": 9.641250000000001,
+    "MediaDeDesvios": 1.6283333333333336,
     "NotaMediana": 9.65
   },
   "ECT2401 - COMPUTAÇÃO NUMÉRICA": {
@@ -3715,6 +3755,7 @@
     ],
     "DesvioDeNotas": 0.44568473647047596,
     "MediaDeNotas": 9.402877697841724,
+    "MediaDeDesvios": 1.6790647482014383,
     "NotaMediana": 9.5
   },
   "ECT2204 - INTRODUÇÃO À FÍSICA CLÁSSICA I": {
@@ -3786,6 +3827,7 @@
     ],
     "DesvioDeNotas": 0.503401447903638,
     "MediaDeNotas": 9.05846153846154,
+    "MediaDeDesvios": 2.095384615384615,
     "NotaMediana": 9.19
   },
   "ECT2106 - CIÊNCIA, TECNOLOGIA E SOCIEDADE": {
@@ -3861,6 +3903,7 @@
     ],
     "DesvioDeNotas": 0.28318839430080245,
     "MediaDeNotas": 9.299,
+    "MediaDeDesvios": 2.0076666666666667,
     "NotaMediana": 9.44
   },
   "ECT2305 - PRÁTICA DE LEITURA EM INGLÊS": {
@@ -3937,6 +3980,7 @@
     ],
     "DesvioDeNotas": 0.23433391332550066,
     "MediaDeNotas": 9.631935483870969,
+    "MediaDeDesvios": 1.6170967741935482,
     "NotaMediana": 9.66
   },
   "ECT2532 - PRÁTICAS DE LEITURA E ESCRITA DE GÊNEROS ACADÊMICOS EM INGLÊS": {
@@ -3959,6 +4003,7 @@
     ],
     "DesvioDeNotas": 0.055353410012392266,
     "MediaDeNotas": 9.854,
+    "MediaDeDesvios": 1.2760000000000002,
     "NotaMediana": 9.86
   },
   "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III": {
@@ -4023,6 +4068,7 @@
     ],
     "DesvioDeNotas": 0.3019978244133776,
     "MediaDeNotas": 9.521363636363638,
+    "MediaDeDesvios": 1.5722727272727275,
     "NotaMediana": 9.62
   },
   "DIM0410 - TREINAMENTO PARA COMPETICOES DE PROGRAMACAO": {
@@ -4041,6 +4087,7 @@
     ],
     "DesvioDeNotas": 0.11264496832477179,
     "MediaDeNotas": 9.896666666666667,
+    "MediaDeDesvios": 1.3366666666666667,
     "NotaMediana": 9.74
   },
   "ECT2503 - POLÍTICA CIENTÍFICA E TECNOLÓGICA": {
@@ -4061,6 +4108,7 @@
     ],
     "DesvioDeNotas": 0.1518840017908405,
     "MediaDeNotas": 9.7325,
+    "MediaDeDesvios": 1.1725,
     "NotaMediana": 9.82
   },
   "CIV1804 - ÁGUAS SUBTERRÂNEAS": {
@@ -4077,6 +4125,7 @@
     ],
     "DesvioDeNotas": 0.27000000000000046,
     "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.3250000000000002,
     "NotaMediana": 9.81
   },
   "ECT2527 - BANCOS DE DADOS PARA WEB": {
@@ -4094,6 +4143,7 @@
     ],
     "DesvioDeNotas": 0.3849999999999998,
     "MediaDeNotas": 9.515,
+    "MediaDeDesvios": 1.29,
     "NotaMediana": 9.9
   },
   "QUI0658 - INTRODUÇÃO ÀS OPERAÇÕES UNITÁRIAS PARA A INDÚSTRIA QUÍMICA": {
@@ -4110,6 +4160,7 @@
     ],
     "DesvioDeNotas": 0.20500000000000007,
     "MediaDeNotas": 9.685,
+    "MediaDeDesvios": 1.4300000000000002,
     "NotaMediana": 9.89
   },
   "ECT1564 - GESTÃO ESTRATÉGICA": {
@@ -4126,6 +4177,7 @@
     ],
     "DesvioDeNotas": 0.27000000000000046,
     "MediaDeNotas": 9.46,
+    "MediaDeDesvios": 1.505,
     "NotaMediana": 9.73
   },
   "ECT1552 - INSTITUIÇÕES E SERVIÇOS TECNOLÓGICOS": {
@@ -4147,6 +4199,7 @@
     ],
     "DesvioDeNotas": 0.1418626095911109,
     "MediaDeNotas": 9.545,
+    "MediaDeDesvios": 1.5174999999999998,
     "NotaMediana": 9.63
   },
   "ECT2601 - PRÁTICAS DE STARTUP TECNOLÓGICA 1": {
@@ -4173,6 +4226,7 @@
     ],
     "DesvioDeNotas": 0.3200217006530789,
     "MediaDeNotas": 9.511666666666667,
+    "MediaDeDesvios": 1.2316666666666667,
     "NotaMediana": 9.68
   },
   "ECT1569 - TÓPICOS EM PRÁTICAS AMBIENTAIS": {
@@ -4195,6 +4249,7 @@
     ],
     "DesvioDeNotas": 0.09759610647971617,
     "MediaDeNotas": 9.685,
+    "MediaDeDesvios": 1.2,
     "NotaMediana": 9.71
   },
   "ECT2521 - PROJETOS COM MICROCONTROLADORES E MINICOMPUTADORES": {
@@ -4217,6 +4272,7 @@
     ],
     "DesvioDeNotas": 0.13162446581088166,
     "MediaDeNotas": 9.705,
+    "MediaDeDesvios": 1.2325,
     "NotaMediana": 9.82
   },
   "ECT2702 - TÓPICOS AVANÇADOS EM INFORMÁTICA I": {
@@ -4231,6 +4287,7 @@
     ],
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 1.37,
     "NotaMediana": 9.86
   },
   "FIS0625 - FISICA QUANTICA II": {
@@ -4245,6 +4302,7 @@
     ],
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.32,
+    "MediaDeDesvios": 2.31,
     "NotaMediana": 9.32
   },
   "ECT2522 - TÓPICOS ESPECIAIS EM DESENVOLVIMENTO SUSTENTÁVEL": {
@@ -4266,6 +4324,7 @@
     ],
     "DesvioDeNotas": 0.09653367288153897,
     "MediaDeNotas": 9.567499999999999,
+    "MediaDeDesvios": 1.3325,
     "NotaMediana": 9.61
   },
   "ECT2607 - TECNOLOGIAS SOCIAIS": {
@@ -4280,6 +4339,7 @@
     ],
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.43,
     "NotaMediana": 9.77
   },
   "ECT1550 - POLÍTICAS DE GESTÃO EM CIÊNCIA, TECNOLOGIA E INOVAÇÃO": {
@@ -4296,6 +4356,7 @@
     ],
     "DesvioDeNotas": 0.08000000000000007,
     "MediaDeNotas": 9.4,
+    "MediaDeDesvios": 1.37,
     "NotaMediana": 9.48
   },
   "ECT1531 - PRÁTICAS DE LEITURA E ESCRITA DE GÊNEROS DA ESFERA PROFISSIONAL": {
@@ -4318,6 +4379,7 @@
     ],
     "DesvioDeNotas": 0.10307764064044181,
     "MediaDeNotas": 9.815000000000001,
+    "MediaDeDesvios": 1.0625,
     "NotaMediana": 9.83
   },
   "ECT1507 - RELAÇÕES DE GÊNERO EM CIÊNCIAS E TECNOLOGIA": {
@@ -4336,6 +4398,7 @@
     ],
     "DesvioDeNotas": 0.20981473309141635,
     "MediaDeNotas": 9.603333333333333,
+    "MediaDeDesvios": 0.9400000000000001,
     "NotaMediana": 9.46
   },
   "ECT1560 - FUNDAMENTOS EM DESENVOLVIMENTO SUSTENTÁVEL": {
@@ -4356,6 +4419,7 @@
     ],
     "DesvioDeNotas": 0.16872067646458375,
     "MediaDeNotas": 9.58,
+    "MediaDeDesvios": 1.27,
     "NotaMediana": 9.64
   },
   "CAC1001 - FÍSICA I APLICADA ÀS CIÊNCIAS ATMOSFÉRICAS: MECÂNICA": {
@@ -4372,6 +4436,7 @@
     ],
     "DesvioDeNotas": 0.1899999999999995,
     "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.73,
     "NotaMediana": 9.78
   },
   "ECT1562 - POLÍTICAS, PLANEJAMENTO E GESTÃO DO MEIO AMBIENTE": {
@@ -4389,6 +4454,7 @@
     ],
     "DesvioDeNotas": 0.41000000000000014,
     "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.55,
     "NotaMediana": 9.91
   },
   "ECT2523 - PROTOTIPAGEM MECÂNICA RÁPIDA E DE CIRCUITOS": {
@@ -4410,6 +4476,7 @@
     ],
     "DesvioDeNotas": 0.22927876046420018,
     "MediaDeNotas": 9.8025,
+    "MediaDeDesvios": 0.6975,
     "NotaMediana": 9.97
   },
   "DBF0043 - BIOESTATÍSTICA PARA BIOMEDICINA": {
@@ -4424,6 +4491,7 @@
     ],
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.36,
+    "MediaDeDesvios": 2.08,
     "NotaMediana": 9.36
   },
   "ECT2513 - GESTÃO EM TECNOLOGIAS DE RUPTURA": {
@@ -4438,6 +4506,7 @@
     ],
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.06,
     "NotaMediana": 9.5
   },
   "CAC1002 - FÍSICA II: CONCEITOS E APLICAÇÕES DE ONDAS E ÓPTICA EM CIÊNCIAS ATMOSFÉRICAS": {
@@ -4452,6 +4521,7 @@
     ],
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.13,
     "NotaMediana": 9.57
   },
   "ECT2501 - COMUNICAÇÃO PÚBLICA DA CIÊNCIA E DA TECNOLOGIA": {
@@ -4466,6 +4536,7 @@
     ],
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.65,
+    "MediaDeDesvios": 0.93,
     "NotaMediana": 9.65
   },
   "ECT2500 - INTRODUÇÃO ÀS ENGENHARIAS": {
@@ -4480,6 +4551,7 @@
     ],
     "DesvioDeNotas": 0,
     "MediaDeNotas": 9.21,
+    "MediaDeDesvios": 1.55,
     "NotaMediana": 9.21
   }
 }

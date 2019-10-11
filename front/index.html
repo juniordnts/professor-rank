@@ -5,76 +5,153 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Rank Docentes ECT</title>
-  <link rel="stylesheet" href="./assets/css/materialize.min.css">
+  <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="./assets/css/main.style.css ">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
 
 </head>
 
-<body class="blue-grey darken-4">
+<body>
 
 
-  <div class="row">
-    <div class="col s12">
-      <ul class="tabs">
-        <li class="tab col s3"><a href="#test1">Test 1</a></li>
-        <li class="tab col s3"><a class="active" href="#test2">Test 2</a></li>
-        <li class="tab col s3 disabled"><a href="#test3">Disabled Tab</a></li>
-      </ul>
+
+  <div class="container">
+
+    <nav class="nav nav-pills nav-fill mt-3">
+      <a class="nav-item nav-link text-white active" id="home-tab" data-toggle="tab" href="#home" role="tab">Ranking
+        Geral</a>
+      <a class="nav-item nav-link text-white" id="profile-tab" data-toggle="tab" href="#profile" role="tab">Comparar
+        Professores</a>
+      <a class="nav-item nav-link text-white" id="contact-tab" data-toggle="tab" href="#contact" role="tab">Busca por
+        Disciplinas</a>
+    </nav>
+
+  </div>
+
+  <div class="container">
+
+    <input type="text" class="form-control mx-auto mt-5" id="buscar-professor" placeholder="Busca Professor por Nome">
+
+    <div class="tab-content text-white">
+
+      <div class="tab-pane fade show active" id="home">
+        <div class="container mt-5">
+          <div class="text-center d-none">Sem resultados para a busca</div>
+          <table class="table table-hover">
+            <tbody>
+
+              <tr>
+                <th scope="row">
+                  <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
+                    data-placement="top"
+                    data-content="<b><i class='fas fa-chart-bar'/> 9.51 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.38</b>">
+                    <i class="fas fa-circle text-success"></i>
+                  </button>
+                </th>
+                <td>ADA LIMA FERREIRA DE SOUSA</td>
+                <td>
+                  <button class="btn-transparent" data-toggle="popover" title="Disciplinas" data-trigger="focus"
+                    data-placement="top"
+                    data-content="<i class='fas fa-circle text-success'></i> ECT2105 - PRÁTICAS DE LEITURA E ESCRITA I<hr /><i class='fas fa-circle text-success'></i> ECT2205 - PRÁTICAS DE LEITURA E ESCRITA II">
+                    <i class="fas fa-chalkboard-teacher"></i>
+                  </button>
+                </td>
+                <td>
+                  <button class="btn-transparent" data-toggle="popover" title="Um amorzinho" data-trigger="focus"
+                    data-placement="top" data-content="Não tem nem o que falar 😊">
+                    <i class="fas fa-heart text-success"></i>
+                  </button>
+                </td>
+              </tr>
+
+              <tr>
+                <th scope="row">
+                  <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
+                    data-placement="top"
+                    data-content="<b><i class='fas fa-chart-bar'/> 9.32 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.95</b>">
+                    <i class="fas fa-circle text-warning"></i>
+                  </button>
+                </th>
+                <td>ALEXANDRE MAGNUS FERNANDES</td>
+                <td>
+                  <button class="btn-transparent" data-toggle="popover" title="Disciplinas" data-trigger="focus"
+                    data-placement="top"
+                    data-content="<i class='fas fa-circle text-success'></i> ECT2414 - ELETRICIDADE APLICADA">
+                    <i class="fas fa-chalkboard-teacher"></i>
+                  </button>
+                </td>
+                <td>
+                  <button class="btn-transparent" data-toggle="popover" title="Tenha cuidado" data-trigger="focus"
+                    data-placement="top" data-content="Talvez seja melhor procurar outro professor 😐">
+                    <i class="fas fa-exclamation text-warning"></i>
+                  </button>
+                </td>
+              </tr>
+
+              <tr>
+                <th scope="row">
+                  <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
+                    data-placement="top"
+                    data-content="<b><i class='fas fa-chart-bar'/> 8.95 &nbsp&nbsp <i class='fab fa-deviantart'/> 3.57</b>">
+                    <i class="fas fa-circle text-danger"></i>
+                  </button>
+                </th>
+                <td>ALEXSANDRO PEREIRA LIMA</td>
+                <td>
+                  <button class="btn-transparent" data-toggle="popover" title="Disciplinas" data-trigger="focus"
+                    data-placement="top"
+                    data-content="<i class='fas fa-circle text-warning'></i> ECT2103 - CÁLCULO I<hr /><i class='fas fa-circle text-warning'></i> ECT2201 - CÁLCULO II<hr /><i class='fas fa-circle text-danger'></i> ECT2201 - CÁLCULO III">
+                    <i class="fas fa-chalkboard-teacher"></i>
+                  </button>
+                </td>
+                <td>
+                  <button class="btn-transparent" data-toggle="popover" title="Vixi" data-trigger="focus"
+                    data-placement="top" data-content="Se é sua unica opção, boa sorte 😥">
+                    <i class="fas fa-radiation text-danger"></i>
+                  </button>
+                </td>
+              </tr>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="profile">
+        <div class="container mt-5">
+          ...222
+          <button type="button" class="btn btn-lg btn-danger" data-toggle="popover" title="Popover title"
+            data-trigger="focus" data-placement="top"
+            data-content="And here's some amazing content. It's very engaging. Right?">Click to
+            toggle popover</button>
+
+        </div>
+      </div>
+      <div class="tab-pane fade" id="contact">
+        <div class="container mt-5">
+          ...333
+          <div tabindex="0" class="btn btn-lg btn-danger" role="button" data-toggle="popover" data-trigger="focus"
+            title="Dismissible popover" data-content="And here's some amazing content. It's very engaging. Right?">
+            Dismissible popover</div>
+
+        </div>
+      </div>
     </div>
-
-    <!-- <div class="tabs transparent">
-      <li class="tab"><a class="waves-effect waves-light btn" href="#test1">button</a></li>
-      <li class="tab"><a class="waves-effect waves-light btn" href="#test2"><i class="material-icons left">cloud</i>button</a></li>
-      <li class="tab"><a class="waves-effect waves-light btn" href="#test3"><i class="material-icons right">cloud</i>button</a></li>
-    </div> -->
-
-
-    <div id="test1" class="col s12">Test 1</div>
-    <div id="test2" class="col s12">Test 2</div>
-    <div id="test3" class="col s12">Test 3</div>
   </div>
 
 
 
-
-  <table>
-    <thead>
-      <tr>
-        <th>Name</th>
-        <th>Item Name</th>
-        <th>Item Price</th>
-      </tr>
-    </thead>
-
-    <tbody>
-      <tr>
-        <td>Alvin</td>
-        <td>Eclair</td>
-        <td>$0.87</td>
-      </tr>
-      <tr>
-        <td>Alan</td>
-        <td>Jellybean</td>
-        <td>$3.76</td>
-      </tr>
-      <tr>
-        <td>Jonathan</td>
-        <td>Lollipop</td>
-        <td>$7.00</td>
-      </tr>
-    </tbody>
-  </table>
-
-
-
-
   <script src="./assets/js/jquery.min.js"></script>
-  <script src="./assets/js/materialize.min.js"></script>
+  <script src="./assets/js/popper.min.js"></script>
+  <script src="./assets/js/bootstrap.min.js"></script>
   <script>
-    $(document).ready(function () {
-      $('.tabs').tabs();
-    });
+    $(function () {
+      $('[data-toggle="popover"]').popover({
+        html: true,
+      })
+      $('.popover-dismiss').popover({
+        trigger: 'focus'
+      })
+    })
   </script>
 
 </body>
