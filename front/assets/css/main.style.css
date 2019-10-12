@@ -6,15 +6,22 @@
 
 body {
   background-color: var(--main-bg-dark);
+  overflow-y: scroll;
 }
 
 .btn-transparent {
   background-color: transparent;
   border: 0;
   color: inherit;
-  width: 40px;
+  /* width: 40px; */
   padding: 0 5px;
 }
+
+.btn-transparent.ajuda {
+  width: 28px;
+  margin-left: 5px;
+}
+
 th .btn-transparent {
   width: auto;
   padding: 0;
@@ -25,6 +32,9 @@ td button, th button{
   cursor: pointer;
 }
 
+#professores > div, #disciplinas > div{
+  background-color: var(--main-bg-light);
+}
 
 #buscar-professor{
   background-color: transparent;
@@ -33,20 +43,66 @@ td button, th button{
   text-transform: uppercase;
 }
 
+.quadro-resultados{
+  color: #ffffff59;
+}
+#professores .quadro-resultados td:last-child {
+  text-align: right;
+}
+#geral td:nth-of-type(2), 
+#geral td:nth-of-type(3),
+
+#professores .quadro-resultados td:first-child,
+#professores .quadro-resultados td:nth-of-type(2),
+#professores .quadro-normal td:nth-of-type(2),
+#professores .quadro-normal td:nth-of-type(3),
+
+#disciplinas .quadro-resultados td:first-child,
+#disciplinas .quadro-resultados th:nth-of-type(1), 
+#disciplinas .quadro-resultados td:nth-of-type(3),
+#disciplinas .quadro-resultados td:nth-of-type(4),
+#disciplinas .quadro-normal td:nth-of-type(2)
+{
+  width: 30px !important;
+}
+/* .quadro-resultados td:first-child {
+  width: 30px;
+} */
+.posicao span{
+  width: 17px;
+  height: 17px;
+  background-color: #7d8287;
+  border-radius: 8px;
+  color: var(--main-bg-light);
+  font-weight: bold;
+  padding: 0 5px;
+}
+
 @media (max-width: 768px) {
-  #buscar-professor{
+  #buscar-professor, .quadro-resultados taxble{
     width: 100%;
   }
 }
 
 @media (min-width: 768px) {
-  #buscar-professor{
+  #buscar-professor, .quadro-resultados taxble{
     width: 70%;
   }
 }
 
 
+hr:last-child{
+  display: none;
+}
 
+tbody tr, tbody td {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none
+}
 
 
 /* Sobreposições */
@@ -56,4 +112,21 @@ td button, th button{
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+tbody tr:first-child td, tbody tr:first-child th {
+  border-top: 0;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
 }
