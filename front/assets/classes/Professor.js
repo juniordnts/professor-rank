@@ -51,10 +51,10 @@ class Professor {
       dados.cor = "text-danger"
       dados.icone = "radiation"
       dados.titulo = "Vixi"
-      dados.mensagem = "Se é sua unica opção, meus pêsames 😥"
+      dados.mensagem = "Sua única opção? Meus pêsames 😥"
     }
     if (this.desvio > 2.2) {
-      dados.mensagem += "<hr class='m-2'/>Esse professor(a) varia o 'humor' de semestre para semestre"
+      dados.mensagem += "<hr class='m-2'/>Esse professor(a) varia o 'humor' de semestre para semestre<hr class='m-2'/>"
     }
     return dados
   }

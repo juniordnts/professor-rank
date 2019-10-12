@@ -1,6 +1,6 @@
 
 
-var data = $.getJSON("/dados/2019-2017-refined.json")
+var data = $.getJSON("../dados/2019-2017-refined.json")
 
 data.then((res) => {
 
