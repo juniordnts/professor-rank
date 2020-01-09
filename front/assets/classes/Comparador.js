@@ -1,7 +1,7 @@
 class ComparaProf {
 
-  static lista = []
-  static listener
+  // static lista = []
+  // static listener
 
   static template(nome, nota, desvio, cor, i) {
     return `
@@ -19,6 +19,8 @@ class ComparaProf {
   }
 
   static adiciona(nome, nota, desvio, cor) {
+
+    ComparaProf.lista ? NaN : ComparaProf.lista = []
 
     let geral = (nota - desvio).toFixed(3);
     let pushed = false;

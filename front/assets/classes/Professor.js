@@ -1,8 +1,9 @@
 class Professor {
 
-  static lista = {}
 
   constructor(nome, componentes, nota, desvio, desvio_nota) {
+
+    Professor.lista ? NaN : Professor.lista = {}
 
     this.nome = nome
     this.componentes = componentes
