@@ -1,0 +1,3377 @@
+[
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0506 - SISTEMAS COLABORATIVOS DE APOIO À APRENDIZAGEM",
+    "Turma": "1",
+    "Horário": "24T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "38",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "1",
+    "Horário": "5M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "34",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "2.31"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "2",
+    "Horário": "5M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "48",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0415 - GESTÃO DE INFRAESTRUTURA DE TI",
+    "Turma": "1",
+    "Horário": "24N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "30",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "2",
+    "Horário": "35N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "27",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "1",
+    "Horário": "24M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "20",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "6",
+    "Horário": "24N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "31",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "2",
+    "Horário": "246N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "46",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "2",
+    "Horário": "3M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "52",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "2.34"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "6",
+    "Horário": "3N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "47",
+    "Média Geral": "8.93",
+    "Desvio Padrão Geral": "2.68"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "2",
+    "Horário": "24M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "46",
+    "Média Geral": "8.65",
+    "Desvio Padrão Geral": "2.47"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "5",
+    "Horário": "24N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "40",
+    "Média Geral": "9.17",
+    "Desvio Padrão Geral": "2.07"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "1",
+    "Horário": "24M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "47",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "2.18"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "3",
+    "Horário": "24T12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "57",
+    "Média Geral": "9.04",
+    "Desvio Padrão Geral": "2.55"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "4",
+    "Horário": "24T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "43",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "ATHANASIOS TSOUANAS",
+    "Componente Curricular": "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II",
+    "Turma": "1",
+    "Horário": "246T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "41",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "ATHANASIOS TSOUANAS",
+    "Componente Curricular": "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II",
+    "Turma": "2",
+    "Horário": "246N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "53",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "2.17"
+  },
+  {
+    "Docente": "ATHANASIOS TSOUANAS",
+    "Componente Curricular": "IMD0109 - TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO X",
+    "Turma": "1",
+    "Horário": "246T12 (13/05/2019 - 29/06/2019)",
+    "Discentes": "12",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "6",
+    "Horário": "5N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "42",
+    "Média Geral": "8.39",
+    "Desvio Padrão Geral": "2.7"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "6",
+    "Horário": "24N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "42",
+    "Média Geral": "8.54",
+    "Desvio Padrão Geral": "2.72"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "7",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "49",
+    "Média Geral": "7.8",
+    "Desvio Padrão Geral": "2.92"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "2",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "49",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "BRUNO SANTANA DA SILVA",
+    "Componente Curricular": "IMD0510 - ACESSIBILIDADE DIGITAL",
+    "Turma": "1",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "41",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "BRUNO SANTANA DA SILVA",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "4",
+    "Horário": "5T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "47",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "BRUNO SANTANA DA SILVA",
+    "Componente Curricular": "IMD0104 - TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO V",
+    "Turma": "1",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "26",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "2.32"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DA SILVA",
+    "Componente Curricular": "IMD0409 - DESENVOLVIMENTO DE SISTEMAS WEB II",
+    "Turma": "1",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "22",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "2.52"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DA SILVA",
+    "Componente Curricular": "IMD0290 - TÓPICOS ESPECIAIS EM INTERNET DAS COISAS “A”",
+    "Turma": "1",
+    "Horário": "24N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "16",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR",
+    "Componente Curricular": "IMD0718 - FORENSE COMPUTACIONAL",
+    "Turma": "1",
+    "Horário": "35N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "16",
+    "Média Geral": "9.28",
+    "Desvio Padrão Geral": "2.26"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "8",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "32",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR",
+    "Componente Curricular": "IMD0713 - REDES MULTIMIDIA",
+    "Turma": "1",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "6",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "0.92"
+  },
+  {
+    "Docente": "CESAR RENNO COSTA",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "2",
+    "Horário": "35T12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "46",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "CESAR RENNO COSTA",
+    "Componente Curricular": "IMD0606 - PROJETO EM BIOINFORMÁTICA",
+    "Turma": "1",
+    "Horário": "5T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "8",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "CESAR RENNO COSTA",
+    "Componente Curricular": "IMD0605 - SEMINÁRIOS EM BIOINFORMÁTICA",
+    "Turma": "1",
+    "Horário": "4M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "42",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "CHARLES ANDRYE GALVAO MADEIRA",
+    "Componente Curricular": "IMD0521 - FUNDAMENTOS DE JOGOS DIGITAIS",
+    "Turma": "1",
+    "Horário": "24T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "40",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.53"
+  },
+  {
+    "Docente": "CHARLES ANDRYE GALVAO MADEIRA",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "4",
+    "Horário": "24T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "22",
+    "Média Geral": "8.87",
+    "Desvio Padrão Geral": "2.53"
+  },
+  {
+    "Docente": "DANIEL SABINO AMORIM DE ARAUJO",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "7",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "32",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "DANILO CURVELO DE SOUZA",
+    "Componente Curricular": "IMD0701 - ADMINISTRAÇÃO DE SISTEMAS OPERACIONAIS PARA REDES",
+    "Turma": "1",
+    "Horário": "24T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "31",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "DENNYS LEITE MAIA",
+    "Componente Curricular": "IMD0254 - TÓPICOS ESPECIAIS EM INFORMÁTICA EDUCACIONAL \"E\"",
+    "Turma": "1",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "24",
+    "Média Geral": "9.93",
+    "Desvio Padrão Geral": "1.08"
+  },
+  {
+    "Docente": "EIJI ADACHI MEDEIROS BARBOSA",
+    "Componente Curricular": "DIM0501 - BOAS PRÁTICAS DE PROGRAMAÇÃO",
+    "Turma": "1",
+    "Horário": "3T56",
+    "Discentes": "38",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "2.02"
+  },
+  {
+    "Docente": "EIJI ADACHI MEDEIROS BARBOSA",
+    "Componente Curricular": "IMD0408 - PROCESSOS DE SOFTWARE",
+    "Turma": "1",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "29",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "EMERSON MOURA DE ALENCAR",
+    "Componente Curricular": "DIM0123 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "2",
+    "Horário": "24T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "30",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "2.34"
+  },
+  {
+    "Docente": "EUGENIO PACCELLI AGUIAR FREIRE",
+    "Componente Curricular": "IMD0524 - EDUCAÇÃO A DISTÂNCIA",
+    "Turma": "1",
+    "Horário": "35N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "26",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "EUGENIO PACCELLI AGUIAR FREIRE",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "5",
+    "Horário": "3N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "36",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "2.47"
+  },
+  {
+    "Docente": "EUGENIO PACCELLI AGUIAR FREIRE",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "6",
+    "Horário": "5N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "37",
+    "Média Geral": "9.14",
+    "Desvio Padrão Geral": "2.27"
+  },
+  {
+    "Docente": "FELIPE HENRIQUE ALVES MAGALHAES",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "1",
+    "Horário": "5M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "54",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "FELIPE HENRIQUE ALVES MAGALHAES",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "2",
+    "Horário": "5M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "46",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "FELIPE HENRIQUE ALVES MAGALHAES",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "1",
+    "Horário": "3M12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "54",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "FELIPE HENRIQUE ALVES MAGALHAES",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "6",
+    "Horário": "3N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "47",
+    "Média Geral": "9.28",
+    "Desvio Padrão Geral": "2.26"
+  },
+  {
+    "Docente": "FELIPE HENRIQUE ALVES MAGALHAES",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "2",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "49",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "FRANCYS ANTHONY DA SILVA",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "5",
+    "Horário": "5N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "53",
+    "Média Geral": "8.66",
+    "Desvio Padrão Geral": "2.6"
+  },
+  {
+    "Docente": "FRANCYS ANTHONY DA SILVA",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "7",
+    "Horário": "5N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "45",
+    "Média Geral": "8.93",
+    "Desvio Padrão Geral": "2.38"
+  },
+  {
+    "Docente": "FRANCYS ANTHONY DA SILVA",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "3",
+    "Horário": "3T12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "57",
+    "Média Geral": "8.73",
+    "Desvio Padrão Geral": "2.72"
+  },
+  {
+    "Docente": "FRANCYS ANTHONY DA SILVA",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "4",
+    "Horário": "5T12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "51",
+    "Média Geral": "8.89",
+    "Desvio Padrão Geral": "2.71"
+  },
+  {
+    "Docente": "FRANCYS ANTHONY DA SILVA",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "5",
+    "Horário": "3N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "52",
+    "Média Geral": "8.7",
+    "Desvio Padrão Geral": "2.63"
+  },
+  {
+    "Docente": "FRANCYS ANTHONY DA SILVA",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "7",
+    "Horário": "3N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "45",
+    "Média Geral": "8.41",
+    "Desvio Padrão Geral": "2.57"
+  },
+  {
+    "Docente": "FREDERICO ARAUJO DA SILVA LOPES",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "5",
+    "Horário": "24N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "26",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "FREDERICO ARAUJO DA SILVA LOPES",
+    "Componente Curricular": "DIM0614 - PROGRAMAÇÃO DISTRIBUÍDA",
+    "Turma": "1",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "11",
+    "Média Geral": "8.76",
+    "Desvio Padrão Geral": "2.02"
+  },
+  {
+    "Docente": "GLAUBER GALVAO DE ARAUJO",
+    "Componente Curricular": "IMD0725 - DESENVOLVIMENTO DE PROJETOS DE REDES DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "6N1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "28",
+    "Média Geral": "9.13",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "GUSTAVO GIRAO BARRETO DA SILVA",
+    "Componente Curricular": "IMD0121 - ARQUITETURA DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "43",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "GUSTAVO GIRAO BARRETO DA SILVA",
+    "Componente Curricular": "IMD1012 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "1",
+    "Horário": "246N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "38",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "ISAAC FRANCO FERNANDES",
+    "Componente Curricular": "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I",
+    "Turma": "1",
+    "Horário": "35M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "40",
+    "Média Geral": "8.52",
+    "Desvio Padrão Geral": "2.48"
+  },
+  {
+    "Docente": "ISAAC FRANCO FERNANDES",
+    "Componente Curricular": "IMD0811 - MOTORES DE JOGOS DIGITAIS",
+    "Turma": "1",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "22",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "ISABEL DILLMANN NUNES",
+    "Componente Curricular": "IMD0503 - LEVANTAMENTO E MODELAGEM DE REQUISITOS",
+    "Turma": "1",
+    "Horário": "24N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "30",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "ISABEL DILLMANN NUNES",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "7",
+    "Horário": "5N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "33",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "IVANOVITCH MEDEIROS DANTAS DA SILVA",
+    "Componente Curricular": "IMD0905 - CIÊNCIA DE DADOS I",
+    "Turma": "1",
+    "Horário": "24T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "29",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "IVANOVITCH MEDEIROS DANTAS DA SILVA",
+    "Componente Curricular": "IMD0033 - PROBABILIDADE",
+    "Turma": "1",
+    "Horário": "24T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "41",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "JOAO CARLOS XAVIER JUNIOR",
+    "Componente Curricular": "IMD1101 - APRENDIZADO DE MÁQUINA",
+    "Turma": "1",
+    "Horário": "35M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "14",
+    "Média Geral": "8.93",
+    "Desvio Padrão Geral": "2.87"
+  },
+  {
+    "Docente": "JOAO CARLOS XAVIER JUNIOR",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "1",
+    "Horário": "35M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "19",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "JORGE ESTEFANO SANTANA DE SOUZA",
+    "Componente Curricular": "IMD0039 - ESTRUTURAS DE DADOS BÁSICAS II",
+    "Turma": "1",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "35",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "JORGE ESTEFANO SANTANA DE SOUZA",
+    "Componente Curricular": "IMD0606 - PROJETO EM BIOINFORMÁTICA",
+    "Turma": "1",
+    "Horário": "5T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "8",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "JORGE ESTEFANO SANTANA DE SOUZA",
+    "Componente Curricular": "IMD0605 - SEMINÁRIOS EM BIOINFORMÁTICA",
+    "Turma": "1",
+    "Horário": "4M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "42",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0902 - INTRODUÇÃO A INTERNET DAS COISAS",
+    "Turma": "1",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "22",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0904 - PLATAFORMAS DE HARDWARE PARA INTERNET DAS COISAS",
+    "Turma": "1",
+    "Horário": "35T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "25",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "KAYO GONCALVES E SILVA",
+    "Componente Curricular": "IMD0292 - TÓPICOS ESPECIAIS EM INTERNET DAS COISAS “C”",
+    "Turma": "1",
+    "Horário": "35T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "12",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.14"
+  },
+  {
+    "Docente": "LEONARDO CESAR TEONACIO BEZERRA",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "1",
+    "Horário": "35M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "40",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "LEONARDO CESAR TEONACIO BEZERRA",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "2",
+    "Horário": "24M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "27",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "LORENA AZEVEDO DE SOUSA",
+    "Componente Curricular": "IMD0018 - PRÁTICAS DE LEITURA EM INGLÊS",
+    "Turma": "1",
+    "Horário": "3M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "34",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "LORENA AZEVEDO DE SOUSA",
+    "Componente Curricular": "IMD0018 - PRÁTICAS DE LEITURA EM INGLÊS",
+    "Turma": "2",
+    "Horário": "3M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "44",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "2.3"
+  },
+  {
+    "Docente": "LORENA AZEVEDO DE SOUSA",
+    "Componente Curricular": "IMD0018 - PRÁTICAS DE LEITURA EM INGLÊS",
+    "Turma": "3",
+    "Horário": "3T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "45",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "2.42"
+  },
+  {
+    "Docente": "LORENA AZEVEDO DE SOUSA",
+    "Componente Curricular": "IMD0018 - PRÁTICAS DE LEITURA EM INGLÊS",
+    "Turma": "4",
+    "Horário": "3T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "44",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "2.42"
+  },
+  {
+    "Docente": "LOURENA KARIN DE MEDEIROS ROCHA",
+    "Componente Curricular": "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II",
+    "Turma": "1",
+    "Horário": "246T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "41",
+    "Média Geral": "9.67",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "LOURENA KARIN DE MEDEIROS ROCHA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "2",
+    "Horário": "24M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "46",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "3",
+    "Horário": "3T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "48",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "2.66"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "4",
+    "Horário": "3T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "41",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "2.36"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "7",
+    "Horário": "5N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "31",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "1",
+    "Horário": "5N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "34",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "2.17"
+  },
+  {
+    "Docente": "NELSON ION DE OLIVEIRA",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "3",
+    "Horário": "5T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "48",
+    "Média Geral": "8.54",
+    "Desvio Padrão Geral": "3.15"
+  },
+  {
+    "Docente": "NICOLAS MATHEUS DA FONSECA TINOCO DE SOUZA ARAUJO",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "1",
+    "Horário": "5M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "54",
+    "Média Geral": "8.04",
+    "Desvio Padrão Geral": "3.12"
+  },
+  {
+    "Docente": "NICOLAS MATHEUS DA FONSECA TINOCO DE SOUZA ARAUJO",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "2",
+    "Horário": "5M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "46",
+    "Média Geral": "8.11",
+    "Desvio Padrão Geral": "3.11"
+  },
+  {
+    "Docente": "NICOLAS MATHEUS DA FONSECA TINOCO DE SOUZA ARAUJO",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "3",
+    "Horário": "5T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "54",
+    "Média Geral": "8.82",
+    "Desvio Padrão Geral": "2.58"
+  },
+  {
+    "Docente": "NICOLAS MATHEUS DA FONSECA TINOCO DE SOUZA ARAUJO",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "4",
+    "Horário": "5T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "54",
+    "Média Geral": "9",
+    "Desvio Padrão Geral": "2.46"
+  },
+  {
+    "Docente": "NICOLAS MATHEUS DA FONSECA TINOCO DE SOUZA ARAUJO",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "1",
+    "Horário": "246M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "56",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "NICOLAS MATHEUS DA FONSECA TINOCO DE SOUZA ARAUJO",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "2",
+    "Horário": "246N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "48",
+    "Média Geral": "9.19",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "RENAN CIPRIANO MOIOLI",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "3",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "34",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "RENAN CIPRIANO MOIOLI",
+    "Componente Curricular": "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I",
+    "Turma": "3",
+    "Horário": "35N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "33",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "1",
+    "Horário": "246T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "39",
+    "Média Geral": "8.91",
+    "Desvio Padrão Geral": "2.59"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "1",
+    "Horário": "3M12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "54",
+    "Média Geral": "7.7",
+    "Desvio Padrão Geral": "2.95"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "1",
+    "Horário": "24T12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "31",
+    "Média Geral": "9.28",
+    "Desvio Padrão Geral": "2.17"
+  },
+  {
+    "Docente": "SILVIO COSTA SAMPAIO",
+    "Componente Curricular": "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I",
+    "Turma": "2",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "42",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "SILVIO COSTA SAMPAIO",
+    "Componente Curricular": "IMD0043 - REDES DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "24",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "TETSU SAKAMOTO",
+    "Componente Curricular": "IMD0601 - BIOESTATÍSTICA",
+    "Turma": "1",
+    "Horário": "24T12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "15",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "TETSU SAKAMOTO",
+    "Componente Curricular": "IMD0033 - PROBABILIDADE",
+    "Turma": "2",
+    "Horário": "24N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "34",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "WALDSON PATRICIO DO NASCIMENTO LEANDRO",
+    "Componente Curricular": "IMD0802 - DESIGN DE NÍVEIS DE JOGOS",
+    "Turma": "1",
+    "Horário": "35T12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "15",
+    "Média Geral": "9.02",
+    "Desvio Padrão Geral": "2.45"
+  },
+  {
+    "Docente": "WALDSON PATRICIO DO NASCIMENTO LEANDRO",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "4",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "30",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "2.01"
+  },
+  {
+    "Docente": "WALDSON PATRICIO DO NASCIMENTO LEANDRO",
+    "Componente Curricular": "IMD0812 - JOGOS EM REDE MULTIUSUÁRIOS",
+    "Turma": "1",
+    "Horário": "35T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "15",
+    "Média Geral": "9.3",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "WALDSON PATRICIO DO NASCIMENTO LEANDRO",
+    "Componente Curricular": "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I",
+    "Turma": "4",
+    "Horário": "35N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "32",
+    "Média Geral": "9.21",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "1",
+    "Horário": "3M12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "36",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "2.47"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "2",
+    "Horário": "3M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "47",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "2.41"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "5",
+    "Horário": "3N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "32",
+    "Média Geral": "8.77",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "6",
+    "Horário": "3N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "29",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0511 - INTELIGÊNCIA ARTIFICIAL APLICADA À EDUCAÇÃO",
+    "Turma": "1",
+    "Horário": "35T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "2",
+    "Horário": "3N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "15",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0523 - TECNOLOGIAS EDUCACIONAIS",
+    "Turma": "1",
+    "Horário": "24T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "48",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "ALYSON MATHEUS DE CARVALHO SOUZA",
+    "Componente Curricular": "IMD0803 - JOGOS SÉRIOS E SIMULAÇÕES",
+    "Turma": "1",
+    "Horário": "35T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "35",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.14"
+  },
+  {
+    "Docente": "ALYSON MATHEUS DE CARVALHO SOUZA",
+    "Componente Curricular": "DIM0532 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE II",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "25",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "2",
+    "Horário": "26N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "32",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "2",
+    "Horário": "4N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "4",
+    "Horário": "4N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "ANDRE LUIZ DE SOUZA BRITO",
+    "Componente Curricular": "IMD0801 - MECÂNICAS E BALANCEAMENTO DE JOGOS",
+    "Turma": "2",
+    "Horário": "3M3456 (30/07/2018 - 22/12/2018)",
+    "Discentes": "33",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+    "Componente Curricular": "IMD0404 - DESENVOLVIMENTO DE SISTEMAS WEB I",
+    "Turma": "1",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "1",
+    "Horário": "26M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "35",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "1",
+    "Horário": "4M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "35",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "1",
+    "Horário": "246M56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "59",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "3",
+    "Horário": "246T12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "63",
+    "Média Geral": "9.44",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "2",
+    "Horário": "246M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "58",
+    "Média Geral": "8.67",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "5",
+    "Horário": "35N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "38",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "2",
+    "Horário": "246M56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "26",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "1",
+    "Horário": "4T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "49",
+    "Média Geral": "9.44",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "1",
+    "Horário": "35T12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "42",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "2.32"
+  },
+  {
+    "Docente": "ATHANASIOS TSOUANAS",
+    "Componente Curricular": "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II",
+    "Turma": "1",
+    "Horário": "246N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.58",
+    "Desvio Padrão Geral": "2.36"
+  },
+  {
+    "Docente": "ATHANASIOS TSOUANAS",
+    "Componente Curricular": "DIM0121 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II",
+    "Turma": "1",
+    "Horário": "246T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "30",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "2.34"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "2",
+    "Horário": "5N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "28",
+    "Média Geral": "8.6",
+    "Desvio Padrão Geral": "2.46"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "2",
+    "Horário": "3N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "60",
+    "Média Geral": "9.04",
+    "Desvio Padrão Geral": "2.01"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "2",
+    "Horário": "24N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "24",
+    "Média Geral": "8.53",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "4",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "63",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "BRUNO SANTANA DA SILVA",
+    "Componente Curricular": "IMD0512 - AVALIAÇÃO DA INTERAÇÃO HUMANO-COMPUTADOR",
+    "Turma": "1",
+    "Horário": "24N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "26",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "BRUNO SANTANA DA SILVA",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "1",
+    "Horário": "24T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "33",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DA SILVA",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "1",
+    "Horário": "35M12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "23",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR",
+    "Componente Curricular": "IMD0704 - ADMINISTRAÇÃO DE SERVIÇOS DE REDES PARA INTERNET",
+    "Turma": "1",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "2",
+    "Horário": "24N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "26",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR",
+    "Componente Curricular": "IMD0702 - SERVIÇOS DE REDE E TRANSPORTE",
+    "Turma": "1",
+    "Horário": "35N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "CESAR RENNO COSTA",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "1",
+    "Horário": "35T12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "43",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "CESAR RENNO COSTA",
+    "Componente Curricular": "IMD0261 - TÓPICOS ESPECIAIS EM BIOINFORMÁTICA \"B\"",
+    "Turma": "1",
+    "Horário": "35M56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "25",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.63"
+  },
+  {
+    "Docente": "CHARLES ANDRYE GALVAO MADEIRA",
+    "Componente Curricular": "IMD0511 - INTELIGÊNCIA ARTIFICIAL APLICADA À EDUCAÇÃO",
+    "Turma": "1",
+    "Horário": "35T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.21",
+    "Desvio Padrão Geral": "2.36"
+  },
+  {
+    "Docente": "CHARLES ANDRYE GALVAO MADEIRA",
+    "Componente Curricular": "DIM0126 - INTELIGÊNCIA ARTIFICIAL PARA JOGOS I",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "22",
+    "Média Geral": "8.5",
+    "Desvio Padrão Geral": "3.06"
+  },
+  {
+    "Docente": "CHARLES ANDRYE GALVAO MADEIRA",
+    "Componente Curricular": "IMD0522 - JOGOS DIGITAIS COMO FERRAMENTA PEDAGÓGICA",
+    "Turma": "1",
+    "Horário": "24T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "34",
+    "Média Geral": "8.92",
+    "Desvio Padrão Geral": "2.36"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "1",
+    "Horário": "246M12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "60",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "2.03"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "2",
+    "Horário": "246M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "58",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "4",
+    "Horário": "246N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "40",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "2.18"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "5",
+    "Horário": "246N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "44",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "DENNYS LEITE MAIA",
+    "Componente Curricular": "IMD0531 - PRÁTICAS EDUCACIONAIS INOVADORAS COM TECNOLOGIAS DIGITAIS",
+    "Turma": "1",
+    "Horário": "35N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "33",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.07"
+  },
+  {
+    "Docente": "DENNYS LEITE MAIA",
+    "Componente Curricular": "IMD0530 - SOFTWARE LIVRE, EDUCAÇÃO E CULTURA",
+    "Turma": "1",
+    "Horário": "24N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "32",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "EIJI ADACHI MEDEIROS BARBOSA",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "2",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "16",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "EIJI ADACHI MEDEIROS BARBOSA",
+    "Componente Curricular": "IMD0412 - INTRODUÇÃO AO TESTE DE SOFTWARE",
+    "Turma": "1",
+    "Horário": "35N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "19",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "EMERSON MOURA DE ALENCAR",
+    "Componente Curricular": "DIM0524 - DESENVOLVIMENTO DE SISTEMAS PARA DISPOSITIVOS MÓVEIS",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "35",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "EUGENIO PACCELLI AGUIAR FREIRE",
+    "Componente Curricular": "IMD0531 - PRÁTICAS EDUCACIONAIS INOVADORAS COM TECNOLOGIAS DIGITAIS",
+    "Turma": "1",
+    "Horário": "35N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "33",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.02"
+  },
+  {
+    "Docente": "EUGENIO PACCELLI AGUIAR FREIRE",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "2",
+    "Horário": "3N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "15",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "FREDERICO ARAUJO DA SILVA LOPES",
+    "Componente Curricular": "DIM0501 - BOAS PRÁTICAS DE PROGRAMAÇÃO",
+    "Turma": "1",
+    "Horário": "4T12",
+    "Discentes": "36",
+    "Média Geral": "9.58",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "FREDERICO ARAUJO DA SILVA LOPES",
+    "Componente Curricular": "IMD0407 - DESIGN DE SOFTWARE II",
+    "Turma": "1",
+    "Horário": "24N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "1.63"
+  },
+  {
+    "Docente": "GUSTAVO GIRAO BARRETO DA SILVA",
+    "Componente Curricular": "IMD0036 - SISTEMAS OPERACIONAIS",
+    "Turma": "1",
+    "Horário": "35T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "23",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "GUSTAVO GIRAO BARRETO DA SILVA",
+    "Componente Curricular": "IMD0036 - SISTEMAS OPERACIONAIS",
+    "Turma": "3",
+    "Horário": "35N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "14",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "HANDERSON BEZERRA MEDEIROS",
+    "Componente Curricular": "IMD0404 - DESENVOLVIMENTO DE SISTEMAS WEB I",
+    "Turma": "1",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "HANDERSON BEZERRA MEDEIROS",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "1",
+    "Horário": "26M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "35",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "HANDERSON BEZERRA MEDEIROS",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "1",
+    "Horário": "4M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "35",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "IRIS LINHARES PIMENTA GURGEL",
+    "Componente Curricular": "IMD0513 - EMPREENDEDORISMO",
+    "Turma": "1",
+    "Horário": "24T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "62",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "IRIS LINHARES PIMENTA GURGEL",
+    "Componente Curricular": "IMD0411 - INTRODUÇÃO À GOVERNANÇA E GESTÃO DE TI",
+    "Turma": "1",
+    "Horário": "24N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "25",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "ISAAC FRANCO FERNANDES",
+    "Componente Curricular": "IMD0821 - TÉCNICAS AVANÇADAS PARA MOTORES DE JOGOS DIGITAIS",
+    "Turma": "1",
+    "Horário": "35T12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "10",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "IVANOVITCH MEDEIROS DANTAS DA SILVA",
+    "Componente Curricular": "IMD0905 - CIÊNCIA DE DADOS I",
+    "Turma": "1",
+    "Horário": "24T12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "38",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "IVANOVITCH MEDEIROS DANTAS DA SILVA",
+    "Componente Curricular": "IMD0033 - PROBABILIDADE",
+    "Turma": "2",
+    "Horário": "35T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "JOAO CARLOS XAVIER JUNIOR",
+    "Componente Curricular": "IMD0401 - BANCO DE DADOS",
+    "Turma": "1",
+    "Horário": "24N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "27",
+    "Média Geral": "9",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "JOAO CARLOS XAVIER JUNIOR",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "2",
+    "Horário": "24N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "26",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "2.26"
+  },
+  {
+    "Docente": "JORGE ESTEFANO SANTANA DE SOUZA",
+    "Componente Curricular": "IMD0039 - ESTRUTURAS DE DADOS BÁSICAS II",
+    "Turma": "3",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "38",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "JORGE ESTEFANO SANTANA DE SOUZA",
+    "Componente Curricular": "IMD0602 - FERRAMENTAS PARA ANÁLISE DE SEQUÊNCIAS",
+    "Turma": "1",
+    "Horário": "35T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "8",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "0.82"
+  },
+  {
+    "Docente": "JORGE ESTEFANO SANTANA DE SOUZA",
+    "Componente Curricular": "IMD0605 - SEMINÁRIOS EM BIOINFORMÁTICA",
+    "Turma": "1",
+    "Horário": "4M56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "21",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "3",
+    "Horário": "26N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "4",
+    "Horário": "26N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "2.03"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "3",
+    "Horário": "4N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "LEONARDO CESAR TEONACIO BEZERRA",
+    "Componente Curricular": "IMD0039 - ESTRUTURAS DE DADOS BÁSICAS II",
+    "Turma": "2",
+    "Horário": "46M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "28",
+    "Média Geral": "8.89",
+    "Desvio Padrão Geral": "2.25"
+  },
+  {
+    "Docente": "LEONARDO CESAR TEONACIO BEZERRA",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "3",
+    "Horário": "46M56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "29",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "2.25"
+  },
+  {
+    "Docente": "LORENA AZEVEDO DE SOUSA",
+    "Componente Curricular": "IMD0212 - INGLÊS NÍVEL BÁSICO",
+    "Turma": "1",
+    "Horário": "35T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "20",
+    "Média Geral": "9.93",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "LORENA AZEVEDO DE SOUSA",
+    "Componente Curricular": "IMD0212 - INGLÊS NÍVEL BÁSICO",
+    "Turma": "2",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "19",
+    "Média Geral": "9.93",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "1",
+    "Horário": "5T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "6",
+    "Média Geral": "9.85",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "3",
+    "Horário": "3T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "46",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "2.02"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "4",
+    "Horário": "3T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "8",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "LUCIANA VIEIRA ANDRADE",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "4",
+    "Horário": "246N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "27",
+    "Média Geral": "8.27",
+    "Desvio Padrão Geral": "2.79"
+  },
+  {
+    "Docente": "LUCIANA VIEIRA ANDRADE",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "5",
+    "Horário": "246N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "13",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "MIRLA RODRIGUES PINTO",
+    "Componente Curricular": "IMD0044 - PRÁTICAS DE LEITURA E ESCRITA EM INGLÊS",
+    "Turma": "1",
+    "Horário": "5T3456 (30/07/2018 - 22/12/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.08",
+    "Desvio Padrão Geral": "2.58"
+  },
+  {
+    "Docente": "MIRLA RODRIGUES PINTO",
+    "Componente Curricular": "IMD0018 - PRÁTICAS DE LEITURA EM INGLÊS",
+    "Turma": "1",
+    "Horário": "3N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "30",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "MIRLA RODRIGUES PINTO",
+    "Componente Curricular": "IMD0018 - PRÁTICAS DE LEITURA EM INGLÊS",
+    "Turma": "2",
+    "Horário": "3N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "39",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "2.41"
+  },
+  {
+    "Docente": "RAFAELA HORACINA SILVA ROCHA SOARES",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "1",
+    "Horário": "2T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "50",
+    "Média Geral": "8.28",
+    "Desvio Padrão Geral": "2.61"
+  },
+  {
+    "Docente": "RAFAELA HORACINA SILVA ROCHA SOARES",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "3",
+    "Horário": "246T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "34",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "1",
+    "Horário": "35M12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "16",
+    "Média Geral": "8.42",
+    "Desvio Padrão Geral": "2.7"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "2",
+    "Horário": "35M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "55",
+    "Média Geral": "8.34",
+    "Desvio Padrão Geral": "2.91"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "3",
+    "Horário": "35T12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "39",
+    "Média Geral": "8.19",
+    "Desvio Padrão Geral": "3.13"
+  },
+  {
+    "Docente": "SILVIO COSTA SAMPAIO",
+    "Componente Curricular": "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I",
+    "Turma": "1",
+    "Horário": "35N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "SILVIO COSTA SAMPAIO",
+    "Componente Curricular": "IMD0703 - SEGURANÇA DE REDES",
+    "Turma": "1",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "TETSU SAKAMOTO",
+    "Componente Curricular": "IMD0602 - FERRAMENTAS PARA ANÁLISE DE SEQUÊNCIAS",
+    "Turma": "1",
+    "Horário": "35T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "8",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "0.93"
+  },
+  {
+    "Docente": "TETSU SAKAMOTO",
+    "Componente Curricular": "IMD0033 - PROBABILIDADE",
+    "Turma": "3",
+    "Horário": "35N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "23",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "TETSU SAKAMOTO",
+    "Componente Curricular": "IMD0605 - SEMINÁRIOS EM BIOINFORMÁTICA",
+    "Turma": "1",
+    "Horário": "4M56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "21",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "1",
+    "Horário": "3M12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "57",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "2.29"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "2",
+    "Horário": "3M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "37",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "5",
+    "Horário": "5N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "25",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "6",
+    "Horário": "5N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "60",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0506 - SISTEMAS COLABORATIVOS DE APOIO À APRENDIZAGEM",
+    "Turma": "1",
+    "Horário": "24T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "1",
+    "Horário": "4M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "57",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "2",
+    "Horário": "4M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "60",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "2.54"
+  },
+  {
+    "Docente": "ALYSON MATHEUS DE CARVALHO SOUZA",
+    "Componente Curricular": "IMD0811 - MOTORES DE JOGOS DIGITAIS",
+    "Turma": "1",
+    "Horário": "35T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "18",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "ANDERSON PAIVA CRUZ",
+    "Componente Curricular": "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II",
+    "Turma": "3",
+    "Horário": "246M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "65",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "ANDERSON PAIVA CRUZ",
+    "Componente Curricular": "IMD0822 - PROJETO DE INOVAÇÃO TECNOLÓGICA",
+    "Turma": "1",
+    "Horário": "6T3456 (19/02/2018 - 07/07/2018)",
+    "Discentes": "17",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.1"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0415 - GESTÃO DE INFRAESTRUTURA DE TI",
+    "Turma": "2",
+    "Horário": "24N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "32",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "2",
+    "Horário": "24N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "27",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "2",
+    "Horário": "6N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "27",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "7",
+    "Horário": "2M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "71",
+    "Média Geral": "9.04",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "1",
+    "Horário": "35M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "60",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "2.14"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "3",
+    "Horário": "35T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "58",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD0033 - PROBABILIDADE",
+    "Turma": "3",
+    "Horário": "35N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "62",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "2",
+    "Horário": "35N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "53",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "8",
+    "Horário": "2M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "67",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "2",
+    "Horário": "35M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "62",
+    "Média Geral": "9.26",
+    "Desvio Padrão Geral": "2.26"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "4",
+    "Horário": "35T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "12",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "ATHANASIOS TSOUANAS",
+    "Componente Curricular": "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II",
+    "Turma": "2",
+    "Horário": "246N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "30",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "2.18"
+  },
+  {
+    "Docente": "ATHANASIOS TSOUANAS",
+    "Componente Curricular": "IMD0211 - PROGRAMAÇÃO FUNCIONAL",
+    "Turma": "1",
+    "Horário": "24T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "5",
+    "Horário": "3N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "56",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "6",
+    "Horário": "3N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "51",
+    "Média Geral": "9.58",
+    "Desvio Padrão Geral": "2.26"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "5",
+    "Horário": "46N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "50",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "2.32"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD1001 - MATEMÁTICA ELEMENTAR",
+    "Turma": "6",
+    "Horário": "46N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "52",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "BRUNO SANTANA DA SILVA",
+    "Componente Curricular": "IMD0104 - TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO V",
+    "Turma": "1",
+    "Horário": "24T12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "BRUNO SANTANA DA SILVA",
+    "Componente Curricular": "IMD0107 - TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO VIII",
+    "Turma": "1",
+    "Horário": "6M3456 (19/02/2018 - 07/07/2018)",
+    "Discentes": "20",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DA SILVA",
+    "Componente Curricular": "IMD0409 - DESENVOLVIMENTO DE SISTEMAS WEB II",
+    "Turma": "1",
+    "Horário": "35N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "16",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "CESAR RENNO COSTA",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "1",
+    "Horário": "35T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "37",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "2.3"
+  },
+  {
+    "Docente": "CESAR RENNO COSTA",
+    "Componente Curricular": "IMD0605 - SEMINÁRIOS EM BIOINFORMÁTICA",
+    "Turma": "1",
+    "Horário": "4M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "32",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "CHARLES ANDRYE GALVAO MADEIRA",
+    "Componente Curricular": "IMD0521 - FUNDAMENTOS DE JOGOS DIGITAIS",
+    "Turma": "1",
+    "Horário": "24T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "40",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "CHARLES ANDRYE GALVAO MADEIRA",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "1",
+    "Horário": "24M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "38",
+    "Média Geral": "9.02",
+    "Desvio Padrão Geral": "2.5"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "3",
+    "Horário": "246T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "51",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "5",
+    "Horário": "5N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "62",
+    "Média Geral": "8.89",
+    "Desvio Padrão Geral": "2.48"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "6",
+    "Horário": "5N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "60",
+    "Média Geral": "8.96",
+    "Desvio Padrão Geral": "2.59"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "9",
+    "Horário": "2T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "66",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "2.13"
+  },
+  {
+    "Docente": "DANILO CURVELO DE SOUZA",
+    "Componente Curricular": "IMD0701 - ADMINISTRAÇÃO DE SISTEMAS OPERACIONAIS PARA REDES",
+    "Turma": "1",
+    "Horário": "24N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "26",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "DENNYS LEITE MAIA",
+    "Componente Curricular": "IMD0517 - FUNDAMENTOS PEDAGÓGICOS PARA A INFORMÁTICA EDUCACIONAL I",
+    "Turma": "1",
+    "Horário": "24N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "37",
+    "Média Geral": "9.85",
+    "Desvio Padrão Geral": "1.44"
+  },
+  {
+    "Docente": "EIJI ADACHI MEDEIROS BARBOSA",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "2",
+    "Horário": "35N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "25",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "EIJI ADACHI MEDEIROS BARBOSA",
+    "Componente Curricular": "IMD0408 - PROCESSOS DE SOFTWARE",
+    "Turma": "1",
+    "Horário": "35N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "14",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "EMERSON MOURA DE ALENCAR",
+    "Componente Curricular": "IMD0509 - DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS",
+    "Turma": "1",
+    "Horário": "35T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "38",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "EMERSON MOURA DE ALENCAR",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "5",
+    "Horário": "46N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "EMERSON MOURA DE ALENCAR",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "6",
+    "Horário": "46N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "2.56"
+  },
+  {
+    "Docente": "FREDERICO ARAUJO DA SILVA LOPES",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "1",
+    "Horário": "35M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "36",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "FREDERICO ARAUJO DA SILVA LOPES",
+    "Componente Curricular": "DIM0614 - PROGRAMAÇÃO DISTRIBUÍDA",
+    "Turma": "3",
+    "Horário": "35M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "25",
+    "Média Geral": "8.62",
+    "Desvio Padrão Geral": "2.46"
+  },
+  {
+    "Docente": "GLAUBER GALVAO DE ARAUJO",
+    "Componente Curricular": "IMD0725 - DESENVOLVIMENTO DE PROJETOS DE REDES DE COMPUTADORES",
+    "Turma": "2",
+    "Horário": "35N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "26",
+    "Média Geral": "8.79",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "GLAUBER GALVAO DE ARAUJO",
+    "Componente Curricular": "IMD0043 - REDES DE COMPUTADORES",
+    "Turma": "2",
+    "Horário": "24N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "17",
+    "Média Geral": "8.25",
+    "Desvio Padrão Geral": "2.42"
+  },
+  {
+    "Docente": "GUSTAVO GIRAO BARRETO DA SILVA",
+    "Componente Curricular": "IMD0041 - INTRODUÇÃO A ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES",
+    "Turma": "2",
+    "Horário": "24T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "40",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "HANDERSON BEZERRA MEDEIROS",
+    "Componente Curricular": "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I",
+    "Turma": "1",
+    "Horário": "35T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "41",
+    "Média Geral": "8.68",
+    "Desvio Padrão Geral": "2.49"
+  },
+  {
+    "Docente": "HANDERSON BEZERRA MEDEIROS",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "2",
+    "Horário": "24T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "34",
+    "Média Geral": "9.14",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "IRIS LINHARES PIMENTA GURGEL",
+    "Componente Curricular": "IMD0405 - FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO",
+    "Turma": "2",
+    "Horário": "24N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "60",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "ISABEL DILLMANN NUNES",
+    "Componente Curricular": "IMD0503 - LEVANTAMENTO E MODELAGEM DE REQUISITOS",
+    "Turma": "1",
+    "Horário": "35N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.67",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "ISABEL DILLMANN NUNES",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "3",
+    "Horário": "5T12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "58",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "ISABEL DILLMANN NUNES",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "4",
+    "Horário": "5N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "53",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "2.25"
+  },
+  {
+    "Docente": "IVANOVITCH MEDEIROS DANTAS DA SILVA",
+    "Componente Curricular": "IMD0033 - PROBABILIDADE",
+    "Turma": "1",
+    "Horário": "35M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "36",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "IVANOVITCH MEDEIROS DANTAS DA SILVA",
+    "Componente Curricular": "IMD0033 - PROBABILIDADE",
+    "Turma": "2",
+    "Horário": "35T12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "37",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "JORGE ESTEFANO SANTANA DE SOUZA",
+    "Componente Curricular": "IMD0039 - ESTRUTURAS DE DADOS BÁSICAS II",
+    "Turma": "1",
+    "Horário": "35N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "39",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "JORGE ESTEFANO SANTANA DE SOUZA",
+    "Componente Curricular": "IMD0605 - SEMINÁRIOS EM BIOINFORMÁTICA",
+    "Turma": "1",
+    "Horário": "4M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "32",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0041 - INTRODUÇÃO A ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES",
+    "Turma": "3",
+    "Horário": "24N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "32",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "2.07"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "DIM0615.1 - LABORATORIO DE PROJETO DE SISTEMAS OPERACIONAIS",
+    "Turma": "1",
+    "Horário": "6M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "11",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "DIM0615.0 - PROJETO DE SISTEMAS OPERACIONAIS",
+    "Turma": "1",
+    "Horário": "24M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "11",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0236 - TÓPICOS ESPECIAIS EM SISTEMAS EMBARCADOS \"G\"",
+    "Turma": "1",
+    "Horário": "24T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "18",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "LEONARDO CESAR TEONACIO BEZERRA",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "4",
+    "Horário": "35N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "32",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "LEONARDO CESAR TEONACIO BEZERRA",
+    "Componente Curricular": "IMD1004 - PENSAMENTO COMPUTACIONAL",
+    "Turma": "8",
+    "Horário": "2N1234 (19/02/2018 - 07/07/2018)",
+    "Discentes": "32",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "LORENA AZEVEDO DE SOUSA",
+    "Componente Curricular": "IMD0018 - PRÁTICAS DE LEITURA EM INGLÊS",
+    "Turma": "4",
+    "Horário": "3M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "56",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "LORENA AZEVEDO DE SOUSA",
+    "Componente Curricular": "IMD0018 - PRÁTICAS DE LEITURA EM INGLÊS",
+    "Turma": "5",
+    "Horário": "3M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "55",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "2.48"
+  },
+  {
+    "Docente": "LORENA AZEVEDO DE SOUSA",
+    "Componente Curricular": "IMD0018 - PRÁTICAS DE LEITURA EM INGLÊS",
+    "Turma": "6",
+    "Horário": "3T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "56",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "LOURENA KARIN DE MEDEIROS ROCHA",
+    "Componente Curricular": "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II",
+    "Turma": "3",
+    "Horário": "246M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "65",
+    "Média Geral": "8.71",
+    "Desvio Padrão Geral": "2.26"
+  },
+  {
+    "Docente": "LOURENA KARIN DE MEDEIROS ROCHA",
+    "Componente Curricular": "IMD1003 - GEOMETRIA EUCLIDIANA",
+    "Turma": "8",
+    "Horário": "2M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "67",
+    "Média Geral": "7.76",
+    "Desvio Padrão Geral": "3.05"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "3",
+    "Horário": "3T12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "58",
+    "Média Geral": "9.19",
+    "Desvio Padrão Geral": "2.47"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "5",
+    "Horário": "3N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "42",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "2.47"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "1",
+    "Horário": "3T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "34",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "LUCIANA VIEIRA ANDRADE",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "3",
+    "Horário": "246N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "45",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "LUCIANA VIEIRA ANDRADE",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "2",
+    "Horário": "246N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "46",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "2.43"
+  },
+  {
+    "Docente": "RAFAELA HORACINA SILVA ROCHA SOARES",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "1",
+    "Horário": "5M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "65",
+    "Média Geral": "8.29",
+    "Desvio Padrão Geral": "2.65"
+  },
+  {
+    "Docente": "RAFAELA HORACINA SILVA ROCHA SOARES",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "2",
+    "Horário": "5M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "62",
+    "Média Geral": "7.99",
+    "Desvio Padrão Geral": "2.91"
+  },
+  {
+    "Docente": "RAFAELA HORACINA SILVA ROCHA SOARES",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "3",
+    "Horário": "5T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "15",
+    "Média Geral": "8.66",
+    "Desvio Padrão Geral": "2.29"
+  },
+  {
+    "Docente": "RAFAELA HORACINA SILVA ROCHA SOARES",
+    "Componente Curricular": "IMD1002 - ANÁLISE COMBINATÓRIA",
+    "Turma": "4",
+    "Horário": "5T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "64",
+    "Média Geral": "8.41",
+    "Desvio Padrão Geral": "2.82"
+  },
+  {
+    "Docente": "RODRIGO TEIXEIRA RAMOS",
+    "Componente Curricular": "DIM0436 - ESPECIFICACAO E VERIFICACAO DE PROGRAMAS",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "16",
+    "Média Geral": "9.93",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "RODRIGO TEIXEIRA RAMOS",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "3",
+    "Horário": "24N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.33",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "RODRIGO TEIXEIRA RAMOS",
+    "Componente Curricular": "IMD0403 - PROGRAMAÇÃO COM BANCO DE DADOS",
+    "Turma": "2",
+    "Horário": "24N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "7",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "1",
+    "Horário": "246M12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "41",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "2.41"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "1",
+    "Horário": "24T12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "49",
+    "Média Geral": "8.78",
+    "Desvio Padrão Geral": "2.73"
+  },
+  {
+    "Docente": "SILVIO COSTA SAMPAIO",
+    "Componente Curricular": "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I",
+    "Turma": "2",
+    "Horário": "35N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.3",
+    "Desvio Padrão Geral": "2.32"
+  },
+  {
+    "Docente": "SILVIO COSTA SAMPAIO",
+    "Componente Curricular": "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I",
+    "Turma": "3",
+    "Horário": "35N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "27",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "WELLINGTON SILVA DE SOUZA",
+    "Componente Curricular": "IMD0043 - REDES DE COMPUTADORES",
+    "Turma": "2",
+    "Horário": "24N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "17",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "1",
+    "Horário": "3M12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "56",
+    "Média Geral": "9.33",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "2",
+    "Horário": "5M12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "59",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "2.36"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "4",
+    "Horário": "2N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "46",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "5",
+    "Horário": "2N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "49",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0519 - APRENDIZAGEM BASEADA EM PROJETOS",
+    "Turma": "1",
+    "Horário": "24T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "36",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "1",
+    "Horário": "3N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "19",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "ADJA FERREIRA DE ANDRADE",
+    "Componente Curricular": "IMD0523 - TECNOLOGIAS EDUCACIONAIS",
+    "Turma": "1",
+    "Horário": "24N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "35",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.44"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "6",
+    "Horário": "24N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "26",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "1.4"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "6",
+    "Horário": "6N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "24",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "ANDRE LUIZ DA SILVA SOLINO",
+    "Componente Curricular": "IMD0019 - RESOLUÇÃO DE PROBLEMAS MATEMÁTICOS PARA TI",
+    "Turma": "2",
+    "Horário": "246N1234 (24/07/2017 - 16/12/2017)",
+    "Discentes": "58",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "ANDRE LUIZ DE SOUZA BRITO",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "5",
+    "Horário": "24N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "ANDRE LUIZ DE SOUZA BRITO",
+    "Componente Curricular": "IMD0801 - MECÂNICAS E BALANCEAMENTO DE JOGOS",
+    "Turma": "1",
+    "Horário": "24T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "42",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "ANDRE LUIZ DE SOUZA BRITO",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "5",
+    "Horário": "6N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "3",
+    "Horário": "24T12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "35",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "3",
+    "Horário": "6T12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "36",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+    "Componente Curricular": "IMD0920 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE",
+    "Turma": "1",
+    "Horário": "24T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "18",
+    "Média Geral": "9.03",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "3",
+    "Horário": "246N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "20",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD0019 - RESOLUÇÃO DE PROBLEMAS MATEMÁTICOS PARA TI",
+    "Turma": "1",
+    "Horário": "246M3456 (24/07/2017 - 16/12/2017)",
+    "Discentes": "48",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "3",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "37",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "2",
+    "Horário": "246M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "61",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "ANTONIO IGOR SILVA DE OLIVEIRA",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "5",
+    "Horário": "246T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "41",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "ATHANASIOS TSOUANAS",
+    "Componente Curricular": "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II",
+    "Turma": "1",
+    "Horário": "246T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "27",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "ATHANASIOS TSOUANAS",
+    "Componente Curricular": "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II",
+    "Turma": "2",
+    "Horário": "246N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD0019 - RESOLUÇÃO DE PROBLEMAS MATEMÁTICOS PARA TI",
+    "Turma": "2",
+    "Horário": "246N1234 (24/07/2017 - 16/12/2017)",
+    "Discentes": "58",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "AUGUSTO JORGE DE MACEDO",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "3",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "37",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "BRUNO SANTANA DA SILVA",
+    "Componente Curricular": "IMD0510 - ACESSIBILIDADE DIGITAL",
+    "Turma": "1",
+    "Horário": "6M3456 (24/07/2017 - 16/12/2017)",
+    "Discentes": "22",
+    "Média Geral": "9.21",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "BRUNO SANTANA DA SILVA",
+    "Componente Curricular": "IMD0504 - RELAÇÕES ENTRE COMUNICAÇÃO, MÍDIA E EDUCAÇÃO",
+    "Turma": "1",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "49",
+    "Média Geral": "9.08",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "BRUNO SANTANA DA SILVA",
+    "Componente Curricular": "IMD0253 - TÓPICOS ESPECIAIS EM INFORMÁTICA EDUCACIONAL \"D\"",
+    "Turma": "1",
+    "Horário": "35T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "20",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.07"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DA SILVA",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "1",
+    "Horário": "35M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "31",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "CARLOS EDUARDO DA SILVA",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "2",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "22",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "CESAR RENNO COSTA",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "4",
+    "Horário": "35M56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "27",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.18"
+  },
+  {
+    "Docente": "CESAR RENNO COSTA",
+    "Componente Curricular": "IMD0602 - FERRAMENTAS PARA ANÁLISE DE SEQUÊNCIAS",
+    "Turma": "1",
+    "Horário": "35T1234 (24/07/2017 - 30/09/2017)",
+    "Discentes": "11",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.13"
+  },
+  {
+    "Docente": "CHARLES ANDRYE GALVAO MADEIRA",
+    "Componente Curricular": "IMD0522 - JOGOS DIGITAIS COMO FERRAMENTA PEDAGÓGICA",
+    "Turma": "1",
+    "Horário": "24T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "39",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "CHARLES ANDRYE GALVAO MADEIRA",
+    "Componente Curricular": "IMD0019 - RESOLUÇÃO DE PROBLEMAS MATEMÁTICOS PARA TI",
+    "Turma": "1",
+    "Horário": "246M3456 (24/07/2017 - 16/12/2017)",
+    "Discentes": "48",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "4",
+    "Horário": "246N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "26",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "IMD0033 - PROBABILIDADE",
+    "Turma": "2",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "19",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.14"
+  },
+  {
+    "Docente": "DANILO CURVELO DE SOUZA",
+    "Componente Curricular": "IMD0406 - PROTOCOLO E SERVIÇOS DE INTERNET",
+    "Turma": "1",
+    "Horário": "6N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "10",
+    "Média Geral": "9.85",
+    "Desvio Padrão Geral": "1.05"
+  },
+  {
+    "Docente": "DENNYS LEITE MAIA",
+    "Componente Curricular": "IMD0251 - TÓPICOS ESPECIAIS EM INFORMÁTICA EDUCACIONAL \"B\"",
+    "Turma": "1",
+    "Horário": "24N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "16",
+    "Média Geral": "9.99",
+    "Desvio Padrão Geral": "0.82"
+  },
+  {
+    "Docente": "EIJI ADACHI MEDEIROS BARBOSA",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "3",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "19",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "EIJI ADACHI MEDEIROS BARBOSA",
+    "Componente Curricular": "IMD0412 - INTRODUÇÃO AO TESTE DE SOFTWARE",
+    "Turma": "1",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "21",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "EUGENIO PACCELLI AGUIAR FREIRE",
+    "Componente Curricular": "IMD0504 - RELAÇÕES ENTRE COMUNICAÇÃO, MÍDIA E EDUCAÇÃO",
+    "Turma": "1",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "49",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "EUGENIO PACCELLI AGUIAR FREIRE",
+    "Componente Curricular": "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE",
+    "Turma": "1",
+    "Horário": "3N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "19",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "FERNANDA PALHANO XAVIER DE FONTES",
+    "Componente Curricular": "IMD0233 - TÓPICOS ESPECIAIS EM SISTEMAS EMBARCADOS \"D\"",
+    "Turma": "1",
+    "Horário": "24T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "18",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "FREDERICO ARAUJO DA SILVA LOPES",
+    "Componente Curricular": "IMD0407 - DESIGN DE SOFTWARE II",
+    "Turma": "1",
+    "Horário": "24N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "15",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "FREDERICO ARAUJO DA SILVA LOPES",
+    "Componente Curricular": "DIM0531 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE I",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "15",
+    "Média Geral": "8.2",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "GLAUBER GALVAO DE ARAUJO",
+    "Componente Curricular": "IMD0704 - ADMINISTRAÇÃO DE SERVIÇOS DE REDES PARA INTERNET",
+    "Turma": "1",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "20",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "GLAUBER GALVAO DE ARAUJO",
+    "Componente Curricular": "IMD0712 - GERÊNCIA DE REDES",
+    "Turma": "1",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "18",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "GUSTAVO GIRAO BARRETO DA SILVA",
+    "Componente Curricular": "IMD0036 - SISTEMAS OPERACIONAIS",
+    "Turma": "2",
+    "Horário": "35M56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "37",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.03"
+  },
+  {
+    "Docente": "IRIS LINHARES PIMENTA GURGEL",
+    "Componente Curricular": "IMD0513 - EMPREENDEDORISMO",
+    "Turma": "1",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "58",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "IRIS LINHARES PIMENTA GURGEL",
+    "Componente Curricular": "IMD0411 - INTRODUÇÃO À GOVERNANÇA E GESTÃO DE TI",
+    "Turma": "1",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "15",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "0.97"
+  },
+  {
+    "Docente": "ISAAC FRANCO FERNANDES",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "4",
+    "Horário": "24T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "31",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.15"
+  },
+  {
+    "Docente": "ISAAC FRANCO FERNANDES",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "4",
+    "Horário": "6T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.16"
+  },
+  {
+    "Docente": "ISABEL DILLMANN NUNES",
+    "Componente Curricular": "IMD0502 - PROCESSO DE DESENVOLVIMENTO DE SOFTWARE EDUCACIONAL",
+    "Turma": "1",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "18",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "ISABEL DILLMANN NUNES",
+    "Componente Curricular": "IMD0252 - TÓPICOS ESPECIAIS EM INFORMÁTICA EDUCACIONAL \"C\"",
+    "Turma": "1",
+    "Horário": "35T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "37",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "IVANOVITCH MEDEIROS DANTAS DA SILVA",
+    "Componente Curricular": "IMD0033 - PROBABILIDADE",
+    "Turma": "1",
+    "Horário": "35M56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "20",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "JOAO CARLOS XAVIER JUNIOR",
+    "Componente Curricular": "IMD0401 - BANCO DE DADOS",
+    "Turma": "1",
+    "Horário": "24N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "22",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "0.65"
+  },
+  {
+    "Docente": "JOAO CARLOS XAVIER JUNIOR",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "1",
+    "Horário": "35M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "31",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "JORGE ESTEFANO SANTANA DE SOUZA",
+    "Componente Curricular": "IMD0039 - ESTRUTURAS DE DADOS BÁSICAS II",
+    "Turma": "2",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "JORGE ESTEFANO SANTANA DE SOUZA",
+    "Componente Curricular": "IMD0602 - FERRAMENTAS PARA ANÁLISE DE SEQUÊNCIAS",
+    "Turma": "1",
+    "Horário": "35T1234 (24/07/2017 - 30/09/2017)",
+    "Discentes": "11",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "0.87"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "4",
+    "Horário": "24T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "31",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.12"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO",
+    "Turma": "4",
+    "Horário": "6T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.08"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0036 - SISTEMAS OPERACIONAIS",
+    "Turma": "1",
+    "Horário": "24N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "16",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "JULIO CESAR PAULINO DE MELO",
+    "Componente Curricular": "IMD0920 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE",
+    "Turma": "1",
+    "Horário": "24T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "18",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.21"
+  },
+  {
+    "Docente": "LEONARDO CESAR TEONACIO BEZERRA",
+    "Componente Curricular": "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I",
+    "Turma": "2",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "15",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "LEONARDO CESAR TEONACIO BEZERRA",
+    "Componente Curricular": "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I",
+    "Turma": "4",
+    "Horário": "35M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "28",
+    "Média Geral": "9.44",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "LOURENA KARIN DE MEDEIROS ROCHA",
+    "Componente Curricular": "IMD0019 - RESOLUÇÃO DE PROBLEMAS MATEMÁTICOS PARA TI",
+    "Turma": "1",
+    "Horário": "246M3456 (24/07/2017 - 16/12/2017)",
+    "Discentes": "48",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I",
+    "Turma": "1",
+    "Horário": "5N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "14",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "0.98"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "3",
+    "Horário": "3N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "16",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "LUCELIO DANTAS DE AQUINO",
+    "Componente Curricular": "IMD0335 - TÓPICOS ESPECIAIS I",
+    "Turma": "1",
+    "Horário": "35T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "31",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "LUCIANA VIEIRA ANDRADE",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "3",
+    "Horário": "246N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "39",
+    "Média Geral": "8.85",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "LUCIANA VIEIRA ANDRADE",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "4",
+    "Horário": "246N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "43",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "NELSON ION DE OLIVEIRA",
+    "Componente Curricular": "IMD0404 - DESENVOLVIMENTO DE SISTEMAS WEB I",
+    "Turma": "1",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "29",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.21"
+  },
+  {
+    "Docente": "RAFAELA HORACINA SILVA ROCHA SOARES",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "1",
+    "Horário": "246M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "35",
+    "Média Geral": "8.39",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "RAFAELA HORACINA SILVA ROCHA SOARES",
+    "Componente Curricular": "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I",
+    "Turma": "2",
+    "Horário": "246M56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "63",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "RODRIGO TEIXEIRA RAMOS",
+    "Componente Curricular": "IMD0401 - BANCO DE DADOS",
+    "Turma": "1",
+    "Horário": "24N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "22",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "RODRIGO TEIXEIRA RAMOS",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "1",
+    "Horário": "35M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "31",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "RODRIGO TEIXEIRA RAMOS",
+    "Componente Curricular": "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II",
+    "Turma": "2",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "22",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "1",
+    "Horário": "35M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "59",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "2",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "37",
+    "Média Geral": "9.14",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "SAMYR SILVA BEZERRA JACOME",
+    "Componente Curricular": "IMD0034 - VETORES E GEOMETRIA ANALÍTICA",
+    "Turma": "4",
+    "Horário": "35M12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "29",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "SILVIO COSTA SAMPAIO",
+    "Componente Curricular": "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I",
+    "Turma": "1",
+    "Horário": "35M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "28",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "SILVIO COSTA SAMPAIO",
+    "Componente Curricular": "IMD0703 - SEGURANÇA DE REDES",
+    "Turma": "1",
+    "Horário": "24N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "21",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "0.96"
+  },
+  {
+    "Docente": "WELLINGTON SILVA DE SOUZA",
+    "Componente Curricular": "IMD0043 - REDES DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "2M1234 (24/07/2017 - 16/12/2017)",
+    "Discentes": "34",
+    "Média Geral": "8.86",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "WELLINGTON SILVA DE SOUZA",
+    "Componente Curricular": "IMD0702 - SERVIÇOS DE REDE E TRANSPORTE",
+    "Turma": "1",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "11",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "1",
+    "Horário": "3M12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "61",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "2",
+    "Horário": "5M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "37",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "4",
+    "Horário": "5N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "41",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "WILLIAM BRENNO DOS SANTOS OLIVEIRA",
+    "Componente Curricular": "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II",
+    "Turma": "5",
+    "Horário": "3M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "29",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.41"
+  }
+]

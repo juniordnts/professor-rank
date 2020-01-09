@@ -1,0 +1,2594 @@
+[
+  {
+    "Docente": "ADILSON JOSÉ DE OLIVEIRA",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "1",
+    "Horário": "35M3456 (11/02/2019 - 16/04/2019)",
+    "Discentes": "16",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "ADILSON JOSÉ DE OLIVEIRA",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "2",
+    "Horário": "35N1234 (11/02/2019 - 16/04/2019)",
+    "Discentes": "17",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "2.17"
+  },
+  {
+    "Docente": "ANDERSON CLAYTON ALVES DE MELO",
+    "Componente Curricular": "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III",
+    "Turma": "1",
+    "Horário": "6T3456 (11/02/2019 - 29/06/2019)",
+    "Discentes": "21",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "ANDERSON CLAYTON ALVES DE MELO",
+    "Componente Curricular": "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III",
+    "Turma": "2",
+    "Horário": "6N1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "28",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "ANDRE JESUS SOARES MAURENTE",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "3",
+    "Horário": "24T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "29",
+    "Média Geral": "7.03",
+    "Desvio Padrão Geral": "3.56"
+  },
+  {
+    "Docente": "ANDRE JESUS SOARES MAURENTE",
+    "Componente Curricular": "MEC1802 - TRANSMISSÃO DE CALOR",
+    "Turma": "4",
+    "Horário": "24N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "10",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "2.13"
+  },
+  {
+    "Docente": "ANGELO RONCALLI OLIVEIRA GUERRA",
+    "Componente Curricular": "MEC1705 - CAD PARA ENGENHARIA II",
+    "Turma": "2",
+    "Horário": "2M1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "22",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "ANGELO RONCALLI OLIVEIRA GUERRA",
+    "Componente Curricular": "MEC1203 - PROJETO DE CLIMATIZAÇÃO",
+    "Turma": "1",
+    "Horário": "2N1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "11",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1805 - ELEMENTOS DE MÁQUINAS I",
+    "Turma": "2",
+    "Horário": "2345N12 (11/02/2019 - 18/04/2019)",
+    "Discentes": "31",
+    "Média Geral": "8.92",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1834 - INTRODUÇÃO AOS ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "46M56",
+    "Discentes": "21",
+    "Média Geral": "9.17",
+    "Desvio Padrão Geral": "2.02"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1211 - TÓPICOS ESPECIAIS EM PROJETOS MECÂNICOS",
+    "Turma": "1",
+    "Horário": "4T56 2N34 (11/02/2019 - 20/04/2019)",
+    "Discentes": "7",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.09"
+  },
+  {
+    "Docente": "CARLOS MAGNO DE LIMA",
+    "Componente Curricular": "DEM0102 - ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO",
+    "Turma": "1",
+    "Horário": "35N12",
+    "Discentes": "31",
+    "Média Geral": "8.65",
+    "Desvio Padrão Geral": "2.63"
+  },
+  {
+    "Docente": "CARLOS MAGNO DE LIMA",
+    "Componente Curricular": "MEC1221 - INTRODUÇÃO À ENGENHARIA AUTOMOTIVA",
+    "Turma": "1",
+    "Horário": "45T3456 (22/04/2019 - 29/06/2019)",
+    "Discentes": "9",
+    "Média Geral": "7.01",
+    "Desvio Padrão Geral": "3.11"
+  },
+  {
+    "Docente": "CLEITON RUBENS FORMIGA BARBOSA",
+    "Componente Curricular": "MEC1212 - LABORATÓRIO DE SISTEMAS TÉRMICOS",
+    "Turma": "2",
+    "Horário": "34M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "5",
+    "Média Geral": "7.34",
+    "Desvio Padrão Geral": "2.43"
+  },
+  {
+    "Docente": "CLEITON RUBENS FORMIGA BARBOSA",
+    "Componente Curricular": "MEC1903 - MOTORES TÉRMICOS",
+    "Turma": "3",
+    "Horário": "24N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "25",
+    "Média Geral": "8.29",
+    "Desvio Padrão Geral": "2.01"
+  },
+  {
+    "Docente": "CLEITON RUBENS FORMIGA BARBOSA",
+    "Componente Curricular": "MEC1902 - REFRIGERAÇÃO E AR CONDICIONADO",
+    "Turma": "1",
+    "Horário": "35T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "25",
+    "Média Geral": "8.49",
+    "Desvio Padrão Geral": "2.29"
+  },
+  {
+    "Docente": "EDUARDO JOSÉ CIDADE CAVALCANTI",
+    "Componente Curricular": "MEC1903 - MOTORES TÉRMICOS",
+    "Turma": "2",
+    "Horário": "35T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "11",
+    "Média Geral": "9.44",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1002 - ESPECIFICAÇÃO DE TOLERANCIAS EM PROJETOS",
+    "Turma": "1",
+    "Horário": "24T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "39",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1001 - FABRICAÇÃO DE SISTEMAS MECÂNICOS",
+    "Turma": "1",
+    "Horário": "24T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "32",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1604 - MECÂNICA DOS SÓLIDOS II",
+    "Turma": "2",
+    "Horário": "35N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "24",
+    "Média Geral": "8.91",
+    "Desvio Padrão Geral": "2.14"
+  },
+  {
+    "Docente": "FABIO DALMAZZO SANCHES",
+    "Componente Curricular": "MEC1508 - DINÂMICA",
+    "Turma": "1",
+    "Horário": "46M12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "27",
+    "Média Geral": "8.35",
+    "Desvio Padrão Geral": "2.65"
+  },
+  {
+    "Docente": "FABIO DALMAZZO SANCHES",
+    "Componente Curricular": "MEC1508 - DINÂMICA",
+    "Turma": "2",
+    "Horário": "46N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "23",
+    "Média Geral": "7.6",
+    "Desvio Padrão Geral": "3.84"
+  },
+  {
+    "Docente": "FRANCINE ALVES DA COSTA",
+    "Componente Curricular": "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I",
+    "Turma": "1",
+    "Horário": "35T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "24",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "FRANCINE ALVES DA COSTA",
+    "Componente Curricular": "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II",
+    "Turma": "1",
+    "Horário": "35M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "43",
+    "Média Geral": "9.08",
+    "Desvio Padrão Geral": "2.43"
+  },
+  {
+    "Docente": "GABRIEL IVAN MEDINA TAPIA",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "1",
+    "Horário": "35M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "29",
+    "Média Geral": "8.98",
+    "Desvio Padrão Geral": "2.29"
+  },
+  {
+    "Docente": "GABRIEL IVAN MEDINA TAPIA",
+    "Componente Curricular": "MEC1602 - SISTEMAS TÉRMICOS II",
+    "Turma": "1",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "44",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "MEC1212 - LABORATÓRIO DE SISTEMAS TÉRMICOS",
+    "Turma": "1",
+    "Horário": "35M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "10",
+    "Média Geral": "8.88",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "2",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "25",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "MEC1210 - TÓPICOS ESPECIAIS EM TERMOCIÊNCIAS",
+    "Turma": "1",
+    "Horário": "7M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "29",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "GIORGIO ANDRE BRITO OLIVEIRA",
+    "Componente Curricular": "MEC1610 - ELEMENTOS DE AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35T12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "32",
+    "Média Geral": "8.4",
+    "Desvio Padrão Geral": "2.97"
+  },
+  {
+    "Docente": "GIORGIO ANDRE BRITO OLIVEIRA",
+    "Componente Curricular": "MEC1610 - ELEMENTOS DE AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "2",
+    "Horário": "2N12 6N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "8",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "GIORGIO ANDRE BRITO OLIVEIRA",
+    "Componente Curricular": "MEC1515 - SISTEMAS HIDRÁULICOS E PNEUMÁTICOS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "10",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "GIORGIO ANDRE BRITO OLIVEIRA",
+    "Componente Curricular": "MEC1802 - TRANSMISSÃO DE CALOR",
+    "Turma": "3",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "36",
+    "Média Geral": "8.66",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1614 - INTRODUÇÃO AOS SISTEMAS DE MANUFATURA",
+    "Turma": "1",
+    "Horário": "24M12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "18",
+    "Média Geral": "9.06",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "2",
+    "Horário": "35N1234 (18/04/2019 - 29/06/2019)",
+    "Discentes": "24",
+    "Média Geral": "8.7",
+    "Desvio Padrão Geral": "2.77"
+  },
+  {
+    "Docente": "JOAO DEODATO BATISTA DOS SANTOS",
+    "Componente Curricular": "MEC1704 - MECÂNICA DOS SÓLIDOS III",
+    "Turma": "1",
+    "Horário": "46M34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "40",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "JOAO DEODATO BATISTA DOS SANTOS",
+    "Componente Curricular": "MEC1704 - MECÂNICA DOS SÓLIDOS III",
+    "Turma": "2",
+    "Horário": "46N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "14",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1805 - ELEMENTOS DE MÁQUINAS I",
+    "Turma": "1",
+    "Horário": "2345T56 (11/02/2019 - 20/04/2019)",
+    "Discentes": "39",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "2.02"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1904 - ELEMENTOS DE MÁQUINAS II",
+    "Turma": "1",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "31",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "2.01"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1904 - ELEMENTOS DE MÁQUINAS II",
+    "Turma": "2",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "23",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.18"
+  },
+  {
+    "Docente": "JOÃO WANDERLEY RODRIGUES PEREIRA",
+    "Componente Curricular": "MEC0404 - MECANICA DOS SOLIDOS",
+    "Turma": "1",
+    "Horário": "246N12",
+    "Discentes": "19",
+    "Média Geral": "7.55",
+    "Desvio Padrão Geral": "3.26"
+  },
+  {
+    "Docente": "JOÃO WANDERLEY RODRIGUES PEREIRA",
+    "Componente Curricular": "MEC0404 - MECANICA DOS SOLIDOS",
+    "Turma": "2",
+    "Horário": "246T56",
+    "Discentes": "14",
+    "Média Geral": "8.69",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "KLEIBER LIMA DE BESSA",
+    "Componente Curricular": "DEM0253 - LABORATORIO DE MECANICA DOS FLUIDOS",
+    "Turma": "1",
+    "Horário": "5T12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "15",
+    "Média Geral": "8.74",
+    "Desvio Padrão Geral": "2.31"
+  },
+  {
+    "Docente": "KLEIBER LIMA DE BESSA",
+    "Componente Curricular": "MEC1702 - MECANICA DOS FLUIDOS II",
+    "Turma": "1",
+    "Horário": "46M56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "39",
+    "Média Geral": "8.82",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "KLEIBER LIMA DE BESSA",
+    "Componente Curricular": "MEC1702 - MECANICA DOS FLUIDOS II",
+    "Turma": "2",
+    "Horário": "46N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "16",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1904 - ELEMENTOS DE MÁQUINAS II",
+    "Turma": "1",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "31",
+    "Média Geral": "7.36",
+    "Desvio Padrão Geral": "2.8"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1904 - ELEMENTOS DE MÁQUINAS II",
+    "Turma": "2",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "23",
+    "Média Geral": "8.38",
+    "Desvio Padrão Geral": "2.64"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1834 - INTRODUÇÃO AOS ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "46M56",
+    "Discentes": "21",
+    "Média Geral": "8.53",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "LUIZ GUILHERME MEIRA DE SOUZA",
+    "Componente Curricular": "MEC1608 - MÁQUINAS DE FLUXO",
+    "Turma": "1",
+    "Horário": "24T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "19",
+    "Média Geral": "9.26",
+    "Desvio Padrão Geral": "2.03"
+  },
+  {
+    "Docente": "LUIZ GUILHERME MEIRA DE SOUZA",
+    "Componente Curricular": "MEC1608 - MÁQUINAS DE FLUXO",
+    "Turma": "2",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "17",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "LUIZ PEDRO DE ARAUJO",
+    "Componente Curricular": "MEC1002 - ESPECIFICAÇÃO DE TOLERANCIAS EM PROJETOS",
+    "Turma": "2",
+    "Horário": "35N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "7",
+    "Média Geral": "8.29",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "MARCIO VALERIO DE ARAUJO",
+    "Componente Curricular": "MEC1612 - INTRODUÇÃO AOS PROCESSOS DE FABRICAÇÃO MECÂNICA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "17",
+    "Média Geral": "9.1",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "MARCIO VALERIO DE ARAUJO",
+    "Componente Curricular": "MCA0004 - PROJETO INTEGRADO DE MECATRÔNICA",
+    "Turma": "01A",
+    "Horário": "6M3456 (11/02/2019 - 29/06/2019)",
+    "Discentes": "11",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "0.59"
+  },
+  {
+    "Docente": "RAIMUNDO CARLOS SILVERIO FREIRE JUNIOR",
+    "Componente Curricular": "MEC1226 - COMPÓSITOS",
+    "Turma": "1",
+    "Horário": "24T56 (11/02/2019 - 29/06/2019)",
+    "Discentes": "11",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "RAIMUNDO CARLOS SILVERIO FREIRE JUNIOR",
+    "Componente Curricular": "MEC1604 - MECÂNICA DOS SÓLIDOS II",
+    "Turma": "1",
+    "Horário": "24T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "43",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "SANDI ITAMAR SCHAFER DE SOUZA",
+    "Componente Curricular": "MEC1602 - SISTEMAS TÉRMICOS II",
+    "Turma": "2",
+    "Horário": "46N12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "26",
+    "Média Geral": "8.57",
+    "Desvio Padrão Geral": "2.58"
+  },
+  {
+    "Docente": "SANDI ITAMAR SCHAFER DE SOUZA",
+    "Componente Curricular": "MEC1802 - TRANSMISSÃO DE CALOR",
+    "Turma": "2",
+    "Horário": "35N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "17",
+    "Média Geral": "7.36",
+    "Desvio Padrão Geral": "3.25"
+  },
+  {
+    "Docente": "SYNARA LUCIEN DE LIMA CAVALCANTI",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "2",
+    "Horário": "46M3456 (11/02/2019 - 18/04/2019)",
+    "Discentes": "24",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "SYNARA LUCIEN DE LIMA CAVALCANTI",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "3",
+    "Horário": "2N12 6N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "13",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.53"
+  },
+  {
+    "Docente": "SYNARA LUCIEN DE LIMA CAVALCANTI",
+    "Componente Curricular": "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I",
+    "Turma": "2",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "13",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "TALITA GALVAO TARGINO",
+    "Componente Curricular": "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II",
+    "Turma": "2",
+    "Horário": "35N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "15",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "0.83"
+  },
+  {
+    "Docente": "TALITA GALVAO TARGINO",
+    "Componente Curricular": "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "17",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.4"
+  },
+  {
+    "Docente": "TALITA GALVAO TARGINO",
+    "Componente Curricular": "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS",
+    "Turma": "2",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "30",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "THERCIO HENRIQUE DE CARVALHO COSTA",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "2",
+    "Horário": "46M3456 (11/02/2019 - 18/04/2019)",
+    "Discentes": "24",
+    "Média Geral": "8.34",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "THERCIO HENRIQUE DE CARVALHO COSTA",
+    "Componente Curricular": "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II",
+    "Turma": "2",
+    "Horário": "35N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "15",
+    "Média Geral": "9.98",
+    "Desvio Padrão Geral": "0.45"
+  },
+  {
+    "Docente": "THERCIO HENRIQUE DE CARVALHO COSTA",
+    "Componente Curricular": "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "35T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "17",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "THERCIO HENRIQUE DE CARVALHO COSTA",
+    "Componente Curricular": "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS",
+    "Turma": "2",
+    "Horário": "24N34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "30",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "THIAGO CARDOSO DE SOUZA",
+    "Componente Curricular": "DEM0252 - MECANICA DOS FLUIDOS",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "17",
+    "Média Geral": "8",
+    "Desvio Padrão Geral": "2.88"
+  },
+  {
+    "Docente": "ULISSES BORGES SOUTO",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35M1234 (18/04/2019 - 29/06/2019)",
+    "Discentes": "24",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "ULISSES BORGES SOUTO",
+    "Componente Curricular": "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III",
+    "Turma": "3",
+    "Horário": "24T1234 (11/02/2019 - 18/04/2019)",
+    "Discentes": "15",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "WALLACE MOREIRA BESSA",
+    "Componente Curricular": "MEC1804 - MECÂNICA APLICADA ÀS MÁQUINAS",
+    "Turma": "1",
+    "Horário": "2345T56 (22/04/2019 - 29/06/2019)",
+    "Discentes": "31",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "WALLACE MOREIRA BESSA",
+    "Componente Curricular": "MEC1804 - MECÂNICA APLICADA ÀS MÁQUINAS",
+    "Turma": "2",
+    "Horário": "2345N12 (22/04/2019 - 29/06/2019)",
+    "Discentes": "26",
+    "Média Geral": "9.51",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "WILLIAM FERNANDES DE QUEIROZ",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "3",
+    "Horário": "35T12 (11/02/2019 - 29/06/2019)",
+    "Discentes": "23",
+    "Média Geral": "7.01",
+    "Desvio Padrão Geral": "3.3"
+  },
+  {
+    "Docente": "WILLIAM FERNANDES DE QUEIROZ",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "4",
+    "Horário": "35M1234 (11/02/2019 - 16/04/2019)",
+    "Discentes": "23",
+    "Média Geral": "8",
+    "Desvio Padrão Geral": "2.63"
+  },
+  {
+    "Docente": "WILLIAM FERNANDES DE QUEIROZ",
+    "Componente Curricular": "MEC1705 - CAD PARA ENGENHARIA II",
+    "Turma": "1",
+    "Horário": "2M1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "20",
+    "Média Geral": "8.57",
+    "Desvio Padrão Geral": "2.31"
+  },
+  {
+    "Docente": "WILLIAM FERNANDES DE QUEIROZ",
+    "Componente Curricular": "MEC1705 - CAD PARA ENGENHARIA II",
+    "Turma": "3",
+    "Horário": "2N1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "22",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "0.95"
+  },
+  {
+    "Docente": "ADILSON JOSÉ DE OLIVEIRA",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "1",
+    "Horário": "35N1234 (30/07/2018 - 28/09/2018)",
+    "Discentes": "14",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "ADILSON JOSÉ DE OLIVEIRA",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "2",
+    "Horário": "35M3456 (30/07/2018 - 28/09/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "ANDERSON CLAYTON ALVES DE MELO",
+    "Componente Curricular": "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III",
+    "Turma": "1",
+    "Horário": "6T3456 (30/07/2018 - 22/12/2018)",
+    "Discentes": "17",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "2.14"
+  },
+  {
+    "Docente": "ANDERSON CLAYTON ALVES DE MELO",
+    "Componente Curricular": "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III",
+    "Turma": "2",
+    "Horário": "6N1234 (30/07/2018 - 22/12/2018)",
+    "Discentes": "9",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "ANDRE JESUS SOARES MAURENTE",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "1",
+    "Horário": "24T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "8.54",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "ANDRE JESUS SOARES MAURENTE",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "3",
+    "Horário": "24N12 (30/07/2018 - 15/12/2018)",
+    "Discentes": "24",
+    "Média Geral": "6.82",
+    "Desvio Padrão Geral": "3.29"
+  },
+  {
+    "Docente": "ANGELO RONCALLI OLIVEIRA GUERRA",
+    "Componente Curricular": "MEC1705 - CAD PARA ENGENHARIA II",
+    "Turma": "1",
+    "Horário": "2M3456 (30/07/2018 - 22/12/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "ANGELO RONCALLI OLIVEIRA GUERRA",
+    "Componente Curricular": "MEC1203 - PROJETO DE CLIMATIZAÇÃO",
+    "Turma": "1",
+    "Horário": "2N1234 (30/07/2018 - 22/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "ANGELO RONCALLI OLIVEIRA GUERRA",
+    "Componente Curricular": "MEC1203 - PROJETO DE CLIMATIZAÇÃO",
+    "Turma": "2",
+    "Horário": "3M3456 (30/07/2018 - 22/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1834 - INTRODUÇÃO AOS ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "46M34",
+    "Discentes": "21",
+    "Média Geral": "9.28",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1604 - MECÂNICA DOS SÓLIDOS II",
+    "Turma": "1",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "24",
+    "Média Geral": "8.92",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1604 - MECÂNICA DOS SÓLIDOS II",
+    "Turma": "2",
+    "Horário": "24T56 (30/07/2018 - 15/12/2018)",
+    "Discentes": "44",
+    "Média Geral": "8.41",
+    "Desvio Padrão Geral": "2.5"
+  },
+  {
+    "Docente": "CARLOS MAGNO DE LIMA",
+    "Componente Curricular": "DEM0102 - ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO",
+    "Turma": "1",
+    "Horário": "3T3456",
+    "Discentes": "23",
+    "Média Geral": "7.65",
+    "Desvio Padrão Geral": "2.9"
+  },
+  {
+    "Docente": "CARLOS MAGNO DE LIMA",
+    "Componente Curricular": "MEC1207 - ALGORITMO E PROGRAMAÇÃO ORIENTADA AO OBJETO",
+    "Turma": "1",
+    "Horário": "35N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "11",
+    "Média Geral": "8.45",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "CLEITON RUBENS FORMIGA BARBOSA",
+    "Componente Curricular": "MEC1903 - MOTORES TÉRMICOS",
+    "Turma": "1",
+    "Horário": "24T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "47",
+    "Média Geral": "6.94",
+    "Desvio Padrão Geral": "3.1"
+  },
+  {
+    "Docente": "CLEITON RUBENS FORMIGA BARBOSA",
+    "Componente Curricular": "MEC1902 - REFRIGERAÇÃO E AR CONDICIONADO",
+    "Turma": "1",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "27",
+    "Média Geral": "8.79",
+    "Desvio Padrão Geral": "2.02"
+  },
+  {
+    "Docente": "EDUARDO JOSÉ CIDADE CAVALCANTI",
+    "Componente Curricular": "MEC1903 - MOTORES TÉRMICOS",
+    "Turma": "2",
+    "Horário": "24N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "8",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1002 - ESPECIFICAÇÃO DE TOLERANCIAS EM PROJETOS",
+    "Turma": "1",
+    "Horário": "24T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "46",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1001 - FABRICAÇÃO DE SISTEMAS MECÂNICOS",
+    "Turma": "1",
+    "Horário": "24T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "27",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "FABIO DALMAZZO SANCHES",
+    "Componente Curricular": "MEC1508 - DINÂMICA",
+    "Turma": "1",
+    "Horário": "46M56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "14",
+    "Média Geral": "6.9",
+    "Desvio Padrão Geral": "3.92"
+  },
+  {
+    "Docente": "FABIO DALMAZZO SANCHES",
+    "Componente Curricular": "MEC1508 - DINÂMICA",
+    "Turma": "2",
+    "Horário": "46N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "16",
+    "Média Geral": "9.03",
+    "Desvio Padrão Geral": "2.34"
+  },
+  {
+    "Docente": "FRANCINE ALVES DA COSTA",
+    "Componente Curricular": "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I",
+    "Turma": "1",
+    "Horário": "35T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "45",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "FRANCINE ALVES DA COSTA",
+    "Componente Curricular": "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II",
+    "Turma": "1",
+    "Horário": "35M56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "34",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.6"
+  },
+  {
+    "Docente": "GABRIEL IVAN MEDINA TAPIA",
+    "Componente Curricular": "MEC1212 - LABORATÓRIO DE SISTEMAS TÉRMICOS",
+    "Turma": "1",
+    "Horário": "2N1234 (30/07/2018 - 22/12/2018)",
+    "Discentes": "8",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "GABRIEL IVAN MEDINA TAPIA",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "2",
+    "Horário": "46M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "20",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "GABRIEL IVAN MEDINA TAPIA",
+    "Componente Curricular": "MEC1602 - SISTEMAS TÉRMICOS II",
+    "Turma": "1",
+    "Horário": "46T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "34",
+    "Média Geral": "9.33",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "DEM0253 - LABORATORIO DE MECANICA DOS FLUIDOS",
+    "Turma": "1",
+    "Horário": "5T12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "17",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "MEC1212 - LABORATÓRIO DE SISTEMAS TÉRMICOS",
+    "Turma": "2",
+    "Horário": "35T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "12",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "0.93"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "MEC1803 - TRANSMISSÃO DE CALOR APLICADA",
+    "Turma": "1",
+    "Horário": "6T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "13",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.18"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "MEC1803 - TRANSMISSÃO DE CALOR APLICADA",
+    "Turma": "2",
+    "Horário": "4T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "18",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "GIORGIO ANDRE BRITO OLIVEIRA",
+    "Componente Curricular": "MEC1610 - ELEMENTOS DE AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35T12 (30/07/2018 - 15/12/2018)",
+    "Discentes": "39",
+    "Média Geral": "8.42",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "GIORGIO ANDRE BRITO OLIVEIRA",
+    "Componente Curricular": "MEC1515 - SISTEMAS HIDRÁULICOS E PNEUMÁTICOS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "23",
+    "Média Geral": "6.38",
+    "Desvio Padrão Geral": "2.8"
+  },
+  {
+    "Docente": "GIORGIO ANDRE BRITO OLIVEIRA",
+    "Componente Curricular": "MEC1802 - TRANSMISSÃO DE CALOR",
+    "Turma": "3",
+    "Horário": "35T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "35",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.48"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1614 - INTRODUÇÃO AOS SISTEMAS DE MANUFATURA",
+    "Turma": "1",
+    "Horário": "24M12 (30/07/2018 - 18/12/2018)",
+    "Discentes": "9",
+    "Média Geral": "8.78",
+    "Desvio Padrão Geral": "2.18"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35M3456 (01/10/2018 - 15/12/2018)",
+    "Discentes": "14",
+    "Média Geral": "8.3",
+    "Desvio Padrão Geral": "2.43"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "2",
+    "Horário": "35N1234 (01/10/2018 - 15/12/2018)",
+    "Discentes": "18",
+    "Média Geral": "9.08",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "JOAO DEODATO BATISTA DOS SANTOS",
+    "Componente Curricular": "MEC1001 - FABRICAÇÃO DE SISTEMAS MECÂNICOS",
+    "Turma": "2",
+    "Horário": "24N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "26",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "JOAO DEODATO BATISTA DOS SANTOS",
+    "Componente Curricular": "MEC1704 - MECÂNICA DOS SÓLIDOS III",
+    "Turma": "1",
+    "Horário": "46M56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "32",
+    "Média Geral": "8.93",
+    "Desvio Padrão Geral": "2.3"
+  },
+  {
+    "Docente": "JOAO DEODATO BATISTA DOS SANTOS",
+    "Componente Curricular": "MEC1704 - MECÂNICA DOS SÓLIDOS III",
+    "Turma": "2",
+    "Horário": "25N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "30",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1805 - ELEMENTOS DE MÁQUINAS I",
+    "Turma": "1",
+    "Horário": "35T56 6T2345 (30/07/2018 - 05/10/2018)",
+    "Discentes": "46",
+    "Média Geral": "8.91",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1805 - ELEMENTOS DE MÁQUINAS I",
+    "Turma": "2",
+    "Horário": "35N12 6N1234 (30/07/2018 - 05/10/2018)",
+    "Discentes": "25",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1211 - TÓPICOS ESPECIAIS EM PROJETOS MECÂNICOS",
+    "Turma": "1",
+    "Horário": "35T12 (30/07/2018 - 28/09/2018)",
+    "Discentes": "17",
+    "Média Geral": "8.43",
+    "Desvio Padrão Geral": "2.63"
+  },
+  {
+    "Docente": "JOÃO WANDERLEY RODRIGUES PEREIRA",
+    "Componente Curricular": "MEC0404 - MECANICA DOS SOLIDOS",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "11",
+    "Média Geral": "6.64",
+    "Desvio Padrão Geral": "3.65"
+  },
+  {
+    "Docente": "JOÃO WANDERLEY RODRIGUES PEREIRA",
+    "Componente Curricular": "MEC0404 - MECANICA DOS SOLIDOS",
+    "Turma": "2",
+    "Horário": "246T34",
+    "Discentes": "7",
+    "Média Geral": "7.99",
+    "Desvio Padrão Geral": "2.92"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "2",
+    "Horário": "2N34 6N12 (30/07/2018 - 15/12/2018)",
+    "Discentes": "25",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "1.15"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "3",
+    "Horário": "2M3456 6M12 (30/07/2018 - 26/10/2018)",
+    "Discentes": "20",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I",
+    "Turma": "2",
+    "Horário": "5N12 6N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "8",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "1.12"
+  },
+  {
+    "Docente": "KLEIBER LIMA DE BESSA",
+    "Componente Curricular": "MEC1702 - MECANICA DOS FLUIDOS II",
+    "Turma": "1",
+    "Horário": "46M34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "46",
+    "Média Geral": "9.08",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "KLEIBER LIMA DE BESSA",
+    "Componente Curricular": "MEC1702 - MECANICA DOS FLUIDOS II",
+    "Turma": "2",
+    "Horário": "46N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1904 - ELEMENTOS DE MÁQUINAS II",
+    "Turma": "1",
+    "Horário": "35T34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "28",
+    "Média Geral": "8.23",
+    "Desvio Padrão Geral": "2.59"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1904 - ELEMENTOS DE MÁQUINAS II",
+    "Turma": "2",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "9",
+    "Média Geral": "8.73",
+    "Desvio Padrão Geral": "2.17"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1834 - INTRODUÇÃO AOS ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "46M34",
+    "Discentes": "21",
+    "Média Geral": "8.81",
+    "Desvio Padrão Geral": "2.53"
+  },
+  {
+    "Docente": "LUIZ GUILHERME MEIRA DE SOUZA",
+    "Componente Curricular": "MEC1608 - MÁQUINAS DE FLUXO",
+    "Turma": "1",
+    "Horário": "35T56 (30/07/2018 - 15/12/2018)",
+    "Discentes": "42",
+    "Média Geral": "8.83",
+    "Desvio Padrão Geral": "2.42"
+  },
+  {
+    "Docente": "LUIZ GUILHERME MEIRA DE SOUZA",
+    "Componente Curricular": "MEC1608 - MÁQUINAS DE FLUXO",
+    "Turma": "2",
+    "Horário": "24N34 (30/07/2018 - 15/12/2018)",
+    "Discentes": "11",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "LUIZ PEDRO DE ARAUJO",
+    "Componente Curricular": "MEC1002 - ESPECIFICAÇÃO DE TOLERANCIAS EM PROJETOS",
+    "Turma": "2",
+    "Horário": "35N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "11",
+    "Média Geral": "8.54",
+    "Desvio Padrão Geral": "2.86"
+  },
+  {
+    "Docente": "MARCIO VALERIO DE ARAUJO",
+    "Componente Curricular": "MEC1612 - INTRODUÇÃO AOS PROCESSOS DE FABRICAÇÃO MECÂNICA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "18",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.63"
+  },
+  {
+    "Docente": "RAIMUNDO CARLOS SILVERIO FREIRE JUNIOR",
+    "Componente Curricular": "MEC1208 - INTRODUCAO À ENGENHARIA AERONÁUTICA",
+    "Turma": "1",
+    "Horário": "24N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "17",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "SANDI ITAMAR SCHAFER DE SOUZA",
+    "Componente Curricular": "MEC1224 - ENERGIA EÓLICA",
+    "Turma": "1",
+    "Horário": "35T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "13",
+    "Média Geral": "8.35",
+    "Desvio Padrão Geral": "2.65"
+  },
+  {
+    "Docente": "SANDI ITAMAR SCHAFER DE SOUZA",
+    "Componente Curricular": "MEC1602 - SISTEMAS TÉRMICOS II",
+    "Turma": "2",
+    "Horário": "24N12 (30/07/2018 - 15/12/2018)",
+    "Discentes": "28",
+    "Média Geral": "7.73",
+    "Desvio Padrão Geral": "2.79"
+  },
+  {
+    "Docente": "SANDI ITAMAR SCHAFER DE SOUZA",
+    "Componente Curricular": "MEC1802 - TRANSMISSÃO DE CALOR",
+    "Turma": "1",
+    "Horário": "24T56 (30/07/2018 - 22/12/2018)",
+    "Discentes": "10",
+    "Média Geral": "8.13",
+    "Desvio Padrão Geral": "2.66"
+  },
+  {
+    "Docente": "SYNARA LUCIEN DE LIMA CAVALCANTI",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "2",
+    "Horário": "2N34 6N12 (30/07/2018 - 15/12/2018)",
+    "Discentes": "25",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "SYNARA LUCIEN DE LIMA CAVALCANTI",
+    "Componente Curricular": "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I",
+    "Turma": "2",
+    "Horário": "5N12 6N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "8",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "TALITA GALVAO TARGINO",
+    "Componente Curricular": "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II",
+    "Turma": "2",
+    "Horário": "56N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "TALITA GALVAO TARGINO",
+    "Componente Curricular": "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "24T12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "40",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "TALITA GALVAO TARGINO",
+    "Componente Curricular": "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS",
+    "Turma": "2",
+    "Horário": "35N34 (30/07/2018 - 22/12/2018)",
+    "Discentes": "20",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "THERCIO HENRIQUE DE CARVALHO COSTA",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "2",
+    "Horário": "2N34 6N12 (30/07/2018 - 15/12/2018)",
+    "Discentes": "25",
+    "Média Geral": "8.83",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "THERCIO HENRIQUE DE CARVALHO COSTA",
+    "Componente Curricular": "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II",
+    "Turma": "2",
+    "Horário": "56N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "THIAGO CARDOSO DE SOUZA",
+    "Componente Curricular": "DEM0252 - MECANICA DOS FLUIDOS",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "38",
+    "Média Geral": "8.08",
+    "Desvio Padrão Geral": "3.22"
+  },
+  {
+    "Docente": "THIAGO CARDOSO DE SOUZA",
+    "Componente Curricular": "MEC1802 - TRANSMISSÃO DE CALOR",
+    "Turma": "2",
+    "Horário": "24N12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "23",
+    "Média Geral": "6.11",
+    "Desvio Padrão Geral": "3.83"
+  },
+  {
+    "Docente": "ULISSES BORGES SOUTO",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "3",
+    "Horário": "35M3456 (01/10/2018 - 15/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "WALLACE MOREIRA BESSA",
+    "Componente Curricular": "MEC1804 - MECÂNICA APLICADA ÀS MÁQUINAS",
+    "Turma": "1",
+    "Horário": "35T56 6T3456 (08/10/2018 - 22/12/2018)",
+    "Discentes": "30",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "WALLACE MOREIRA BESSA",
+    "Componente Curricular": "MEC1804 - MECÂNICA APLICADA ÀS MÁQUINAS",
+    "Turma": "2",
+    "Horário": "35N12 6N1234 (08/10/2018 - 22/12/2018)",
+    "Discentes": "15",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "WILLIAM FERNANDES DE QUEIROZ",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "3",
+    "Horário": "35M3456 (30/07/2018 - 28/09/2018)",
+    "Discentes": "18",
+    "Média Geral": "8.18",
+    "Desvio Padrão Geral": "2.45"
+  },
+  {
+    "Docente": "WILLIAM FERNANDES DE QUEIROZ",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "4",
+    "Horário": "35T12 (30/07/2018 - 22/12/2018)",
+    "Discentes": "24",
+    "Média Geral": "8.43",
+    "Desvio Padrão Geral": "2.72"
+  },
+  {
+    "Docente": "ADILSON JOSÉ DE OLIVEIRA",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "1",
+    "Horário": "35M1234 (19/02/2018 - 26/04/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "ADILSON JOSÉ DE OLIVEIRA",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "2",
+    "Horário": "35N1234 (19/02/2018 - 26/04/2018)",
+    "Discentes": "21",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "ANDERSON CLAYTON ALVES DE MELO",
+    "Componente Curricular": "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III",
+    "Turma": "1",
+    "Horário": "6T3456 (19/02/2018 - 07/07/2018)",
+    "Discentes": "26",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "ANDERSON CLAYTON ALVES DE MELO",
+    "Componente Curricular": "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III",
+    "Turma": "2",
+    "Horário": "6N1234 (19/02/2018 - 07/07/2018)",
+    "Discentes": "15",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "ANDRE JESUS SOARES MAURENTE",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "1",
+    "Horário": "24T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "10",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "ANDRE JESUS SOARES MAURENTE",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "2",
+    "Horário": "24N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "22",
+    "Média Geral": "8.94",
+    "Desvio Padrão Geral": "2.27"
+  },
+  {
+    "Docente": "ANGELO RONCALLI OLIVEIRA GUERRA",
+    "Componente Curricular": "DEM0102 - ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO",
+    "Turma": "1",
+    "Horário": "23N12",
+    "Discentes": "18",
+    "Média Geral": "9.02",
+    "Desvio Padrão Geral": "2.43"
+  },
+  {
+    "Docente": "ANGELO RONCALLI OLIVEIRA GUERRA",
+    "Componente Curricular": "MEC1705 - CAD PARA ENGENHARIA II",
+    "Turma": "1",
+    "Horário": "2M3456 (19/02/2018 - 07/07/2018)",
+    "Discentes": "24",
+    "Média Geral": "8.94",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "ANGELO RONCALLI OLIVEIRA GUERRA",
+    "Componente Curricular": "MEC1203 - PROJETO DE CLIMATIZAÇÃO",
+    "Turma": "1",
+    "Horário": "3M3456 (19/02/2018 - 07/07/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1834 - INTRODUÇÃO AOS ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "46M56",
+    "Discentes": "23",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1704 - MECÂNICA DOS SÓLIDOS III",
+    "Turma": "1",
+    "Horário": "35N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "26",
+    "Média Geral": "8.89",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1704 - MECÂNICA DOS SÓLIDOS III",
+    "Turma": "3",
+    "Horário": "46T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "13",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "CARLOS MAGNO DE LIMA",
+    "Componente Curricular": "DEM0102 - ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO",
+    "Turma": "1",
+    "Horário": "23N12",
+    "Discentes": "18",
+    "Média Geral": "8.41",
+    "Desvio Padrão Geral": "2.61"
+  },
+  {
+    "Docente": "CARLOS MAGNO DE LIMA",
+    "Componente Curricular": "MEC1705 - CAD PARA ENGENHARIA II",
+    "Turma": "1",
+    "Horário": "2M3456 (19/02/2018 - 07/07/2018)",
+    "Discentes": "24",
+    "Média Geral": "6.42",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "CLEITON RUBENS FORMIGA BARBOSA",
+    "Componente Curricular": "MEC1903 - MOTORES TÉRMICOS",
+    "Turma": "2",
+    "Horário": "24N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "CLEITON RUBENS FORMIGA BARBOSA",
+    "Componente Curricular": "MEC1902 - REFRIGERAÇÃO E AR CONDICIONADO",
+    "Turma": "1",
+    "Horário": "24T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "8.97",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "EDUARDO JOSÉ CIDADE CAVALCANTI",
+    "Componente Curricular": "MEC1223 - CENTRAIS TERMELÉTRICAS",
+    "Turma": "1",
+    "Horário": "24T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "11",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "EDUARDO JOSÉ CIDADE CAVALCANTI",
+    "Componente Curricular": "MEC1903 - MOTORES TÉRMICOS",
+    "Turma": "1",
+    "Horário": "24T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "41",
+    "Média Geral": "8.66",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "ELLISON MATHEUS DELIO ALCANTARA",
+    "Componente Curricular": "MEC1802 - TRANSMISSÃO DE CALOR",
+    "Turma": "1",
+    "Horário": "24T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "39",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "ELLISON MATHEUS DELIO ALCANTARA",
+    "Componente Curricular": "MEC1802 - TRANSMISSÃO DE CALOR",
+    "Turma": "2",
+    "Horário": "24N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "38",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1002 - ESPECIFICAÇÃO DE TOLERANCIAS EM PROJETOS",
+    "Turma": "1",
+    "Horário": "35T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "23",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1001 - FABRICAÇÃO DE SISTEMAS MECÂNICOS",
+    "Turma": "1",
+    "Horário": "24N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "10",
+    "Média Geral": "8.91",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1001 - FABRICAÇÃO DE SISTEMAS MECÂNICOS",
+    "Turma": "2",
+    "Horário": "24T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "16",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "FABIO DALMAZZO SANCHES",
+    "Componente Curricular": "MEC1703 - VIBRAÇÕES DE SISTEMAS MECÂNICOS",
+    "Turma": "1",
+    "Horário": "46N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "13",
+    "Média Geral": "8.98",
+    "Desvio Padrão Geral": "2.87"
+  },
+  {
+    "Docente": "FRANCINE ALVES DA COSTA",
+    "Componente Curricular": "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I",
+    "Turma": "1",
+    "Horário": "35T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "39",
+    "Média Geral": "9.13",
+    "Desvio Padrão Geral": "2.03"
+  },
+  {
+    "Docente": "FRANCINE ALVES DA COSTA",
+    "Componente Curricular": "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II",
+    "Turma": "1",
+    "Horário": "35M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "20",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "GABRIEL IVAN MEDINA TAPIA",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "3",
+    "Horário": "35M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "36",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "2.03"
+  },
+  {
+    "Docente": "GABRIEL IVAN MEDINA TAPIA",
+    "Componente Curricular": "MEC1602 - SISTEMAS TÉRMICOS II",
+    "Turma": "1",
+    "Horário": "35T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "39",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "DEM0253 - LABORATORIO DE MECANICA DOS FLUIDOS",
+    "Turma": "1",
+    "Horário": "5T12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "DEM0405 - LABORATORIO DE TRANSMISSAO DE CALOR",
+    "Turma": "1",
+    "Horário": "3T34",
+    "Discentes": "16",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "MEC1212 - LABORATÓRIO DE SISTEMAS TÉRMICOS",
+    "Turma": "1",
+    "Horário": "35T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "MEC1210 - TÓPICOS ESPECIAIS EM TERMOCIÊNCIAS",
+    "Turma": "1",
+    "Horário": "3N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "23",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "GIORGIO ANDRE BRITO OLIVEIRA",
+    "Componente Curricular": "MEC1610 - ELEMENTOS DE AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "2",
+    "Horário": "24T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "GIORGIO ANDRE BRITO OLIVEIRA",
+    "Componente Curricular": "DEM0252 - MECANICA DOS FLUIDOS",
+    "Turma": "1",
+    "Horário": "35N12",
+    "Discentes": "50",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1614 - INTRODUÇÃO AOS SISTEMAS DE MANUFATURA",
+    "Turma": "1",
+    "Horário": "24M12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "6",
+    "Média Geral": "8.78",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "2",
+    "Horário": "35M1234 (03/05/2018 - 07/07/2018)",
+    "Discentes": "24",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.47"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "3",
+    "Horário": "35N1234 (03/05/2018 - 07/07/2018)",
+    "Discentes": "22",
+    "Média Geral": "8.32",
+    "Desvio Padrão Geral": "2.39"
+  },
+  {
+    "Docente": "JOAO DEODATO BATISTA DOS SANTOS",
+    "Componente Curricular": "MEC1704 - MECÂNICA DOS SÓLIDOS III",
+    "Turma": "2",
+    "Horário": "46M34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "40",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1805 - ELEMENTOS DE MÁQUINAS I",
+    "Turma": "1",
+    "Horário": "2345T56 (19/02/2018 - 26/04/2018)",
+    "Discentes": "37",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1805 - ELEMENTOS DE MÁQUINAS I",
+    "Turma": "2",
+    "Horário": "2345N12 (19/02/2018 - 26/04/2018)",
+    "Discentes": "14",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.1"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1211 - TÓPICOS ESPECIAIS EM PROJETOS MECÂNICOS",
+    "Turma": "1",
+    "Horário": "35T12 (19/02/2018 - 26/04/2018)",
+    "Discentes": "15",
+    "Média Geral": "8.3",
+    "Desvio Padrão Geral": "2.39"
+  },
+  {
+    "Docente": "JOÃO WANDERLEY RODRIGUES PEREIRA",
+    "Componente Curricular": "MEC0404 - MECANICA DOS SOLIDOS",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "21",
+    "Média Geral": "6.28",
+    "Desvio Padrão Geral": "3.36"
+  },
+  {
+    "Docente": "JOÃO WANDERLEY RODRIGUES PEREIRA",
+    "Componente Curricular": "MEC0404 - MECANICA DOS SOLIDOS",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "11",
+    "Média Geral": "7.75",
+    "Desvio Padrão Geral": "3.45"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1801 - ESPECIFICAÇÃO E SELEÇÃO DE MATERIAIS",
+    "Turma": "1",
+    "Horário": "23N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "26",
+    "Média Geral": "8.74",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I",
+    "Turma": "2",
+    "Horário": "5N34 6N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "18",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.16"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II",
+    "Turma": "2",
+    "Horário": "35N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "26",
+    "Média Geral": "8.98",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "KARLLYAMMO LENNON DE SOUZA",
+    "Componente Curricular": "MEC1201 - MANUTENÇÃO INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "24N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "40",
+    "Média Geral": "7.9",
+    "Desvio Padrão Geral": "2.68"
+  },
+  {
+    "Docente": "KARLLYAMMO LENNON DE SOUZA",
+    "Componente Curricular": "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "24T12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "7.76",
+    "Desvio Padrão Geral": "2.67"
+  },
+  {
+    "Docente": "KARLLYAMMO LENNON DE SOUZA",
+    "Componente Curricular": "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS",
+    "Turma": "2",
+    "Horário": "35N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "19",
+    "Média Geral": "8.55",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "KLEIBER LIMA DE BESSA",
+    "Componente Curricular": "DEM0252 - MECANICA DOS FLUIDOS",
+    "Turma": "2",
+    "Horário": "35T56",
+    "Discentes": "45",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "KLEIBER LIMA DE BESSA",
+    "Componente Curricular": "MEC1702 - MECANICA DOS FLUIDOS II",
+    "Turma": "1",
+    "Horário": "46M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "34",
+    "Média Geral": "8.65",
+    "Desvio Padrão Geral": "2.32"
+  },
+  {
+    "Docente": "KLEIBER LIMA DE BESSA",
+    "Componente Curricular": "MEC1702 - MECANICA DOS FLUIDOS II",
+    "Turma": "2",
+    "Horário": "46N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "23",
+    "Média Geral": "9.01",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1904 - ELEMENTOS DE MÁQUINAS II",
+    "Turma": "1",
+    "Horário": "35T34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "32",
+    "Média Geral": "8.55",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1904 - ELEMENTOS DE MÁQUINAS II",
+    "Turma": "2",
+    "Horário": "35N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "25",
+    "Média Geral": "8.87",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1834 - INTRODUÇÃO AOS ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "46M56",
+    "Discentes": "23",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "LUIZ GUILHERME MEIRA DE SOUZA",
+    "Componente Curricular": "MEC1608 - MÁQUINAS DE FLUXO",
+    "Turma": "1",
+    "Horário": "35T12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "35",
+    "Média Geral": "8.87",
+    "Desvio Padrão Geral": "2.56"
+  },
+  {
+    "Docente": "LUIZ GUILHERME MEIRA DE SOUZA",
+    "Componente Curricular": "MEC1608 - MÁQUINAS DE FLUXO",
+    "Turma": "2",
+    "Horário": "24N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "15",
+    "Média Geral": "8.91",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "LUIZ PEDRO DE ARAUJO",
+    "Componente Curricular": "MEC1002 - ESPECIFICAÇÃO DE TOLERANCIAS EM PROJETOS",
+    "Turma": "2",
+    "Horário": "35N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "13",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "MARCIO VALERIO DE ARAUJO",
+    "Componente Curricular": "MEC1612 - INTRODUÇÃO AOS PROCESSOS DE FABRICAÇÃO MECÂNICA",
+    "Turma": "1",
+    "Horário": "24T34 6T12",
+    "Discentes": "10",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "RAIMUNDO CARLOS SILVERIO FREIRE JUNIOR",
+    "Componente Curricular": "MEC1208 - INTRODUCAO À ENGENHARIA AERONÁUTICA",
+    "Turma": "1",
+    "Horário": "24N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "RAIMUNDO CARLOS SILVERIO FREIRE JUNIOR",
+    "Componente Curricular": "MEC1604 - MECÂNICA DOS SÓLIDOS II",
+    "Turma": "1",
+    "Horário": "24T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "RAIMUNDO CARLOS SILVERIO FREIRE JUNIOR",
+    "Componente Curricular": "MEC1604 - MECÂNICA DOS SÓLIDOS II",
+    "Turma": "2",
+    "Horário": "24N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "SANDI ITAMAR SCHAFER DE SOUZA",
+    "Componente Curricular": "MEC1602 - SISTEMAS TÉRMICOS II",
+    "Turma": "2",
+    "Horário": "24T56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "23",
+    "Média Geral": "7.3",
+    "Desvio Padrão Geral": "3.35"
+  },
+  {
+    "Docente": "SANDI ITAMAR SCHAFER DE SOUZA",
+    "Componente Curricular": "MEC1602 - SISTEMAS TÉRMICOS II",
+    "Turma": "3",
+    "Horário": "35N12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "7.93",
+    "Desvio Padrão Geral": "2.77"
+  },
+  {
+    "Docente": "THERCIO HENRIQUE DE CARVALHO COSTA",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "1",
+    "Horário": "46M56 (19/02/2018 - 07/07/2018)",
+    "Discentes": "45",
+    "Média Geral": "8.23",
+    "Desvio Padrão Geral": "2.5"
+  },
+  {
+    "Docente": "THERCIO HENRIQUE DE CARVALHO COSTA",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "2",
+    "Horário": "2N12 6N34 (19/02/2018 - 07/07/2018)",
+    "Discentes": "23",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "ULISSES BORGES SOUTO",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35M1234 (03/05/2018 - 07/07/2018)",
+    "Discentes": "17",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "WALLACE MOREIRA BESSA",
+    "Componente Curricular": "MEC1804 - MECÂNICA APLICADA ÀS MÁQUINAS",
+    "Turma": "1",
+    "Horário": "2345T56 (30/04/2018 - 07/07/2018)",
+    "Discentes": "35",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "WALLACE MOREIRA BESSA",
+    "Componente Curricular": "MEC1804 - MECÂNICA APLICADA ÀS MÁQUINAS",
+    "Turma": "2",
+    "Horário": "2345N12 (30/04/2018 - 07/07/2018)",
+    "Discentes": "9",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.16"
+  },
+  {
+    "Docente": "WILLIAM FERNANDES DE QUEIROZ",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "3",
+    "Horário": "35M1234 (19/02/2018 - 26/04/2018)",
+    "Discentes": "26",
+    "Média Geral": "8.21",
+    "Desvio Padrão Geral": "2.92"
+  },
+  {
+    "Docente": "WILLIAM FERNANDES DE QUEIROZ",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "4",
+    "Horário": "35T12 (19/02/2018 - 07/07/2018)",
+    "Discentes": "25",
+    "Média Geral": "8.74",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "ADILSON JOSÉ DE OLIVEIRA",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "1",
+    "Horário": "35T12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "25",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "ADILSON JOSÉ DE OLIVEIRA",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "2",
+    "Horário": "35M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "22",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.1"
+  },
+  {
+    "Docente": "ANDERSON CLAYTON ALVES DE MELO",
+    "Componente Curricular": "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III",
+    "Turma": "1",
+    "Horário": "24T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "14",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "ANDERSON CLAYTON ALVES DE MELO",
+    "Componente Curricular": "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III",
+    "Turma": "2",
+    "Horário": "24N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.15"
+  },
+  {
+    "Docente": "ANDRE JESUS SOARES MAURENTE",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "1",
+    "Horário": "24N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "8",
+    "Desvio Padrão Geral": "2.69"
+  },
+  {
+    "Docente": "ANDRE JESUS SOARES MAURENTE",
+    "Componente Curricular": "MEC1802 - TRANSMISSÃO DE CALOR",
+    "Turma": "1",
+    "Horário": "24N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "19",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "ANGELO RONCALLI OLIVEIRA GUERRA",
+    "Componente Curricular": "MEC1705 - CAD PARA ENGENHARIA II",
+    "Turma": "3",
+    "Horário": "4M3456 (24/07/2017 - 16/12/2017)",
+    "Discentes": "19",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "ANGELO RONCALLI OLIVEIRA GUERRA",
+    "Componente Curricular": "MEC1203 - PROJETO DE CLIMATIZAÇÃO",
+    "Turma": "1",
+    "Horário": "2T1234 (24/07/2017 - 16/12/2017)",
+    "Discentes": "17",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "0.84"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1609 - MECÂNICA DOS SÓLIDOS II",
+    "Turma": "1",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "25",
+    "Média Geral": "9.3",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1609 - MECÂNICA DOS SÓLIDOS II",
+    "Turma": "2",
+    "Horário": "24N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "38",
+    "Média Geral": "9.03",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "AVELINO MANUEL DA SILVA DIAS",
+    "Componente Curricular": "MEC1704 - MECÂNICA DOS SÓLIDOS III",
+    "Turma": "1",
+    "Horário": "2N34 5N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "25",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "CARLOS MAGNO DE LIMA",
+    "Componente Curricular": "DEM0102 - ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO",
+    "Turma": "1",
+    "Horário": "36T34",
+    "Discentes": "21",
+    "Média Geral": "7.27",
+    "Desvio Padrão Geral": "2.69"
+  },
+  {
+    "Docente": "CLEITON RUBENS FORMIGA BARBOSA",
+    "Componente Curricular": "MEC1702 - MECANICA DOS FLUIDOS II",
+    "Turma": "1",
+    "Horário": "24T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "37",
+    "Média Geral": "8.44",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "CLEITON RUBENS FORMIGA BARBOSA",
+    "Componente Curricular": "MEC1902 - REFRIGERAÇÃO E AR CONDICIONADO",
+    "Turma": "1",
+    "Horário": "24T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "35",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "EDUARDO JOSÉ CIDADE CAVALCANTI",
+    "Componente Curricular": "DEM0253 - LABORATORIO DE MECANICA DOS FLUIDOS",
+    "Turma": "1",
+    "Horário": "5T12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "10",
+    "Média Geral": "9.17",
+    "Desvio Padrão Geral": "1.27"
+  },
+  {
+    "Docente": "EDUARDO JOSÉ CIDADE CAVALCANTI",
+    "Componente Curricular": "MEC1903 - MOTORES TÉRMICOS",
+    "Turma": "1",
+    "Horário": "35T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "25",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "2.03"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1002 - ESPECIFICAÇÃO DE TOLERANCIAS EM PROJETOS",
+    "Turma": "1",
+    "Horário": "35T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "32",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.44"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1001 - FABRICAÇÃO DE SISTEMAS MECÂNICOS",
+    "Turma": "1",
+    "Horário": "24T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "26",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "EVANS PAIVA DA COSTA FERREIRA",
+    "Componente Curricular": "MEC1001 - FABRICAÇÃO DE SISTEMAS MECÂNICOS",
+    "Turma": "2",
+    "Horário": "24N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "28",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "FABIO DALMAZZO SANCHES",
+    "Componente Curricular": "MEC1508 - DINÂMICA",
+    "Turma": "1",
+    "Horário": "46M56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "33",
+    "Média Geral": "8.82",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "FABIO DALMAZZO SANCHES",
+    "Componente Curricular": "MEC1508 - DINÂMICA",
+    "Turma": "2",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "26",
+    "Média Geral": "7.6",
+    "Desvio Padrão Geral": "3.24"
+  },
+  {
+    "Docente": "FRANCINE ALVES DA COSTA",
+    "Componente Curricular": "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I",
+    "Turma": "2",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "14",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "FRANCINE ALVES DA COSTA",
+    "Componente Curricular": "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II",
+    "Turma": "1",
+    "Horário": "35M56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "20",
+    "Média Geral": "9.26",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "GABRIEL IVAN MEDINA TAPIA",
+    "Componente Curricular": "MEC1213 - ENERGIA SOLAR",
+    "Turma": "1",
+    "Horário": "6T3456 (24/07/2017 - 16/12/2017)",
+    "Discentes": "13",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "0.93"
+  },
+  {
+    "Docente": "GABRIEL IVAN MEDINA TAPIA",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "2",
+    "Horário": "35M56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "11",
+    "Média Geral": "8.67",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "GABRIEL IVAN MEDINA TAPIA",
+    "Componente Curricular": "MEC1602 - SISTEMAS TÉRMICOS II",
+    "Turma": "1",
+    "Horário": "35T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "35",
+    "Média Geral": "8.33",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "3",
+    "Horário": "24T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "40",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "GEORGE SANTOS MARINHO",
+    "Componente Curricular": "MEC1507 - SISTEMAS TÉRMICOS I",
+    "Turma": "4",
+    "Horário": "35T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "47",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1614 - INTRODUÇÃO AOS SISTEMAS DE MANUFATURA",
+    "Turma": "1",
+    "Horário": "46M56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "7",
+    "Média Geral": "8.54",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "46M12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "12",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "IGOR LOPES DE ANDRADE",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "2",
+    "Horário": "46N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "9.02",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1805 - ELEMENTOS DE MÁQUINAS I",
+    "Turma": "1",
+    "Horário": "35T12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "43",
+    "Média Geral": "9.08",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1805 - ELEMENTOS DE MÁQUINAS I",
+    "Turma": "2",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "JOÃO CARLOS ARANTES COSTA JÚNIOR",
+    "Componente Curricular": "MEC1211 - TÓPICOS ESPECIAIS EM PROJETOS MECÂNICOS",
+    "Turma": "1",
+    "Horário": "3T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "9",
+    "Média Geral": "8.83",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "JOÃO WANDERLEY RODRIGUES PEREIRA",
+    "Componente Curricular": "MEC0404 - MECANICA DOS SOLIDOS",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "27",
+    "Média Geral": "7.44",
+    "Desvio Padrão Geral": "3.09"
+  },
+  {
+    "Docente": "JOÃO WANDERLEY RODRIGUES PEREIRA",
+    "Componente Curricular": "MEC0404 - MECANICA DOS SOLIDOS",
+    "Turma": "2",
+    "Horário": "246T34",
+    "Discentes": "18",
+    "Média Geral": "7.97",
+    "Desvio Padrão Geral": "2.89"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1801 - ESPECIFICAÇÃO E SELEÇÃO DE MATERIAIS",
+    "Turma": "1",
+    "Horário": "35T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.14"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1201 - MANUTENÇÃO INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "37",
+    "Média Geral": "8.93",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "1",
+    "Horário": "46M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "40",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "2",
+    "Horário": "2N12 6N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "16",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "0.95"
+  },
+  {
+    "Docente": "JULIANA RICARDO DE SOUZA",
+    "Componente Curricular": "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I",
+    "Turma": "1",
+    "Horário": "24T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "36",
+    "Média Geral": "9.26",
+    "Desvio Padrão Geral": "1.39"
+  },
+  {
+    "Docente": "KARLLYAMMO LENNON DE SOUZA",
+    "Componente Curricular": "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II",
+    "Turma": "2",
+    "Horário": "3N12 6N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "9",
+    "Média Geral": "8.89",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "KARLLYAMMO LENNON DE SOUZA",
+    "Componente Curricular": "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS",
+    "Turma": "1",
+    "Horário": "24T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "28",
+    "Média Geral": "8.72",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "KARLLYAMMO LENNON DE SOUZA",
+    "Componente Curricular": "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS",
+    "Turma": "2",
+    "Horário": "2N34 6N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "24",
+    "Média Geral": "8.98",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "KLEIBER LIMA DE BESSA",
+    "Componente Curricular": "MEC1702 - MECANICA DOS FLUIDOS II",
+    "Turma": "2",
+    "Horário": "26N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "18",
+    "Média Geral": "9",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "KLEIBER LIMA DE BESSA",
+    "Componente Curricular": "MEC1702 - MECANICA DOS FLUIDOS II",
+    "Turma": "3",
+    "Horário": "46M56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "13",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1904 - ELEMENTOS DE MÁQUINAS II",
+    "Turma": "1",
+    "Horário": "35T34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "16",
+    "Média Geral": "7.99",
+    "Desvio Padrão Geral": "2.13"
+  },
+  {
+    "Docente": "LUIZ CLAUDIO FERREIRA DA SILVA",
+    "Componente Curricular": "MEC1904 - ELEMENTOS DE MÁQUINAS II",
+    "Turma": "2",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "22",
+    "Média Geral": "8.89",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "LUIZ GUILHERME MEIRA DE SOUZA",
+    "Componente Curricular": "MEC1608 - MÁQUINAS DE FLUXO",
+    "Turma": "1",
+    "Horário": "24N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "16",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "LUIZ GUILHERME MEIRA DE SOUZA",
+    "Componente Curricular": "MEC1608 - MÁQUINAS DE FLUXO",
+    "Turma": "2",
+    "Horário": "35T12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "45",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "LUIZ GUILHERME VIEIRA MEIRA DE SOUZA",
+    "Componente Curricular": "MEC1610 - ELEMENTOS DE AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "2",
+    "Horário": "2N34 6N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "18",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.05"
+  },
+  {
+    "Docente": "LUIZ GUILHERME VIEIRA MEIRA DE SOUZA",
+    "Componente Curricular": "DEM0252 - MECANICA DOS FLUIDOS",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "58",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "LUIZ GUILHERME VIEIRA MEIRA DE SOUZA",
+    "Componente Curricular": "MEC1515 - SISTEMAS HIDRÁULICOS E PNEUMÁTICOS",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "12",
+    "Média Geral": "9.51",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "LUIZ PEDRO DE ARAUJO",
+    "Componente Curricular": "MEC1002 - ESPECIFICAÇÃO DE TOLERANCIAS EM PROJETOS",
+    "Turma": "2",
+    "Horário": "35N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "19",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "0.97"
+  },
+  {
+    "Docente": "MARCIO VALERIO DE ARAUJO",
+    "Componente Curricular": "MEC1612 - INTRODUÇÃO AOS PROCESSOS DE FABRICAÇÃO MECÂNICA",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "6",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "RAIMUNDO CARLOS SILVERIO FREIRE JUNIOR",
+    "Componente Curricular": "MEC1208 - INTRODUCAO À ENGENHARIA AERONÁUTICA",
+    "Turma": "1",
+    "Horário": "24N12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "27",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "RAIMUNDO CARLOS SILVERIO FREIRE JUNIOR",
+    "Componente Curricular": "MEC1609 - MECÂNICA DOS SÓLIDOS II",
+    "Turma": "3",
+    "Horário": "24T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "43",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "SANDI ITAMAR SCHAFER DE SOUZA",
+    "Componente Curricular": "MEC1224 - ENERGIA EÓLICA",
+    "Turma": "1",
+    "Horário": "35T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "13",
+    "Média Geral": "8.06",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "SANDI ITAMAR SCHAFER DE SOUZA",
+    "Componente Curricular": "MEC1602 - SISTEMAS TÉRMICOS II",
+    "Turma": "2",
+    "Horário": "46N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "26",
+    "Média Geral": "6.84",
+    "Desvio Padrão Geral": "3.14"
+  },
+  {
+    "Docente": "SANDI ITAMAR SCHAFER DE SOUZA",
+    "Componente Curricular": "MEC1602 - SISTEMAS TÉRMICOS II",
+    "Turma": "3",
+    "Horário": "46T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "42",
+    "Média Geral": "6.57",
+    "Desvio Padrão Geral": "2.83"
+  },
+  {
+    "Docente": "THERCIO HENRIQUE DE CARVALHO COSTA",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "1",
+    "Horário": "46M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "40",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "THERCIO HENRIQUE DE CARVALHO COSTA",
+    "Componente Curricular": "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS",
+    "Turma": "2",
+    "Horário": "2N12 6N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "16",
+    "Média Geral": "8.95",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "ULISSES BORGES SOUTO",
+    "Componente Curricular": "MEC1509 - METROLOGIA INDUSTRIAL",
+    "Turma": "3",
+    "Horário": "46M12 (24/07/2017 - 16/12/2017)",
+    "Discentes": "21",
+    "Média Geral": "9.33",
+    "Desvio Padrão Geral": "2.13"
+  },
+  {
+    "Docente": "WALLACE MOREIRA BESSA",
+    "Componente Curricular": "MEC1804 - MECÂNICA APLICADA ÀS MÁQUINAS",
+    "Turma": "1",
+    "Horário": "24T56 (24/07/2017 - 16/12/2017)",
+    "Discentes": "42",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "WALLACE MOREIRA BESSA",
+    "Componente Curricular": "MEC1804 - MECÂNICA APLICADA ÀS MÁQUINAS",
+    "Turma": "2",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "18",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.16"
+  },
+  {
+    "Docente": "WILLIAM FERNANDES DE QUEIROZ",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "3",
+    "Horário": "35M34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "27",
+    "Média Geral": "6.75",
+    "Desvio Padrão Geral": "2.63"
+  },
+  {
+    "Docente": "WILLIAM FERNANDES DE QUEIROZ",
+    "Componente Curricular": "MEC1505 - CAD PARA ENGENHARIA I",
+    "Turma": "4",
+    "Horário": "35N34 (24/07/2017 - 16/12/2017)",
+    "Discentes": "24",
+    "Média Geral": "7.91",
+    "Desvio Padrão Geral": "2.08"
+  }
+]

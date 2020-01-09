@@ -1,0 +1,2536 @@
+{
+  "ADILSON JOSÉ DE OLIVEIRA": {
+    "Notas": [
+      9.11,
+      9.27,
+      9.6,
+      9.71,
+      9.75,
+      9.82,
+      9.89,
+      9.89
+    ],
+    "Desvios": [
+      1.42,
+      2.17,
+      2.16,
+      1.36,
+      1.49,
+      1.84,
+      1.23,
+      1.1
+    ],
+    "Componentes": {
+      "MEC1505 - CAD PARA ENGENHARIA I": {
+        "Notas": [
+          9.11,
+          9.27,
+          9.6,
+          9.71,
+          9.75,
+          9.82,
+          9.89,
+          9.89
+        ],
+        "Desvios": [
+          1.42,
+          2.17,
+          2.16,
+          1.36,
+          1.49,
+          1.84,
+          1.23,
+          1.1
+        ],
+        "DesvioDeNotas": 0.27225906780124004,
+        "MediaDeNotas": 9.629999999999999,
+        "MediaDeDesvios": 1.59625,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.27225906780124004,
+    "MediaDeNotas": 9.629999999999999,
+    "MediaDeDesvios": 1.59625,
+    "NotaMediana": 9.75
+  },
+  "ANDERSON CLAYTON ALVES DE MELO": {
+    "Notas": [
+      8.9,
+      9.35,
+      9.38,
+      9.38,
+      9.46,
+      9.71,
+      9.75,
+      9.82
+    ],
+    "Desvios": [
+      1.59,
+      1.54,
+      2.14,
+      1.38,
+      1.56,
+      1.75,
+      1.75,
+      1.15
+    ],
+    "Componentes": {
+      "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III": {
+        "Notas": [
+          8.9,
+          9.35,
+          9.38,
+          9.38,
+          9.46,
+          9.71,
+          9.75,
+          9.82
+        ],
+        "Desvios": [
+          1.59,
+          1.54,
+          2.14,
+          1.38,
+          1.56,
+          1.75,
+          1.75,
+          1.15
+        ],
+        "DesvioDeNotas": 0.277057642919303,
+        "MediaDeNotas": 9.46875,
+        "MediaDeDesvios": 1.6075,
+        "NotaMediana": 9.46
+      }
+    },
+    "DesvioDeNotas": 0.277057642919303,
+    "MediaDeNotas": 9.46875,
+    "MediaDeDesvios": 1.6075,
+    "NotaMediana": 9.46
+  },
+  "ANDRE JESUS SOARES MAURENTE": {
+    "Notas": [
+      6.82,
+      7.03,
+      8,
+      8.54,
+      8.9,
+      8.94,
+      9.12,
+      9.18
+    ],
+    "Desvios": [
+      3.56,
+      2.13,
+      2.33,
+      3.29,
+      1.61,
+      2.27,
+      2.69,
+      1.87
+    ],
+    "Componentes": {
+      "MEC1507 - SISTEMAS TÉRMICOS I": {
+        "Notas": [
+          6.82,
+          7.03,
+          8,
+          8.54,
+          8.94,
+          9.12
+        ],
+        "Desvios": [
+          3.56,
+          2.33,
+          3.29,
+          1.61,
+          2.27,
+          2.69
+        ],
+        "DesvioDeNotas": 0.8878015919487112,
+        "MediaDeNotas": 8.075,
+        "MediaDeDesvios": 2.6249999999999996,
+        "NotaMediana": 8.54
+      },
+      "MEC1802 - TRANSMISSÃO DE CALOR": {
+        "Notas": [
+          8.9,
+          9.18
+        ],
+        "Desvios": [
+          2.13,
+          1.87
+        ],
+        "DesvioDeNotas": 0.13999999999999968,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 9.18
+      }
+    },
+    "DesvioDeNotas": 0.8778658425408745,
+    "MediaDeNotas": 8.31625,
+    "MediaDeDesvios": 2.46875,
+    "NotaMediana": 8.9
+  },
+  "ANGELO RONCALLI OLIVEIRA GUERRA": {
+    "Notas": [
+      8.94,
+      9.02,
+      9.24,
+      9.4,
+      9.47,
+      9.5,
+      9.53,
+      9.62,
+      9.8,
+      9.84
+    ],
+    "Desvios": [
+      1.31,
+      1.78,
+      1.79,
+      1.54,
+      1.22,
+      2.43,
+      1.81,
+      1.56,
+      1.38,
+      0.84
+    ],
+    "Componentes": {
+      "MEC1705 - CAD PARA ENGENHARIA II": {
+        "Notas": [
+          8.94,
+          9.24,
+          9.47,
+          9.8
+        ],
+        "Desvios": [
+          1.31,
+          1.79,
+          1.81,
+          1.38
+        ],
+        "DesvioDeNotas": 0.3148313040343992,
+        "MediaDeNotas": 9.362499999999999,
+        "MediaDeDesvios": 1.5725,
+        "NotaMediana": 9.47
+      },
+      "MEC1203 - PROJETO DE CLIMATIZAÇÃO": {
+        "Notas": [
+          9.4,
+          9.5,
+          9.53,
+          9.62,
+          9.84
+        ],
+        "Desvios": [
+          1.78,
+          1.54,
+          1.22,
+          1.56,
+          0.84
+        ],
+        "DesvioDeNotas": 0.14864723340849623,
+        "MediaDeNotas": 9.578,
+        "MediaDeDesvios": 1.388,
+        "NotaMediana": 9.53
+      },
+      "DEM0102 - ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO": {
+        "Notas": [
+          9.02
+        ],
+        "Desvios": [
+          2.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 2.43,
+        "NotaMediana": 9.02
+      }
+    },
+    "DesvioDeNotas": 0.2832737192187092,
+    "MediaDeNotas": 9.436,
+    "MediaDeDesvios": 1.566,
+    "NotaMediana": 9.5
+  },
+  "AVELINO MANUEL DA SILVA DIAS": {
+    "Notas": [
+      8.41,
+      8.89,
+      8.92,
+      8.92,
+      9.03,
+      9.11,
+      9.17,
+      9.28,
+      9.29,
+      9.3,
+      9.43,
+      9.68
+    ],
+    "Desvios": [
+      2.19,
+      2.02,
+      1.09,
+      2.06,
+      2.2,
+      2.5,
+      1.82,
+      1.89,
+      1.28,
+      1.59,
+      1.69,
+      1.93
+    ],
+    "Componentes": {
+      "MEC1805 - ELEMENTOS DE MÁQUINAS I": {
+        "Notas": [
+          8.92
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.92,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 8.92
+      },
+      "MEC1834 - INTRODUÇÃO AOS ELEMENTOS DE MÁQUINAS": {
+        "Notas": [
+          9.17,
+          9.28,
+          9.43
+        ],
+        "Desvios": [
+          2.02,
+          2.06,
+          1.82
+        ],
+        "DesvioDeNotas": 0.10656244908763848,
+        "MediaDeNotas": 9.293333333333333,
+        "MediaDeDesvios": 1.9666666666666668,
+        "NotaMediana": 9.28
+      },
+      "MEC1211 - TÓPICOS ESPECIAIS EM PROJETOS MECÂNICOS": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.68
+      },
+      "MEC1604 - MECÂNICA DOS SÓLIDOS II": {
+        "Notas": [
+          8.41,
+          8.92
+        ],
+        "Desvios": [
+          2.2,
+          2.5
+        ],
+        "DesvioDeNotas": 0.2549999999999999,
+        "MediaDeNotas": 8.665,
+        "MediaDeDesvios": 2.35,
+        "NotaMediana": 8.92
+      },
+      "MEC1704 - MECÂNICA DOS SÓLIDOS III": {
+        "Notas": [
+          8.89,
+          9.11,
+          9.29
+        ],
+        "Desvios": [
+          1.89,
+          1.28,
+          1.93
+        ],
+        "DesvioDeNotas": 0.16357125528513672,
+        "MediaDeNotas": 9.096666666666666,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.11
+      },
+      "MEC1609 - MECÂNICA DOS SÓLIDOS II": {
+        "Notas": [
+          9.03,
+          9.3
+        ],
+        "Desvios": [
+          1.59,
+          1.69
+        ],
+        "DesvioDeNotas": 0.13500000000000068,
+        "MediaDeNotas": 9.165,
+        "MediaDeDesvios": 1.6400000000000001,
+        "NotaMediana": 9.3
+      }
+    },
+    "DesvioDeNotas": 0.30880032203495,
+    "MediaDeNotas": 9.119166666666665,
+    "MediaDeDesvios": 1.8550000000000002,
+    "NotaMediana": 9.17
+  },
+  "CARLOS MAGNO DE LIMA": {
+    "Notas": [
+      6.42,
+      7.01,
+      7.27,
+      7.65,
+      8.41,
+      8.45,
+      8.65
+    ],
+    "Desvios": [
+      2.63,
+      3.11,
+      2.9,
+      1.94,
+      2.61,
+      1.72,
+      2.69
+    ],
+    "Componentes": {
+      "DEM0102 - ALGORITMO E PROGRAMACAO ORIENTADA AO OBJETO": {
+        "Notas": [
+          7.27,
+          7.65,
+          8.41,
+          8.65
+        ],
+        "Desvios": [
+          2.63,
+          2.9,
+          2.61,
+          2.69
+        ],
+        "DesvioDeNotas": 0.5580994535026892,
+        "MediaDeNotas": 7.995,
+        "MediaDeDesvios": 2.7074999999999996,
+        "NotaMediana": 8.41
+      },
+      "MEC1221 - INTRODUÇÃO À ENGENHARIA AUTOMOTIVA": {
+        "Notas": [
+          7.01
+        ],
+        "Desvios": [
+          3.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.01,
+        "MediaDeDesvios": 3.11,
+        "NotaMediana": 7.01
+      },
+      "MEC1207 - ALGORITMO E PROGRAMAÇÃO ORIENTADA AO OBJETO": {
+        "Notas": [
+          8.45
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.45,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 8.45
+      },
+      "MEC1705 - CAD PARA ENGENHARIA II": {
+        "Notas": [
+          6.42
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.42,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 6.42
+      }
+    },
+    "DesvioDeNotas": 0.7810955153383181,
+    "MediaDeNotas": 7.694285714285714,
+    "MediaDeDesvios": 2.5142857142857147,
+    "NotaMediana": 7.65
+  },
+  "CLEITON RUBENS FORMIGA BARBOSA": {
+    "Notas": [
+      6.94,
+      7.34,
+      8.29,
+      8.44,
+      8.49,
+      8.79,
+      8.97,
+      8.99,
+      9.39
+    ],
+    "Desvios": [
+      2.43,
+      2.01,
+      2.29,
+      3.1,
+      2.02,
+      1.54,
+      1.73,
+      2.19,
+      1.56
+    ],
+    "Componentes": {
+      "MEC1212 - LABORATÓRIO DE SISTEMAS TÉRMICOS": {
+        "Notas": [
+          7.34
+        ],
+        "Desvios": [
+          2.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.34,
+        "MediaDeDesvios": 2.43,
+        "NotaMediana": 7.34
+      },
+      "MEC1903 - MOTORES TÉRMICOS": {
+        "Notas": [
+          6.94,
+          8.29,
+          9.39
+        ],
+        "Desvios": [
+          2.01,
+          3.1,
+          1.54
+        ],
+        "DesvioDeNotas": 1.001942557679276,
+        "MediaDeNotas": 8.206666666666667,
+        "MediaDeDesvios": 2.2166666666666663,
+        "NotaMediana": 8.29
+      },
+      "MEC1902 - REFRIGERAÇÃO E AR CONDICIONADO": {
+        "Notas": [
+          8.49,
+          8.79,
+          8.97,
+          8.99
+        ],
+        "Desvios": [
+          2.29,
+          2.02,
+          1.73,
+          1.56
+        ],
+        "DesvioDeNotas": 0.20049937655763433,
+        "MediaDeNotas": 8.81,
+        "MediaDeDesvios": 1.9000000000000004,
+        "NotaMediana": 8.97
+      },
+      "MEC1702 - MECANICA DOS FLUIDOS II": {
+        "Notas": [
+          8.44
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.44,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 8.44
+      }
+    },
+    "DesvioDeNotas": 0.7514446990979903,
+    "MediaDeNotas": 8.404444444444444,
+    "MediaDeDesvios": 2.0966666666666667,
+    "NotaMediana": 8.49
+  },
+  "EDUARDO JOSÉ CIDADE CAVALCANTI": {
+    "Notas": [
+      8.66,
+      9.17,
+      9.22,
+      9.25,
+      9.44,
+      9.52
+    ],
+    "Desvios": [
+      1.57,
+      1.23,
+      1.37,
+      2.35,
+      1.27,
+      2.03
+    ],
+    "Componentes": {
+      "MEC1903 - MOTORES TÉRMICOS": {
+        "Notas": [
+          8.66,
+          9.22,
+          9.44,
+          9.52
+        ],
+        "Desvios": [
+          1.57,
+          1.23,
+          2.35,
+          2.03
+        ],
+        "DesvioDeNotas": 0.3360059523282286,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.795,
+        "NotaMediana": 9.44
+      },
+      "MEC1223 - CENTRAIS TERMELÉTRICAS": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.25
+      },
+      "DEM0253 - LABORATORIO DE MECANICA DOS FLUIDOS": {
+        "Notas": [
+          9.17
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.17
+      }
+    },
+    "DesvioDeNotas": 0.2753179979587239,
+    "MediaDeNotas": 9.21,
+    "MediaDeDesvios": 1.6366666666666665,
+    "NotaMediana": 9.25
+  },
+  "EVANS PAIVA DA COSTA FERREIRA": {
+    "Notas": [
+      8.91,
+      8.91,
+      9.18,
+      9.31,
+      9.35,
+      9.38,
+      9.41,
+      9.47,
+      9.57,
+      9.59,
+      9.7
+    ],
+    "Desvios": [
+      1.49,
+      1.49,
+      2.14,
+      1.6,
+      1.23,
+      1.36,
+      1.86,
+      1.32,
+      1.44,
+      1.11,
+      1.41
+    ],
+    "Componentes": {
+      "MEC1002 - ESPECIFICAÇÃO DE TOLERANCIAS EM PROJETOS": {
+        "Notas": [
+          9.18,
+          9.38,
+          9.41,
+          9.47
+        ],
+        "Desvios": [
+          1.49,
+          1.6,
+          1.36,
+          1.44
+        ],
+        "DesvioDeNotas": 0.10885770528538653,
+        "MediaDeNotas": 9.360000000000001,
+        "MediaDeDesvios": 1.4725000000000001,
+        "NotaMediana": 9.41
+      },
+      "MEC1001 - FABRICAÇÃO DE SISTEMAS MECÂNICOS": {
+        "Notas": [
+          8.91,
+          9.31,
+          9.35,
+          9.57,
+          9.59,
+          9.7
+        ],
+        "Desvios": [
+          1.49,
+          1.23,
+          1.86,
+          1.32,
+          1.11,
+          1.41
+        ],
+        "DesvioDeNotas": 0.25998397386505684,
+        "MediaDeNotas": 9.405,
+        "MediaDeDesvios": 1.4033333333333333,
+        "NotaMediana": 9.57
+      },
+      "MEC1604 - MECÂNICA DOS SÓLIDOS II": {
+        "Notas": [
+          8.91
+        ],
+        "Desvios": [
+          2.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.91,
+        "MediaDeDesvios": 2.14,
+        "NotaMediana": 8.91
+      }
+    },
+    "DesvioDeNotas": 0.24581118871171778,
+    "MediaDeNotas": 9.343636363636364,
+    "MediaDeDesvios": 1.4954545454545454,
+    "NotaMediana": 9.38
+  },
+  "FABIO DALMAZZO SANCHES": {
+    "Notas": [
+      6.9,
+      7.6,
+      7.6,
+      8.35,
+      8.82,
+      8.98,
+      9.03
+    ],
+    "Desvios": [
+      2.65,
+      3.84,
+      3.92,
+      2.34,
+      2.87,
+      1.65,
+      3.24
+    ],
+    "Componentes": {
+      "MEC1508 - DINÂMICA": {
+        "Notas": [
+          6.9,
+          7.6,
+          7.6,
+          8.35,
+          8.82,
+          9.03
+        ],
+        "Desvios": [
+          2.65,
+          3.84,
+          3.92,
+          2.34,
+          1.65,
+          3.24
+        ],
+        "DesvioDeNotas": 0.7495331880577403,
+        "MediaDeNotas": 8.05,
+        "MediaDeDesvios": 2.94,
+        "NotaMediana": 8.35
+      },
+      "MEC1703 - VIBRAÇÕES DE SISTEMAS MECÂNICOS": {
+        "Notas": [
+          8.98
+        ],
+        "Desvios": [
+          2.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 2.87,
+        "NotaMediana": 8.98
+      }
+    },
+    "DesvioDeNotas": 0.7664522030706394,
+    "MediaDeNotas": 8.182857142857143,
+    "MediaDeDesvios": 2.9299999999999997,
+    "NotaMediana": 8.35
+  },
+  "FRANCINE ALVES DA COSTA": {
+    "Notas": [
+      8.84,
+      8.9,
+      9.08,
+      9.13,
+      9.26,
+      9.32,
+      9.35,
+      9.5
+    ],
+    "Desvios": [
+      1.87,
+      2.43,
+      1.65,
+      2.6,
+      2.03,
+      2.16,
+      1.42,
+      1.85
+    ],
+    "Componentes": {
+      "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I": {
+        "Notas": [
+          9.13,
+          9.32,
+          9.35,
+          9.5
+        ],
+        "Desvios": [
+          1.87,
+          1.65,
+          2.03,
+          1.42
+        ],
+        "DesvioDeNotas": 0.13162446581088152,
+        "MediaDeNotas": 9.325000000000001,
+        "MediaDeDesvios": 1.7425,
+        "NotaMediana": 9.35
+      },
+      "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II": {
+        "Notas": [
+          8.84,
+          8.9,
+          9.08,
+          9.26
+        ],
+        "Desvios": [
+          2.43,
+          2.6,
+          2.16,
+          1.85
+        ],
+        "DesvioDeNotas": 0.16431676725154973,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 2.2600000000000002,
+        "NotaMediana": 9.08
+      }
+    },
+    "DesvioDeNotas": 0.21311675203981495,
+    "MediaDeNotas": 9.172500000000001,
+    "MediaDeDesvios": 2.00125,
+    "NotaMediana": 9.26
+  },
+  "GABRIEL IVAN MEDINA TAPIA": {
+    "Notas": [
+      8.33,
+      8.67,
+      8.98,
+      8.99,
+      9.15,
+      9.32,
+      9.33,
+      9.36,
+      9.52,
+      9.88
+    ],
+    "Desvios": [
+      2.29,
+      2.2,
+      1.17,
+      2.08,
+      1.62,
+      2.03,
+      1.5,
+      0.93,
+      1.86,
+      2.08
+    ],
+    "Componentes": {
+      "MEC1507 - SISTEMAS TÉRMICOS I": {
+        "Notas": [
+          8.67,
+          8.98,
+          8.99,
+          9.15
+        ],
+        "Desvios": [
+          2.29,
+          2.08,
+          2.03,
+          1.86
+        ],
+        "DesvioDeNotas": 0.17383541066192484,
+        "MediaDeNotas": 8.947500000000002,
+        "MediaDeDesvios": 2.065,
+        "NotaMediana": 8.99
+      },
+      "MEC1602 - SISTEMAS TÉRMICOS II": {
+        "Notas": [
+          8.33,
+          9.32,
+          9.33,
+          9.36
+        ],
+        "Desvios": [
+          2.2,
+          1.62,
+          1.5,
+          2.08
+        ],
+        "DesvioDeNotas": 0.4361479106908572,
+        "MediaDeNotas": 9.084999999999999,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.33
+      },
+      "MEC1212 - LABORATÓRIO DE SISTEMAS TÉRMICOS": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.88
+      },
+      "MEC1213 - ENERGIA SOLAR": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          0.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 0.93,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.41622229637538644,
+    "MediaDeNotas": 9.152999999999999,
+    "MediaDeDesvios": 1.7759999999999998,
+    "NotaMediana": 9.32
+  },
+  "GEORGE SANTOS MARINHO": {
+    "Notas": [
+      8.88,
+      9.31,
+      9.31,
+      9.37,
+      9.39,
+      9.41,
+      9.43,
+      9.46,
+      9.55,
+      9.59,
+      9.61,
+      9.68,
+      9.73
+    ],
+    "Desvios": [
+      2.2,
+      1.7,
+      2.09,
+      1.84,
+      0.93,
+      1.18,
+      1.93,
+      1.52,
+      1.96,
+      1.69,
+      1.66,
+      1.28,
+      1.78
+    ],
+    "Componentes": {
+      "MEC1212 - LABORATÓRIO DE SISTEMAS TÉRMICOS": {
+        "Notas": [
+          8.88,
+          9.59,
+          9.68
+        ],
+        "Desvios": [
+          2.2,
+          0.93,
+          1.69
+        ],
+        "DesvioDeNotas": 0.357801931551832,
+        "MediaDeNotas": 9.383333333333335,
+        "MediaDeDesvios": 1.6066666666666667,
+        "NotaMediana": 9.59
+      },
+      "MEC1507 - SISTEMAS TÉRMICOS I": {
+        "Notas": [
+          9.31,
+          9.37,
+          9.43
+        ],
+        "Desvios": [
+          1.7,
+          1.28,
+          1.78
+        ],
+        "DesvioDeNotas": 0.04898979485566324,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.5866666666666667,
+        "NotaMediana": 9.37
+      },
+      "MEC1210 - TÓPICOS ESPECIAIS EM TERMOCIÊNCIAS": {
+        "Notas": [
+          9.31,
+          9.41
+        ],
+        "Desvios": [
+          2.09,
+          1.66
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.875,
+        "NotaMediana": 9.41
+      },
+      "DEM0253 - LABORATORIO DE MECANICA DOS FLUIDOS": {
+        "Notas": [
+          9.46,
+          9.61
+        ],
+        "Desvios": [
+          1.84,
+          1.52
+        ],
+        "DesvioDeNotas": 0.07499999999999929,
+        "MediaDeNotas": 9.535,
+        "MediaDeDesvios": 1.6800000000000002,
+        "NotaMediana": 9.61
+      },
+      "MEC1803 - TRANSMISSÃO DE CALOR APLICADA": {
+        "Notas": [
+          9.39,
+          9.55
+        ],
+        "Desvios": [
+          1.18,
+          1.93
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.555,
+        "NotaMediana": 9.55
+      },
+      "DEM0405 - LABORATORIO DE TRANSMISSAO DE CALOR": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.20780908398002074,
+    "MediaDeNotas": 9.440000000000001,
+    "MediaDeDesvios": 1.673846153846154,
+    "NotaMediana": 9.43
+  },
+  "GIORGIO ANDRE BRITO OLIVEIRA": {
+    "Notas": [
+      6.38,
+      8.4,
+      8.42,
+      8.66,
+      8.84,
+      9.11,
+      9.18,
+      9.38,
+      9.4
+    ],
+    "Desvios": [
+      2.97,
+      1.65,
+      1.33,
+      2.2,
+      2.33,
+      2.8,
+      2.48,
+      1.67,
+      1.76
+    ],
+    "Componentes": {
+      "MEC1610 - ELEMENTOS DE AUTOMAÇÃO INDUSTRIAL": {
+        "Notas": [
+          8.4,
+          8.42,
+          9.38,
+          9.4
+        ],
+        "Desvios": [
+          2.97,
+          1.65,
+          2.33,
+          1.67
+        ],
+        "DesvioDeNotas": 0.49010203019371407,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 2.1550000000000002,
+        "NotaMediana": 9.38
+      },
+      "MEC1515 - SISTEMAS HIDRÁULICOS E PNEUMÁTICOS": {
+        "Notas": [
+          6.38,
+          9.18
+        ],
+        "Desvios": [
+          1.33,
+          2.8
+        ],
+        "DesvioDeNotas": 1.4,
+        "MediaDeNotas": 7.779999999999999,
+        "MediaDeDesvios": 2.065,
+        "NotaMediana": 9.18
+      },
+      "MEC1802 - TRANSMISSÃO DE CALOR": {
+        "Notas": [
+          8.66,
+          8.84
+        ],
+        "Desvios": [
+          2.2,
+          2.48
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 8.75,
+        "MediaDeDesvios": 2.34,
+        "NotaMediana": 8.84
+      },
+      "DEM0252 - MECANICA DOS FLUIDOS": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.11
+      }
+    },
+    "DesvioDeNotas": 0.8750675458937689,
+    "MediaDeNotas": 8.641111111111112,
+    "MediaDeDesvios": 2.1322222222222225,
+    "NotaMediana": 8.84
+  },
+  "IGOR LOPES DE ANDRADE": {
+    "Notas": [
+      8.3,
+      8.32,
+      8.54,
+      8.7,
+      8.78,
+      8.78,
+      8.84,
+      9.02,
+      9.06,
+      9.08,
+      9.5
+    ],
+    "Desvios": [
+      1.65,
+      2.77,
+      2.18,
+      2.43,
+      2.09,
+      1.64,
+      2.47,
+      2.39,
+      1.88,
+      1.51,
+      1.75
+    ],
+    "Componentes": {
+      "MEC1614 - INTRODUÇÃO AOS SISTEMAS DE MANUFATURA": {
+        "Notas": [
+          8.54,
+          8.78,
+          8.78,
+          9.06
+        ],
+        "Desvios": [
+          1.65,
+          2.18,
+          1.64,
+          1.88
+        ],
+        "DesvioDeNotas": 0.18411952639522017,
+        "MediaDeNotas": 8.79,
+        "MediaDeDesvios": 1.8375,
+        "NotaMediana": 8.78
+      },
+      "MEC1509 - METROLOGIA INDUSTRIAL": {
+        "Notas": [
+          8.3,
+          8.32,
+          8.7,
+          8.84,
+          9.02,
+          9.08,
+          9.5
+        ],
+        "Desvios": [
+          2.77,
+          2.43,
+          2.09,
+          2.47,
+          2.39,
+          1.51,
+          1.75
+        ],
+        "DesvioDeNotas": 0.3973380815129705,
+        "MediaDeNotas": 8.822857142857144,
+        "MediaDeDesvios": 2.2014285714285715,
+        "NotaMediana": 8.84
+      }
+    },
+    "DesvioDeNotas": 0.3362211000207654,
+    "MediaDeNotas": 8.81090909090909,
+    "MediaDeDesvios": 2.0690909090909093,
+    "NotaMediana": 8.78
+  },
+  "JOAO DEODATO BATISTA DOS SANTOS": {
+    "Notas": [
+      8.93,
+      9.23,
+      9.34,
+      9.38,
+      9.39,
+      9.75
+    ],
+    "Desvios": [
+      1.83,
+      1.91,
+      1.3,
+      2.3,
+      1.61,
+      1.66
+    ],
+    "Componentes": {
+      "MEC1704 - MECÂNICA DOS SÓLIDOS III": {
+        "Notas": [
+          8.93,
+          9.23,
+          9.38,
+          9.39,
+          9.75
+        ],
+        "Desvios": [
+          1.83,
+          1.91,
+          2.3,
+          1.61,
+          1.66
+        ],
+        "DesvioDeNotas": 0.26545056036859305,
+        "MediaDeNotas": 9.336000000000002,
+        "MediaDeDesvios": 1.862,
+        "NotaMediana": 9.38
+      },
+      "MEC1001 - FABRICAÇÃO DE SISTEMAS MECÂNICOS": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.24232668491567796,
+    "MediaDeNotas": 9.336666666666668,
+    "MediaDeDesvios": 1.7683333333333333,
+    "NotaMediana": 9.38
+  },
+  "JOÃO CARLOS ARANTES COSTA JÚNIOR": {
+    "Notas": [
+      8.3,
+      8.43,
+      8.83,
+      8.84,
+      8.91,
+      8.99,
+      9.08,
+      9.15,
+      9.15,
+      9.2,
+      9.56,
+      9.59
+    ],
+    "Desvios": [
+      2.02,
+      2.01,
+      1.18,
+      2.11,
+      1.75,
+      2.63,
+      1.78,
+      1.1,
+      2.39,
+      1.75,
+      1.86,
+      1.73
+    ],
+    "Componentes": {
+      "MEC1805 - ELEMENTOS DE MÁQUINAS I": {
+        "Notas": [
+          8.84,
+          8.91,
+          8.99,
+          9.08,
+          9.15,
+          9.15,
+          9.59
+        ],
+        "Desvios": [
+          2.02,
+          2.11,
+          1.75,
+          1.78,
+          1.1,
+          1.75,
+          1.86
+        ],
+        "DesvioDeNotas": 0.22718328481197547,
+        "MediaDeNotas": 9.10142857142857,
+        "MediaDeDesvios": 1.7671428571428571,
+        "NotaMediana": 9.08
+      },
+      "MEC1904 - ELEMENTOS DE MÁQUINAS II": {
+        "Notas": [
+          9.2,
+          9.56
+        ],
+        "Desvios": [
+          2.01,
+          1.18
+        ],
+        "DesvioDeNotas": 0.1800000000000006,
+        "MediaDeNotas": 9.379999999999999,
+        "MediaDeDesvios": 1.5949999999999998,
+        "NotaMediana": 9.56
+      },
+      "MEC1211 - TÓPICOS ESPECIAIS EM PROJETOS MECÂNICOS": {
+        "Notas": [
+          8.3,
+          8.43,
+          8.83
+        ],
+        "Desvios": [
+          2.63,
+          2.39,
+          1.73
+        ],
+        "DesvioDeNotas": 0.22553639765383013,
+        "MediaDeNotas": 8.520000000000001,
+        "MediaDeDesvios": 2.25,
+        "NotaMediana": 8.43
+      }
+    },
+    "DesvioDeNotas": 0.36862639171207834,
+    "MediaDeNotas": 9.0025,
+    "MediaDeDesvios": 1.8591666666666666,
+    "NotaMediana": 9.08
+  },
+  "JOÃO WANDERLEY RODRIGUES PEREIRA": {
+    "Notas": [
+      6.28,
+      6.64,
+      7.44,
+      7.55,
+      7.75,
+      7.97,
+      7.99,
+      8.69
+    ],
+    "Desvios": [
+      3.26,
+      2.4,
+      3.65,
+      2.92,
+      3.36,
+      3.45,
+      3.09,
+      2.89
+    ],
+    "Componentes": {
+      "MEC0404 - MECANICA DOS SOLIDOS": {
+        "Notas": [
+          6.28,
+          6.64,
+          7.44,
+          7.55,
+          7.75,
+          7.97,
+          7.99,
+          8.69
+        ],
+        "Desvios": [
+          3.26,
+          2.4,
+          3.65,
+          2.92,
+          3.36,
+          3.45,
+          3.09,
+          2.89
+        ],
+        "DesvioDeNotas": 0.7212564991041673,
+        "MediaDeNotas": 7.538749999999999,
+        "MediaDeDesvios": 3.1275,
+        "NotaMediana": 7.75
+      }
+    },
+    "DesvioDeNotas": 0.7212564991041673,
+    "MediaDeNotas": 7.538749999999999,
+    "MediaDeDesvios": 3.1275,
+    "NotaMediana": 7.75
+  },
+  "KLEIBER LIMA DE BESSA": {
+    "Notas": [
+      8.65,
+      8.74,
+      8.82,
+      9,
+      9.01,
+      9.08,
+      9.11,
+      9.31,
+      9.35,
+      9.43
+    ],
+    "Desvios": [
+      2.31,
+      1.92,
+      1.68,
+      1.64,
+      1.79,
+      1.64,
+      2.32,
+      1.84,
+      1.68,
+      1.37
+    ],
+    "Componentes": {
+      "DEM0253 - LABORATORIO DE MECANICA DOS FLUIDOS": {
+        "Notas": [
+          8.74
+        ],
+        "Desvios": [
+          2.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.74,
+        "MediaDeDesvios": 2.31,
+        "NotaMediana": 8.74
+      },
+      "MEC1702 - MECANICA DOS FLUIDOS II": {
+        "Notas": [
+          8.65,
+          8.82,
+          9,
+          9.01,
+          9.08,
+          9.31,
+          9.35,
+          9.43
+        ],
+        "Desvios": [
+          1.92,
+          1.68,
+          1.64,
+          1.79,
+          2.32,
+          1.84,
+          1.68,
+          1.37
+        ],
+        "DesvioDeNotas": 0.25300382902240814,
+        "MediaDeNotas": 9.081249999999999,
+        "MediaDeDesvios": 1.7799999999999998,
+        "NotaMediana": 9.08
+      },
+      "DEM0252 - MECANICA DOS FLUIDOS": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.11
+      }
+    },
+    "DesvioDeNotas": 0.248917657067553,
+    "MediaDeNotas": 9.05,
+    "MediaDeDesvios": 1.8190000000000002,
+    "NotaMediana": 9.08
+  },
+  "LUIZ CLAUDIO FERREIRA DA SILVA": {
+    "Notas": [
+      7.36,
+      7.99,
+      8.23,
+      8.38,
+      8.53,
+      8.55,
+      8.73,
+      8.81,
+      8.87,
+      8.89,
+      9.07
+    ],
+    "Desvios": [
+      2.8,
+      2.64,
+      2.4,
+      2.59,
+      2.17,
+      2.53,
+      2.28,
+      2.06,
+      1.95,
+      2.13,
+      1.91
+    ],
+    "Componentes": {
+      "MEC1904 - ELEMENTOS DE MÁQUINAS II": {
+        "Notas": [
+          7.36,
+          7.99,
+          8.23,
+          8.38,
+          8.55,
+          8.73,
+          8.87,
+          8.89
+        ],
+        "Desvios": [
+          2.8,
+          2.64,
+          2.59,
+          2.17,
+          2.28,
+          2.06,
+          2.13,
+          1.91
+        ],
+        "DesvioDeNotas": 0.4830113870293328,
+        "MediaDeNotas": 8.375,
+        "MediaDeDesvios": 2.3225,
+        "NotaMediana": 8.55
+      },
+      "MEC1834 - INTRODUÇÃO AOS ELEMENTOS DE MÁQUINAS": {
+        "Notas": [
+          8.53,
+          8.81,
+          9.07
+        ],
+        "Desvios": [
+          2.4,
+          2.53,
+          1.95
+        ],
+        "DesvioDeNotas": 0.2205044721138834,
+        "MediaDeNotas": 8.803333333333333,
+        "MediaDeDesvios": 2.2933333333333334,
+        "NotaMediana": 8.81
+      }
+    },
+    "DesvioDeNotas": 0.468320367848921,
+    "MediaDeNotas": 8.491818181818182,
+    "MediaDeDesvios": 2.3145454545454545,
+    "NotaMediana": 8.55
+  },
+  "LUIZ GUILHERME MEIRA DE SOUZA": {
+    "Notas": [
+      8.83,
+      8.87,
+      8.91,
+      9.07,
+      9.25,
+      9.26,
+      9.47,
+      9.52
+    ],
+    "Desvios": [
+      2.03,
+      2.11,
+      2.42,
+      1.93,
+      2.56,
+      2.33,
+      1.42,
+      1.9
+    ],
+    "Componentes": {
+      "MEC1608 - MÁQUINAS DE FLUXO": {
+        "Notas": [
+          8.83,
+          8.87,
+          8.91,
+          9.07,
+          9.25,
+          9.26,
+          9.47,
+          9.52
+        ],
+        "Desvios": [
+          2.03,
+          2.11,
+          2.42,
+          1.93,
+          2.56,
+          2.33,
+          1.42,
+          1.9
+        ],
+        "DesvioDeNotas": 0.25153280104193176,
+        "MediaDeNotas": 9.147499999999999,
+        "MediaDeDesvios": 2.0875,
+        "NotaMediana": 9.25
+      }
+    },
+    "DesvioDeNotas": 0.25153280104193176,
+    "MediaDeNotas": 9.147499999999999,
+    "MediaDeDesvios": 2.0875,
+    "NotaMediana": 9.25
+  },
+  "LUIZ PEDRO DE ARAUJO": {
+    "Notas": [
+      8.29,
+      8.54,
+      9.09,
+      9.75
+    ],
+    "Desvios": [
+      1.91,
+      2.86,
+      1.77,
+      0.97
+    ],
+    "Componentes": {
+      "MEC1002 - ESPECIFICAÇÃO DE TOLERANCIAS EM PROJETOS": {
+        "Notas": [
+          8.29,
+          8.54,
+          9.09,
+          9.75
+        ],
+        "Desvios": [
+          1.91,
+          2.86,
+          1.77,
+          0.97
+        ],
+        "DesvioDeNotas": 0.5610425563181463,
+        "MediaDeNotas": 8.9175,
+        "MediaDeDesvios": 1.8774999999999997,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 0.5610425563181463,
+    "MediaDeNotas": 8.9175,
+    "MediaDeDesvios": 1.8774999999999997,
+    "NotaMediana": 9.09
+  },
+  "MARCIO VALERIO DE ARAUJO": {
+    "Notas": [
+      9.1,
+      9.48,
+      9.61,
+      9.72,
+      9.75
+    ],
+    "Desvios": [
+      1.88,
+      0.59,
+      1.63,
+      1.82,
+      1.61
+    ],
+    "Componentes": {
+      "MEC1612 - INTRODUÇÃO AOS PROCESSOS DE FABRICAÇÃO MECÂNICA": {
+        "Notas": [
+          9.1,
+          9.48,
+          9.61,
+          9.72
+        ],
+        "Desvios": [
+          1.88,
+          1.63,
+          1.82,
+          1.61
+        ],
+        "DesvioDeNotas": 0.2339203924415315,
+        "MediaDeNotas": 9.4775,
+        "MediaDeDesvios": 1.735,
+        "NotaMediana": 9.61
+      },
+      "MCA0004 - PROJETO INTEGRADO DE MECATRÔNICA": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          0.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 0.59,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.2359152390160502,
+    "MediaDeNotas": 9.532,
+    "MediaDeDesvios": 1.506,
+    "NotaMediana": 9.61
+  },
+  "RAIMUNDO CARLOS SILVERIO FREIRE JUNIOR": {
+    "Notas": [
+      9.32,
+      9.4,
+      9.43,
+      9.48,
+      9.49,
+      9.6,
+      9.61,
+      9.61
+    ],
+    "Desvios": [
+      1.82,
+      1.79,
+      1.83,
+      1.29,
+      1.54,
+      1.95,
+      1.5,
+      1.59
+    ],
+    "Componentes": {
+      "MEC1226 - COMPÓSITOS": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 9.61
+      },
+      "MEC1604 - MECÂNICA DOS SÓLIDOS II": {
+        "Notas": [
+          9.43,
+          9.49,
+          9.6
+        ],
+        "Desvios": [
+          1.79,
+          1.54,
+          1.95
+        ],
+        "DesvioDeNotas": 0.07039570693980951,
+        "MediaDeNotas": 9.506666666666668,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.49
+      },
+      "MEC1208 - INTRODUCAO À ENGENHARIA AERONÁUTICA": {
+        "Notas": [
+          9.32,
+          9.48,
+          9.61
+        ],
+        "Desvios": [
+          1.83,
+          1.29,
+          1.5
+        ],
+        "DesvioDeNotas": 0.11860297916438096,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.48
+      },
+      "MEC1609 - MECÂNICA DOS SÓLIDOS II": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.4
+      }
+    },
+    "DesvioDeNotas": 0.10096410253154306,
+    "MediaDeNotas": 9.492500000000001,
+    "MediaDeDesvios": 1.6637499999999998,
+    "NotaMediana": 9.49
+  },
+  "SANDI ITAMAR SCHAFER DE SOUZA": {
+    "Notas": [
+      6.57,
+      6.84,
+      7.3,
+      7.36,
+      7.73,
+      7.93,
+      8.06,
+      8.13,
+      8.35,
+      8.57
+    ],
+    "Desvios": [
+      2.58,
+      3.25,
+      2.65,
+      2.79,
+      2.66,
+      3.35,
+      2.77,
+      1.97,
+      3.14,
+      2.83
+    ],
+    "Componentes": {
+      "MEC1602 - SISTEMAS TÉRMICOS II": {
+        "Notas": [
+          6.57,
+          6.84,
+          7.3,
+          7.73,
+          7.93,
+          8.57
+        ],
+        "Desvios": [
+          2.58,
+          2.79,
+          3.35,
+          2.77,
+          3.14,
+          2.83
+        ],
+        "DesvioDeNotas": 0.6736220503120921,
+        "MediaDeNotas": 7.490000000000001,
+        "MediaDeDesvios": 2.91,
+        "NotaMediana": 7.73
+      },
+      "MEC1802 - TRANSMISSÃO DE CALOR": {
+        "Notas": [
+          7.36,
+          8.13
+        ],
+        "Desvios": [
+          3.25,
+          2.66
+        ],
+        "DesvioDeNotas": 0.38500000000000023,
+        "MediaDeNotas": 7.745000000000001,
+        "MediaDeDesvios": 2.955,
+        "NotaMediana": 8.13
+      },
+      "MEC1224 - ENERGIA EÓLICA": {
+        "Notas": [
+          8.06,
+          8.35
+        ],
+        "Desvios": [
+          2.65,
+          1.97
+        ],
+        "DesvioDeNotas": 0.14499999999999957,
+        "MediaDeNotas": 8.205,
+        "MediaDeDesvios": 2.31,
+        "NotaMediana": 8.35
+      }
+    },
+    "DesvioDeNotas": 0.6194545988206077,
+    "MediaDeNotas": 7.684,
+    "MediaDeDesvios": 2.7990000000000004,
+    "NotaMediana": 7.93
+  },
+  "SYNARA LUCIEN DE LIMA CAVALCANTI": {
+    "Notas": [
+      9.37,
+      9.4,
+      9.64,
+      9.78,
+      9.89
+    ],
+    "Desvios": [
+      1.77,
+      1.53,
+      1.81,
+      1.62,
+      1.22
+    ],
+    "Componentes": {
+      "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS": {
+        "Notas": [
+          9.4,
+          9.64,
+          9.78
+        ],
+        "Desvios": [
+          1.77,
+          1.53,
+          1.62
+        ],
+        "DesvioDeNotas": 0.15691469727919724,
+        "MediaDeNotas": 9.606666666666667,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.64
+      },
+      "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I": {
+        "Notas": [
+          9.37,
+          9.89
+        ],
+        "Desvios": [
+          1.81,
+          1.22
+        ],
+        "DesvioDeNotas": 0.2600000000000007,
+        "MediaDeNotas": 9.629999999999999,
+        "MediaDeDesvios": 1.5150000000000001,
+        "NotaMediana": 9.89
+      }
+    },
+    "DesvioDeNotas": 0.2048023437365893,
+    "MediaDeNotas": 9.616,
+    "MediaDeDesvios": 1.5899999999999999,
+    "NotaMediana": 9.64
+  },
+  "TALITA GALVAO TARGINO": {
+    "Notas": [
+      9.22,
+      9.27,
+      9.48,
+      9.61,
+      9.78,
+      9.8
+    ],
+    "Desvios": [
+      0.83,
+      1.4,
+      1.29,
+      1.66,
+      1.99,
+      1.78
+    ],
+    "Componentes": {
+      "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II": {
+        "Notas": [
+          9.48,
+          9.8
+        ],
+        "Desvios": [
+          0.83,
+          1.66
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.2449999999999999,
+        "NotaMediana": 9.8
+      },
+      "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS": {
+        "Notas": [
+          9.22,
+          9.27,
+          9.61,
+          9.78
+        ],
+        "Desvios": [
+          1.4,
+          1.29,
+          1.99,
+          1.78
+        ],
+        "DesvioDeNotas": 0.23355941428253288,
+        "MediaDeNotas": 9.469999999999999,
+        "MediaDeDesvios": 1.615,
+        "NotaMediana": 9.61
+      }
+    },
+    "DesvioDeNotas": 0.22654408450061586,
+    "MediaDeNotas": 9.526666666666666,
+    "MediaDeDesvios": 1.4916666666666665,
+    "NotaMediana": 9.61
+  },
+  "THERCIO HENRIQUE DE CARVALHO COSTA": {
+    "Notas": [
+      8.23,
+      8.34,
+      8.83,
+      8.95,
+      9.11,
+      9.39,
+      9.41,
+      9.7,
+      9.71,
+      9.98
+    ],
+    "Desvios": [
+      2.28,
+      0.45,
+      1.99,
+      1.11,
+      1.83,
+      1.37,
+      2.5,
+      1.5,
+      1.52,
+      1.48
+    ],
+    "Componentes": {
+      "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS": {
+        "Notas": [
+          8.23,
+          8.34,
+          8.83,
+          8.95,
+          9.39,
+          9.41
+        ],
+        "Desvios": [
+          2.28,
+          1.83,
+          2.5,
+          1.5,
+          1.52,
+          1.48
+        ],
+        "DesvioDeNotas": 0.4581999806004167,
+        "MediaDeNotas": 8.858333333333334,
+        "MediaDeDesvios": 1.8516666666666666,
+        "NotaMediana": 8.95
+      },
+      "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II": {
+        "Notas": [
+          9.71,
+          9.98
+        ],
+        "Desvios": [
+          0.45,
+          1.37
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.845,
+        "MediaDeDesvios": 0.91,
+        "NotaMediana": 9.98
+      },
+      "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS": {
+        "Notas": [
+          9.11,
+          9.7
+        ],
+        "Desvios": [
+          1.99,
+          1.11
+        ],
+        "DesvioDeNotas": 0.29499999999999993,
+        "MediaDeNotas": 9.405,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.554477231272845,
+    "MediaDeNotas": 9.165,
+    "MediaDeDesvios": 1.6030000000000002,
+    "NotaMediana": 9.39
+  },
+  "THIAGO CARDOSO DE SOUZA": {
+    "Notas": [
+      6.11,
+      8,
+      8.08
+    ],
+    "Desvios": [
+      2.88,
+      3.22,
+      3.83
+    ],
+    "Componentes": {
+      "DEM0252 - MECANICA DOS FLUIDOS": {
+        "Notas": [
+          8,
+          8.08
+        ],
+        "Desvios": [
+          2.88,
+          3.22
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 8.04,
+        "MediaDeDesvios": 3.05,
+        "NotaMediana": 8.08
+      },
+      "MEC1802 - TRANSMISSÃO DE CALOR": {
+        "Notas": [
+          6.11
+        ],
+        "Desvios": [
+          3.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.11,
+        "MediaDeDesvios": 3.83,
+        "NotaMediana": 6.11
+      }
+    },
+    "DesvioDeNotas": 0.9103967389123392,
+    "MediaDeNotas": 7.396666666666666,
+    "MediaDeDesvios": 3.31,
+    "NotaMediana": 8
+  },
+  "ULISSES BORGES SOUTO": {
+    "Notas": [
+      9.32,
+      9.33,
+      9.59,
+      9.65,
+      9.65
+    ],
+    "Desvios": [
+      1.92,
+      1.71,
+      1.58,
+      1.91,
+      2.13
+    ],
+    "Componentes": {
+      "MEC1509 - METROLOGIA INDUSTRIAL": {
+        "Notas": [
+          9.32,
+          9.33,
+          9.65,
+          9.65
+        ],
+        "Desvios": [
+          1.92,
+          1.58,
+          1.91,
+          2.13
+        ],
+        "DesvioDeNotas": 0.16253845698787725,
+        "MediaDeNotas": 9.4875,
+        "MediaDeDesvios": 1.885,
+        "NotaMediana": 9.65
+      },
+      "MEC1901 - PROCESSOS DE FABRICAÇÃO MECÂNICA III": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.1510496607079937,
+    "MediaDeNotas": 9.508,
+    "MediaDeDesvios": 1.85,
+    "NotaMediana": 9.59
+  },
+  "WALLACE MOREIRA BESSA": {
+    "Notas": [
+      9.23,
+      9.4,
+      9.51,
+      9.53,
+      9.65,
+      9.7,
+      9.72,
+      9.75
+    ],
+    "Desvios": [
+      1.77,
+      1.82,
+      1.71,
+      2.21,
+      1.56,
+      1.16,
+      1.51,
+      1.16
+    ],
+    "Componentes": {
+      "MEC1804 - MECÂNICA APLICADA ÀS MÁQUINAS": {
+        "Notas": [
+          9.23,
+          9.4,
+          9.51,
+          9.53,
+          9.65,
+          9.7,
+          9.72,
+          9.75
+        ],
+        "Desvios": [
+          1.77,
+          1.82,
+          1.71,
+          2.21,
+          1.56,
+          1.16,
+          1.51,
+          1.16
+        ],
+        "DesvioDeNotas": 0.16855544340068038,
+        "MediaDeNotas": 9.561250000000001,
+        "MediaDeDesvios": 1.6125,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.16855544340068038,
+    "MediaDeNotas": 9.561250000000001,
+    "MediaDeDesvios": 1.6125,
+    "NotaMediana": 9.65
+  },
+  "WILLIAM FERNANDES DE QUEIROZ": {
+    "Notas": [
+      6.75,
+      7.01,
+      7.91,
+      8,
+      8.18,
+      8.21,
+      8.43,
+      8.57,
+      8.74,
+      9.49
+    ],
+    "Desvios": [
+      3.3,
+      2.63,
+      2.31,
+      0.95,
+      2.45,
+      2.72,
+      2.92,
+      2.21,
+      2.63,
+      2.08
+    ],
+    "Componentes": {
+      "MEC1505 - CAD PARA ENGENHARIA I": {
+        "Notas": [
+          6.75,
+          7.01,
+          7.91,
+          8,
+          8.18,
+          8.21,
+          8.43,
+          8.74
+        ],
+        "Desvios": [
+          3.3,
+          2.63,
+          2.45,
+          2.72,
+          2.92,
+          2.21,
+          2.63,
+          2.08
+        ],
+        "DesvioDeNotas": 0.6408575797320338,
+        "MediaDeNotas": 7.9037500000000005,
+        "MediaDeDesvios": 2.6174999999999997,
+        "NotaMediana": 8.18
+      },
+      "MEC1705 - CAD PARA ENGENHARIA II": {
+        "Notas": [
+          8.57,
+          9.49
+        ],
+        "Desvios": [
+          2.31,
+          0.95
+        ],
+        "DesvioDeNotas": 0.45999999999999996,
+        "MediaDeNotas": 9.030000000000001,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.49
+      }
+    },
+    "DesvioDeNotas": 0.7575150163528114,
+    "MediaDeNotas": 8.129,
+    "MediaDeDesvios": 2.4200000000000004,
+    "NotaMediana": 8.21
+  },
+  "JULIANA RICARDO DE SOUZA": {
+    "Notas": [
+      8.74,
+      8.93,
+      8.98,
+      9.26,
+      9.32,
+      9.43,
+      9.45,
+      9.63,
+      9.73,
+      9.89,
+      9.97
+    ],
+    "Desvios": [
+      1.15,
+      2.04,
+      1.12,
+      2.23,
+      1.16,
+      1.84,
+      1.14,
+      1.68,
+      1.42,
+      0.95,
+      1.39
+    ],
+    "Componentes": {
+      "MEC1506 - METALOGRAFIA E TRATAMENTOS TÉRMICOS": {
+        "Notas": [
+          9.32,
+          9.43,
+          9.45,
+          9.89
+        ],
+        "Desvios": [
+          1.15,
+          2.04,
+          1.42,
+          0.95
+        ],
+        "DesvioDeNotas": 0.2178732429648031,
+        "MediaDeNotas": 9.5225,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.45
+      },
+      "MEC1601 - PROCESSOS DE FABRICAÇÃO MECÂNICA I": {
+        "Notas": [
+          9.26,
+          9.73,
+          9.97
+        ],
+        "Desvios": [
+          1.12,
+          1.16,
+          1.39
+        ],
+        "DesvioDeNotas": 0.29488227406128664,
+        "MediaDeNotas": 9.653333333333334,
+        "MediaDeDesvios": 1.2233333333333334,
+        "NotaMediana": 9.73
+      },
+      "MEC1801 - ESPECIFICAÇÃO E SELEÇÃO DE MATERIAIS": {
+        "Notas": [
+          8.74,
+          9.63
+        ],
+        "Desvios": [
+          2.23,
+          1.14
+        ],
+        "DesvioDeNotas": 0.4450000000000003,
+        "MediaDeNotas": 9.185,
+        "MediaDeDesvios": 1.685,
+        "NotaMediana": 9.63
+      },
+      "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II": {
+        "Notas": [
+          8.98
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 8.98
+      },
+      "MEC1201 - MANUTENÇÃO INDUSTRIAL": {
+        "Notas": [
+          8.93
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.93,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 8.93
+      }
+    },
+    "DesvioDeNotas": 0.38003044680113185,
+    "MediaDeNotas": 9.393636363636364,
+    "MediaDeDesvios": 1.4654545454545456,
+    "NotaMediana": 9.43
+  },
+  "ELLISON MATHEUS DELIO ALCANTARA": {
+    "Notas": [
+      9.2,
+      9.54
+    ],
+    "Desvios": [
+      1.74,
+      1.2
+    ],
+    "Componentes": {
+      "MEC1802 - TRANSMISSÃO DE CALOR": {
+        "Notas": [
+          9.2,
+          9.54
+        ],
+        "Desvios": [
+          1.74,
+          1.2
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.54
+      }
+    },
+    "DesvioDeNotas": 0.16999999999999993,
+    "MediaDeNotas": 9.37,
+    "MediaDeDesvios": 1.47,
+    "NotaMediana": 9.54
+  },
+  "KARLLYAMMO LENNON DE SOUZA": {
+    "Notas": [
+      7.76,
+      7.9,
+      8.55,
+      8.72,
+      8.89,
+      8.98
+    ],
+    "Desvios": [
+      2.68,
+      2.67,
+      2.11,
+      1.47,
+      1.77,
+      1.42
+    ],
+    "Componentes": {
+      "MEC1201 - MANUTENÇÃO INDUSTRIAL": {
+        "Notas": [
+          7.9
+        ],
+        "Desvios": [
+          2.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.9,
+        "MediaDeDesvios": 2.68,
+        "NotaMediana": 7.9
+      },
+      "MEC1806 - TRIBOLOGIA DE ELEMENTOS DE MÁQUINAS": {
+        "Notas": [
+          7.76,
+          8.55,
+          8.72,
+          8.98
+        ],
+        "Desvios": [
+          2.67,
+          2.11,
+          1.77,
+          1.42
+        ],
+        "DesvioDeNotas": 0.4552128622963111,
+        "MediaDeNotas": 8.502500000000001,
+        "MediaDeDesvios": 1.9924999999999997,
+        "NotaMediana": 8.72
+      },
+      "MEC1701 - PROCESSOS DE FABRICAÇÃO MECÂNICA II": {
+        "Notas": [
+          8.89
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.89,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 8.89
+      }
+    },
+    "DesvioDeNotas": 0.4715812643531219,
+    "MediaDeNotas": 8.466666666666667,
+    "MediaDeDesvios": 2.02,
+    "NotaMediana": 8.72
+  },
+  "LUIZ GUILHERME VIEIRA MEIRA DE SOUZA": {
+    "Notas": [
+      9.51,
+      9.65,
+      9.75
+    ],
+    "Desvios": [
+      1.05,
+      1.11,
+      1.25
+    ],
+    "Componentes": {
+      "MEC1610 - ELEMENTOS DE AUTOMAÇÃO INDUSTRIAL": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.65
+      },
+      "DEM0252 - MECANICA DOS FLUIDOS": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.11,
+        "NotaMediana": 9.75
+      },
+      "MEC1515 - SISTEMAS HIDRÁULICOS E PNEUMÁTICOS": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.51
+      }
+    },
+    "DesvioDeNotas": 0.09843215373488945,
+    "MediaDeNotas": 9.636666666666665,
+    "MediaDeDesvios": 1.1366666666666667,
+    "NotaMediana": 9.65
+  }
+}
