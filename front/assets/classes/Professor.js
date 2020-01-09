@@ -1,5 +1,7 @@
 class Professor {
 
+  static lista = {}
+
   constructor(nome, componentes, nota, desvio, desvio_nota) {
 
     this.nome = nome
@@ -13,12 +15,24 @@ class Professor {
     this.entities = {}
     this.template = {}
 
+    Professor.lista[nome] = componentes
+
     this.init()
   }
 
   init() {
     this.avaliacao();
     this.build_template();
+    this.on_click();
+  }
+
+  on_click() {
+    this.template.geral.dblclick((e) => {
+      e.preventDefault();
+      if ($(".tab-pane.active").attr("id") == "professores") {
+        ComparaProf.adiciona(this.nome, this.nota, this.desvio, this.aval.nota)
+      }
+    });
   }
 
   _aval_nota() {

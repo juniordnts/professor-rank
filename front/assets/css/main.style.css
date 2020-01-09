@@ -32,11 +32,11 @@ td button, th button{
   cursor: pointer;
 }
 
-#professores > div, #disciplinas > div{
+#professores > div, #disciplinas > div, #geral > div{
   background-color: var(--main-bg-light);
 }
 
-#buscar-professor{
+.buscar-professor, .buscar-professor:focus{
   background-color: transparent;
   border-color: var(--main-borders);
   color: #ffffff;
@@ -65,9 +65,6 @@ td button, th button{
 {
   width: 30px !important;
 }
-/* .quadro-resultados td:first-child {
-  width: 30px;
-} */
 .posicao span{
   width: 17px;
   height: 17px;
@@ -79,13 +76,13 @@ td button, th button{
 }
 
 @media (max-width: 768px) {
-  #buscar-professor, .quadro-resultados taxble{
+  .buscar-professor{
     width: 100%;
   }
 }
 
 @media (min-width: 768px) {
-  #buscar-professor, .quadro-resultados taxble{
+  .buscar-professor{
     width: 70%;
   }
 }

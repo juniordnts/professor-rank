@@ -34,11 +34,13 @@
 
       <!--  -->
       <div class="tab-pane fade show active" id="geral">
-        <input type="text" class="form-control mx-auto mt-5" id="buscar-professor" placeholder="Buscar Professor">
-        <div class="container mt-5">
+        <input type="text" class="form-control mx-auto mt-5 buscar-professor" placeholder="Buscar Professor">
+        <div class="container mt-5 p-3 rounded">
           <div class="text-center d-none">Sem resultados para a busca</div>
-          <table class="table table-hover">
+          <table class="table table-hover mb-0">
             <tbody id="table-geral">
+
+              <!-- Jquery -->
 
             </tbody>
           </table>
@@ -47,7 +49,7 @@
 
       <!--  -->
       <div class="tab-pane fade" id="professores">
-        <input type="text" class="form-control mx-auto mt-5" id="buscar-professor" placeholder="Buscar Professor">
+        <input type="text" class="form-control mx-auto mt-5 buscar-professor" placeholder="Buscar Professor">
         <div class="quadro-resultados rounded">
           <small>
             <div class="container mt-4 p-3 rounded">
@@ -59,9 +61,9 @@
                 </button>
               </div>
               <table class="table table-hover mb-0 mx-auto">
-                <tbody id="table-professores">
+                <tbody id="table-comparacao">
 
-                  <tr data-toggle="tooltip" data-placement="top" title="1° Lugar">
+                  <!-- <tr data-toggle="tooltip" data-placement="top" title="1° Lugar">
                     <td><i class="fas fa-trophy"></i></td>
                     <td>
                       <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
@@ -95,7 +97,7 @@
                       </button>
                     </td>
                     <td>ALEXSANDRO PEREIRA LIMA</td>
-                  </tr>
+                  </tr> -->
 
                 </tbody>
               </table>
@@ -105,80 +107,7 @@
         <div class="container mt-4 p-3 rounded quadro-normal">
           <div class="text-center d-none">SEM RESULTADOS PARA A BUSCA</div>
           <table class="table table-hover mb-0">
-            <tbody>
-
-              <tr>
-                <th scope="row">
-                  <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                    data-placement="top"
-                    data-content="<b><i class='fas fa-chart-bar'/> 9.51 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.38</b>">
-                    <i class="fas fa-circle text-success"></i>
-                  </button>
-                </th>
-                <td>ADA LIMA FERREIRA DE SOUSA</td>
-                <td>
-                  <button class="btn-transparent" data-toggle="popover" title="Disciplinas" data-trigger="focus"
-                    data-placement="top"
-                    data-content="<i class='fas fa-circle text-success'></i> ECT2105 - PRÁTICAS DE LEITURA E ESCRITA I<hr /><i class='fas fa-circle text-success'></i> ECT2205 - PRÁTICAS DE LEITURA E ESCRITA II">
-                    <i class="fas fa-chalkboard-teacher"></i>
-                  </button>
-                </td>
-                <td>
-                  <button class="btn-transparent" data-toggle="popover" title="Um amorzinho" data-trigger="focus"
-                    data-placement="top" data-content="Não tem nem o que falar 😊">
-                    <i class="fas fa-heart text-success"></i>
-                  </button>
-                </td>
-              </tr>
-
-              <tr>
-                <th scope="row">
-                  <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                    data-placement="top"
-                    data-content="<b><i class='fas fa-chart-bar'/> 9.32 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.95</b>">
-                    <i class="fas fa-circle text-warning"></i>
-                  </button>
-                </th>
-                <td>ALEXANDRE MAGNUS FERNANDES</td>
-                <td>
-                  <button class="btn-transparent" data-toggle="popover" title="Disciplinas" data-trigger="focus"
-                    data-placement="top"
-                    data-content="<i class='fas fa-circle text-success'></i> ECT2414 - ELETRICIDADE APLICADA">
-                    <i class="fas fa-chalkboard-teacher"></i>
-                  </button>
-                </td>
-                <td>
-                  <button class="btn-transparent" data-toggle="popover" title="Tenha cuidado" data-trigger="focus"
-                    data-placement="top" data-content="Talvez seja melhor procurar outro professor 😐">
-                    <i class="fas fa-exclamation-circle text-warning"></i>
-                  </button>
-                </td>
-              </tr>
-
-              <tr>
-                <th scope="row">
-                  <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                    data-placement="top"
-                    data-content="<b><i class='fas fa-chart-bar'/> 8.95 &nbsp&nbsp <i class='fab fa-deviantart'/> 3.57</b>">
-                    <i class="fas fa-circle text-danger"></i>
-                  </button>
-                </th>
-                <td>ALEXSANDRO PEREIRA LIMA</td>
-                <td>
-                  <button class="btn-transparent" data-toggle="popover" title="Disciplinas" data-trigger="focus"
-                    data-placement="top"
-                    data-content="<i class='fas fa-circle text-warning'></i> ECT2103 - CÁLCULO I<hr /><i class='fas fa-circle text-warning'></i> ECT2201 - CÁLCULO II<hr /><i class='fas fa-circle text-danger'></i> ECT2201 - CÁLCULO III">
-                    <i class="fas fa-chalkboard-teacher"></i>
-                  </button>
-                </td>
-                <td>
-                  <button class="btn-transparent" data-toggle="popover" title="Vixi" data-trigger="focus"
-                    data-placement="top"
-                    data-content="Se é sua unica opção, boa sorte 😥<hr class='m-2'/>Esse professor(a) varia o 'humor' de semestre para semestre">
-                    <i class="fas fa-radiation text-danger"></i>
-                  </button>
-                </td>
-              </tr>
+            <tbody id="table-professores">
 
             </tbody>
           </table>
@@ -187,7 +116,8 @@
 
       <!--  -->
       <div class="tab-pane fade" id="disciplinas">
-        <input type="text" class="form-control mx-auto mt-5" id="buscar-professor" placeholder="Buscar Disciplina">
+        <input type="text" class="form-control mx-auto mt-5 buscar-professor" id="buscar-professor"
+          placeholder="Buscar Disciplina">
 
         <div class="quadro-resultados rounded">
           <small>
@@ -365,6 +295,7 @@
   <script src="./assets/js/bootstrap.min.js"></script>
 
   <script src="./assets/classes/Professor.js"></script>
+  <script src="./assets/classes/Comparador.js"></script>
   <script src="./assets/classes/Main.js"></script>
 
   <script>
