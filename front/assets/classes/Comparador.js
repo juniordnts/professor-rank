@@ -23,7 +23,11 @@ class ComparaProf {
     let geral = (nota - desvio).toFixed(3);
     let pushed = false;
 
+
     if (ComparaProf.lista.length) {
+      if (ComparaProf.lista.filter((fv, fi) => nome == fv.nome).length) {
+        return
+      }
       for (let i in ComparaProf.lista) {
         // console.log("GERAIS: ", geral, ComparaProf.lista[i].geral, geral > ComparaProf.lista[i].geral);
         if (geral > ComparaProf.lista[i].geral) {

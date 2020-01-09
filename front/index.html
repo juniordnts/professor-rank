@@ -14,274 +14,29 @@
 <body>
 
 
-
-  <div class="container">
-
-    <nav class="nav nav-pills nav-fill mt-3">
-      <a class="nav-item nav-link text-white active" id="home-tab" data-toggle="tab" href="#geral" role="tab">Ranking
-        Geral</a>
-      <a class="nav-item nav-link text-white" id="profile-tab" data-toggle="tab" href="#professores" role="tab">Comparar
-        Professores</a>
-      <a class="nav-item nav-link text-white" id="contact-tab" data-toggle="tab" href="#disciplinas" role="tab">Busca
-        por
-        Disciplinas</a>
-    </nav>
-
-  </div>
-
   <div class="container">
     <div class="tab-content text-white">
 
-      <!--  -->
+      <h2 class="text-primary display-4 text-center mt-5">Rank Professores</h2>
+
       <div class="tab-pane fade show active" id="geral">
-        <input type="text" class="form-control mx-auto mt-5 buscar-professor" placeholder="Buscar Professor">
         <div class="container mt-5 p-3 rounded">
           <div class="text-center d-none">Sem resultados para a busca</div>
-          <table class="table table-hover mb-0">
-            <tbody id="table-geral">
-
-              <!-- Jquery -->
-
-            </tbody>
-          </table>
-        </div>
-      </div>
-
-      <!--  -->
-      <div class="tab-pane fade" id="professores">
-        <input type="text" class="form-control mx-auto mt-5 buscar-professor" placeholder="Buscar Professor">
-        <div class="quadro-resultados rounded">
           <small>
-            <div class="container mt-4 p-3 rounded">
-              <div class="text-center pb-2">
-                <span>QUADRO DE COMPARAÇÃO</span>
-                <button class="btn-transparent ajuda" data-toggle="tooltip" data-placement="top"
-                  title="Clique para ver ajuda">
-                  <i class="fas fa-question-circle"></i>
-                </button>
-              </div>
-              <table class="table table-hover mb-0 mx-auto">
-                <tbody id="table-comparacao">
-
-                  <!-- <tr data-toggle="tooltip" data-placement="top" title="1° Lugar">
-                    <td><i class="fas fa-trophy"></i></td>
-                    <td>
-                      <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                        data-placement="top"
-                        data-content="<b><i class='fas fa-chart-bar'/> 9.51 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.38</b>">
-                        <i class="fas fa-circle text-success"></i>
-                      </button>
-                    </td>
-                    <td>ADA LIMA FERREIRA DE SOUSA</td>
-                  </tr>
-
-                  <tr data-toggle="tooltip" data-placement="top" title="2° Lugar">
-                    <td><i class="fas fa-medal"></i></td>
-                    <td>
-                      <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                        data-placement="top"
-                        data-content="<b><i class='fas fa-chart-bar'/> 9.32 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.95</b>">
-                        <i class="fas fa-circle text-warning"></i>
-                      </button>
-                    </td>
-                    <td>ALEXANDRE MAGNUS FERNANDES</td>
-                  </tr>
-
-                  <tr data-toggle="tooltip" data-placement="top" title="3° Lugar">
-                    <td><i class="fas fa-weight-hanging"></i></td>
-                    <td>
-                      <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                        data-placement="top"
-                        data-content="<b><i class='fas fa-chart-bar'/> 8.95 &nbsp&nbsp <i class='fab fa-deviantart'/> 3.57</b>">
-                        <i class="fas fa-circle text-danger"></i>
-                      </button>
-                    </td>
-                    <td>ALEXSANDRO PEREIRA LIMA</td>
-                  </tr> -->
-
-                </tbody>
-              </table>
-            </div>
+            <p class="text-warning text-center">Aviso</p>
+            <p class="text-muted text-center">
+              As informações presentes neste relatório são compiladas do Sigaa com os dados fornecidos
+              pela
+              Avaliação Semestral e por esse motivo não expressam nenhuma opinião pessoal do desenvolvedor para com os
+              professores.
+            </p>
+            <p class="text-muted text-center">
+              Escolha um departamento
+            </p>
           </small>
-        </div>
-        <div class="container mt-4 p-3 rounded quadro-normal">
-          <div class="text-center d-none">SEM RESULTADOS PARA A BUSCA</div>
-          <table class="table table-hover mb-0">
-            <tbody id="table-professores">
-
-            </tbody>
-          </table>
-        </div>
-      </div>
-
-      <!--  -->
-      <div class="tab-pane fade" id="disciplinas">
-        <input type="text" class="form-control mx-auto mt-5 buscar-professor" id="buscar-professor"
-          placeholder="Buscar Disciplina">
-
-        <div class="quadro-resultados rounded">
-          <small>
-            <div class="container mt-4 p-3 rounded">
-              <div class="text-center pb-2">
-                <span><b>ECT2205 - PRÁTICAS DE LEITURA E ESCRITA II</b></span>
-              </div>
-              <div class="text-center pb-2">
-                <span>QUADRO DE COMPARAÇÃO</span>
-              </div>
-              <div class="text-center pb-2">
-                <span>ESCOLHA UMA DISCIPLINA</span>
-                <button class="btn-transparent ajuda" data-toggle="tooltip" data-placement="top"
-                  title="Clique para ver ajuda">
-                  <i class="fas fa-question-circle"></i>
-                </button>
-              </div>
-              <table class="table table-hover mb-0 mx-auto">
-                <tbody>
-
-                  <tr>
-                    <td data-toggle="tooltip" data-placement="top" title="1° Lugar"><i class="fas fa-trophy"></i></td>
-                    <th scope="row">
-                      <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                        data-placement="top"
-                        data-content="<b><i class='fas fa-chart-bar'/> 9.51 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.38</b>">
-                        <i class="fas fa-circle text-success"></i>
-                      </button>
-                    </th>
-                    <td>ADA LIMA FERREIRA DE SOUSA</td>
-                    <td>
-                      <button class="btn-transparent" data-toggle="popover" title="Disciplinas" data-trigger="focus"
-                        data-placement="top"
-                        data-content="<i class='fas fa-circle text-success'></i> ECT2105 - PRÁTICAS DE LEITURA E ESCRITA I<hr /><i class='fas fa-circle text-success'></i> ECT2205 - PRÁTICAS DE LEITURA E ESCRITA II">
-                        <i class="fas fa-chalkboard-teacher"></i>
-                      </button>
-                    </td>
-                    <td>
-                      <button class="btn-transparent" data-toggle="popover" title="Um amorzinho" data-trigger="focus"
-                        data-placement="top" data-content="Não tem nem o que falar 😊">
-                        <i class="fas fa-heart text-success"></i>
-                      </button>
-                    </td>
-                  </tr>
-
-                  <tr>
-                    <td data-toggle="tooltip" data-placement="top" title="2° Lugar"><i class="fas fa-medal"></i></td>
-                    <th scope="row">
-                      <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                        data-placement="top"
-                        data-content="<b><i class='fas fa-chart-bar'/> 9.32 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.95</b>">
-                        <i class="fas fa-circle text-warning"></i>
-                      </button>
-                    </th>
-                    <td>ALEXANDRE MAGNUS FERNANDES</td>
-                    <td>
-                      <button class="btn-transparent" data-toggle="popover" title="Disciplinas" data-trigger="focus"
-                        data-placement="top"
-                        data-content="<i class='fas fa-circle text-success'></i> ECT2414 - ELETRICIDADE APLICADA">
-                        <i class="fas fa-chalkboard-teacher"></i>
-                      </button>
-                    </td>
-                    <td>
-                      <button class="btn-transparent" data-toggle="popover" title="Tenha cuidado" data-trigger="focus"
-                        data-placement="top" data-content="Talvez seja melhor procurar outro professor 😐">
-                        <i class="fas fa-exclamation-circle text-warning"></i>
-                      </button>
-                    </td>
-                  </tr>
-
-                  <tr>
-                    <td data-toggle="tooltip" data-placement="top" title="3° Lugar"><i
-                        class="fas fa-weight-hanging"></i></td>
-                    <th scope="row">
-                      <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                        data-placement="top"
-                        data-content="<b><i class='fas fa-chart-bar'/> 8.95 &nbsp&nbsp <i class='fab fa-deviantart'/> 3.57</b>">
-                        <i class="fas fa-circle text-danger"></i>
-                      </button>
-                    </th>
-                    <td>ALEXSANDRO PEREIRA LIMA</td>
-                    <td>
-                      <button class="btn-transparent" data-toggle="popover" title="Disciplinas" data-trigger="focus"
-                        data-placement="top"
-                        data-content="<i class='fas fa-circle text-warning'></i> ECT2103 - CÁLCULO I<hr /><i class='fas fa-circle text-warning'></i> ECT2201 - CÁLCULO II<hr /><i class='fas fa-circle text-danger'></i> ECT2201 - CÁLCULO III">
-                        <i class="fas fa-chalkboard-teacher"></i>
-                      </button>
-                    </td>
-                    <td>
-                      <button class="btn-transparent" data-toggle="popover" title="Vixi" data-trigger="focus"
-                        data-placement="top"
-                        data-content="Se é sua unica opção, boa sorte 😥<hr class='m-2'/>Esse professor(a) varia o 'humor' de semestre para semestre">
-                        <i class="fas fa-radiation text-danger"></i>
-                      </button>
-                    </td>
-                  </tr>
-
-                </tbody>
-              </table>
-            </div>
-          </small>
-        </div>
-
-
-
-        <div class="container mt-4 p-3 rounded quadro-normal">
-          <div class="text-center d-none">SEM RESULTADOS PARA A BUSCA</div>
-          <table class="table table-hover mb-0">
-            <tbody>
-
-              <tr>
-                <th scope="row">
-                  <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                    data-placement="top"
-                    data-content="<b><i class='fas fa-chart-bar'/> 9.51 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.38</b>">
-                    <i class="fas fa-circle text-success"></i>
-                  </button>
-                </th>
-                <td>ECT2540 - PROGRAMAÇÃO ORIENTADA A OBJETOS</td>
-                <td>
-                  <button class="btn-transparent" data-toggle="popover" title="Um amorzinho" data-trigger="focus"
-                    data-placement="top" data-content="Não tem nem o que falar 😊">
-                    <i class="fas fa-heart text-success"></i>
-                  </button>
-                </td>
-              </tr>
-
-              <tr>
-                <th scope="row">
-                  <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                    data-placement="top"
-                    data-content="<b><i class='fas fa-chart-bar'/> 9.32 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.95</b>">
-                    <i class="fas fa-circle text-warning"></i>
-                  </button>
-                </th>
-                <td>ECT2206 - GESTÃO E ECONOMIA DA CIÊNCIA</td>
-                <td>
-                  <button class="btn-transparent" data-toggle="popover" title="Tenha cuidado" data-trigger="focus"
-                    data-placement="top" data-content="Talvez seja melhor procurar outro professor 😐">
-                    <i class="fas fa-exclamation-circle text-warning"></i>
-                  </button>
-                </td>
-              </tr>
-
-              <tr>
-                <th scope="row">
-                  <button class="btn-transparent" data-toggle="popover" title="Pontuação" data-trigger="focus"
-                    data-placement="top"
-                    data-content="<b><i class='fas fa-chart-bar'/> 8.95 &nbsp&nbsp <i class='fab fa-deviantart'/> 3.57</b>">
-                    <i class="fas fa-circle text-danger"></i>
-                  </button>
-                </th>
-                <td>ECT2105 - PRÁTICAS DE LEITURA E ESCRITA I</td>
-                <td>
-                  <button class="btn-transparent" data-toggle="popover" title="Vixi" data-trigger="focus"
-                    data-placement="top"
-                    data-content="Se é sua unica opção, boa sorte 😥<hr class='m-2'/>Esse professor(a) varia o 'humor' de semestre para semestre">
-                    <i class="fas fa-radiation text-danger"></i>
-                  </button>
-                </td>
-              </tr>
-
-            </tbody>
-          </table>
+          <a class="btn btn-outline-primary m-1" href="./rank.html?id=cet">C&T</a>
+          <a class="btn btn-outline-primary m-1" href="./rank.html?id=civil">Engenharia Civil</a>
+          <a class="btn btn-outline-primary m-1" href="./rank.html?id=quimica">Engenharia Química</a>
         </div>
       </div>
 
@@ -293,26 +48,6 @@
   <script src="./assets/js/jquery.min.js"></script>
   <script src="./assets/js/popper.min.js"></script>
   <script src="./assets/js/bootstrap.min.js"></script>
-
-  <script src="./assets/classes/Professor.js"></script>
-  <script src="./assets/classes/Comparador.js"></script>
-  <script src="./assets/classes/Main.js"></script>
-
-  <script>
-    function setup_assets() {
-      $('[data-toggle="popover"]').popover({
-        html: true,
-      })
-      $('.popover-dismiss').popover({
-        trigger: 'focus'
-      })
-      $('[data-toggle="tooltip"]').tooltip()
-    }
-
-    $(document).ready(function () {
-      // setup_assets();
-    });
-  </script>
 
 </body>
 

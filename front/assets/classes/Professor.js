@@ -30,6 +30,7 @@ class Professor {
     this.template.geral.dblclick((e) => {
       e.preventDefault();
       if ($(".tab-pane.active").attr("id") == "professores") {
+        $(this.template.geral[0]).animate({ opacity: "0" }, 150).animate({ opacity: "1" }, 150);
         ComparaProf.adiciona(this.nome, this.nota, this.desvio, this.aval.nota)
       }
     });
@@ -67,9 +68,9 @@ class Professor {
       dados.titulo = "Vixi"
       dados.mensagem = "Sua única opção? Meus pêsames 😥"
     }
-    if (this.desvio > 2.2) {
-      dados.mensagem += "<hr class='m-2'/>Esse professor(a) varia o 'humor' de semestre para semestre<hr class='m-2'/>"
-    }
+    // if (this.desvio > 2.2) {
+    //   dados.mensagem += "<hr class='m-2'/>Esse professor(a) varia o 'humor' de semestre para semestre<hr class='m-2'/>"
+    // }
     return dados
   }
 

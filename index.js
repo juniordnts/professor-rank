@@ -17,29 +17,29 @@ jsonRaw.forEach(element => {
 
   if (jsonCluster[element['Docente']]) {
 
-    jsonCluster[element['Docente']]['Notas'].push(element['Média Geral'])
-    jsonCluster[element['Docente']]['Desvios'].push(element['Desvio Padrão Geral'])
+    jsonCluster[element['Docente']]['Notas'].push(parseFloat(element['Média Geral']))
+    jsonCluster[element['Docente']]['Desvios'].push(parseFloat(element['Desvio Padrão Geral']))
 
   } else {
 
     jsonCluster[element['Docente']] = { 'Notas': [], 'Desvios': [] };
 
-    jsonCluster[element['Docente']]['Notas'] = [element['Média Geral']]
-    jsonCluster[element['Docente']]['Desvios'] = [element['Desvio Padrão Geral']]
+    jsonCluster[element['Docente']]['Notas'] = [parseFloat(element['Média Geral'])]
+    jsonCluster[element['Docente']]['Desvios'] = [parseFloat(element['Desvio Padrão Geral'])]
     jsonCluster[element['Docente']]['Componentes'] = {}
 
   }
 
   if (jsonCluster[element['Docente']]['Componentes'][element['Componente Curricular']]) {
 
-    jsonCluster[element['Docente']]['Componentes'][element['Componente Curricular']]['Notas'].push(element['Média Geral'])
-    jsonCluster[element['Docente']]['Componentes'][element['Componente Curricular']]['Desvios'].push(element['Desvio Padrão Geral'])
+    jsonCluster[element['Docente']]['Componentes'][element['Componente Curricular']]['Notas'].push(parseFloat(element['Média Geral']))
+    jsonCluster[element['Docente']]['Componentes'][element['Componente Curricular']]['Desvios'].push(parseFloat(element['Desvio Padrão Geral']))
 
   } else {
 
     jsonCluster[element['Docente']]['Componentes'][element['Componente Curricular']] = { 'Notas': [], 'Desvios': [] };
-    jsonCluster[element['Docente']]['Componentes'][element['Componente Curricular']]['Notas'] = [element['Média Geral']]
-    jsonCluster[element['Docente']]['Componentes'][element['Componente Curricular']]['Desvios'] = [element['Desvio Padrão Geral']]
+    jsonCluster[element['Docente']]['Componentes'][element['Componente Curricular']]['Notas'] = [parseFloat(element['Média Geral'])]
+    jsonCluster[element['Docente']]['Componentes'][element['Componente Curricular']]['Desvios'] = [parseFloat(element['Desvio Padrão Geral'])]
 
   }
 
@@ -47,8 +47,8 @@ jsonRaw.forEach(element => {
 
   if (jsonClusterClasses[element['Componente Curricular']]) {
 
-    jsonClusterClasses[element['Componente Curricular']]['Notas'].push(element['Média Geral'])
-    jsonClusterClasses[element['Componente Curricular']]['Desvios'].push(element['Desvio Padrão Geral'])
+    jsonClusterClasses[element['Componente Curricular']]['Notas'].push(parseFloat(element['Média Geral']))
+    jsonClusterClasses[element['Componente Curricular']]['Desvios'].push(parseFloat(element['Desvio Padrão Geral']))
 
     if (!jsonClusterClasses[element['Componente Curricular']]['Docentes'].includes(element['Docente'])) {
       jsonClusterClasses[element['Componente Curricular']]['Docentes'].push(element['Docente'])
@@ -59,8 +59,8 @@ jsonRaw.forEach(element => {
     jsonClusterClasses[element['Componente Curricular']] = { 'Notas': [], 'Desvios': {}, 'Docentes': [] };
 
 
-    jsonClusterClasses[element['Componente Curricular']]['Notas'] = [element['Média Geral']]
-    jsonClusterClasses[element['Componente Curricular']]['Desvios'] = [element['Desvio Padrão Geral']]
+    jsonClusterClasses[element['Componente Curricular']]['Notas'] = [parseFloat(element['Média Geral'])]
+    jsonClusterClasses[element['Componente Curricular']]['Desvios'] = [parseFloat(element['Desvio Padrão Geral'])]
     jsonClusterClasses[element['Componente Curricular']]['Docentes'] = [element['Docente']]
 
   }

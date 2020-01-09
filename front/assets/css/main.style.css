@@ -7,6 +7,8 @@
 body {
   background-color: var(--main-bg-dark);
   overflow-y: scroll;
+  overflow-x: hidden;
+  width: 100%;
 }
 
 .btn-transparent {
@@ -42,6 +44,15 @@ td button, th button{
   color: #ffffff;
   text-transform: uppercase;
 }
+#table-comparacao td:first-of-type, #table-comparacao td:nth-of-type(2){
+  width: 40px;
+  text-overflow: initial;
+}
+
+#table-comparacao td{
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 
 .quadro-resultados{
   color: #ffffff59;
@@ -52,8 +63,8 @@ td button, th button{
 #geral td:nth-of-type(2), 
 #geral td:nth-of-type(3),
 
-#professores .quadro-resultados td:first-child,
-#professores .quadro-resultados td:nth-of-type(2),
+/* #professores .quadro-resultados td:nth-of-type(2), */
+/* #professores .quadro-resultados td:first-child, */
 #professores .quadro-normal td:nth-of-type(2),
 #professores .quadro-normal td:nth-of-type(3),
 
@@ -63,8 +74,9 @@ td button, th button{
 #disciplinas .quadro-resultados td:nth-of-type(4),
 #disciplinas .quadro-normal td:nth-of-type(2)
 {
-  width: 30px !important;
+  width: 50px;
 }
+
 .posicao span{
   width: 17px;
   height: 17px;
@@ -73,18 +85,6 @@ td button, th button{
   color: var(--main-bg-light);
   font-weight: bold;
   padding: 0 5px;
-}
-
-@media (max-width: 768px) {
-  .buscar-professor{
-    width: 100%;
-  }
-}
-
-@media (min-width: 768px) {
-  .buscar-professor{
-    width: 70%;
-  }
 }
 
 
@@ -107,12 +107,21 @@ tbody tr, tbody td {
 .table td, .table th {
   border-color: var(--main-borders);
   white-space: nowrap;
+}
+.table td:first-of-type{
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
 tbody tr:first-child td, tbody tr:first-child th {
   border-top: 0;
+}
+tbody tr th:first-child, tbody tr th{
+  width: 50px;
+}
+
+table {
+  overflow-x: hidden;
 }
 
 ::-webkit-scrollbar {
@@ -126,4 +135,25 @@ tbody tr:first-child td, tbody tr:first-child th {
 }
 ::-webkit-scrollbar-thumb:hover {
   background: #555; 
+}
+
+@media (max-width: 768px) {
+  .buscar-professor{
+    width: 100%;
+  }
+  .wid-auto{
+    width: 100%;
+  }
+  tbody td:first-of-type{
+    font-size: 14px;
+  }
+  tbody tr th:first-child, tbody tr th{
+    width: 30px;
+  }
+}
+
+@media (min-width: 768px) {
+  .buscar-professor{
+    width: 70%;
+  }
 }
