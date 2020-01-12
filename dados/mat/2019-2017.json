@@ -1,0 +1,3062 @@
+[
+  {
+    "Docente": "ALEXEY KUZMIN",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "5",
+    "Horário": "35M56",
+    "Discentes": "42",
+    "Média Geral": "7.57",
+    "Desvio Padrão Geral": "3.17"
+  },
+  {
+    "Docente": "ALEXEY KUZMIN",
+    "Componente Curricular": "MAT1510 - INTRODUÇÃO A MATEMÁTICA DISCRETA",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "33",
+    "Média Geral": "6.87",
+    "Desvio Padrão Geral": "3.47"
+  },
+  {
+    "Docente": "ALVARO FREIRE DAMASCENO",
+    "Componente Curricular": "MAT0340 - CALCULO FUNDAMENTAL I",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "39",
+    "Média Geral": "5.14",
+    "Desvio Padrão Geral": "3.75"
+  },
+  {
+    "Docente": "ALVARO FREIRE DAMASCENO",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "20",
+    "Média Geral": "7.19",
+    "Desvio Padrão Geral": "3.28"
+  },
+  {
+    "Docente": "ANA PAULA PEREIRA DO NASCIMENTO SILVA",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "8",
+    "Horário": "24N34",
+    "Discentes": "20",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "ANA PAULA PEREIRA DO NASCIMENTO SILVA",
+    "Componente Curricular": "MAT0322 - CALCULO BASICO III",
+    "Turma": "1",
+    "Horário": "35N34",
+    "Discentes": "20",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "ANA PAULA PEREIRA DO NASCIMENTO SILVA",
+    "Componente Curricular": "MAT0344 - CALCULO PARA BIOCIENCIAS",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "53",
+    "Média Geral": "9.19",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "ANDRE GUSTAVO CAMPOS PEREIRA",
+    "Componente Curricular": "MAT1501 - MATEMÁTICA BÁSICA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "57",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "ARKADY TSURKOV",
+    "Componente Curricular": "MAT0343 - ALGEBRA LINEAR",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "41",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "2.3"
+  },
+  {
+    "Docente": "ARKADY TSURKOV",
+    "Componente Curricular": "MAT1511 - ÁLGEBRA LINEAR II",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "18",
+    "Média Geral": "8.95",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "BRUNO DOS SANTOS GOIS",
+    "Componente Curricular": "MAT0318 - CALCULO BASICO I",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "54",
+    "Média Geral": "8.27",
+    "Desvio Padrão Geral": "2.91"
+  },
+  {
+    "Docente": "BRUNO DOS SANTOS GOIS",
+    "Componente Curricular": "MAT0024 - CÁLCULO II PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "26",
+    "Média Geral": "7.69",
+    "Desvio Padrão Geral": "3.08"
+  },
+  {
+    "Docente": "CARLOS ALEXANDRE GOMES DA SILVA",
+    "Componente Curricular": "MAT0080 - TEORIA DOS NUMEROS",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "18",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.4"
+  },
+  {
+    "Docente": "CARLOS ALEXANDRE GOMES DA SILVA",
+    "Componente Curricular": "MAT1504 - TUTORIA I",
+    "Turma": "2",
+    "Horário": "2T3",
+    "Discentes": "21",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "2.3"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "4",
+    "Horário": "246M12",
+    "Discentes": "45",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "2.15"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "38",
+    "Média Geral": "9.19",
+    "Desvio Padrão Geral": "2.54"
+  },
+  {
+    "Docente": "DAVID ARMANDO ZAVALETA VILLANUEVA",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "2",
+    "Horário": "24M34",
+    "Discentes": "13",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "2.27"
+  },
+  {
+    "Docente": "DAVID ARMANDO ZAVALETA VILLANUEVA",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "29",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "DEBORA BORGES FERREIRA",
+    "Componente Curricular": "MAT0032 - FUNDAMENTOS DA MATEMÁTICA",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "52",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "DIEGO FERRAZ DE SOUZA",
+    "Componente Curricular": "MAT1518 - CÁLCULO IV",
+    "Turma": "2",
+    "Horário": "24N12",
+    "Discentes": "11",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "DIEGO FERRAZ DE SOUZA",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "3",
+    "Horário": "246M12",
+    "Discentes": "51",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "EDGAR SILVA PEREIRA",
+    "Componente Curricular": "MAT0341 - CALCULO FUNDAMENTAL II",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "17",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "1.16"
+  },
+  {
+    "Docente": "ELAINE GOUVEA PIMENTEL",
+    "Componente Curricular": "MAT1502 - FUNDAMENTOS DE GEOMETRIA I",
+    "Turma": "1",
+    "Horário": "46T34",
+    "Discentes": "56",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "ELAINE GOUVEA PIMENTEL",
+    "Componente Curricular": "MAT1510 - INTRODUÇÃO A MATEMÁTICA DISCRETA",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "56",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "FABIAN ARLEY POSADA BALVIN",
+    "Componente Curricular": "MAT1522 - DIDÁTICA DA MATEMÁTICA II",
+    "Turma": "3",
+    "Horário": "24N34",
+    "Discentes": "11",
+    "Média Geral": "7.71",
+    "Desvio Padrão Geral": "3.46"
+  },
+  {
+    "Docente": "FABIAN ARLEY POSADA BALVIN",
+    "Componente Curricular": "MAT1512 - INFORMÁTICA NO ENSINO DA MATEMÁTICA",
+    "Turma": "2",
+    "Horário": "24N12",
+    "Discentes": "12",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "FAGNER LEMOS DE SANTANA",
+    "Componente Curricular": "MAT0313 - ALGEBRA LINEAR APLICADA",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "51",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "2.34"
+  },
+  {
+    "Docente": "FERNANDO GUEDES CURY",
+    "Componente Curricular": "MAT1512 - INFORMÁTICA NO ENSINO DA MATEMÁTICA",
+    "Turma": "3",
+    "Horário": "24N12",
+    "Discentes": "26",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "FERNANDO GUEDES CURY",
+    "Componente Curricular": "MAT1504 - TUTORIA I",
+    "Turma": "1",
+    "Horário": "2N3",
+    "Discentes": "64",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "FERNANDO GUEDES CURY",
+    "Componente Curricular": "MAT1521 - TÓPICOS DE HISTÓRIA DA MATEMÁTICA",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "17",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.05"
+  },
+  {
+    "Docente": "GABRIELA LUCHEZE DE OLIVEIRA LOPES",
+    "Componente Curricular": "MAT1509 - CÁLCULO II",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "33",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.21"
+  },
+  {
+    "Docente": "GABRIELA LUCHEZE DE OLIVEIRA LOPES",
+    "Componente Curricular": "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO",
+    "Turma": "3",
+    "Horário": "35M34",
+    "Discentes": "13",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "0.72"
+  },
+  {
+    "Docente": "GABRIELA LUCHEZE DE OLIVEIRA LOPES",
+    "Componente Curricular": "MAT1530 - PROJETO DE ENSINO E PESQUISA",
+    "Turma": "1",
+    "Horário": "6T34",
+    "Discentes": "20",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "GEILSON FERREIRA GERMANO",
+    "Componente Curricular": "MAT1518 - CÁLCULO IV",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "8",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "0.48"
+  },
+  {
+    "Docente": "GEILSON FERREIRA GERMANO",
+    "Componente Curricular": "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "43",
+    "Média Geral": "7.77",
+    "Desvio Padrão Geral": "3.14"
+  },
+  {
+    "Docente": "GEILSON FERREIRA GERMANO",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "20",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "2.01"
+  },
+  {
+    "Docente": "GISELLE COSTA DE SOUSA",
+    "Componente Curricular": "MAT1512 - INFORMÁTICA NO ENSINO DA MATEMÁTICA",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "28",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "GISELLE COSTA DE SOUSA",
+    "Componente Curricular": "PEC4010 - RESIDÊNCIA PEDAGÓGICA I",
+    "Turma": "5",
+    "Horário": "7N1234 (18/02/2019 - 28/06/2019)",
+    "Discentes": "7",
+    "Média Geral": "9.98",
+    "Desvio Padrão Geral": "0.32"
+  },
+  {
+    "Docente": "GISELLE COSTA DE SOUSA",
+    "Componente Curricular": "PEC4020 - RESIDÊNCIA PEDAGÓGICA II",
+    "Turma": "5",
+    "Horário": "7M1234 (18/02/2019 - 28/06/2019)",
+    "Discentes": "8",
+    "Média Geral": "9.98",
+    "Desvio Padrão Geral": "0.3"
+  },
+  {
+    "Docente": "GISELLE COSTA DE SOUSA",
+    "Componente Curricular": "MAT1521 - TÓPICOS DE HISTÓRIA DA MATEMÁTICA",
+    "Turma": "3",
+    "Horário": "24T56",
+    "Discentes": "32",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "HERICA PRISCILA DE ARAUJO CARNEIRO",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "4",
+    "Horário": "246M12",
+    "Discentes": "45",
+    "Média Geral": "8.64",
+    "Desvio Padrão Geral": "2.65"
+  },
+  {
+    "Docente": "HERICA PRISCILA DE ARAUJO CARNEIRO",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "5",
+    "Horário": "246T12",
+    "Discentes": "38",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "IESUS CARVALHO DINIZ",
+    "Componente Curricular": "MAT0023 - CÁLCULO I PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "42",
+    "Média Geral": "8.77",
+    "Desvio Padrão Geral": "2.48"
+  },
+  {
+    "Docente": "IESUS CARVALHO DINIZ",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "2",
+    "Horário": "246T12",
+    "Discentes": "17",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "JAQUES SILVEIRA LOPES",
+    "Componente Curricular": "MAT0340 - CALCULO FUNDAMENTAL I",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "39",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "JOSE QUERGINALDO BEZERRA",
+    "Componente Curricular": "MAT1502 - FUNDAMENTOS DE GEOMETRIA I",
+    "Turma": "2",
+    "Horário": "46N34",
+    "Discentes": "62",
+    "Média Geral": "8.78",
+    "Desvio Padrão Geral": "2.51"
+  },
+  {
+    "Docente": "JOSE QUERGINALDO BEZERRA",
+    "Componente Curricular": "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO",
+    "Turma": "2",
+    "Horário": "46N12",
+    "Discentes": "51",
+    "Média Geral": "8.92",
+    "Desvio Padrão Geral": "2.49"
+  },
+  {
+    "Docente": "JUAN ALBERTO ROJAS CRUZ",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "4",
+    "Horário": "246T34",
+    "Discentes": "9",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "0.49"
+  },
+  {
+    "Docente": "JUAN ALBERTO ROJAS CRUZ",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "2",
+    "Horário": "246T12",
+    "Discentes": "25",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "JULIA VICTORIA TOLEDO BENAVIDES",
+    "Componente Curricular": "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "51",
+    "Média Geral": "9.14",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "JULIA VICTORIA TOLEDO BENAVIDES",
+    "Componente Curricular": "MAT1501 - MATEMÁTICA BÁSICA",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "64",
+    "Média Geral": "9.42",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "LILIANE DOS SANTOS GUTIERRE",
+    "Componente Curricular": "MAT1522 - DIDÁTICA DA MATEMÁTICA II",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "22",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "0.71"
+  },
+  {
+    "Docente": "LUIZ CARLOS RADTKE",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "6",
+    "Horário": "35T12",
+    "Discentes": "44",
+    "Média Geral": "8.94",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "LUIZ CARLOS RADTKE",
+    "Componente Curricular": "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "62",
+    "Média Geral": "9.3",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "LUIZ CARLOS RADTKE",
+    "Componente Curricular": "MAT1527 - MÉTODOS NUMÉRICOS I",
+    "Turma": "3",
+    "Horário": "35N12",
+    "Discentes": "17",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "MANUEL CLAUDEMIR SILVA CALDAS",
+    "Componente Curricular": "MAT0009 - ALGEBRA I",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "11",
+    "Média Geral": "9",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "MANUEL CLAUDEMIR SILVA CALDAS",
+    "Componente Curricular": "MAT1536 - RESOLUÇÃO DE PROBLEMAS",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "7",
+    "Média Geral": "8.79",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "MARCELO GOMES PEREIRA",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "57",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "2.38"
+  },
+  {
+    "Docente": "MARCELO GOMES PEREIRA",
+    "Componente Curricular": "MAT0005 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "34",
+    "Média Geral": "8.25",
+    "Desvio Padrão Geral": "2.42"
+  },
+  {
+    "Docente": "MARCIA MARIA DE CASTRO CRUZ",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "38",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.42"
+  },
+  {
+    "Docente": "MARCIA MARIA DE CASTRO CRUZ",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "3",
+    "Horário": "35T56",
+    "Discentes": "43",
+    "Média Geral": "8.75",
+    "Desvio Padrão Geral": "2.63"
+  },
+  {
+    "Docente": "MARCONIO SILVA DOS SANTOS",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "7",
+    "Horário": "24N12",
+    "Discentes": "42",
+    "Média Geral": "8.88",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "MARCONIO SILVA DOS SANTOS",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "5",
+    "Horário": "246N34",
+    "Discentes": "50",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "MARIO OTAVIO SALLES",
+    "Componente Curricular": "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS",
+    "Turma": "2",
+    "Horário": "26N12",
+    "Discentes": "36",
+    "Média Geral": "9.67",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "MARTA FIGUEREDO DOS ANJOS",
+    "Componente Curricular": "MAT0360 - FUNDAMENTOS EPISTEMOLOGICO DA MATEMATICA",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "31",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "MARTA FIGUEREDO DOS ANJOS",
+    "Componente Curricular": "MAT1530 - PROJETO DE ENSINO E PESQUISA",
+    "Turma": "2",
+    "Horário": "4N34",
+    "Discentes": "12",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.07"
+  },
+  {
+    "Docente": "MARTA FIGUEREDO DOS ANJOS",
+    "Componente Curricular": "MAT1521 - TÓPICOS DE HISTÓRIA DA MATEMÁTICA",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "17",
+    "Média Geral": "9.96",
+    "Desvio Padrão Geral": "0.75"
+  },
+  {
+    "Docente": "ODIRLEI SILVA JESUS",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "2",
+    "Horário": "246T34",
+    "Discentes": "52",
+    "Média Geral": "8.98",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "ODIRLEI SILVA JESUS",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "3",
+    "Horário": "246N34",
+    "Discentes": "53",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1519 - ANÁLISE REAL I",
+    "Turma": "1",
+    "Horário": "24T12 6T1",
+    "Discentes": "12",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1519 - ANÁLISE REAL I",
+    "Turma": "2",
+    "Horário": "24N12 6N1",
+    "Discentes": "10",
+    "Média Geral": "8.94",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1504 - TUTORIA I",
+    "Turma": "3",
+    "Horário": "2T4",
+    "Discentes": "33",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "ROBERTO TEODORO GURGEL DE OLIVEIRA",
+    "Componente Curricular": "MAT1509 - CÁLCULO II",
+    "Turma": "2",
+    "Horário": "24N34",
+    "Discentes": "23",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "ROBERTO TEODORO GURGEL DE OLIVEIRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "1",
+    "Horário": "246N12",
+    "Discentes": "26",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "RONALDO FREIRE DE LIMA",
+    "Componente Curricular": "MAT1528 - ANÁLISE NO RN",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "7",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "ROOSEWELT FONSECA SOARES",
+    "Componente Curricular": "MAT0318 - CALCULO BASICO I",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "35",
+    "Média Geral": "8.98",
+    "Desvio Padrão Geral": "2.67"
+  },
+  {
+    "Docente": "ROOSEWELT FONSECA SOARES",
+    "Componente Curricular": "MAT0342 - CALCULO FUNDAMENTAL III",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "21",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "SANTOS DEMETRIO MIRANDA BORJAS",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "9",
+    "Horário": "35M34",
+    "Discentes": "43",
+    "Média Geral": "8.81",
+    "Desvio Padrão Geral": "2.41"
+  },
+  {
+    "Docente": "SANTOS DEMETRIO MIRANDA BORJAS",
+    "Componente Curricular": "MAT1527 - MÉTODOS NUMÉRICOS I",
+    "Turma": "2",
+    "Horário": "35T12",
+    "Discentes": "10",
+    "Média Geral": "8.62",
+    "Desvio Padrão Geral": "2.46"
+  },
+  {
+    "Docente": "SERGIO PEREIRA DE FARIAS",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "43",
+    "Média Geral": "7.82",
+    "Desvio Padrão Geral": "2.56"
+  },
+  {
+    "Docente": "SERGIO PEREIRA DE FARIAS",
+    "Componente Curricular": "MAT0340 - CALCULO FUNDAMENTAL I",
+    "Turma": "2",
+    "Horário": "246M12",
+    "Discentes": "48",
+    "Média Geral": "8.64",
+    "Desvio Padrão Geral": "2.45"
+  },
+  {
+    "Docente": "SIDARTA ARAUJO DE LIMA",
+    "Componente Curricular": "MAT0321 - CALCULO BASICO II",
+    "Turma": "1",
+    "Horário": "35N12",
+    "Discentes": "22",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "SILVIO JOSE BEZERRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "2",
+    "Horário": "246M34",
+    "Discentes": "50",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "SILVIO JOSE BEZERRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "3",
+    "Horário": "246M12",
+    "Discentes": "42",
+    "Média Geral": "8.97",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "VIVIANE KLEIN",
+    "Componente Curricular": "MAT1527 - MÉTODOS NUMÉRICOS I",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "5",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "2.25"
+  },
+  {
+    "Docente": "VIVIANE SIMIOLI MEDEIROS CAMPOS",
+    "Componente Curricular": "MAT0228 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "57",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "AILTON RODRIGUES DA SILVA",
+    "Componente Curricular": "MAT1524 - ANÁLISE REAL II",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "7",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "ALEXEY KUZMIN",
+    "Componente Curricular": "MAT1514 - TEORIA DOS NÚMEROS",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "14",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "ALVARO FREIRE DAMASCENO",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "2",
+    "Horário": "246M12",
+    "Discentes": "17",
+    "Média Geral": "8.69",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "ANA PAULA PEREIRA DO NASCIMENTO SILVA",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "3",
+    "Horário": "35N34",
+    "Discentes": "26",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.53"
+  },
+  {
+    "Docente": "ANA PAULA PEREIRA DO NASCIMENTO SILVA",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "5",
+    "Horário": "246N34",
+    "Discentes": "28",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "0.98"
+  },
+  {
+    "Docente": "ANA PAULA PEREIRA DO NASCIMENTO SILVA",
+    "Componente Curricular": "MAT1508 - LABORATÓRIO DE ENSINO DA MATEMÁTICA I",
+    "Turma": "3",
+    "Horário": "2N12",
+    "Discentes": "24",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.39"
+  },
+  {
+    "Docente": "ANDRE GUSTAVO CAMPOS PEREIRA",
+    "Componente Curricular": "MAT1507 - ÁLGEBRA LINEAR I",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "31",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.18"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "MAT0321 - CALCULO BASICO II",
+    "Turma": "2",
+    "Horário": "24N12",
+    "Discentes": "28",
+    "Média Geral": "8.65",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "ANTONIO DJACKSON ALVES DA SILVA",
+    "Componente Curricular": "MAT1506 - FUNDAMENTOS DE GEOMETRIA II",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "39",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "ARKADY TSURKOV",
+    "Componente Curricular": "MAT0009 - ALGEBRA I",
+    "Turma": "2",
+    "Horário": "246T12",
+    "Discentes": "17",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "2.44"
+  },
+  {
+    "Docente": "ARKADY TSURKOV",
+    "Componente Curricular": "MAT0313 - ALGEBRA LINEAR APLICADA",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "47",
+    "Média Geral": "9.06",
+    "Desvio Padrão Geral": "2.6"
+  },
+  {
+    "Docente": "ARKADY TSURKOV",
+    "Componente Curricular": "MAT1525 - ÁLGEBRA I",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "10",
+    "Média Geral": "8.43",
+    "Desvio Padrão Geral": "3.08"
+  },
+  {
+    "Docente": "BRUNO DOS SANTOS GOIS",
+    "Componente Curricular": "MAT0343 - ALGEBRA LINEAR",
+    "Turma": "2",
+    "Horário": "246T56",
+    "Discentes": "11",
+    "Média Geral": "8.32",
+    "Desvio Padrão Geral": "2.51"
+  },
+  {
+    "Docente": "BRUNO DOS SANTOS GOIS",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "1",
+    "Horário": "246N12",
+    "Discentes": "29",
+    "Média Geral": "6.66",
+    "Desvio Padrão Geral": "3.62"
+  },
+  {
+    "Docente": "CARLOS ALEXANDRE GOMES DA SILVA",
+    "Componente Curricular": "MAT1501 - MATEMÁTICA BÁSICA",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "13",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "2.18"
+  },
+  {
+    "Docente": "CARLOS ALEXANDRE GOMES DA SILVA",
+    "Componente Curricular": "MAT1534 - TOPOLOGIA DOS ESPAÇOS MÉTRICOS",
+    "Turma": "1",
+    "Horário": "24T34 6T4",
+    "Discentes": "8",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "MAT0031 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "1",
+    "Horário": "35N34",
+    "Discentes": "25",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.44"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "24",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "MAT1506 - FUNDAMENTOS DE GEOMETRIA II",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "39",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "DAVID ARMANDO ZAVALETA VILLANUEVA",
+    "Componente Curricular": "MAT0309 - ALGEBRA LINEAR PARA COMPUTAÇÃO",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "20",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "DAVID ARMANDO ZAVALETA VILLANUEVA",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "21",
+    "Média Geral": "8.55",
+    "Desvio Padrão Geral": "2.85"
+  },
+  {
+    "Docente": "DEBORA BORGES FERREIRA",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "2",
+    "Horário": "24M34",
+    "Discentes": "44",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "DIEGO FERRAZ DE SOUZA",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "6",
+    "Horário": "24T34",
+    "Discentes": "42",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "DIEGO FERRAZ DE SOUZA",
+    "Componente Curricular": "MAT0318 - CALCULO BASICO I",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "10",
+    "Média Geral": "9.08",
+    "Desvio Padrão Geral": "2.3"
+  },
+  {
+    "Docente": "EDGAR SILVA PEREIRA",
+    "Componente Curricular": "MAT0024 - CÁLCULO II PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "44",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "EDGAR SILVA PEREIRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "8",
+    "Horário": "246T56",
+    "Discentes": "20",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "FABIAN ARLEY POSADA BALVIN",
+    "Componente Curricular": "MAT1516 - DIDÁTICA DA MATEMÁTICA I",
+    "Turma": "1",
+    "Horário": "5N1234",
+    "Discentes": "18",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "FABIAN ARLEY POSADA BALVIN",
+    "Componente Curricular": "MAT1508 - LABORATÓRIO DE ENSINO DA MATEMÁTICA I",
+    "Turma": "1",
+    "Horário": "2N12",
+    "Discentes": "21",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "FABIAN ARLEY POSADA BALVIN",
+    "Componente Curricular": "MAT1508 - LABORATÓRIO DE ENSINO DA MATEMÁTICA I",
+    "Turma": "2",
+    "Horário": "2T56",
+    "Discentes": "30",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "FAGNER LEMOS DE SANTANA",
+    "Componente Curricular": "MAT0343 - ALGEBRA LINEAR",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "31",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "2.02"
+  },
+  {
+    "Docente": "FERNANDO GUEDES CURY",
+    "Componente Curricular": "MAT1526 - HISTÓRIA DA EDUCAÇÃO MATEMÁTICA",
+    "Turma": "2",
+    "Horário": "5N1234",
+    "Discentes": "8",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "FERNANDO GUEDES CURY",
+    "Componente Curricular": "MAT1517 - LABORATÓRIO DE ENSINO DA MATEMÁTICA II",
+    "Turma": "1",
+    "Horário": "2N34",
+    "Discentes": "24",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "GABRIELA LUCHEZE DE OLIVEIRA LOPES",
+    "Componente Curricular": "MAT1526 - HISTÓRIA DA EDUCAÇÃO MATEMÁTICA",
+    "Turma": "1",
+    "Horário": "5T1234",
+    "Discentes": "17",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "GEILSON FERREIRA GERMANO",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "4",
+    "Horário": "24N34",
+    "Discentes": "17",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "GEILSON FERREIRA GERMANO",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "2",
+    "Horário": "246M12",
+    "Discentes": "25",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.04"
+  },
+  {
+    "Docente": "GISELLE COSTA DE SOUSA",
+    "Componente Curricular": "MAT1516 - DIDÁTICA DA MATEMÁTICA I",
+    "Turma": "2",
+    "Horário": "5T3456",
+    "Discentes": "22",
+    "Média Geral": "9.96",
+    "Desvio Padrão Geral": "1.12"
+  },
+  {
+    "Docente": "GISELLE COSTA DE SOUSA",
+    "Componente Curricular": "MAT1517 - LABORATÓRIO DE ENSINO DA MATEMÁTICA II",
+    "Turma": "2",
+    "Horário": "2T34",
+    "Discentes": "16",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "HERICA PRISCILA DE ARAUJO CARNEIRO",
+    "Componente Curricular": "MAT0023 - CÁLCULO I PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "42",
+    "Média Geral": "8.02",
+    "Desvio Padrão Geral": "2.87"
+  },
+  {
+    "Docente": "HERICA PRISCILA DE ARAUJO CARNEIRO",
+    "Componente Curricular": "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL",
+    "Turma": "1",
+    "Horário": "46T56",
+    "Discentes": "21",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "1.39"
+  },
+  {
+    "Docente": "HERICA PRISCILA DE ARAUJO CARNEIRO",
+    "Componente Curricular": "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS",
+    "Turma": "2",
+    "Horário": "26N12",
+    "Discentes": "45",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "IESUS CARVALHO DINIZ",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "2",
+    "Horário": "246T34",
+    "Discentes": "27",
+    "Média Geral": "8.65",
+    "Desvio Padrão Geral": "2.49"
+  },
+  {
+    "Docente": "IESUS CARVALHO DINIZ",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "2",
+    "Horário": "246T12",
+    "Discentes": "21",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "JAQUES SILVEIRA LOPES",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "2",
+    "Horário": "246M34",
+    "Discentes": "45",
+    "Média Geral": "8.77",
+    "Desvio Padrão Geral": "2.41"
+  },
+  {
+    "Docente": "JAQUES SILVEIRA LOPES",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "3",
+    "Horário": "246M12",
+    "Discentes": "43",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "JOSE QUERGINALDO BEZERRA",
+    "Componente Curricular": "MAT1506 - FUNDAMENTOS DE GEOMETRIA II",
+    "Turma": "4",
+    "Horário": "5N1234",
+    "Discentes": "31",
+    "Média Geral": "8.6",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "JOSE QUERGINALDO BEZERRA",
+    "Componente Curricular": "MAT1514 - TEORIA DOS NÚMEROS",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "29",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "2.17"
+  },
+  {
+    "Docente": "JUAN ALBERTO ROJAS CRUZ",
+    "Componente Curricular": "MAT0342 - CALCULO FUNDAMENTAL III",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "7",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "2.32"
+  },
+  {
+    "Docente": "JUAN ALBERTO ROJAS CRUZ",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "3",
+    "Horário": "246T12",
+    "Discentes": "7",
+    "Média Geral": "9.99",
+    "Desvio Padrão Geral": "0.76"
+  },
+  {
+    "Docente": "JULIA VICTORIA TOLEDO BENAVIDES",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "5",
+    "Horário": "35T56",
+    "Discentes": "31",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "JULIA VICTORIA TOLEDO BENAVIDES",
+    "Componente Curricular": "MAT0025 - ÁLGEBRA LINEAR PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "2",
+    "Horário": "35T12",
+    "Discentes": "34",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "JULY HERBERT DA SILVA MARIANO",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "7",
+    "Horário": "35N34",
+    "Discentes": "38",
+    "Média Geral": "8.63",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "JULY HERBERT DA SILVA MARIANO",
+    "Componente Curricular": "MAT0321 - CALCULO BASICO II",
+    "Turma": "2",
+    "Horário": "24N12",
+    "Discentes": "28",
+    "Média Geral": "8.19",
+    "Desvio Padrão Geral": "2.14"
+  },
+  {
+    "Docente": "JULY HERBERT DA SILVA MARIANO",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "5",
+    "Horário": "246N34",
+    "Discentes": "22",
+    "Média Geral": "8.83",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "LILIANE DOS SANTOS GUTIERRE",
+    "Componente Curricular": "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "45",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "LUIZ CARLOS RADTKE",
+    "Componente Curricular": "MAT1527 - MÉTODOS NUMÉRICOS I",
+    "Turma": "1",
+    "Horário": "3N1234",
+    "Discentes": "10",
+    "Média Geral": "7.83",
+    "Desvio Padrão Geral": "2.81"
+  },
+  {
+    "Docente": "MANUEL CLAUDEMIR SILVA CALDAS",
+    "Componente Curricular": "MAT0009 - ALGEBRA I",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "10",
+    "Média Geral": "8.29",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "MANUEL CLAUDEMIR SILVA CALDAS",
+    "Componente Curricular": "MAT1536 - RESOLUÇÃO DE PROBLEMAS",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "7",
+    "Média Geral": "9.51",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "MARCELO GOMES PEREIRA",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "30",
+    "Média Geral": "8.56",
+    "Desvio Padrão Geral": "2.41"
+  },
+  {
+    "Docente": "MARCIA MARIA DE CASTRO CRUZ",
+    "Componente Curricular": "MAT0321 - CALCULO BASICO II",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "12",
+    "Média Geral": "8.4",
+    "Desvio Padrão Geral": "2.75"
+  },
+  {
+    "Docente": "MARCIA MARIA DE CASTRO CRUZ",
+    "Componente Curricular": "MAT1515 - LABORATÓRIO DE APOIO COMPUTACIONAL",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "14",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "MARCONIO SILVA DOS SANTOS",
+    "Componente Curricular": "MAT1502 - FUNDAMENTOS DE GEOMETRIA I",
+    "Turma": "1",
+    "Horário": "46N12",
+    "Discentes": "28",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "MARCONIO SILVA DOS SANTOS",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "7",
+    "Horário": "246N34",
+    "Discentes": "46",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "MARIO OTAVIO SALLES",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "5",
+    "Horário": "246T12",
+    "Discentes": "36",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "MARIO OTAVIO SALLES",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "28",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "ODIRLEI SILVA JESUS",
+    "Componente Curricular": "MAT1519 - ANÁLISE REAL I",
+    "Turma": "1",
+    "Horário": "24N12 6N1",
+    "Discentes": "36",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "0.94"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1505 - CÁLCULO I",
+    "Turma": "1",
+    "Horário": "46T12",
+    "Discentes": "28",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1505 - CÁLCULO I",
+    "Turma": "4",
+    "Horário": "46N12",
+    "Discentes": "23",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1537 - TEORIA INGÊNUA DOS CONJUNTOS",
+    "Turma": "1",
+    "Horário": "46T56",
+    "Discentes": "7",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.27"
+  },
+  {
+    "Docente": "ROBERTO TEODORO GURGEL DE OLIVEIRA",
+    "Componente Curricular": "MAT1507 - ÁLGEBRA LINEAR I",
+    "Turma": "4",
+    "Horário": "246N34",
+    "Discentes": "18",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.16"
+  },
+  {
+    "Docente": "ROOSEWELT FONSECA SOARES",
+    "Componente Curricular": "MAT0340 - CALCULO FUNDAMENTAL I",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "25",
+    "Média Geral": "9.04",
+    "Desvio Padrão Geral": "2.54"
+  },
+  {
+    "Docente": "ROOSEWELT FONSECA SOARES",
+    "Componente Curricular": "MAT0341 - CALCULO FUNDAMENTAL II",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "19",
+    "Média Geral": "8.89",
+    "Desvio Padrão Geral": "2.44"
+  },
+  {
+    "Docente": "SANTOS DEMETRIO MIRANDA BORJAS",
+    "Componente Curricular": "MAT1513 - CÁLCULO III",
+    "Turma": "2",
+    "Horário": "46N34",
+    "Discentes": "13",
+    "Média Geral": "8.43",
+    "Desvio Padrão Geral": "2.61"
+  },
+  {
+    "Docente": "SANTOS DEMETRIO MIRANDA BORJAS",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "2",
+    "Horário": "246M12",
+    "Discentes": "25",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "SERGIO PEREIRA DE FARIAS",
+    "Componente Curricular": "MAT1513 - CÁLCULO III",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "12",
+    "Média Geral": "4.52",
+    "Desvio Padrão Geral": "3.73"
+  },
+  {
+    "Docente": "SERGIO PEREIRA DE FARIAS",
+    "Componente Curricular": "MAT0221 - GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "10",
+    "Média Geral": "8.66",
+    "Desvio Padrão Geral": "2.36"
+  },
+  {
+    "Docente": "SIDARTA ARAUJO DE LIMA",
+    "Componente Curricular": "MAT0025 - ÁLGEBRA LINEAR PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "1",
+    "Horário": "35N34",
+    "Discentes": "25",
+    "Média Geral": "8.25",
+    "Desvio Padrão Geral": "2.6"
+  },
+  {
+    "Docente": "SILVIO JOSE BEZERRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "4",
+    "Horário": "246M34",
+    "Discentes": "40",
+    "Média Geral": "9.03",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "SILVIO JOSE BEZERRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "5",
+    "Horário": "246M12",
+    "Discentes": "52",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.42"
+  },
+  {
+    "Docente": "VIVIANE KLEIN",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "4",
+    "Horário": "246M12",
+    "Discentes": "41",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "VIVIANE SIMIOLI MEDEIROS CAMPOS",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "3",
+    "Horário": "246T12",
+    "Discentes": "25",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "AILTON RODRIGUES DA SILVA",
+    "Componente Curricular": "MAT1519 - ANÁLISE REAL I",
+    "Turma": "2",
+    "Horário": "24T12 6T1",
+    "Discentes": "17",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "ALEXEY KUZMIN",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "40",
+    "Média Geral": "9.03",
+    "Desvio Padrão Geral": "2.38"
+  },
+  {
+    "Docente": "ALEXEY KUZMIN",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "2",
+    "Horário": "246T12",
+    "Discentes": "18",
+    "Média Geral": "8.61",
+    "Desvio Padrão Geral": "2.61"
+  },
+  {
+    "Docente": "ALVARO FREIRE DAMASCENO",
+    "Componente Curricular": "MAT0342 - CALCULO FUNDAMENTAL III",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "23",
+    "Média Geral": "8.26",
+    "Desvio Padrão Geral": "3.09"
+  },
+  {
+    "Docente": "ALVARO FREIRE DAMASCENO",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "3",
+    "Horário": "246M12",
+    "Discentes": "24",
+    "Média Geral": "8.19",
+    "Desvio Padrão Geral": "2.66"
+  },
+  {
+    "Docente": "ANDRE GUSTAVO CAMPOS PEREIRA",
+    "Componente Curricular": "MAT0032 - FUNDAMENTOS DA MATEMÁTICA",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "34",
+    "Média Geral": "9.06",
+    "Desvio Padrão Geral": "2.38"
+  },
+  {
+    "Docente": "ANDRE GUSTAVO CAMPOS PEREIRA",
+    "Componente Curricular": "MAT1501 - MATEMÁTICA BÁSICA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "38",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "ARKADY TSURKOV",
+    "Componente Curricular": "MAT0309 - ALGEBRA LINEAR PARA COMPUTAÇÃO",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "20",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "2.59"
+  },
+  {
+    "Docente": "BRUNO DOS SANTOS GOIS",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "4",
+    "Horário": "35T34",
+    "Discentes": "9",
+    "Média Geral": "8.45",
+    "Desvio Padrão Geral": "2.88"
+  },
+  {
+    "Docente": "BRUNO DOS SANTOS GOIS",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "9",
+    "Horário": "35T12",
+    "Discentes": "39",
+    "Média Geral": "6.62",
+    "Desvio Padrão Geral": "3.22"
+  },
+  {
+    "Docente": "BRUNO DOS SANTOS GOIS",
+    "Componente Curricular": "MAT1537 - TEORIA INGÊNUA DOS CONJUNTOS",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "8",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "CARLOS ALEXANDRE GOMES DA SILVA",
+    "Componente Curricular": "MAT1536 - RESOLUÇÃO DE PROBLEMAS",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "7",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "1.07"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "4",
+    "Horário": "246M12",
+    "Discentes": "46",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "29",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "DAVID ARMANDO ZAVALETA VILLANUEVA",
+    "Componente Curricular": "MAT0005 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "12",
+    "Média Geral": "9.19",
+    "Desvio Padrão Geral": "2.96"
+  },
+  {
+    "Docente": "DAVID ARMANDO ZAVALETA VILLANUEVA",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "29",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "2.26"
+  },
+  {
+    "Docente": "DEBORA BORGES FERREIRA",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "5",
+    "Horário": "246M12",
+    "Discentes": "48",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "EDGAR SILVA PEREIRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "1",
+    "Horário": "246N12",
+    "Discentes": "38",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "EDUARDO RANGEL GOMES",
+    "Componente Curricular": "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL",
+    "Turma": "1",
+    "Horário": "46N34",
+    "Discentes": "50",
+    "Média Geral": "8.95",
+    "Desvio Padrão Geral": "2.38"
+  },
+  {
+    "Docente": "EDUARDO RANGEL GOMES",
+    "Componente Curricular": "MAT1501 - MATEMÁTICA BÁSICA",
+    "Turma": "2",
+    "Horário": "2N12 5N1234",
+    "Discentes": "50",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "2.36"
+  },
+  {
+    "Docente": "FABIAN ARLEY POSADA BALVIN",
+    "Componente Curricular": "MAT1522 - DIDÁTICA DA MATEMÁTICA II",
+    "Turma": "2",
+    "Horário": "24N34",
+    "Discentes": "19",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "FABIAN ARLEY POSADA BALVIN",
+    "Componente Curricular": "MAT1512 - INFORMÁTICA NO ENSINO DA MATEMÁTICA",
+    "Turma": "2",
+    "Horário": "24N12",
+    "Discentes": "17",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "FAGNER LEMOS DE SANTANA",
+    "Componente Curricular": "MAT0313 - ALGEBRA LINEAR APLICADA",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "51",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "FERNANDO GUEDES CURY",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "2",
+    "Horário": "246N34",
+    "Discentes": "50",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "FERNANDO GUEDES CURY",
+    "Componente Curricular": "MAT1512 - INFORMÁTICA NO ENSINO DA MATEMÁTICA",
+    "Turma": "3",
+    "Horário": "24N12",
+    "Discentes": "20",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "0.95"
+  },
+  {
+    "Docente": "GABRIELA LUCHEZE DE OLIVEIRA LOPES",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "42",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "GABRIELA LUCHEZE DE OLIVEIRA LOPES",
+    "Componente Curricular": "MAT1504 - TUTORIA I",
+    "Turma": "3",
+    "Horário": "2N3",
+    "Discentes": "62",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "GISELLE COSTA DE SOUSA",
+    "Componente Curricular": "MAT1522 - DIDÁTICA DA MATEMÁTICA II",
+    "Turma": "1",
+    "Horário": "4T3456",
+    "Discentes": "20",
+    "Média Geral": "10",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "GISELLE COSTA DE SOUSA",
+    "Componente Curricular": "MAT1521 - TÓPICOS DE HISTÓRIA DA MATEMÁTICA",
+    "Turma": "1",
+    "Horário": "2T3456",
+    "Discentes": "21",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "HERICA PRISCILA DE ARAUJO CARNEIRO",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "12",
+    "Média Geral": "9.02",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "HERICA PRISCILA DE ARAUJO CARNEIRO",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "8",
+    "Horário": "24M34",
+    "Discentes": "22",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "HERICA PRISCILA DE ARAUJO CARNEIRO",
+    "Componente Curricular": "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "52",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "IESUS CARVALHO DINIZ",
+    "Componente Curricular": "MAT0318 - CALCULO BASICO I",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "23",
+    "Média Geral": "8.23",
+    "Desvio Padrão Geral": "2.75"
+  },
+  {
+    "Docente": "IESUS CARVALHO DINIZ",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "2",
+    "Horário": "246T12",
+    "Discentes": "23",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "JAQUES SILVEIRA LOPES",
+    "Componente Curricular": "MAT0228 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "34",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "JOSE QUERGINALDO BEZERRA",
+    "Componente Curricular": "MAT1502 - FUNDAMENTOS DE GEOMETRIA I",
+    "Turma": "1",
+    "Horário": "46N12",
+    "Discentes": "55",
+    "Média Geral": "8.81",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "JOSE QUERGINALDO BEZERRA",
+    "Componente Curricular": "MAT1502 - FUNDAMENTOS DE GEOMETRIA I",
+    "Turma": "2",
+    "Horário": "46T34",
+    "Discentes": "38",
+    "Média Geral": "8.79",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "JUAN ALBERTO ROJAS CRUZ",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "4",
+    "Horário": "246T34",
+    "Discentes": "12",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "JULIA VICTORIA TOLEDO BENAVIDES",
+    "Componente Curricular": "MAT0318 - CALCULO BASICO I",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "34",
+    "Média Geral": "8.68",
+    "Desvio Padrão Geral": "2.48"
+  },
+  {
+    "Docente": "JULIA VICTORIA TOLEDO BENAVIDES",
+    "Componente Curricular": "MAT0023 - CÁLCULO I PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "47",
+    "Média Geral": "8.96",
+    "Desvio Padrão Geral": "2.34"
+  },
+  {
+    "Docente": "JULY HERBERT DA SILVA MARIANO",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "3",
+    "Horário": "246N34",
+    "Discentes": "52",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "JULY HERBERT DA SILVA MARIANO",
+    "Componente Curricular": "MAT0340 - CALCULO FUNDAMENTAL I",
+    "Turma": "2",
+    "Horário": "246M12",
+    "Discentes": "47",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "JULY HERBERT DA SILVA MARIANO",
+    "Componente Curricular": "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "52",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "LILIANE DOS SANTOS GUTIERRE",
+    "Componente Curricular": "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "48",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "LUIZ CARLOS RADTKE",
+    "Componente Curricular": "MAT0344 - CALCULO PARA BIOCIENCIAS",
+    "Turma": "2",
+    "Horário": "35T12",
+    "Discentes": "39",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "2.44"
+  },
+  {
+    "Docente": "LUIZ CARLOS RADTKE",
+    "Componente Curricular": "MAT1527 - MÉTODOS NUMÉRICOS I",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "7",
+    "Média Geral": "8.67",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "LUIZ CARLOS RADTKE",
+    "Componente Curricular": "MAT1527 - MÉTODOS NUMÉRICOS I",
+    "Turma": "3",
+    "Horário": "35N12",
+    "Discentes": "20",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "MANUEL CLAUDEMIR SILVA CALDAS",
+    "Componente Curricular": "MAT0009 - ALGEBRA I",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "15",
+    "Média Geral": "7.7",
+    "Desvio Padrão Geral": "2.87"
+  },
+  {
+    "Docente": "MANUEL CLAUDEMIR SILVA CALDAS",
+    "Componente Curricular": "MAT1514 - TEORIA DOS NÚMEROS",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "20",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "MARCELO GOMES PEREIRA",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "4",
+    "Horário": "246M12",
+    "Discentes": "32",
+    "Média Geral": "8.49",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "MARCIA MARIA DE CASTRO CRUZ",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "3",
+    "Horário": "35T56",
+    "Discentes": "49",
+    "Média Geral": "8.74",
+    "Desvio Padrão Geral": "2.29"
+  },
+  {
+    "Docente": "MARCIA MARIA DE CASTRO CRUZ",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "5",
+    "Horário": "35M56",
+    "Discentes": "50",
+    "Média Geral": "8.74",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "MARCONIO SILVA DOS SANTOS",
+    "Componente Curricular": "MAT0318 - CALCULO BASICO I",
+    "Turma": "3",
+    "Horário": "246N12",
+    "Discentes": "22",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "MARCONIO SILVA DOS SANTOS",
+    "Componente Curricular": "MAT0024 - CÁLCULO II PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "44",
+    "Média Geral": "9.14",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "MARCONIO SILVA DOS SANTOS",
+    "Componente Curricular": "MAT1504 - TUTORIA I",
+    "Turma": "2",
+    "Horário": "2T4",
+    "Discentes": "29",
+    "Média Geral": "9.14",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "MARIO OTAVIO SALLES",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "5",
+    "Horário": "246T12",
+    "Discentes": "38",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "MARTA FIGUEREDO DOS ANJOS",
+    "Componente Curricular": "MAT1512 - INFORMÁTICA NO ENSINO DA MATEMÁTICA",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "11",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "0.97"
+  },
+  {
+    "Docente": "MARTA FIGUEREDO DOS ANJOS",
+    "Componente Curricular": "MAT1530 - PROJETO DE ENSINO E PESQUISA",
+    "Turma": "1",
+    "Horário": "6T34",
+    "Discentes": "16",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.27"
+  },
+  {
+    "Docente": "MARTA FIGUEREDO DOS ANJOS",
+    "Componente Curricular": "MAT1530 - PROJETO DE ENSINO E PESQUISA",
+    "Turma": "2",
+    "Horário": "2N34",
+    "Discentes": "20",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "ODIRLEI SILVA JESUS",
+    "Componente Curricular": "MAT1509 - CÁLCULO II",
+    "Turma": "2",
+    "Horário": "24N34",
+    "Discentes": "13",
+    "Média Geral": "9.99",
+    "Desvio Padrão Geral": "0.74"
+  },
+  {
+    "Docente": "ODIRLEI SILVA JESUS",
+    "Componente Curricular": "MAT1518 - CÁLCULO IV",
+    "Turma": "1",
+    "Horário": "24N12",
+    "Discentes": "18",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "ODIRLEI SILVA JESUS",
+    "Componente Curricular": "MAT1521 - TÓPICOS DE HISTÓRIA DA MATEMÁTICA",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "16",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.04"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "12",
+    "Média Geral": "8.02",
+    "Desvio Padrão Geral": "2.25"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "2",
+    "Horário": "24N12",
+    "Discentes": "23",
+    "Média Geral": "9.14",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "6",
+    "Horário": "24N34",
+    "Discentes": "11",
+    "Média Geral": "8.94",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1511 - ÁLGEBRA LINEAR II",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "13",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "ROBERTO TEODORO GURGEL DE OLIVEIRA",
+    "Componente Curricular": "MAT1519 - ANÁLISE REAL I",
+    "Turma": "1",
+    "Horário": "24N12 6N1",
+    "Discentes": "25",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "ROBERTO TEODORO GURGEL DE OLIVEIRA",
+    "Componente Curricular": "MAT1504 - TUTORIA I",
+    "Turma": "1",
+    "Horário": "2T3",
+    "Discentes": "13",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "ROOSEWELT FONSECA SOARES",
+    "Componente Curricular": "MAT0343 - ALGEBRA LINEAR",
+    "Turma": "2",
+    "Horário": "246M56",
+    "Discentes": "34",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "2.29"
+  },
+  {
+    "Docente": "ROOSEWELT FONSECA SOARES",
+    "Componente Curricular": "MAT0340 - CALCULO FUNDAMENTAL I",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "44",
+    "Média Geral": "8.81",
+    "Desvio Padrão Geral": "2.6"
+  },
+  {
+    "Docente": "SANTOS DEMETRIO MIRANDA BORJAS",
+    "Componente Curricular": "MAT0321 - CALCULO BASICO II",
+    "Turma": "1",
+    "Horário": "35N12",
+    "Discentes": "10",
+    "Média Geral": "8.95",
+    "Desvio Padrão Geral": "2.52"
+  },
+  {
+    "Docente": "SANTOS DEMETRIO MIRANDA BORJAS",
+    "Componente Curricular": "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "37",
+    "Média Geral": "7.21",
+    "Desvio Padrão Geral": "3.5"
+  },
+  {
+    "Docente": "SANTOS DEMETRIO MIRANDA BORJAS",
+    "Componente Curricular": "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "43",
+    "Média Geral": "8.39",
+    "Desvio Padrão Geral": "2.87"
+  },
+  {
+    "Docente": "SERGIO PEREIRA DE FARIAS",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "7",
+    "Horário": "35M34",
+    "Discentes": "45",
+    "Média Geral": "7.57",
+    "Desvio Padrão Geral": "2.71"
+  },
+  {
+    "Docente": "SERGIO PEREIRA DE FARIAS",
+    "Componente Curricular": "MAT0344 - CALCULO PARA BIOCIENCIAS",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "31",
+    "Média Geral": "7.85",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "SERGIO PEREIRA DE FARIAS",
+    "Componente Curricular": "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL",
+    "Turma": "2",
+    "Horário": "35T12",
+    "Discentes": "40",
+    "Média Geral": "7.44",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "SIDARTA ARAUJO DE LIMA",
+    "Componente Curricular": "MAT0322 - CALCULO BASICO III",
+    "Turma": "1",
+    "Horário": "35N34",
+    "Discentes": "19",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "SILVIO JOSE BEZERRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "2",
+    "Horário": "246M34",
+    "Discentes": "33",
+    "Média Geral": "8.86",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "SILVIO JOSE BEZERRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "6",
+    "Horário": "246M12",
+    "Discentes": "41",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "VIVIANE KLEIN",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "8",
+    "Horário": "24M34",
+    "Discentes": "22",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "VIVIANE KLEIN",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "3",
+    "Horário": "246M12",
+    "Discentes": "53",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "2.01"
+  },
+  {
+    "Docente": "VIVIANE SIMIOLI MEDEIROS CAMPOS",
+    "Componente Curricular": "MAT0220 - CALCULO DIFERENCIAL E INTEGRAL",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "41",
+    "Média Geral": "8.03",
+    "Desvio Padrão Geral": "3.41"
+  },
+  {
+    "Docente": "VIVIANE SIMIOLI MEDEIROS CAMPOS",
+    "Componente Curricular": "MAT1509 - CÁLCULO II",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "15",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "VIVIANE SIMIOLI MEDEIROS CAMPOS",
+    "Componente Curricular": "MAT1518 - CÁLCULO IV",
+    "Turma": "2",
+    "Horário": "35T12",
+    "Discentes": "12",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "AILTON RODRIGUES DA SILVA",
+    "Componente Curricular": "MAT0011 - ANALISE MATEMATICA I",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "11",
+    "Média Geral": "9.21",
+    "Desvio Padrão Geral": "0.98"
+  },
+  {
+    "Docente": "ALEXEY KUZMIN",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "6",
+    "Horário": "246N34",
+    "Discentes": "40",
+    "Média Geral": "8.36",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "ALEXEY KUZMIN",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "3",
+    "Horário": "246N12",
+    "Discentes": "6",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "ALVARO FREIRE DAMASCENO",
+    "Componente Curricular": "MAT0341 - CALCULO FUNDAMENTAL II",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "13",
+    "Média Geral": "8.77",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "ALVARO FREIRE DAMASCENO",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "4",
+    "Horário": "246M12",
+    "Discentes": "30",
+    "Média Geral": "8.25",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "ARKADY TSURKOV",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "21",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "ARKADY TSURKOV",
+    "Componente Curricular": "MAT1525 - ÁLGEBRA I",
+    "Turma": "2",
+    "Horário": "246T12",
+    "Discentes": "15",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "BRUNO DOS SANTOS GOIS",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "4",
+    "Horário": "35N34",
+    "Discentes": "45",
+    "Média Geral": "8.65",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "BRUNO DOS SANTOS GOIS",
+    "Componente Curricular": "MAT1538 - TÓPICOS EM COMBINATÓRIA",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "9",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "2.07"
+  },
+  {
+    "Docente": "CAMILA NASCIMENTO DA SILVA",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "3",
+    "Horário": "35T56",
+    "Discentes": "54",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "CAMILA NASCIMENTO DA SILVA",
+    "Componente Curricular": "MAT0321 - CALCULO BASICO II",
+    "Turma": "2",
+    "Horário": "24N12",
+    "Discentes": "21",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "CAMILA NASCIMENTO DA SILVA",
+    "Componente Curricular": "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "47",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "1.24"
+  },
+  {
+    "Docente": "CAMILA NASCIMENTO DA SILVA",
+    "Componente Curricular": "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "46",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "28",
+    "Média Geral": "9.94",
+    "Desvio Padrão Geral": "1.04"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "3",
+    "Horário": "246M12",
+    "Discentes": "41",
+    "Média Geral": "9.98",
+    "Desvio Padrão Geral": "1.15"
+  },
+  {
+    "Docente": "DANIEL TEIXEIRA DOS SANTOS",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "3",
+    "Horário": "246N12",
+    "Discentes": "23",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.05"
+  },
+  {
+    "Docente": "DAVID ARMANDO ZAVALETA VILLANUEVA",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "5",
+    "Horário": "246T12",
+    "Discentes": "40",
+    "Média Geral": "8.64",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "DAVID ARMANDO ZAVALETA VILLANUEVA",
+    "Componente Curricular": "MAT1523 - VARIÁVEIS COMPLEXAS",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "12",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "DEBORA BORGES FERREIRA",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "2",
+    "Horário": "246T34",
+    "Discentes": "47",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "EDGAR SILVA PEREIRA",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "16",
+    "Média Geral": "9.21",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "EDGAR SILVA PEREIRA",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "3",
+    "Horário": "246T12",
+    "Discentes": "26",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "EDUARDO RANGEL GOMES",
+    "Componente Curricular": "MAT0318 - CALCULO BASICO I",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "21",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "EDUARDO RANGEL GOMES",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "3",
+    "Horário": "246T12",
+    "Discentes": "26",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.39"
+  },
+  {
+    "Docente": "EDUARDO RANGEL GOMES",
+    "Componente Curricular": "MAT1506 - FUNDAMENTOS DE GEOMETRIA II",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "22",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "ELAINE GOUVEA PIMENTEL",
+    "Componente Curricular": "MAT0309 - ALGEBRA LINEAR PARA COMPUTAÇÃO",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "21",
+    "Média Geral": "9.28",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "ELAINE GOUVEA PIMENTEL",
+    "Componente Curricular": "MAT0013 - TOPOLOGIA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "5",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "FABIAN ARLEY POSADA BALVIN",
+    "Componente Curricular": "MAT1516 - DIDÁTICA DA MATEMÁTICA I",
+    "Turma": "1",
+    "Horário": "5N1234",
+    "Discentes": "24",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.44"
+  },
+  {
+    "Docente": "FABIAN ARLEY POSADA BALVIN",
+    "Componente Curricular": "MAT1508 - LABORATÓRIO DE ENSINO DA MATEMÁTICA I",
+    "Turma": "3",
+    "Horário": "2N12",
+    "Discentes": "23",
+    "Média Geral": "9.93",
+    "Desvio Padrão Geral": "1.07"
+  },
+  {
+    "Docente": "FAGNER LEMOS DE SANTANA",
+    "Componente Curricular": "MAT0343 - ALGEBRA LINEAR",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "29",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "FAGNER LEMOS DE SANTANA",
+    "Componente Curricular": "MAT0313 - ALGEBRA LINEAR APLICADA",
+    "Turma": "2",
+    "Horário": "246M56",
+    "Discentes": "51",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "FERNANDO GUEDES CURY",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "5",
+    "Horário": "246N34",
+    "Discentes": "17",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.19"
+  },
+  {
+    "Docente": "FERNANDO GUEDES CURY",
+    "Componente Curricular": "MAT1526 - HISTÓRIA DA EDUCAÇÃO MATEMÁTICA",
+    "Turma": "1",
+    "Horário": "5N1234",
+    "Discentes": "23",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.09"
+  },
+  {
+    "Docente": "FERNANDO GUEDES CURY",
+    "Componente Curricular": "MAT3018 - TIC NO ENSINO DA MATEMÁTICA",
+    "Turma": "1",
+    "Horário": "7T1234",
+    "Discentes": "13",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "0.76"
+  },
+  {
+    "Docente": "GABRIELA LUCHEZE DE OLIVEIRA LOPES",
+    "Componente Curricular": "MAT1513 - CÁLCULO III",
+    "Turma": "2",
+    "Horário": "35T12",
+    "Discentes": "14",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "GABRIELA LUCHEZE DE OLIVEIRA LOPES",
+    "Componente Curricular": "MAT1516 - DIDÁTICA DA MATEMÁTICA I",
+    "Turma": "2",
+    "Horário": "5T3456",
+    "Discentes": "26",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "GISELLE COSTA DE SOUSA",
+    "Componente Curricular": "MAT1508 - LABORATÓRIO DE ENSINO DA MATEMÁTICA I",
+    "Turma": "1",
+    "Horário": "2T56",
+    "Discentes": "22",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "0.99"
+  },
+  {
+    "Docente": "GISELLE COSTA DE SOUSA",
+    "Componente Curricular": "MAT1517 - LABORATÓRIO DE ENSINO DA MATEMÁTICA II",
+    "Turma": "2",
+    "Horário": "2T34",
+    "Discentes": "20",
+    "Média Geral": "9.85",
+    "Desvio Padrão Geral": "1.27"
+  },
+  {
+    "Docente": "IESUS CARVALHO DINIZ",
+    "Componente Curricular": "MAT0340 - CALCULO FUNDAMENTAL I",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "13",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "IESUS CARVALHO DINIZ",
+    "Componente Curricular": "MAT0311 - MATEMATICA PARA ENGENHARIA I",
+    "Turma": "2",
+    "Horário": "246T12",
+    "Discentes": "15",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.01"
+  },
+  {
+    "Docente": "JAQUES SILVEIRA LOPES",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "5",
+    "Horário": "246M12",
+    "Discentes": "53",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "JOSE QUERGINALDO BEZERRA",
+    "Componente Curricular": "MAT1514 - TEORIA DOS NÚMEROS",
+    "Turma": "2",
+    "Horário": "246T12",
+    "Discentes": "27",
+    "Média Geral": "9.21",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "JOSIMARA TATIANE DA SILVA",
+    "Componente Curricular": "MAT0344 - CALCULO PARA BIOCIENCIAS",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "20",
+    "Média Geral": "8.36",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "JOSIMARA TATIANE DA SILVA",
+    "Componente Curricular": "MAT0023 - CÁLCULO I PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "36",
+    "Média Geral": "8.76",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "JOSIMARA TATIANE DA SILVA",
+    "Componente Curricular": "MAT1506 - FUNDAMENTOS DE GEOMETRIA II",
+    "Turma": "2",
+    "Horário": "46N12",
+    "Discentes": "18",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.44"
+  },
+  {
+    "Docente": "JUAN ALBERTO ROJAS CRUZ",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "6",
+    "Horário": "246T34",
+    "Discentes": "16",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "JUAN ALBERTO ROJAS CRUZ",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "2",
+    "Horário": "246T12",
+    "Discentes": "8",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "0.48"
+  },
+  {
+    "Docente": "JULIA VICTORIA TOLEDO BENAVIDES",
+    "Componente Curricular": "MAT0024 - CÁLCULO II PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "31",
+    "Média Geral": "8.82",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "JULIA VICTORIA TOLEDO BENAVIDES",
+    "Componente Curricular": "MAT1501 - MATEMÁTICA BÁSICA",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "30",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.13"
+  },
+  {
+    "Docente": "JULY HERBERT DA SILVA MARIANO",
+    "Componente Curricular": "MAT0321 - CALCULO BASICO II",
+    "Turma": "2",
+    "Horário": "24N12",
+    "Discentes": "21",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "0.67"
+  },
+  {
+    "Docente": "JULY HERBERT DA SILVA MARIANO",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "16",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "JULY HERBERT DA SILVA MARIANO",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "5",
+    "Horário": "246N34",
+    "Discentes": "24",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "LILIANE DOS SANTOS GUTIERRE",
+    "Componente Curricular": "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "55",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "LUIZ CARLOS RADTKE",
+    "Componente Curricular": "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL",
+    "Turma": "1",
+    "Horário": "25N34",
+    "Discentes": "44",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "LUIZ CARLOS RADTKE",
+    "Componente Curricular": "MAT1527 - MÉTODOS NUMÉRICOS I",
+    "Turma": "1",
+    "Horário": "3N1234",
+    "Discentes": "23",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "LUIZ CARLOS RADTKE",
+    "Componente Curricular": "MAT1527 - MÉTODOS NUMÉRICOS I",
+    "Turma": "2",
+    "Horário": "35T12",
+    "Discentes": "12",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "MANUEL CLAUDEMIR SILVA CALDAS",
+    "Componente Curricular": "MAT1514 - TEORIA DOS NÚMEROS",
+    "Turma": "1",
+    "Horário": "246N12",
+    "Discentes": "28",
+    "Média Geral": "8.8",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "MANUEL CLAUDEMIR SILVA CALDAS",
+    "Componente Curricular": "MAT1525 - ÁLGEBRA I",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "13",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "MARCELO FERREIRA SIQUEIRA",
+    "Componente Curricular": "MAT0321 - CALCULO BASICO II",
+    "Turma": "2",
+    "Horário": "24N12",
+    "Discentes": "21",
+    "Média Geral": "7.43",
+    "Desvio Padrão Geral": "3.06"
+  },
+  {
+    "Docente": "MARCELO FERREIRA SIQUEIRA",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "5",
+    "Horário": "246N34",
+    "Discentes": "24",
+    "Média Geral": "8.5",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "MARCELO FERREIRA SIQUEIRA",
+    "Componente Curricular": "MAT1506 - FUNDAMENTOS DE GEOMETRIA II",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "22",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "MARCIA MARIA DE CASTRO CRUZ",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "2",
+    "Horário": "24M56",
+    "Discentes": "51",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "MARCIA MARIA DE CASTRO CRUZ",
+    "Componente Curricular": "MAT1515 - LABORATÓRIO DE APOIO COMPUTACIONAL",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "9",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "MARCONIO SILVA DOS SANTOS",
+    "Componente Curricular": "MAT0318 - CALCULO BASICO I",
+    "Turma": "1",
+    "Horário": "246N34",
+    "Discentes": "21",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "MARCONIO SILVA DOS SANTOS",
+    "Componente Curricular": "MAT1505 - CÁLCULO I",
+    "Turma": "1",
+    "Horário": "46T12",
+    "Discentes": "23",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.27"
+  },
+  {
+    "Docente": "MARCONIO SILVA DOS SANTOS",
+    "Componente Curricular": "MAT1507 - ÁLGEBRA LINEAR I",
+    "Turma": "2",
+    "Horário": "2N34 5N1234",
+    "Discentes": "11",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.24"
+  },
+  {
+    "Docente": "MARIO OTAVIO SALLES",
+    "Componente Curricular": "MAT0321 - CALCULO BASICO II",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "17",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "MARIO OTAVIO SALLES",
+    "Componente Curricular": "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "4",
+    "Horário": "246M34",
+    "Discentes": "28",
+    "Média Geral": "8.74",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "MARTA FIGUEREDO DOS ANJOS",
+    "Componente Curricular": "MAT3021 - DIDÁTICA DA MATEMÁTICA",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "13",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "0.85"
+  },
+  {
+    "Docente": "MARTA FIGUEREDO DOS ANJOS",
+    "Componente Curricular": "MAT1526 - HISTÓRIA DA EDUCAÇÃO MATEMÁTICA",
+    "Turma": "2",
+    "Horário": "5T1234",
+    "Discentes": "22",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "MARTA FIGUEREDO DOS ANJOS",
+    "Componente Curricular": "MAT1508 - LABORATÓRIO DE ENSINO DA MATEMÁTICA I",
+    "Turma": "4",
+    "Horário": "2N12",
+    "Discentes": "22",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.13"
+  },
+  {
+    "Docente": "MARTA FIGUEREDO DOS ANJOS",
+    "Componente Curricular": "MAT1517 - LABORATÓRIO DE ENSINO DA MATEMÁTICA II",
+    "Turma": "1",
+    "Horário": "2N34",
+    "Discentes": "24",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "ODIRLEI SILVA JESUS",
+    "Componente Curricular": "MAT1513 - CÁLCULO III",
+    "Turma": "1",
+    "Horário": "46N34",
+    "Discentes": "20",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "ODIRLEI SILVA JESUS",
+    "Componente Curricular": "MAT3019 - INTRODUÇÃO À ÁLGEBRA LINEAR",
+    "Turma": "1",
+    "Horário": "6M2345",
+    "Discentes": "13",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "0.83"
+  },
+  {
+    "Docente": "ODIRLEI SILVA JESUS",
+    "Componente Curricular": "MAT1537 - TEORIA INGÊNUA DOS CONJUNTOS",
+    "Turma": "1",
+    "Horário": "46T56",
+    "Discentes": "19",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1505 - CÁLCULO I",
+    "Turma": "1",
+    "Horário": "46T12",
+    "Discentes": "23",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1505 - CÁLCULO I",
+    "Turma": "2",
+    "Horário": "46N34",
+    "Discentes": "28",
+    "Média Geral": "9.44",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT3020 - CÁLCULO II",
+    "Turma": "1",
+    "Horário": "7M2345",
+    "Discentes": "13",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "0.76"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1502 - FUNDAMENTOS DE GEOMETRIA I",
+    "Turma": "1",
+    "Horário": "46N12",
+    "Discentes": "60",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "PAULO ROBERTO FERREIRA DOS SANTOS SILVA",
+    "Componente Curricular": "MAT1507 - ÁLGEBRA LINEAR I",
+    "Turma": "2",
+    "Horário": "2N34 5N1234",
+    "Discentes": "11",
+    "Média Geral": "9.85",
+    "Desvio Padrão Geral": "0.96"
+  },
+  {
+    "Docente": "ROBERTO TEODORO GURGEL DE OLIVEIRA",
+    "Componente Curricular": "MAT1514 - TEORIA DOS NÚMEROS",
+    "Turma": "1",
+    "Horário": "246N12",
+    "Discentes": "28",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.1"
+  },
+  {
+    "Docente": "ROOSEWELT FONSECA SOARES",
+    "Componente Curricular": "MAT0343 - ALGEBRA LINEAR",
+    "Turma": "2",
+    "Horário": "246T56",
+    "Discentes": "32",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "ROOSEWELT FONSECA SOARES",
+    "Componente Curricular": "MAT0342 - CALCULO FUNDAMENTAL III",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "18",
+    "Média Geral": "8.78",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "SANTOS DEMETRIO MIRANDA BORJAS",
+    "Componente Curricular": "MAT0031 - CALCULO DIFERENCIAL E INTEGRAL II",
+    "Turma": "1",
+    "Horário": "35N12",
+    "Discentes": "14",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "SANTOS DEMETRIO MIRANDA BORJAS",
+    "Componente Curricular": "MAT0025 - ÁLGEBRA LINEAR PARA ENGENHARIA DE PRODUÇÃO",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "6",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "SERGIO PEREIRA DE FARIAS",
+    "Componente Curricular": "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "42",
+    "Média Geral": "8.32",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "SERGIO PEREIRA DE FARIAS",
+    "Componente Curricular": "MAT0221 - GEOMETRIA ANALITICA E ALGEBRA LINEAR",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "17",
+    "Média Geral": "9.03",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "SIDARTA ARAUJO DE LIMA",
+    "Componente Curricular": "MAT0319 - ALGEBRA LINEAR BASICA I",
+    "Turma": "5",
+    "Horário": "24N34",
+    "Discentes": "25",
+    "Média Geral": "8.41",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "SILVIO JOSE BEZERRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "41",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "SILVIO JOSE BEZERRA",
+    "Componente Curricular": "MAT0312 - MATEMATICA PARA ENGENHARIA II",
+    "Turma": "4",
+    "Horário": "246M34",
+    "Discentes": "37",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "VIVIANE KLEIN",
+    "Componente Curricular": "MAT0314 - MATEMATICA PARA ENGENHARIA III",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "31",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.53"
+  }
+]
