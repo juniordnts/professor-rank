@@ -44,6 +44,11 @@ td button, th button{
   color: #ffffff;
   text-transform: uppercase;
 }
+.enviar-msg, .enviar-msg:focus{
+  background-color: transparent;
+  border-color: var(--main-borders);
+  color: #ffffff;
+}
 #table-comparacao td:first-of-type, #table-comparacao td:nth-of-type(2){
   width: 40px;
   text-overflow: initial;

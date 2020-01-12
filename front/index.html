@@ -19,7 +19,7 @@
 
       <h2 class="text-primary display-4 text-center mt-5">Rank Professores</h2>
 
-      <div class="tab-pane fade show active" id="geral">
+      <div class="tab-pane fade show active mb-5" id="geral">
         <div class="container mt-5 p-3 rounded">
           <div class="text-center d-none">Sem resultados para a busca</div>
           <small>
@@ -38,7 +38,7 @@
           <small class="text-center text-muted">Centro de Tecnologia</small>
 
           <br><br>
-          <a class="btn btn-outline-primary m-1" href="./rank.html?id=cet">C&T</a>
+          <a class="btn btn-outline-primary m-1" href="./rank.html?id=cet">ECT</a>
           <a class="btn btn-outline-primary m-1" href="./rank.html?id=imd">IMD</a>
           <a class="btn btn-outline-primary m-1" href="./rank.html?id=civil">Eng. Civil</a>
           <a class="btn btn-outline-primary m-1" href="./rank.html?id=quimica">Eng. Química</a>
@@ -53,20 +53,20 @@
 
           <br><br>
 
-          <a title="DBF" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdbf">CB - Dep. Biofísica e
+          <a title="DBF" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdbf">Dep. Biofísica e
             Farmacologia</a>
-          <a title="DBG" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdbg">CB - Dep. Biologia Celular e
+          <a title="DBG" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdbg">Dep. Biologia Celular e
             Genética</a>
-          <a title="DBQ" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdbq">CB - Dep. Bioquimica</a>
-          <a title="ECL" class="btn btn-outline-primary m-1" href="./rank.html?id=cbecl">CB - Dep. Ecologia</a>
-          <a title="BEZ" class="btn btn-outline-primary m-1" href="./rank.html?id=cbbez">CB - Dep. Botânica e
+          <a title="DBQ" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdbq">Dep. Bioquimica</a>
+          <a title="ECL" class="btn btn-outline-primary m-1" href="./rank.html?id=cbecl">Dep. Ecologia</a>
+          <a title="BEZ" class="btn btn-outline-primary m-1" href="./rank.html?id=cbbez">Dep. Botânica e
             Zoologia</a>
-          <a title="DFS" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdfs">CB - Dep. Fisiologia e
+          <a title="DFS" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdfs">Dep. Fisiologia e
             Comportamento</a>
-          <a title="DMP" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdmp">CB - Dep. Microbiologia e
+          <a title="DMP" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdmp">Dep. Microbiologia e
             Parasitologia</a>
-          <a title="MOR" class="btn btn-outline-primary m-1" href="./rank.html?id=cbmor">CB - Dep. Morfologia</a>
-          <a title="DOL" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdol">CB - Dep. Oceanografia e
+          <a title="MOR" class="btn btn-outline-primary m-1" href="./rank.html?id=cbmor">Dep. Morfologia</a>
+          <a title="DOL" class="btn btn-outline-primary m-1" href="./rank.html?id=cbdol">Dep. Oceanografia e
             Limnologia</a>
 
           <br><br>
@@ -78,6 +78,18 @@
           <a class="btn btn-outline-primary m-1" href="./rank.html?id=enfermagem">Enfermagem</a>
 
         </div>
+
+        <div class="container mt-4 p-3 rounded">
+          <p class="text-muted">O departamento do seu curso não aparece? Envie uma mensagem que eu coloco assim
+            que puder.</p>
+
+          <div class="input-group mb-3">
+            <input type="text" class="form-control enviar-msg" placeholder="Sua mensagem">
+            <div class="input-group-append">
+              <button class="btn btn-outline-secondary" id="send-message" type="button">Enviar</button>
+            </div>
+          </div>
+        </div>
       </div>
 
     </div>
@@ -88,6 +100,31 @@
   <script src="./assets/js/jquery.min.js"></script>
   <script src="./assets/js/popper.min.js"></script>
   <script src="./assets/js/bootstrap.min.js"></script>
+
+  <script>
+
+    $("#send-message").click(function (e) {
+      e.preventDefault();
+      $.post("https://com-circular-ufrn.000webhostapp.com/api/inbox/create.php", JSON.stringify({
+        "mensagem": $("input").val(),
+        "usuario_id": "00000000",
+        "usuario_nome": "Professor Rank"
+      }))
+        .done((res) => {
+          $("input").val("")
+          $("#send-message").text("Enviado").attr("class", "btn btn-outline-success rounded-0 no-outline")
+        })
+        .fail((erro) => {
+          $("#send-message").text("Erro").attr("class", "btn btn-outline-danger rounded-0 no-outline")
+        })
+        .always(res => {
+          setTimeout(() => {
+            $("#send-message").text("Enviar").attr("class", "btn btn-outline-secondary")
+          }, 2000)
+        })
+    });
+
+  </script>
 
 </body>
 
