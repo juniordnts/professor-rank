@@ -99,7 +99,7 @@
           </p>
 
           <div class="input-group mb-3">
-            <input type="text" class="form-control enviar-msg" placeholder="Sua mensagem">
+            <input type="text" class="form-control enviar-msg" placeholder="Sua mensagem e email">
             <div class="input-group-append">
               <button class="btn btn-outline-secondary" id="send-message" type="button">Enviar</button>
             </div>
@@ -139,6 +139,7 @@
 
     $("#send-message").click(function (e) {
       e.preventDefault();
+      $("#send-message").text("Enviando...").attr("class", "btn btn-outline-secondary rounded-0 no-outline")
       $.post("https://com-circular-ufrn.000webhostapp.com/api/inbox/create.php", JSON.stringify({
         "mensagem": $("input").val(),
         "usuario_id": "00000000",
