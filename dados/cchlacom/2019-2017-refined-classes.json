@@ -1,0 +1,2755 @@
+{
+  "COM0194 - ARTES E TECNOLOGIAS": {
+    "Notas": [
+      6.2,
+      9.41,
+      9.56
+    ],
+    "Desvios": [
+      1.74,
+      1.41,
+      3.16
+    ],
+    "Docentes": [
+      "ADRIANO CHARLES DA SILVA CRUZ",
+      "CARMEN JOAQUINA RIVERA PARRA",
+      "VANESSA STEPHANIE DE AZEVEDO ARRUDA"
+    ],
+    "DesvioDeNotas": 1.5497741770980702,
+    "MediaDeNotas": 8.389999999999999,
+    "MediaDeDesvios": 2.1033333333333335,
+    "NotaMediana": 9.41
+  },
+  "COM0187 - HISTÓRIA E TEORIA DO CINEMA": {
+    "Notas": [
+      8.93,
+      8.99,
+      9.52,
+      9.67
+    ],
+    "Desvios": [
+      1.84,
+      2.24,
+      1.57,
+      1.32
+    ],
+    "Docentes": [
+      "ADRIANO CHARLES DA SILVA CRUZ",
+      "CARMEN JOAQUINA RIVERA PARRA",
+      "CARLOS ANTONIO DOS SANTOS SEGUNDO"
+    ],
+    "DesvioDeNotas": 0.32259688467187647,
+    "MediaDeNotas": 9.2775,
+    "MediaDeDesvios": 1.7425000000000002,
+    "NotaMediana": 9.52
+  },
+  "COM0243 - INTERPRETAÇÃO NO AUDIOVISUAL": {
+    "Notas": [
+      9.5
+    ],
+    "Desvios": [
+      1.92
+    ],
+    "Docentes": [
+      "ADRIANO CHARLES DA SILVA CRUZ"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.92,
+    "NotaMediana": 9.5
+  },
+  "COM0230 - COMUNICAÇÃO, DIREITOS HUMANOS E POLÍTICAS PÚBLICAS": {
+    "Notas": [
+      9.77
+    ],
+    "Desvios": [
+      1.45
+    ],
+    "Docentes": [
+      "ANTONINO CONDORELLI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.45,
+    "NotaMediana": 9.77
+  },
+  "COM0231 - TÓPICOS ESPECIAIS EM JORNALISMO": {
+    "Notas": [
+      9.46,
+      9.69,
+      9.73,
+      9.78
+    ],
+    "Desvios": [
+      1.42,
+      1.35,
+      1.41,
+      1.4
+    ],
+    "Docentes": [
+      "ANTONINO CONDORELLI",
+      "MICHELLE FERRET BADIALI"
+    ],
+    "DesvioDeNotas": 0.12257650672131215,
+    "MediaDeNotas": 9.665,
+    "MediaDeDesvios": 1.395,
+    "NotaMediana": 9.73
+  },
+  "COM0084 - COMUNICACAO E ARTES VISUAIS": {
+    "Notas": [
+      9.23,
+      9.45,
+      9.52,
+      9.73,
+      9.8
+    ],
+    "Desvios": [
+      1.73,
+      1.98,
+      1.87,
+      1.01,
+      1.51
+    ],
+    "Docentes": [
+      "BEN-HUR BERNARD PEREIRA COSTA",
+      "ADRIANO MEDEIROS COSTA",
+      "MICHELLE FERRET BADIALI",
+      "CARLOS ANTONIO DOS SANTOS SEGUNDO",
+      "LARA OVIDIO DE MEDEIROS RODRIGUES"
+    ],
+    "DesvioDeNotas": 0.20401960690090568,
+    "MediaDeNotas": 9.546000000000001,
+    "MediaDeDesvios": 1.6199999999999999,
+    "NotaMediana": 9.52
+  },
+  "COM0208 - COMUNICAÇÃO E ARTES VISUAIS": {
+    "Notas": [
+      9.57,
+      9.63,
+      9.65,
+      9.68,
+      9.7,
+      9.82
+    ],
+    "Desvios": [
+      1.68,
+      1.75,
+      1.39,
+      1.24,
+      1.51,
+      1.48
+    ],
+    "Docentes": [
+      "BEN-HUR BERNARD PEREIRA COSTA",
+      "ADRIANO MEDEIROS COSTA",
+      "LARA OVIDIO DE MEDEIROS RODRIGUES"
+    ],
+    "DesvioDeNotas": 0.07675719293112959,
+    "MediaDeNotas": 9.674999999999999,
+    "MediaDeDesvios": 1.508333333333333,
+    "NotaMediana": 9.68
+  },
+  "COM0211 - PROJETO GRÁFICO E EDITORAÇÃO": {
+    "Notas": [
+      9.39,
+      9.5,
+      9.65,
+      9.77
+    ],
+    "Desvios": [
+      1.66,
+      1.45,
+      1.8,
+      1.13
+    ],
+    "Docentes": [
+      "BEN-HUR BERNARD PEREIRA COSTA",
+      "CEZAR MACEDO BARROS"
+    ],
+    "DesvioDeNotas": 0.1444602021319364,
+    "MediaDeNotas": 9.5775,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.65
+  },
+  "COM0215 - SOCIOLOGIA DA COMUNICAÇÃO": {
+    "Notas": [
+      9.74
+    ],
+    "Desvios": [
+      1.25
+    ],
+    "Docentes": [
+      "BEN-HUR BERNARD PEREIRA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.74,
+    "MediaDeDesvios": 1.25,
+    "NotaMediana": 9.74
+  },
+  "COM0108 - DIRECAO DE PROGRAMAS RADIOFONICOS": {
+    "Notas": [
+      9.09,
+      9.36,
+      9.57,
+      9.63
+    ],
+    "Desvios": [
+      2.3,
+      1.49,
+      1.72,
+      1.37
+    ],
+    "Docentes": [
+      "BRUNO SERGIO FRANKLIN DE FARIAS GOMES",
+      "YGOR FELIPE PINTO",
+      "HELCIO PACHECO DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.2114680826980756,
+    "MediaDeNotas": 9.4125,
+    "MediaDeDesvios": 1.72,
+    "NotaMediana": 9.57
+  },
+  "COM0168 - DIREÇÃO DE ARTE": {
+    "Notas": [
+      8.9,
+      9.76,
+      9.81
+    ],
+    "Desvios": [
+      2.08,
+      1.41,
+      1.45
+    ],
+    "Docentes": [
+      "BRUNO SERGIO FRANKLIN DE FARIAS GOMES",
+      "CARLOS ANTONIO DOS SANTOS SEGUNDO"
+    ],
+    "DesvioDeNotas": 0.4176920715870324,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.6466666666666667,
+    "NotaMediana": 9.76
+  },
+  "COM0170 - LINGUAGEM MUSICAL": {
+    "Notas": [
+      8.97,
+      9.09,
+      9.12,
+      9.42
+    ],
+    "Desvios": [
+      2.02,
+      1.67,
+      1.98,
+      1.37
+    ],
+    "Docentes": [
+      "BRUNO SERGIO FRANKLIN DE FARIAS GOMES",
+      "EMILY GONZAGA DE ARAUJO",
+      "CARMEM DANIELLA SPINOLA DA HORA"
+    ],
+    "DesvioDeNotas": 0.16568041525780874,
+    "MediaDeNotas": 9.149999999999999,
+    "MediaDeDesvios": 1.76,
+    "NotaMediana": 9.12
+  },
+  "COM0166 - TÓPICOS ESPECIAIS EM TV": {
+    "Notas": [
+      9.34,
+      9.36,
+      9.58,
+      9.63,
+      9.93
+    ],
+    "Desvios": [
+      1.86,
+      1.52,
+      1.59,
+      1.25,
+      1.25
+    ],
+    "Docentes": [
+      "BRUNO SERGIO FRANKLIN DE FARIAS GOMES",
+      "JANAINE SIBELLE FREIRES AIRES",
+      "EMILY GONZAGA DE ARAUJO",
+      "YGOR FELIPE PINTO"
+    ],
+    "DesvioDeNotas": 0.21460661685977914,
+    "MediaDeNotas": 9.568000000000001,
+    "MediaDeDesvios": 1.494,
+    "NotaMediana": 9.58
+  },
+  "COM0169 - DIREÇÃO DE FOTOGRAFIA": {
+    "Notas": [
+      9.56,
+      9.75,
+      9.84
+    ],
+    "Desvios": [
+      1.54,
+      1.25,
+      1.35
+    ],
+    "Docentes": [
+      "CARLOS ANTONIO DOS SANTOS SEGUNDO"
+    ],
+    "DesvioDeNotas": 0.11671427600007704,
+    "MediaDeNotas": 9.716666666666667,
+    "MediaDeDesvios": 1.3800000000000001,
+    "NotaMediana": 9.75
+  },
+  "COM0192 - DIREÇÃO NO AUDIOVISUAL": {
+    "Notas": [
+      9.43,
+      9.76,
+      9.84
+    ],
+    "Desvios": [
+      1.31,
+      1.2,
+      1.63
+    ],
+    "Docentes": [
+      "CARLOS ANTONIO DOS SANTOS SEGUNDO",
+      "RAFAEL LEITE FREIRE"
+    ],
+    "DesvioDeNotas": 0.17745108872274892,
+    "MediaDeNotas": 9.676666666666668,
+    "MediaDeDesvios": 1.38,
+    "NotaMediana": 9.76
+  },
+  "COM0046 - ESTILOS JORNALISTICOS": {
+    "Notas": [
+      9.18,
+      9.56,
+      9.68,
+      9.82,
+      9.91
+    ],
+    "Desvios": [
+      1.22,
+      1.51,
+      1.76,
+      1.75,
+      1.14
+    ],
+    "Docentes": [
+      "CARMEM DANIELLA SPINOLA DA HORA",
+      "ANTONINO CONDORELLI",
+      "MICHELLE FERRET BADIALI"
+    ],
+    "DesvioDeNotas": 0.2547155275989277,
+    "MediaDeNotas": 9.629999999999999,
+    "MediaDeDesvios": 1.476,
+    "NotaMediana": 9.68
+  },
+  "COM0214 - LABORATÓRIO DE RADIOJORNALISMO": {
+    "Notas": [
+      9.55,
+      9.56,
+      9.59,
+      9.64,
+      9.66,
+      9.77,
+      9.87,
+      9.88,
+      9.89,
+      9.9,
+      9.9,
+      9.94,
+      9.94
+    ],
+    "Desvios": [
+      1.18,
+      1.44,
+      0.99,
+      1.51,
+      1.63,
+      1.35,
+      1.4,
+      0.95,
+      0.77,
+      1.1,
+      0.77,
+      1.35,
+      1.45
+    ],
+    "Docentes": [
+      "CARMEM DANIELLA SPINOLA DA HORA",
+      "CEZAR MACEDO BARROS",
+      "LARA OVIDIO DE MEDEIROS RODRIGUES"
+    ],
+    "DesvioDeNotas": 0.14715446941843946,
+    "MediaDeNotas": 9.776153846153848,
+    "MediaDeDesvios": 1.222307692307692,
+    "NotaMediana": 9.87
+  },
+  "COM0314 - PUBLICIDADE E CIDADANIA": {
+    "Notas": [
+      9.15,
+      9.36,
+      9.38,
+      9.62,
+      9.68,
+      9.72
+    ],
+    "Desvios": [
+      1.62,
+      1.73,
+      1.5,
+      1.6,
+      1.65,
+      1.33
+    ],
+    "Docentes": [
+      "CARMEM DANIELLA SPINOLA DA HORA",
+      "JOSENILDO SOARES BEZERRA",
+      "JANAINE SIBELLE FREIRES AIRES",
+      "RONALDO MENDES NEVES",
+      "FERNANDA ARIANE SILVA CARRERA"
+    ],
+    "DesvioDeNotas": 0.20426698215815486,
+    "MediaDeNotas": 9.485,
+    "MediaDeDesvios": 1.5716666666666665,
+    "NotaMediana": 9.62
+  },
+  "COM0224 - COMUNICAÇÃO INTEGRADA": {
+    "Notas": [
+      8.23,
+      8.49,
+      8.77
+    ],
+    "Desvios": [
+      2.47,
+      2.77,
+      2.45
+    ],
+    "Docentes": [
+      "DANIEL DANTAS LEMOS"
+    ],
+    "DesvioDeNotas": 0.2205044721138827,
+    "MediaDeNotas": 8.496666666666668,
+    "MediaDeDesvios": 2.5633333333333335,
+    "NotaMediana": 8.49
+  },
+  "COM0238 - ÉTICA JORNALÍSTICA": {
+    "Notas": [
+      8.99,
+      9.16,
+      9.23
+    ],
+    "Desvios": [
+      1.92,
+      1.91,
+      1.73
+    ],
+    "Docentes": [
+      "DANIEL DANTAS LEMOS"
+    ],
+    "DesvioDeNotas": 0.10077477638553989,
+    "MediaDeNotas": 9.126666666666667,
+    "MediaDeDesvios": 1.8533333333333335,
+    "NotaMediana": 9.16
+  },
+  "COM0038 - COMUNICACAO E OPINIAO PUBLICA": {
+    "Notas": [
+      8.3,
+      9.66,
+      9.67,
+      9.7,
+      9.77,
+      9.86,
+      9.99
+    ],
+    "Desvios": [
+      1.5,
+      1.63,
+      1.77,
+      1.48,
+      0.6,
+      2.21,
+      1
+    ],
+    "Docentes": [
+      "DANIEL RODRIGO MEIRINHO DE SOUZA",
+      "ANTONINO CONDORELLI",
+      "CARMEN JOAQUINA RIVERA PARRA",
+      "LADY DAYANA SILVA DE OLIVEIRA",
+      "CARMEM DANIELLA SPINOLA DA HORA",
+      "SEBASTIAO GUILHERME ALBANO DA COSTA",
+      "VANESSA STEPHANIE DE AZEVEDO ARRUDA"
+    ],
+    "DesvioDeNotas": 0.5275511388307604,
+    "MediaDeNotas": 9.564285714285715,
+    "MediaDeDesvios": 1.455714285714286,
+    "NotaMediana": 9.7
+  },
+  "COM0319 - FOTOGRAFIA PUBLICITÁRIA": {
+    "Notas": [
+      9.47,
+      9.79,
+      9.88,
+      9.88
+    ],
+    "Desvios": [
+      1.48,
+      1.72,
+      1.39,
+      1.12
+    ],
+    "Docentes": [
+      "DANIEL RODRIGO MEIRINHO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.1685971530008736,
+    "MediaDeNotas": 9.755,
+    "MediaDeDesvios": 1.4275,
+    "NotaMediana": 9.88
+  },
+  "COM0503 - LINGUAGEM FOTOGRÁFICA": {
+    "Notas": [
+      9.68,
+      9.74,
+      9.75,
+      9.84
+    ],
+    "Desvios": [
+      1.3,
+      1.19,
+      1.45,
+      1.25
+    ],
+    "Docentes": [
+      "DANIEL RODRIGO MEIRINHO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.05717298313014638,
+    "MediaDeNotas": 9.7525,
+    "MediaDeDesvios": 1.2975,
+    "NotaMediana": 9.75
+  },
+  "COM0137 - NOVAS TECNOLOGIAS DE COMUNICACAO": {
+    "Notas": [
+      8.94,
+      9.27,
+      9.3,
+      9.55,
+      9.82
+    ],
+    "Desvios": [
+      1.85,
+      1.94,
+      1.5,
+      1.6,
+      1.3
+    ],
+    "Docentes": [
+      "HELCIO PACHECO DE MEDEIROS",
+      "JOHN WILLIAN LOPES",
+      "VANESSA STEPHANIE DE AZEVEDO ARRUDA",
+      "RENATA ALVES DE ALBUQUERQUE OTHON",
+      "ALISSON GUTEMBERG DA SILVA SOUZA"
+    ],
+    "DesvioDeNotas": 0.29479484391691824,
+    "MediaDeNotas": 9.376,
+    "MediaDeDesvios": 1.6380000000000003,
+    "NotaMediana": 9.3
+  },
+  "COM0191 - RÁDIO III": {
+    "Notas": [
+      8.13,
+      9.25
+    ],
+    "Desvios": [
+      2.44,
+      1.24
+    ],
+    "Docentes": [
+      "HELCIO PACHECO DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.5599999999999996,
+    "MediaDeNotas": 8.690000000000001,
+    "MediaDeDesvios": 1.8399999999999999,
+    "NotaMediana": 9.25
+  },
+  "COM0259 - FOLKCOMUNICAÇÃO": {
+    "Notas": [
+      9.31
+    ],
+    "Desvios": [
+      1.33
+    ],
+    "Docentes": [
+      "ITAMAR DE MORAIS NOBRE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.31,
+    "MediaDeDesvios": 1.33,
+    "NotaMediana": 9.31
+  },
+  "COM0210 - FOTOJORNALISMO": {
+    "Notas": [
+      8.79,
+      8.91,
+      9.14,
+      9.28
+    ],
+    "Desvios": [
+      2.04,
+      1.76,
+      2.13,
+      1.75
+    ],
+    "Docentes": [
+      "ITAMAR DE MORAIS NOBRE",
+      "BRUNO SERGIO FRANKLIN DE FARIAS GOMES"
+    ],
+    "DesvioDeNotas": 0.1914418971907666,
+    "MediaDeNotas": 9.030000000000001,
+    "MediaDeDesvios": 1.92,
+    "NotaMediana": 9.14
+  },
+  "COM0163 - PESQUISA EM COMUNICAÇÃO": {
+    "Notas": [
+      8.89,
+      9.5
+    ],
+    "Desvios": [
+      1.36,
+      2.08
+    ],
+    "Docentes": [
+      "ITAMAR DE MORAIS NOBRE",
+      "JUCIANO DE SOUSA LACERDA"
+    ],
+    "DesvioDeNotas": 0.3049999999999997,
+    "MediaDeNotas": 9.195,
+    "MediaDeDesvios": 1.7200000000000002,
+    "NotaMediana": 9.5
+  },
+  "COM0066 - COMUNICAÇÃO PÚBLICA": {
+    "Notas": [
+      9.17,
+      9.19,
+      9.24,
+      9.24,
+      9.26
+    ],
+    "Desvios": [
+      1.83,
+      1.97,
+      1.91,
+      1.94,
+      1.43
+    ],
+    "Docentes": [
+      "IVAN MUSSA TAVARES GOMES",
+      "RAIMUNDA ALINE LUCENA GOMES",
+      "RUY ALKMIM ROCHA FILHO"
+    ],
+    "DesvioDeNotas": 0.034058772731852906,
+    "MediaDeNotas": 9.22,
+    "MediaDeDesvios": 1.816,
+    "NotaMediana": 9.24
+  },
+  "COM0064 - COMUNICAÇÃO, MÍDIAS E DIREITOS HUMANOS": {
+    "Notas": [
+      9.27,
+      9.29,
+      9.3,
+      9.52,
+      9.53,
+      9.64
+    ],
+    "Desvios": [
+      1.67,
+      1.75,
+      2.03,
+      1.74,
+      2.07,
+      1.91
+    ],
+    "Docentes": [
+      "IVAN MUSSA TAVARES GOMES",
+      "RAIMUNDA ALINE LUCENA GOMES",
+      "ADRIANO MEDEIROS COSTA",
+      "DANIEL RODRIGO MEIRINHO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.14384598244882166,
+    "MediaDeNotas": 9.424999999999999,
+    "MediaDeDesvios": 1.8616666666666666,
+    "NotaMediana": 9.52
+  },
+  "COM0601 - CULTURA BRASILEIRA": {
+    "Notas": [
+      9.28,
+      9.64
+    ],
+    "Desvios": [
+      1.93,
+      1.93
+    ],
+    "Docentes": [
+      "IVAN MUSSA TAVARES GOMES",
+      "MARCELO BOLSHAW GOMES"
+    ],
+    "DesvioDeNotas": 0.1800000000000006,
+    "MediaDeNotas": 9.46,
+    "MediaDeDesvios": 1.93,
+    "NotaMediana": 9.64
+  },
+  "COM0164 - ÉTICA E LEGISLAÇÃO DO AUDIOVISUAL": {
+    "Notas": [
+      8.92,
+      9.11,
+      9.4
+    ],
+    "Desvios": [
+      1.93,
+      1.97,
+      1.72
+    ],
+    "Docentes": [
+      "IVAN MUSSA TAVARES GOMES",
+      "DANIEL DANTAS LEMOS",
+      "RAIMUNDA ALINE LUCENA GOMES"
+    ],
+    "DesvioDeNotas": 0.19737161790783303,
+    "MediaDeNotas": 9.143333333333333,
+    "MediaDeDesvios": 1.8733333333333333,
+    "NotaMediana": 9.11
+  },
+  "COM0209 - LABORATÓRIO DE PLANEJAMENTO E PESQUISA EM JORNALISMO": {
+    "Notas": [
+      9.15,
+      9.23,
+      9.24,
+      9.6
+    ],
+    "Desvios": [
+      1.9,
+      2.01,
+      1.1,
+      1.48
+    ],
+    "Docentes": [
+      "JANAINA DIAS BARCELOS",
+      "ANTONINO CONDORELLI",
+      "EMILY GONZAGA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.1738533865071368,
+    "MediaDeNotas": 9.305,
+    "MediaDeDesvios": 1.6225,
+    "NotaMediana": 9.24
+  },
+  "COM0225 - PROJETO DE PESQUISA EM COMUNICAÇÃO E EM JORNALISMO": {
+    "Notas": [
+      8.41,
+      9.41
+    ],
+    "Desvios": [
+      1.46,
+      2.46
+    ],
+    "Docentes": [
+      "JANAINA DIAS BARCELOS"
+    ],
+    "DesvioDeNotas": 0.5,
+    "MediaDeNotas": 8.91,
+    "MediaDeDesvios": 1.96,
+    "NotaMediana": 9.41
+  },
+  "COM0190 - ECONOMIA POLÍTICA DO AUDIOVISUAL": {
+    "Notas": [
+      9.25,
+      9.47,
+      9.75,
+      9.78
+    ],
+    "Desvios": [
+      1.5,
+      1.67,
+      1.69,
+      1.12
+    ],
+    "Docentes": [
+      "JANAINE SIBELLE FREIRES AIRES",
+      "RODRIGO ALMEIDA FERREIRA",
+      "ALISSON GUTEMBERG DA SILVA SOUZA",
+      "CARLOS ANTONIO DOS SANTOS SEGUNDO"
+    ],
+    "DesvioDeNotas": 0.21718367802392494,
+    "MediaDeNotas": 9.5625,
+    "MediaDeDesvios": 1.4949999999999999,
+    "NotaMediana": 9.75
+  },
+  "COM0165 - FORMAÇÃO ECONÔMICA, SOCIAL E CULTURAL DO BRASIL": {
+    "Notas": [
+      9.07,
+      9.61,
+      9.7,
+      9.82,
+      9.87
+    ],
+    "Desvios": [
+      1.79,
+      1.61,
+      1.64,
+      1.69,
+      1.62
+    ],
+    "Docentes": [
+      "JANAINE SIBELLE FREIRES AIRES",
+      "CARMEM DANIELLA SPINOLA DA HORA",
+      "CARMEN JOAQUINA RIVERA PARRA",
+      "MARIA APARECIDA RAMOS DA SILVA"
+    ],
+    "DesvioDeNotas": 0.286817014836986,
+    "MediaDeNotas": 9.614,
+    "MediaDeDesvios": 1.6700000000000004,
+    "NotaMediana": 9.7
+  },
+  "COM0526 - PROJETO EXPERIMENTAL II": {
+    "Notas": [
+      9.57,
+      9.62,
+      9.81,
+      9.91
+    ],
+    "Desvios": [
+      1.83,
+      1.09,
+      1.12,
+      1.19
+    ],
+    "Docentes": [
+      "JOHN WILLIAN LOPES",
+      "VANESSA STEPHANIE DE AZEVEDO ARRUDA",
+      "DANIEL RODRIGO MEIRINHO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.1382705680902485,
+    "MediaDeNotas": 9.7275,
+    "MediaDeDesvios": 1.3075,
+    "NotaMediana": 9.81
+  },
+  "COM0304 - REDAÇÃO PUBLICITÁRIA NA MIDIA IMPRESSA": {
+    "Notas": [
+      7.21,
+      9.5,
+      9.53,
+      9.69
+    ],
+    "Desvios": [
+      1.65,
+      1.09,
+      2.5,
+      1.55
+    ],
+    "Docentes": [
+      "JOHN WILLIAN LOPES",
+      "VANESSA STEPHANIE DE AZEVEDO ARRUDA",
+      "FERNANDA ARIANE SILVA CARRERA"
+    ],
+    "DesvioDeNotas": 1.0258989960030176,
+    "MediaDeNotas": 8.9825,
+    "MediaDeDesvios": 1.6975,
+    "NotaMediana": 9.53
+  },
+  "COM0308 - REDAÇÃO PUBLICITÁRIA NA MIDIA SONORA": {
+    "Notas": [
+      9.07,
+      9.75,
+      9.82,
+      9.93
+    ],
+    "Desvios": [
+      2,
+      1.46,
+      0.98,
+      1.11
+    ],
+    "Docentes": [
+      "JOHN WILLIAN LOPES",
+      "MARCELA COSTA DA CUNHA CHACEL"
+    ],
+    "DesvioDeNotas": 0.3367027620914327,
+    "MediaDeNotas": 9.6425,
+    "MediaDeDesvios": 1.3875,
+    "NotaMediana": 9.82
+  },
+  "COM0303 - LINGUAGEM PUBLICITARIA": {
+    "Notas": [
+      9.21,
+      9.32,
+      9.46,
+      9.54
+    ],
+    "Desvios": [
+      2.02,
+      1.66,
+      1.56,
+      1.6
+    ],
+    "Docentes": [
+      "JOSENILDO SOARES BEZERRA",
+      "FERNANDA ARIANE SILVA CARRERA"
+    ],
+    "DesvioDeNotas": 0.12695963925594575,
+    "MediaDeNotas": 9.3825,
+    "MediaDeDesvios": 1.71,
+    "NotaMediana": 9.46
+  },
+  "COM0325 - PROJETO EXPERIMENTAL I": {
+    "Notas": [
+      8.63,
+      8.94,
+      8.95,
+      9.52,
+      9.69,
+      9.72
+    ],
+    "Desvios": [
+      1.84,
+      1.33,
+      1.15,
+      1.33,
+      1.64,
+      1.64
+    ],
+    "Docentes": [
+      "JOSENILDO SOARES BEZERRA",
+      "LUIZ FERNANDO DAL PIAN NOBRE",
+      "RONALDO MENDES NEVES",
+      "EMILY GONZAGA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.4198180822954416,
+    "MediaDeNotas": 9.241666666666665,
+    "MediaDeDesvios": 1.4883333333333333,
+    "NotaMediana": 9.52
+  },
+  "COM0202 - HISTÓRIA E TEORIAS DA COMUNICAÇÃO": {
+    "Notas": [
+      8.49,
+      8.57,
+      9.04,
+      9.25
+    ],
+    "Desvios": [
+      2.3,
+      2.25,
+      2.09,
+      1.83
+    ],
+    "Docentes": [
+      "JUCIANO DE SOUSA LACERDA",
+      "MARCELO BOLSHAW GOMES",
+      "ALISSON GUTEMBERG DA SILVA SOUZA"
+    ],
+    "DesvioDeNotas": 0.31759840994564165,
+    "MediaDeNotas": 8.8375,
+    "MediaDeDesvios": 2.1174999999999997,
+    "NotaMediana": 9.04
+  },
+  "COM0261 - TEORIA E HISTÓRIA DA COMUNICAÇÃO I": {
+    "Notas": [
+      9.03,
+      9.38
+    ],
+    "Desvios": [
+      2.01,
+      1.82
+    ],
+    "Docentes": [
+      "JUCIANO DE SOUSA LACERDA"
+    ],
+    "DesvioDeNotas": 0.1750000000000007,
+    "MediaDeNotas": 9.205,
+    "MediaDeDesvios": 1.915,
+    "NotaMediana": 9.38
+  },
+  "COM0212 - TEORIAS DO JORNALISMO": {
+    "Notas": [
+      7.28,
+      7.67,
+      8.67,
+      9.06
+    ],
+    "Desvios": [
+      3.29,
+      2.08,
+      3.32,
+      1.64
+    ],
+    "Docentes": [
+      "KENIA BEATRIZ FERREIRA MAIA"
+    ],
+    "DesvioDeNotas": 0.7218379319487167,
+    "MediaDeNotas": 8.17,
+    "MediaDeDesvios": 2.5825,
+    "NotaMediana": 8.67
+  },
+  "COM0228 - COMUNICAÇÃO POLÍTICA": {
+    "Notas": [
+      9.7,
+      9.77
+    ],
+    "Desvios": [
+      1.36,
+      1.64
+    ],
+    "Docentes": [
+      "LEILA SALIM LEAL",
+      "ADRIANO MEDEIROS COSTA"
+    ],
+    "DesvioDeNotas": 0.03500000000000014,
+    "MediaDeNotas": 9.735,
+    "MediaDeDesvios": 1.5,
+    "NotaMediana": 9.77
+  },
+  "COM0229 - EMPREENDEDORISMO E GESTÃO EM COMUNICAÇÃO E JORNALISMO": {
+    "Notas": [
+      9.66,
+      9.8
+    ],
+    "Desvios": [
+      1.24,
+      1.49
+    ],
+    "Docentes": [
+      "LEILA SALIM LEAL",
+      "RONALDO MENDES NEVES"
+    ],
+    "DesvioDeNotas": 0.07000000000000028,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.365,
+    "NotaMediana": 9.8
+  },
+  "COM0226 - LABORATÓRIO DE AUDIOVISUAL": {
+    "Notas": [
+      7.61,
+      9.5
+    ],
+    "Desvios": [
+      1.68,
+      2.71
+    ],
+    "Docentes": [
+      "LEILA SALIM LEAL",
+      "LIVIA CIRNE DE AZEVEDO PEREIRA"
+    ],
+    "DesvioDeNotas": 0.9449999999999998,
+    "MediaDeNotas": 8.555,
+    "MediaDeDesvios": 2.195,
+    "NotaMediana": 9.5
+  },
+  "COM0216 - TECNOLOGIAS DIGITAIS": {
+    "Notas": [
+      8.86,
+      9.05,
+      9.37,
+      9.45
+    ],
+    "Desvios": [
+      2.12,
+      1.9,
+      1.62,
+      1.6
+    ],
+    "Docentes": [
+      "LEILA SALIM LEAL",
+      "LIVIA CIRNE DE AZEVEDO PEREIRA",
+      "EMILY GONZAGA DE ARAUJO",
+      "LADY DAYANA SILVA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.2388906653680714,
+    "MediaDeNotas": 9.1825,
+    "MediaDeDesvios": 1.81,
+    "NotaMediana": 9.37
+  },
+  "COM0306 - ESTÉTICA E PUBLICIDADE": {
+    "Notas": [
+      8.07,
+      8.98,
+      9.18,
+      9.92
+    ],
+    "Desvios": [
+      1.91,
+      1.43,
+      1.74,
+      2.14
+    ],
+    "Docentes": [
+      "LILIAN CARLA MUNEIRO",
+      "ANTONINO CONDORELLI"
+    ],
+    "DesvioDeNotas": 0.659256209678756,
+    "MediaDeNotas": 9.0375,
+    "MediaDeDesvios": 1.8050000000000002,
+    "NotaMediana": 9.18
+  },
+  "COM0320 - PROJETO DE PESQUISA I": {
+    "Notas": [
+      8.7,
+      8.98,
+      9.06,
+      9.21
+    ],
+    "Desvios": [
+      1.98,
+      2.14,
+      1.92,
+      1.55
+    ],
+    "Docentes": [
+      "LILIAN CARLA MUNEIRO",
+      "JOSENILDO SOARES BEZERRA",
+      "LADY DAYANA SILVA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.1853881064146247,
+    "MediaDeNotas": 8.9875,
+    "MediaDeDesvios": 1.8975,
+    "NotaMediana": 9.06
+  },
+  "COM0262 - TEORIA E HISTÓRIA DA COMUNICAÇÃO II": {
+    "Notas": [
+      8.73
+    ],
+    "Desvios": [
+      2.23
+    ],
+    "Docentes": [
+      "LILIAN CARLA MUNEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.73,
+    "MediaDeDesvios": 2.23,
+    "NotaMediana": 8.73
+  },
+  "COM0219 - PROGRAMAÇÃO PARA MÍDIAS INTERATIVAS": {
+    "Notas": [
+      9.08,
+      9.4,
+      9.51
+    ],
+    "Desvios": [
+      2.15,
+      1.79,
+      1.77
+    ],
+    "Docentes": [
+      "LIVIA CIRNE DE AZEVEDO PEREIRA",
+      "RENATA ALVES DE ALBUQUERQUE OTHON"
+    ],
+    "DesvioDeNotas": 0.18239152027072597,
+    "MediaDeNotas": 9.33,
+    "MediaDeDesvios": 1.9033333333333333,
+    "NotaMediana": 9.4
+  },
+  "COM0232 - REPORTAGEM MULTIMÍDIA": {
+    "Notas": [
+      8.31
+    ],
+    "Desvios": [
+      2.5
+    ],
+    "Docentes": [
+      "LIVIA CIRNE DE AZEVEDO PEREIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.31,
+    "MediaDeDesvios": 2.5,
+    "NotaMediana": 8.31
+  },
+  "COM0316 - EMPREENDEDORISMO E PUBLICIDADE E PROPAGANDA": {
+    "Notas": [
+      9.33,
+      9.4,
+      9.43,
+      9.67
+    ],
+    "Desvios": [
+      1.79,
+      1.93,
+      2.26,
+      1.14
+    ],
+    "Docentes": [
+      "LUIS ROBERTO ROSSI DEL CARRATORE",
+      "VANESSA STEPHANIE DE AZEVEDO ARRUDA"
+    ],
+    "DesvioDeNotas": 0.1279404158192398,
+    "MediaDeNotas": 9.4575,
+    "MediaDeDesvios": 1.7799999999999998,
+    "NotaMediana": 9.43
+  },
+  "COM0321 - PROJETO DE PESQUISA II": {
+    "Notas": [
+      9.4,
+      9.45,
+      9.48,
+      9.51
+    ],
+    "Desvios": [
+      1.7,
+      1.85,
+      1.94,
+      1.35
+    ],
+    "Docentes": [
+      "LUIS ROBERTO ROSSI DEL CARRATORE",
+      "ALISSON GUTEMBERG DA SILVA SOUZA"
+    ],
+    "DesvioDeNotas": 0.0406201920231797,
+    "MediaDeNotas": 9.46,
+    "MediaDeDesvios": 1.71,
+    "NotaMediana": 9.48
+  },
+  "COM0154 - TECNICAS DE VEICULACAO": {
+    "Notas": [
+      9.39,
+      9.44,
+      9.66,
+      9.66,
+      9.73,
+      9.73
+    ],
+    "Desvios": [
+      1.59,
+      1.53,
+      1.95,
+      1.63,
+      1.76,
+      1.2
+    ],
+    "Docentes": [
+      "LUIS ROBERTO ROSSI DEL CARRATORE",
+      "BRUNO SERGIO FRANKLIN DE FARIAS GOMES",
+      "LADY DAYANA SILVA DE OLIVEIRA",
+      "RODRIGO PARRON SANTOS"
+    ],
+    "DesvioDeNotas": 0.13582055154586234,
+    "MediaDeNotas": 9.601666666666667,
+    "MediaDeDesvios": 1.61,
+    "NotaMediana": 9.66
+  },
+  "COM0302 - CRIAÇÃO PUBLICITÁRIA": {
+    "Notas": [
+      9.73,
+      9.8,
+      9.87,
+      9.96
+    ],
+    "Desvios": [
+      1.38,
+      1.19,
+      1.02,
+      1.5
+    ],
+    "Docentes": [
+      "LUIZ FERNANDO DAL PIAN NOBRE"
+    ],
+    "DesvioDeNotas": 0.08514693182963201,
+    "MediaDeNotas": 9.84,
+    "MediaDeDesvios": 1.2725,
+    "NotaMediana": 9.87
+  },
+  "COM0300 - DIREÇÃO DE ARTE EM PUBLICIDADE E PROPAGANDA": {
+    "Notas": [
+      9.6,
+      9.66,
+      9.72,
+      9.89
+    ],
+    "Desvios": [
+      1.38,
+      1.21,
+      1.37,
+      0.96
+    ],
+    "Docentes": [
+      "LUIZ FERNANDO DAL PIAN NOBRE"
+    ],
+    "DesvioDeNotas": 0.10825317547305513,
+    "MediaDeNotas": 9.717500000000001,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.72
+  },
+  "COM0328 - LEGISLAÇÃO E ÉTICA DE PUBLICIDADE E PROPAGANDA": {
+    "Notas": [
+      9.03,
+      9.6,
+      9.72,
+      9.73
+    ],
+    "Desvios": [
+      1.45,
+      1.34,
+      1.67,
+      1.44
+    ],
+    "Docentes": [
+      "MARCELA COSTA DA CUNHA CHACEL",
+      "VANESSA STEPHANIE DE AZEVEDO ARRUDA"
+    ],
+    "DesvioDeNotas": 0.28748913022930145,
+    "MediaDeNotas": 9.520000000000001,
+    "MediaDeDesvios": 1.475,
+    "NotaMediana": 9.72
+  },
+  "COM0317 - PLANEJAMENTO DE CAMPANHAS": {
+    "Notas": [
+      9.63,
+      9.71,
+      9.89,
+      9.89
+    ],
+    "Desvios": [
+      1.42,
+      1.08,
+      1.32,
+      0.96
+    ],
+    "Docentes": [
+      "MARCELA COSTA DA CUNHA CHACEL"
+    ],
+    "DesvioDeNotas": 0.11357816691600536,
+    "MediaDeNotas": 9.780000000000001,
+    "MediaDeDesvios": 1.195,
+    "NotaMediana": 9.89
+  },
+  "COM0505 - SOCIOLOGIA DA COMUNICAÇÃO": {
+    "Notas": [
+      9.48,
+      9.55,
+      9.61,
+      9.89
+    ],
+    "Desvios": [
+      1.46,
+      1.63,
+      1.65,
+      1.52
+    ],
+    "Docentes": [
+      "MARCELA COSTA DA CUNHA CHACEL",
+      "LUIZ FERNANDO DAL PIAN NOBRE"
+    ],
+    "DesvioDeNotas": 0.1556237449748592,
+    "MediaDeNotas": 9.6325,
+    "MediaDeDesvios": 1.565,
+    "NotaMediana": 9.61
+  },
+  "COM0239 - CULTURA DA IMAGEM NA CONTEMPORANEIDADE": {
+    "Notas": [
+      9.49
+    ],
+    "Desvios": [
+      1.7
+    ],
+    "Docentes": [
+      "MARCELO BOLSHAW GOMES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.7,
+    "NotaMediana": 9.49
+  },
+  "COM0280 - OFICINA DE REDAÇÃO CRIATIVA": {
+    "Notas": [
+      8.52,
+      9.22,
+      9.36
+    ],
+    "Desvios": [
+      1.99,
+      1.72,
+      1.9
+    ],
+    "Docentes": [
+      "MARCELO BOLSHAW GOMES",
+      "JANAINA DIAS BARCELOS",
+      "MICHELLE FERRET BADIALI"
+    ],
+    "DesvioDeNotas": 0.367453700787218,
+    "MediaDeNotas": 9.033333333333333,
+    "MediaDeDesvios": 1.8699999999999999,
+    "NotaMediana": 9.22
+  },
+  "COM0179 - TV I": {
+    "Notas": [
+      8.85,
+      9.11,
+      9.21,
+      9.22,
+      9.37
+    ],
+    "Desvios": [
+      2.36,
+      1.87,
+      2.05,
+      1.85,
+      1.77
+    ],
+    "Docentes": [
+      "MARIA ANGELA PAVAN",
+      "CARMEN JOAQUINA RIVERA PARRA"
+    ],
+    "DesvioDeNotas": 0.17232527382830418,
+    "MediaDeNotas": 9.152,
+    "MediaDeDesvios": 1.98,
+    "NotaMediana": 9.21
+  },
+  "COM0206 - HISTÓRIA E LEGISLAÇÃO DO JORNALISMO": {
+    "Notas": [
+      9.56,
+      9.59,
+      9.64,
+      9.82,
+      9.88
+    ],
+    "Desvios": [
+      1.65,
+      1.8,
+      1.81,
+      1.14,
+      1.33
+    ],
+    "Docentes": [
+      "MARIA DO SOCORRO FURTADO VELOSO",
+      "CEZAR MACEDO BARROS"
+    ],
+    "DesvioDeNotas": 0.12812493902437588,
+    "MediaDeNotas": 9.698000000000002,
+    "MediaDeDesvios": 1.5459999999999998,
+    "NotaMediana": 9.64
+  },
+  "COM0205 - LABORATÓRIO DE LINGUAGEM JORNALÍSTICA": {
+    "Notas": [
+      9.49,
+      9.63,
+      9.68,
+      9.73,
+      9.74,
+      9.91
+    ],
+    "Desvios": [
+      1.86,
+      1.63,
+      1.42,
+      1.64,
+      1.58,
+      1.42
+    ],
+    "Docentes": [
+      "MARIA DO SOCORRO FURTADO VELOSO",
+      "ANTONINO CONDORELLI",
+      "MICHELLE FERRET BADIALI"
+    ],
+    "DesvioDeNotas": 0.12644717825593765,
+    "MediaDeNotas": 9.696666666666667,
+    "MediaDeDesvios": 1.5916666666666666,
+    "NotaMediana": 9.73
+  },
+  "COM0060 - LEGISLACAO JORNALISTICA": {
+    "Notas": [
+      9.32,
+      9.68,
+      9.79,
+      9.84,
+      9.9
+    ],
+    "Desvios": [
+      0.96,
+      1.49,
+      1.51,
+      1.26,
+      1.13
+    ],
+    "Docentes": [
+      "MARIA DO SOCORRO FURTADO VELOSO",
+      "CEZAR MACEDO BARROS",
+      "VALQUIRIA APARECIDA PASSOS KNEIPP",
+      "CARMEM DANIELLA SPINOLA DA HORA"
+    ],
+    "DesvioDeNotas": 0.20606794995826,
+    "MediaDeNotas": 9.706,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.79
+  },
+  "COM0183 - DRAMATURGIA E ROTEIRO": {
+    "Notas": [
+      9.15,
+      9.15,
+      9.62,
+      9.66
+    ],
+    "Desvios": [
+      1.49,
+      1.79,
+      1.85,
+      1.1
+    ],
+    "Docentes": [
+      "MIRIAN MOEMA FILGUEIRA PINHEIRO"
+    ],
+    "DesvioDeNotas": 0.2454078238361602,
+    "MediaDeNotas": 9.395,
+    "MediaDeDesvios": 1.5575,
+    "NotaMediana": 9.62
+  },
+  "COM0223 - LABORATÓRIO DE TELEJORNALISMO": {
+    "Notas": [
+      6.89,
+      8.97,
+      9.05,
+      9.23,
+      9.27,
+      9.39,
+      9.5,
+      9.57,
+      9.57,
+      9.66,
+      9.72
+    ],
+    "Desvios": [
+      1.75,
+      2,
+      2.82,
+      1.67,
+      1.54,
+      1.36,
+      2.26,
+      1.51,
+      0.96,
+      1.37,
+      1.67
+    ],
+    "Docentes": [
+      "MIRIAN MOEMA FILGUEIRA PINHEIRO",
+      "LIVIA CIRNE DE AZEVEDO PEREIRA",
+      "EMILY GONZAGA DE ARAUJO",
+      "VALQUIRIA APARECIDA PASSOS KNEIPP"
+    ],
+    "DesvioDeNotas": 0.7559504990571762,
+    "MediaDeNotas": 9.165454545454544,
+    "MediaDeDesvios": 1.7190909090909094,
+    "NotaMediana": 9.39
+  },
+  "COM0188 - EDIÇÃO E MONTAGEM NO AUDIOVISUAL": {
+    "Notas": [
+      9.32,
+      9.32,
+      9.44,
+      9.48,
+      9.49
+    ],
+    "Desvios": [
+      1.87,
+      1.88,
+      1.66,
+      1.88,
+      1.56
+    ],
+    "Docentes": [
+      "RODRIGO ALMEIDA FERREIRA",
+      "YGOR FELIPE PINTO",
+      "RAFAELA BERNARDAZZI TORRENS LEITE"
+    ],
+    "DesvioDeNotas": 0.07536577472566704,
+    "MediaDeNotas": 9.41,
+    "MediaDeDesvios": 1.77,
+    "NotaMediana": 9.44
+  },
+  "COM0167 - FOTOGRAFIA": {
+    "Notas": [
+      8.55,
+      8.84,
+      8.89,
+      9.4
+    ],
+    "Desvios": [
+      1.69,
+      1.88,
+      2.23,
+      1.75
+    ],
+    "Docentes": [
+      "RODRIGO ALMEIDA FERREIRA",
+      "CARMEN JOAQUINA RIVERA PARRA",
+      "ITAMAR DE MORAIS NOBRE"
+    ],
+    "DesvioDeNotas": 0.30602287496198705,
+    "MediaDeNotas": 8.920000000000002,
+    "MediaDeDesvios": 1.8875,
+    "NotaMediana": 8.89
+  },
+  "COM0185 - TEORIAS DAS IMAGENS": {
+    "Notas": [
+      9.57,
+      9.7,
+      9.75
+    ],
+    "Desvios": [
+      1.3,
+      1.78,
+      1.1
+    ],
+    "Docentes": [
+      "RODRIGO ALMEIDA FERREIRA",
+      "ADRIANO MEDEIROS COSTA"
+    ],
+    "DesvioDeNotas": 0.07586537784494006,
+    "MediaDeNotas": 9.673333333333334,
+    "MediaDeDesvios": 1.3933333333333333,
+    "NotaMediana": 9.7
+  },
+  "COM0105 - COMUNICACAO E MARKETING": {
+    "Notas": [
+      9.23,
+      9.25,
+      9.49,
+      9.51,
+      9.73
+    ],
+    "Desvios": [
+      1.66,
+      1.73,
+      1.12,
+      1.39,
+      1.69
+    ],
+    "Docentes": [
+      "RODRIGO PARRON SANTOS",
+      "LADY DAYANA SILVA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.18529975715040756,
+    "MediaDeNotas": 9.441999999999998,
+    "MediaDeDesvios": 1.518,
+    "NotaMediana": 9.49
+  },
+  "COM0263 - REDAÇÃO PUBLICITÁRIA I": {
+    "Notas": [
+      9.19
+    ],
+    "Desvios": [
+      2.01
+    ],
+    "Docentes": [
+      "RODRIGO PARRON SANTOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.19,
+    "MediaDeDesvios": 2.01,
+    "NotaMediana": 9.19
+  },
+  "COM0360 - REDAÇÃO PUBLICITÁRIA NA MIDIA ELETRÔNICA": {
+    "Notas": [
+      7.97,
+      8.94,
+      9.56,
+      9.74
+    ],
+    "Desvios": [
+      1.43,
+      1.82,
+      2.82,
+      1.09
+    ],
+    "Docentes": [
+      "RODRIGO PARRON SANTOS"
+    ],
+    "DesvioDeNotas": 0.6918589090269781,
+    "MediaDeNotas": 9.0525,
+    "MediaDeDesvios": 1.79,
+    "NotaMediana": 9.56
+  },
+  "COM0117 - GESTAO EM COMUNICACAO": {
+    "Notas": [
+      8.77,
+      9.28,
+      9.3,
+      9.41,
+      9.43,
+      9.49,
+      9.51,
+      9.52,
+      9.54,
+      9.81
+    ],
+    "Desvios": [
+      1.66,
+      1.64,
+      1.45,
+      1.93,
+      1.18,
+      1.39,
+      1.41,
+      1.67,
+      1.21,
+      1.4
+    ],
+    "Docentes": [
+      "RONALDO MENDES NEVES",
+      "YGOR FELIPE PINTO",
+      "LADY DAYANA SILVA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.25381883302859953,
+    "MediaDeNotas": 9.406,
+    "MediaDeDesvios": 1.494,
+    "NotaMediana": 9.49
+  },
+  "COM0189 - DOCUMENTÁRIO": {
+    "Notas": [
+      8.85,
+      8.88,
+      8.98,
+      9.3
+    ],
+    "Desvios": [
+      2.23,
+      1.59,
+      1.93,
+      1.9
+    ],
+    "Docentes": [
+      "RUY ALKMIM ROCHA FILHO"
+    ],
+    "DesvioDeNotas": 0.17837810964353246,
+    "MediaDeNotas": 9.0025,
+    "MediaDeDesvios": 1.9125,
+    "NotaMediana": 8.98
+  },
+  "COM0245 - LINGUAGEM AUDIOVISUAL": {
+    "Notas": [
+      8.97,
+      9.35,
+      9.54,
+      9.9
+    ],
+    "Desvios": [
+      2.36,
+      1.42,
+      2.26,
+      0.74
+    ],
+    "Docentes": [
+      "RUY ALKMIM ROCHA FILHO",
+      "RAFAEL LEITE FREIRE",
+      "BRUNO SERGIO FRANKLIN DE FARIAS GOMES",
+      "CARLOS ANTONIO DOS SANTOS SEGUNDO"
+    ],
+    "DesvioDeNotas": 0.33563372893676807,
+    "MediaDeNotas": 9.44,
+    "MediaDeDesvios": 1.6949999999999998,
+    "NotaMediana": 9.54
+  },
+  "COM0182 - TV II": {
+    "Notas": [
+      8.98,
+      9.06,
+      9.17,
+      9.25
+    ],
+    "Desvios": [
+      2.17,
+      1.92,
+      2.1,
+      1.8
+    ],
+    "Docentes": [
+      "RUY ALKMIM ROCHA FILHO"
+    ],
+    "DesvioDeNotas": 0.1030776406404413,
+    "MediaDeNotas": 9.115000000000002,
+    "MediaDeDesvios": 1.9974999999999998,
+    "NotaMediana": 9.17
+  },
+  "COM0178 - HISTÓRIA E TEORIA DA COMUNICAÇÃO I": {
+    "Notas": [
+      7.62,
+      9.15,
+      9.22,
+      9.77,
+      9.8
+    ],
+    "Desvios": [
+      2.75,
+      2.09,
+      1.45,
+      1.45,
+      1.79
+    ],
+    "Docentes": [
+      "SEBASTIAO GUILHERME ALBANO DA COSTA",
+      "ALISSON GUTEMBERG DA SILVA SOUZA",
+      "YGOR FELIPE PINTO"
+    ],
+    "DesvioDeNotas": 0.793155722415214,
+    "MediaDeNotas": 9.111999999999998,
+    "MediaDeDesvios": 1.9060000000000001,
+    "NotaMediana": 9.22
+  },
+  "COM0186 - HISTÓRIA E TEORIA DA COMUNICAÇÃO II": {
+    "Notas": [
+      8.24,
+      8.54,
+      9.07,
+      9.42
+    ],
+    "Desvios": [
+      2.6,
+      1.5,
+      2.43,
+      1.57
+    ],
+    "Docentes": [
+      "SEBASTIAO GUILHERME ALBANO DA COSTA",
+      "MARCELO BOLSHAW GOMES"
+    ],
+    "DesvioDeNotas": 0.45751366099822643,
+    "MediaDeNotas": 8.817499999999999,
+    "MediaDeDesvios": 2.025,
+    "NotaMediana": 9.07
+  },
+  "COM0255 - JORNALISMO LITERÁRIO": {
+    "Notas": [
+      8.73
+    ],
+    "Desvios": [
+      2.4
+    ],
+    "Docentes": [
+      "SEBASTIAO GUILHERME ALBANO DA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.73,
+    "MediaDeDesvios": 2.4,
+    "NotaMediana": 8.73
+  },
+  "COM0504 - MÍDIA DIGITAL": {
+    "Notas": [
+      7.31,
+      9.12,
+      9.22,
+      9.49
+    ],
+    "Desvios": [
+      2.71,
+      1.77,
+      1.74,
+      1.66
+    ],
+    "Docentes": [
+      "TACIANA DE LIMA BURGOS",
+      "RENATA ALVES DE ALBUQUERQUE OTHON",
+      "MICHELLE FERRET BADIALI",
+      "CARMEM DANIELLA SPINOLA DA HORA"
+    ],
+    "DesvioDeNotas": 0.8622789571826512,
+    "MediaDeNotas": 8.785,
+    "MediaDeDesvios": 1.9700000000000002,
+    "NotaMediana": 9.22
+  },
+  "COM0313 - PUBLICIDADE ON-LINE": {
+    "Notas": [
+      8.89,
+      9.32,
+      9.38,
+      9.53
+    ],
+    "Desvios": [
+      1.34,
+      1.75,
+      1.41,
+      1.7
+    ],
+    "Docentes": [
+      "TACIANA DE LIMA BURGOS",
+      "BRUNO SERGIO FRANKLIN DE FARIAS GOMES",
+      "VANESSA STEPHANIE DE AZEVEDO ARRUDA",
+      "CARMEM DANIELLA SPINOLA DA HORA"
+    ],
+    "DesvioDeNotas": 0.237802439011882,
+    "MediaDeNotas": 9.280000000000001,
+    "MediaDeDesvios": 1.55,
+    "NotaMediana": 9.38
+  },
+  "COM0001 - TEORIA DA COMUNICACAO I": {
+    "Notas": [
+      8.96,
+      9.1,
+      9.33
+    ],
+    "Desvios": [
+      1.5,
+      1.94,
+      1.28
+    ],
+    "Docentes": [
+      "TACIANA DE LIMA BURGOS",
+      "ALISSON GUTEMBERG DA SILVA SOUZA",
+      "MARCELO BOLSHAW GOMES"
+    ],
+    "DesvioDeNotas": 0.1525341491819671,
+    "MediaDeNotas": 9.13,
+    "MediaDeDesvios": 1.5733333333333333,
+    "NotaMediana": 9.1
+  },
+  "COM0199 - COMUNICAÇÃO, CULTURA E SOCIEDADE": {
+    "Notas": [
+      9.49
+    ],
+    "Desvios": [
+      1.89
+    ],
+    "Docentes": [
+      "VALQUIRIA APARECIDA PASSOS KNEIPP"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.89,
+    "NotaMediana": 9.49
+  },
+  "COM0157 - TEMAS ESPECIAIS EM JORNALISMO": {
+    "Notas": [
+      9.26,
+      9.3
+    ],
+    "Desvios": [
+      0.95,
+      2.14
+    ],
+    "Docentes": [
+      "VALQUIRIA APARECIDA PASSOS KNEIPP"
+    ],
+    "DesvioDeNotas": 0.020000000000000462,
+    "MediaDeNotas": 9.280000000000001,
+    "MediaDeDesvios": 1.545,
+    "NotaMediana": 9.3
+  },
+  "COM0181 - RÁDIO I": {
+    "Notas": [
+      8.85,
+      9.22,
+      9.31,
+      9.5,
+      9.6
+    ],
+    "Desvios": [
+      2.16,
+      1.93,
+      2.04,
+      1.75,
+      1.8
+    ],
+    "Docentes": [
+      "YGOR FELIPE PINTO",
+      "RAFAEL LEITE FREIRE",
+      "LUCIANA MIRANDA COSTA"
+    ],
+    "DesvioDeNotas": 0.2603536056980967,
+    "MediaDeNotas": 9.296000000000001,
+    "MediaDeDesvios": 1.936,
+    "NotaMediana": 9.31
+  },
+  "COM0184 - RÁDIO II": {
+    "Notas": [
+      9.15,
+      9.23,
+      9.38,
+      9.48,
+      9.48
+    ],
+    "Desvios": [
+      1.61,
+      1.52,
+      1.99,
+      1.78,
+      1.68
+    ],
+    "Docentes": [
+      "YGOR FELIPE PINTO",
+      "RAFAEL LEITE FREIRE",
+      "LUCIANA MIRANDA COSTA"
+    ],
+    "DesvioDeNotas": 0.13335666462535725,
+    "MediaDeNotas": 9.344,
+    "MediaDeDesvios": 1.716,
+    "NotaMediana": 9.38
+  },
+  "COM0197 - TRILHA SONORA": {
+    "Notas": [
+      9.18
+    ],
+    "Desvios": [
+      1.8
+    ],
+    "Docentes": [
+      "YGOR FELIPE PINTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.18,
+    "MediaDeDesvios": 1.8,
+    "NotaMediana": 9.18
+  },
+  "COM0116 - FOTOJORNALISMO": {
+    "Notas": [
+      8.99,
+      9.36,
+      9.64
+    ],
+    "Desvios": [
+      1.97,
+      1.5,
+      1.51
+    ],
+    "Docentes": [
+      "BRUNO SERGIO FRANKLIN DE FARIAS GOMES",
+      "ITAMAR DE MORAIS NOBRE"
+    ],
+    "DesvioDeNotas": 0.2662079387746855,
+    "MediaDeNotas": 9.33,
+    "MediaDeDesvios": 1.66,
+    "NotaMediana": 9.36
+  },
+  "COM0283 - ESTUDOS DIRIGIDOS EM JORNALISMO": {
+    "Notas": [
+      9.4,
+      9.67
+    ],
+    "Desvios": [
+      1.27,
+      1.43
+    ],
+    "Docentes": [
+      "CARMEM DANIELLA SPINOLA DA HORA",
+      "KENIA BEATRIZ FERREIRA MAIA"
+    ],
+    "DesvioDeNotas": 0.1349999999999998,
+    "MediaDeNotas": 9.535,
+    "MediaDeDesvios": 1.35,
+    "NotaMediana": 9.67
+  },
+  "COM0130 - LEGISLACAO NO RADIALISMO": {
+    "Notas": [
+      9.57,
+      9.94
+    ],
+    "Desvios": [
+      1.07,
+      1.43
+    ],
+    "Docentes": [
+      "CEZAR MACEDO BARROS",
+      "RAIMUNDA ALINE LUCENA GOMES"
+    ],
+    "DesvioDeNotas": 0.1849999999999996,
+    "MediaDeNotas": 9.754999999999999,
+    "MediaDeDesvios": 1.25,
+    "NotaMediana": 9.94
+  },
+  "COM0162 - ETICA JORNALISTICA": {
+    "Notas": [
+      8.91,
+      9.24,
+      9.41
+    ],
+    "Desvios": [
+      1.96,
+      1.99,
+      1.73
+    ],
+    "Docentes": [
+      "DANIEL DANTAS LEMOS"
+    ],
+    "DesvioDeNotas": 0.2075786330258702,
+    "MediaDeNotas": 9.186666666666666,
+    "MediaDeDesvios": 1.8933333333333333,
+    "NotaMediana": 9.24
+  },
+  "COM0088 - INTRODUCAO AO JORNALISMO": {
+    "Notas": [
+      8.38,
+      9.63
+    ],
+    "Desvios": [
+      1.49,
+      1.82
+    ],
+    "Docentes": [
+      "EMILY GONZAGA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.625,
+    "MediaDeNotas": 9.005,
+    "MediaDeDesvios": 1.655,
+    "NotaMediana": 9.63
+  },
+  "COM0193 - TÓPICOS ESPECIAIS EM RÁDIO": {
+    "Notas": [
+      9.48
+    ],
+    "Desvios": [
+      1.58
+    ],
+    "Docentes": [
+      "HELCIO PACHECO DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 1.58,
+    "NotaMediana": 9.48
+  },
+  "COM0307 - COMUNICAÇÃO E CULTURA": {
+    "Notas": [
+      9.52,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.41,
+      1.28,
+      1.3
+    ],
+    "Docentes": [
+      "JANAINE SIBELLE FREIRES AIRES",
+      "FERNANDA ARIANE SILVA CARRERA"
+    ],
+    "DesvioDeNotas": 0.14636332266733454,
+    "MediaDeNotas": 9.726666666666667,
+    "MediaDeDesvios": 1.33,
+    "NotaMediana": 9.82
+  },
+  "COM0284 - ESTUDOS DIRIGIDOS EM PUBLICIDADE": {
+    "Notas": [
+      8.03
+    ],
+    "Desvios": [
+      2.63
+    ],
+    "Docentes": [
+      "JOSENILDO SOARES BEZERRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.03,
+    "MediaDeDesvios": 2.63,
+    "NotaMediana": 8.03
+  },
+  "COM0090 - SEMIOTICA DA COMUNICACAO": {
+    "Notas": [
+      9.51
+    ],
+    "Desvios": [
+      1.58
+    ],
+    "Docentes": [
+      "LILIAN CARLA MUNEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.51,
+    "MediaDeDesvios": 1.58,
+    "NotaMediana": 9.51
+  },
+  "COM0039 - SEMIOTICA E ESTET.COMUNICACAO": {
+    "Notas": [
+      9.16,
+      9.25,
+      9.41
+    ],
+    "Desvios": [
+      1.89,
+      1.7,
+      1.75
+    ],
+    "Docentes": [
+      "LILIAN CARLA MUNEIRO"
+    ],
+    "DesvioDeNotas": 0.10338708279513882,
+    "MediaDeNotas": 9.273333333333333,
+    "MediaDeDesvios": 1.78,
+    "NotaMediana": 9.25
+  },
+  "COM0285 - DIREITOS HUMANOS, DIVERSIDADE CULTURAL E RELAÇÕES ÉTNICO-RACIAIS": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.67
+    ],
+    "Docentes": [
+      "MICHELLE FERRET BADIALI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.67,
+    "NotaMediana": 9.66
+  },
+  "COM0114 - ETICA NO RADIALISMO": {
+    "Notas": [
+      9.57,
+      9.78
+    ],
+    "Desvios": [
+      0.75,
+      1.64
+    ],
+    "Docentes": [
+      "RAIMUNDA ALINE LUCENA GOMES"
+    ],
+    "DesvioDeNotas": 0.10499999999999954,
+    "MediaDeNotas": 9.675,
+    "MediaDeDesvios": 1.1949999999999998,
+    "NotaMediana": 9.78
+  },
+  "COM0227 - LABORATÓRIO DE MÍDIA DIGITAL": {
+    "Notas": [
+      9.77
+    ],
+    "Desvios": [
+      1.25
+    ],
+    "Docentes": [
+      "RENATA ALVES DE ALBUQUERQUE OTHON"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.25,
+    "NotaMediana": 9.77
+  },
+  "COM0043 - COMUNICACAO PUBLICITARIA": {
+    "Notas": [
+      8.93,
+      9.88
+    ],
+    "Desvios": [
+      1.26,
+      1.58
+    ],
+    "Docentes": [
+      "RODRIGO PARRON SANTOS",
+      "JOSENILDO SOARES BEZERRA"
+    ],
+    "DesvioDeNotas": 0.47500000000000053,
+    "MediaDeNotas": 9.405000000000001,
+    "MediaDeDesvios": 1.42,
+    "NotaMediana": 9.88
+  },
+  "COM0921 - TOPICOS ESPECIAIS EM TV": {
+    "Notas": [
+      9.26
+    ],
+    "Desvios": [
+      2.04
+    ],
+    "Docentes": [
+      "VALQUIRIA APARECIDA PASSOS KNEIPP"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.26,
+    "MediaDeDesvios": 2.04,
+    "NotaMediana": 9.26
+  },
+  "COM0315 - PUBLICIDADE NORTE-RIOGRANDENSE": {
+    "Notas": [
+      6.6,
+      9,
+      9.56
+    ],
+    "Desvios": [
+      1.78,
+      2.86,
+      1.65
+    ],
+    "Docentes": [
+      "VANESSA STEPHANIE DE AZEVEDO ARRUDA"
+    ],
+    "DesvioDeNotas": 1.283882999169144,
+    "MediaDeNotas": 8.386666666666667,
+    "MediaDeDesvios": 2.0966666666666662,
+    "NotaMediana": 9
+  },
+  "COM0110 - EDICAO EM RADIO": {
+    "Notas": [
+      9.59,
+      9.67,
+      9.69
+    ],
+    "Desvios": [
+      2.09,
+      1.43,
+      0.9
+    ],
+    "Docentes": [
+      "YGOR FELIPE PINTO",
+      "RAFAELA BERNARDAZZI TORRENS LEITE"
+    ],
+    "DesvioDeNotas": 0.043204937989385635,
+    "MediaDeNotas": 9.649999999999999,
+    "MediaDeDesvios": 1.4733333333333334,
+    "NotaMediana": 9.67
+  },
+  "COM0152 - SONOPLASTIA": {
+    "Notas": [
+      9.04,
+      9.48,
+      9.85
+    ],
+    "Desvios": [
+      1.66,
+      1.46,
+      0.96
+    ],
+    "Docentes": [
+      "YGOR FELIPE PINTO",
+      "HELCIO PACHECO DE MEDEIROS",
+      "RAFAELA BERNARDAZZI TORRENS LEITE"
+    ],
+    "DesvioDeNotas": 0.331092467782374,
+    "MediaDeNotas": 9.456666666666665,
+    "MediaDeDesvios": 1.36,
+    "NotaMediana": 9.48
+  },
+  "COM0102 - COMUNICACAO E EDUCACAO": {
+    "Notas": [
+      9.8
+    ],
+    "Desvios": [
+      1.04
+    ],
+    "Docentes": [
+      "ADRIANO MEDEIROS COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 1.04,
+    "NotaMediana": 9.8
+  },
+  "COM0153 - TECNICAS DE APRESENTACAO DE TEXTOS NOS MCM": {
+    "Notas": [
+      9.6,
+      9.73
+    ],
+    "Desvios": [
+      1.07,
+      1.15
+    ],
+    "Docentes": [
+      "BRUNO SERGIO FRANKLIN DE FARIAS GOMES",
+      "EMILY GONZAGA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.06500000000000039,
+    "MediaDeNotas": 9.665,
+    "MediaDeDesvios": 1.1099999999999999,
+    "NotaMediana": 9.73
+  },
+  "COM0281 - NOVOS FORMATOS E LINGUAGENS DO JORNALISMO": {
+    "Notas": [
+      9.74
+    ],
+    "Desvios": [
+      1.32
+    ],
+    "Docentes": [
+      "CARMEM DANIELLA SPINOLA DA HORA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.74,
+    "MediaDeDesvios": 1.32,
+    "NotaMediana": 9.74
+  },
+  "COM0222 - DIRECAO E INTERPRETACAO": {
+    "Notas": [
+      8.88,
+      9.68,
+      9.84
+    ],
+    "Desvios": [
+      0.73,
+      0.87,
+      1.49
+    ],
+    "Docentes": [
+      "CARMEN JOAQUINA RIVERA PARRA",
+      "RONALDO MENDES NEVES",
+      "ADRIANO CHARLES DA SILVA CRUZ"
+    ],
+    "DesvioDeNotas": 0.4199470866139628,
+    "MediaDeNotas": 9.466666666666667,
+    "MediaDeDesvios": 1.03,
+    "NotaMediana": 9.68
+  },
+  "COM0083 - OFICINA DE TEXTO IV": {
+    "Notas": [
+      9.6,
+      9.71,
+      9.75
+    ],
+    "Desvios": [
+      1.06,
+      0.99,
+      0.81
+    ],
+    "Docentes": [
+      "CARMEN JOAQUINA RIVERA PARRA",
+      "LADY DAYANA SILVA DE OLIVEIRA",
+      "HELCIO PACHECO DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.0634209919681351,
+    "MediaDeNotas": 9.686666666666667,
+    "MediaDeDesvios": 0.9533333333333333,
+    "NotaMediana": 9.71
+  },
+  "COM0142 - PLANEJAMENTO GRAFICO": {
+    "Notas": [
+      9.84,
+      9.94
+    ],
+    "Desvios": [
+      1.42,
+      1.25
+    ],
+    "Docentes": [
+      "CEZAR MACEDO BARROS"
+    ],
+    "DesvioDeNotas": 0.04999999999999982,
+    "MediaDeNotas": 9.89,
+    "MediaDeDesvios": 1.335,
+    "NotaMediana": 9.94
+  },
+  "COM0145 - PRODUCAO EM RADIO": {
+    "Notas": [
+      9.18,
+      9.94
+    ],
+    "Desvios": [
+      2.28,
+      1.1
+    ],
+    "Docentes": [
+      "HELCIO PACHECO DE MEDEIROS",
+      "RAFAELA BERNARDAZZI TORRENS LEITE"
+    ],
+    "DesvioDeNotas": 0.3799999999999999,
+    "MediaDeNotas": 9.559999999999999,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.94
+  },
+  "COM0506 - TEORIA DA COMUNICAÇÃO": {
+    "Notas": [
+      9.3,
+      9.36
+    ],
+    "Desvios": [
+      1.93,
+      1.38
+    ],
+    "Docentes": [
+      "LILIAN CARLA MUNEIRO"
+    ],
+    "DesvioDeNotas": 0.02999999999999936,
+    "MediaDeNotas": 9.33,
+    "MediaDeDesvios": 1.6549999999999998,
+    "NotaMediana": 9.36
+  },
+  "COM0301 - HISTÓRIA DA PROPAGANDA": {
+    "Notas": [
+      9.2,
+      9.36
+    ],
+    "Desvios": [
+      2.3,
+      1.62
+    ],
+    "Docentes": [
+      "LUIS ROBERTO ROSSI DEL CARRATORE",
+      "VANESSA STEPHANIE DE AZEVEDO ARRUDA"
+    ],
+    "DesvioDeNotas": 0.08000000000000007,
+    "MediaDeNotas": 9.28,
+    "MediaDeDesvios": 1.96,
+    "NotaMediana": 9.36
+  },
+  "COM0052 - REPORTAGEM PESQ. E ENTREVISTA": {
+    "Notas": [
+      8.74,
+      9.25
+    ],
+    "Desvios": [
+      2.09,
+      1.74
+    ],
+    "Docentes": [
+      "MICHELLE FERRET BADIALI",
+      "MARIA APARECIDA RAMOS DA SILVA"
+    ],
+    "DesvioDeNotas": 0.2549999999999999,
+    "MediaDeNotas": 8.995000000000001,
+    "MediaDeDesvios": 1.915,
+    "NotaMediana": 9.25
+  },
+  "COM0135 - MIDIA DIGITAL": {
+    "Notas": [
+      9.52,
+      9.66
+    ],
+    "Desvios": [
+      1.36,
+      1.58
+    ],
+    "Docentes": [
+      "RENATA ALVES DE ALBUQUERQUE OTHON",
+      "MARIA APARECIDA RAMOS DA SILVA"
+    ],
+    "DesvioDeNotas": 0.07000000000000028,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.4700000000000002,
+    "NotaMediana": 9.66
+  },
+  "COM0089 - PESQUISA EM COMUNICACAO": {
+    "Notas": [
+      9.16,
+      9.82
+    ],
+    "Desvios": [
+      2.09,
+      0.73
+    ],
+    "Docentes": [
+      "RODRIGO PARRON SANTOS",
+      "KENIA BEATRIZ FERREIRA MAIA"
+    ],
+    "DesvioDeNotas": 0.33000000000000007,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.41,
+    "NotaMediana": 9.82
+  },
+  "COM0109 - DIRECAO DE PROGRAMAS DE TV": {
+    "Notas": [
+      9.67,
+      9.72
+    ],
+    "Desvios": [
+      1.3,
+      1.06
+    ],
+    "Docentes": [
+      "RUY ALKMIM ROCHA FILHO"
+    ],
+    "DesvioDeNotas": 0.025000000000000355,
+    "MediaDeNotas": 9.695,
+    "MediaDeDesvios": 1.1800000000000002,
+    "NotaMediana": 9.72
+  },
+  "COM0106 - COMUNICACAO POLITICA": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.26
+    ],
+    "Docentes": [
+      "ADRIANO MEDEIROS COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.26,
+    "NotaMediana": 9.66
+  },
+  "COM0161 - JORNALISMO IMPRESSO": {
+    "Notas": [
+      9.68,
+      9.88
+    ],
+    "Desvios": [
+      1.18,
+      0.98
+    ],
+    "Docentes": [
+      "ANTONINO CONDORELLI"
+    ],
+    "DesvioDeNotas": 0.10000000000000053,
+    "MediaDeNotas": 9.780000000000001,
+    "MediaDeDesvios": 1.08,
+    "NotaMediana": 9.88
+  },
+  "COM0138 - OFICINA DE PROD. E REALIZACAO EM RADIO E TV": {
+    "Notas": [
+      9.68,
+      9.75
+    ],
+    "Desvios": [
+      1.89,
+      1.72
+    ],
+    "Docentes": [
+      "CARLOS ANTONIO DOS SANTOS SEGUNDO",
+      "MICHELLE FERRET BADIALI"
+    ],
+    "DesvioDeNotas": 0.03500000000000014,
+    "MediaDeNotas": 9.715,
+    "MediaDeDesvios": 1.805,
+    "NotaMediana": 9.75
+  },
+  "COM0095 - ASSESSORIA DE COMUNICACAO": {
+    "Notas": [
+      9.52
+    ],
+    "Desvios": [
+      1.43
+    ],
+    "Docentes": [
+      "DANIEL DANTAS LEMOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.43,
+    "NotaMediana": 9.52
+  },
+  "DAT0132 - FOTOGRAFIA": {
+    "Notas": [
+      9.55
+    ],
+    "Desvios": [
+      1.25
+    ],
+    "Docentes": [
+      "DANIEL RODRIGO MEIRINHO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.55,
+    "MediaDeDesvios": 1.25,
+    "NotaMediana": 9.55
+  },
+  "COM0173 - NOVAS FRONTEIRAS DO RADIO: A RADIO WEB": {
+    "Notas": [
+      9.41
+    ],
+    "Desvios": [
+      1.13
+    ],
+    "Docentes": [
+      "HELCIO PACHECO DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.41,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.41
+  },
+  "COM0318 - ADMINISTRAÇÃO DE AGÊNCIAS DE PUBLICIDADE": {
+    "Notas": [
+      9.84
+    ],
+    "Desvios": [
+      1.13
+    ],
+    "Docentes": [
+      "MARCELA COSTA DA CUNHA CHACEL"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.84,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.84
+  },
+  "COM0087 - SISTEMAS DE COMUNICACAO": {
+    "Notas": [
+      8.05
+    ],
+    "Desvios": [
+      2.26
+    ],
+    "Docentes": [
+      "MARIA APARECIDA RAMOS DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.05,
+    "MediaDeDesvios": 2.26,
+    "NotaMediana": 8.05
+  },
+  "COM0922 - CENOGRAFIA EM COMUNICACAO": {
+    "Notas": [
+      9.59
+    ],
+    "Desvios": [
+      1.28
+    ],
+    "Docentes": [
+      "MICHELLE FERRET BADIALI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.28,
+    "NotaMediana": 9.59
+  },
+  "COM0118 - ILUMINACAO": {
+    "Notas": [
+      9.62
+    ],
+    "Desvios": [
+      1.17
+    ],
+    "Docentes": [
+      "MICHELLE FERRET BADIALI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.62,
+    "MediaDeDesvios": 1.17,
+    "NotaMediana": 9.62
+  },
+  "COM0082 - OFICINA DE TEXTO III": {
+    "Notas": [
+      9.88
+    ],
+    "Desvios": [
+      1.15
+    ],
+    "Docentes": [
+      "MICHELLE FERRET BADIALI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.88,
+    "MediaDeDesvios": 1.15,
+    "NotaMediana": 9.88
+  },
+  "COM0146 - PRODUCAO EM TV": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.35
+    ],
+    "Docentes": [
+      "MIRIAN MOEMA FILGUEIRA PINHEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.35,
+    "NotaMediana": 9.66
+  },
+  "COM0111 - EDICAO EM TV": {
+    "Notas": [
+      9.79
+    ],
+    "Desvios": [
+      1.24
+    ],
+    "Docentes": [
+      "RAFAELA BERNARDAZZI TORRENS LEITE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.79,
+    "MediaDeDesvios": 1.24,
+    "NotaMediana": 9.79
+  },
+  "COM0037 - COMUNICACAO COMPARADA": {
+    "Notas": [
+      7.74
+    ],
+    "Desvios": [
+      2.56
+    ],
+    "Docentes": [
+      "SEBASTIAO GUILHERME ALBANO DA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 7.74,
+    "MediaDeDesvios": 2.56,
+    "NotaMediana": 7.74
+  }
+}

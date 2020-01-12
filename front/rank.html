@@ -13,6 +13,7 @@
 
 <body>
 
+  <!-- Menu -->
   <div class="container">
     <nav class="navbar navbar-light p-0 mt-3">
       <a class="py-1 mx-1 nav-item nav-link btn btn-outline-primary" href="./index.html" role="tab">
@@ -36,9 +37,13 @@
   <div class="container">
     <div class="tab-content text-white">
 
-      <!--  -->
+      <div class="container text-center mt-4">
+        <h5 id="dep-name" class="text-primary font-weight-light"></h5>
+      </div>
+
+      <!-- Ver Professores -->
       <div class="tab-pane fade show active" id="geral">
-        <input type="text" class="form-control mx-auto mt-5 buscar-professor" placeholder="Buscar Professor">
+        <input type="text" class="form-control mx-auto mt-4 buscar-professor" placeholder="Buscar Professor">
         <div class="container mt-5 p-2 rounded">
           <div class="text-center d-none">Sem resultados para a busca</div>
           <div class="p-3">
@@ -56,6 +61,7 @@
           <table class="table table-hover mb-0" style="table-layout: fixed;">
             <tbody id="table-geral">
 
+              <h1 class="text-center" id="loader"><i class="fas fa-spinner fa-spin text-primary"></i></h1>
               <!-- Jquery -->
 
             </tbody>
@@ -63,7 +69,7 @@
         </div>
       </div>
 
-      <!--  -->
+      <!-- Comparar Professores -->
       <div class="tab-pane fade" id="professores">
         <input type="text" class="form-control mx-auto mt-5 buscar-professor" placeholder="Buscar Professor">
         <div class="quadro-resultados rounded">
@@ -134,7 +140,7 @@
         </div>
       </div>
 
-      <!--  -->
+      <!-- Comparar Disciplinas -->
       <div class="tab-pane fade" id="disciplinas">
         <input type="text" class="form-control mx-auto mt-5 buscar-professor" id="buscar-professor"
           placeholder="Buscar Disciplina">

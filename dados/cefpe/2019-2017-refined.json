@@ -1,0 +1,4174 @@
+{
+  "ADIR LUIZ FERREIRA": {
+    "Notas": [
+      7.36,
+      8.43,
+      9,
+      9.03,
+      9.11,
+      9.33,
+      9.52,
+      9.54,
+      9.71,
+      9.81
+    ],
+    "Desvios": [
+      1.62,
+      1.68,
+      1.26,
+      1.84,
+      1.81,
+      3.28,
+      2.42,
+      1.21,
+      1.55,
+      1.5
+    ],
+    "Componentes": {
+      "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+        "Notas": [
+          7.36,
+          9.03,
+          9.33
+        ],
+        "Desvios": [
+          1.62,
+          1.84,
+          3.28
+        ],
+        "DesvioDeNotas": 0.8666538460590182,
+        "MediaDeNotas": 8.573333333333332,
+        "MediaDeDesvios": 2.2466666666666666,
+        "NotaMediana": 9.03
+      },
+      "FPE2004 - ATELIÊ DE PESQUISA I": {
+        "Notas": [
+          8.43,
+          9.11,
+          9.54
+        ],
+        "Desvios": [
+          1.68,
+          1.81,
+          2.42
+        ],
+        "DesvioDeNotas": 0.45697070171097626,
+        "MediaDeNotas": 9.026666666666666,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.11
+      },
+      "FPE5033 - SEMINÁRIO DE PESQUISA IV": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.71
+      },
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.81
+      },
+      "FPE5010 - SOCIOLOGIA DA EDUCAÇÃO": {
+        "Notas": [
+          9,
+          9.52
+        ],
+        "Desvios": [
+          1.55,
+          1.5
+        ],
+        "DesvioDeNotas": 0.2599999999999998,
+        "MediaDeNotas": 9.26,
+        "MediaDeDesvios": 1.525,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.6919566460407761,
+    "MediaDeNotas": 9.084,
+    "MediaDeDesvios": 1.8169999999999997,
+    "NotaMediana": 9.33
+  },
+  "ADRIANE CENCI": {
+    "Notas": [
+      9.68,
+      9.7,
+      9.71,
+      9.74,
+      9.79,
+      9.82,
+      9.86
+    ],
+    "Desvios": [
+      1.16,
+      1.64,
+      1.47,
+      1.68,
+      1.16,
+      1.23,
+      1.28
+    ],
+    "Componentes": {
+      "FPE0587 - INTRODUÇÃO À EDUCAÇÃO ESPECIAL": {
+        "Notas": [
+          9.68,
+          9.7,
+          9.74,
+          9.82,
+          9.86
+        ],
+        "Desvios": [
+          1.16,
+          1.47,
+          1.68,
+          1.23,
+          1.28
+        ],
+        "DesvioDeNotas": 0.06928203230275516,
+        "MediaDeNotas": 9.760000000000002,
+        "MediaDeDesvios": 1.3639999999999999,
+        "NotaMediana": 9.74
+      },
+      "FPE0683 - EDUCAÇÃO ESPECIAL EM UMA PERSPECTIVA INCLUSIVA": {
+        "Notas": [
+          9.71,
+          9.79
+        ],
+        "Desvios": [
+          1.64,
+          1.16
+        ],
+        "DesvioDeNotas": 0.03999999999999915,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.4,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.06249897958350662,
+    "MediaDeNotas": 9.757142857142858,
+    "MediaDeDesvios": 1.374285714285714,
+    "NotaMediana": 9.74
+  },
+  "ALINE DE PINHO DIAS": {
+    "Notas": [
+      9.12,
+      9.34,
+      9.4,
+      9.49,
+      9.52,
+      9.59,
+      9.65
+    ],
+    "Desvios": [
+      1.5,
+      2.07,
+      1.57,
+      1.32,
+      1.86,
+      1.73,
+      1.13
+    ],
+    "Componentes": {
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.12,
+          9.34,
+          9.4,
+          9.49,
+          9.52,
+          9.59,
+          9.65
+        ],
+        "Desvios": [
+          1.5,
+          2.07,
+          1.57,
+          1.32,
+          1.86,
+          1.73,
+          1.13
+        ],
+        "DesvioDeNotas": 0.16447814816713457,
+        "MediaDeNotas": 9.444285714285714,
+        "MediaDeDesvios": 1.5971428571428572,
+        "NotaMediana": 9.49
+      }
+    },
+    "DesvioDeNotas": 0.16447814816713457,
+    "MediaDeNotas": 9.444285714285714,
+    "MediaDeDesvios": 1.5971428571428572,
+    "NotaMediana": 9.49
+  },
+  "AMON EVANGELISTA DOS ANJOS PAIVA": {
+    "Notas": [
+      9.23,
+      9.28,
+      9.31,
+      9.36,
+      9.5,
+      9.55,
+      9.57,
+      9.7,
+      9.77,
+      9.81
+    ],
+    "Desvios": [
+      1.84,
+      1.67,
+      1.26,
+      1.38,
+      1.41,
+      1.53,
+      1.75,
+      1.14,
+      1.04,
+      1.36
+    ],
+    "Componentes": {
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.23,
+          9.28,
+          9.31,
+          9.5,
+          9.55,
+          9.57,
+          9.7,
+          9.77,
+          9.81
+        ],
+        "Desvios": [
+          1.84,
+          1.67,
+          1.26,
+          1.38,
+          1.41,
+          1.53,
+          1.75,
+          1.04,
+          1.36
+        ],
+        "DesvioDeNotas": 0.20232598070721358,
+        "MediaDeNotas": 9.524444444444446,
+        "MediaDeDesvios": 1.471111111111111,
+        "NotaMediana": 9.55
+      },
+      "FPE1001 - LÍNGUA BRASILEIRA DE SINAIS (LIBRAS)": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.14,
+        "NotaMediana": 9.36
+      }
+    },
+    "DesvioDeNotas": 0.19818173477896492,
+    "MediaDeNotas": 9.508000000000001,
+    "MediaDeDesvios": 1.438,
+    "NotaMediana": 9.55
+  },
+  "ANA PATRICIA MARCOS BARBOSA": {
+    "Notas": [
+      9.32,
+      9.52,
+      9.61,
+      9.73,
+      9.73
+    ],
+    "Desvios": [
+      1.52,
+      1.41,
+      1.12,
+      1.63,
+      1.02
+    ],
+    "Componentes": {
+      "FPE5023 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.32
+      },
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.52,
+          9.61,
+          9.73,
+          9.73
+        ],
+        "Desvios": [
+          1.41,
+          1.12,
+          1.63,
+          1.02
+        ],
+        "DesvioDeNotas": 0.08842369591913737,
+        "MediaDeNotas": 9.6475,
+        "MediaDeDesvios": 1.295,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.15302287410710863,
+    "MediaDeNotas": 9.581999999999999,
+    "MediaDeDesvios": 1.3399999999999999,
+    "NotaMediana": 9.61
+  },
+  "ANDREIA DA SILVA QUINTANILHA SOUSA": {
+    "Notas": [
+      8.89,
+      8.9,
+      9.02,
+      9.4,
+      9.43,
+      9.62
+    ],
+    "Desvios": [
+      1.5,
+      1.69,
+      1.9,
+      1.43,
+      2.17,
+      2.39
+    ],
+    "Componentes": {
+      "FPE5016 - PLANEJAMENTO E AVALIAÇÃO DAS INSTITUIÇÕES EDUCATIVAS": {
+        "Notas": [
+          8.89,
+          9.43,
+          9.62
+        ],
+        "Desvios": [
+          1.5,
+          1.9,
+          1.43
+        ],
+        "DesvioDeNotas": 0.3092284304882426,
+        "MediaDeNotas": 9.313333333333333,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.43
+      },
+      "FPE5009 - POLÍTICAS PÚBLICAS E GESTÃO DA EDUCAÇÃO": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.4
+      },
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          8.9,
+          9.02
+        ],
+        "Desvios": [
+          2.17,
+          2.39
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 2.2800000000000002,
+        "NotaMediana": 9.02
+      }
+    },
+    "DesvioDeNotas": 0.2849561369754998,
+    "MediaDeNotas": 9.209999999999999,
+    "MediaDeDesvios": 1.8466666666666667,
+    "NotaMediana": 9.4
+  },
+  "ANTONIO CABRAL NETO": {
+    "Notas": [
+      9.59,
+      9.64,
+      9.66,
+      9.66,
+      9.73,
+      9.74,
+      9.74,
+      9.75,
+      9.82,
+      9.87
+    ],
+    "Desvios": [
+      1.22,
+      1.43,
+      1.43,
+      1.54,
+      1.37,
+      1.49,
+      1.7,
+      1.26,
+      1.47,
+      1.27
+    ],
+    "Componentes": {
+      "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+        "Notas": [
+          9.59,
+          9.64,
+          9.66,
+          9.74
+        ],
+        "Desvios": [
+          1.22,
+          1.43,
+          1.37,
+          1.49
+        ],
+        "DesvioDeNotas": 0.05402545696243586,
+        "MediaDeNotas": 9.657499999999999,
+        "MediaDeDesvios": 1.3775,
+        "NotaMediana": 9.66
+      },
+      "FPE2002 - FUNDAMENTOS SOCIOECONÔMICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.66,
+          9.74,
+          9.75,
+          9.82
+        ],
+        "Desvios": [
+          1.43,
+          1.54,
+          1.7,
+          1.26
+        ],
+        "DesvioDeNotas": 0.05673402858955113,
+        "MediaDeNotas": 9.7425,
+        "MediaDeDesvios": 1.4825,
+        "NotaMediana": 9.75
+      },
+      "FPE5033 - SEMINÁRIO DE PESQUISA IV": {
+        "Notas": [
+          9.73,
+          9.87
+        ],
+        "Desvios": [
+          1.47,
+          1.27
+        ],
+        "DesvioDeNotas": 0.0699999999999994,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.87
+      }
+    },
+    "DesvioDeNotas": 0.08049844718999229,
+    "MediaDeNotas": 9.72,
+    "MediaDeDesvios": 1.418,
+    "NotaMediana": 9.74
+  },
+  "Alessandra Cardozo de Freitas": {
+    "Notas": [
+      9.01,
+      9.29,
+      9.38,
+      9.4,
+      9.44,
+      9.45,
+      9.64,
+      9.7
+    ],
+    "Desvios": [
+      1.6,
+      1.73,
+      1.58,
+      1.65,
+      2.1,
+      1.4,
+      1.17,
+      1.42
+    ],
+    "Componentes": {
+      "FPE5040 - TEORIA E PRÁTICA DA LITERATURA I": {
+        "Notas": [
+          9.29,
+          9.38,
+          9.44,
+          9.64
+        ],
+        "Desvios": [
+          1.6,
+          1.73,
+          1.58,
+          1.65
+        ],
+        "DesvioDeNotas": 0.1285252893402699,
+        "MediaDeNotas": 9.4375,
+        "MediaDeDesvios": 1.6400000000000001,
+        "NotaMediana": 9.44
+      },
+      "PEC5028 - ENSINO DA LÍNGUA PORTUGUESA I": {
+        "Notas": [
+          9.01
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.01,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.01
+      },
+      "PEC5035 - ENSINO DE LÍNGUA PORTUGUESA II": {
+        "Notas": [
+          9.4,
+          9.45
+        ],
+        "Desvios": [
+          1.4,
+          1.17
+        ],
+        "DesvioDeNotas": 0.02499999999999947,
+        "MediaDeNotas": 9.425,
+        "MediaDeDesvios": 1.285,
+        "NotaMediana": 9.45
+      },
+      "PEC0142 - ESTÁGIO SUPERVISIONADO DE FORMAÇÃO DE PROFESSORES PARA O ENSINO MÉDIO (PORTUGUÊS)": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.19836440582927173,
+    "MediaDeNotas": 9.41375,
+    "MediaDeDesvios": 1.58125,
+    "NotaMediana": 9.44
+  },
+  "CYNARA TEIXEIRA RIBEIRO": {
+    "Notas": [
+      9.29,
+      9.55,
+      9.66,
+      9.69,
+      9.69,
+      9.77,
+      9.88
+    ],
+    "Desvios": [
+      1.5,
+      1.07,
+      1.32,
+      1.69,
+      1.08,
+      1.22,
+      1.07
+    ],
+    "Componentes": {
+      "PEC1003 - ATELIÊ ARTICULADOR DE SABERES II": {
+        "Notas": [
+          9.29,
+          9.66
+        ],
+        "Desvios": [
+          1.5,
+          1.07
+        ],
+        "DesvioDeNotas": 0.1850000000000005,
+        "MediaDeNotas": 9.475,
+        "MediaDeDesvios": 1.2850000000000001,
+        "NotaMediana": 9.66
+      },
+      "FPE0681 - FUNDAMENTOS DA PSICOLOGIA EDUCACIONAL": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.77
+      },
+      "FPE2006 - PSICOLOGIA EDUCACIONAL I": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.69
+      },
+      "FPE5001 - FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO I": {
+        "Notas": [
+          9.69,
+          9.88
+        ],
+        "Desvios": [
+          1.08,
+          1.22
+        ],
+        "DesvioDeNotas": 0.09500000000000064,
+        "MediaDeNotas": 9.785,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.88
+      },
+      "FPE0500 - FUNDAMENTOS PSICOSSOCIAIS DA APRENDIZAGEM": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.07,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.17326398403380144,
+    "MediaDeNotas": 9.647142857142857,
+    "MediaDeDesvios": 1.2785714285714285,
+    "NotaMediana": 9.69
+  },
+  "DEBORA REGINA DE PAULA NUNES": {
+    "Notas": [
+      9.41,
+      9.52,
+      9.65,
+      9.69,
+      9.73,
+      9.73,
+      9.75,
+      9.82,
+      9.91
+    ],
+    "Desvios": [
+      0.76,
+      1.42,
+      1.53,
+      1.09,
+      2.03,
+      1.66,
+      1.66,
+      0.9,
+      1.11
+    ],
+    "Componentes": {
+      "FPE5060 - TECNOLOGIA ASSISTIVA": {
+        "Notas": [
+          9.75,
+          9.91
+        ],
+        "Desvios": [
+          0.76,
+          1.11
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 0.935,
+        "NotaMediana": 9.91
+      },
+      "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+        "Notas": [
+          9.41,
+          9.52
+        ],
+        "Desvios": [
+          1.42,
+          2.03
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.465,
+        "MediaDeDesvios": 1.7249999999999999,
+        "NotaMediana": 9.52
+      },
+      "FPE2004 - ATELIÊ DE PESQUISA I": {
+        "Notas": [
+          9.69,
+          9.73
+        ],
+        "Desvios": [
+          1.53,
+          1.66
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.595,
+        "NotaMediana": 9.73
+      },
+      "FPE0587 - INTRODUÇÃO À EDUCAÇÃO ESPECIAL": {
+        "Notas": [
+          9.65,
+          9.73
+        ],
+        "Desvios": [
+          1.09,
+          1.66
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.690000000000001,
+        "MediaDeDesvios": 1.375,
+        "NotaMediana": 9.73
+      },
+      "FPE5025 - SEMINÁRIO DE PESQUISA III": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          0.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 0.9,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.14181364924121775,
+    "MediaDeNotas": 9.690000000000001,
+    "MediaDeDesvios": 1.3511111111111112,
+    "NotaMediana": 9.73
+  },
+  "DENISE MARIA DE CARVALHO LOPES": {
+    "Notas": [
+      7.59,
+      8.97,
+      9.41,
+      9.47,
+      9.64,
+      9.65,
+      9.66,
+      9.81
+    ],
+    "Desvios": [
+      1.45,
+      1.36,
+      1.09,
+      1.4,
+      2.62,
+      1.53,
+      1.96,
+      1.42
+    ],
+    "Componentes": {
+      "FPE5024 - ALFABETIZAÇÃO E LETRAMENTO II": {
+        "Notas": [
+          7.59,
+          8.97,
+          9.41,
+          9.47,
+          9.64,
+          9.65,
+          9.66,
+          9.81
+        ],
+        "Desvios": [
+          1.45,
+          1.36,
+          1.09,
+          1.4,
+          2.62,
+          1.53,
+          1.96,
+          1.42
+        ],
+        "DesvioDeNotas": 0.6797793759742938,
+        "MediaDeNotas": 9.275,
+        "MediaDeDesvios": 1.60375,
+        "NotaMediana": 9.64
+      }
+    },
+    "DesvioDeNotas": 0.6797793759742938,
+    "MediaDeNotas": 9.275,
+    "MediaDeDesvios": 1.60375,
+    "NotaMediana": 9.64
+  },
+  "FLAVIO BOLEIZ JUNIOR": {
+    "Notas": [
+      8.01,
+      9.43,
+      9.61,
+      9.75,
+      9.77,
+      9.86
+    ],
+    "Desvios": [
+      1.19,
+      1.76,
+      1.12,
+      1.58,
+      1.21,
+      1.91
+    ],
+    "Componentes": {
+      "FPE2032 - FUNDAMENTOS DE ANTROPOLOGIA DA EDUCAÇÃO": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.86
+      },
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.43,
+          9.75
+        ],
+        "Desvios": [
+          1.76,
+          1.58
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.75
+      },
+      "PEC1038 - PEDAGOGIAS PARA LIBERDADE": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.12,
+        "NotaMediana": 9.77
+      },
+      "FPE5022 - ANTROPOLOGIA E EDUCAÇÃO": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.61
+      },
+      "FPE5012 - SEMINÁRIO DE PESQUISA II": {
+        "Notas": [
+          8.01
+        ],
+        "Desvios": [
+          1.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.01,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 8.01
+      }
+    },
+    "DesvioDeNotas": 0.6387422537038446,
+    "MediaDeNotas": 9.405,
+    "MediaDeDesvios": 1.4616666666666667,
+    "NotaMediana": 9.75
+  },
+  "GESSICA FABIELY FONSECA": {
+    "Notas": [
+      9.08,
+      9.55,
+      9.64,
+      9.67,
+      9.72,
+      9.75,
+      9.79,
+      9.81,
+      9.84,
+      9.84,
+      9.88,
+      9.91,
+      9.94,
+      9.95
+    ],
+    "Desvios": [
+      1.22,
+      1.34,
+      1.64,
+      1.02,
+      0.79,
+      1.55,
+      1.48,
+      1.12,
+      1.61,
+      1.49,
+      1.12,
+      1.18,
+      1.42,
+      1.11
+    ],
+    "Componentes": {
+      "FPE2014 - ATELIÊ ARTICULADOR DE SABERES III": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.79
+      },
+      "FPE0681 - FUNDAMENTOS DA PSICOLOGIA EDUCACIONAL": {
+        "Notas": [
+          9.08,
+          9.72,
+          9.75,
+          9.81,
+          9.84,
+          9.94
+        ],
+        "Desvios": [
+          1.34,
+          1.64,
+          1.55,
+          1.48,
+          1.12,
+          1.18
+        ],
+        "DesvioDeNotas": 0.28166173565703473,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.385,
+        "NotaMediana": 9.81
+      },
+      "FPE2009 - PSICOLOGIA EDUCACIONAL II": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          1.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 1.02,
+        "NotaMediana": 9.95
+      },
+      "PEC1003 - ATELIÊ ARTICULADOR DE SABERES II": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          0.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 0.79,
+        "NotaMediana": 9.91
+      },
+      "FPE2006 - PSICOLOGIA EDUCACIONAL I": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          1.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 1.12,
+        "NotaMediana": 9.88
+      },
+      "FPE5008 - FUNDAMENTOS PSICOLÓGICOS DA EDUCAÇÃO II": {
+        "Notas": [
+          9.55,
+          9.64,
+          9.67,
+          9.84
+        ],
+        "Desvios": [
+          1.61,
+          1.49,
+          1.42,
+          1.11
+        ],
+        "DesvioDeNotas": 0.10499999999999969,
+        "MediaDeNotas": 9.675,
+        "MediaDeDesvios": 1.4075,
+        "NotaMediana": 9.67
+      }
+    },
+    "DesvioDeNotas": 0.21499050762149216,
+    "MediaDeNotas": 9.740714285714285,
+    "MediaDeDesvios": 1.2921428571428568,
+    "NotaMediana": 9.81
+  },
+  "GIANE BEZERRA VIEIRA": {
+    "Notas": [
+      9.34,
+      9.36,
+      9.51,
+      9.61,
+      9.61,
+      9.65,
+      9.7,
+      9.77,
+      9.79,
+      9.8,
+      9.84,
+      9.87,
+      9.9,
+      9.96,
+      9.97
+    ],
+    "Desvios": [
+      1.32,
+      1.73,
+      1.18,
+      1.78,
+      1.13,
+      1,
+      1.43,
+      0.83,
+      1.34,
+      0.77,
+      1.59,
+      1.61,
+      1.05,
+      1.27,
+      1.26
+    ],
+    "Componentes": {
+      "FPE5019 - ALFABETIZAÇÃO E LETRAMENTO I": {
+        "Notas": [
+          9.7,
+          9.77,
+          9.87
+        ],
+        "Desvios": [
+          1.32,
+          1,
+          1.05
+        ],
+        "DesvioDeNotas": 0.06976149845485446,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.1233333333333333,
+        "NotaMediana": 9.77
+      },
+      "FPE2008 - APRENDIZAGEM E DESENVOLVIMENTO DA LINGUAGEM": {
+        "Notas": [
+          9.36,
+          9.79,
+          9.9,
+          9.97
+        ],
+        "Desvios": [
+          1.73,
+          1.18,
+          1.43,
+          0.83
+        ],
+        "DesvioDeNotas": 0.23690715480964308,
+        "MediaDeNotas": 9.754999999999999,
+        "MediaDeDesvios": 1.2925,
+        "NotaMediana": 9.9
+      },
+      "PEC1003 - ATELIÊ ARTICULADOR DE SABERES II": {
+        "Notas": [
+          9.34,
+          9.8,
+          9.84,
+          9.96
+        ],
+        "Desvios": [
+          1.78,
+          1.13,
+          1.34,
+          0.77
+        ],
+        "DesvioDeNotas": 0.23553131426627785,
+        "MediaDeNotas": 9.735,
+        "MediaDeDesvios": 1.255,
+        "NotaMediana": 9.84
+      },
+      "FPE5011 - APRENDIZAGEM E DESENVOLVIMENTO DA LINGUAGEM": {
+        "Notas": [
+          9.51,
+          9.61,
+          9.61,
+          9.65
+        ],
+        "Desvios": [
+          1.59,
+          1.61,
+          1.27,
+          1.26
+        ],
+        "DesvioDeNotas": 0.0517204021639431,
+        "MediaDeNotas": 9.594999999999999,
+        "MediaDeDesvios": 1.4325,
+        "NotaMediana": 9.61
+      }
+    },
+    "DesvioDeNotas": 0.19145756710038936,
+    "MediaDeNotas": 9.712,
+    "MediaDeDesvios": 1.286,
+    "NotaMediana": 9.77
+  },
+  "GILMAR BARBOSA GUEDES": {
+    "Notas": [
+      8.02,
+      9.02,
+      9.16,
+      9.21,
+      9.31,
+      9.34,
+      9.39,
+      9.4,
+      9.48,
+      9.54,
+      9.59,
+      9.6,
+      9.68
+    ],
+    "Desvios": [
+      1.57,
+      2.07,
+      1.87,
+      1.4,
+      2.04,
+      2.08,
+      3.14,
+      1.82,
+      1.79,
+      1.39,
+      1.6,
+      1.39,
+      1.41
+    ],
+    "Componentes": {
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.02,
+          9.16,
+          9.21,
+          9.48,
+          9.59,
+          9.68
+        ],
+        "Desvios": [
+          1.57,
+          2.07,
+          1.87,
+          1.4,
+          2.04,
+          1.39
+        ],
+        "DesvioDeNotas": 0.2407396011369038,
+        "MediaDeNotas": 9.356666666666667,
+        "MediaDeDesvios": 1.7233333333333334,
+        "NotaMediana": 9.48
+      },
+      "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+        "Notas": [
+          8.02,
+          9.39
+        ],
+        "Desvios": [
+          2.08,
+          3.14
+        ],
+        "DesvioDeNotas": 0.6850000000000005,
+        "MediaDeNotas": 8.705,
+        "MediaDeDesvios": 2.6100000000000003,
+        "NotaMediana": 9.39
+      },
+      "FPE2002 - FUNDAMENTOS SOCIOECONÔMICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.4,
+          9.54
+        ],
+        "Desvios": [
+          1.82,
+          1.79
+        ],
+        "DesvioDeNotas": 0.0699999999999994,
+        "MediaDeNotas": 9.469999999999999,
+        "MediaDeDesvios": 1.8050000000000002,
+        "NotaMediana": 9.54
+      },
+      "FPE5003 - FUNDAMENTOS SÓCIO-ECONÔMICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.31,
+          9.34
+        ],
+        "Desvios": [
+          1.6,
+          1.39
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.325,
+        "MediaDeDesvios": 1.495,
+        "NotaMediana": 9.34
+      },
+      "FPE5012 - SEMINÁRIO DE PESQUISA II": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.40864040701883697,
+    "MediaDeNotas": 9.287692307692309,
+    "MediaDeDesvios": 1.8130769230769235,
+    "NotaMediana": 9.39
+  },
+  "GILSON FERREIRA DA COSTA": {
+    "Notas": [
+      7.75,
+      8.45,
+      8.66,
+      8.7,
+      8.8,
+      8.81,
+      8.92,
+      9.02,
+      9.09,
+      9.23,
+      9.39,
+      9.54,
+      9.6,
+      9.68
+    ],
+    "Desvios": [
+      1.09,
+      2.24,
+      2.72,
+      2.03,
+      2.26,
+      1.96,
+      1.62,
+      1.83,
+      1.56,
+      2.01,
+      2.43,
+      2.24,
+      2.4,
+      1.67
+    ],
+    "Componentes": {
+      "FPE5023 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          8.92,
+          9.6
+        ],
+        "Desvios": [
+          1.09,
+          2.01
+        ],
+        "DesvioDeNotas": 0.33999999999999986,
+        "MediaDeNotas": 9.26,
+        "MediaDeDesvios": 1.5499999999999998,
+        "NotaMediana": 9.6
+      },
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          7.75,
+          8.45,
+          8.66,
+          8.7,
+          8.8,
+          8.81,
+          9.02,
+          9.09,
+          9.23,
+          9.39,
+          9.54,
+          9.68
+        ],
+        "Desvios": [
+          2.24,
+          2.72,
+          2.03,
+          2.26,
+          1.96,
+          1.62,
+          1.83,
+          1.56,
+          2.43,
+          2.24,
+          2.4,
+          1.67
+        ],
+        "DesvioDeNotas": 0.5041218988388512,
+        "MediaDeNotas": 8.926666666666668,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 9.02
+      }
+    },
+    "DesvioDeNotas": 0.4979488540246776,
+    "MediaDeNotas": 8.974285714285713,
+    "MediaDeDesvios": 2.0042857142857144,
+    "NotaMediana": 9.02
+  },
+  "HELOISA LIMA PERALES": {
+    "Notas": [
+      7.66,
+      9.18,
+      9.34,
+      9.38,
+      9.48,
+      9.68,
+      9.75
+    ],
+    "Desvios": [
+      1.26,
+      1.17,
+      2.71,
+      1.63,
+      2.03,
+      1.77,
+      1.86
+    ],
+    "Componentes": {
+      "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.68
+      },
+      "FPE2003 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.75
+      },
+      "FPE5023 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          7.66
+        ],
+        "Desvios": [
+          2.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.66,
+        "MediaDeDesvios": 2.71,
+        "NotaMediana": 7.66
+      },
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.18,
+          9.34,
+          9.38,
+          9.48
+        ],
+        "Desvios": [
+          1.63,
+          2.03,
+          1.77,
+          1.86
+        ],
+        "DesvioDeNotas": 0.10805091392487184,
+        "MediaDeNotas": 9.344999999999999,
+        "MediaDeDesvios": 1.8225,
+        "NotaMediana": 9.38
+      }
+    },
+    "DesvioDeNotas": 0.658418017458731,
+    "MediaDeNotas": 9.209999999999999,
+    "MediaDeDesvios": 1.7757142857142854,
+    "NotaMediana": 9.38
+  },
+  "JACYENE MELO DE OLIVEIRA": {
+    "Notas": [
+      9.47,
+      9.63,
+      9.66,
+      9.68,
+      9.73,
+      9.75,
+      9.76,
+      9.79,
+      9.82,
+      9.84,
+      9.91
+    ],
+    "Desvios": [
+      1.16,
+      1.44,
+      1.27,
+      1.34,
+      0.88,
+      1.26,
+      1.07,
+      1.36,
+      1.6,
+      1.22,
+      1.1
+    ],
+    "Componentes": {
+      "FPE5019 - ALFABETIZAÇÃO E LETRAMENTO I": {
+        "Notas": [
+          9.73,
+          9.79
+        ],
+        "Desvios": [
+          1.16,
+          1.34
+        ],
+        "DesvioDeNotas": 0.02999999999999936,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.79
+      },
+      "FPE2014 - ATELIÊ ARTICULADOR DE SABERES III": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.47
+      },
+      "FPE2010 - EDUCAÇÃO INFANTIL I": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.68
+      },
+      "FPE0549 - EDUCAÇÃO EM CONTEXTO HOSPITALAR": {
+        "Notas": [
+          9.82,
+          9.84
+        ],
+        "Desvios": [
+          0.88,
+          1.07
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 0.9750000000000001,
+        "NotaMediana": 9.84
+      },
+      "FPE5018 - EDUCAÇÃO INFANTIL": {
+        "Notas": [
+          9.63,
+          9.66,
+          9.75,
+          9.76,
+          9.91
+        ],
+        "Desvios": [
+          1.26,
+          1.36,
+          1.6,
+          1.22,
+          1.1
+        ],
+        "DesvioDeNotas": 0.09785703858180039,
+        "MediaDeNotas": 9.742,
+        "MediaDeDesvios": 1.3080000000000003,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.11381440597861245,
+    "MediaDeNotas": 9.73090909090909,
+    "MediaDeDesvios": 1.2454545454545454,
+    "NotaMediana": 9.75
+  },
+  "JANAINA LOPES BARBOSA": {
+    "Notas": [
+      8.84,
+      9.14,
+      9.25,
+      9.27,
+      9.28,
+      9.36,
+      9.55,
+      9.56,
+      9.57,
+      9.63,
+      9.63,
+      9.65,
+      9.77,
+      9.87
+    ],
+    "Desvios": [
+      1.61,
+      1.4,
+      2.08,
+      1.63,
+      1.83,
+      1.54,
+      1.39,
+      1.13,
+      1.85,
+      1.85,
+      1.35,
+      1.82,
+      1.94,
+      1.34
+    ],
+    "Componentes": {
+      "FPE2014 - ATELIÊ ARTICULADOR DE SABERES III": {
+        "Notas": [
+          9.27,
+          9.56
+        ],
+        "Desvios": [
+          1.61,
+          1.4
+        ],
+        "DesvioDeNotas": 0.14500000000000046,
+        "MediaDeNotas": 9.415,
+        "MediaDeDesvios": 1.505,
+        "NotaMediana": 9.56
+      },
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.25,
+          9.28,
+          9.36,
+          9.55,
+          9.57,
+          9.65
+        ],
+        "Desvios": [
+          2.08,
+          1.63,
+          1.85,
+          1.85,
+          1.35,
+          1.82
+        ],
+        "DesvioDeNotas": 0.15336956093769824,
+        "MediaDeNotas": 9.443333333333333,
+        "MediaDeDesvios": 1.7633333333333334,
+        "NotaMediana": 9.55
+      },
+      "FPE5002 - ORGANIZAÇÃO E FUNCIONAMENTO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.14,
+          9.63
+        ],
+        "Desvios": [
+          1.83,
+          1.54
+        ],
+        "DesvioDeNotas": 0.2450000000000001,
+        "MediaDeNotas": 9.385000000000002,
+        "MediaDeDesvios": 1.685,
+        "NotaMediana": 9.63
+      },
+      "FPE2013 - ORGANIZAÇÃO E GESTÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.63,
+          9.77
+        ],
+        "Desvios": [
+          1.39,
+          1.13
+        ],
+        "DesvioDeNotas": 0.0699999999999994,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.2599999999999998,
+        "NotaMediana": 9.77
+      },
+      "FPE5012 - SEMINÁRIO DE PESQUISA II": {
+        "Notas": [
+          8.84,
+          9.87
+        ],
+        "Desvios": [
+          1.94,
+          1.34
+        ],
+        "DesvioDeNotas": 0.5149999999999997,
+        "MediaDeNotas": 9.355,
+        "MediaDeDesvios": 1.6400000000000001,
+        "NotaMediana": 9.87
+      }
+    },
+    "DesvioDeNotas": 0.2669068858502638,
+    "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 1.625714285714286,
+    "NotaMediana": 9.56
+  },
+  "JOSE EDMILSON FELIPE DA SILVA": {
+    "Notas": [
+      8.72,
+      8.75,
+      8.91,
+      9.15,
+      9.22,
+      9.25,
+      9.33,
+      9.48,
+      9.49,
+      9.64,
+      9.64,
+      9.71,
+      9.72,
+      9.75,
+      9.77,
+      9.79
+    ],
+    "Desvios": [
+      1.71,
+      2.08,
+      1.59,
+      1.48,
+      1.37,
+      1.59,
+      1.4,
+      2.04,
+      2.12,
+      1.45,
+      1.69,
+      2.13,
+      1.23,
+      1,
+      1.27,
+      1.47
+    ],
+    "Componentes": {
+      "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+        "Notas": [
+          9.15,
+          9.25,
+          9.33
+        ],
+        "Desvios": [
+          1.71,
+          1.37,
+          2.04
+        ],
+        "DesvioDeNotas": 0.07363574011458161,
+        "MediaDeNotas": 9.243333333333334,
+        "MediaDeDesvios": 1.7066666666666668,
+        "NotaMediana": 9.25
+      },
+      "FPE2003 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          8.75,
+          9.71,
+          9.79
+        ],
+        "Desvios": [
+          2.08,
+          1.4,
+          1.45
+        ],
+        "DesvioDeNotas": 0.472534537244516,
+        "MediaDeNotas": 9.416666666666666,
+        "MediaDeDesvios": 1.6433333333333333,
+        "NotaMediana": 9.71
+      },
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          8.72,
+          8.91,
+          9.22,
+          9.48,
+          9.49,
+          9.64,
+          9.77
+        ],
+        "Desvios": [
+          1.59,
+          1.48,
+          2.12,
+          1.69,
+          2.13,
+          1.27,
+          1.47
+        ],
+        "DesvioDeNotas": 0.358067374802507,
+        "MediaDeNotas": 9.31857142857143,
+        "MediaDeDesvios": 1.6785714285714288,
+        "NotaMediana": 9.48
+      },
+      "FPE5023 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.72,
+          9.75
+        ],
+        "Desvios": [
+          1.59,
+          1
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.735,
+        "MediaDeDesvios": 1.295,
+        "NotaMediana": 9.75
+      },
+      "FPE8002 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.64
+      }
+    },
+    "DesvioDeNotas": 0.35236699618437584,
+    "MediaDeNotas": 9.395000000000001,
+    "MediaDeDesvios": 1.60125,
+    "NotaMediana": 9.49
+  },
+  "JULIO RIBEIRO SOARES": {
+    "Notas": [
+      9.14,
+      9.18,
+      9.36,
+      9.37,
+      9.41,
+      9.47,
+      9.49,
+      9.5,
+      9.55,
+      9.59,
+      9.68,
+      9.68,
+      9.72
+    ],
+    "Desvios": [
+      1.62,
+      1.6,
+      2.1,
+      1.39,
+      1.44,
+      1.63,
+      1.69,
+      2.13,
+      1.87,
+      1.25,
+      1.27,
+      1.65,
+      1.42
+    ],
+    "Componentes": {
+      "FPE2014 - ATELIÊ ARTICULADOR DE SABERES III": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.18
+      },
+      "FPE0681 - FUNDAMENTOS DA PSICOLOGIA EDUCACIONAL": {
+        "Notas": [
+          9.14,
+          9.36,
+          9.37,
+          9.41,
+          9.47,
+          9.49,
+          9.55,
+          9.72
+        ],
+        "Desvios": [
+          1.6,
+          2.1,
+          2.13,
+          1.87,
+          1.25,
+          1.27,
+          1.65,
+          1.42
+        ],
+        "DesvioDeNotas": 0.15655969308861095,
+        "MediaDeNotas": 9.438749999999999,
+        "MediaDeDesvios": 1.66125,
+        "NotaMediana": 9.47
+      },
+      "FPE2009 - PSICOLOGIA EDUCACIONAL II": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.68
+      },
+      "PEC1003 - ATELIÊ ARTICULADOR DE SABERES II": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.68
+      },
+      "FPE0500 - FUNDAMENTOS PSICOSSOCIAIS DA APRENDIZAGEM": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.5
+      },
+      "FPE2006 - PSICOLOGIA EDUCACIONAL I": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.17352250335791508,
+    "MediaDeNotas": 9.472307692307691,
+    "MediaDeDesvios": 1.62,
+    "NotaMediana": 9.49
+  },
+  "KARDENIA ALMEIDA MOREIRA": {
+    "Notas": [
+      9.05,
+      9.13,
+      9.32,
+      9.33,
+      9.38,
+      9.52,
+      9.52,
+      9.68,
+      9.69
+    ],
+    "Desvios": [
+      1.48,
+      1.68,
+      1.88,
+      1.99,
+      1.55,
+      1.5,
+      2.12,
+      1.07,
+      2.21
+    ],
+    "Componentes": {
+      "FPE0003 - FUNDAMENTOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.05,
+          9.32,
+          9.33,
+          9.38,
+          9.69
+        ],
+        "Desvios": [
+          1.48,
+          1.68,
+          1.99,
+          1.55,
+          2.12
+        ],
+        "DesvioDeNotas": 0.20382345301755597,
+        "MediaDeNotas": 9.354,
+        "MediaDeDesvios": 1.764,
+        "NotaMediana": 9.33
+      },
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.13,
+          9.52,
+          9.52,
+          9.68
+        ],
+        "Desvios": [
+          1.88,
+          1.5,
+          1.07,
+          2.21
+        ],
+        "DesvioDeNotas": 0.20277758751893615,
+        "MediaDeNotas": 9.4625,
+        "MediaDeDesvios": 1.665,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.21038471521253996,
+    "MediaDeNotas": 9.402222222222223,
+    "MediaDeDesvios": 1.72,
+    "NotaMediana": 9.38
+  },
+  "KILZA FERNANDA MOREIRA DE VIVEIROS": {
+    "Notas": [
+      7.11,
+      8.41,
+      9.07,
+      9.11,
+      9.2,
+      9.31,
+      9.34,
+      9.45
+    ],
+    "Desvios": [
+      1.65,
+      1.48,
+      1.51,
+      1.4,
+      2.03,
+      1.28,
+      1.56,
+      2.36
+    ],
+    "Componentes": {
+      "FPE5027 - GESTÃO E COORDENAÇÃO PEDAGÓGICA": {
+        "Notas": [
+          8.41,
+          9.07,
+          9.11,
+          9.2,
+          9.31,
+          9.34,
+          9.45
+        ],
+        "Desvios": [
+          1.65,
+          1.48,
+          1.51,
+          1.4,
+          2.03,
+          1.28,
+          1.56
+        ],
+        "DesvioDeNotas": 0.3176122652235081,
+        "MediaDeNotas": 9.127142857142857,
+        "MediaDeDesvios": 1.5585714285714283,
+        "NotaMediana": 9.2
+      },
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          7.11
+        ],
+        "Desvios": [
+          2.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.11,
+        "MediaDeDesvios": 2.36,
+        "NotaMediana": 7.11
+      }
+    },
+    "DesvioDeNotas": 0.7302739212103905,
+    "MediaDeNotas": 8.875,
+    "MediaDeDesvios": 1.6587499999999997,
+    "NotaMediana": 9.2
+  },
+  "LUCIA DE ARAUJO RAMOS MARTINS": {
+    "Notas": [
+      9.09,
+      9.32,
+      9.36,
+      9.44,
+      9.55,
+      9.68
+    ],
+    "Desvios": [
+      1.86,
+      2.11,
+      2.09,
+      1.37,
+      1.53,
+      1.31
+    ],
+    "Componentes": {
+      "FPE0587 - INTRODUÇÃO À EDUCAÇÃO ESPECIAL": {
+        "Notas": [
+          9.32,
+          9.44
+        ],
+        "Desvios": [
+          1.86,
+          2.09
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.379999999999999,
+        "MediaDeDesvios": 1.975,
+        "NotaMediana": 9.44
+      },
+      "FPE5017 - EDUCAÇÃO ESPECIAL EM UMA PERSPECTIVA INCLUSIVA": {
+        "Notas": [
+          9.09,
+          9.36,
+          9.68
+        ],
+        "Desvios": [
+          2.11,
+          1.37,
+          1.53
+        ],
+        "DesvioDeNotas": 0.2411546299691456,
+        "MediaDeNotas": 9.376666666666667,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.36
+      },
+      "PEC5056 - METODOLOGIA DO ENSINO PARA PESSOAS COM NECESSIDADES ESPECIAIS I": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.18544241394268168,
+    "MediaDeNotas": 9.406666666666666,
+    "MediaDeDesvios": 1.7116666666666667,
+    "NotaMediana": 9.44
+  },
+  "LUCIANE TERRA DOS SANTOS GARCIA": {
+    "Notas": [
+      9.68,
+      9.78,
+      9.78,
+      9.8
+    ],
+    "Desvios": [
+      2.25,
+      1.35,
+      1.21,
+      1.3
+    ],
+    "Componentes": {
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.68,
+          9.78,
+          9.78,
+          9.8
+        ],
+        "Desvios": [
+          2.25,
+          1.35,
+          1.21,
+          1.3
+        ],
+        "DesvioDeNotas": 0.04690415759823443,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.5275,
+        "NotaMediana": 9.78
+      }
+    },
+    "DesvioDeNotas": 0.04690415759823443,
+    "MediaDeNotas": 9.76,
+    "MediaDeDesvios": 1.5275,
+    "NotaMediana": 9.78
+  },
+  "LUZIA GUACIRA DOS SANTOS SILVA": {
+    "Notas": [
+      9.13,
+      9.4,
+      9.49,
+      9.52,
+      9.52,
+      9.54,
+      9.65,
+      9.65,
+      9.74
+    ],
+    "Desvios": [
+      1.49,
+      1.6,
+      2.08,
+      1.23,
+      1.58,
+      1.58,
+      1.43,
+      1.45,
+      1.14
+    ],
+    "Componentes": {
+      "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.52
+      },
+      "FPE2004 - ATELIÊ DE PESQUISA I": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.52
+      },
+      "FPE0587 - INTRODUÇÃO À EDUCAÇÃO ESPECIAL": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 9.4
+      },
+      "FPE5060 - TECNOLOGIA ASSISTIVA": {
+        "Notas": [
+          9.13
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.13,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.13
+      },
+      "FPE5017 - EDUCAÇÃO ESPECIAL EM UMA PERSPECTIVA INCLUSIVA": {
+        "Notas": [
+          9.49,
+          9.54,
+          9.65
+        ],
+        "Desvios": [
+          1.58,
+          1.58,
+          1.45
+        ],
+        "DesvioDeNotas": 0.06683312551921158,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.5366666666666668,
+        "NotaMediana": 9.54
+      },
+      "FPE2031 - PESQUISA DE PROCESSOS DE INCLUSÃO ESCOLAR NA EDUCAÇÃO INFANTIL": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.65
+      },
+      "PEC5057 - METODOLOGIA DO ENSINO PARA PESSOAS COM NECESSIDADES ESPECIAIS II": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.14,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.1666073968686804,
+    "MediaDeNotas": 9.515555555555554,
+    "MediaDeDesvios": 1.508888888888889,
+    "NotaMediana": 9.52
+  },
+  "MARIA CLAUDIA LEMOS MORAIS DO NASCIMENTO": {
+    "Notas": [
+      9.05,
+      9.47,
+      9.59,
+      9.61,
+      9.71,
+      9.87
+    ],
+    "Desvios": [
+      1.52,
+      1.95,
+      1.78,
+      1.76,
+      1.1,
+      0.74
+    ],
+    "Componentes": {
+      "FPE0003 - FUNDAMENTOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.05,
+          9.71
+        ],
+        "Desvios": [
+          1.52,
+          1.95
+        ],
+        "DesvioDeNotas": 0.33000000000000007,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.7349999999999999,
+        "NotaMediana": 9.71
+      },
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.47
+      },
+      "FPE5012 - SEMINÁRIO DE PESQUISA II": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.59
+      },
+      "FPE5025 - SEMINÁRIO DE PESQUISA III": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.61
+      },
+      "FPE5033 - SEMINÁRIO DE PESQUISA IV": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          0.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 0.74,
+        "NotaMediana": 9.87
+      }
+    },
+    "DesvioDeNotas": 0.2548201980482182,
+    "MediaDeNotas": 9.55,
+    "MediaDeDesvios": 1.4749999999999999,
+    "NotaMediana": 9.61
+  },
+  "MARIA CRISTINA LEANDRO DE PAIVA": {
+    "Notas": [
+      9.04,
+      9.22,
+      9.43,
+      9.46,
+      9.53
+    ],
+    "Desvios": [
+      1.66,
+      1.65,
+      1.74,
+      1.85,
+      1.4
+    ],
+    "Componentes": {
+      "FPE2014 - ATELIÊ ARTICULADOR DE SABERES III": {
+        "Notas": [
+          9.04
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.04
+      },
+      "FPE2010 - EDUCAÇÃO INFANTIL I": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.43
+      },
+      "FPE5018 - EDUCAÇÃO INFANTIL": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.53
+      },
+      "FPE5024 - ALFABETIZAÇÃO E LETRAMENTO II": {
+        "Notas": [
+          9.22,
+          9.46
+        ],
+        "Desvios": [
+          1.85,
+          1.4
+        ],
+        "DesvioDeNotas": 0.1200000000000001,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.625,
+        "NotaMediana": 9.46
+      }
+    },
+    "DesvioDeNotas": 0.18051038751274134,
+    "MediaDeNotas": 9.336,
+    "MediaDeDesvios": 1.6600000000000001,
+    "NotaMediana": 9.43
+  },
+  "MARIA GORETTI CABRAL BARBALHO": {
+    "Notas": [
+      5.31,
+      5.71,
+      7.1,
+      7.28,
+      8.32,
+      8.44,
+      9.05,
+      9.07,
+      9.12,
+      9.36
+    ],
+    "Desvios": [
+      2.08,
+      2.97,
+      2.05,
+      1.75,
+      1.81,
+      2.88,
+      3.14,
+      2.99,
+      1.98,
+      1.25
+    ],
+    "Componentes": {
+      "FPE2014 - ATELIÊ ARTICULADOR DE SABERES III": {
+        "Notas": [
+          8.32
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.32,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 8.32
+      },
+      "FPE2011 - POLÍTICAS PÚBLICAS DA EDUCAÇÃO": {
+        "Notas": [
+          5.71
+        ],
+        "Desvios": [
+          2.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 5.71,
+        "MediaDeDesvios": 2.97,
+        "NotaMediana": 5.71
+      },
+      "FPE5025 - SEMINÁRIO DE PESQUISA III": {
+        "Notas": [
+          8.44
+        ],
+        "Desvios": [
+          2.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.44,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 8.44
+      },
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.07,
+          9.12
+        ],
+        "Desvios": [
+          1.75,
+          1.81
+        ],
+        "DesvioDeNotas": 0.02499999999999947,
+        "MediaDeNotas": 9.094999999999999,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.12
+      },
+      "FPE5009 - POLÍTICAS PÚBLICAS E GESTÃO DA EDUCAÇÃO": {
+        "Notas": [
+          5.31,
+          7.1,
+          9.05,
+          9.36
+        ],
+        "Desvios": [
+          2.88,
+          3.14,
+          1.98,
+          1.25
+        ],
+        "DesvioDeNotas": 1.6317245478327524,
+        "MediaDeNotas": 7.705,
+        "MediaDeDesvios": 2.3125,
+        "NotaMediana": 9.05
+      },
+      "FPE5005 - SEMINÁRIO DE PESQUISA I": {
+        "Notas": [
+          7.28
+        ],
+        "Desvios": [
+          2.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.28,
+        "MediaDeDesvios": 2.99,
+        "NotaMediana": 7.28
+      }
+    },
+    "DesvioDeNotas": 1.3893250159699853,
+    "MediaDeNotas": 7.876,
+    "MediaDeDesvios": 2.29,
+    "NotaMediana": 8.44
+  },
+  "MARIA INES SUCUPIRA STAMATTO": {
+    "Notas": [
+      9.18,
+      9.52,
+      9.68,
+      9.69,
+      9.75,
+      9.77,
+      9.83
+    ],
+    "Desvios": [
+      1.63,
+      1.41,
+      1.24,
+      1.84,
+      1.5,
+      1.38,
+      1.45
+    ],
+    "Componentes": {
+      "FPE2014 - ATELIÊ ARTICULADOR DE SABERES III": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.18
+      },
+      "FPE2012 - FUNDAMENTOS DA HISTÓRIA E DA FILOSOFIA DA EDUCAÇÃO": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.75
+      },
+      "FPE5014 - FUNDAMENTOS HISTÓRICO-FILOSÓFICOS DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.69
+      },
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.83
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 9.83
+      },
+      "FPE5007 - FUNDAMENTOS HISTÓRICO-FILOSÓFICOS DA EDUCAÇÃO II": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.77
+      },
+      "FPE5000 - FUNDAMENTOS HISTÓRICO-FILOSÓFICOS DA EDUCAÇÃO I": {
+        "Notas": [
+          9.52,
+          9.68
+        ],
+        "Desvios": [
+          1.38,
+          1.45
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.415,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.20517787206147134,
+    "MediaDeNotas": 9.631428571428572,
+    "MediaDeDesvios": 1.4928571428571427,
+    "NotaMediana": 9.69
+  },
+  "MARIA KERSIA DA SILVA DOURADO": {
+    "Notas": [
+      9.79,
+      9.81,
+      9.83,
+      9.84,
+      9.87,
+      9.94,
+      9.94,
+      9.95,
+      9.96
+    ],
+    "Desvios": [
+      1.23,
+      1.4,
+      1.28,
+      0.92,
+      1.04,
+      0.85,
+      1.41,
+      1.52,
+      1.28
+    ],
+    "Componentes": {
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.79,
+          9.83,
+          9.87,
+          9.96
+        ],
+        "Desvios": [
+          1.23,
+          1.4,
+          1.28,
+          0.85
+        ],
+        "DesvioDeNotas": 0.06299801584177131,
+        "MediaDeNotas": 9.8625,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.87
+      },
+      "FPE5023 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.81,
+          9.84,
+          9.95
+        ],
+        "Desvios": [
+          0.92,
+          1.41,
+          1.52
+        ],
+        "DesvioDeNotas": 0.0601849002842255,
+        "MediaDeNotas": 9.866666666666665,
+        "MediaDeDesvios": 1.2833333333333334,
+        "NotaMediana": 9.84
+      },
+      "FPE2003 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.94,
+          9.94
+        ],
+        "Desvios": [
+          1.04,
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 1.1600000000000001,
+        "NotaMediana": 9.94
+      }
+    },
+    "DesvioDeNotas": 0.06297167695691004,
+    "MediaDeNotas": 9.88111111111111,
+    "MediaDeDesvios": 1.2144444444444442,
+    "NotaMediana": 9.87
+  },
+  "MARTA MARIA DE ARAUJO": {
+    "Notas": [
+      5.48,
+      7.23,
+      8.65,
+      8.95,
+      9.08
+    ],
+    "Desvios": [
+      3.28,
+      3.83,
+      2.27,
+      2.47,
+      1.69
+    ],
+    "Componentes": {
+      "FPE2014 - ATELIÊ ARTICULADOR DE SABERES III": {
+        "Notas": [
+          7.23
+        ],
+        "Desvios": [
+          3.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.23,
+        "MediaDeDesvios": 3.28,
+        "NotaMediana": 7.23
+      },
+      "FPE2012 - FUNDAMENTOS DA HISTÓRIA E DA FILOSOFIA DA EDUCAÇÃO": {
+        "Notas": [
+          5.48
+        ],
+        "Desvios": [
+          3.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 5.48,
+        "MediaDeDesvios": 3.83,
+        "NotaMediana": 5.48
+      },
+      "FPE5014 - FUNDAMENTOS HISTÓRICO-FILOSÓFICOS DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          8.65,
+          8.95,
+          9.08
+        ],
+        "Desvios": [
+          2.27,
+          2.47,
+          1.69
+        ],
+        "DesvioDeNotas": 0.18006171781425986,
+        "MediaDeNotas": 8.893333333333333,
+        "MediaDeDesvios": 2.143333333333333,
+        "NotaMediana": 8.95
+      }
+    },
+    "DesvioDeNotas": 1.3682309746530368,
+    "MediaDeNotas": 7.878,
+    "MediaDeDesvios": 2.7079999999999997,
+    "NotaMediana": 8.65
+  },
+  "OLIVIA MORAIS DE MEDEIROS NETA": {
+    "Notas": [
+      9.65,
+      9.68,
+      9.72,
+      9.77,
+      9.82,
+      9.86,
+      9.89,
+      9.89,
+      9.91,
+      9.95
+    ],
+    "Desvios": [
+      1.37,
+      0.73,
+      1.06,
+      1.21,
+      0.81,
+      1.95,
+      1.58,
+      1.44,
+      1.26,
+      1.2
+    ],
+    "Componentes": {
+      "FPE5012 - SEMINÁRIO DE PESQUISA II": {
+        "Notas": [
+          9.68,
+          9.95
+        ],
+        "Desvios": [
+          1.37,
+          1.21
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.815,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.95
+      },
+      "FPE5025 - SEMINÁRIO DE PESQUISA III": {
+        "Notas": [
+          9.89,
+          9.91
+        ],
+        "Desvios": [
+          0.73,
+          0.81
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.77,
+        "NotaMediana": 9.91
+      },
+      "FPE5014 - FUNDAMENTOS HISTÓRICO-FILOSÓFICOS DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          1.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.06,
+        "NotaMediana": 9.89
+      },
+      "FPE0003 - FUNDAMENTOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.65,
+          9.77
+        ],
+        "Desvios": [
+          1.95,
+          1.44
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.6949999999999998,
+        "NotaMediana": 9.77
+      },
+      "FPE5007 - FUNDAMENTOS HISTÓRICO-FILOSÓFICOS DA EDUCAÇÃO II": {
+        "Notas": [
+          9.72,
+          9.82,
+          9.86
+        ],
+        "Desvios": [
+          1.58,
+          1.26,
+          1.2
+        ],
+        "DesvioDeNotas": 0.05887840577551853,
+        "MediaDeNotas": 9.799999999999999,
+        "MediaDeDesvios": 1.3466666666666667,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.09850888284819792,
+    "MediaDeNotas": 9.813999999999998,
+    "MediaDeDesvios": 1.261,
+    "NotaMediana": 9.86
+  },
+  "PAULO ROBERTO DE ANDRADE SANTOS": {
+    "Notas": [
+      7.93,
+      9.16,
+      9.49,
+      9.49,
+      9.63,
+      9.65,
+      9.71,
+      9.73
+    ],
+    "Desvios": [
+      1.46,
+      1.63,
+      1.22,
+      1.3,
+      1.69,
+      2.26,
+      1.33,
+      1.06
+    ],
+    "Componentes": {
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          7.93,
+          9.16,
+          9.49,
+          9.49,
+          9.63,
+          9.65,
+          9.71,
+          9.73
+        ],
+        "Desvios": [
+          1.46,
+          1.63,
+          1.22,
+          1.3,
+          1.69,
+          2.26,
+          1.33,
+          1.06
+        ],
+        "DesvioDeNotas": 0.562815189471642,
+        "MediaDeNotas": 9.348749999999999,
+        "MediaDeDesvios": 1.49375,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.562815189471642,
+    "MediaDeNotas": 9.348749999999999,
+    "MediaDeDesvios": 1.49375,
+    "NotaMediana": 9.63
+  },
+  "RENATA VIANA DE BARROS THOME": {
+    "Notas": [
+      9.08,
+      9.29,
+      9.5,
+      9.57,
+      9.58,
+      9.59,
+      9.62,
+      9.65,
+      9.66,
+      9.66,
+      9.7,
+      9.73,
+      9.77,
+      9.79,
+      9.85,
+      9.91
+    ],
+    "Desvios": [
+      1.56,
+      1.25,
+      1.5,
+      1.31,
+      2.31,
+      1.38,
+      0.77,
+      1.58,
+      1.01,
+      2.29,
+      1.49,
+      1.98,
+      0.24,
+      1.65,
+      1.41,
+      1.2
+    ],
+    "Componentes": {
+      "PEC1003 - ATELIÊ ARTICULADOR DE SABERES II": {
+        "Notas": [
+          9.58,
+          9.66,
+          9.73,
+          9.91
+        ],
+        "Desvios": [
+          1.56,
+          1.25,
+          1.38,
+          0.77
+        ],
+        "DesvioDeNotas": 0.12186057606953944,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.2399999999999998,
+        "NotaMediana": 9.73
+      },
+      "FPE2007 - FUNDAMENTOS DE SOCIOLOGIA DA EDUCAÇÃO": {
+        "Notas": [
+          9.65,
+          9.66,
+          9.77,
+          9.79
+        ],
+        "Desvios": [
+          1.5,
+          1.31,
+          1.58,
+          1.01
+        ],
+        "DesvioDeNotas": 0.0629980158417703,
+        "MediaDeNotas": 9.7175,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.77
+      },
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.08,
+          9.5,
+          9.57,
+          9.59,
+          9.62
+        ],
+        "Desvios": [
+          2.31,
+          2.29,
+          1.65,
+          1.41,
+          1.2
+        ],
+        "DesvioDeNotas": 0.19993999099729887,
+        "MediaDeNotas": 9.472,
+        "MediaDeDesvios": 1.7719999999999998,
+        "NotaMediana": 9.57
+      },
+      "FPE5010 - SOCIOLOGIA DA EDUCAÇÃO": {
+        "Notas": [
+          9.29,
+          9.7
+        ],
+        "Desvios": [
+          1.49,
+          1.98
+        ],
+        "DesvioDeNotas": 0.20500000000000007,
+        "MediaDeNotas": 9.495,
+        "MediaDeDesvios": 1.7349999999999999,
+        "NotaMediana": 9.7
+      },
+      "FPE0003 - FUNDAMENTOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.85
+        ],
+        "Desvios": [
+          0.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.85,
+        "MediaDeDesvios": 0.24,
+        "NotaMediana": 9.85
+      }
+    },
+    "DesvioDeNotas": 0.1985641820042074,
+    "MediaDeNotas": 9.621875,
+    "MediaDeDesvios": 1.4331249999999998,
+    "NotaMediana": 9.66
+  },
+  "RITA DIANA DE FREITAS GURGEL": {
+    "Notas": [
+      8.93,
+      9.3,
+      9.47,
+      9.6,
+      9.63,
+      9.64,
+      9.86,
+      9.89
+    ],
+    "Desvios": [
+      1.42,
+      1.81,
+      1.8,
+      1.98,
+      1.91,
+      1.66,
+      1.04,
+      2.27
+    ],
+    "Componentes": {
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          8.93,
+          9.3,
+          9.6,
+          9.63,
+          9.64,
+          9.86,
+          9.89
+        ],
+        "Desvios": [
+          1.42,
+          1.81,
+          1.98,
+          1.91,
+          1.66,
+          1.04,
+          2.27
+        ],
+        "DesvioDeNotas": 0.31066748415997086,
+        "MediaDeNotas": 9.549999999999999,
+        "MediaDeDesvios": 1.727142857142857,
+        "NotaMediana": 9.63
+      },
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.47
+      }
+    },
+    "DesvioDeNotas": 0.2918047292282975,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.73625,
+    "NotaMediana": 9.63
+  },
+  "ROBSON SAVOLDI": {
+    "Notas": [
+      8.26,
+      8.54,
+      8.62,
+      8.65,
+      9,
+      9.21,
+      9.22,
+      9.27,
+      9.32,
+      9.54,
+      9.65,
+      9.71,
+      9.73
+    ],
+    "Desvios": [
+      1.7,
+      1.86,
+      1.75,
+      2.42,
+      2.24,
+      1.93,
+      1.9,
+      1.77,
+      1.22,
+      1.48,
+      1.58,
+      1.8,
+      1.05
+    ],
+    "Componentes": {
+      "PEC1003 - ATELIÊ ARTICULADOR DE SABERES II": {
+        "Notas": [
+          8.54,
+          9.32
+        ],
+        "Desvios": [
+          1.7,
+          1.86
+        ],
+        "DesvioDeNotas": 0.39000000000000057,
+        "MediaDeNotas": 8.93,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.32
+      },
+      "FPE0681 - FUNDAMENTOS DA PSICOLOGIA EDUCACIONAL": {
+        "Notas": [
+          8.62,
+          8.65,
+          9,
+          9.21,
+          9.22,
+          9.27,
+          9.54,
+          9.65,
+          9.71,
+          9.73
+        ],
+        "Desvios": [
+          1.75,
+          2.42,
+          1.93,
+          1.9,
+          1.77,
+          1.22,
+          1.48,
+          1.58,
+          1.8,
+          1.05
+        ],
+        "DesvioDeNotas": 0.38825249516261984,
+        "MediaDeNotas": 9.260000000000002,
+        "MediaDeDesvios": 1.6900000000000002,
+        "NotaMediana": 9.27
+      },
+      "FPE2006 - PSICOLOGIA EDUCACIONAL I": {
+        "Notas": [
+          8.26
+        ],
+        "Desvios": [
+          2.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.26,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 8.26
+      }
+    },
+    "DesvioDeNotas": 0.46553780059945987,
+    "MediaDeNotas": 9.132307692307695,
+    "MediaDeDesvios": 1.7461538461538464,
+    "NotaMediana": 9.22
+  },
+  "ROSALIA DE FATIMA E SILVA": {
+    "Notas": [
+      7.71,
+      8.26,
+      8.36,
+      8.84,
+      9.28,
+      9.43,
+      9.45,
+      9.48,
+      9.65,
+      9.66,
+      9.74
+    ],
+    "Desvios": [
+      1.6,
+      1.54,
+      1.53,
+      1.64,
+      2.43,
+      1.83,
+      2.24,
+      2.54,
+      2,
+      1.73,
+      1.6
+    ],
+    "Componentes": {
+      "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+        "Notas": [
+          8.26,
+          8.84,
+          9.43,
+          9.45,
+          9.65
+        ],
+        "Desvios": [
+          1.6,
+          1.54,
+          2.43,
+          1.83,
+          2
+        ],
+        "DesvioDeNotas": 0.5106309822170998,
+        "MediaDeNotas": 9.126000000000001,
+        "MediaDeDesvios": 1.8800000000000001,
+        "NotaMediana": 9.43
+      },
+      "FPE2001 - FUNDAMENTOS EPISTEMOLÓGICOS DA EDUCAÇÃO": {
+        "Notas": [
+          7.71,
+          8.36,
+          9.48,
+          9.66,
+          9.74
+        ],
+        "Desvios": [
+          1.53,
+          1.64,
+          2.24,
+          2.54,
+          1.73
+        ],
+        "DesvioDeNotas": 0.8107774047172259,
+        "MediaDeNotas": 8.99,
+        "MediaDeDesvios": 1.936,
+        "NotaMediana": 9.48
+      },
+      "FPE5014 - FUNDAMENTOS HISTÓRICO-FILOSÓFICOS DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.28
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.28,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.28
+      }
+    },
+    "DesvioDeNotas": 0.6523777235734496,
+    "MediaDeNotas": 9.078181818181816,
+    "MediaDeDesvios": 1.8800000000000003,
+    "NotaMediana": 9.43
+  },
+  "ROSSANA KESS BRITO DE SOUZA PINHEIRO": {
+    "Notas": [
+      8.49,
+      8.71,
+      9.18,
+      9.23,
+      9.23,
+      9.41,
+      9.75
+    ],
+    "Desvios": [
+      1.78,
+      2.27,
+      2.17,
+      1.79,
+      2.19,
+      1.69,
+      1.28
+    ],
+    "Componentes": {
+      "FPE0681 - FUNDAMENTOS DA PSICOLOGIA EDUCACIONAL": {
+        "Notas": [
+          8.49,
+          8.71,
+          9.18,
+          9.23,
+          9.23,
+          9.41,
+          9.75
+        ],
+        "Desvios": [
+          1.78,
+          2.27,
+          2.17,
+          1.79,
+          2.19,
+          1.69,
+          1.28
+        ],
+        "DesvioDeNotas": 0.3909955895152886,
+        "MediaDeNotas": 9.142857142857142,
+        "MediaDeDesvios": 1.8814285714285712,
+        "NotaMediana": 9.23
+      }
+    },
+    "DesvioDeNotas": 0.3909955895152886,
+    "MediaDeNotas": 9.142857142857142,
+    "MediaDeDesvios": 1.8814285714285712,
+    "NotaMediana": 9.23
+  },
+  "RUTE REGIS DE OLIVEIRA DA SILVA": {
+    "Notas": [
+      8.22,
+      8.38,
+      8.43,
+      8.72,
+      8.85,
+      8.93,
+      9.21,
+      9.24,
+      9.3,
+      9.4,
+      9.4,
+      9.55
+    ],
+    "Desvios": [
+      1.56,
+      1.91,
+      1.68,
+      1.81,
+      2.03,
+      2.64,
+      1.77,
+      1.88,
+      2.72,
+      1.67,
+      1.88,
+      1.64
+    ],
+    "Componentes": {
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          8.22,
+          8.38,
+          8.43,
+          8.72,
+          8.85,
+          8.93,
+          9.21,
+          9.24,
+          9.3,
+          9.4,
+          9.4,
+          9.55
+        ],
+        "Desvios": [
+          1.56,
+          1.91,
+          1.68,
+          1.81,
+          2.03,
+          2.64,
+          1.77,
+          1.88,
+          2.72,
+          1.67,
+          1.88,
+          1.64
+        ],
+        "DesvioDeNotas": 0.430725324952638,
+        "MediaDeNotas": 8.969166666666666,
+        "MediaDeDesvios": 1.9324999999999994,
+        "NotaMediana": 9.21
+      }
+    },
+    "DesvioDeNotas": 0.430725324952638,
+    "MediaDeNotas": 8.969166666666666,
+    "MediaDeDesvios": 1.9324999999999994,
+    "NotaMediana": 9.21
+  },
+  "SARAH DE LIMA MENDES": {
+    "Notas": [
+      9.58,
+      9.78
+    ],
+    "Desvios": [
+      1.25,
+      1.5
+    ],
+    "Componentes": {
+      "FPE5004 - EDUCAÇÃO E LINGUAGEM": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.78
+      },
+      "FPE5018 - EDUCAÇÃO INFANTIL": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.58
+      }
+    },
+    "DesvioDeNotas": 0.09999999999999964,
+    "MediaDeNotas": 9.68,
+    "MediaDeDesvios": 1.375,
+    "NotaMediana": 9.78
+  },
+  "SEDINA DOS SANTOS JALES FERREIRA": {
+    "Notas": [
+      6.47,
+      7.67,
+      7.82,
+      7.82,
+      8.27,
+      8.31,
+      8.59,
+      8.62,
+      8.64,
+      8.66,
+      8.71,
+      8.88,
+      9.07,
+      9.18,
+      9.47,
+      9.65
+    ],
+    "Desvios": [
+      1.52,
+      1.65,
+      2.12,
+      1.87,
+      2.87,
+      1.82,
+      2.34,
+      2.67,
+      1.76,
+      2.35,
+      3.26,
+      2.49,
+      2.03,
+      2.11,
+      1.12,
+      1.05
+    ],
+    "Componentes": {
+      "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+        "Notas": [
+          7.67,
+          7.82,
+          8.62,
+          9.07,
+          9.18
+        ],
+        "Desvios": [
+          1.52,
+          1.65,
+          1.82,
+          2.34,
+          3.26
+        ],
+        "DesvioDeNotas": 0.6243524645582813,
+        "MediaDeNotas": 8.472,
+        "MediaDeDesvios": 2.118,
+        "NotaMediana": 8.62
+      },
+      "FPE2003 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          6.47,
+          7.82,
+          8.27,
+          8.59,
+          8.66
+        ],
+        "Desvios": [
+          2.12,
+          2.87,
+          2.67,
+          1.76,
+          2.11
+        ],
+        "DesvioDeNotas": 0.802829994457108,
+        "MediaDeNotas": 7.962000000000001,
+        "MediaDeDesvios": 2.306,
+        "NotaMediana": 8.27
+      },
+      "FPE5023 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          8.88
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.88,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 8.88
+      },
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          8.31,
+          8.64,
+          8.71,
+          9.47,
+          9.65
+        ],
+        "Desvios": [
+          2.35,
+          2.49,
+          2.03,
+          1.12,
+          1.05
+        ],
+        "DesvioDeNotas": 0.5144939261060328,
+        "MediaDeNotas": 8.956,
+        "MediaDeDesvios": 1.8079999999999998,
+        "NotaMediana": 8.71
+      }
+    },
+    "DesvioDeNotas": 0.755343206347287,
+    "MediaDeNotas": 8.489375,
+    "MediaDeDesvios": 2.0643750000000005,
+    "NotaMediana": 8.64
+  },
+  "WALTER PINHEIRO BARBOSA JUNIOR": {
+    "Notas": [
+      8.14,
+      9.22,
+      9.42,
+      9.52,
+      9.65,
+      9.71,
+      9.75,
+      9.81,
+      9.86,
+      9.87
+    ],
+    "Desvios": [
+      1.15,
+      1.46,
+      1.77,
+      1.84,
+      3.04,
+      1.49,
+      1.49,
+      1.29,
+      1.35,
+      1.2
+    ],
+    "Componentes": {
+      "FPE2032 - FUNDAMENTOS DE ANTROPOLOGIA DA EDUCAÇÃO": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.86
+      },
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.81
+      },
+      "FPE5022 - ANTROPOLOGIA E EDUCAÇÃO": {
+        "Notas": [
+          9.42,
+          9.75
+        ],
+        "Desvios": [
+          1.77,
+          1.29
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.585,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.75
+      },
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.22,
+          9.71
+        ],
+        "Desvios": [
+          1.84,
+          1.2
+        ],
+        "DesvioDeNotas": 0.2450000000000001,
+        "MediaDeNotas": 9.465,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.71
+      },
+      "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+        "Notas": [
+          8.14
+        ],
+        "Desvios": [
+          3.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.14,
+        "MediaDeDesvios": 3.04,
+        "NotaMediana": 8.14
+      },
+      "FPE2001 - FUNDAMENTOS EPISTEMOLÓGICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.65
+      },
+      "FPE5014 - FUNDAMENTOS HISTÓRICO-FILOSÓFICOS DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.52
+      },
+      "FPE0003 - FUNDAMENTOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.87
+      }
+    },
+    "DesvioDeNotas": 0.4925697920092134,
+    "MediaDeNotas": 9.495000000000001,
+    "MediaDeDesvios": 1.608,
+    "NotaMediana": 9.71
+  },
+  "CLARIANA MORAIS TINOCO CABRAL": {
+    "Notas": [
+      9.47,
+      9.71,
+      9.71,
+      9.79,
+      9.79
+    ],
+    "Desvios": [
+      1.52,
+      1.37,
+      1.72,
+      1.54,
+      1.54
+    ],
+    "Componentes": {
+      "FPE5011 - APRENDIZAGEM E DESENVOLVIMENTO DA LINGUAGEM": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.47
+      },
+      "FPE0681 - FUNDAMENTOS DA PSICOLOGIA EDUCACIONAL": {
+        "Notas": [
+          9.71,
+          9.71,
+          9.79,
+          9.79
+        ],
+        "Desvios": [
+          1.37,
+          1.72,
+          1.54,
+          1.54
+        ],
+        "DesvioDeNotas": 0.03999999999999915,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.5425,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.11757550765359208,
+    "MediaDeNotas": 9.693999999999999,
+    "MediaDeDesvios": 1.538,
+    "NotaMediana": 9.71
+  },
+  "NARA LIDIANA SILVA DIAS CARLOS": {
+    "Notas": [
+      9.62,
+      9.7,
+      9.79
+    ],
+    "Desvios": [
+      1.57,
+      1.63,
+      1.67
+    ],
+    "Componentes": {
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.62,
+          9.7,
+          9.79
+        ],
+        "Desvios": [
+          1.57,
+          1.63,
+          1.67
+        ],
+        "DesvioDeNotas": 0.0694422221866655,
+        "MediaDeNotas": 9.703333333333333,
+        "MediaDeDesvios": 1.6233333333333333,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.0694422221866655,
+    "MediaDeNotas": 9.703333333333333,
+    "MediaDeDesvios": 1.6233333333333333,
+    "NotaMediana": 9.7
+  },
+  "FRANCISCO GEOCI DA SILVA": {
+    "Notas": [
+      6.82,
+      8.34,
+      9.12,
+      9.16,
+      9.24,
+      9.29,
+      9.29,
+      9.57
+    ],
+    "Desvios": [
+      2.22,
+      2.08,
+      2.84,
+      1.49,
+      1.66,
+      1.55,
+      1.55,
+      1.11
+    ],
+    "Componentes": {
+      "FPE5004 - EDUCAÇÃO E LINGUAGEM": {
+        "Notas": [
+          8.34,
+          9.29,
+          9.29
+        ],
+        "Desvios": [
+          2.22,
+          1.49,
+          1.66
+        ],
+        "DesvioDeNotas": 0.4478342947514798,
+        "MediaDeNotas": 8.973333333333333,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.29
+      },
+      "FPE5040 - TEORIA E PRÁTICA DA LITERATURA I": {
+        "Notas": [
+          6.82,
+          9.12
+        ],
+        "Desvios": [
+          2.08,
+          2.84
+        ],
+        "DesvioDeNotas": 1.1499999999999995,
+        "MediaDeNotas": 7.97,
+        "MediaDeDesvios": 2.46,
+        "NotaMediana": 9.12
+      },
+      "FPE5005 - SEMINÁRIO DE PESQUISA I": {
+        "Notas": [
+          9.16,
+          9.24
+        ],
+        "Desvios": [
+          1.55,
+          1.55
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.24
+      },
+      "FPE5025 - SEMINÁRIO DE PESQUISA III": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.11,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.8372266344903271,
+    "MediaDeNotas": 8.853750000000002,
+    "MediaDeDesvios": 1.8125000000000002,
+    "NotaMediana": 9.24
+  },
+  "PEDRO LUIZ DOS SANTOS FILHO": {
+    "Notas": [
+      9.42,
+      9.42,
+      9.49,
+      9.53
+    ],
+    "Desvios": [
+      1.25,
+      1.91,
+      1.49,
+      1.45
+    ],
+    "Componentes": {
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.42,
+          9.42,
+          9.49,
+          9.53
+        ],
+        "Desvios": [
+          1.25,
+          1.91,
+          1.49,
+          1.45
+        ],
+        "DesvioDeNotas": 0.04716990566028286,
+        "MediaDeNotas": 9.465,
+        "MediaDeDesvios": 1.5250000000000001,
+        "NotaMediana": 9.49
+      }
+    },
+    "DesvioDeNotas": 0.04716990566028286,
+    "MediaDeNotas": 9.465,
+    "MediaDeDesvios": 1.5250000000000001,
+    "NotaMediana": 9.49
+  },
+  "THIAGO MATIAS DE SOUSA ARAUJO": {
+    "Notas": [
+      9.57,
+      9.58,
+      9.62,
+      9.68,
+      9.86
+    ],
+    "Desvios": [
+      1.63,
+      1.43,
+      1.56,
+      1.22,
+      1.22
+    ],
+    "Componentes": {
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.57,
+          9.58,
+          9.68,
+          9.86
+        ],
+        "Desvios": [
+          1.63,
+          1.43,
+          1.56,
+          1.22
+        ],
+        "DesvioDeNotas": 0.11648497757221714,
+        "MediaDeNotas": 9.6725,
+        "MediaDeDesvios": 1.4599999999999997,
+        "NotaMediana": 9.68
+      },
+      "FPE0003 - FUNDAMENTOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.62
+      }
+    },
+    "DesvioDeNotas": 0.10628264204469115,
+    "MediaDeNotas": 9.661999999999999,
+    "MediaDeDesvios": 1.4119999999999997,
+    "NotaMediana": 9.62
+  },
+  "ALEXANDRE CASTRO GOLLO": {
+    "Notas": [
+      9.42,
+      9.64,
+      9.87
+    ],
+    "Desvios": [
+      0.98,
+      1.32,
+      1.28
+    ],
+    "Componentes": {
+      "FPE5023 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.87
+      },
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.42,
+          9.64
+        ],
+        "Desvios": [
+          1.32,
+          1.28
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 9.530000000000001,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.64
+      }
+    },
+    "DesvioDeNotas": 0.18372685039360862,
+    "MediaDeNotas": 9.643333333333333,
+    "MediaDeDesvios": 1.1933333333333334,
+    "NotaMediana": 9.64
+  },
+  "CHRISTOMYSLLEY ROMEIRO DA SILVA": {
+    "Notas": [
+      9.39,
+      9.48,
+      9.68
+    ],
+    "Desvios": [
+      1.49,
+      1.51,
+      1.51
+    ],
+    "Componentes": {
+      "FPE5022 - ANTROPOLOGIA E EDUCAÇÃO": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.48
+      },
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.39,
+          9.68
+        ],
+        "Desvios": [
+          1.51,
+          1.51
+        ],
+        "DesvioDeNotas": 0.14499999999999957,
+        "MediaDeNotas": 9.535,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.12119772641798525,
+    "MediaDeNotas": 9.516666666666667,
+    "MediaDeDesvios": 1.5033333333333332,
+    "NotaMediana": 9.48
+  },
+  "MARCOS TORRES CARNEIRO": {
+    "Notas": [
+      9.54,
+      9.63,
+      9.71
+    ],
+    "Desvios": [
+      1.27,
+      1.23,
+      1.45
+    ],
+    "Componentes": {
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.71
+      },
+      "FPE0682 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+        "Notas": [
+          9.54,
+          9.63
+        ],
+        "Desvios": [
+          1.23,
+          1.45
+        ],
+        "DesvioDeNotas": 0.04500000000000082,
+        "MediaDeNotas": 9.585,
+        "MediaDeDesvios": 1.3399999999999999,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.06944222218666624,
+    "MediaDeNotas": 9.626666666666667,
+    "MediaDeDesvios": 1.3166666666666667,
+    "NotaMediana": 9.63
+  },
+  "MARIANGELA MOMO": {
+    "Notas": [
+      9.56,
+      9.58
+    ],
+    "Desvios": [
+      1.36,
+      1.31
+    ],
+    "Componentes": {
+      "FPE5018 - EDUCAÇÃO INFANTIL": {
+        "Notas": [
+          9.56,
+          9.58
+        ],
+        "Desvios": [
+          1.36,
+          1.31
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.335,
+        "NotaMediana": 9.58
+      }
+    },
+    "DesvioDeNotas": 0.009999999999999787,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.335,
+    "NotaMediana": 9.58
+  },
+  "RENATA NOGUEIRA MACHADO": {
+    "Notas": [
+      9.72,
+      9.86,
+      9.89
+    ],
+    "Desvios": [
+      1.36,
+      1.16,
+      1.17
+    ],
+    "Componentes": {
+      "FPE0087 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+        "Notas": [
+          9.72,
+          9.86,
+          9.89
+        ],
+        "Desvios": [
+          1.36,
+          1.16,
+          1.17
+        ],
+        "DesvioDeNotas": 0.07408703590297601,
+        "MediaDeNotas": 9.823333333333332,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.86
+      }
+    },
+    "DesvioDeNotas": 0.07408703590297601,
+    "MediaDeNotas": 9.823333333333332,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.86
+  },
+  "RITA DE CASSIA BARBOSA PAIVA MAGALHAES": {
+    "Notas": [
+      9.37
+    ],
+    "Desvios": [
+      1.5
+    ],
+    "Componentes": {
+      "FPE0587 - INTRODUÇÃO À EDUCAÇÃO ESPECIAL": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.37,
+    "MediaDeDesvios": 1.5,
+    "NotaMediana": 9.37
+  }
+}
