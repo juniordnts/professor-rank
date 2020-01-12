@@ -1,0 +1,1370 @@
+[
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0026 - CONSERVAÇÃO E GESTÃO AMBIENTAL",
+    "Turma": "1",
+    "Horário": "6T3456",
+    "Discentes": "21",
+    "Média Geral": "8.69",
+    "Desvio Padrão Geral": "2.57"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0035 - ECOLOGIA GERAL",
+    "Turma": "1",
+    "Horário": "3N12",
+    "Discentes": "42",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0035 - ECOLOGIA GERAL",
+    "Turma": "2",
+    "Horário": "3T34",
+    "Discentes": "42",
+    "Média Geral": "8.77",
+    "Desvio Padrão Geral": "2.75"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0031 - ELEMENTOS DE AGROECOLOGIA",
+    "Turma": "1",
+    "Horário": "5M2345",
+    "Discentes": "13",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "ADRIANA ROSA CARVALHO",
+    "Componente Curricular": "ECL0013 - ECONOMIA ECOLOGICA",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "17",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "ADRIANA ROSA CARVALHO",
+    "Componente Curricular": "ECL0013 - ECONOMIA ECOLOGICA",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "18",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0006 - ECOLOGIA DE ECOSSISTEMAS",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "18",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0006 - ECOLOGIA DE ECOSSISTEMAS",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "26",
+    "Média Geral": "9.01",
+    "Desvio Padrão Geral": "2.49"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "41",
+    "Média Geral": "8.22",
+    "Desvio Padrão Geral": "2.42"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "35",
+    "Média Geral": "8.3",
+    "Desvio Padrão Geral": "2.39"
+  },
+  {
+    "Docente": "ALEXANDRE FADIGAS DE SOUZA",
+    "Componente Curricular": "ECL0014 - ECOLOGIA MATEMATICA",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "29",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "ANDROS TAROUCO GIANUCA",
+    "Componente Curricular": "ECL0012 - ECOLOGIA GLOBAL",
+    "Turma": "1",
+    "Horário": "5T1234",
+    "Discentes": "27",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "ANDROS TAROUCO GIANUCA",
+    "Componente Curricular": "ECL0012 - ECOLOGIA GLOBAL",
+    "Turma": "2",
+    "Horário": "5N1234",
+    "Discentes": "13",
+    "Média Geral": "9.06",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0017 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "19",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0017 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "26",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0018 - GESTÃO AMBIENTAL",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "22",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0018 - GESTÃO AMBIENTAL",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "13",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "EVERTON GIACHINI TOSETTO",
+    "Componente Curricular": "ECL0006 - ECOLOGIA DE ECOSSISTEMAS",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "26",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "EVERTON GIACHINI TOSETTO",
+    "Componente Curricular": "ECL0013 - ECONOMIA ECOLOGICA",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "17",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "EVERTON GIACHINI TOSETTO",
+    "Componente Curricular": "ECL0018 - GESTÃO AMBIENTAL",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "22",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "EVERTON GIACHINI TOSETTO",
+    "Componente Curricular": "ECL0018 - GESTÃO AMBIENTAL",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "13",
+    "Média Geral": "9.28",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "FELIPE PEREIRA MARINHO",
+    "Componente Curricular": "ECL0025 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "21",
+    "Média Geral": "9.67",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "FELIPE PEREIRA MARINHO",
+    "Componente Curricular": "ECL0003 - ECOLOGIA DA RESTAURAÇÃO",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "35",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "FELIPE PEREIRA MARINHO",
+    "Componente Curricular": "ECL0003 - ECOLOGIA DA RESTAURAÇÃO",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "25",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "FELIPE PEREIRA MARINHO",
+    "Componente Curricular": "ECL0013 - ECONOMIA ECOLOGICA",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "18",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.19"
+  },
+  {
+    "Docente": "FELIPE PEREIRA MARINHO",
+    "Componente Curricular": "ECL0019 - MANEJO DE RECURSOS NATURAIS",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "23",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "FELIPE PEREIRA MARINHO",
+    "Componente Curricular": "ECL0019 - MANEJO DE RECURSOS NATURAIS",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "18",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0006 - ECOLOGIA DE ECOSSISTEMAS",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "18",
+    "Média Geral": "8.49",
+    "Desvio Padrão Geral": "3.13"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0010 - ECOLOGIA GERAL",
+    "Turma": "1",
+    "Horário": "24T56",
+    "Discentes": "20",
+    "Média Geral": "8.12",
+    "Desvio Padrão Geral": "2.52"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0021 - SOCIEDADE E DESENVOLVIMENTO",
+    "Turma": "1",
+    "Horário": "6T1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "14",
+    "Média Geral": "8.96",
+    "Desvio Padrão Geral": "2.79"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0021 - SOCIEDADE E DESENVOLVIMENTO",
+    "Turma": "2",
+    "Horário": "6N1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "27",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "LIANA DE FIGUEIREDO MENDES",
+    "Componente Curricular": "ECL0025 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "21",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "LIANA DE FIGUEIREDO MENDES",
+    "Componente Curricular": "ECL0025 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "13",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "LUCIANA SILVA CARNEIRO",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "41",
+    "Média Geral": "8.09",
+    "Desvio Padrão Geral": "2.57"
+  },
+  {
+    "Docente": "LUCIANA SILVA CARNEIRO",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "35",
+    "Média Geral": "8.09",
+    "Desvio Padrão Geral": "2.48"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0027 - ECOLOGIA I",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "18",
+    "Média Geral": "8.75",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0027 - ECOLOGIA I",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "11",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0014 - ECOLOGIA MATEMATICA",
+    "Turma": "2",
+    "Horário": "5N1234",
+    "Discentes": "20",
+    "Média Geral": "8.65",
+    "Desvio Padrão Geral": "2.13"
+  },
+  {
+    "Docente": "MIRIAM PLAZA PINTO",
+    "Componente Curricular": "ECL0009 - ECOLOGIA DE POPULAÇÕES",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "23",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "MIRIAM PLAZA PINTO",
+    "Componente Curricular": "ECL0009 - ECOLOGIA DE POPULAÇÕES",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "30",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "VANESSA GRAZIELE STAGGEMEIER",
+    "Componente Curricular": "ECL0004 - ECOLOGIA DE CAMPO",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "44",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "VANESSA GRAZIELE STAGGEMEIER",
+    "Componente Curricular": "ECL0004 - ECOLOGIA DE CAMPO",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "42",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0002 - ECOLOGIA DA CONSERVAÇÃO",
+    "Turma": "1",
+    "Horário": "4T3456",
+    "Discentes": "42",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0002 - ECOLOGIA DA CONSERVAÇÃO",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "21",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0005 - ECOLOGIA DE COMUNIDADES",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "26",
+    "Média Geral": "9.42",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0005 - ECOLOGIA DE COMUNIDADES",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "20",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "ALEXANDRE FADIGAS DE SOUZA",
+    "Componente Curricular": "ECL0026 - CONSERVAÇÃO E GESTÃO AMBIENTAL",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "24",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "2.03"
+  },
+  {
+    "Docente": "ANDROS TAROUCO GIANUCA",
+    "Componente Curricular": "ECL0001 - ECOLOGIA DA PAISAGEM",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "36",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "ANDROS TAROUCO GIANUCA",
+    "Componente Curricular": "ECL0001 - ECOLOGIA DA PAISAGEM",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "18",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "ANDROS TAROUCO GIANUCA",
+    "Componente Curricular": "ECL0005 - ECOLOGIA DE COMUNIDADES",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "26",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "ANDROS TAROUCO GIANUCA",
+    "Componente Curricular": "ECL0005 - ECOLOGIA DE COMUNIDADES",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "20",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA",
+    "Componente Curricular": "ECL0007 - ECOLOGIA EVOLUTIVA",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "40",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA",
+    "Componente Curricular": "ECL0007 - ECOLOGIA EVOLUTIVA",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "27",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0001 - ECOLOGIA DA PAISAGEM",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "36",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0001 - ECOLOGIA DA PAISAGEM",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "18",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0041 - ECOLOGIA DE CAMPO II",
+    "Turma": "1",
+    "Horário": "7M2345 (30/07/2018 - 22/12/2018)",
+    "Discentes": "16",
+    "Média Geral": "9.99",
+    "Desvio Padrão Geral": "0.93"
+  },
+  {
+    "Docente": "GISLENE MARIA DA SILVA GANADE",
+    "Componente Curricular": "ECL0038 - ECOFISIOLOGIA VEGETAL",
+    "Turma": "1",
+    "Horário": "4T34",
+    "Discentes": "19",
+    "Média Geral": "8.83",
+    "Desvio Padrão Geral": "2.3"
+  },
+  {
+    "Docente": "GISLENE MARIA DA SILVA GANADE",
+    "Componente Curricular": "ECL0038 - ECOFISIOLOGIA VEGETAL",
+    "Turma": "2",
+    "Horário": "5N34",
+    "Discentes": "26",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECO2554 - ECONOMIA DO MEIO AMBIENTE",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "19",
+    "Média Geral": "8.89",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0015 - FILOSOFIA E METODOLOGIA DA ECOLOGIA",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "21",
+    "Média Geral": "9.3",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0015 - FILOSOFIA E METODOLOGIA DA ECOLOGIA",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "24",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "LUCIANA SILVA CARNEIRO",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "1",
+    "Horário": "4M3456",
+    "Discentes": "36",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "LUCIANA SILVA CARNEIRO",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "32",
+    "Média Geral": "9.67",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0041 - ECOLOGIA DE CAMPO II",
+    "Turma": "1",
+    "Horário": "7M2345 (30/07/2018 - 22/12/2018)",
+    "Discentes": "16",
+    "Média Geral": "9.99",
+    "Desvio Padrão Geral": "0.94"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0027 - ECOLOGIA I",
+    "Turma": "1",
+    "Horário": "6N1234",
+    "Discentes": "47",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0027 - ECOLOGIA I",
+    "Turma": "2",
+    "Horário": "6T1234",
+    "Discentes": "44",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "MIRIAM PLAZA PINTO",
+    "Componente Curricular": "ECL0022 - ECOLOGIA ESTATISTICA",
+    "Turma": "1",
+    "Horário": "5T1234",
+    "Discentes": "17",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "MIRIAM PLAZA PINTO",
+    "Componente Curricular": "ECL0022 - ECOLOGIA ESTATISTICA",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "25",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "0.9"
+  },
+  {
+    "Docente": "PRISCILA FABIANA MACEDO LOPES",
+    "Componente Curricular": "ECL0011 - ECOLOGIA HUMANA",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "38",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.19"
+  },
+  {
+    "Docente": "PRISCILA FABIANA MACEDO LOPES",
+    "Componente Curricular": "ECL0011 - ECOLOGIA HUMANA",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "17",
+    "Média Geral": "9.96",
+    "Desvio Padrão Geral": "1.08"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0007 - ECOLOGIA EVOLUTIVA",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "40",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0007 - ECOLOGIA EVOLUTIVA",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "27",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0027 - ECOLOGIA I",
+    "Turma": "1",
+    "Horário": "6N1234",
+    "Discentes": "47",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0027 - ECOLOGIA I",
+    "Turma": "2",
+    "Horário": "6T1234",
+    "Discentes": "44",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "2.17"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0036 - EDUCAÇÃO AMBIENTAL",
+    "Turma": "1",
+    "Horário": "2T12",
+    "Discentes": "31",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0036 - EDUCAÇÃO AMBIENTAL",
+    "Turma": "2",
+    "Horário": "2N12",
+    "Discentes": "26",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "VANESSA GRAZIELE STAGGEMEIER",
+    "Componente Curricular": "ECL0022 - ECOLOGIA ESTATISTICA",
+    "Turma": "1",
+    "Horário": "5T1234",
+    "Discentes": "17",
+    "Média Geral": "9.93",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "VANESSA GRAZIELE STAGGEMEIER",
+    "Componente Curricular": "ECL0022 - ECOLOGIA ESTATISTICA",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "25",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.21"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0026 - CONSERVAÇÃO E GESTÃO AMBIENTAL",
+    "Turma": "1",
+    "Horário": "6T3456",
+    "Discentes": "15",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0035 - ECOLOGIA GERAL",
+    "Turma": "1",
+    "Horário": "3T34",
+    "Discentes": "37",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0035 - ECOLOGIA GERAL",
+    "Turma": "2",
+    "Horário": "3N12",
+    "Discentes": "45",
+    "Média Geral": "8.97",
+    "Desvio Padrão Geral": "2.53"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0031 - ELEMENTOS DE AGROECOLOGIA",
+    "Turma": "1",
+    "Horário": "6M2345",
+    "Discentes": "28",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.39"
+  },
+  {
+    "Docente": "ADRIANA ROSA CARVALHO",
+    "Componente Curricular": "ECL0013 - ECONOMIA ECOLOGICA",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "17",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "ADRIANA ROSA CARVALHO",
+    "Componente Curricular": "ECL0013 - ECONOMIA ECOLOGICA",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "14",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "1.21"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0027 - ECOLOGIA I",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "42",
+    "Média Geral": "8.88",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0027 - ECOLOGIA I",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "36",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "38",
+    "Média Geral": "8.7",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "17",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "ALEXANDRE FADIGAS DE SOUZA",
+    "Componente Curricular": "ECL0014 - ECOLOGIA MATEMATICA",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "31",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "ALEXANDRE FADIGAS DE SOUZA",
+    "Componente Curricular": "ECL0014 - ECOLOGIA MATEMATICA",
+    "Turma": "2",
+    "Horário": "5N1234",
+    "Discentes": "27",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA",
+    "Componente Curricular": "ECL0004 - ECOLOGIA DE CAMPO",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "41",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA",
+    "Componente Curricular": "ECL0004 - ECOLOGIA DE CAMPO",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "39",
+    "Média Geral": "9.58",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA",
+    "Componente Curricular": "ECL0023 - ECOLOGIA ESTATÍSTICA II",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "14",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0017 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "36",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0017 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "24",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "GISLENE MARIA DA SILVA GANADE",
+    "Componente Curricular": "ECL0003 - ECOLOGIA DA RESTAURAÇÃO",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "22",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "GISLENE MARIA DA SILVA GANADE",
+    "Componente Curricular": "ECL0003 - ECOLOGIA DA RESTAURAÇÃO",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "16",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "HELOISA DANTAS BRUM",
+    "Componente Curricular": "ECL0018 - GESTÃO AMBIENTAL",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "19",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "HELOISA DANTAS BRUM",
+    "Componente Curricular": "ECL0018 - GESTÃO AMBIENTAL",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "23",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "HELOISA DANTAS BRUM",
+    "Componente Curricular": "ECL0037 - SEMINÁRIOS EM ECOLOGIA",
+    "Turma": "1",
+    "Horário": "5N12",
+    "Discentes": "11",
+    "Média Geral": "9.93",
+    "Desvio Padrão Geral": "0.89"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0006 - ECOLOGIA DE ECOSSISTEMAS",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "26",
+    "Média Geral": "9.06",
+    "Desvio Padrão Geral": "2.32"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0006 - ECOLOGIA DE ECOSSISTEMAS",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "14",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0021 - SOCIEDADE E DESENVOLVIMENTO",
+    "Turma": "1",
+    "Horário": "5T1234 (19/02/2018 - 07/07/2018)",
+    "Discentes": "20",
+    "Média Geral": "8.86",
+    "Desvio Padrão Geral": "2.46"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0021 - SOCIEDADE E DESENVOLVIMENTO",
+    "Turma": "2",
+    "Horário": "5N1234 (19/02/2018 - 07/07/2018)",
+    "Discentes": "11",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "LUCIANA SILVA CARNEIRO",
+    "Componente Curricular": "ECL0006 - ECOLOGIA DE ECOSSISTEMAS",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "26",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "LUCIANA SILVA CARNEIRO",
+    "Componente Curricular": "ECL0006 - ECOLOGIA DE ECOSSISTEMAS",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "14",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "LUCIANA SILVA CARNEIRO",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "38",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "LUCIANA SILVA CARNEIRO",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "17",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.53"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0009 - ECOLOGIA DE POPULAÇÕES",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "33",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "2.01"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0009 - ECOLOGIA DE POPULAÇÕES",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "23",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0027 - ECOLOGIA I",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "42",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "2.18"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0027 - ECOLOGIA I",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "36",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "MIRIAM PLAZA PINTO",
+    "Componente Curricular": "ECL0009 - ECOLOGIA DE POPULAÇÕES",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "33",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "MIRIAM PLAZA PINTO",
+    "Componente Curricular": "ECL0009 - ECOLOGIA DE POPULAÇÕES",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "23",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "PRISCILA FABIANA MACEDO LOPES",
+    "Componente Curricular": "ECL0021 - SOCIEDADE E DESENVOLVIMENTO",
+    "Turma": "1",
+    "Horário": "5T1234 (19/02/2018 - 07/07/2018)",
+    "Discentes": "20",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "PRISCILA FABIANA MACEDO LOPES",
+    "Componente Curricular": "ECL0021 - SOCIEDADE E DESENVOLVIMENTO",
+    "Turma": "2",
+    "Horário": "5N1234 (19/02/2018 - 07/07/2018)",
+    "Discentes": "11",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0029 - ECOLOGIA APLICADA À ZOOTECNIA",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "25",
+    "Média Geral": "8.43",
+    "Desvio Padrão Geral": "2.61"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0010 - ECOLOGIA GERAL",
+    "Turma": "1",
+    "Horário": "24T56",
+    "Discentes": "16",
+    "Média Geral": "9.17",
+    "Desvio Padrão Geral": "2.32"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0019 - MANEJO DE RECURSOS NATURAIS",
+    "Turma": "3",
+    "Horário": "5T3456",
+    "Discentes": "12",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "1.18"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0019 - MANEJO DE RECURSOS NATURAIS",
+    "Turma": "4",
+    "Horário": "2N1234",
+    "Discentes": "10",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0026 - CONSERVAÇÃO E GESTÃO AMBIENTAL",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "11",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "ADRIANA MONTEIRO DE ALMEIDA",
+    "Componente Curricular": "ECL0002 - ECOLOGIA DA CONSERVAÇÃO",
+    "Turma": "1",
+    "Horário": "4T3456",
+    "Discentes": "13",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0005 - ECOLOGIA DE COMUNIDADES",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "14",
+    "Média Geral": "8.95",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0005 - ECOLOGIA DE COMUNIDADES",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "11",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "1",
+    "Horário": "4N4321",
+    "Discentes": "28",
+    "Média Geral": "8.4",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "ADRIANO CALIMAN FERREIRA DA SILVA",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "2",
+    "Horário": "4M6543",
+    "Discentes": "42",
+    "Média Geral": "9.08",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "ALEXANDRE FADIGAS DE SOUZA",
+    "Componente Curricular": "ECL0002 - ECOLOGIA DA CONSERVAÇÃO",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "9",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.1"
+  },
+  {
+    "Docente": "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA",
+    "Componente Curricular": "ECL0022 - ECOLOGIA ESTATISTICA",
+    "Turma": "3",
+    "Horário": "4T1234",
+    "Discentes": "10",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA",
+    "Componente Curricular": "ECL0007 - ECOLOGIA EVOLUTIVA",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "44",
+    "Média Geral": "9.19",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0001 - ECOLOGIA DA PAISAGEM",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "13",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0001 - ECOLOGIA DA PAISAGEM",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "8",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "0.9"
+  },
+  {
+    "Docente": "EDUARDO MARTINS VENTICINQUE",
+    "Componente Curricular": "ECL0041 - ECOLOGIA DE CAMPO II",
+    "Turma": "1",
+    "Horário": "7M3456 (24/07/2017 - 16/12/2017)",
+    "Discentes": "13",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "0.94"
+  },
+  {
+    "Docente": "GISLENE MARIA DA SILVA GANADE",
+    "Componente Curricular": "ECL0038 - ECOFISIOLOGIA VEGETAL",
+    "Turma": "1",
+    "Horário": "4T34",
+    "Discentes": "33",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "GISLENE MARIA DA SILVA GANADE",
+    "Componente Curricular": "ECL0038 - ECOFISIOLOGIA VEGETAL",
+    "Turma": "2",
+    "Horário": "5N34",
+    "Discentes": "19",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "GISLENE MARIA DA SILVA GANADE",
+    "Componente Curricular": "ECL0022 - ECOLOGIA ESTATISTICA",
+    "Turma": "2",
+    "Horário": "5T1234",
+    "Discentes": "32",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0015 - FILOSOFIA E METODOLOGIA DA ECOLOGIA",
+    "Turma": "1",
+    "Horário": "3T1234",
+    "Discentes": "36",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "JOSE LUIZ DE ATTAYDE",
+    "Componente Curricular": "ECL0015 - FILOSOFIA E METODOLOGIA DA ECOLOGIA",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "16",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.09"
+  },
+  {
+    "Docente": "LUCIANA SILVA CARNEIRO",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "1",
+    "Horário": "4N4321",
+    "Discentes": "28",
+    "Média Geral": "8.79",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "LUCIANA SILVA CARNEIRO",
+    "Componente Curricular": "ECL0028 - ECOLOGIA II",
+    "Turma": "2",
+    "Horário": "4M6543",
+    "Discentes": "42",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0005 - ECOLOGIA DE COMUNIDADES",
+    "Turma": "3",
+    "Horário": "2M2345",
+    "Discentes": "38",
+    "Média Geral": "8.24",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "MARCIO ZIKAN CARDOSO",
+    "Componente Curricular": "ECL0007 - ECOLOGIA EVOLUTIVA",
+    "Turma": "2",
+    "Horário": "3N1234",
+    "Discentes": "32",
+    "Média Geral": "8.82",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "MARÍLIA BRUZZI LION",
+    "Componente Curricular": "ECL0001 - ECOLOGIA DA PAISAGEM",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "13",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "MARÍLIA BRUZZI LION",
+    "Componente Curricular": "ECL0001 - ECOLOGIA DA PAISAGEM",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "8",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "0.9"
+  },
+  {
+    "Docente": "MIRIAM PLAZA PINTO",
+    "Componente Curricular": "ECL0022 - ECOLOGIA ESTATISTICA",
+    "Turma": "1",
+    "Horário": "4N1234",
+    "Discentes": "21",
+    "Média Geral": "9.94",
+    "Desvio Padrão Geral": "0.98"
+  },
+  {
+    "Docente": "PRISCILA FABIANA MACEDO LOPES",
+    "Componente Curricular": "ECL0011 - ECOLOGIA HUMANA",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "19",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "PRISCILA FABIANA MACEDO LOPES",
+    "Componente Curricular": "ECL0011 - ECOLOGIA HUMANA",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "11",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "0.89"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0011 - ECOLOGIA HUMANA",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "19",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0011 - ECOLOGIA HUMANA",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "11",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "0.88"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0036 - EDUCAÇÃO AMBIENTAL",
+    "Turma": "1",
+    "Horário": "2T12",
+    "Discentes": "38",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0036 - EDUCAÇÃO AMBIENTAL",
+    "Turma": "2",
+    "Horário": "2N12",
+    "Discentes": "28",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.53"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0015 - FILOSOFIA E METODOLOGIA DA ECOLOGIA",
+    "Turma": "3",
+    "Horário": "4N1234",
+    "Discentes": "12",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "RAFAEL CAMILO LAIA",
+    "Componente Curricular": "ECL0019 - MANEJO DE RECURSOS NATURAIS",
+    "Turma": "1",
+    "Horário": "3T3456",
+    "Discentes": "19",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.18"
+  }
+]

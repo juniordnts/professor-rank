@@ -1,0 +1,1932 @@
+{
+  "CARLOS JOSE DE LIMA": {
+    "Notas": [
+      7.84,
+      8.77,
+      9.41,
+      9.65
+    ],
+    "Desvios": [
+      2.47,
+      1.8,
+      2.42,
+      1.24
+    ],
+    "Componentes": {
+      "DBQ0105 - MÓDULO CELULAR, MOLECULAR E MACROMOLECULAR": {
+        "Notas": [
+          7.84,
+          8.77,
+          9.41,
+          9.65
+        ],
+        "Desvios": [
+          2.47,
+          1.8,
+          2.42,
+          1.24
+        ],
+        "DesvioDeNotas": 0.7003347413915721,
+        "MediaDeNotas": 8.9175,
+        "MediaDeDesvios": 1.9825000000000002,
+        "NotaMediana": 9.41
+      }
+    },
+    "DesvioDeNotas": 0.7003347413915721,
+    "MediaDeNotas": 8.9175,
+    "MediaDeDesvios": 1.9825000000000002,
+    "NotaMediana": 9.41
+  },
+  "DANIEL CARLOS FERREIRA LANZA": {
+    "Notas": [
+      9.52,
+      9.56,
+      9.57,
+      9.78,
+      9.84,
+      9.85
+    ],
+    "Desvios": [
+      1.75,
+      1.49,
+      1.73,
+      1.36,
+      1.48,
+      0.87
+    ],
+    "Componentes": {
+      "DBQ0040 - EMPREENDEDORISMO EM BIOCIÊNCIAS": {
+        "Notas": [
+          9.52,
+          9.57,
+          9.78,
+          9.84,
+          9.85
+        ],
+        "Desvios": [
+          1.75,
+          1.49,
+          1.73,
+          1.36,
+          0.87
+        ],
+        "DesvioDeNotas": 0.13934130758680274,
+        "MediaDeNotas": 9.712,
+        "MediaDeDesvios": 1.4400000000000002,
+        "NotaMediana": 9.78
+      },
+      "DBQ0035 - BIOQUÍMICA BÁSICA": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.56
+      }
+    },
+    "DesvioDeNotas": 0.13924399049470262,
+    "MediaDeNotas": 9.686666666666667,
+    "MediaDeDesvios": 1.4466666666666665,
+    "NotaMediana": 9.78
+  },
+  "ELIZEU ANTUNES DOS SANTOS": {
+    "Notas": [
+      9.23,
+      9.43,
+      9.45,
+      9.5,
+      9.52,
+      9.55,
+      9.57,
+      9.58,
+      9.58,
+      9.58,
+      9.63,
+      9.64,
+      9.68,
+      9.72,
+      9.72,
+      9.74,
+      9.75,
+      9.77,
+      9.79,
+      9.79,
+      9.79,
+      9.81,
+      9.81,
+      9.82,
+      9.82,
+      9.93,
+      9.93,
+      9.94
+    ],
+    "Desvios": [
+      1.73,
+      1.3,
+      1.37,
+      1.41,
+      1.61,
+      1.82,
+      1.55,
+      1.24,
+      1.69,
+      1.12,
+      1.41,
+      1.48,
+      1.25,
+      1.23,
+      1.06,
+      1.48,
+      2.04,
+      1.26,
+      1.94,
+      1.46,
+      0.89,
+      0.94,
+      1.25,
+      0.81,
+      1.38,
+      0.93,
+      0.8,
+      1.38
+    ],
+    "Componentes": {
+      "DBQ0031 - BIOQUIMICA METABOLICA": {
+        "Notas": [
+          9.58,
+          9.77,
+          9.79,
+          9.81
+        ],
+        "Desvios": [
+          1.73,
+          1.24,
+          1.06,
+          0.94
+        ],
+        "DesvioDeNotas": 0.09202581159652971,
+        "MediaDeNotas": 9.7375,
+        "MediaDeDesvios": 1.2424999999999997,
+        "NotaMediana": 9.79
+      },
+      "DBQ0038 - BIOQUÍMICA APLICADA À EDUCAÇÃO FÍSICA": {
+        "Notas": [
+          9.45,
+          9.55,
+          9.72,
+          9.75
+        ],
+        "Desvios": [
+          1.3,
+          1.69,
+          1.48,
+          1.25
+        ],
+        "DesvioDeNotas": 0.1231614793675363,
+        "MediaDeNotas": 9.6175,
+        "MediaDeDesvios": 1.4300000000000002,
+        "NotaMediana": 9.72
+      },
+      "DFS0021 - INSTRUMENTAÇÃO PARA O ENSINO DE CIÊNCIAS E BIOLOGIA I": {
+        "Notas": [
+          9.5,
+          9.58,
+          9.63,
+          9.79,
+          9.79,
+          9.81,
+          9.93,
+          9.94
+        ],
+        "Desvios": [
+          1.37,
+          1.41,
+          1.12,
+          1.41,
+          2.04,
+          1.26,
+          0.81,
+          1.38
+        ],
+        "DesvioDeNotas": 0.1504108955494911,
+        "MediaDeNotas": 9.74625,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.79
+      },
+      "DBQ0105 - MÓDULO CELULAR, MOLECULAR E MACROMOLECULAR": {
+        "Notas": [
+          9.43,
+          9.52,
+          9.64,
+          9.74
+        ],
+        "Desvios": [
+          1.61,
+          1.48,
+          1.94,
+          0.93
+        ],
+        "DesvioDeNotas": 0.11755317945508777,
+        "MediaDeNotas": 9.5825,
+        "MediaDeDesvios": 1.4899999999999998,
+        "NotaMediana": 9.64
+      },
+      "DBQ0032 - QUIMICA PARA O ENSINO DE CIENCIAS": {
+        "Notas": [
+          9.23,
+          9.57,
+          9.58,
+          9.68,
+          9.72,
+          9.82,
+          9.82,
+          9.93
+        ],
+        "Desvios": [
+          1.82,
+          1.55,
+          1.25,
+          1.23,
+          1.46,
+          0.89,
+          0.8,
+          1.38
+        ],
+        "DesvioDeNotas": 0.2021408852755918,
+        "MediaDeNotas": 9.668750000000001,
+        "MediaDeDesvios": 1.2974999999999999,
+        "NotaMediana": 9.72
+      }
+    },
+    "DesvioDeNotas": 0.16482326651196258,
+    "MediaDeNotas": 9.681071428571428,
+    "MediaDeDesvios": 1.3510714285714287,
+    "NotaMediana": 9.72
+  },
+  "FERNANDA WANDERLEY DE OLIVEIRA": {
+    "Notas": [
+      8.9,
+      8.98,
+      9.04,
+      9.16,
+      9.24,
+      9.34,
+      9.34,
+      9.57,
+      9.63,
+      9.67,
+      9.73,
+      9.78,
+      9.8,
+      9.82,
+      9.89
+    ],
+    "Desvios": [
+      1.29,
+      1.07,
+      2.2,
+      2.17,
+      1.52,
+      1.25,
+      1.99,
+      1.98,
+      1.37,
+      2.05,
+      1.2,
+      2.15,
+      2.26,
+      1.22,
+      1.15
+    ],
+    "Componentes": {
+      "DBQ0031 - BIOQUIMICA METABOLICA": {
+        "Notas": [
+          9.57,
+          9.67,
+          9.78,
+          9.89
+        ],
+        "Desvios": [
+          1.29,
+          1.25,
+          1.2,
+          1.15
+        ],
+        "DesvioDeNotas": 0.11966097943774325,
+        "MediaDeNotas": 9.727500000000001,
+        "MediaDeDesvios": 1.2225000000000001,
+        "NotaMediana": 9.78
+      },
+      "DBQ0030 - DIVERSIDADE MOLECULAR": {
+        "Notas": [
+          8.9,
+          8.98,
+          9.16,
+          9.34,
+          9.73
+        ],
+        "Desvios": [
+          1.07,
+          1.99,
+          1.98,
+          2.15,
+          2.26
+        ],
+        "DesvioDeNotas": 0.296,
+        "MediaDeNotas": 9.222,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.16
+      },
+      "DBQ0104 - PROCESSOS BIOQUÍMICOS VITAIS": {
+        "Notas": [
+          9.04
+        ],
+        "Desvios": [
+          2.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 2.2,
+        "NotaMediana": 9.04
+      },
+      "DBQ0308 - BIOQUIMICA APLICADA A FISIOTERAPIA": {
+        "Notas": [
+          9.34,
+          9.63
+        ],
+        "Desvios": [
+          2.17,
+          1.37
+        ],
+        "DesvioDeNotas": 0.14500000000000046,
+        "MediaDeNotas": 9.485,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.63
+      },
+      "DBQ0025 - BIOQUIMICA BASICA PARA AQUICULTURA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.82
+      },
+      "DBQ0009 - BIOQUIMICA IX": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          2.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 9.24
+      },
+      "DBQ0024 - BIOQUIMICA FUNDAMENTAL PARA ENGENHEIROS": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.3243550866291791,
+    "MediaDeNotas": 9.459333333333332,
+    "MediaDeDesvios": 1.658,
+    "NotaMediana": 9.57
+  },
+  "GIULIANNA PAIVA VIANA DE ANDRADE SOUZA": {
+    "Notas": [
+      8.93,
+      8.93,
+      9.16,
+      9.17,
+      9.24,
+      9.28,
+      9.3,
+      9.38,
+      9.57,
+      9.6,
+      9.69,
+      9.73,
+      9.74,
+      9.85
+    ],
+    "Desvios": [
+      1.14,
+      1.74,
+      1.4,
+      2.24,
+      1.98,
+      1.43,
+      1.29,
+      1.61,
+      2.55,
+      1.9,
+      1.11,
+      1.46,
+      1.28,
+      1.41
+    ],
+    "Componentes": {
+      "DBQ0030 - DIVERSIDADE MOLECULAR": {
+        "Notas": [
+          8.93,
+          8.93,
+          9.16,
+          9.28,
+          9.38,
+          9.74
+        ],
+        "Desvios": [
+          1.14,
+          2.24,
+          1.98,
+          1.61,
+          2.55,
+          1.46
+        ],
+        "DesvioDeNotas": 0.2798015169524444,
+        "MediaDeNotas": 9.236666666666666,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.28
+      },
+      "DBQ0032 - QUIMICA PARA O ENSINO DE CIENCIAS": {
+        "Notas": [
+          9.17,
+          9.24,
+          9.3,
+          9.57,
+          9.6,
+          9.69,
+          9.73,
+          9.85
+        ],
+        "Desvios": [
+          1.74,
+          1.4,
+          1.43,
+          1.29,
+          1.9,
+          1.11,
+          1.28,
+          1.41
+        ],
+        "DesvioDeNotas": 0.23454410566032122,
+        "MediaDeNotas": 9.518749999999999,
+        "MediaDeDesvios": 1.4449999999999998,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.29064407716627694,
+    "MediaDeNotas": 9.397857142857143,
+    "MediaDeDesvios": 1.6099999999999999,
+    "NotaMediana": 9.38
+  },
+  "GUSTAVO ANTONIO DE SOUZA": {
+    "Notas": [
+      9.08,
+      9.34,
+      9.53,
+      9.54,
+      9.59
+    ],
+    "Desvios": [
+      2.4,
+      1.94,
+      1.65,
+      1.79,
+      1.68
+    ],
+    "Componentes": {
+      "DBQ0045 - BIOINFORMÁTICA": {
+        "Notas": [
+          9.08,
+          9.53,
+          9.54
+        ],
+        "Desvios": [
+          2.4,
+          1.65,
+          1.79
+        ],
+        "DesvioDeNotas": 0.21452790546272077,
+        "MediaDeNotas": 9.383333333333333,
+        "MediaDeDesvios": 1.9466666666666665,
+        "NotaMediana": 9.53
+      },
+      "DBQ0029 - BIOQUIMICA PARA ECOLOGOS": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.34
+      },
+      "DBQ0024 - BIOQUIMICA FUNDAMENTAL PARA ENGENHEIROS": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.18831887850133325,
+    "MediaDeNotas": 9.416,
+    "MediaDeDesvios": 1.8920000000000001,
+    "NotaMediana": 9.53
+  },
+  "HUGO ALEXANDRE DE OLIVEIRA ROCHA": {
+    "Notas": [
+      6.59,
+      7.33,
+      8.05,
+      8.16,
+      8.69,
+      8.72,
+      9.03,
+      9.09,
+      9.1
+    ],
+    "Desvios": [
+      1.98,
+      2.71,
+      2.37,
+      1.58,
+      1.42,
+      1.94,
+      3.01,
+      2.81,
+      1.56
+    ],
+    "Componentes": {
+      "DBQ0036 - BIOQUÍMICA E CULTIVO CELULAR PARA BIOMEDICINA": {
+        "Notas": [
+          8.69,
+          9.1
+        ],
+        "Desvios": [
+          1.98,
+          1.56
+        ],
+        "DesvioDeNotas": 0.20500000000000007,
+        "MediaDeNotas": 8.895,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.1
+      },
+      "DBQ0041 - QUÍMICA ORGÂNICA PARA BIOMEDICINA": {
+        "Notas": [
+          6.59,
+          7.33,
+          8.05,
+          8.16,
+          9.09
+        ],
+        "Desvios": [
+          2.71,
+          2.37,
+          1.42,
+          3.01,
+          2.81
+        ],
+        "DesvioDeNotas": 0.8404189431468094,
+        "MediaDeNotas": 7.843999999999999,
+        "MediaDeDesvios": 2.464,
+        "NotaMediana": 8.05
+      },
+      "DBQ0030 - DIVERSIDADE MOLECULAR": {
+        "Notas": [
+          9.03
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.03,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.03
+      },
+      "DBQ0037 - BIOQUÍMICA E CULTIVO CELULAR PARA CIÊNCIAS BIOLÓGICAS": {
+        "Notas": [
+          8.72
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.72,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 8.72
+      }
+    },
+    "DesvioDeNotas": 0.821394478243486,
+    "MediaDeNotas": 8.306666666666665,
+    "MediaDeDesvios": 2.1533333333333333,
+    "NotaMediana": 8.69
+  },
+  "JACIRA MARIA ANDRADE DE SOUSA": {
+    "Notas": [
+      8.39,
+      8.82,
+      9.01,
+      9.11,
+      9.15,
+      9.16,
+      9.18,
+      9.25,
+      9.35,
+      9.43,
+      9.58,
+      9.64,
+      9.85
+    ],
+    "Desvios": [
+      2.05,
+      2.09,
+      1.28,
+      2.14,
+      2.57,
+      2.02,
+      1.87,
+      1.78,
+      2.04,
+      1.6,
+      1.17,
+      1.33,
+      1.38
+    ],
+    "Componentes": {
+      "DBQ0031 - BIOQUIMICA METABOLICA": {
+        "Notas": [
+          9.11,
+          9.16,
+          9.18,
+          9.64
+        ],
+        "Desvios": [
+          2.05,
+          2.14,
+          1.78,
+          1.17
+        ],
+        "DesvioDeNotas": 0.21370248009791595,
+        "MediaDeNotas": 9.2725,
+        "MediaDeDesvios": 1.785,
+        "NotaMediana": 9.18
+      },
+      "DBQ0012 - BIOQUIMICA XII": {
+        "Notas": [
+          8.39,
+          9.01,
+          9.15,
+          9.43
+        ],
+        "Desvios": [
+          2.09,
+          2.57,
+          2.04,
+          1.33
+        ],
+        "DesvioDeNotas": 0.38062448686336486,
+        "MediaDeNotas": 8.995,
+        "MediaDeDesvios": 2.0075000000000003,
+        "NotaMediana": 9.15
+      },
+      "DBQ0038 - BIOQUÍMICA APLICADA À EDUCAÇÃO FÍSICA": {
+        "Notas": [
+          9.25,
+          9.35,
+          9.58,
+          9.85
+        ],
+        "Desvios": [
+          1.28,
+          2.02,
+          1.6,
+          1.38
+        ],
+        "DesvioDeNotas": 0.2311249661979423,
+        "MediaDeNotas": 9.5075,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.58
+      },
+      "DBQ0022 - BIOLOGIA MOLECULAR EXPERIMENTAL": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 8.82
+      }
+    },
+    "DesvioDeNotas": 0.35945718445403374,
+    "MediaDeNotas": 9.224615384615385,
+    "MediaDeDesvios": 1.7938461538461536,
+    "NotaMediana": 9.18
+  },
+  "JOAO PAULO MATOS SANTOS LIMA": {
+    "Notas": [
+      10,
+      9.31,
+      9.56,
+      9.61,
+      9.75,
+      9.76,
+      9.85,
+      9.94
+    ],
+    "Desvios": [
+      1.7,
+      1.55,
+      1.58,
+      1.44,
+      1.97,
+      1.62,
+      0.91,
+      0.62
+    ],
+    "Componentes": {
+      "DBQ0048 - FUNDAMENTOS DE BIOQUÍMICA E BIOLOGIA MOLECULAR": {
+        "Notas": [
+          9.61,
+          9.85
+        ],
+        "Desvios": [
+          1.7,
+          1.97
+        ],
+        "DesvioDeNotas": 0.1200000000000001,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.835,
+        "NotaMediana": 9.85
+      },
+      "DBQ0050 - BIOINFORMÁTICA ESTRUTURAL": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.76
+      },
+      "DBQ0046 - MODELAGEM COMPUTACIONAL DE BIOMOLÉCULAS": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.94
+      },
+      "DBQ0045 - BIOINFORMÁTICA": {
+        "Notas": [
+          10,
+          9.31,
+          9.56,
+          9.75
+        ],
+        "Desvios": [
+          1.44,
+          1.62,
+          0.91,
+          0.62
+        ],
+        "DesvioDeNotas": 0.2530316185775997,
+        "MediaDeNotas": 9.655000000000001,
+        "MediaDeDesvios": 1.1475,
+        "NotaMediana": 9.56
+      }
+    },
+    "DesvioDeNotas": 0.20974687125199246,
+    "MediaDeNotas": 9.7225,
+    "MediaDeDesvios": 1.4237499999999998,
+    "NotaMediana": 9.75
+  },
+  "LEONARDO CAPISTRANO FERREIRA": {
+    "Notas": [
+      8.91,
+      9.47,
+      9.48,
+      9.51,
+      9.57,
+      9.63,
+      9.63,
+      9.64,
+      9.79,
+      9.79,
+      9.81,
+      9.86,
+      9.88
+    ],
+    "Desvios": [
+      1.42,
+      1.73,
+      1.71,
+      2.2,
+      1.64,
+      1.75,
+      1.85,
+      1.59,
+      1.87,
+      1.19,
+      1.23,
+      1.2,
+      0.97
+    ],
+    "Componentes": {
+      "DBQ0033 - ANÁLISES BIOQUÍMICAS": {
+        "Notas": [
+          8.91,
+          9.79,
+          9.79,
+          9.86,
+          9.88
+        ],
+        "Desvios": [
+          1.42,
+          2.2,
+          1.85,
+          1.19,
+          1.23
+        ],
+        "DesvioDeNotas": 0.36978912909927447,
+        "MediaDeNotas": 9.645999999999999,
+        "MediaDeDesvios": 1.578,
+        "NotaMediana": 9.79
+      },
+      "DBQ0031 - BIOQUIMICA METABOLICA": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.57
+      },
+      "DBQ0105 - MÓDULO CELULAR, MOLECULAR E MACROMOLECULAR": {
+        "Notas": [
+          9.47,
+          9.51,
+          9.64,
+          9.81
+        ],
+        "Desvios": [
+          1.71,
+          1.75,
+          1.87,
+          0.97
+        ],
+        "DesvioDeNotas": 0.13273563952458295,
+        "MediaDeNotas": 9.6075,
+        "MediaDeDesvios": 1.575,
+        "NotaMediana": 9.64
+      },
+      "DBQ0035 - BIOQUÍMICA BÁSICA": {
+        "Notas": [
+          9.48,
+          9.63
+        ],
+        "Desvios": [
+          1.64,
+          1.2
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.63
+      },
+      "DBQ0029 - BIOQUIMICA PARA ECOLOGOS": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.24492964815305363,
+    "MediaDeNotas": 9.613076923076923,
+    "MediaDeDesvios": 1.5653846153846152,
+    "NotaMediana": 9.63
+  },
+  "LUCIANA DUARTE MARTINS DA MATTA": {
+    "Notas": [
+      9.58,
+      9.65,
+      9.66,
+      9.68,
+      9.72,
+      9.72,
+      9.78,
+      9.78,
+      9.84,
+      9.84
+    ],
+    "Desvios": [
+      1.21,
+      1.58,
+      1.99,
+      1.42,
+      1.42,
+      1.44,
+      1.55,
+      1.89,
+      1.84,
+      1.14
+    ],
+    "Componentes": {
+      "DBQ0023 - BIOQUIMICA": {
+        "Notas": [
+          9.65,
+          9.78
+        ],
+        "Desvios": [
+          1.21,
+          1.58
+        ],
+        "DesvioDeNotas": 0.0649999999999995,
+        "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 1.395,
+        "NotaMediana": 9.78
+      },
+      "DBQ0029 - BIOQUIMICA PARA ECOLOGOS": {
+        "Notas": [
+          9.58,
+          9.66,
+          9.72,
+          9.72,
+          9.78
+        ],
+        "Desvios": [
+          1.99,
+          1.42,
+          1.89,
+          1.84,
+          1.14
+        ],
+        "DesvioDeNotas": 0.06764613810115096,
+        "MediaDeNotas": 9.691999999999998,
+        "MediaDeDesvios": 1.656,
+        "NotaMediana": 9.72
+      },
+      "DBQ0030 - DIVERSIDADE MOLECULAR": {
+        "Notas": [
+          9.84,
+          9.84
+        ],
+        "Desvios": [
+          1.42,
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.4849999999999999,
+        "NotaMediana": 9.84
+      },
+      "DBQ0035 - BIOQUÍMICA BÁSICA": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.08090117428072334,
+    "MediaDeNotas": 9.725,
+    "MediaDeDesvios": 1.5480000000000003,
+    "NotaMediana": 9.72
+  },
+  "LUCIANA GUIMARAES ALVES FILGUEIRA": {
+    "Notas": [
+      9.25,
+      9.53,
+      9.58,
+      9.61,
+      9.62,
+      9.63,
+      9.73,
+      9.76,
+      9.76,
+      9.78,
+      9.79,
+      9.81
+    ],
+    "Desvios": [
+      1.53,
+      2.45,
+      1.59,
+      1.93,
+      2.05,
+      1.11,
+      1.29,
+      1.38,
+      1.55,
+      1.22,
+      0.98,
+      0.99
+    ],
+    "Componentes": {
+      "DBQ0023 - BIOQUIMICA": {
+        "Notas": [
+          9.61,
+          9.63,
+          9.73,
+          9.76,
+          9.76,
+          9.78
+        ],
+        "Desvios": [
+          1.53,
+          1.11,
+          1.55,
+          1.22,
+          0.98,
+          0.99
+        ],
+        "DesvioDeNotas": 0.06668749674580837,
+        "MediaDeNotas": 9.711666666666666,
+        "MediaDeDesvios": 1.2300000000000002,
+        "NotaMediana": 9.76
+      },
+      "DBQ0032 - QUIMICA PARA O ENSINO DE CIENCIAS": {
+        "Notas": [
+          9.25,
+          9.53,
+          9.79,
+          9.81
+        ],
+        "Desvios": [
+          2.45,
+          1.59,
+          1.29,
+          1.38
+        ],
+        "DesvioDeNotas": 0.22776083947860745,
+        "MediaDeNotas": 9.595,
+        "MediaDeDesvios": 1.6775,
+        "NotaMediana": 9.79
+      },
+      "DBQ0041 - QUÍMICA ORGÂNICA PARA BIOMEDICINA": {
+        "Notas": [
+          9.58,
+          9.62
+        ],
+        "Desvios": [
+          1.93,
+          2.05
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.9899999999999998,
+        "NotaMediana": 9.62
+      }
+    },
+    "DesvioDeNotas": 0.15129762794644938,
+    "MediaDeNotas": 9.654166666666667,
+    "MediaDeDesvios": 1.5058333333333331,
+    "NotaMediana": 9.73
+  },
+  "LUIZ ROBERTO DIZ DE ABREU": {
+    "Notas": [
+      8.73,
+      9.2,
+      9.21,
+      9.25,
+      9.33,
+      9.46,
+      9.5
+    ],
+    "Desvios": [
+      2.11,
+      1.71,
+      1.89,
+      2.03,
+      2,
+      1.18,
+      1.46
+    ],
+    "Componentes": {
+      "DBQ0023 - BIOQUIMICA": {
+        "Notas": [
+          8.73,
+          9.2,
+          9.21,
+          9.5
+        ],
+        "Desvios": [
+          2.11,
+          1.89,
+          2.03,
+          1.18
+        ],
+        "DesvioDeNotas": 0.2759528945309324,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.8024999999999998,
+        "NotaMediana": 9.21
+      },
+      "DBQ0104 - PROCESSOS BIOQUÍMICOS VITAIS": {
+        "Notas": [
+          9.25,
+          9.33,
+          9.46
+        ],
+        "Desvios": [
+          1.71,
+          2,
+          1.46
+        ],
+        "DesvioDeNotas": 0.08653836657164816,
+        "MediaDeNotas": 9.346666666666666,
+        "MediaDeDesvios": 1.7233333333333334,
+        "NotaMediana": 9.33
+      }
+    },
+    "DesvioDeNotas": 0.23506837910944733,
+    "MediaDeNotas": 9.24,
+    "MediaDeDesvios": 1.7685714285714285,
+    "NotaMediana": 9.25
+  },
+  "MATHEUS DA SILVA ZATTI": {
+    "Notas": [
+      9.43,
+      9.6,
+      9.65,
+      9.68,
+      9.7
+    ],
+    "Desvios": [
+      1.56,
+      1.47,
+      1.19,
+      1.7,
+      1.27
+    ],
+    "Componentes": {
+      "DBQ0031 - BIOQUIMICA METABOLICA": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.43
+      },
+      "DBQ0012 - BIOQUIMICA XII": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.68
+      },
+      "DBQ0038 - BIOQUÍMICA APLICADA À EDUCAÇÃO FÍSICA": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.65
+      },
+      "DBQ0036 - BIOQUÍMICA E CULTIVO CELULAR PARA BIOMEDICINA": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.6
+      },
+      "DBQ0030 - DIVERSIDADE MOLECULAR": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.0970360757656656,
+    "MediaDeNotas": 9.612,
+    "MediaDeDesvios": 1.4380000000000002,
+    "NotaMediana": 9.65
+  },
+  "MONIQUE GABRIELA DAS CHAGAS FAUSTINO ALVES": {
+    "Notas": [
+      10,
+      9.31,
+      9.32,
+      9.44,
+      9.57,
+      9.73,
+      9.75,
+      9.8,
+      9.82,
+      9.82,
+      9.83,
+      9.88,
+      9.89,
+      9.91,
+      9.93,
+      9.95,
+      9.98
+    ],
+    "Desvios": [
+      1.42,
+      0.61,
+      1.86,
+      1.91,
+      1.06,
+      1.38,
+      0.53,
+      1.74,
+      1.01,
+      1.51,
+      1.55,
+      1.82,
+      1.77,
+      0.74,
+      1.38,
+      1.72,
+      1.69
+    ],
+    "Componentes": {
+      "DBQ0023 - BIOQUIMICA": {
+        "Notas": [
+          9.83,
+          9.89,
+          9.91,
+          9.95
+        ],
+        "Desvios": [
+          1.42,
+          1.06,
+          1.01,
+          0.74
+        ],
+        "DesvioDeNotas": 0.043301270189221676,
+        "MediaDeNotas": 9.895,
+        "MediaDeDesvios": 1.0575,
+        "NotaMediana": 9.91
+      },
+      "DBQ0034 - BIOQUÍMICA MÉDICA": {
+        "Notas": [
+          10,
+          9.44,
+          9.57,
+          9.8,
+          9.82,
+          9.98
+        ],
+        "Desvios": [
+          0.61,
+          1.38,
+          0.53,
+          1.55,
+          1.72,
+          1.69
+        ],
+        "DesvioDeNotas": 0.20383135730849242,
+        "MediaDeNotas": 9.768333333333333,
+        "MediaDeDesvios": 1.2466666666666664,
+        "NotaMediana": 9.8
+      },
+      "DBQ0041 - QUÍMICA ORGÂNICA PARA BIOMEDICINA": {
+        "Notas": [
+          9.73,
+          9.75,
+          9.82,
+          9.88
+        ],
+        "Desvios": [
+          1.86,
+          1.91,
+          1.82,
+          1.77
+        ],
+        "DesvioDeNotas": 0.05937171043518978,
+        "MediaDeNotas": 9.795,
+        "MediaDeDesvios": 1.8399999999999999,
+        "NotaMediana": 9.82
+      },
+      "DBQ0033 - ANÁLISES BIOQUÍMICAS": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.93
+      },
+      "DBQ0037 - BIOQUÍMICA E CULTIVO CELULAR PARA CIÊNCIAS BIOLÓGICAS": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.31
+      },
+      "DBQ0036 - BIOQUÍMICA E CULTIVO CELULAR PARA BIOMEDICINA": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.32
+      }
+    },
+    "DesvioDeNotas": 0.21338919395528397,
+    "MediaDeNotas": 9.760588235294119,
+    "MediaDeDesvios": 1.3941176470588232,
+    "NotaMediana": 9.82
+  },
+  "RODRIGO JULIANI SIQUEIRA DALMOLIN": {
+    "Notas": [
+      9.28,
+      9.54,
+      9.56,
+      9.57,
+      9.62,
+      9.71,
+      9.72,
+      9.73,
+      9.79,
+      9.98,
+      9.99
+    ],
+    "Desvios": [
+      1.5,
+      0.93,
+      1.64,
+      1.65,
+      2.28,
+      1.89,
+      2.47,
+      1.5,
+      0.94,
+      0.62,
+      1.12
+    ],
+    "Componentes": {
+      "DBQ0048 - FUNDAMENTOS DE BIOQUÍMICA E BIOLOGIA MOLECULAR": {
+        "Notas": [
+          9.72,
+          9.79
+        ],
+        "Desvios": [
+          1.5,
+          1.89
+        ],
+        "DesvioDeNotas": 0.034999999999999254,
+        "MediaDeNotas": 9.754999999999999,
+        "MediaDeDesvios": 1.6949999999999998,
+        "NotaMediana": 9.79
+      },
+      "DBQ0044 - INTRODUÇÃO À BIOLOGIA DE SISTEMAS": {
+        "Notas": [
+          9.56,
+          9.98
+        ],
+        "Desvios": [
+          0.93,
+          2.47
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.7000000000000002,
+        "NotaMediana": 9.98
+      },
+      "DBQ0045 - BIOINFORMÁTICA": {
+        "Notas": [
+          9.28,
+          9.54,
+          9.57,
+          9.71,
+          9.73,
+          9.99
+        ],
+        "Desvios": [
+          1.64,
+          1.65,
+          2.28,
+          1.5,
+          0.94,
+          0.62
+        ],
+        "DesvioDeNotas": 0.2159989711909659,
+        "MediaDeNotas": 9.636666666666667,
+        "MediaDeDesvios": 1.4383333333333332,
+        "NotaMediana": 9.71
+      },
+      "DBQ0035 - BIOQUÍMICA BÁSICA": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.12,
+        "NotaMediana": 9.62
+      }
+    },
+    "DesvioDeNotas": 0.19374090221242063,
+    "MediaDeNotas": 9.68090909090909,
+    "MediaDeDesvios": 1.5036363636363637,
+    "NotaMediana": 9.71
+  },
+  "SELMA MARIA BEZERRA JERONIMO": {
+    "Notas": [
+      8.59,
+      8.82,
+      8.95,
+      9,
+      9.41,
+      9.5
+    ],
+    "Desvios": [
+      2.28,
+      2.08,
+      1.66,
+      1.96,
+      2.31,
+      1.11
+    ],
+    "Componentes": {
+      "DBQ0105 - MÓDULO CELULAR, MOLECULAR E MACROMOLECULAR": {
+        "Notas": [
+          8.59,
+          9,
+          9.41,
+          9.5
+        ],
+        "Desvios": [
+          2.28,
+          1.66,
+          2.31,
+          1.11
+        ],
+        "DesvioDeNotas": 0.3618355980276126,
+        "MediaDeNotas": 9.125,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 9.41
+      },
+      "DBQ0904 - BIOQUIMICA MEDICA": {
+        "Notas": [
+          8.95
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 8.95
+      },
+      "DBQ0022 - BIOLOGIA MOLECULAR EXPERIMENTAL": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          1.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 8.82
+      }
+    },
+    "DesvioDeNotas": 0.31857756773926615,
+    "MediaDeNotas": 9.045,
+    "MediaDeDesvios": 1.8999999999999997,
+    "NotaMediana": 9
+  },
+  "SUELY FERREIRA CHAVANTE": {
+    "Notas": [
+      7.81,
+      8.3,
+      8.4,
+      8.76,
+      9.05,
+      9.1,
+      9.34,
+      9.56,
+      9.72
+    ],
+    "Desvios": [
+      2.99,
+      1.51,
+      2.6,
+      2.16,
+      1.38,
+      1.06,
+      2.78,
+      1.68,
+      2.48
+    ],
+    "Componentes": {
+      "DBQ0308 - BIOQUIMICA APLICADA A FISIOTERAPIA": {
+        "Notas": [
+          8.3,
+          8.76,
+          9.05,
+          9.56
+        ],
+        "Desvios": [
+          2.99,
+          2.6,
+          1.38,
+          1.68
+        ],
+        "DesvioDeNotas": 0.45729503605440547,
+        "MediaDeNotas": 8.9175,
+        "MediaDeDesvios": 2.1625,
+        "NotaMediana": 9.05
+      },
+      "DBQ0025 - BIOQUIMICA BASICA PARA AQUICULTURA": {
+        "Notas": [
+          7.81,
+          9.34,
+          9.72
+        ],
+        "Desvios": [
+          1.51,
+          2.16,
+          1.06
+        ],
+        "DesvioDeNotas": 0.8255234029928464,
+        "MediaDeNotas": 8.956666666666665,
+        "MediaDeDesvios": 1.5766666666666669,
+        "NotaMediana": 9.34
+      },
+      "DBQ0020 - TOPICOS ESPECIAIS EM BIOQUIMICA": {
+        "Notas": [
+          9.1
+        ],
+        "Desvios": [
+          2.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 2.78,
+        "NotaMediana": 9.1
+      },
+      "DBQ0030 - DIVERSIDADE MOLECULAR": {
+        "Notas": [
+          8.4
+        ],
+        "Desvios": [
+          2.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.4,
+        "MediaDeDesvios": 2.48,
+        "NotaMediana": 8.4
+      }
+    },
+    "DesvioDeNotas": 0.5945493157753098,
+    "MediaDeNotas": 8.893333333333334,
+    "MediaDeDesvios": 2.071111111111111,
+    "NotaMediana": 9.05
+  },
+  "ANTONIO MOREIRA MARQUES NETO": {
+    "Notas": [
+      9.14,
+      9.25,
+      9.35,
+      9.38,
+      9.48,
+      9.5,
+      9.57,
+      9.57,
+      9.61,
+      9.63,
+      9.63,
+      9.64,
+      9.65,
+      9.66,
+      9.66,
+      9.66,
+      9.72,
+      9.75,
+      9.75,
+      9.78,
+      9.79,
+      9.79,
+      9.8,
+      9.81,
+      9.81,
+      9.82,
+      9.84,
+      9.85,
+      9.86,
+      9.87,
+      9.95
+    ],
+    "Desvios": [
+      1.23,
+      1.25,
+      1.51,
+      1.64,
+      1.6,
+      1.68,
+      1.26,
+      1.38,
+      0.64,
+      1.46,
+      0.99,
+      1.18,
+      1.39,
+      1.41,
+      1.84,
+      1.5,
+      1.81,
+      2.15,
+      2.11,
+      1.58,
+      1.05,
+      1.14,
+      0.96,
+      1.22,
+      1.49,
+      0.94,
+      1.35,
+      1.2,
+      0.9,
+      1.15,
+      1.18
+    ],
+    "Componentes": {
+      "DBQ0031 - BIOQUIMICA METABOLICA": {
+        "Notas": [
+          9.75,
+          9.79,
+          9.79,
+          9.81,
+          9.84,
+          9.86
+        ],
+        "Desvios": [
+          1.23,
+          1.25,
+          0.99,
+          1.18,
+          1.14,
+          0.96
+        ],
+        "DesvioDeNotas": 0.03590109871423001,
+        "MediaDeNotas": 9.806666666666667,
+        "MediaDeDesvios": 1.1249999999999998,
+        "NotaMediana": 9.81
+      },
+      "DBQ0012 - BIOQUIMICA XII": {
+        "Notas": [
+          9.57,
+          9.8,
+          9.81
+        ],
+        "Desvios": [
+          1.51,
+          1.39,
+          1.22
+        ],
+        "DesvioDeNotas": 0.11085526098877276,
+        "MediaDeNotas": 9.726666666666667,
+        "MediaDeDesvios": 1.3733333333333333,
+        "NotaMediana": 9.8
+      },
+      "DBQ0038 - BIOQUÍMICA APLICADA À EDUCAÇÃO FÍSICA": {
+        "Notas": [
+          9.5,
+          9.57,
+          9.64
+        ],
+        "Desvios": [
+          1.64,
+          1.41,
+          1.49
+        ],
+        "DesvioDeNotas": 0.05715476066494105,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.5133333333333334,
+        "NotaMediana": 9.57
+      },
+      "DBQ0030 - DIVERSIDADE MOLECULAR": {
+        "Notas": [
+          9.63,
+          9.63,
+          9.65,
+          9.66,
+          9.66,
+          9.72
+        ],
+        "Desvios": [
+          1.6,
+          1.68,
+          1.5,
+          1.81,
+          1.15,
+          1.18
+        ],
+        "DesvioDeNotas": 0.030230595245361716,
+        "MediaDeNotas": 9.658333333333333,
+        "MediaDeDesvios": 1.4866666666666666,
+        "NotaMediana": 9.66
+      },
+      "DBQ0041 - QUÍMICA ORGÂNICA PARA BIOMEDICINA": {
+        "Notas": [
+          9.25,
+          9.35,
+          9.38
+        ],
+        "Desvios": [
+          1.26,
+          2.15,
+          2.11
+        ],
+        "DesvioDeNotas": 0.05557777333511042,
+        "MediaDeNotas": 9.326666666666668,
+        "MediaDeDesvios": 1.8399999999999999,
+        "NotaMediana": 9.35
+      },
+      "DBQ0022 - BIOLOGIA MOLECULAR EXPERIMENTAL": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.87
+      },
+      "DBQ0023 - BIOQUIMICA": {
+        "Notas": [
+          9.61,
+          9.75
+        ],
+        "Desvios": [
+          0.64,
+          1.05
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 0.845,
+        "NotaMediana": 9.75
+      },
+      "DBQ0308 - BIOQUIMICA APLICADA A FISIOTERAPIA": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.66
+      },
+      "DBQ0037 - BIOQUÍMICA E CULTIVO CELULAR PARA CIÊNCIAS BIOLÓGICAS": {
+        "Notas": [
+          9.14
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 9.14
+      },
+      "DBQ0020 - TOPICOS ESPECIAIS EM BIOQUIMICA": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.95
+      },
+      "DBQ0035 - BIOQUÍMICA BÁSICA": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          0.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 0.94,
+        "NotaMediana": 9.78
+      },
+      "DBQ0036 - BIOQUÍMICA E CULTIVO CELULAR PARA BIOMEDICINA": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.48
+      },
+      "DBQ0034 - BIOQUÍMICA MÉDICA": {
+        "Notas": [
+          9.82,
+          9.85
+        ],
+        "Desvios": [
+          1.2,
+          0.9
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.835,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.85
+      }
+    },
+    "DesvioDeNotas": 0.18721297837380832,
+    "MediaDeNotas": 9.663548387096776,
+    "MediaDeDesvios": 1.3609677419354838,
+    "NotaMediana": 9.66
+  }
+}

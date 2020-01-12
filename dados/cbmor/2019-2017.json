@@ -1,0 +1,4988 @@
+[
+  {
+    "Docente": "ALIANDA MAIRA CORNELIO DA SILVA",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "2346M56",
+    "Discentes": "45",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "ALIANDA MAIRA CORNELIO DA SILVA",
+    "Componente Curricular": "MOR0067 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "10",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "ALIANDA MAIRA CORNELIO DA SILVA",
+    "Componente Curricular": "MOR0011 - ANATOMIA XI",
+    "Turma": "1",
+    "Horário": "35T2345",
+    "Discentes": "33",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "BENTO JOAO DA GRACA AZEVEDO ABREU",
+    "Componente Curricular": "MOR0011 - ANATOMIA XI",
+    "Turma": "1",
+    "Horário": "35T2345",
+    "Discentes": "33",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "2.15"
+  },
+  {
+    "Docente": "BENTO JOAO DA GRACA AZEVEDO ABREU",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "34",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA",
+    "Turma": "2",
+    "Horário": "3M56",
+    "Discentes": "44",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "2.18"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0074 - FUNDAMENTOS DE ENGENHARIA DE TECIDOS E ÓRGÃOS",
+    "Turma": "1",
+    "Horário": "4T23",
+    "Discentes": "29",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0074 - FUNDAMENTOS DE ENGENHARIA DE TECIDOS E ÓRGÃOS",
+    "Turma": "2",
+    "Horário": "4T56",
+    "Discentes": "49",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "29",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "24",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M2345 6M23",
+    "Discentes": "43",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "18",
+    "Média Geral": "8.95",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "29",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "24",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "18",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "01A",
+    "Horário": "35T12",
+    "Discentes": "10",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "02A",
+    "Horário": "35T12",
+    "Discentes": "12",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (11/02/2019 - 29/06/2019)",
+    "Discentes": "26",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "0.8"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (11/02/2019 - 29/06/2019)",
+    "Discentes": "28",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0028 - EMBRIOLOGIA APLICADA A FONOAUDIOLOGIA",
+    "Turma": "1",
+    "Horário": "4T234",
+    "Discentes": "39",
+    "Média Geral": "9.85",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0065 - EMBRIOLOGIA HUMANA PARA O CURSO DE ENFERMAGEM",
+    "Turma": "1",
+    "Horário": "6M345",
+    "Discentes": "51",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0042 - EMBRIOLOGIA II",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "22",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "DANILO JOSE AYRES DE MENEZES",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "23",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.25"
+  },
+  {
+    "Docente": "DANILO JOSE AYRES DE MENEZES",
+    "Componente Curricular": "MOR0092 - ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+    "Turma": "1",
+    "Horário": "6M234",
+    "Discentes": "21",
+    "Média Geral": "8.55",
+    "Desvio Padrão Geral": "2.62"
+  },
+  {
+    "Docente": "DANILO JOSE AYRES DE MENEZES",
+    "Componente Curricular": "MOR0092 - ANATOMIA DOS ANIMAIS DOMÉSTICOS I",
+    "Turma": "2",
+    "Horário": "6T345",
+    "Discentes": "20",
+    "Média Geral": "8.18",
+    "Desvio Padrão Geral": "2.82"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0057 - ANATOMIA PARA ENFERMAGEM",
+    "Turma": "1",
+    "Horário": "246M12",
+    "Discentes": "51",
+    "Média Geral": "9.92",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (11/02/2019 - 29/06/2019)",
+    "Discentes": "26",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "0.89"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (11/02/2019 - 29/06/2019)",
+    "Discentes": "28",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.18"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "2",
+    "Horário": "245N34 6N12",
+    "Discentes": "33",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (11/02/2019 - 29/06/2019)",
+    "Discentes": "26",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (11/02/2019 - 29/06/2019)",
+    "Discentes": "28",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M2345 6M23",
+    "Discentes": "43",
+    "Média Geral": "9.04",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM0018 - ATUALIDADES EM EDUCAÇÃO MÉDICA",
+    "Turma": "02A",
+    "Horário": "7M456 6N123 (15/03/2019 - 16/03/2019), 7M456 6N123 (05/04/2019 - 06/04/2019), 7M456 6N234 (24/05/2019 - 26/05/2019)",
+    "Discentes": "8",
+    "Média Geral": "10",
+    "Desvio Padrão Geral": "0.28"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM0036 - PLANTÕES EM ATENÇÃO MATERNO-INFANTIL 1",
+    "Turma": "1",
+    "Horário": "2T456 5N123 (11/02/2019 - 22/02/2019), 7M12 (25/02/2019 - 28/06/2019)",
+    "Discentes": "25",
+    "Média Geral": "9.95",
+    "Desvio Padrão Geral": "0.2"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM0016 - PRINCÍPIOS DE ANATOMIA CLÍNICA E TÉCNICA OPERATÓRIA",
+    "Turma": "2",
+    "Horário": "3T456 (11/02/2019 - 07/04/2019), 5N12 6N1 (08/04/2019 - 05/05/2019), 3T456 (06/05/2019 - 28/06/2019)",
+    "Discentes": "14",
+    "Média Geral": "10",
+    "Desvio Padrão Geral": "0.13"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0076 - FUNDAMENTOS DE BIOÉTICA E TANATOLOGIA PARA ESTUDANTES DA ÁREA DA SAÚDE",
+    "Turma": "1",
+    "Horário": "4T56",
+    "Discentes": "36",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "56N12",
+    "Discentes": "27",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "56N12",
+    "Discentes": "22",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "24",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "22",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.4"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "29",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "24",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "34",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "56N12",
+    "Discentes": "27",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "56N12",
+    "Discentes": "22",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "03A",
+    "Horário": "24M56",
+    "Discentes": "32",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "04A",
+    "Horário": "24M56",
+    "Discentes": "21",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "18",
+    "Média Geral": "9.1",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "18",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "01A",
+    "Horário": "6T2345",
+    "Discentes": "15",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "2.01"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "02A",
+    "Horário": "6T2345",
+    "Discentes": "17",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "17",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0066 - ANATOMIA GERAL E COMPARATIVA DOS VERTEBRADOS",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "11",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0076 - FUNDAMENTOS DE BIOÉTICA E TANATOLOGIA PARA ESTUDANTES DA ÁREA DA SAÚDE",
+    "Turma": "1",
+    "Horário": "4T56",
+    "Discentes": "36",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "2346M56",
+    "Discentes": "45",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "2.18"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0067 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "10",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "26",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0004 - ANATOMIA IV",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "34",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "9",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA",
+    "Turma": "1",
+    "Horário": "5N34",
+    "Discentes": "48",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2184.0 - MORFOLOGIA E FISIOLOGIA HUMANA GERAL - TEÓRICA",
+    "Turma": "1",
+    "Horário": "24T123 (11/02/2019 - 26/06/2019), 7M123 (29/06/2019 - 29/06/2019)",
+    "Discentes": "40",
+    "Média Geral": "8.43",
+    "Desvio Padrão Geral": "2.46"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3169.0 - MORFOLOGIA E FISIOLOGIA HUMANA III - TEÓRICA",
+    "Turma": "1",
+    "Horário": "2M456 4M56 (11/02/2019 - 26/06/2019), 6N12 (28/06/2019 - 28/06/2019)",
+    "Discentes": "41",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3169.1 - MORFOLOGIA E FISIOLOGIA HUMANA III-PRÁTICA",
+    "Turma": "1",
+    "Horário": "5M123 (14/02/2019 - 27/06/2019)",
+    "Discentes": "19",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3169.1 - MORFOLOGIA E FISIOLOGIA HUMANA III-PRÁTICA",
+    "Turma": "2",
+    "Horário": "5M456 (14/02/2019 - 27/06/2019)",
+    "Discentes": "22",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2184.1 - MORFOLOGIA HUMANA GERAL - PRÁTICA",
+    "Turma": "1",
+    "Horário": "5T123 (14/02/2019 - 27/06/2019)",
+    "Discentes": "20",
+    "Média Geral": "8.38",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2184.1 - MORFOLOGIA HUMANA GERAL - PRÁTICA",
+    "Turma": "2",
+    "Horário": "5T456 (14/02/2019 - 27/06/2019)",
+    "Discentes": "20",
+    "Média Geral": "8.27",
+    "Desvio Padrão Geral": "2.63"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "9",
+    "Média Geral": "8.96",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "56N12",
+    "Discentes": "27",
+    "Média Geral": "8.86",
+    "Desvio Padrão Geral": "2.17"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "56N12",
+    "Discentes": "22",
+    "Média Geral": "8.96",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "03A",
+    "Horário": "24M56",
+    "Discentes": "32",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "04A",
+    "Horário": "24M56",
+    "Discentes": "21",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "2.49"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0098 - HISTOLOGIA APLICADA À FONOAUDIOLOGIA",
+    "Turma": "1",
+    "Horário": "2T456",
+    "Discentes": "20",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0098 - HISTOLOGIA APLICADA À FONOAUDIOLOGIA",
+    "Turma": "2",
+    "Horário": "2T456",
+    "Discentes": "15",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "KARINNA VERISSIMO MEIRA TAVEIRA",
+    "Componente Curricular": "MOR0096 - FUNDAMENTOS DE ANATOMIA E NEUROANATOMIA",
+    "Turma": "1",
+    "Horário": "5M234 6M45",
+    "Discentes": "44",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "KARINNA VERISSIMO MEIRA TAVEIRA",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M2345 6M23",
+    "Discentes": "43",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "18",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "18",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "01A",
+    "Horário": "35T12",
+    "Discentes": "10",
+    "Média Geral": "8.71",
+    "Desvio Padrão Geral": "2.07"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "02A",
+    "Horário": "35T12",
+    "Discentes": "12",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "01A",
+    "Horário": "6T2345",
+    "Discentes": "15",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "02A",
+    "Horário": "6T2345",
+    "Discentes": "17",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "MOR0004 - ANATOMIA IV",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "34",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "29",
+    "Média Geral": "9.06",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "24",
+    "Média Geral": "9.02",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "DFS0003 - NEUROANATOMIA FUNCIONAL",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "49",
+    "Média Geral": "9.3",
+    "Desvio Padrão Geral": "2.5"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA",
+    "Turma": "2",
+    "Horário": "24M34",
+    "Discentes": "47",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "25",
+    "Média Geral": "9.28",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "27",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "24",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "22",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "01A",
+    "Horário": "6T2345",
+    "Discentes": "15",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "02A",
+    "Horário": "6T2345",
+    "Discentes": "17",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "29",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "24",
+    "Média Geral": "9.67",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "18",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "18",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0098 - HISTOLOGIA APLICADA À FONOAUDIOLOGIA",
+    "Turma": "1",
+    "Horário": "2T456",
+    "Discentes": "20",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0098 - HISTOLOGIA APLICADA À FONOAUDIOLOGIA",
+    "Turma": "2",
+    "Horário": "2T456",
+    "Discentes": "15",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M2345 6M23",
+    "Discentes": "43",
+    "Média Geral": "9.95",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0036 - ANATOMIA HUMANA APLICADA À DANÇA",
+    "Turma": "1",
+    "Horário": "5N1234 6N34",
+    "Discentes": "39",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0013 - ANATOMIA XIII",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "44",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "18",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "9",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (11/02/2019 - 29/06/2019)",
+    "Discentes": "26",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (11/02/2019 - 29/06/2019)",
+    "Discentes": "28",
+    "Média Geral": "9.51",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "34",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA",
+    "Turma": "2",
+    "Horário": "3M56",
+    "Discentes": "44",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0086 - EMBRIOLOGIA HUMANA PARA O CURSO DE NUTRIÇÃO",
+    "Turma": "1",
+    "Horário": "3T12",
+    "Discentes": "40",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0041 - EMBRIOLOGIA I",
+    "Turma": "1",
+    "Horário": "2M56",
+    "Discentes": "35",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "29",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "24",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "34",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "18",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (11/02/2019 - 29/06/2019)",
+    "Discentes": "26",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (11/02/2019 - 29/06/2019)",
+    "Discentes": "28",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0032 - TECNICAS HISTOLOGICAS I",
+    "Turma": "1",
+    "Horário": "6M234",
+    "Discentes": "20",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "SHEILA RAMOS DE MIRANDA HENRIQUES TARRAPP",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "25",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "SHEILA RAMOS DE MIRANDA HENRIQUES TARRAPP",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "27",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "2",
+    "Horário": "245N34 6N12",
+    "Discentes": "33",
+    "Média Geral": "8.63",
+    "Desvio Padrão Geral": "2.27"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA",
+    "Turma": "1",
+    "Horário": "36N34",
+    "Discentes": "43",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "26",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "25",
+    "Média Geral": "8.3",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "27",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "ALIANDA MAIRA CORNELIO DA SILVA",
+    "Componente Curricular": "MOR0011 - ANATOMIA XI",
+    "Turma": "1",
+    "Horário": "35T2345",
+    "Discentes": "31",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.53"
+  },
+  {
+    "Docente": "ALIANDA MAIRA CORNELIO DA SILVA",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M2345 6M23",
+    "Discentes": "46",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "ALIANDA MAIRA CORNELIO DA SILVA",
+    "Componente Curricular": "MOR0087 - NEUROANATOMIA FUNCIONAL APLICADA ÀS ÁREAS DA SAÚDE E BIOLÓGICAS",
+    "Turma": "1",
+    "Horário": "2T56",
+    "Discentes": "9",
+    "Média Geral": "9.1",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "BENTO JOAO DA GRACA AZEVEDO ABREU",
+    "Componente Curricular": "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA",
+    "Turma": "2",
+    "Horário": "36N34",
+    "Discentes": "44",
+    "Média Geral": "9",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "BENTO JOAO DA GRACA AZEVEDO ABREU",
+    "Componente Curricular": "MOR0091 - ANATOMIA PALPATÓRIA",
+    "Turma": "1",
+    "Horário": "2T34",
+    "Discentes": "16",
+    "Média Geral": "9.98",
+    "Desvio Padrão Geral": "0.94"
+  },
+  {
+    "Docente": "BENTO JOAO DA GRACA AZEVEDO ABREU",
+    "Componente Curricular": "MOR0011 - ANATOMIA XI",
+    "Turma": "1",
+    "Horário": "35T2345",
+    "Discentes": "31",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "BENTO JOAO DA GRACA AZEVEDO ABREU",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "32",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0062 - EMBRIOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "42",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA",
+    "Turma": "2",
+    "Horário": "5N34",
+    "Discentes": "42",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0041 - EMBRIOLOGIA I",
+    "Turma": "1",
+    "Horário": "2M56",
+    "Discentes": "41",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "28",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M2345 6M23",
+    "Discentes": "46",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "24T56",
+    "Discentes": "19",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "28",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "01A",
+    "Horário": "24M34",
+    "Discentes": "11",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "02A",
+    "Horário": "24M34",
+    "Discentes": "9",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0035 - HISTOLOGIA VII",
+    "Turma": "1",
+    "Horário": "6M45",
+    "Discentes": "35",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0032 - TECNICAS HISTOLOGICAS I",
+    "Turma": "1",
+    "Horário": "6M234",
+    "Discentes": "22",
+    "Média Geral": "9.06",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0062 - EMBRIOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "42",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0065 - EMBRIOLOGIA HUMANA PARA O CURSO DE ENFERMAGEM",
+    "Turma": "1",
+    "Horário": "6M234",
+    "Discentes": "48",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0065 - EMBRIOLOGIA HUMANA PARA O CURSO DE ENFERMAGEM",
+    "Turma": "2",
+    "Horário": "6T345",
+    "Discentes": "38",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0086 - EMBRIOLOGIA HUMANA PARA O CURSO DE NUTRIÇÃO",
+    "Turma": "1",
+    "Horário": "3T12",
+    "Discentes": "48",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0042 - EMBRIOLOGIA II",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "16",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "DANILO JOSE AYRES DE MENEZES",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "21",
+    "Média Geral": "8.93",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0057 - ANATOMIA PARA ENFERMAGEM",
+    "Turma": "1",
+    "Horário": "24M12 6T12",
+    "Discentes": "53",
+    "Média Geral": "9.95",
+    "Desvio Padrão Geral": "1.14"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "27",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "28",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.13"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M2345 6M23",
+    "Discentes": "46",
+    "Média Geral": "8.59",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM0016 - PRINCÍPIOS DE ANATOMIA CLÍNICA E TÉCNICA OPERATÓRIA",
+    "Turma": "1",
+    "Horário": "3T234 (06/08/2018 - 07/12/2018)",
+    "Discentes": "25",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM3008 - PROLIFERAÇÃO CELULAR - EIXO TUTORIAL",
+    "Turma": "2",
+    "Horário": "25M2345 2N12 (30/07/2018 - 31/08/2018)",
+    "Discentes": "11",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "0.14"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0076 - FUNDAMENTOS DE BIOÉTICA E TANATOLOGIA PARA ESTUDANTES DA ÁREA DA SAÚDE",
+    "Turma": "1",
+    "Horário": "3T56",
+    "Discentes": "35",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "03A",
+    "Horário": "56N12",
+    "Discentes": "19",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "04A",
+    "Horário": "56N12",
+    "Discentes": "25",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "01A",
+    "Horário": "35T56",
+    "Discentes": "32",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "02A",
+    "Horário": "35T56",
+    "Discentes": "19",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "2.38"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "26",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "23",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "28",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "03A",
+    "Horário": "56N12",
+    "Discentes": "19",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.06"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "04A",
+    "Horário": "56N12",
+    "Discentes": "25",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.27"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "19",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "22",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "01A",
+    "Horário": "35T56",
+    "Discentes": "32",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "02A",
+    "Horário": "35T56",
+    "Discentes": "19",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "03A",
+    "Horário": "24N12",
+    "Discentes": "9",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "04A",
+    "Horário": "24N12",
+    "Discentes": "9",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "14",
+    "Média Geral": "9.14",
+    "Desvio Padrão Geral": "1.53"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "21",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0066 - ANATOMIA GERAL E COMPARATIVA DOS VERTEBRADOS",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "15",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0076 - FUNDAMENTOS DE BIOÉTICA E TANATOLOGIA PARA ESTUDANTES DA ÁREA DA SAÚDE",
+    "Turma": "1",
+    "Horário": "3T56",
+    "Discentes": "35",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0067 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "15",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "2.26"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "24T56",
+    "Discentes": "19",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "24",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0004 - ANATOMIA IV",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "40",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST1131.0 - MORFOLGIA E FISIOLOGIA HUMANA I - TEÓRICA",
+    "Turma": "1",
+    "Horário": "2M23 4M345 (30/07/2018 - 14/12/2018)",
+    "Discentes": "44",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2190.1 - MORFOLOGIA E FISIOLOGIA DO APARELHO LOCOMOTOR - PRÁTICA",
+    "Turma": "1",
+    "Horário": "5T123 (02/08/2018 - 13/12/2018)",
+    "Discentes": "20",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2190.1 - MORFOLOGIA E FISIOLOGIA DO APARELHO LOCOMOTOR - PRÁTICA",
+    "Turma": "2",
+    "Horário": "5T456 (02/08/2018 - 13/12/2018)",
+    "Discentes": "18",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.4"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2190.0 - MORFOLOGIA E FISIOLOGIA DO APARELHO LOCOMOTOR - TEÓRICA",
+    "Turma": "1",
+    "Horário": "24T123 (30/07/2018 - 12/12/2018)",
+    "Discentes": "38",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST1131.1 - MORFOLOGIA E FISIOLOGIA HUMANA I - PRÁTICA",
+    "Turma": "1",
+    "Horário": "5M123 (02/08/2018 - 13/12/2018)",
+    "Discentes": "24",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "0.77"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST1131.1 - MORFOLOGIA E FISIOLOGIA HUMANA I - PRÁTICA",
+    "Turma": "2",
+    "Horário": "5M456 (02/08/2018 - 13/12/2018)",
+    "Discentes": "20",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3130.1 - MORFOLOGIA E FISIOLOGIA HUMANA IV - PRÁTICA",
+    "Turma": "1",
+    "Horário": "3M123 (31/07/2018 - 11/12/2018)",
+    "Discentes": "20",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3130.1 - MORFOLOGIA E FISIOLOGIA HUMANA IV - PRÁTICA",
+    "Turma": "2",
+    "Horário": "3M456 (31/07/2018 - 11/12/2018)",
+    "Discentes": "19",
+    "Média Geral": "9.26",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3130.0 - MORFOLOGIA E FISIOLOGIA HUMANA IV - TEORIA",
+    "Turma": "1",
+    "Horário": "2M456 4M12 (30/07/2018 - 12/12/2018)",
+    "Discentes": "39",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.53"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "36M56",
+    "Discentes": "32",
+    "Média Geral": "8.64",
+    "Desvio Padrão Geral": "2.69"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "36M56",
+    "Discentes": "19",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "2.15"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0083 - PATOLOGIA BÁSICA E DIAGNÓSTICO DE DOENÇAS I",
+    "Turma": "1",
+    "Horário": "356M34",
+    "Discentes": "31",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0083 - PATOLOGIA BÁSICA E DIAGNÓSTICO DE DOENÇAS I",
+    "Turma": "2",
+    "Horário": "2N12 35N34",
+    "Discentes": "18",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "KARINNA VERISSIMO MEIRA TAVEIRA",
+    "Componente Curricular": "MOR0037 - ANATOMIA DA CABECA E DO PESCOCO APLICADA A FONOAUDIOLOGIA",
+    "Turma": "1",
+    "Horário": "5M234 6M45",
+    "Discentes": "36",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "KARINNA VERISSIMO MEIRA TAVEIRA",
+    "Componente Curricular": "MOR0091 - ANATOMIA PALPATÓRIA",
+    "Turma": "1",
+    "Horário": "2T34",
+    "Discentes": "16",
+    "Média Geral": "9.95",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "KARINNA VERISSIMO MEIRA TAVEIRA",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M2345 6M23",
+    "Discentes": "46",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "19",
+    "Média Geral": "9.08",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "22",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "01A",
+    "Horário": "24M34",
+    "Discentes": "11",
+    "Média Geral": "7.74",
+    "Desvio Padrão Geral": "2.7"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "02A",
+    "Horário": "24M34",
+    "Discentes": "9",
+    "Média Geral": "8.82",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "01A",
+    "Horário": "6T2345",
+    "Discentes": "16",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "02A",
+    "Horário": "6T2345",
+    "Discentes": "15",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0035 - HISTOLOGIA VII",
+    "Turma": "1",
+    "Horário": "6M45",
+    "Discentes": "35",
+    "Média Geral": "8.71",
+    "Desvio Padrão Geral": "2.64"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "MOR0004 - ANATOMIA IV",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "40",
+    "Média Geral": "8.97",
+    "Desvio Padrão Geral": "2.07"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "28",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "8.91",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA",
+    "Turma": "1",
+    "Horário": "34M34",
+    "Discentes": "47",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0057 - ANATOMIA PARA ENFERMAGEM",
+    "Turma": "1",
+    "Horário": "24M12 6T12",
+    "Discentes": "53",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "27",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "28",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "01A",
+    "Horário": "35T56",
+    "Discentes": "32",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "02A",
+    "Horário": "35T56",
+    "Discentes": "19",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "2.13"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "26",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "23",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "01A",
+    "Horário": "6T2345",
+    "Discentes": "16",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "02A",
+    "Horário": "6T2345",
+    "Discentes": "15",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "28",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "36M56",
+    "Discentes": "32",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "36M56",
+    "Discentes": "19",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "03A",
+    "Horário": "24N12",
+    "Discentes": "9",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "04A",
+    "Horário": "24N12",
+    "Discentes": "9",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M2345 6M23",
+    "Discentes": "46",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "1.12"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0067 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "15",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.39"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0091 - ANATOMIA PALPATÓRIA",
+    "Turma": "1",
+    "Horário": "2T34",
+    "Discentes": "16",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "1.19"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0013 - ANATOMIA XIII",
+    "Turma": "1",
+    "Horário": "246N12",
+    "Discentes": "44",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0053 - EMBRIOLOGIA ANIMAL",
+    "Turma": "1",
+    "Horário": "6M23",
+    "Discentes": "41",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "24M34 6M56",
+    "Discentes": "20",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "18",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0086 - EMBRIOLOGIA HUMANA PARA O CURSO DE NUTRIÇÃO",
+    "Turma": "1",
+    "Horário": "3T12",
+    "Discentes": "48",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0041 - EMBRIOLOGIA I",
+    "Turma": "1",
+    "Horário": "2M56",
+    "Discentes": "41",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.63"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0042 - EMBRIOLOGIA II",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "16",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "32",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.27"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0062 - EMBRIOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "2",
+    "Horário": "3N34 6N12",
+    "Discentes": "16",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.12"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA",
+    "Turma": "1",
+    "Horário": "6M34",
+    "Discentes": "48",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "28",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.4"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.19",
+    "Desvio Padrão Geral": "2.51"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "8.81",
+    "Desvio Padrão Geral": "2.5"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "32",
+    "Média Geral": "8.81",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "24M34 6M56",
+    "Discentes": "20",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "2.01"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "36M56",
+    "Discentes": "32",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "36M56",
+    "Discentes": "19",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "2.25"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0032 - TECNICAS HISTOLOGICAS I",
+    "Turma": "1",
+    "Horário": "6M234",
+    "Discentes": "22",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.14"
+  },
+  {
+    "Docente": "SHEILA RAMOS DE MIRANDA HENRIQUES TARRAPP",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "27",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "1.63"
+  },
+  {
+    "Docente": "SHEILA RAMOS DE MIRANDA HENRIQUES TARRAPP",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "28",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "SIMONE ALMEIDA GAVILAN",
+    "Componente Curricular": "MOR0053 - EMBRIOLOGIA ANIMAL",
+    "Turma": "1",
+    "Horário": "6M23",
+    "Discentes": "41",
+    "Média Geral": "8.7",
+    "Desvio Padrão Geral": "2.56"
+  },
+  {
+    "Docente": "SIMONE ALMEIDA GAVILAN",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "24M34 6M56",
+    "Discentes": "20",
+    "Média Geral": "8.61",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "SIMONE ALMEIDA GAVILAN",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "18",
+    "Média Geral": "8.21",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "SIMONE ALMEIDA GAVILAN",
+    "Componente Curricular": "MOR0042 - EMBRIOLOGIA II",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "16",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA",
+    "Turma": "2",
+    "Horário": "36N34",
+    "Discentes": "44",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "24",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "27",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "28",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.24"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "32",
+    "Média Geral": "8.79",
+    "Desvio Padrão Geral": "2.34"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "22",
+    "Média Geral": "9.13",
+    "Desvio Padrão Geral": "2.39"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (30/07/2018 - 15/12/2018)",
+    "Discentes": "31",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "ALDO FONSECA DE SOUZA",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "23",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "0.9"
+  },
+  {
+    "Docente": "ALDO FONSECA DE SOUZA",
+    "Componente Curricular": "MOR0066 - ANATOMIA GERAL E COMPARATIVA DOS VERTEBRADOS",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "15",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "ALDO FONSECA DE SOUZA",
+    "Componente Curricular": "MOR0036 - ANATOMIA HUMANA APLICADA À DANÇA",
+    "Turma": "1",
+    "Horário": "4N1234 6N34",
+    "Discentes": "36",
+    "Média Geral": "9.98",
+    "Desvio Padrão Geral": "0.94"
+  },
+  {
+    "Docente": "ALDO FONSECA DE SOUZA",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "19",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.21"
+  },
+  {
+    "Docente": "ALIANDA MAIRA CORNELIO DA SILVA",
+    "Componente Curricular": "MOR0067 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "10",
+    "Média Geral": "9.33",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "ALIANDA MAIRA CORNELIO DA SILVA",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "2346M56",
+    "Discentes": "47",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "ALIANDA MAIRA CORNELIO DA SILVA",
+    "Componente Curricular": "MOR0011 - ANATOMIA XI",
+    "Turma": "1",
+    "Horário": "35T2345",
+    "Discentes": "33",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "BENTO JOAO DA GRACA AZEVEDO ABREU",
+    "Componente Curricular": "MOR0011 - ANATOMIA XI",
+    "Turma": "1",
+    "Horário": "35T2345",
+    "Discentes": "33",
+    "Média Geral": "9.51",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "BENTO JOAO DA GRACA AZEVEDO ABREU",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "35",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0041 - EMBRIOLOGIA I",
+    "Turma": "1",
+    "Horário": "2M56",
+    "Discentes": "29",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0074 - FUNDAMENTOS DE ENGENHARIA DE TECIDOS E ÓRGÃOS",
+    "Turma": "1",
+    "Horário": "2T56",
+    "Discentes": "39",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0074 - FUNDAMENTOS DE ENGENHARIA DE TECIDOS E ÓRGÃOS",
+    "Turma": "2",
+    "Horário": "4T23",
+    "Discentes": "30",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "27",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "CARLOS AUGUSTO GALVAO BARBOZA",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M1234 6M12",
+    "Discentes": "40",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "MOR0067 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "10",
+    "Média Geral": "8.74",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "19",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "2.3"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "27",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "36M56",
+    "Discentes": "29",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "36M56",
+    "Discentes": "22",
+    "Média Geral": "9.42",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "01A",
+    "Horário": "35T12",
+    "Discentes": "13",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.01"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "02A",
+    "Horário": "35T12",
+    "Discentes": "11",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.53"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0032 - TECNICAS HISTOLOGICAS I",
+    "Turma": "1",
+    "Horário": "6M234",
+    "Discentes": "15",
+    "Média Geral": "8.45",
+    "Desvio Padrão Geral": "2.5"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0028 - EMBRIOLOGIA APLICADA A FONOAUDIOLOGIA",
+    "Turma": "1",
+    "Horário": "6T345",
+    "Discentes": "42",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0065 - EMBRIOLOGIA HUMANA PARA O CURSO DE ENFERMAGEM",
+    "Turma": "1",
+    "Horário": "6M234",
+    "Discentes": "37",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0086 - EMBRIOLOGIA HUMANA PARA O CURSO DE NUTRIÇÃO",
+    "Turma": "1",
+    "Horário": "3T12",
+    "Discentes": "36",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.19"
+  },
+  {
+    "Docente": "DANILO JOSE AYRES DE MENEZES",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "13",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "DANILO JOSE AYRES DE MENEZES",
+    "Componente Curricular": "MOR0052 - ANATOMIA DE ANIMAIS DOMESTICOS",
+    "Turma": "1",
+    "Horário": "35M234",
+    "Discentes": "43",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "2.03"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "2346M56",
+    "Discentes": "47",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0057 - ANATOMIA PARA ENFERMAGEM",
+    "Turma": "1",
+    "Horário": "24M12 6T12",
+    "Discentes": "46",
+    "Média Geral": "9.93",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "25",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "0.78"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "24",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.06"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M1234 6M12",
+    "Discentes": "40",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM0025 - ACOMPANHAMENTO DA EVOLUÇÃO ACADÊMICA 2",
+    "Turma": "1",
+    "Horário": "2N1 (19/02/2018 - 29/06/2018)",
+    "Discentes": "37",
+    "Média Geral": "9.96",
+    "Desvio Padrão Geral": "0.5"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM0015 - BASES DA FISIOPATOLOGIA E RACIOCÍNIO CLÍNICO",
+    "Turma": "1",
+    "Horário": "3T456 (19/02/2018 - 29/06/2018)",
+    "Discentes": "32",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "0.57"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM8008 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO HABILIDADES E COMUNIDADE",
+    "Turma": "1",
+    "Horário": "3M12345 3T12345 5T456 (19/03/2018 - 13/04/2018)",
+    "Discentes": "8",
+    "Média Geral": "9.99",
+    "Desvio Padrão Geral": "0.15"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM8008 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO HABILIDADES E COMUNIDADE",
+    "Turma": "2",
+    "Horário": "3M12345 3T12345 5T456 (19/03/2018 - 13/04/2018)",
+    "Discentes": "8",
+    "Média Geral": "10",
+    "Desvio Padrão Geral": "0.2"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM8008 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO HABILIDADES E COMUNIDADE",
+    "Turma": "3",
+    "Horário": "3M12345 3T12345 5T456 (19/03/2018 - 13/04/2018)",
+    "Discentes": "8",
+    "Média Geral": "9.99",
+    "Desvio Padrão Geral": "0.24"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM8008 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO HABILIDADES E COMUNIDADE",
+    "Turma": "4",
+    "Horário": "3M12345 3T12345 5T456 (19/03/2018 - 13/04/2018)",
+    "Discentes": "8",
+    "Média Geral": "9.58",
+    "Desvio Padrão Geral": "0.71"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM8008 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO HABILIDADES E COMUNIDADE",
+    "Turma": "5",
+    "Horário": "3M12345 3T12345 5T456 (19/03/2018 - 13/04/2018)",
+    "Discentes": "7",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "0.74"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM8007 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO TUTORIAL",
+    "Turma": "1",
+    "Horário": "25M123456 2N12 (19/03/2018 - 13/04/2018)",
+    "Discentes": "10",
+    "Média Geral": "9.99",
+    "Desvio Padrão Geral": "0.13"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM8007 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO TUTORIAL",
+    "Turma": "2",
+    "Horário": "25M123456 2N12 (19/03/2018 - 13/04/2018)",
+    "Discentes": "9",
+    "Média Geral": "9.99",
+    "Desvio Padrão Geral": "0.25"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM8007 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO TUTORIAL",
+    "Turma": "3",
+    "Horário": "25M123456 2N12 (19/03/2018 - 13/04/2018)",
+    "Discentes": "10",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "0.51"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM8007 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO TUTORIAL",
+    "Turma": "4",
+    "Horário": "25M123456 2N12 (19/03/2018 - 13/04/2018)",
+    "Discentes": "10",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "0.4"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM0016 - PRINCÍPIOS DE ANATOMIA CLÍNICA E TÉCNICA OPERATÓRIA",
+    "Turma": "1",
+    "Horário": "3T123 (19/02/2018 - 29/06/2018)",
+    "Discentes": "30",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "0.63"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM0062 - PRÁTICAS AMBULATORIAIS E HOSPITALARES - VIII NÍVEL",
+    "Turma": "1",
+    "Horário": "4M23 2T123 (19/02/2018 - 08/06/2018)",
+    "Discentes": "39",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "0.61"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM6008 - SAÚDE DA CRIANÇA - EIXO TUTORIAL",
+    "Turma": "4",
+    "Horário": "25M2345 2N123 (16/04/2018 - 01/06/2018)",
+    "Discentes": "10",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "03A",
+    "Horário": "5N12 6N34",
+    "Discentes": "25",
+    "Média Geral": "9.92",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "04A",
+    "Horário": "5N12 6N34",
+    "Discentes": "23",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "23",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "21",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.4"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "27",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "35",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "03A",
+    "Horário": "5N12 6N34",
+    "Discentes": "25",
+    "Média Geral": "9.93",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "04A",
+    "Horário": "5N12 6N34",
+    "Discentes": "23",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "19",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "0.91"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "16",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "1.09"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0038 - HISTOLOGIA APLICADA A FONOAUDIOLOGIA",
+    "Turma": "01A",
+    "Horário": "24T56",
+    "Discentes": "16",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "1.14"
+  },
+  {
+    "Docente": "JONAS BISPO PESSOA",
+    "Componente Curricular": "MOR0038 - HISTOLOGIA APLICADA A FONOAUDIOLOGIA",
+    "Turma": "02A",
+    "Horário": "24T56",
+    "Discentes": "17",
+    "Média Geral": "9.95",
+    "Desvio Padrão Geral": "1.12"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "23",
+    "Média Geral": "8.03",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0066 - ANATOMIA GERAL E COMPARATIVA DOS VERTEBRADOS",
+    "Turma": "1",
+    "Horário": "246M56",
+    "Discentes": "15",
+    "Média Geral": "8.34",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "2346M56",
+    "Discentes": "47",
+    "Média Geral": "9.13",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "2",
+    "Horário": "245N34 6N12",
+    "Discentes": "23",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0004 - ANATOMIA IV",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "32",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2184.0 - MORFOLOGIA E FISIOLOGIA HUMANA GERAL - TEÓRICA",
+    "Turma": "1",
+    "Horário": "24T123 (19/02/2018 - 07/07/2018)",
+    "Discentes": "40",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST1140.1 - MORFOLOGIA E FISIOLOGIA HUMANA II - PRÁTICA- 45H",
+    "Turma": "1",
+    "Horário": "3M123 (19/02/2018 - 07/07/2018)",
+    "Discentes": "15",
+    "Média Geral": "9.44",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST1140.1 - MORFOLOGIA E FISIOLOGIA HUMANA II - PRÁTICA- 45H",
+    "Turma": "2",
+    "Horário": "3M456 (19/02/2018 - 07/07/2018)",
+    "Discentes": "15",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST1140.0 - MORFOLOGIA E FISIOLOGIA HUMANA II - TEORIA - 75H",
+    "Turma": "1",
+    "Horário": "2M23 4M123 (19/02/2018 - 07/07/2018)",
+    "Discentes": "30",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3169.0 - MORFOLOGIA E FISIOLOGIA HUMANA III - TEÓRICA",
+    "Turma": "1",
+    "Horário": "2M456 4M56 (19/02/2018 - 04/07/2018)",
+    "Discentes": "46",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3169.1 - MORFOLOGIA E FISIOLOGIA HUMANA III-PRÁTICA",
+    "Turma": "1",
+    "Horário": "5M123 (22/02/2018 - 05/07/2018)",
+    "Discentes": "25",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3169.1 - MORFOLOGIA E FISIOLOGIA HUMANA III-PRÁTICA",
+    "Turma": "2",
+    "Horário": "5M456 (22/02/2018 - 05/07/2018)",
+    "Discentes": "21",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2184.1 - MORFOLOGIA HUMANA GERAL - PRÁTICA",
+    "Turma": "1",
+    "Horário": "5T123 (19/02/2018 - 07/07/2018)",
+    "Discentes": "21",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2184.1 - MORFOLOGIA HUMANA GERAL - PRÁTICA",
+    "Turma": "2",
+    "Horário": "5T456 (19/02/2018 - 07/07/2018)",
+    "Discentes": "19",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "36M56",
+    "Discentes": "29",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "36M56",
+    "Discentes": "22",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0083 - PATOLOGIA BÁSICA E DIAGNÓSTICO DE DOENÇAS I",
+    "Turma": "1",
+    "Horário": "2N12 35N34",
+    "Discentes": "13",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "KARINNA VERISSIMO MEIRA TAVEIRA",
+    "Componente Curricular": "MOR0029 - ANATOMIA DOS SISTEMAS ORGANICOS",
+    "Turma": "1",
+    "Horário": "24T234",
+    "Discentes": "38",
+    "Média Geral": "9.51",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "KARINNA VERISSIMO MEIRA TAVEIRA",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M1234 6M12",
+    "Discentes": "40",
+    "Média Geral": "9.28",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "LUCIANA CARLA BEZERRA MACHADO",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "2346M56",
+    "Discentes": "47",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "LUCIANA CARLA BEZERRA MACHADO",
+    "Componente Curricular": "MOR0067 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "10",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.18"
+  },
+  {
+    "Docente": "LUCIANA CARLA BEZERRA MACHADO",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "2",
+    "Horário": "245N34 6N12",
+    "Discentes": "23",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "LUCIANA CARLA BEZERRA MACHADO",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "19",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "0.91"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "19",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "16",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "01A",
+    "Horário": "35T12",
+    "Discentes": "13",
+    "Média Geral": "9.02",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "02A",
+    "Horário": "35T12",
+    "Discentes": "11",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "01A",
+    "Horário": "6T2345",
+    "Discentes": "19",
+    "Média Geral": "8.91",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "02A",
+    "Horário": "6T2345",
+    "Discentes": "14",
+    "Média Geral": "8.81",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "MOR0004 - ANATOMIA IV",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "32",
+    "Média Geral": "9.31",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "8.58",
+    "Desvio Padrão Geral": "2.71"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "27",
+    "Média Geral": "8.8",
+    "Desvio Padrão Geral": "2.25"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "DFS0003 - NEUROANATOMIA FUNCIONAL",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "50",
+    "Média Geral": "9.13",
+    "Desvio Padrão Geral": "2.47"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA",
+    "Turma": "1",
+    "Horário": "34M34",
+    "Discentes": "42",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "41",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "19",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "0.9"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "23",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "21",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "01A",
+    "Horário": "6T2345",
+    "Discentes": "19",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "02A",
+    "Horário": "6T2345",
+    "Discentes": "14",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "2.15"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "27",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "36M56",
+    "Discentes": "29",
+    "Média Geral": "9.85",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "36M56",
+    "Discentes": "22",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0038 - HISTOLOGIA APLICADA A FONOAUDIOLOGIA",
+    "Turma": "01A",
+    "Horário": "24T56",
+    "Discentes": "16",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.16"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0038 - HISTOLOGIA APLICADA A FONOAUDIOLOGIA",
+    "Turma": "02A",
+    "Horário": "24T56",
+    "Discentes": "17",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.07"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M1234 6M12",
+    "Discentes": "40",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0036 - ANATOMIA HUMANA APLICADA À DANÇA",
+    "Turma": "1",
+    "Horário": "4N1234 6N34",
+    "Discentes": "36",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.19"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0013 - ANATOMIA XIII",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "37",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "18",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0042 - EMBRIOLOGIA II",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "21",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "35",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA",
+    "Turma": "1",
+    "Horário": "6M34",
+    "Discentes": "45",
+    "Média Geral": "8.94",
+    "Desvio Padrão Geral": "2.45"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA",
+    "Turma": "2",
+    "Horário": "6N12",
+    "Discentes": "43",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "27",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.74"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "35",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "18",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "8.93",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "8.87",
+    "Desvio Padrão Geral": "2.03"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0032 - TECNICAS HISTOLOGICAS I",
+    "Turma": "1",
+    "Horário": "6M234",
+    "Discentes": "15",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "1.07"
+  },
+  {
+    "Docente": "SHEILA RAMOS DE MIRANDA HENRIQUES TARRAPP",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "25",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "0.87"
+  },
+  {
+    "Docente": "SHEILA RAMOS DE MIRANDA HENRIQUES TARRAPP",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "24",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "0.92"
+  },
+  {
+    "Docente": "SIMONE ALMEIDA GAVILAN",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "18",
+    "Média Geral": "8.76",
+    "Desvio Padrão Geral": "2.25"
+  },
+  {
+    "Docente": "SIMONE ALMEIDA GAVILAN",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "24",
+    "Média Geral": "9.42",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "SIMONE ALMEIDA GAVILAN",
+    "Componente Curricular": "MOR0042 - EMBRIOLOGIA II",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "21",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0014 - ANATOMIA HUMANA",
+    "Turma": "2",
+    "Horário": "245N34 6N12",
+    "Discentes": "23",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "25",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "24",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.21"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "28",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "2.14"
+  },
+  {
+    "Docente": "WYLQUI MIKAEL GOMES DE ANDRADE",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (19/02/2018 - 07/07/2018)",
+    "Discentes": "29",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "ALDO FONSECA DE SOUZA",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "14",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.03"
+  },
+  {
+    "Docente": "ALDO FONSECA DE SOUZA",
+    "Componente Curricular": "MOR0066 - ANATOMIA GERAL E COMPARATIVA DOS VERTEBRADOS",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "12",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "0.39"
+  },
+  {
+    "Docente": "ALIANDA MAIRA CORNELIO DA SILVA",
+    "Componente Curricular": "MOR0011 - ANATOMIA XI",
+    "Turma": "1",
+    "Horário": "35T2345",
+    "Discentes": "38",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.1"
+  },
+  {
+    "Docente": "ANA LUIZA DIAS LEITE DE ANDRADE",
+    "Componente Curricular": "MOR0037 - ANATOMIA DA CABECA E DO PESCOCO APLICADA A FONOAUDIOLOGIA",
+    "Turma": "1",
+    "Horário": "4T123 6T12",
+    "Discentes": "39",
+    "Média Geral": "9.94",
+    "Desvio Padrão Geral": "1.05"
+  },
+  {
+    "Docente": "BENTO JOAO DA GRACA AZEVEDO ABREU",
+    "Componente Curricular": "MOR0011 - ANATOMIA XI",
+    "Turma": "1",
+    "Horário": "35T2345",
+    "Discentes": "38",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "0.95"
+  },
+  {
+    "Docente": "BENTO JOAO DA GRACA AZEVEDO ABREU",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "26",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.18"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "1",
+    "Horário": "24T56",
+    "Discentes": "30",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "1.14"
+  },
+  {
+    "Docente": "CELCIMAR ALVES CAMARA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "0.74"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "01A",
+    "Horário": "35T56",
+    "Discentes": "18",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.19"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "02A",
+    "Horário": "35T56",
+    "Discentes": "20",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "03A",
+    "Horário": "24M34",
+    "Discentes": "9",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "04A",
+    "Horário": "24M34",
+    "Discentes": "9",
+    "Média Geral": "8.82",
+    "Desvio Padrão Geral": "2.14"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "CHRISTINA DA SILVA CAMILLO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0062 - EMBRIOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "39",
+    "Média Geral": "8.97",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0065 - EMBRIOLOGIA HUMANA PARA O CURSO DE ENFERMAGEM",
+    "Turma": "1",
+    "Horário": "6M234",
+    "Discentes": "32",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA",
+    "Turma": "3",
+    "Horário": "6N12",
+    "Discentes": "42",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "DANIELLE BARBOSA MORAIS",
+    "Componente Curricular": "MOR0042 - EMBRIOLOGIA II",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "16",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "DANILO JOSE AYRES DE MENEZES",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "25",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "0.92"
+  },
+  {
+    "Docente": "DANILO JOSE AYRES DE MENEZES",
+    "Componente Curricular": "MOR0052 - ANATOMIA DE ANIMAIS DOMESTICOS",
+    "Turma": "1",
+    "Horário": "3T56 4T1234",
+    "Discentes": "8",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "0.8"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0057 - ANATOMIA PARA ENFERMAGEM",
+    "Turma": "1",
+    "Horário": "24M12 6T12",
+    "Discentes": "49",
+    "Média Geral": "9.92",
+    "Desvio Padrão Geral": "0.95"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "0.96"
+  },
+  {
+    "Docente": "EXPEDITO SILVA DO NASCIMENTO JUNIOR",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "FERNANDO VAGNER LOBO LADD",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M1234 6M12",
+    "Discentes": "42",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.4"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM0052 - ATENÇÃO À SAÚDE DA POPULAÇÃO LGBT",
+    "Turma": "1",
+    "Horário": "3N123 (24/07/2017 - 16/12/2017)",
+    "Discentes": "26",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "0.6"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM0012 - INTEGRAÇÃO ALUNO-UNIVERSIDADE E VIVÊNCIA INTEGRADA NA COMUNIDADE 1",
+    "Turma": "1",
+    "Horário": "234567M123456 234567T123456 234567N1234 (24/07/2017 - 30/07/2017)",
+    "Discentes": "41",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "0.49"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM5005 - SAUDE SEXUAL E REPRODUTIVA - EIXO HABILIDADES E COMUNIDADE",
+    "Turma": "1",
+    "Horário": "3M23456 3T23345 5T345 (24/07/2017 - 15/09/2017)",
+    "Discentes": "7",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "0.7"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM5005 - SAUDE SEXUAL E REPRODUTIVA - EIXO HABILIDADES E COMUNIDADE",
+    "Turma": "2",
+    "Horário": "3M23456 3T23345 5T345 (24/07/2017 - 15/09/2017)",
+    "Discentes": "8",
+    "Média Geral": "9.96",
+    "Desvio Padrão Geral": "0.21"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM5005 - SAUDE SEXUAL E REPRODUTIVA - EIXO HABILIDADES E COMUNIDADE",
+    "Turma": "3",
+    "Horário": "3M23456 3T23345 5T345 (24/07/2017 - 15/09/2017)",
+    "Discentes": "8",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "0.86"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM5005 - SAUDE SEXUAL E REPRODUTIVA - EIXO HABILIDADES E COMUNIDADE",
+    "Turma": "4",
+    "Horário": "3M23456 3T23345 5T345 (24/07/2017 - 15/09/2017)",
+    "Discentes": "8",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "0.8"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM5005 - SAUDE SEXUAL E REPRODUTIVA - EIXO HABILIDADES E COMUNIDADE",
+    "Turma": "5",
+    "Horário": "3M23456 3T23345 5T345 (24/07/2017 - 15/09/2017)",
+    "Discentes": "8",
+    "Média Geral": "9.95",
+    "Desvio Padrão Geral": "0.6"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM5004 - SAUDE SEXUAL E REPRODUTIVA - EIXO TUTORIAL",
+    "Turma": "1",
+    "Horário": "25M123456 2N12 (24/07/2017 - 15/09/2017)",
+    "Discentes": "10",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.03"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM5004 - SAUDE SEXUAL E REPRODUTIVA - EIXO TUTORIAL",
+    "Turma": "2",
+    "Horário": "25M123456 2N12 (24/07/2017 - 15/09/2017)",
+    "Discentes": "10",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "0.21"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM5004 - SAUDE SEXUAL E REPRODUTIVA - EIXO TUTORIAL",
+    "Turma": "3",
+    "Horário": "25M123456 2N12 (24/07/2017 - 15/09/2017)",
+    "Discentes": "10",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "0.39"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM5004 - SAUDE SEXUAL E REPRODUTIVA - EIXO TUTORIAL",
+    "Turma": "4",
+    "Horário": "25M123456 2N12 (24/07/2017 - 15/09/2017)",
+    "Discentes": "9",
+    "Média Geral": "10",
+    "Desvio Padrão Geral": "0"
+  },
+  {
+    "Docente": "GEORGE DANTAS DE AZEVEDO",
+    "Componente Curricular": "MDM7700 - VIVÊNCIA INTEGRADA NA COMUNIDADE 7",
+    "Turma": "2",
+    "Horário": "235M456 235T345 (11/09/2017 - 06/10/2017)",
+    "Discentes": "40",
+    "Média Geral": "9.97",
+    "Desvio Padrão Geral": "0.19"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0076 - FUNDAMENTOS DE BIOÉTICA E TANATOLOGIA PARA ESTUDANTES DA ÁREA DA SAÚDE",
+    "Turma": "1",
+    "Horário": "4T56",
+    "Discentes": "40",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.19"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "05A",
+    "Horário": "5N12 6N34",
+    "Discentes": "23",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "06A",
+    "Horário": "5N12 6N34",
+    "Discentes": "19",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.4"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "03A",
+    "Horário": "24N12",
+    "Discentes": "11",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "04A",
+    "Horário": "24N12",
+    "Discentes": "9",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "0.65"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "26",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "0.87"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "16",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.24"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "9.96",
+    "Desvio Padrão Geral": "0.74"
+  },
+  {
+    "Docente": "GUSTAVO DA CUNHA LIMA FREIRE",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "0.73"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "14",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0066 - ANATOMIA GERAL E COMPARATIVA DOS VERTEBRADOS",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "12",
+    "Média Geral": "9.14",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "JUAREZ E SILVA CHAGAS",
+    "Componente Curricular": "MOR0076 - FUNDAMENTOS DE BIOÉTICA E TANATOLOGIA PARA ESTUDANTES DA ÁREA DA SAÚDE",
+    "Turma": "1",
+    "Horário": "4T56",
+    "Discentes": "40",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0037 - ANATOMIA DA CABECA E DO PESCOCO APLICADA A FONOAUDIOLOGIA",
+    "Turma": "1",
+    "Horário": "4T123 6T12",
+    "Discentes": "39",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "JUDNEY CLEY CAVALCANTE",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "29",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "0.94"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2190.1 - MORFOLOGIA E FISIOLOGIA DO APARELHO LOCOMOTOR - PRÁTICA",
+    "Turma": "1",
+    "Horário": "5T123 (24/07/2017 - 08/12/2017), 7M123456 (09/12/2017 - 09/12/2017)",
+    "Discentes": "19",
+    "Média Geral": "9.51",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2190.1 - MORFOLOGIA E FISIOLOGIA DO APARELHO LOCOMOTOR - PRÁTICA",
+    "Turma": "2",
+    "Horário": "5T456 (24/07/2017 - 08/12/2017), 7T123456 (09/12/2017 - 09/12/2017)",
+    "Discentes": "19",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST2190.0 - MORFOLOGIA E FISIOLOGIA DO APARELHO LOCOMOTOR - TEÓRICA",
+    "Turma": "1",
+    "Horário": "24T123 (24/07/2017 - 10/12/2017)",
+    "Discentes": "38",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST1139.1 - MORFOLOGIA E FISIOLOGIA HUMANA I - PRÁTICA - 45H",
+    "Turma": "1",
+    "Horário": "5M123 (24/07/2017 - 15/12/2017), 7M123 (16/12/2017 - 16/12/2017)",
+    "Discentes": "20",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST1139.1 - MORFOLOGIA E FISIOLOGIA HUMANA I - PRÁTICA - 45H",
+    "Turma": "2",
+    "Horário": "5M456 (24/07/2017 - 15/12/2017), 7M456 (16/12/2017 - 16/12/2017)",
+    "Discentes": "19",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.02"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST1139.0 - MORFOLOGIA E FISIOLOGIA HUMANA I - TEORIA - 75H",
+    "Turma": "1",
+    "Horário": "2M23 4M345 (24/07/2017 - 09/12/2017)",
+    "Discentes": "39",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3130.1 - MORFOLOGIA E FISIOLOGIA HUMANA IV - PRÁTICA",
+    "Turma": "1",
+    "Horário": "3M123 (25/07/2017 - 05/12/2017)",
+    "Discentes": "15",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3130.1 - MORFOLOGIA E FISIOLOGIA HUMANA IV - PRÁTICA",
+    "Turma": "2",
+    "Horário": "3M456 (25/07/2017 - 05/12/2017)",
+    "Discentes": "16",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "JULLIANE TAMARA ARAUJO DE MELO CAMPOS",
+    "Componente Curricular": "CST3130.0 - MORFOLOGIA E FISIOLOGIA HUMANA IV - TEORIA",
+    "Turma": "2",
+    "Horário": "2M456 4M12 (24/07/2017 - 06/12/2017)",
+    "Discentes": "31",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "36M56",
+    "Discentes": "24",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "36M56",
+    "Discentes": "26",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "03A",
+    "Horário": "24N12",
+    "Discentes": "11",
+    "Média Geral": "9.19",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "04A",
+    "Horário": "24N12",
+    "Discentes": "9",
+    "Média Geral": "7.69",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "KARINA CARLA DE PAULA MEDEIROS",
+    "Componente Curricular": "MOR0083 - PATOLOGIA BÁSICA E DIAGNÓSTICO DE DOENÇAS I",
+    "Turma": "1",
+    "Horário": "246T34",
+    "Discentes": "31",
+    "Média Geral": "7.86",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "LUCIANA CARLA BEZERRA MACHADO",
+    "Componente Curricular": "MOR0067 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "12",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "0.75"
+  },
+  {
+    "Docente": "LUCIANA CARLA BEZERRA MACHADO",
+    "Componente Curricular": "MOR0004 - ANATOMIA IV",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "29",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.15"
+  },
+  {
+    "Docente": "LUCIANA CARLA BEZERRA MACHADO",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M1234 6M12",
+    "Discentes": "42",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "1.53"
+  },
+  {
+    "Docente": "MARIA EMANUELA MARTINS DOS REIS",
+    "Componente Curricular": "MOR0062 - EMBRIOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "2",
+    "Horário": "3N34 6N12",
+    "Discentes": "14",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.18"
+  },
+  {
+    "Docente": "MARIA EMANUELA MARTINS DOS REIS",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "24",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.06"
+  },
+  {
+    "Docente": "MARIA EMANUELA MARTINS DOS REIS",
+    "Componente Curricular": "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA",
+    "Turma": "1",
+    "Horário": "6M34",
+    "Discentes": "49",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "MARIA EMANUELA MARTINS DOS REIS",
+    "Componente Curricular": "MOR0086 - EMBRIOLOGIA HUMANA PARA O CURSO DE NUTRIÇÃO",
+    "Turma": "1",
+    "Horário": "3T12",
+    "Discentes": "39",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.15"
+  },
+  {
+    "Docente": "MARIA EMANUELA MARTINS DOS REIS",
+    "Componente Curricular": "MOR0041 - EMBRIOLOGIA I",
+    "Turma": "1",
+    "Horário": "2M56",
+    "Discentes": "36",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "16",
+    "Média Geral": "9.51",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "19",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "01A",
+    "Horário": "35T56",
+    "Discentes": "18",
+    "Média Geral": "8.48",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "02A",
+    "Horário": "35T56",
+    "Discentes": "20",
+    "Média Geral": "8.12",
+    "Desvio Padrão Geral": "2.53"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "03A",
+    "Horário": "24M34",
+    "Discentes": "9",
+    "Média Geral": "7.78",
+    "Desvio Padrão Geral": "2.29"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "04A",
+    "Horário": "24M34",
+    "Discentes": "9",
+    "Média Geral": "7.44",
+    "Desvio Padrão Geral": "2.38"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "01A",
+    "Horário": "6T2345",
+    "Discentes": "18",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "02A",
+    "Horário": "6T2345",
+    "Discentes": "17",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "0.77"
+  },
+  {
+    "Docente": "MARIA NAZARE DE ARRUDA CARDOZO",
+    "Componente Curricular": "MOR0035 - HISTOLOGIA VII",
+    "Turma": "1",
+    "Horário": "6M56",
+    "Discentes": "30",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "MOR0004 - ANATOMIA IV",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "29",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "0.97"
+  },
+  {
+    "Docente": "MIRIAM STELA MARIS DE OLIVEIRA COSTA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA",
+    "Turma": "1",
+    "Horário": "34M34",
+    "Discentes": "45",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "NAIANNE KELLY CLEBIS",
+    "Componente Curricular": "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA",
+    "Turma": "2",
+    "Horário": "35N34",
+    "Discentes": "38",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "03A",
+    "Horário": "24N12",
+    "Discentes": "11",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "04A",
+    "Horário": "24N12",
+    "Discentes": "9",
+    "Média Geral": "9.44",
+    "Desvio Padrão Geral": "0.76"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "26",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "16",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "01A",
+    "Horário": "6T2345",
+    "Discentes": "18",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.08"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "02A",
+    "Horário": "6T2345",
+    "Discentes": "17",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "9.92",
+    "Desvio Padrão Geral": "0.76"
+  },
+  {
+    "Docente": "NAISANDRA BEZERRA DA SILVA FARIAS",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "0.68"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "01A",
+    "Horário": "36M56",
+    "Discentes": "24",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.15"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "02A",
+    "Horário": "36M56",
+    "Discentes": "26",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "05A",
+    "Horário": "5N12 6N34",
+    "Discentes": "23",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0045 - HISTOLOGIA",
+    "Turma": "06A",
+    "Horário": "5N12 6N34",
+    "Discentes": "19",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "03A",
+    "Horário": "24T56",
+    "Discentes": "6",
+    "Média Geral": "9.99",
+    "Desvio Padrão Geral": "0.7"
+  },
+  {
+    "Docente": "PEDRO PAULO DE ANDRADE SANTOS",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M1234 6M12",
+    "Discentes": "42",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.08"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0067 - ANATOMIA HUMANA",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "12",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "0.76"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "29",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.06"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0011 - ANATOMIA XI",
+    "Turma": "1",
+    "Horário": "35T2345",
+    "Discentes": "38",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1"
+  },
+  {
+    "Docente": "RENATA FIGUEIREDO ANOMAL",
+    "Componente Curricular": "MOR0013 - ANATOMIA XIII",
+    "Turma": "1",
+    "Horário": "246N12",
+    "Discentes": "38",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0053 - EMBRIOLOGIA ANIMAL",
+    "Turma": "1",
+    "Horário": "6M34",
+    "Discentes": "46",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.21"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "3",
+    "Horário": "24M34 6M56",
+    "Discentes": "15",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0042 - EMBRIOLOGIA II",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "16",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.15"
+  },
+  {
+    "Docente": "RENATA SWANY SOARES DO NASCIMENTO",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.27"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "01A",
+    "Horário": "24T34",
+    "Discentes": "16",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO",
+    "Turma": "02A",
+    "Horário": "24T34",
+    "Discentes": "19",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "01A",
+    "Horário": "35T56",
+    "Discentes": "18",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "02A",
+    "Horário": "35T56",
+    "Discentes": "20",
+    "Média Geral": "8.95",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "03A",
+    "Horário": "24N12",
+    "Discentes": "11",
+    "Média Geral": "9.19",
+    "Desvio Padrão Geral": "1.39"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "04A",
+    "Horário": "24N12",
+    "Discentes": "9",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "0.87"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "03A",
+    "Horário": "24M34",
+    "Discentes": "9",
+    "Média Geral": "8.88",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0023 - HISTOLOGIA III",
+    "Turma": "04A",
+    "Horário": "24M34",
+    "Discentes": "9",
+    "Média Geral": "8.14",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "01A",
+    "Horário": "6T2345",
+    "Discentes": "18",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.39"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0025 - HISTOLOGIA V",
+    "Turma": "02A",
+    "Horário": "6T2345",
+    "Discentes": "17",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "0.97"
+  },
+  {
+    "Docente": "RODRIGO PORPINO MAFRA",
+    "Componente Curricular": "MOR0035 - HISTOLOGIA VII",
+    "Turma": "1",
+    "Horário": "6M56",
+    "Discentes": "30",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.02"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "26",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0062 - EMBRIOLOGIA APLICADA À BIOMEDICINA",
+    "Turma": "2",
+    "Horário": "3N34 6N12",
+    "Discentes": "14",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "0.88"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA",
+    "Turma": "3",
+    "Horário": "6N12",
+    "Discentes": "42",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0086 - EMBRIOLOGIA HUMANA PARA O CURSO DE NUTRIÇÃO",
+    "Turma": "1",
+    "Horário": "3T12",
+    "Discentes": "39",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "0.91"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "1",
+    "Horário": "2346M2345",
+    "Discentes": "26",
+    "Média Geral": "9.94",
+    "Desvio Padrão Geral": "0.76"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "DFS0108 - MODULO BIOLOGICO I",
+    "Turma": "2",
+    "Horário": "2346M2345",
+    "Discentes": "25",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "0.8"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.04"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "RUTHNALDO RODRIGUES MELO DE LIMA",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M1234 6M12",
+    "Discentes": "42",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "SEBASTIAO FRANCO DA SILVA",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "23",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "SEBASTIAO FRANCO DA SILVA",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "25",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.15"
+  },
+  {
+    "Docente": "SEBASTIAO FRANCO DA SILVA",
+    "Componente Curricular": "MOR0013 - ANATOMIA XIII",
+    "Turma": "1",
+    "Horário": "246N12",
+    "Discentes": "38",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.07"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0070 - BLOCO MORFOLOGICO",
+    "Turma": "1",
+    "Horário": "24N1234",
+    "Discentes": "26",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "1.39"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0058 - HISTOLOGIA PARA ENFERMAGEM",
+    "Turma": "03A",
+    "Horário": "24T56",
+    "Discentes": "6",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.02"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "1",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "30",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0089 - MODULO BIOLOGICO II",
+    "Turma": "2",
+    "Horário": "23456M2345 (24/07/2017 - 16/12/2017)",
+    "Discentes": "23",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.69"
+  },
+  {
+    "Docente": "SERGIO ADRIANE BEZERRA DE MOURA",
+    "Componente Curricular": "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA",
+    "Turma": "01A",
+    "Horário": "234M1234 6M12",
+    "Discentes": "42",
+    "Média Geral": "8.74",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "SHEILA RAMOS DE MIRANDA HENRIQUES TARRAPP",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "01A",
+    "Horário": "35T2345",
+    "Discentes": "23",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.18"
+  },
+  {
+    "Docente": "SHEILA RAMOS DE MIRANDA HENRIQUES TARRAPP",
+    "Componente Curricular": "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA",
+    "Turma": "02A",
+    "Horário": "35T2345",
+    "Discentes": "25",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "0.89"
+  },
+  {
+    "Docente": "SIMONE ALMEIDA GAVILAN",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "2",
+    "Horário": "246N12",
+    "Discentes": "24",
+    "Média Geral": "9.53",
+    "Desvio Padrão Geral": "0.87"
+  },
+  {
+    "Docente": "SIMONE ALMEIDA GAVILAN",
+    "Componente Curricular": "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA",
+    "Turma": "3",
+    "Horário": "24M34 6M56",
+    "Discentes": "15",
+    "Média Geral": "8.56",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "SIMONE ALMEIDA GAVILAN",
+    "Componente Curricular": "MOR0042 - EMBRIOLOGIA II",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "16",
+    "Média Geral": "8.53",
+    "Desvio Padrão Geral": "1.83"
+  }
+]
