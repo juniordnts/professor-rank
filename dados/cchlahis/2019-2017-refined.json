@@ -1,0 +1,2126 @@
+{
+  "CARMEN MARGARIDA OLIVEIRA ALVEAL": {
+    "Notas": [
+      9.33,
+      9.38,
+      9.59,
+      9.66,
+      9.71,
+      9.77,
+      9.78
+    ],
+    "Desvios": [
+      1.4,
+      1.53,
+      1.45,
+      1.8,
+      1.99,
+      1.48,
+      0.82
+    ],
+    "Componentes": {
+      "HIS0015 - HISTORIA DO BRASIL COLONIA": {
+        "Notas": [
+          9.33,
+          9.59,
+          9.66,
+          9.78
+        ],
+        "Desvios": [
+          1.4,
+          1.53,
+          1.8,
+          1.99
+        ],
+        "DesvioDeNotas": 0.1647725705328406,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.66
+      },
+      "HIS0033 - HISTORIA DAS IDEIAS POLITICAS E SOCIAIS": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.77
+      },
+      "HIS0079 - CRÔNICAS DA CONQUISTA AMERICANA": {
+        "Notas": [
+          9.38,
+          9.71
+        ],
+        "Desvios": [
+          1.48,
+          0.82
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.545000000000002,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0.1683291236760619,
+    "MediaDeNotas": 9.602857142857143,
+    "MediaDeDesvios": 1.4957142857142858,
+    "NotaMediana": 9.66
+  },
+  "FLAVIA DE SA PEDREIRA": {
+    "Notas": [
+      8.13,
+      8.32,
+      8.38,
+      8.4,
+      8.63,
+      8.93,
+      9.14,
+      9.2,
+      9.72
+    ],
+    "Desvios": [
+      1.26,
+      2.78,
+      2.75,
+      2.81,
+      1.63,
+      2.33,
+      2.15,
+      1.92,
+      1.74
+    ],
+    "Componentes": {
+      "HIS0048 - CULTURA VISUAL, HISTÓRIA E IMAGEM": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.72
+      },
+      "HIS0032 - HISTORIA DA CULTURA": {
+        "Notas": [
+          8.13,
+          8.38,
+          8.4,
+          8.63,
+          9.14
+        ],
+        "Desvios": [
+          2.78,
+          2.81,
+          2.33,
+          2.15,
+          1.92
+        ],
+        "DesvioDeNotas": 0.3409750724026611,
+        "MediaDeNotas": 8.536000000000001,
+        "MediaDeDesvios": 2.398,
+        "NotaMediana": 8.4
+      },
+      "HST1102 - HISTORIOGRAFIA BRASILEIRA": {
+        "Notas": [
+          8.32
+        ],
+        "Desvios": [
+          2.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.32,
+        "MediaDeDesvios": 2.75,
+        "NotaMediana": 8.32
+      },
+      "HIS0004 - HISTORIOGRAFIA BRASILEIRA": {
+        "Notas": [
+          8.93,
+          9.2
+        ],
+        "Desvios": [
+          1.63,
+          1.74
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.065,
+        "MediaDeDesvios": 1.685,
+        "NotaMediana": 9.2
+      }
+    },
+    "DesvioDeNotas": 0.49101809073810976,
+    "MediaDeNotas": 8.761111111111111,
+    "MediaDeDesvios": 2.1522222222222225,
+    "NotaMediana": 8.63
+  },
+  "FRANCISCA AURINETE GIRAO BARRETO DA SILVA": {
+    "Notas": [
+      9.32,
+      9.33,
+      9.5,
+      9.69,
+      9.69,
+      9.76,
+      9.81
+    ],
+    "Desvios": [
+      1.99,
+      1.87,
+      1.47,
+      1.7,
+      1.96,
+      1.75,
+      1.42
+    ],
+    "Componentes": {
+      "HST1103 - MÉTODOS E TÉCNICAS DE PESQUISA": {
+        "Notas": [
+          9.32,
+          9.69
+        ],
+        "Desvios": [
+          1.99,
+          1.87
+        ],
+        "DesvioDeNotas": 0.1849999999999996,
+        "MediaDeNotas": 9.504999999999999,
+        "MediaDeDesvios": 1.9300000000000002,
+        "NotaMediana": 9.69
+      },
+      "HIS0021 - PALEOGRAFIA": {
+        "Notas": [
+          9.69,
+          9.76,
+          9.81
+        ],
+        "Desvios": [
+          1.47,
+          1.7,
+          1.42
+        ],
+        "DesvioDeNotas": 0.049216076867445065,
+        "MediaDeNotas": 9.753333333333332,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.76
+      },
+      "HIS0002 - METODOS E TECNICAS DE PESQUISA": {
+        "Notas": [
+          9.33,
+          9.5
+        ],
+        "Desvios": [
+          1.96,
+          1.75
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.415,
+        "MediaDeDesvios": 1.855,
+        "NotaMediana": 9.5
+      }
+    },
+    "DesvioDeNotas": 0.18737717065222384,
+    "MediaDeNotas": 9.585714285714285,
+    "MediaDeDesvios": 1.737142857142857,
+    "NotaMediana": 9.69
+  },
+  "FRANCISCO DAS CHAGAS FERNANDES SANTIAGO JUNIOR": {
+    "Notas": [
+      9.22,
+      9.52,
+      9.55,
+      9.64
+    ],
+    "Desvios": [
+      1.69,
+      1.74,
+      1.5,
+      1.74
+    ],
+    "Componentes": {
+      "HIS0052 - HISTÓRIA, CINEMA E AUDIOVISUAL": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.64
+      },
+      "HIS0049 - CULTURA HISTÓRICA E MEMÓRIA CULTURAL": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.55
+      },
+      "HIS0024 - MEMORIA E PATRIMONIO HISTORICO": {
+        "Notas": [
+          9.22,
+          9.52
+        ],
+        "Desvios": [
+          1.5,
+          1.74
+        ],
+        "DesvioDeNotas": 0.14999999999999947,
+        "MediaDeNotas": 9.370000000000001,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.15785673884886883,
+    "MediaDeNotas": 9.4825,
+    "MediaDeDesvios": 1.6675,
+    "NotaMediana": 9.55
+  },
+  "HELDER DO NASCIMENTO VIANA": {
+    "Notas": [
+      8.66,
+      8.84,
+      8.88,
+      9.22,
+      9.23,
+      9.32,
+      9.36,
+      9.41,
+      9.48
+    ],
+    "Desvios": [
+      1.81,
+      2.69,
+      2.1,
+      2.48,
+      2.27,
+      2.59,
+      1.64,
+      1.81,
+      1.97
+    ],
+    "Componentes": {
+      "HIS0011 - HISTORIA CONTEMPORANEA I": {
+        "Notas": [
+          8.84,
+          8.88,
+          9.22,
+          9.48
+        ],
+        "Desvios": [
+          1.81,
+          2.69,
+          2.27,
+          2.59
+        ],
+        "DesvioDeNotas": 0.26205915362757326,
+        "MediaDeNotas": 9.105,
+        "MediaDeDesvios": 2.34,
+        "NotaMediana": 9.22
+      },
+      "HIS0012 - HISTORIA CONTEMPORANEA II": {
+        "Notas": [
+          8.66,
+          9.23,
+          9.32,
+          9.36
+        ],
+        "Desvios": [
+          2.1,
+          2.48,
+          1.81,
+          1.97
+        ],
+        "DesvioDeNotas": 0.28252212302756036,
+        "MediaDeNotas": 9.1425,
+        "MediaDeDesvios": 2.0900000000000003,
+        "NotaMediana": 9.32
+      },
+      "HIS0030 - MUSEOLOGIA": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.41
+      }
+    },
+    "DesvioDeNotas": 0.2727681600476904,
+    "MediaDeNotas": 9.155555555555557,
+    "MediaDeDesvios": 2.151111111111111,
+    "NotaMediana": 9.23
+  },
+  "HENRIQUE ALONSO DE ALBUQUERQUE RODRIGUES PEREIRA": {
+    "Notas": [
+      8.57,
+      9.17,
+      9.39
+    ],
+    "Desvios": [
+      2.1,
+      1.93,
+      1.36
+    ],
+    "Componentes": {
+      "HIS0020 - HISTORIA DO RIO GRANDE DO NORTE II": {
+        "Notas": [
+          8.57
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.57,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 8.57
+      },
+      "HIS0018 - HISTORIA DO BRASIL REPUBLICA II": {
+        "Notas": [
+          9.17
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.17
+      },
+      "DEH0064 - FORMACAO HISTORICA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.34653843782312077,
+    "MediaDeNotas": 9.043333333333335,
+    "MediaDeDesvios": 1.7966666666666669,
+    "NotaMediana": 9.17
+  },
+  "JOSE EVANGELISTA FAGUNDES": {
+    "Notas": [
+      8.94,
+      9.11,
+      9.3,
+      9.44,
+      9.45,
+      9.54,
+      9.75
+    ],
+    "Desvios": [
+      1.79,
+      1.71,
+      1.83,
+      1.93,
+      1.62,
+      1.36,
+      1.92
+    ],
+    "Componentes": {
+      "HST1101 - INTRODUÇÃO AOS ESTUDOS HISTÓRICOS": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.54
+      },
+      "HIS0019 - HISTORIA DO RIO GRANDE DO NORTE I": {
+        "Notas": [
+          9.11,
+          9.3,
+          9.44,
+          9.75
+        ],
+        "Desvios": [
+          1.71,
+          1.83,
+          1.36,
+          1.92
+        ],
+        "DesvioDeNotas": 0.23355941428253332,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.705,
+        "NotaMediana": 9.44
+      },
+      "DEH0064 - FORMACAO HISTORICA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          8.94
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.94,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 8.94
+      },
+      "HIS0001 - INTRODUCAO AO ESTUDO DA HISTORIA": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.45
+      }
+    },
+    "DesvioDeNotas": 0.25113619363823697,
+    "MediaDeNotas": 9.361428571428572,
+    "MediaDeDesvios": 1.7371428571428569,
+    "NotaMediana": 9.44
+  },
+  "JULIANA TEIXEIRA SOUZA": {
+    "Notas": [
+      9.21,
+      9.38,
+      9.56,
+      9.66,
+      9.7,
+      9.75,
+      9.79,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.77,
+      1.73,
+      1.71,
+      1.8,
+      1.44,
+      1.43,
+      1.3,
+      1.6,
+      1.26
+    ],
+    "Componentes": {
+      "HIS0017 - HISTORIA DO BRASIL REPUBLICA I": {
+        "Notas": [
+          9.38,
+          9.66,
+          9.75,
+          9.82
+        ],
+        "Desvios": [
+          1.77,
+          1.73,
+          1.43,
+          1.3
+        ],
+        "DesvioDeNotas": 0.1672386020032454,
+        "MediaDeNotas": 9.6525,
+        "MediaDeDesvios": 1.5574999999999999,
+        "NotaMediana": 9.75
+      },
+      "HIS0016 - HISTORIA DO BRASIL IMPERIO": {
+        "Notas": [
+          9.21,
+          9.56,
+          9.79,
+          9.84
+        ],
+        "Desvios": [
+          1.71,
+          1.8,
+          1.6,
+          1.26
+        ],
+        "DesvioDeNotas": 0.24869660230891721,
+        "MediaDeNotas": 9.600000000000001,
+        "MediaDeDesvios": 1.5924999999999998,
+        "NotaMediana": 9.79
+      },
+      "HIS0093 - OS “EXCLUÍDOS” DA HISTÓRIA DO BRASIL REPUBLICANO": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.20265521410136222,
+    "MediaDeNotas": 9.634444444444446,
+    "MediaDeDesvios": 1.5599999999999998,
+    "NotaMediana": 9.7
+  },
+  "LIGIO JOSE DE OLIVEIRA MAIA": {
+    "Notas": [
+      9.66,
+      9.68,
+      9.71,
+      9.8,
+      9.8,
+      9.81,
+      9.86,
+      9.91
+    ],
+    "Desvios": [
+      1.69,
+      1.28,
+      1.27,
+      1.14,
+      1.66,
+      1.95,
+      1.1,
+      1.27
+    ],
+    "Componentes": {
+      "HIS0009 - HISTORIA MODERNA I": {
+        "Notas": [
+          9.66,
+          9.68,
+          9.8
+        ],
+        "Desvios": [
+          1.69,
+          1.28,
+          1.95
+        ],
+        "DesvioDeNotas": 0.061824123303305036,
+        "MediaDeNotas": 9.713333333333333,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.68
+      },
+      "HIS0086 - HISTÓRIA, ETNOHISTÓRIA E CONSTRUÇÕES IDENTITÁRIAS": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.8
+      },
+      "HIS0037 - HISTORIA INDIGENA NO BRASIL": {
+        "Notas": [
+          9.71,
+          9.81,
+          9.86,
+          9.91
+        ],
+        "Desvios": [
+          1.14,
+          1.66,
+          1.1,
+          1.27
+        ],
+        "DesvioDeNotas": 0.07395099728874482,
+        "MediaDeNotas": 9.8225,
+        "MediaDeDesvios": 1.2925,
+        "NotaMediana": 9.86
+      }
+    },
+    "DesvioDeNotas": 0.08237680195297699,
+    "MediaDeNotas": 9.77875,
+    "MediaDeDesvios": 1.42,
+    "NotaMediana": 9.8
+  },
+  "MAGNO FRANCISCO DE JESUS SANTOS": {
+    "Notas": [
+      9.65,
+      9.76,
+      9.77,
+      9.81,
+      9.82,
+      9.89,
+      9.9
+    ],
+    "Desvios": [
+      1.7,
+      1.6,
+      1.48,
+      1.12,
+      0.68,
+      1.32,
+      1.36
+    ],
+    "Componentes": {
+      "HST1101 - INTRODUÇÃO AOS ESTUDOS HISTÓRICOS": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.76
+      },
+      "HIS0004 - HISTORIOGRAFIA BRASILEIRA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.82
+      },
+      "HIS0022 - HISTORIA ORAL": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.77
+      },
+      "HIS0056 - HISTORIOGRAFIA E PESQUISA DO ENSINO DE HISTÓRIA": {
+        "Notas": [
+          9.89,
+          9.9
+        ],
+        "Desvios": [
+          1.12,
+          0.68
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.895,
+        "MediaDeDesvios": 0.9000000000000001,
+        "NotaMediana": 9.9
+      },
+      "HIS0003 - METODOLOGIA DA PESQUISA HISTORICA": {
+        "Notas": [
+          9.65,
+          9.81
+        ],
+        "Desvios": [
+          1.32,
+          1.36
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.81
+      }
+    },
+    "DesvioDeNotas": 0.07892129895390373,
+    "MediaDeNotas": 9.799999999999999,
+    "MediaDeDesvios": 1.3228571428571427,
+    "NotaMediana": 9.81
+  },
+  "MARCIA SEVERINA VASQUES": {
+    "Notas": [
+      9.4,
+      9.41,
+      9.72,
+      9.73,
+      9.74
+    ],
+    "Desvios": [
+      1.5,
+      1.62,
+      1.64,
+      1.92,
+      1.84
+    ],
+    "Componentes": {
+      "HIS0040 - HISTORIA ANTIGA I": {
+        "Notas": [
+          9.4,
+          9.41,
+          9.72
+        ],
+        "Desvios": [
+          1.5,
+          1.92,
+          1.84
+        ],
+        "DesvioDeNotas": 0.14854853303438148,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.7533333333333332,
+        "NotaMediana": 9.41
+      },
+      "HIS0073 - EGIPTOLOGIA": {
+        "Notas": [
+          9.73,
+          9.74
+        ],
+        "Desvios": [
+          1.62,
+          1.64
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.735,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.15937377450509235,
+    "MediaDeNotas": 9.6,
+    "MediaDeDesvios": 1.704,
+    "NotaMediana": 9.72
+  },
+  "MARGARIDA MARIA DIAS DE OLIVEIRA": {
+    "Notas": [
+      8.91,
+      9.4,
+      9.46,
+      9.5,
+      9.57,
+      9.65,
+      9.71,
+      9.71,
+      9.73,
+      9.82,
+      9.95
+    ],
+    "Desvios": [
+      1.63,
+      1.69,
+      1.7,
+      2.34,
+      1.48,
+      1.68,
+      1.56,
+      1.74,
+      1.26,
+      1.75,
+      1.44
+    ],
+    "Componentes": {
+      "HIS0061 - O ENSINO DE HISTÓRIA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.4
+      },
+      "HST1104 - PRÁTICA COMO COMPONENTE CURRICULAR I (A TEORIA DA HISTÓRIA NA ESCOLA BÁSICA)": {
+        "Notas": [
+          9.5,
+          9.73
+        ],
+        "Desvios": [
+          1.69,
+          1.7
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.615,
+        "MediaDeDesvios": 1.6949999999999998,
+        "NotaMediana": 9.73
+      },
+      "HIS0100 - TURISMO E PATRIMÔNIO HISTÓRICO, ARTÍSTICO E CULTURAL BRASILEIRO": {
+        "Notas": [
+          8.91
+        ],
+        "Desvios": [
+          2.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.91,
+        "MediaDeDesvios": 2.34,
+        "NotaMediana": 8.91
+      },
+      "HIS0024 - MEMORIA E PATRIMONIO HISTORICO": {
+        "Notas": [
+          9.57,
+          9.65
+        ],
+        "Desvios": [
+          1.48,
+          1.68
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.65
+      },
+      "HIS0025 - ARQUIVISTICA HISTORICA": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.71
+      },
+      "HIS0053 - ENSINO DE HISTÓRIA E MATERIAIS DIDÁTICOS": {
+        "Notas": [
+          9.82,
+          9.95
+        ],
+        "Desvios": [
+          1.74,
+          1.26
+        ],
+        "DesvioDeNotas": 0.0649999999999995,
+        "MediaDeNotas": 9.885,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.95
+      },
+      "HIS0051 - HISTÓRIA DO ENSINO DE HISTÓRIA": {
+        "Notas": [
+          9.46,
+          9.71
+        ],
+        "Desvios": [
+          1.75,
+          1.44
+        ],
+        "DesvioDeNotas": 0.125,
+        "MediaDeNotas": 9.585,
+        "MediaDeDesvios": 1.595,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0.26247392629263394,
+    "MediaDeNotas": 9.582727272727272,
+    "MediaDeDesvios": 1.660909090909091,
+    "NotaMediana": 9.65
+  },
+  "MARIA DA CONCEICAO FRAGA": {
+    "Notas": [
+      9.18,
+      9.2,
+      9.34,
+      9.36,
+      9.57,
+      9.84
+    ],
+    "Desvios": [
+      2.08,
+      1.64,
+      2.09,
+      1.5,
+      1.37,
+      1.16
+    ],
+    "Componentes": {
+      "HIS0020 - HISTORIA DO RIO GRANDE DO NORTE II": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 9.18
+      },
+      "HIS0022 - HISTORIA ORAL": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.36
+      },
+      "HIS0101 - HISTÓRIA, CATOLICISMO E POLÍTICA NO BRASIL REPUBLICANO": {
+        "Notas": [
+          9.2,
+          9.84
+        ],
+        "Desvios": [
+          2.09,
+          1.5
+        ],
+        "DesvioDeNotas": 0.3200000000000003,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.795,
+        "NotaMediana": 9.84
+      },
+      "HIS0065 - HISTÓRIA DO BRASIL CONTEMPORÂNEO": {
+        "Notas": [
+          9.34,
+          9.57
+        ],
+        "Desvios": [
+          1.37,
+          1.16
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.455,
+        "MediaDeDesvios": 1.2650000000000001,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.22903784257919785,
+    "MediaDeNotas": 9.415000000000001,
+    "MediaDeDesvios": 1.64,
+    "NotaMediana": 9.36
+  },
+  "MARIA DA CONCEICAO GUILHERME COELHO": {
+    "Notas": [
+      8.38,
+      8.55,
+      8.73,
+      9.29,
+      9.3,
+      9.34,
+      9.57,
+      9.59,
+      9.6
+    ],
+    "Desvios": [
+      2.7,
+      2.17,
+      1.73,
+      2.77,
+      2.36,
+      2.02,
+      1.73,
+      1.54,
+      1.6
+    ],
+    "Componentes": {
+      "HIS0025 - ARQUIVISTICA HISTORICA": {
+        "Notas": [
+          8.38
+        ],
+        "Desvios": [
+          2.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.38,
+        "MediaDeDesvios": 2.7,
+        "NotaMediana": 8.38
+      },
+      "HIS0034 - HISTORIA GERAL DA ARTE": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          2.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 2.17,
+        "NotaMediana": 9.29
+      },
+      "DEH0019 - HISTORIA DA ARTE I": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.59
+      },
+      "HIS0042 - HISTORIA MEDIEVAL I": {
+        "Notas": [
+          8.55,
+          9.3,
+          9.6
+        ],
+        "Desvios": [
+          2.77,
+          1.54,
+          1.6
+        ],
+        "DesvioDeNotas": 0.441588043316392,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.3
+      },
+      "HIS0028 - CONSERVACAO DE DOCUMENTOS": {
+        "Notas": [
+          8.73
+        ],
+        "Desvios": [
+          2.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.73,
+        "MediaDeDesvios": 2.36,
+        "NotaMediana": 8.73
+      },
+      "HIS0035 - HISTORIA DA ARTE BRASILEIRA": {
+        "Notas": [
+          9.34,
+          9.57
+        ],
+        "Desvios": [
+          2.02,
+          1.73
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.455,
+        "MediaDeDesvios": 1.875,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.44472213547087747,
+    "MediaDeNotas": 9.15,
+    "MediaDeDesvios": 2.068888888888889,
+    "NotaMediana": 9.3
+  },
+  "RAIMUNDO NONATO ARAUJO DA ROCHA": {
+    "Notas": [
+      8.72,
+      8.87,
+      9.06,
+      9.28,
+      9.46
+    ],
+    "Desvios": [
+      2.01,
+      1.75,
+      2.28,
+      1.89,
+      1.79
+    ],
+    "Componentes": {
+      "HIS0017 - HISTORIA DO BRASIL REPUBLICA I": {
+        "Notas": [
+          9.28,
+          9.46
+        ],
+        "Desvios": [
+          2.01,
+          1.75
+        ],
+        "DesvioDeNotas": 0.09000000000000075,
+        "MediaDeNotas": 9.370000000000001,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 9.46
+      },
+      "HIS0018 - HISTORIA DO BRASIL REPUBLICA II": {
+        "Notas": [
+          8.72,
+          8.87
+        ],
+        "Desvios": [
+          2.28,
+          1.89
+        ],
+        "DesvioDeNotas": 0.07499999999999929,
+        "MediaDeNotas": 8.795,
+        "MediaDeDesvios": 2.085,
+        "NotaMediana": 8.87
+      },
+      "HIS0004 - HISTORIOGRAFIA BRASILEIRA": {
+        "Notas": [
+          9.06
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.06
+      }
+    },
+    "DesvioDeNotas": 0.26776108753887307,
+    "MediaDeNotas": 9.078,
+    "MediaDeDesvios": 1.9439999999999997,
+    "NotaMediana": 9.06
+  },
+  "RAIMUNDO PEREIRA ALENCAR ARRAIS": {
+    "Notas": [
+      8.76,
+      8.79,
+      8.81,
+      8.85,
+      9.21,
+      9.48,
+      9.55
+    ],
+    "Desvios": [
+      2.37,
+      2.46,
+      2.38,
+      2.65,
+      2.35,
+      2.01,
+      1.56
+    ],
+    "Componentes": {
+      "HST1102 - HISTORIOGRAFIA BRASILEIRA": {
+        "Notas": [
+          8.85
+        ],
+        "Desvios": [
+          2.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.85,
+        "MediaDeDesvios": 2.37,
+        "NotaMediana": 8.85
+      },
+      "HIS0096 - HISTÓRIA MARÍTIMA": {
+        "Notas": [
+          8.76
+        ],
+        "Desvios": [
+          2.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.76,
+        "MediaDeDesvios": 2.46,
+        "NotaMediana": 8.76
+      },
+      "HIS0023 - HISTORIA REGIONAL E LOCAL": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          2.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 2.38,
+        "NotaMediana": 9.21
+      },
+      "HIS0003 - METODOLOGIA DA PESQUISA HISTORICA": {
+        "Notas": [
+          8.79,
+          9.55
+        ],
+        "Desvios": [
+          2.65,
+          1.56
+        ],
+        "DesvioDeNotas": 0.3800000000000008,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 2.105,
+        "NotaMediana": 9.55
+      },
+      "HIS0039 - HISTORIA URBANA": {
+        "Notas": [
+          8.81,
+          9.48
+        ],
+        "Desvios": [
+          2.35,
+          2.01
+        ],
+        "DesvioDeNotas": 0.33499999999999996,
+        "MediaDeNotas": 9.145,
+        "MediaDeDesvios": 2.1799999999999997,
+        "NotaMediana": 9.48
+      }
+    },
+    "DesvioDeNotas": 0.3181130590958931,
+    "MediaDeNotas": 9.064285714285715,
+    "MediaDeDesvios": 2.254285714285714,
+    "NotaMediana": 8.85
+  },
+  "ROBERTO AIRON SILVA": {
+    "Notas": [
+      7.07,
+      8.46,
+      8.73,
+      8.73,
+      9.22,
+      9.29,
+      9.52,
+      9.71,
+      9.74
+    ],
+    "Desvios": [
+      2.36,
+      1.38,
+      2.82,
+      2.17,
+      1.99,
+      2.87,
+      2.22,
+      1.45,
+      1.13
+    ],
+    "Componentes": {
+      "HIS0006 - PRE-HISTORIA": {
+        "Notas": [
+          7.07,
+          8.46,
+          8.73
+        ],
+        "Desvios": [
+          2.36,
+          2.87,
+          2.22
+        ],
+        "DesvioDeNotas": 0.7272933077896123,
+        "MediaDeNotas": 8.086666666666668,
+        "MediaDeDesvios": 2.483333333333334,
+        "NotaMediana": 8.46
+      },
+      "HIS0070 - PRÉ-HISTÓRIA BRASILEIRA": {
+        "Notas": [
+          9.52,
+          9.74
+        ],
+        "Desvios": [
+          1.38,
+          1.13
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 9.629999999999999,
+        "MediaDeDesvios": 1.255,
+        "NotaMediana": 9.74
+      },
+      "HIS0100 - TURISMO E PATRIMÔNIO HISTÓRICO, ARTÍSTICO E CULTURAL BRASILEIRO": {
+        "Notas": [
+          8.73
+        ],
+        "Desvios": [
+          2.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.73,
+        "MediaDeDesvios": 2.82,
+        "NotaMediana": 8.73
+      },
+      "HIS0029 - ARQUEOLOGIA": {
+        "Notas": [
+          9.29,
+          9.71
+        ],
+        "Desvios": [
+          2.17,
+          1.45
+        ],
+        "DesvioDeNotas": 0.21000000000000085,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.71
+      },
+      "HIS0069 - ARQUEOLOGIA DO NORDESTE DO BRASIL": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0.78780206826679,
+    "MediaDeNotas": 8.941111111111109,
+    "MediaDeDesvios": 2.0433333333333334,
+    "NotaMediana": 9.22
+  },
+  "RONALDO VAINFAS": {
+    "Notas": [
+      8.89,
+      9.13,
+      9.43
+    ],
+    "Desvios": [
+      1.81,
+      2.1,
+      2.09
+    ],
+    "Componentes": {
+      "HIS0083 - HISTORIOGRAFIA DA EXPANSÃO TERRITORIAL NA AMÉRICA PORTUGUESA": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.43
+      },
+      "HIS0010 - HISTORIA MODERNA II": {
+        "Notas": [
+          9.13
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.13,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.13
+      },
+      "HIS0009 - HISTORIA MODERNA I": {
+        "Notas": [
+          8.89
+        ],
+        "Desvios": [
+          2.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.89,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 8.89
+      }
+    },
+    "DesvioDeNotas": 0.22090722034374485,
+    "MediaDeNotas": 9.15,
+    "MediaDeDesvios": 2,
+    "NotaMediana": 9.13
+  },
+  "SEBASTIAO LEAL FERREIRA VARGAS NETTO": {
+    "Notas": [
+      8.87,
+      9.26,
+      9.41,
+      9.41,
+      9.57,
+      9.64
+    ],
+    "Desvios": [
+      2.62,
+      1.54,
+      1.72,
+      1.73,
+      1.45,
+      1.13
+    ],
+    "Componentes": {
+      "HIS0013 - HISTORIA DA AMERICA I": {
+        "Notas": [
+          8.87,
+          9.57
+        ],
+        "Desvios": [
+          2.62,
+          1.54
+        ],
+        "DesvioDeNotas": 0.35000000000000053,
+        "MediaDeNotas": 9.219999999999999,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 9.57
+      },
+      "HIS0014 - HISTORIA DA AMERICA II": {
+        "Notas": [
+          9.41,
+          9.41,
+          9.64
+        ],
+        "Desvios": [
+          1.72,
+          1.73,
+          1.45
+        ],
+        "DesvioDeNotas": 0.10842303978193749,
+        "MediaDeNotas": 9.486666666666666,
+        "MediaDeDesvios": 1.6333333333333335,
+        "NotaMediana": 9.41
+      },
+      "DCS1010 - HISTÓRIA DA ÁFRICA": {
+        "Notas": [
+          9.26
+        ],
+        "Desvios": [
+          1.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.26,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.26
+      }
+    },
+    "DesvioDeNotas": 0.2508651696296908,
+    "MediaDeNotas": 9.359999999999998,
+    "MediaDeDesvios": 1.698333333333333,
+    "NotaMediana": 9.41
+  },
+  "SUSANA ISABEL MARCELINO GUERRA DOMINGOS": {
+    "Notas": [
+      8.65,
+      9.04,
+      9.12,
+      9.25,
+      9.25,
+      9.57,
+      9.57,
+      9.58,
+      9.59,
+      9.63,
+      9.77,
+      9.8,
+      9.84,
+      9.91
+    ],
+    "Desvios": [
+      1.9,
+      1.79,
+      1.67,
+      1.64,
+      2.31,
+      1.67,
+      1.02,
+      1.14,
+      2.01,
+      1.59,
+      1.61,
+      1.26,
+      1.93,
+      1.35
+    ],
+    "Componentes": {
+      "HIS0048 - CULTURA VISUAL, HISTÓRIA E IMAGEM": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.57
+      },
+      "HIS0044 - HISTORIA DA ÁFRICA": {
+        "Notas": [
+          9.04,
+          9.57,
+          9.58,
+          9.59,
+          9.8,
+          9.91
+        ],
+        "Desvios": [
+          1.79,
+          1.67,
+          2.01,
+          1.59,
+          1.61,
+          1.26
+        ],
+        "DesvioDeNotas": 0.27358220377470177,
+        "MediaDeNotas": 9.581666666666665,
+        "MediaDeDesvios": 1.655,
+        "NotaMediana": 9.59
+      },
+      "HIS0012 - HISTORIA CONTEMPORANEA II": {
+        "Notas": [
+          9.25,
+          9.63
+        ],
+        "Desvios": [
+          1.64,
+          2.31
+        ],
+        "DesvioDeNotas": 0.1900000000000004,
+        "MediaDeNotas": 9.440000000000001,
+        "MediaDeDesvios": 1.975,
+        "NotaMediana": 9.63
+      },
+      "HIS0065 - HISTÓRIA DO BRASIL CONTEMPORÂNEO": {
+        "Notas": [
+          8.65,
+          9.12,
+          9.25
+        ],
+        "Desvios": [
+          1.67,
+          1.93,
+          1.35
+        ],
+        "DesvioDeNotas": 0.2577250904010358,
+        "MediaDeNotas": 9.006666666666666,
+        "MediaDeDesvios": 1.6499999999999997,
+        "NotaMediana": 9.12
+      },
+      "HIS0086 - HISTÓRIA, ETNOHISTÓRIA E CONSTRUÇÕES IDENTITÁRIAS": {
+        "Notas": [
+          9.77,
+          9.84
+        ],
+        "Desvios": [
+          1.02,
+          1.14
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.805,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.3462134825656046,
+    "MediaDeNotas": 9.469285714285714,
+    "MediaDeDesvios": 1.635,
+    "NotaMediana": 9.58
+  },
+  "TULIO AUGUSTO PAZ E ALBUQUERQUE": {
+    "Notas": [
+      9.21,
+      9.29,
+      9.55,
+      9.83
+    ],
+    "Desvios": [
+      2.11,
+      1.41,
+      2.24,
+      1.44
+    ],
+    "Componentes": {
+      "HIS0041 - HISTORIA ANTIGA II": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 9.29
+      },
+      "DEH0019 - HISTORIA DA ARTE I": {
+        "Notas": [
+          9.83
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.83
+      },
+      "HIS0006 - PRE-HISTORIA": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          2.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 9.21
+      },
+      "HIS0070 - PRÉ-HISTÓRIA BRASILEIRA": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.2428991560298224,
+    "MediaDeNotas": 9.469999999999999,
+    "MediaDeDesvios": 1.7999999999999998,
+    "NotaMediana": 9.55
+  },
+  "WICLIFFE DE ANDRADE COSTA": {
+    "Notas": [
+      8.8,
+      8.97,
+      9.27,
+      9.39,
+      9.46,
+      9.55,
+      9.62,
+      9.65,
+      9.74,
+      9.82
+    ],
+    "Desvios": [
+      1.58,
+      2.02,
+      2.29,
+      2.7,
+      1.23,
+      2.1,
+      2.74,
+      1.47,
+      1.58,
+      1.85
+    ],
+    "Componentes": {
+      "HIS0005 - TEORIA DA HISTORIA": {
+        "Notas": [
+          8.97,
+          9.39,
+          9.55,
+          9.62
+        ],
+        "Desvios": [
+          1.58,
+          2.02,
+          2.1,
+          2.74
+        ],
+        "DesvioDeNotas": 0.2523266731837913,
+        "MediaDeNotas": 9.3825,
+        "MediaDeDesvios": 2.1100000000000003,
+        "NotaMediana": 9.55
+      },
+      "HIS0043 - HISTORIA MEDIEVAL II": {
+        "Notas": [
+          8.8,
+          9.27,
+          9.46,
+          9.65
+        ],
+        "Desvios": [
+          2.29,
+          2.7,
+          1.58,
+          1.85
+        ],
+        "DesvioDeNotas": 0.3157926534927625,
+        "MediaDeNotas": 9.295,
+        "MediaDeDesvios": 2.105,
+        "NotaMediana": 9.46
+      },
+      "HIS0085 - HISTÓRIA DA IGREJA NO BRASIL": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.74
+      },
+      "HIS0076 - A IGREJA NA IDADE MÉDIA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.3136255729369018,
+    "MediaDeNotas": 9.427000000000001,
+    "MediaDeDesvios": 1.9560000000000002,
+    "NotaMediana": 9.55
+  },
+  "CAIO RODRIGO CARVALHO LIMA": {
+    "Notas": [
+      9.1,
+      9.54,
+      9.57,
+      9.59,
+      9.6,
+      9.72,
+      9.82,
+      9.85,
+      9.91
+    ],
+    "Desvios": [
+      1.75,
+      1.68,
+      1.96,
+      1.65,
+      1.45,
+      2,
+      0.84,
+      1.46,
+      0.88
+    ],
+    "Componentes": {
+      "HIS0050 - DIDÁTICA DA HISTÓRIA": {
+        "Notas": [
+          9.6,
+          9.91
+        ],
+        "Desvios": [
+          1.75,
+          0.84
+        ],
+        "DesvioDeNotas": 0.15500000000000025,
+        "MediaDeNotas": 9.754999999999999,
+        "MediaDeDesvios": 1.295,
+        "NotaMediana": 9.91
+      },
+      "HIS0003 - METODOLOGIA DA PESQUISA HISTORICA": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.57
+      },
+      "HIS0100 - TURISMO E PATRIMÔNIO HISTÓRICO, ARTÍSTICO E CULTURAL BRASILEIRO": {
+        "Notas": [
+          9.1,
+          9.59,
+          9.82
+        ],
+        "Desvios": [
+          1.96,
+          2,
+          0.88
+        ],
+        "DesvioDeNotas": 0.30025914733036146,
+        "MediaDeNotas": 9.503333333333332,
+        "MediaDeDesvios": 1.6133333333333333,
+        "NotaMediana": 9.59
+      },
+      "HIS0041 - HISTORIA ANTIGA II": {
+        "Notas": [
+          9.54,
+          9.72
+        ],
+        "Desvios": [
+          1.65,
+          1.45
+        ],
+        "DesvioDeNotas": 0.09000000000000075,
+        "MediaDeNotas": 9.629999999999999,
+        "MediaDeDesvios": 1.5499999999999998,
+        "NotaMediana": 9.72
+      },
+      "HIS0024 - MEMORIA E PATRIMONIO HISTORICO": {
+        "Notas": [
+          9.85
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.85,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.85
+      }
+    },
+    "DesvioDeNotas": 0.22754730887834698,
+    "MediaDeNotas": 9.633333333333333,
+    "MediaDeDesvios": 1.518888888888889,
+    "NotaMediana": 9.6
+  },
+  "HAROLDO LOGUERCIO CARVALHO": {
+    "Notas": [
+      9.11,
+      9.13,
+      9.48,
+      9.59
+    ],
+    "Desvios": [
+      1.49,
+      1.78,
+      2.15,
+      1.84
+    ],
+    "Componentes": {
+      "HIS0065 - HISTÓRIA DO BRASIL CONTEMPORÂNEO": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.59
+      },
+      "HIS0095 - HISTÓRIA DA POLÍTICA EXTERIOR DO BRASIL REPUBLICANO": {
+        "Notas": [
+          9.11,
+          9.48
+        ],
+        "Desvios": [
+          1.78,
+          2.15
+        ],
+        "DesvioDeNotas": 0.1850000000000005,
+        "MediaDeNotas": 9.295,
+        "MediaDeDesvios": 1.9649999999999999,
+        "NotaMediana": 9.48
+      },
+      "HIS0018 - HISTORIA DO BRASIL REPUBLICA II": {
+        "Notas": [
+          9.13
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.13,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 9.13
+      }
+    },
+    "DesvioDeNotas": 0.21123150806638671,
+    "MediaDeNotas": 9.3275,
+    "MediaDeDesvios": 1.815,
+    "NotaMediana": 9.48
+  },
+  "MARIA EMILIA MONTEIRO PORTO": {
+    "Notas": [
+      9.07,
+      9.55,
+      9.61,
+      9.69,
+      9.7,
+      9.7
+    ],
+    "Desvios": [
+      1.18,
+      1.55,
+      2.15,
+      1.85,
+      1.7,
+      1.35
+    ],
+    "Componentes": {
+      "HIS0048 - CULTURA VISUAL, HISTÓRIA E IMAGEM": {
+        "Notas": [
+          9.55,
+          9.7
+        ],
+        "Desvios": [
+          1.18,
+          1.7
+        ],
+        "DesvioDeNotas": 0.07499999999999929,
+        "MediaDeNotas": 9.625,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.7
+      },
+      "HIS0010 - HISTORIA MODERNA II": {
+        "Notas": [
+          9.61,
+          9.7
+        ],
+        "Desvios": [
+          1.55,
+          1.35
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.655,
+        "MediaDeDesvios": 1.4500000000000002,
+        "NotaMediana": 9.7
+      },
+      "HIS0009 - HISTORIA MODERNA I": {
+        "Notas": [
+          9.07,
+          9.69
+        ],
+        "Desvios": [
+          2.15,
+          1.85
+        ],
+        "DesvioDeNotas": 0.3099999999999996,
+        "MediaDeNotas": 9.379999999999999,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 9.69
+      }
+    },
+    "DesvioDeNotas": 0.22305953365762113,
+    "MediaDeNotas": 9.553333333333335,
+    "MediaDeDesvios": 1.63,
+    "NotaMediana": 9.69
+  },
+  "YURI SIMONINI SOUZA": {
+    "Notas": [
+      9.28,
+      9.65,
+      9.7,
+      9.76,
+      9.76,
+      9.8,
+      9.81,
+      9.84
+    ],
+    "Desvios": [
+      1.54,
+      1.59,
+      1.29,
+      1.67,
+      2.09,
+      1.46,
+      1.61,
+      1.32
+    ],
+    "Componentes": {
+      "HIS0042 - HISTORIA MEDIEVAL I": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.7
+      },
+      "DEH0047 - SEMINARIO DE HISTORIA ANTIGA E MEDIEVAL I": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.76
+      },
+      "HIS0013 - HISTORIA DA AMERICA I": {
+        "Notas": [
+          9.81,
+          9.84
+        ],
+        "Desvios": [
+          1.29,
+          1.67
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.825,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.84
+      },
+      "DEH0019 - HISTORIA DA ARTE I": {
+        "Notas": [
+          9.28,
+          9.8
+        ],
+        "Desvios": [
+          2.09,
+          1.61
+        ],
+        "DesvioDeNotas": 0.2600000000000007,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.8
+      },
+      "HIS0014 - HISTORIA DA AMERICA II": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.65
+      },
+      "HIS0081 - NATUREZA E MUNDO AMERICANO": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.76
+      }
+    },
+    "DesvioDeNotas": 0.1687453703068623,
+    "MediaDeNotas": 9.700000000000001,
+    "MediaDeDesvios": 1.57125,
+    "NotaMediana": 9.76
+  },
+  "RENATO AMADO PEIXOTO": {
+    "Notas": [
+      9.4,
+      9.49,
+      9.53,
+      9.77
+    ],
+    "Desvios": [
+      1.82,
+      2.08,
+      1.68,
+      1.05
+    ],
+    "Componentes": {
+      "HIS0020 - HISTORIA DO RIO GRANDE DO NORTE II": {
+        "Notas": [
+          9.49,
+          9.53
+        ],
+        "Desvios": [
+          1.82,
+          2.08
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.9500000000000002,
+        "NotaMediana": 9.53
+      },
+      "HIS0023 - HISTORIA REGIONAL E LOCAL": {
+        "Notas": [
+          9.4,
+          9.77
+        ],
+        "Desvios": [
+          1.68,
+          1.05
+        ],
+        "DesvioDeNotas": 0.1849999999999996,
+        "MediaDeNotas": 9.585,
+        "MediaDeDesvios": 1.365,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.136816482925121,
+    "MediaDeNotas": 9.5475,
+    "MediaDeDesvios": 1.6575,
+    "NotaMediana": 9.53
+  }
+}
