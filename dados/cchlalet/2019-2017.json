@@ -1,0 +1,3719 @@
+[
+    {
+        "Docente": "ALESSANDRA CASTILHO FERREIRA DA COSTA",
+        "Componente Curricular": "LET0478 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "20",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "ANA VIRGINIA LIMA DA SILVA ROCHA",
+        "Componente Curricular": "LET0579 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "4M3456",
+        "Discentes": "41",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "ANA VIRGINIA LIMA DA SILVA ROCHA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "10",
+        "Horário": "35T34",
+        "Discentes": "30",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "ANDREY PEREIRA DE OLIVEIRA",
+        "Componente Curricular": "LET0130 - LITERATURA GREGA I",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "9",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "AUGUSTO CARLOS DE AZEREDO",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "8",
+        "Horário": "6T2345",
+        "Discentes": "20",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "AUGUSTO CARLOS DE AZEREDO",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "10",
+        "Horário": "2N1234",
+        "Discentes": "17",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "AUGUSTO CARLOS DE AZEREDO",
+        "Componente Curricular": "LET0517 - METODOLOGIA DE ENSINO EM LÍNGUA BRASILEIRA DE SINAIS COMO L1",
+        "Turma": "1",
+        "Horário": "7T123 6N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "41",
+        "Média Geral": "8.09",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "CARLA MARIA CUNHA",
+        "Componente Curricular": "LET0420 - FONÉTICA E FONOLOGIA DA LÍNGUA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "29",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I",
+        "Turma": "1",
+        "Horário": "23456T3456 (18/03/2019 - 25/03/2019), 23456T3456 (03/06/2019 - 10/06/2019)",
+        "Discentes": "52",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0782 - LEITURA E PRODUÇÃO DE TEXTOS",
+        "Turma": "3",
+        "Horário": "2T3456 (11/02/2019 - 17/03/2019), 2T3456 (26/03/2019 - 02/06/2019), 2T3456 7N12 (11/06/2019 - 29/06/2019)",
+        "Discentes": "45",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "3",
+        "Horário": "35N12",
+        "Discentes": "22",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0428 - PESQUISA EM ESTUDOS LINGUÍSTICOS I",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "23",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0263 - PRODUÇÃO DE TEXTO II",
+        "Turma": "1",
+        "Horário": "3T34",
+        "Discentes": "19",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0263 - PRODUÇÃO DE TEXTO II",
+        "Turma": "2",
+        "Horário": "3N34",
+        "Discentes": "22",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "CELLINA RODRIGUES MUNIZ",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "3",
+        "Horário": "35T12",
+        "Discentes": "36",
+        "Média Geral": "7.22",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "CELLINA RODRIGUES MUNIZ",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "10",
+        "Horário": "35T34",
+        "Discentes": "30",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "CELLINA RODRIGUES MUNIZ",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "16",
+        "Horário": "4M2345",
+        "Discentes": "41",
+        "Média Geral": "7.29",
+        "Desvio Padrão Geral": "2.85"
+    },
+    {
+        "Docente": "CLEBSON LUIZ DE BRITO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "43",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "CLEBSON LUIZ DE BRITO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "3",
+        "Horário": "24N34",
+        "Discentes": "27",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "CLEBSON LUIZ DE BRITO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "8",
+        "Horário": "24M12",
+        "Discentes": "48",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "CLEBSON LUIZ DE BRITO",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "34",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "DANIELE CAROLINE GONÇALVES LIMA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "20",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "DANIELE CAROLINE GONÇALVES LIMA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "7",
+        "Horário": "2T1234",
+        "Discentes": "23",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "DANIELE CAROLINE GONÇALVES LIMA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "9",
+        "Horário": "6T2345",
+        "Discentes": "24",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "DANIELE CAROLINE GONÇALVES LIMA",
+        "Componente Curricular": "LET0487 - LÍNGUA BRASILEIRA DE SINAIS I",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "36",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "DERIVALDO DOS SANTOS",
+        "Componente Curricular": "LET0065 - LITERATURA BRASILEIRA I",
+        "Turma": "2",
+        "Horário": "2N1234",
+        "Discentes": "29",
+        "Média Geral": "8.56",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "EDVALDO BALDUINO BISPO",
+        "Componente Curricular": "LET0358 - SINTAXE DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "21",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "28",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "49",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "2",
+        "Horário": "24N34",
+        "Discentes": "35",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "ERIK FERNANDO MILETTA MARTINS",
+        "Componente Curricular": "LET0575 - FUNDAMENTOS DOS ESTUDOS LINGUÍSTICOS",
+        "Turma": "3",
+        "Horário": "24M56",
+        "Discentes": "51",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "ERIK FERNANDO MILETTA MARTINS",
+        "Componente Curricular": "LET0046 - LINGUISTICA VIII",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "9",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "FRANCISCO FABIO VIEIRA MARCOLINO",
+        "Componente Curricular": "LET0583 - CLÁSSICOS DA LITERATURA MEDIEVAL E MODERNA",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "31",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "FRANCISCO FABIO VIEIRA MARCOLINO",
+        "Componente Curricular": "LET0059 - TEORIA DA LITERATURA III",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "10",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "GILVANDO ALVES DE OLIVEIRA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "13",
+        "Horário": "35M56",
+        "Discentes": "40",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "GILVANDO ALVES DE OLIVEIRA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "14",
+        "Horário": "35M34",
+        "Discentes": "47",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "GISELE OLIVEIRA DA SILVA PAIVA",
+        "Componente Curricular": "LET0490 - AQUISIÇÃO DA LINGUAGEM",
+        "Turma": "1",
+        "Horário": "7M123 3N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "36",
+        "Média Geral": "8.72",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "GISELE OLIVEIRA DA SILVA PAIVA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "1",
+        "Horário": "3T3456",
+        "Discentes": "16",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0057 - LITERATURA INFANTO-JUVENIL I",
+        "Turma": "1",
+        "Horário": "6M123456",
+        "Discentes": "48",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0061 - LITERATURA INFANTO-JUVENIL II",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "16",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0569 - TEORIA DO POEMA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "40",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "2.36"
+    },
+    {
+        "Docente": "IGOR DESSOLES BRAGA",
+        "Componente Curricular": "LET0515 - COMPREENSÃO DE TEXTOS EM LÍNGUA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "17",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "IGOR DESSOLES BRAGA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "4",
+        "Horário": "2N1234",
+        "Discentes": "19",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "0.75"
+    },
+    {
+        "Docente": "IGOR DESSOLES BRAGA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "5",
+        "Horário": "2T1234",
+        "Discentes": "24",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "IGOR DESSOLES BRAGA",
+        "Componente Curricular": "LET0527 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS IV",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "16",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "ISAACK SAYMON ALVES FEITOZA SILVA",
+        "Componente Curricular": "LET0518 - LAB. DE INTERPRETAÇÃO DE LÍNGUA BRASILEIRA DE SINAIS E LÍNGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "7T456 5N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "22",
+        "Média Geral": "8.02",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "ISAACK SAYMON ALVES FEITOZA SILVA",
+        "Componente Curricular": "LET0549 - LITERATURA SURDA II",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "12",
+        "Média Geral": "8.45",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "JOAO BATISTA DA COSTA JUNIOR",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "28",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "JOAO BATISTA DA COSTA JUNIOR",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "3",
+        "Horário": "35N12",
+        "Discentes": "22",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "JOAO BATISTA DA COSTA JUNIOR",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "34",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "JOAO GOMES DA SILVA NETO",
+        "Componente Curricular": "LET0208 - LINGUISTICA IV",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "35",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "JOAO MARIA PAIVA PALHANO",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "4",
+        "Horário": "2M3456",
+        "Discentes": "41",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "JOAO MARIA PAIVA PALHANO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "12",
+        "Horário": "4M3456",
+        "Discentes": "25",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "JOAQUIM ADELINO DANTAS DE OLIVEIRA",
+        "Componente Curricular": "LET0574 - FUNDAMENTOS DA LITERATURA OCIDENTAL",
+        "Turma": "2",
+        "Horário": "24M34",
+        "Discentes": "57",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "JOAQUIM ADELINO DANTAS DE OLIVEIRA",
+        "Componente Curricular": "LET0196 - FUNDAMENTOS DA LITERATURA OCIDENTAL I",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "18",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "JOAQUIM ADELINO DANTAS DE OLIVEIRA",
+        "Componente Curricular": "LET0058 - TEORIA DA LITERATURA II",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "10",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "JOAQUIM ADELINO DANTAS DE OLIVEIRA",
+        "Componente Curricular": "LET0570 - TEORIA DA NARRATIVA",
+        "Turma": "2",
+        "Horário": "24M12",
+        "Discentes": "21",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0106 - ESTILISTICA DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "16",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0357 - MORFOLOGIA DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "42",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0359 - SINTAXE DA LINGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "43",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "JOSE LUIZ FERREIRA",
+        "Componente Curricular": "LET0195 - TEORIA DA LITERATURA I",
+        "Turma": "1",
+        "Horário": "6N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "21",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "JOSE LUIZ FERREIRA",
+        "Componente Curricular": "LET0570 - TEORIA DA NARRATIVA",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "30",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "JULIANE VARGAS WELTER",
+        "Componente Curricular": "LET0446 - LITERATURA BRASILEIRA III",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "32",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "LARALIS NUNES DE SOUSA OLIVEIRA",
+        "Componente Curricular": "LET0529 - MORFOLOGIA",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "20",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "DED0073 - ESTAGIO II - EDUCACAO INFANTIL",
+        "Turma": "2",
+        "Horário": "4T12345 (11/02/2019 - 30/04/2019)",
+        "Discentes": "17",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "DED0018 - LEITURA E PRODUÇÃO DE TEXTOS",
+        "Turma": "1",
+        "Horário": "5M1234",
+        "Discentes": "51",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "LMC0056 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS",
+        "Turma": "1",
+        "Horário": "3M1234",
+        "Discentes": "30",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "LUIS ALVARO SGADARI PASSEGGI",
+        "Componente Curricular": "LET0205 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "39",
+        "Média Geral": "8.41",
+        "Desvio Padrão Geral": "2.35"
+    },
+    {
+        "Docente": "LUIS ALVARO SGADARI PASSEGGI",
+        "Componente Curricular": "LET0197 - LINGUISTICA II",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "22",
+        "Média Geral": "8.44",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "MAHAYANA CRISTINA GODOY",
+        "Componente Curricular": "LET0577 - TEXTO E DISCURSO",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "23",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0575 - FUNDAMENTOS DOS ESTUDOS LINGUÍSTICOS",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "41",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0194 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "22",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0198 - LINGUISTICA III",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "25",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0585 - HISTÓRIA DA LÍNGUA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "23",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0048 - LINGUA LATINA II",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "16",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0053 - LINGUISTICA ROMANICA",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "25",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0130 - LITERATURA GREGA I",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "9",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "MARIA ALICE TAVARES",
+        "Componente Curricular": "LET0435 - TÓPICOS ESPECIAIS DE GRAMÁTICA DA LÍNGUA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "4M3456",
+        "Discentes": "14",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "MARIA ALICE TAVARES",
+        "Componente Curricular": "LET0435 - TÓPICOS ESPECIAIS DE GRAMÁTICA DA LÍNGUA PORTUGUESA",
+        "Turma": "2",
+        "Horário": "5N1234",
+        "Discentes": "18",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "MARIA DO SOCORRO OLIVEIRA",
+        "Componente Curricular": "LET0356 - LINGUISTICA III",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "26",
+        "Média Geral": "8.15",
+        "Desvio Padrão Geral": "2.47"
+    },
+    {
+        "Docente": "MARIA HOZANETE ALVES DE LIMA",
+        "Componente Curricular": "LET0586 - INTRODUÇÃO AO LATIM",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "28",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "MARIA HOZANETE ALVES DE LIMA",
+        "Componente Curricular": "LET0047 - LINGUA LATINA I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "24",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "MARTA APARECIDA GARCIA GONCALVES",
+        "Componente Curricular": "LET0079 - LITERATURA PORTUGUESA II",
+        "Turma": "2",
+        "Horário": "3N1234",
+        "Discentes": "23",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "MAURO DUNDER",
+        "Componente Curricular": "LET0079 - LITERATURA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "38",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "MICHEL FREIRE MARQUES",
+        "Componente Curricular": "LET0507 - LITERATURA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "29",
+        "Média Geral": "8.2",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "MICHEL FREIRE MARQUES",
+        "Componente Curricular": "LET0510 - LITERATURA SURDA I",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "38",
+        "Média Geral": "8.3",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "MICHEL FREIRE MARQUES",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "12",
+        "Horário": "5T3456",
+        "Discentes": "19",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "MICHEL FREIRE MARQUES",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "13",
+        "Horário": "5N1234",
+        "Discentes": "12",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I",
+        "Turma": "2",
+        "Horário": "23456N1234 (18/03/2019 - 25/03/2019), 23456N1234 (03/06/2019 - 10/06/2019)",
+        "Discentes": "49",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0782 - LEITURA E PRODUÇÃO DE TEXTOS",
+        "Turma": "4",
+        "Horário": "2N1234 (11/02/2019 - 17/03/2019), 2N1234 (26/03/2019 - 02/06/2019), 2N1234 7N34 (11/06/2019 - 29/06/2019)",
+        "Discentes": "38",
+        "Média Geral": "8.56",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "2",
+        "Horário": "35N34",
+        "Discentes": "38",
+        "Média Geral": "7.47",
+        "Desvio Padrão Geral": "2.62"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "7",
+        "Horário": "35N12",
+        "Discentes": "36",
+        "Média Geral": "7.62",
+        "Desvio Padrão Geral": "2.66"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "24",
+        "Média Geral": "7.83",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "NELSON FERREIRA DE SOUSA JUNIOR",
+        "Componente Curricular": "LET0580 - CLÁSSICOS DA LITERATURA GRECO-LATINA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "41",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "NELSON FERREIRA DE SOUSA JUNIOR",
+        "Componente Curricular": "LET0586 - INTRODUÇÃO AO LATIM",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "41",
+        "Média Geral": "8.78",
+        "Desvio Padrão Geral": "2.54"
+    },
+    {
+        "Docente": "PATRICIA FERREIRA BOTELHO",
+        "Componente Curricular": "LET0579 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "49",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "PATRICIA FERREIRA BOTELHO",
+        "Componente Curricular": "LET0479 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "20",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "PATRICIA FERREIRA BOTELHO",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "43",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "PAULA PIRES FERREIRA",
+        "Componente Curricular": "LET0065 - LITERATURA BRASILEIRA I",
+        "Turma": "1",
+        "Horário": "2M3456",
+        "Discentes": "39",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "PAULA PIRES FERREIRA",
+        "Componente Curricular": "LET0446 - LITERATURA BRASILEIRA III",
+        "Turma": "2",
+        "Horário": "4N1234",
+        "Discentes": "34",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "PAULO HENRIQUE DUQUE",
+        "Componente Curricular": "LET0588 - NÍVEIS DE ANÁLISE E TEORIAS LINGUÍSTICAS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "32",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "ROBERTA DUARTE DE ARAUJO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "4",
+        "Horário": "35M34",
+        "Discentes": "17",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "ROBERTA DUARTE DE ARAUJO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "5",
+        "Horário": "24T56",
+        "Discentes": "37",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "ROBERTA DUARTE DE ARAUJO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "9",
+        "Horário": "24N34",
+        "Discentes": "38",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "ROBERTA DUARTE DE ARAUJO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "11",
+        "Horário": "35N12",
+        "Discentes": "51",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "SANDRA CRISTINA BEZERRA DE BARROS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "15",
+        "Horário": "5N1234",
+        "Discentes": "47",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "SANDRA CRISTINA BEZERRA DE BARROS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "17",
+        "Horário": "3N1234",
+        "Discentes": "18",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "SIMONE LORENA DA SILVA PEREIRA",
+        "Componente Curricular": "LET0547 - LINGUÍSTICA APLICADA À APRENDIZAGEM DE SEGUNDA LÍNGUA",
+        "Turma": "2",
+        "Horário": "3N1234",
+        "Discentes": "19",
+        "Média Geral": "8.71",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "SIMONE LORENA DA SILVA PEREIRA",
+        "Componente Curricular": "LET0519 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS II",
+        "Turma": "1",
+        "Horário": "2N1234 7N123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "17",
+        "Média Geral": "8.69",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "SIMONE PATRICIA SOARES DE SOUZA",
+        "Componente Curricular": "LET0548 - EDUCAÇÃO DE SURDOS E NOVAS TECNOLOGIAS",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "40",
+        "Média Geral": "8.48",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "SIMONE PATRICIA SOARES DE SOUZA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "3",
+        "Horário": "2T1234",
+        "Discentes": "19",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "SIMONE PATRICIA SOARES DE SOUZA",
+        "Componente Curricular": "LET0499 - LÍNGUA BRASILEIRA DE SINAIS III",
+        "Turma": "1",
+        "Horário": "7M456 2N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "41",
+        "Média Geral": "8.16",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "SYLVIA COUTINHO ABBOTT GALVAO",
+        "Componente Curricular": "LET0578 - LEITURA E PRODUÇÃO DE TEXTO ACADÊMICO I",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "35",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "2.54"
+    },
+    {
+        "Docente": "SYLVIA COUTINHO ABBOTT GALVAO",
+        "Componente Curricular": "LET0578 - LEITURA E PRODUÇÃO DE TEXTO ACADÊMICO I",
+        "Turma": "2",
+        "Horário": "6M3456",
+        "Discentes": "24",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "SYLVIA COUTINHO ABBOTT GALVAO",
+        "Componente Curricular": "LET0262 - PRODUÇÃO DE TEXTO I",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "31",
+        "Média Geral": "9.01",
+        "Desvio Padrão Geral": "2.23"
+    },
+    {
+        "Docente": "SYLVIA COUTINHO ABBOTT GALVAO",
+        "Componente Curricular": "LET0262 - PRODUÇÃO DE TEXTO I",
+        "Turma": "2",
+        "Horário": "3N12",
+        "Discentes": "34",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "TANIA MARIA DE ARAUJO LIMA",
+        "Componente Curricular": "LET0400 - LITERATURA AFRICANA EM LÍNGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "18",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "TIAGO DE AGUIAR RODRIGUES",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "28",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "TIAGO DE AGUIAR RODRIGUES",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "3",
+        "Horário": "35N12",
+        "Discentes": "22",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "TIAGO DE AGUIAR RODRIGUES",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "34",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "ALESSANDRA CASTILHO FERREIRA DA COSTA",
+        "Componente Curricular": "LET0579 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "41",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "ANDREY PEREIRA DE OLIVEIRA",
+        "Componente Curricular": "LET0449 - TÓPICOS DA POESIA BRASILEIRA",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "11",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "AUGUSTO CARLOS DE AZEREDO",
+        "Componente Curricular": "LET0498 - LINGUAGEM E SOCIEDADE",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "23",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "AUGUSTO CARLOS DE AZEREDO",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "8",
+        "Horário": "6T2345",
+        "Discentes": "40",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "CARLA MARIA CUNHA",
+        "Componente Curricular": "LET0357 - MORFOLOGIA DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "21",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "CARLA MARIA CUNHA",
+        "Componente Curricular": "LET0359 - SINTAXE DA LINGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "18",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I",
+        "Turma": "2",
+        "Horário": "23456T3456 (17/09/2018 - 24/09/2018), 23456T3456 (19/11/2018 - 27/11/2018)",
+        "Discentes": "55",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0479 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "24",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0782 - LEITURA E PRODUÇÃO DE TEXTOS",
+        "Turma": "3",
+        "Horário": "24T56 (30/07/2018 - 16/09/2018), 24T56 (25/09/2018 - 18/11/2018), 24T56 (28/11/2018 - 22/12/2018)",
+        "Discentes": "51",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "CELLINA RODRIGUES MUNIZ",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "21",
+        "Média Geral": "6.58",
+        "Desvio Padrão Geral": "3.08"
+    },
+    {
+        "Docente": "CELLINA RODRIGUES MUNIZ",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "3",
+        "Horário": "35T12",
+        "Discentes": "27",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "CLEBSON LUIZ DE BRITO",
+        "Componente Curricular": "LET0419 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO",
+        "Turma": "2",
+        "Horário": "7M12 5N1234",
+        "Discentes": "6",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "CLEBSON LUIZ DE BRITO",
+        "Componente Curricular": "LET0428 - PESQUISA EM ESTUDOS LINGUÍSTICOS I",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "33",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "CLEMILTON LOPES PINHEIRO",
+        "Componente Curricular": "LET0194 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "25",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "2.34"
+    },
+    {
+        "Docente": "CLEMILTON LOPES PINHEIRO",
+        "Componente Curricular": "LET0205 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "39",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "2.46"
+    },
+    {
+        "Docente": "DANIELE CAROLINE GONÇALVES LIMA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "5",
+        "Horário": "4M1234",
+        "Discentes": "20",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "DANIELE CAROLINE GONÇALVES LIMA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "6",
+        "Horário": "24T56",
+        "Discentes": "19",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "DANIELE CAROLINE GONÇALVES LIMA",
+        "Componente Curricular": "LET0494 - LÍNGUA BRASILEIRA DE SINAIS II",
+        "Turma": "1",
+        "Horário": "7M34 5N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "42",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0420 - FONÉTICA E FONOLOGIA DA LÍNGUA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "40",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "3",
+        "Horário": "24N34",
+        "Discentes": "36",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "ERIK FERNANDO MILETTA MARTINS",
+        "Componente Curricular": "LET0575 - FUNDAMENTOS DOS ESTUDOS LINGUÍSTICOS",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "37",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "ERIK FERNANDO MILETTA MARTINS",
+        "Componente Curricular": "LET0205 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "39",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "41",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "37",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "3",
+        "Horário": "35N12",
+        "Discentes": "33",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "4",
+        "Horário": "24N34",
+        "Discentes": "24",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "FRANCISCO FABIO VIEIRA MARCOLINO",
+        "Componente Curricular": "LET0058 - TEORIA DA LITERATURA II",
+        "Turma": "2",
+        "Horário": "5N1234",
+        "Discentes": "33",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "FRANCISCO FABIO VIEIRA MARCOLINO",
+        "Componente Curricular": "LET0569 - TEORIA DO POEMA",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "44",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "GILVANDO ALVES DE OLIVEIRA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "35",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "GILVANDO ALVES DE OLIVEIRA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "4",
+        "Horário": "35M34",
+        "Discentes": "21",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "GISELE OLIVEIRA DA SILVA PAIVA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "7",
+        "Horário": "24T56",
+        "Discentes": "18",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0058 - TEORIA DA LITERATURA II",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "35",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0569 - TEORIA DO POEMA",
+        "Turma": "2",
+        "Horário": "24M12",
+        "Discentes": "18",
+        "Média Geral": "8.69",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "IGOR DESSOLES BRAGA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "2",
+        "Horário": "2T3456",
+        "Discentes": "23",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "IGOR DESSOLES BRAGA",
+        "Componente Curricular": "LET0509 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS I",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "35",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "IGOR DESSOLES BRAGA",
+        "Componente Curricular": "LET0520 - METODOLOGIAS DE ENSINO DE LÍNGUA PORTUGUESA COM O L2",
+        "Turma": "1",
+        "Horário": "7M56 5N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "ISAACK SAYMON ALVES FEITOZA SILVA",
+        "Componente Curricular": "LET0488 - INTRODUÇÃO AOS ESTUDOS DA LITERATURA",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "33",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "ISAACK SAYMON ALVES FEITOZA SILVA",
+        "Componente Curricular": "LET0489 - LÍNGUA, CULTURA E IDENTIDADE SURDA",
+        "Turma": "1",
+        "Horário": "4N1234 7N123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "39",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "JOAO GOMES DA SILVA NETO",
+        "Componente Curricular": "LET0575 - FUNDAMENTOS DOS ESTUDOS LINGUÍSTICOS",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "37",
+        "Média Geral": "9.01",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "JOAO GOMES DA SILVA NETO",
+        "Componente Curricular": "LET0197 - LINGUISTICA II",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "20",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "JOAO MARIA PAIVA PALHANO",
+        "Componente Curricular": "LET0578 - LEITURA E PRODUÇÃO DE TEXTO ACADÊMICO I",
+        "Turma": "1",
+        "Horário": "2M3456",
+        "Discentes": "25",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "JOAO MARIA PAIVA PALHANO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "8",
+        "Horário": "4M3456",
+        "Discentes": "18",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "JOAQUIM ADELINO DANTAS DE OLIVEIRA",
+        "Componente Curricular": "LET0196 - FUNDAMENTOS DA LITERATURA OCIDENTAL I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "15",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "JOAQUIM ADELINO DANTAS DE OLIVEIRA",
+        "Componente Curricular": "LET0057 - LITERATURA INFANTO-JUVENIL I",
+        "Turma": "1",
+        "Horário": "2N1234 6N12",
+        "Discentes": "30",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "JOAQUIM ADELINO DANTAS DE OLIVEIRA",
+        "Componente Curricular": "LET0058 - TEORIA DA LITERATURA II",
+        "Turma": "3",
+        "Horário": "35M12",
+        "Discentes": "11",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0360 - SEMANTICA DA LINGUA PORTUGUESA I",
+        "Turma": "2",
+        "Horário": "2N1234",
+        "Discentes": "24",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0358 - SINTAXE DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "42",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "JOSE LUIZ FERREIRA",
+        "Componente Curricular": "LET0195 - TEORIA DA LITERATURA I",
+        "Turma": "1",
+        "Horário": "24N34 (30/07/2018 - 22/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "JULIANE VARGAS WELTER",
+        "Componente Curricular": "LET0066 - LITERATURA BRASILEIRA II",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "37",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "JULIANE VARGAS WELTER",
+        "Componente Curricular": "LET0450 - TÓPICOS DA NARRATIVA BRASILEIRA",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "19",
+        "Média Geral": "9.92",
+        "Desvio Padrão Geral": "0.49"
+    },
+    {
+        "Docente": "LARALIS NUNES DE SOUSA OLIVEIRA",
+        "Componente Curricular": "LET0536 - FUNDAMENTOS DA EDUCAÇÃO DE SURDOS",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "37",
+        "Média Geral": "8.62",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "DED0622 - ESTÁGIO I (EDUCAÇÃO INFANTIL)",
+        "Turma": "2",
+        "Horário": "5T12345 (30/07/2018 - 22/12/2018)",
+        "Discentes": "17",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "DED0405 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "28",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "DED0429 - LINGUA PORTUGUESA NO ENSINO FUNDAMENTAL",
+        "Turma": "1",
+        "Horário": "5M123456",
+        "Discentes": "41",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "DED0533 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA",
+        "Turma": "2",
+        "Horário": "5N1234",
+        "Discentes": "30",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "LUIS ALVARO SGADARI PASSEGGI",
+        "Componente Curricular": "LET0194 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "25",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "MAHAYANA CRISTINA GODOY",
+        "Componente Curricular": "LET0355 - LINGUISTICA II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "43",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "MAHAYANA CRISTINA GODOY",
+        "Componente Curricular": "FON0011 - LINGUÍSTICA APLICADA A FONOAUDIOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "40",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "MARCIO DE LIMA DANTAS",
+        "Componente Curricular": "LET0078 - LITERATURA PORTUGUESA I",
+        "Turma": "2",
+        "Horário": "3N1234 6N12",
+        "Discentes": "30",
+        "Média Geral": "7.95",
+        "Desvio Padrão Geral": "2.94"
+    },
+    {
+        "Docente": "MARCIO DE LIMA DANTAS",
+        "Componente Curricular": "LET0078 - LITERATURA PORTUGUESA I",
+        "Turma": "3",
+        "Horário": "4M56 6M3456",
+        "Discentes": "35",
+        "Média Geral": "6.01",
+        "Desvio Padrão Geral": "3.12"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0356 - LINGUISTICA III",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "28",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0198 - LINGUISTICA III",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "15",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0044 - LINGUISTICA VI",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "13",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0580 - CLÁSSICOS DA LITERATURA GRECO-LATINA",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "41",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0586 - INTRODUÇÃO AO LATIM",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "44",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0047 - LINGUA LATINA I",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "24",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "MARIA ALICE TAVARES",
+        "Componente Curricular": "LET0360 - SEMANTICA DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "4M3456",
+        "Discentes": "17",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "MARIA DO SOCORRO OLIVEIRA",
+        "Componente Curricular": "LET0208 - LINGUISTICA IV",
+        "Turma": "3",
+        "Horário": "5M3456",
+        "Discentes": "34",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "MARIA HOZANETE ALVES DE LIMA",
+        "Componente Curricular": "LET0580 - CLÁSSICOS DA LITERATURA GRECO-LATINA",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "41",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "MARIA HOZANETE ALVES DE LIMA",
+        "Componente Curricular": "LET0047 - LINGUA LATINA I",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "24",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "MARTA APARECIDA GARCIA GONCALVES",
+        "Componente Curricular": "LET0406 - LITERATURA AFRICANA EM LÍNGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "17",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "MAURO DUNDER",
+        "Componente Curricular": "LET0078 - LITERATURA PORTUGUESA I",
+        "Turma": "2",
+        "Horário": "3N1234 6N12",
+        "Discentes": "30",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "MAURO DUNDER",
+        "Componente Curricular": "LET0082 - TOPICOS DE LITERATURA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "8",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "MICHEL FREIRE MARQUES",
+        "Componente Curricular": "LET0508 - HISTÓRIA E CULTURA AFRO-BRASILEIRA E INDÍGENA",
+        "Turma": "1",
+        "Horário": "7T12 5N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "26",
+        "Média Geral": "8.64",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "MICHEL FREIRE MARQUES",
+        "Componente Curricular": "LET0497 - LITERATURA BRASILEIRA I",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "36",
+        "Média Geral": "8.38",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "MICHEL FREIRE MARQUES",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "4",
+        "Horário": "4N1234",
+        "Discentes": "17",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I",
+        "Turma": "1",
+        "Horário": "23456N1234 (17/09/2018 - 24/09/2018), 23456N1234 (19/11/2018 - 27/11/2018)",
+        "Discentes": "49",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0782 - LEITURA E PRODUÇÃO DE TEXTOS",
+        "Turma": "4",
+        "Horário": "24N12 (30/07/2018 - 16/09/2018), 24N12 (25/09/2018 - 18/11/2018), 2N12 4N1 (28/11/2018 - 22/12/2018)",
+        "Discentes": "38",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "5",
+        "Horário": "24T34",
+        "Discentes": "40",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "10",
+        "Horário": "35T34",
+        "Discentes": "17",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "3",
+        "Horário": "24N34",
+        "Discentes": "15",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "NELSON FERREIRA DE SOUSA JUNIOR",
+        "Componente Curricular": "LET0048 - LINGUA LATINA II",
+        "Turma": "2",
+        "Horário": "5M3456",
+        "Discentes": "41",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "NELSON FERREIRA DE SOUSA JUNIOR",
+        "Componente Curricular": "LET0048 - LINGUA LATINA II",
+        "Turma": "4",
+        "Horário": "46N12",
+        "Discentes": "14",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "NELSON FERREIRA DE SOUSA JUNIOR",
+        "Componente Curricular": "LET0053 - LINGUISTICA ROMANICA",
+        "Turma": "2",
+        "Horário": "46M12",
+        "Discentes": "13",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "NELSON FERREIRA DE SOUSA JUNIOR",
+        "Componente Curricular": "LET0053 - LINGUISTICA ROMANICA",
+        "Turma": "3",
+        "Horário": "6M3456",
+        "Discentes": "32",
+        "Média Geral": "8.48",
+        "Desvio Padrão Geral": "2.23"
+    },
+    {
+        "Docente": "PATRICIA FERREIRA BOTELHO",
+        "Componente Curricular": "LET0478 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "24",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "PATRICIA FERREIRA BOTELHO",
+        "Componente Curricular": "LET0419 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO",
+        "Turma": "3",
+        "Horário": "2M3456 4M34",
+        "Discentes": "5",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "0.71"
+    },
+    {
+        "Docente": "PATRICIA FERREIRA BOTELHO",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "2",
+        "Horário": "3T3456",
+        "Discentes": "17",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "PAULA PIRES FERREIRA",
+        "Componente Curricular": "LET0066 - LITERATURA BRASILEIRA II",
+        "Turma": "2",
+        "Horário": "3N1234",
+        "Discentes": "41",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "PAULA PIRES FERREIRA",
+        "Componente Curricular": "LET0073 - LITERATURA DO RIO GRANDE DO NORTE I",
+        "Turma": "2",
+        "Horário": "4N1234",
+        "Discentes": "19",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "PAULO HENRIQUE DUQUE",
+        "Componente Curricular": "LET0197 - LINGUISTICA II",
+        "Turma": "2",
+        "Horário": "46M56",
+        "Discentes": "29",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "SANDRA CRISTINA BEZERRA DE BARROS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "6",
+        "Horário": "3N1234",
+        "Discentes": "29",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "SILVIA BARBALHO BRITO",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "36",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "SILVIA BARBALHO BRITO",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "2",
+        "Horário": "35N34",
+        "Discentes": "44",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "SILVIA BARBALHO BRITO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "7",
+        "Horário": "24N34",
+        "Discentes": "9",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "SIMONE LORENA DA SILVA PEREIRA",
+        "Componente Curricular": "LET0486 - ESTUDOS INTRODUTÓRIOS DA CIÊNCIA DA LINGUAGEM",
+        "Turma": "1",
+        "Horário": "7M12 2N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "37",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "SIMONE LORENA DA SILVA PEREIRA",
+        "Componente Curricular": "LET0526 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS III",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "20",
+        "Média Geral": "8.46",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "SIMONE PATRICIA SOARES DE SOUZA",
+        "Componente Curricular": "LET0525 - LAB. DE INTERPRETAÇÃO DE LÍNGUA BRASILEIRA DE SINAIS E LÍNGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "25",
+        "Média Geral": "6.06",
+        "Desvio Padrão Geral": "2.59"
+    },
+    {
+        "Docente": "SIMONE PATRICIA SOARES DE SOUZA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "21",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "SIMONE PATRICIA SOARES DE SOUZA",
+        "Componente Curricular": "LET0500 - LÍNGUA BRASILEIRA DE SINAIS IV",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "21",
+        "Média Geral": "5.99",
+        "Desvio Padrão Geral": "2.96"
+    },
+    {
+        "Docente": "SYLVIA COUTINHO ABBOTT GALVAO",
+        "Componente Curricular": "LET0430 - LEITURA E PRODUÇÃO DE TEXTO ACADÊMICO II",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "16",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "SYLVIA COUTINHO ABBOTT GALVAO",
+        "Componente Curricular": "LET0419 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO",
+        "Turma": "1",
+        "Horário": "2M3456 4M34",
+        "Discentes": "44",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "TASSIANA DE BRITO VIANA MARQUES",
+        "Componente Curricular": "LET0048 - LINGUA LATINA II",
+        "Turma": "2",
+        "Horário": "5M3456",
+        "Discentes": "41",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "TASSIANA DE BRITO VIANA MARQUES",
+        "Componente Curricular": "LET0048 - LINGUA LATINA II",
+        "Turma": "4",
+        "Horário": "46N12",
+        "Discentes": "14",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "TASSIANA DE BRITO VIANA MARQUES",
+        "Componente Curricular": "LET0053 - LINGUISTICA ROMANICA",
+        "Turma": "2",
+        "Horário": "46M12",
+        "Discentes": "13",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "TASSIANA DE BRITO VIANA MARQUES",
+        "Componente Curricular": "LET0053 - LINGUISTICA ROMANICA",
+        "Turma": "3",
+        "Horário": "6M3456",
+        "Discentes": "32",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "ALESSANDRA CASTILHO FERREIRA DA COSTA",
+        "Componente Curricular": "LET0438 - LEITURA E PRODUÇÃO DE TEXTO DA ORALIDADE",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "10",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "ANA VIRGINIA LIMA DA SILVA ROCHA",
+        "Componente Curricular": "LET0579 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "24",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "ANA VIRGINIA LIMA DA SILVA ROCHA",
+        "Componente Curricular": "LET0418 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "2",
+        "Horário": "3M1234 5M12",
+        "Discentes": "14",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "ANDREY PEREIRA DE OLIVEIRA",
+        "Componente Curricular": "LET0065 - LITERATURA BRASILEIRA I",
+        "Turma": "1",
+        "Horário": "2M6543",
+        "Discentes": "40",
+        "Média Geral": "8.52",
+        "Desvio Padrão Geral": "2.42"
+    },
+    {
+        "Docente": "AUGUSTO CARLOS DE AZEREDO",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "2",
+        "Horário": "4T3456",
+        "Discentes": "21",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "AUGUSTO CARLOS DE AZEREDO",
+        "Componente Curricular": "LET0517 - METODOLOGIA DE ENSINO EM LÍNGUA BRASILEIRA DE SINAIS COMO L1",
+        "Turma": "1",
+        "Horário": "7T123 4N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "36",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "CARLA MARIA CUNHA",
+        "Componente Curricular": "LET0420 - FONÉTICA E FONOLOGIA DA LÍNGUA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "24",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "CARLA MARIA CUNHA",
+        "Componente Curricular": "LET0358 - SINTAXE DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "19",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "2.51"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I",
+        "Turma": "1",
+        "Horário": "23456T3456 (16/04/2018 - 23/04/2018), 23456T3456 (11/06/2018 - 18/06/2018)",
+        "Discentes": "50",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I",
+        "Turma": "1",
+        "Horário": "23456T3456 (16/04/2018 - 23/04/2018), 23456T3456 (11/06/2018 - 18/06/2018)",
+        "Discentes": "50",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0478 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "22",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0479 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "12",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0782 - LEITURA E PRODUÇÃO DE TEXTOS",
+        "Turma": "3",
+        "Horário": "24T56 (19/02/2018 - 15/04/2018), 24T56 (24/04/2018 - 10/06/2018), 24T56 (19/06/2018 - 07/07/2018)",
+        "Discentes": "46",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "CELLINA RODRIGUES MUNIZ",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "38",
+        "Média Geral": "7.67",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "CELLINA RODRIGUES MUNIZ",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "3",
+        "Horário": "35T12",
+        "Discentes": "35",
+        "Média Geral": "7.07",
+        "Desvio Padrão Geral": "2.56"
+    },
+    {
+        "Docente": "CLEBSON LUIZ DE BRITO",
+        "Componente Curricular": "LET0418 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "2M12 4M3456",
+        "Discentes": "41",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "CLEBSON LUIZ DE BRITO",
+        "Componente Curricular": "LET0418 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "2",
+        "Horário": "3M1234 5M12",
+        "Discentes": "14",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "CLEMILTON LOPES PINHEIRO",
+        "Componente Curricular": "LET0355 - LINGUISTICA II",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "23",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "2.67"
+    },
+    {
+        "Docente": "EDVALDO BALDUINO BISPO",
+        "Componente Curricular": "LET0428 - PESQUISA EM ESTUDOS LINGUÍSTICOS I",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "31",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "40",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "5",
+        "Horário": "24N34",
+        "Discentes": "30",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "9",
+        "Horário": "24T34",
+        "Discentes": "34",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "ERIK FERNANDO MILETTA MARTINS",
+        "Componente Curricular": "LET0354 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "43",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "ERIK FERNANDO MILETTA MARTINS",
+        "Componente Curricular": "LET0194 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "34",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "EZEQUIEL ADNEY LIMA DA PAIXAO",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "2",
+        "Horário": "4T3456",
+        "Discentes": "21",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "EZEQUIEL ADNEY LIMA DA PAIXAO",
+        "Componente Curricular": "LET0517 - METODOLOGIA DE ENSINO EM LÍNGUA BRASILEIRA DE SINAIS COMO L1",
+        "Turma": "1",
+        "Horário": "7T123 4N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "36",
+        "Média Geral": "8.15",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "41",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "37",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0262 - PRODUÇÃO DE TEXTO I",
+        "Turma": "1",
+        "Horário": "6T34",
+        "Discentes": "27",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0263 - PRODUÇÃO DE TEXTO II",
+        "Turma": "1",
+        "Horário": "6T12",
+        "Discentes": "28",
+        "Média Geral": "8.6",
+        "Desvio Padrão Geral": "2.35"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0263 - PRODUÇÃO DE TEXTO II",
+        "Turma": "2",
+        "Horário": "6N12",
+        "Discentes": "15",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "FRANCISCO FABIO VIEIRA MARCOLINO",
+        "Componente Curricular": "LET0195 - TEORIA DA LITERATURA I",
+        "Turma": "2",
+        "Horário": "24N34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "29",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "FRANCISCO FABIO VIEIRA MARCOLINO",
+        "Componente Curricular": "LET0058 - TEORIA DA LITERATURA II",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "9",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.81"
+    },
+    {
+        "Docente": "FRANCISCO FABIO VIEIRA MARCOLINO",
+        "Componente Curricular": "LET0059 - TEORIA DA LITERATURA III",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "11",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "GILVANDO ALVES DE OLIVEIRA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "11",
+        "Horário": "35M34",
+        "Discentes": "41",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "GILVANDO ALVES DE OLIVEIRA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "12",
+        "Horário": "35M56",
+        "Discentes": "48",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "GISELE OLIVEIRA DA SILVA PAIVA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "22",
+        "Média Geral": "8.26",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "GISELE OLIVEIRA DA SILVA PAIVA",
+        "Componente Curricular": "LET0487 - LÍNGUA BRASILEIRA DE SINAIS I",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "45",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0485 - ENSINO DE LITERATURA BRASILEIRA",
+        "Turma": "2",
+        "Horário": "5M3456",
+        "Discentes": "12",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0057 - LITERATURA INFANTO-JUVENIL I",
+        "Turma": "1",
+        "Horário": "3M56 6M3456",
+        "Discentes": "35",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0195 - TEORIA DA LITERATURA I",
+        "Turma": "7",
+        "Horário": "35M12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "42",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "ISAACK SAYMON ALVES FEITOZA SILVA",
+        "Componente Curricular": "LET0518 - LAB. DE INTERPRETAÇÃO DE LÍNGUA BRASILEIRA DE SINAIS E LÍNGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "7T564 3N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "23",
+        "Média Geral": "8.75",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "ISAACK SAYMON ALVES FEITOZA SILVA",
+        "Componente Curricular": "LET0510 - LITERATURA SURDA I",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "31",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "JESSICA DO CARMO ALVES DE ANDRADE",
+        "Componente Curricular": "LET0490 - AQUISIÇÃO DA LINGUAGEM",
+        "Turma": "1",
+        "Horário": "7M123 3N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "35",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "JESSICA DO CARMO ALVES DE ANDRADE",
+        "Componente Curricular": "LET0519 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS II",
+        "Turma": "1",
+        "Horário": "5N1234 7N123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "29",
+        "Média Geral": "8.96",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "JOAO GOMES DA SILVA NETO",
+        "Componente Curricular": "LET0194 - LINGUISTICA I",
+        "Turma": "2",
+        "Horário": "24N34",
+        "Discentes": "25",
+        "Média Geral": "8.22",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "JOAO GOMES DA SILVA NETO",
+        "Componente Curricular": "LET0198 - LINGUISTICA III",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "6",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "JOAO MARIA PAIVA PALHANO",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "4",
+        "Horário": "2M3456",
+        "Discentes": "36",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "JOAO MARIA PAIVA PALHANO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "4",
+        "Horário": "35M34",
+        "Discentes": "13",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "JOATAN DAVID FERREIRA DE MEDEIROS",
+        "Componente Curricular": "LET0507 - LITERATURA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "32",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "JOATAN DAVID FERREIRA DE MEDEIROS",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "3",
+        "Horário": "4N1234",
+        "Discentes": "22",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0357 - MORFOLOGIA DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "44",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "6",
+        "Horário": "24M34",
+        "Discentes": "40",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "2.23"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0359 - SINTAXE DA LINGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "39",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "JOSE LUIZ FERREIRA",
+        "Componente Curricular": "LET0065 - LITERATURA BRASILEIRA I",
+        "Turma": "3",
+        "Horário": "24N12",
+        "Discentes": "31",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "JOSE LUIZ FERREIRA",
+        "Componente Curricular": "LET0195 - TEORIA DA LITERATURA I",
+        "Turma": "4",
+        "Horário": "6N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "11",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "JULIANE VARGAS WELTER",
+        "Componente Curricular": "LET0446 - LITERATURA BRASILEIRA III",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "29",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "LARALIS NUNES DE SOUSA OLIVEIRA",
+        "Componente Curricular": "LET0547 - LINGUÍSTICA APLICADA À APRENDIZAGEM DE SEGUNDA LÍNGUA",
+        "Turma": "3",
+        "Horário": "3N1234",
+        "Discentes": "8",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "LARALIS NUNES DE SOUSA OLIVEIRA",
+        "Componente Curricular": "LET0527 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS IV",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "11",
+        "Média Geral": "8.81",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "2",
+        "Horário": "35N34",
+        "Discentes": "22",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "3",
+        "Horário": "35N12",
+        "Discentes": "12",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "44",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "38",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "MAHAYANA CRISTINA GODOY",
+        "Componente Curricular": "LET0045 - LINGUISTICA VII",
+        "Turma": "2",
+        "Horário": "5T1234",
+        "Discentes": "9",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "MARCIO DE LIMA DANTAS",
+        "Componente Curricular": "LET0079 - LITERATURA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "21",
+        "Média Geral": "8.47",
+        "Desvio Padrão Geral": "2.34"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0205 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "29",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0356 - LINGUISTICA III",
+        "Turma": "1",
+        "Horário": "35M21",
+        "Discentes": "35",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0198 - LINGUISTICA III",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "27",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0128 - LINGUA GREGA I",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "14",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0048 - LINGUA LATINA II",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "23",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0048 - LINGUA LATINA II",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "9",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0053 - LINGUISTICA ROMANICA",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "31",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "MARIA ALICE TAVARES",
+        "Componente Curricular": "LET0435 - TÓPICOS ESPECIAIS DE GRAMÁTICA DA LÍNGUA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "4M3456",
+        "Discentes": "16",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "MARIA DA PENHA CASADO ALVES",
+        "Componente Curricular": "LET0428 - PESQUISA EM ESTUDOS LINGUÍSTICOS I",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "31",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "MARIA DO SOCORRO OLIVEIRA",
+        "Componente Curricular": "LET0208 - LINGUISTICA IV",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "10",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "MARIA HOZANETE ALVES DE LIMA",
+        "Componente Curricular": "LET0047 - LINGUA LATINA I",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "19",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "MARIA HOZANETE ALVES DE LIMA",
+        "Componente Curricular": "LET0047 - LINGUA LATINA I",
+        "Turma": "2",
+        "Horário": "6N1234",
+        "Discentes": "24",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "MARTA APARECIDA GARCIA GONCALVES",
+        "Componente Curricular": "LET0079 - LITERATURA PORTUGUESA II",
+        "Turma": "2",
+        "Horário": "3N1234",
+        "Discentes": "34",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "MICHEL FREIRE MARQUES",
+        "Componente Curricular": "LET0507 - LITERATURA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "32",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "MICHEL FREIRE MARQUES",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "3",
+        "Horário": "4N1234",
+        "Discentes": "22",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I",
+        "Turma": "2",
+        "Horário": "23456N1234 (16/04/2018 - 23/04/2018), 23456N1234 (11/06/2018 - 18/06/2018)",
+        "Discentes": "51",
+        "Média Geral": "7.7",
+        "Desvio Padrão Geral": "3.19"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0579 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "24",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0782 - LEITURA E PRODUÇÃO DE TEXTOS",
+        "Turma": "4",
+        "Horário": "24N12 (19/02/2018 - 15/04/2018), 24N12 (24/04/2018 - 10/06/2018), 24N12 (19/06/2018 - 07/07/2018)",
+        "Discentes": "33",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "7",
+        "Horário": "24N34",
+        "Discentes": "45",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "14",
+        "Horário": "5N1234",
+        "Discentes": "45",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "NATALIA DE LIMA NOBRE",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "31",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "PAULA PIRES FERREIRA",
+        "Componente Curricular": "LET0458 - LITERATURA BRASILEIRA E SISTEMAS SEMIÓTICOS",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "15",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "PAULA PIRES FERREIRA",
+        "Componente Curricular": "LET0458 - LITERATURA BRASILEIRA E SISTEMAS SEMIÓTICOS",
+        "Turma": "2",
+        "Horário": "5N1234",
+        "Discentes": "15",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "0.92"
+    },
+    {
+        "Docente": "PAULA PIRES FERREIRA",
+        "Componente Curricular": "LET0446 - LITERATURA BRASILEIRA III",
+        "Turma": "2",
+        "Horário": "24N34",
+        "Discentes": "16",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "PAULO HENRIQUE DUQUE",
+        "Componente Curricular": "LET0197 - LINGUISTICA II",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "18",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "SANDRA CRISTINA BEZERRA DE BARROS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "8",
+        "Horário": "24N34",
+        "Discentes": "27",
+        "Média Geral": "8.05",
+        "Desvio Padrão Geral": "2.81"
+    },
+    {
+        "Docente": "SANDRA CRISTINA BEZERRA DE BARROS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "13",
+        "Horário": "3N1234",
+        "Discentes": "40",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "SILVIA BARBALHO BRITO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "3",
+        "Horário": "24M12",
+        "Discentes": "44",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "SILVIA BARBALHO BRITO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "10",
+        "Horário": "3T3456",
+        "Discentes": "28",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "SILVIA BARBALHO BRITO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "15",
+        "Horário": "3N1234",
+        "Discentes": "17",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "SIMONE LORENA DA SILVA PEREIRA",
+        "Componente Curricular": "LET0515 - COMPREENSÃO DE TEXTOS EM LÍNGUA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "17",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "SIMONE LORENA DA SILVA PEREIRA",
+        "Componente Curricular": "LET0548 - EDUCAÇÃO DE SURDOS E NOVAS TECNOLOGIAS",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "38",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "SIMONE LORENA DA SILVA PEREIRA",
+        "Componente Curricular": "LET0547 - LINGUÍSTICA APLICADA À APRENDIZAGEM DE SEGUNDA LÍNGUA",
+        "Turma": "3",
+        "Horário": "3N1234",
+        "Discentes": "8",
+        "Média Geral": "7.31",
+        "Desvio Padrão Geral": "3.99"
+    },
+    {
+        "Docente": "SIMONE PATRICIA SOARES DE SOUZA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "4",
+        "Horário": "4M1234",
+        "Discentes": "15",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "SIMONE PATRICIA SOARES DE SOUZA",
+        "Componente Curricular": "LET0499 - LÍNGUA BRASILEIRA DE SINAIS III",
+        "Turma": "1",
+        "Horário": "7M456 2N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "24",
+        "Média Geral": "7.59",
+        "Desvio Padrão Geral": "2.3"
+    },
+    {
+        "Docente": "SYLVIA COUTINHO ABBOTT GALVAO",
+        "Componente Curricular": "LET0429 - LEITURA E PRODUÇÃO DE TEXTO ACADÊMICO I",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "19",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "SYLVIA COUTINHO ABBOTT GALVAO",
+        "Componente Curricular": "LET0419 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO",
+        "Turma": "1",
+        "Horário": "3N1234 5N12",
+        "Discentes": "25",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "SYLVIA COUTINHO ABBOTT GALVAO",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "38",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "TASSIANA DE BRITO VIANA MARQUES",
+        "Componente Curricular": "LET0445 - LÍNGUA LATINA I",
+        "Turma": "1",
+        "Horário": "3M56 6M3456",
+        "Discentes": "37",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "ALBANYRA DOS SANTOS SOUZA",
+        "Componente Curricular": "LET0478 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "12",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "ALBANYRA DOS SANTOS SOUZA",
+        "Componente Curricular": "LET0475 - LEITURA E PRODUÇÃO DE TEXTOS I",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "42",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "ALBANYRA DOS SANTOS SOUZA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "9",
+        "Horário": "35M56",
+        "Discentes": "25",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.81"
+    },
+    {
+        "Docente": "ALBANYRA DOS SANTOS SOUZA",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "3",
+        "Horário": "35N34",
+        "Discentes": "18",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "ALESSANDRA CASTILHO FERREIRA DA COSTA",
+        "Componente Curricular": "LET0418 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "2N34 4N1234",
+        "Discentes": "38",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "ANA VIRGINIA LIMA DA SILVA ROCHA",
+        "Componente Curricular": "LET0419 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO",
+        "Turma": "1",
+        "Horário": "2M3456 4M34",
+        "Discentes": "19",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "ANDREY PEREIRA DE OLIVEIRA",
+        "Componente Curricular": "LET0449 - TÓPICOS DA POESIA BRASILEIRA",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "12",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "CARLA MARIA CUNHA",
+        "Componente Curricular": "LET0091 - FONOLOGIA DA LINGUA PORTUGUESA II",
+        "Turma": "2",
+        "Horário": "4T2345",
+        "Discentes": "6",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.15"
+    },
+    {
+        "Docente": "CARLA MARIA CUNHA",
+        "Componente Curricular": "LET0357 - MORFOLOGIA DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "25",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "CARLA MARIA CUNHA",
+        "Componente Curricular": "LET0359 - SINTAXE DA LINGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "29",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0479 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "15",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "CELIA MARIA DE MEDEIROS",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "48",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "CELLINA RODRIGUES MUNIZ",
+        "Componente Curricular": "LET0419 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO",
+        "Turma": "2",
+        "Horário": "2M3456 6M12",
+        "Discentes": "29",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "CELLINA RODRIGUES MUNIZ",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "3",
+        "Horário": "24N12",
+        "Discentes": "30",
+        "Média Geral": "7.92",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "CLEBSON LUIZ DE BRITO",
+        "Componente Curricular": "LET0428 - PESQUISA EM ESTUDOS LINGUÍSTICOS I",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "26",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "CLEBSON LUIZ DE BRITO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "8",
+        "Horário": "35T34",
+        "Discentes": "21",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "CLEMILTON LOPES PINHEIRO",
+        "Componente Curricular": "LET0198 - LINGUISTICA III",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "9",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "CLEMILTON LOPES PINHEIRO",
+        "Componente Curricular": "LET0356 - LINGUISTICA III",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "32",
+        "Média Geral": "8.14",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0090 - FONOLOGIA DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "2M3456",
+        "Discentes": "43",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0420 - FONÉTICA E FONOLOGIA DA LÍNGUA PORTUGUESA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "46",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "ERICA REVIGLIO ILIOVITZ",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "3",
+        "Horário": "24N34",
+        "Discentes": "41",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "ERIK FERNANDO MILETTA MARTINS",
+        "Componente Curricular": "LET0205 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "39",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "ERIK FERNANDO MILETTA MARTINS",
+        "Componente Curricular": "LET0197 - LINGUISTICA II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "22",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "ERIK FERNANDO MILETTA MARTINS",
+        "Componente Curricular": "LET0043 - LINGUISTICA V",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "6",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "EZEQUIEL ADNEY LIMA DA PAIXAO",
+        "Componente Curricular": "LET0550 - ESCRITA DE SINAIS I",
+        "Turma": "1",
+        "Horário": "4T3456",
+        "Discentes": "17",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "EZEQUIEL ADNEY LIMA DA PAIXAO",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "3",
+        "Horário": "4N1234",
+        "Discentes": "19",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "EZEQUIEL ADNEY LIMA DA PAIXAO",
+        "Componente Curricular": "LET0494 - LÍNGUA BRASILEIRA DE SINAIS II",
+        "Turma": "1",
+        "Horário": "7T456 5N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "29",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0002 - LINGUA PORTUGUESA II",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "41",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "34",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "2",
+        "Horário": "35N34",
+        "Discentes": "15",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "FRANCISCO FABIO VIEIRA MARCOLINO",
+        "Componente Curricular": "LET0058 - TEORIA DA LITERATURA II",
+        "Turma": "4",
+        "Horário": "3N1234",
+        "Discentes": "13",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "GILVANDO ALVES DE OLIVEIRA",
+        "Componente Curricular": "LET0475 - LEITURA E PRODUÇÃO DE TEXTOS I",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "46",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "GILVANDO ALVES DE OLIVEIRA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "6",
+        "Horário": "24T34",
+        "Discentes": "37",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0057 - LITERATURA INFANTO-JUVENIL I",
+        "Turma": "1",
+        "Horário": "2N12 6N1234",
+        "Discentes": "19",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0058 - TEORIA DA LITERATURA II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "27",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO DE SOUSA",
+        "Componente Curricular": "LET0058 - TEORIA DA LITERATURA II",
+        "Turma": "3",
+        "Horário": "35M12",
+        "Discentes": "18",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "ISAACK SAYMON ALVES FEITOZA SILVA",
+        "Componente Curricular": "LET0497 - LITERATURA BRASILEIRA I",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "30",
+        "Média Geral": "7.78",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "ISAACK SAYMON ALVES FEITOZA SILVA",
+        "Componente Curricular": "LET0489 - LÍNGUA, CULTURA E IDENTIDADE SURDA",
+        "Turma": "2",
+        "Horário": "4N1234 7N123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "39",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "JESSICA DO CARMO ALVES DE ANDRADE",
+        "Componente Curricular": "LET0520 - METODOLOGIAS DE ENSINO DE LÍNGUA PORTUGUESA COM O L2",
+        "Turma": "1",
+        "Horário": "7M456 2N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "17",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "JOAO MARIA PAIVA PALHANO",
+        "Componente Curricular": "LET0106 - ESTILISTICA DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "19",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "JOAO MARIA PAIVA PALHANO",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "5",
+        "Horário": "35M56",
+        "Discentes": "37",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "JOATAN DAVID FERREIRA DE MEDEIROS",
+        "Componente Curricular": "LET0508 - HISTÓRIA E CULTURA AFRO-BRASILEIRA E INDÍGENA",
+        "Turma": "1",
+        "Horário": "7T123 5N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "31",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "JOATAN DAVID FERREIRA DE MEDEIROS",
+        "Componente Curricular": "LET0488 - INTRODUÇÃO AOS ESTUDOS DA LITERATURA",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "34",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "29",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0360 - SEMANTICA DA LINGUA PORTUGUESA I",
+        "Turma": "2",
+        "Horário": "2N1234",
+        "Discentes": "18",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "JOSE DA LUZ DA COSTA",
+        "Componente Curricular": "LET0358 - SINTAXE DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "41",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "JOSE LUIZ FERREIRA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "3",
+        "Horário": "5N1234",
+        "Discentes": "32",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "JULIANE VARGAS WELTER",
+        "Componente Curricular": "LET0066 - LITERATURA BRASILEIRA II",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "22",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "JULIANE VARGAS WELTER",
+        "Componente Curricular": "LET0467 - PANORAMA DA LITERATURA BRASILEIRA",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "18",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "LARALIS NUNES DE SOUSA OLIVEIRA",
+        "Componente Curricular": "LET0500 - LÍNGUA BRASILEIRA DE SINAIS IV",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "24",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "MAHAYANA CRISTINA GODOY",
+        "Componente Curricular": "FON0011 - LINGUÍSTICA APLICADA A FONOAUDIOLOGIA",
+        "Turma": "1",
+        "Horário": "6M2345",
+        "Discentes": "40",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "MARCIO DE LIMA DANTAS",
+        "Componente Curricular": "LET0078 - LITERATURA PORTUGUESA I",
+        "Turma": "2",
+        "Horário": "3N1234 6N12",
+        "Discentes": "25",
+        "Média Geral": "6.4",
+        "Desvio Padrão Geral": "2.3"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0354 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "40",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "MARCOS ANTONIO COSTA",
+        "Componente Curricular": "LET0194 - LINGUISTICA I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "15",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0047 - LINGUA LATINA I",
+        "Turma": "1",
+        "Horário": "46N34",
+        "Discentes": "13",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0048 - LINGUA LATINA II",
+        "Turma": "2",
+        "Horário": "46N12",
+        "Discentes": "12",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0049 - LINGUA LATINA III",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "15",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "MARCOS CESAR TINDO BARBOSA",
+        "Componente Curricular": "LET0445 - LÍNGUA LATINA I",
+        "Turma": "1",
+        "Horário": "2N12 5N1234",
+        "Discentes": "33",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "MARIA ALICE TAVARES",
+        "Componente Curricular": "LET0360 - SEMANTICA DA LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "4M3456",
+        "Discentes": "23",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "MARIA DO SOCORRO OLIVEIRA",
+        "Componente Curricular": "LET0208 - LINGUISTICA IV",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "29",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "MARIA HOZANETE ALVES DE LIMA",
+        "Componente Curricular": "LET0048 - LINGUA LATINA II",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "33",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "MARIANA QUEIROGA TABOSA",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "38",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "MARIANA QUEIROGA TABOSA",
+        "Componente Curricular": "LET0001 - LINGUA PORTUGUESA I",
+        "Turma": "2",
+        "Horário": "24N34",
+        "Discentes": "40",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "MARIANA QUEIROGA TABOSA",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "7",
+        "Horário": "24T56",
+        "Discentes": "33",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "MARIANA QUEIROGA TABOSA",
+        "Componente Curricular": "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "9",
+        "Média Geral": "8.74",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "MARIANE LINHARES DA SILVA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "1",
+        "Horário": "2M3456",
+        "Discentes": "17",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "MARIANE LINHARES DA SILVA",
+        "Componente Curricular": "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+        "Turma": "2",
+        "Horário": "3T1234",
+        "Discentes": "14",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "MARIANE LINHARES DA SILVA",
+        "Componente Curricular": "LET0494 - LÍNGUA BRASILEIRA DE SINAIS II",
+        "Turma": "1",
+        "Horário": "7T456 5N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "29",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "MAURO DUNDER",
+        "Componente Curricular": "LET0078 - LITERATURA PORTUGUESA I",
+        "Turma": "1",
+        "Horário": "4M56 6M3456",
+        "Discentes": "36",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "MAURO DUNDER",
+        "Componente Curricular": "LET0078 - LITERATURA PORTUGUESA I",
+        "Turma": "2",
+        "Horário": "3N1234 6N12",
+        "Discentes": "25",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "PAULA PIRES FERREIRA",
+        "Componente Curricular": "LET0460 - FUNDAMENTOS DE CULTURA E LITERATURA BRASILEIRAS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "16",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "PAULA PIRES FERREIRA",
+        "Componente Curricular": "LET0460 - FUNDAMENTOS DE CULTURA E LITERATURA BRASILEIRAS",
+        "Turma": "2",
+        "Horário": "3M3456",
+        "Discentes": "10",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "PAULA PIRES FERREIRA",
+        "Componente Curricular": "LET0066 - LITERATURA BRASILEIRA II",
+        "Turma": "2",
+        "Horário": "3N1234",
+        "Discentes": "39",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "PAULO HENRIQUE DUQUE",
+        "Componente Curricular": "LET0355 - LINGUISTICA II",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "33",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "PAULO HENRIQUE DUQUE",
+        "Componente Curricular": "LET0197 - LINGUISTICA II",
+        "Turma": "2",
+        "Horário": "35N34",
+        "Discentes": "12",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "SANDRA CRISTINA BEZERRA DE BARROS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "4",
+        "Horário": "3N1234",
+        "Discentes": "37",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "SIMONE LORENA DA SILVA PEREIRA",
+        "Componente Curricular": "LET0486 - ESTUDOS INTRODUTÓRIOS DA CIÊNCIA DA LINGUAGEM",
+        "Turma": "1",
+        "Horário": "7M123 2N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "36",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "SIMONE LORENA DA SILVA PEREIRA",
+        "Componente Curricular": "LET0526 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS III",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "8",
+        "Média Geral": "7.48",
+        "Desvio Padrão Geral": "2.5"
+    },
+    {
+        "Docente": "SIMONE PATRICIA SOARES DE SOUZA",
+        "Componente Curricular": "LET0525 - LAB. DE INTERPRETAÇÃO DE LÍNGUA BRASILEIRA DE SINAIS E LÍNGUA PORTUGUESA II",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "7",
+        "Média Geral": "8.51",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "SIMONE PATRICIA SOARES DE SOUZA",
+        "Componente Curricular": "LET0509 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS I",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "29",
+        "Média Geral": "7.86",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "SULEMI FABIANO CAMPOS",
+        "Componente Curricular": "LET0418 - LEITURA E PRODUÇÃO DE TEXTO",
+        "Turma": "1",
+        "Horário": "2N34 4N1234",
+        "Discentes": "38",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "TASSIANA DE BRITO VIANA MARQUES",
+        "Componente Curricular": "LET0053 - LINGUISTICA ROMANICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "20",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "TASSIANA DE BRITO VIANA MARQUES",
+        "Componente Curricular": "LET0053 - LINGUISTICA ROMANICA",
+        "Turma": "2",
+        "Horário": "24M12",
+        "Discentes": "15",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.53"
+    }
+]

@@ -1,0 +1,5216 @@
+{
+  "ADEMIR OLIVEIRA DA SILVA": {
+    "Notas": [
+      8.95,
+      9.04,
+      9.18,
+      9.21,
+      9.31,
+      9.4,
+      9.47,
+      9.64,
+      9.76
+    ],
+    "Desvios": [
+      1.58,
+      1.9,
+      1.92,
+      1.38,
+      1.92,
+      2.28,
+      2.17,
+      1.58,
+      1.36
+    ],
+    "Componentes": {
+      "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.47
+      },
+      "QUI0133 - QUIMICA INORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          8.95,
+          9.21
+        ],
+        "Desvios": [
+          1.9,
+          2.17
+        ],
+        "DesvioDeNotas": 0.13000000000000078,
+        "MediaDeNotas": 9.08,
+        "MediaDeDesvios": 2.035,
+        "NotaMediana": 9.21
+      },
+      "QUI0612 - QUIMICA INORGANICA II": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.31
+      },
+      "QUI0600 - QUIMICA FUNDAMENTAL I": {
+        "Notas": [
+          9.04,
+          9.76
+        ],
+        "Desvios": [
+          1.38,
+          2.28
+        ],
+        "DesvioDeNotas": 0.3600000000000003,
+        "MediaDeNotas": 9.399999999999999,
+        "MediaDeDesvios": 1.8299999999999998,
+        "NotaMediana": 9.76
+      },
+      "QUI0131 - QUIMICA INORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.4
+      },
+      "QUI0602 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.64
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.18
+      }
+    },
+    "DesvioDeNotas": 0.2519455163520016,
+    "MediaDeNotas": 9.32888888888889,
+    "MediaDeDesvios": 1.7877777777777777,
+    "NotaMediana": 9.31
+  },
+  "ALCIDES DE OLIVEIRA WANDERLEY NETO": {
+    "Notas": [
+      8.9,
+      9.05,
+      9.14,
+      9.15,
+      9.33,
+      9.34,
+      9.45,
+      9.6,
+      9.71,
+      9.78
+    ],
+    "Desvios": [
+      2.13,
+      2.16,
+      1.66,
+      1.92,
+      2.48,
+      1.25,
+      1.84,
+      1.16,
+      0.94,
+      1.61
+    ],
+    "Componentes": {
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          2.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 2.13,
+        "NotaMediana": 9.15
+      },
+      "QUI0510 - QUIMICA FUNDAMENTAL I": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 9.34
+      },
+      "QUI0335 - CORROSAO DOS MATERIAIS": {
+        "Notas": [
+          9.14,
+          9.6
+        ],
+        "Desvios": [
+          1.66,
+          1.16
+        ],
+        "DesvioDeNotas": 0.22999999999999954,
+        "MediaDeNotas": 9.370000000000001,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.6
+      },
+      "QUI0602 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          8.9
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 8.9
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.45,
+          9.71,
+          9.78
+        ],
+        "Desvios": [
+          2.48,
+          0.94,
+          1.61
+        ],
+        "DesvioDeNotas": 0.14197026292697928,
+        "MediaDeNotas": 9.646666666666667,
+        "MediaDeDesvios": 1.6766666666666667,
+        "NotaMediana": 9.71
+      },
+      "QUI0651 - MÉTODOS DE SEPARAÇÃO": {
+        "Notas": [
+          9.33
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.33
+      },
+      "QUI0600 - QUIMICA FUNDAMENTAL I": {
+        "Notas": [
+          9.05
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 9.05
+      }
+    },
+    "DesvioDeNotas": 0.27637836384203424,
+    "MediaDeNotas": 9.344999999999999,
+    "MediaDeDesvios": 1.7149999999999999,
+    "NotaMediana": 9.34
+  },
+  "AMANDA DUARTE GONDIM": {
+    "Notas": [
+      10,
+      8.33,
+      8.82,
+      8.97,
+      9.07,
+      9.32,
+      9.84
+    ],
+    "Desvios": [
+      1.53,
+      2.64,
+      1.09,
+      1.56,
+      2.47,
+      1.42,
+      0.77
+    ],
+    "Componentes": {
+      "QUI0651 - MÉTODOS DE SEPARAÇÃO": {
+        "Notas": [
+          8.82,
+          9.07
+        ],
+        "Desvios": [
+          1.53,
+          1.56
+        ],
+        "DesvioDeNotas": 0.125,
+        "MediaDeNotas": 8.945,
+        "MediaDeDesvios": 1.545,
+        "NotaMediana": 9.07
+      },
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          8.33,
+          8.97,
+          9.32
+        ],
+        "Desvios": [
+          2.64,
+          2.47,
+          1.42
+        ],
+        "DesvioDeNotas": 0.40990513807736334,
+        "MediaDeNotas": 8.873333333333333,
+        "MediaDeDesvios": 2.1766666666666667,
+        "NotaMediana": 8.97
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          10,
+          9.84
+        ],
+        "Desvios": [
+          1.09,
+          0.77
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.92,
+        "MediaDeDesvios": 0.93,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.5391452040224489,
+    "MediaDeNotas": 9.192857142857141,
+    "MediaDeDesvios": 1.6400000000000001,
+    "NotaMediana": 8.97
+  },
+  "ANA CAROLINA DE OLIVEIRA NEVES MENEZES": {
+    "Notas": [
+      8.91,
+      9.12,
+      9.25,
+      9.36,
+      9.37,
+      9.38,
+      9.4,
+      9.52,
+      9.64,
+      9.64,
+      9.77
+    ],
+    "Desvios": [
+      1.76,
+      2.17,
+      2.29,
+      1.38,
+      2.04,
+      1.74,
+      2.37,
+      2.18,
+      0.94,
+      1.4,
+      1.22
+    ],
+    "Componentes": {
+      "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.37
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.12,
+          9.4
+        ],
+        "Desvios": [
+          2.17,
+          2.18
+        ],
+        "DesvioDeNotas": 0.14000000000000057,
+        "MediaDeNotas": 9.26,
+        "MediaDeDesvios": 2.175,
+        "NotaMediana": 9.4
+      },
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          8.91,
+          9.77
+        ],
+        "Desvios": [
+          2.29,
+          1.22
+        ],
+        "DesvioDeNotas": 0.4299999999999997,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.755,
+        "NotaMediana": 9.77
+      },
+      "QUI0341 - ORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.52
+      },
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          9.25,
+          9.36,
+          9.38,
+          9.64
+        ],
+        "Desvios": [
+          2.04,
+          1.74,
+          2.37,
+          1.4
+        ],
+        "DesvioDeNotas": 0.1430690392782452,
+        "MediaDeNotas": 9.4075,
+        "MediaDeDesvios": 1.8875000000000002,
+        "NotaMediana": 9.38
+      },
+      "QUI0013 - FISICO-QUIMICA BASICA": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          0.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 0.94,
+        "NotaMediana": 9.64
+      }
+    },
+    "DesvioDeNotas": 0.23553701609388972,
+    "MediaDeNotas": 9.396363636363636,
+    "MediaDeDesvios": 1.7718181818181817,
+    "NotaMediana": 9.38
+  },
+  "ANA CRISTINA FACUNDO DE BRITO PONTES": {
+    "Notas": [
+      8.6,
+      9.21,
+      9.22,
+      9.8
+    ],
+    "Desvios": [
+      2.49,
+      2.11,
+      1.73,
+      1.66
+    ],
+    "Componentes": {
+      "QUI0065 - SEMINÁRIOS PARA O CURSO DE QUÍMICA": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          2.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 2.49,
+        "NotaMediana": 9.21
+      },
+      "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL": {
+        "Notas": [
+          8.6
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.6,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 8.6
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.8
+      },
+      "QUI0613 - QUIMICA INORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0.424345083628879,
+    "MediaDeNotas": 9.207500000000001,
+    "MediaDeDesvios": 1.9975,
+    "NotaMediana": 9.22
+  },
+  "ANDERSON DOS REIS ALBUQUERQUE": {
+    "Notas": [
+      8.68,
+      9.34,
+      9.46,
+      9.5
+    ],
+    "Desvios": [
+      2.2,
+      2.39,
+      1.71,
+      1.85
+    ],
+    "Componentes": {
+      "QUI0632 - FISICO-QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          2.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 2.2,
+        "NotaMediana": 9.34
+      },
+      "QUI0678 - PRINCÍPIOS DE TERMODINÂMICA QUÍMICA": {
+        "Notas": [
+          8.68
+        ],
+        "Desvios": [
+          2.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.68,
+        "MediaDeDesvios": 2.39,
+        "NotaMediana": 8.68
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.5
+      },
+      "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.46
+      }
+    },
+    "DesvioDeNotas": 0.3314739808793447,
+    "MediaDeNotas": 9.245000000000001,
+    "MediaDeDesvios": 2.0375,
+    "NotaMediana": 9.46
+  },
+  "ANTONIO SOUZA DE ARAUJO": {
+    "Notas": [
+      8.65,
+      9,
+      9.06,
+      9.11,
+      9.18,
+      9.18,
+      9.21,
+      9.55
+    ],
+    "Desvios": [
+      1.61,
+      1.8,
+      1.58,
+      1.93,
+      2.27,
+      2.02,
+      1.82,
+      1.61
+    ],
+    "Componentes": {
+      "QUI0321 - QUIMICA INORGANICA": {
+        "Notas": [
+          9.11,
+          9.18,
+          9.18,
+          9.55
+        ],
+        "Desvios": [
+          1.61,
+          1.93,
+          2.02,
+          1.61
+        ],
+        "DesvioDeNotas": 0.1726991603917059,
+        "MediaDeNotas": 9.254999999999999,
+        "MediaDeDesvios": 1.7925000000000002,
+        "NotaMediana": 9.18
+      },
+      "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9
+      },
+      "QUI0615 - QUIMICA INORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.21
+      },
+      "QUI0611 - QUIMICA INORGANICA I": {
+        "Notas": [
+          9.06
+        ],
+        "Desvios": [
+          2.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 2.27,
+        "NotaMediana": 9.06
+      },
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          8.65
+        ],
+        "Desvios": [
+          1.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 8.65
+      }
+    },
+    "DesvioDeNotas": 0.2342941527225979,
+    "MediaDeNotas": 9.1175,
+    "MediaDeDesvios": 1.8299999999999998,
+    "NotaMediana": 9.18
+  },
+  "ARUZZA MABEL DE MORAIS ARAUJO": {
+    "Notas": [
+      8.79,
+      9.05,
+      9.29,
+      9.36,
+      9.6,
+      9.68,
+      9.74,
+      9.76,
+      9.93,
+      9.99
+    ],
+    "Desvios": [
+      1.69,
+      1.49,
+      0.9,
+      1.87,
+      1.98,
+      1.04,
+      1.85,
+      1.69,
+      1.83,
+      2.58
+    ],
+    "Componentes": {
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.93,
+          9.99
+        ],
+        "Desvios": [
+          1.69,
+          1.04
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.96,
+        "MediaDeDesvios": 1.365,
+        "NotaMediana": 9.99
+      },
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          9.05,
+          9.74,
+          9.76
+        ],
+        "Desvios": [
+          1.49,
+          1.85,
+          1.69
+        ],
+        "DesvioDeNotas": 0.3300841643513898,
+        "MediaDeNotas": 9.516666666666666,
+        "MediaDeDesvios": 1.6766666666666665,
+        "NotaMediana": 9.74
+      },
+      "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          0.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 0.9,
+        "NotaMediana": 9.68
+      },
+      "QUI0343 - ORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.36
+      },
+      "QUI0340 - ORGANICA I": {
+        "Notas": [
+          9.29,
+          9.6
+        ],
+        "Desvios": [
+          1.98,
+          1.83
+        ],
+        "DesvioDeNotas": 0.15500000000000025,
+        "MediaDeNotas": 9.445,
+        "MediaDeDesvios": 1.905,
+        "NotaMediana": 9.6
+      },
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          8.79
+        ],
+        "Desvios": [
+          2.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.79,
+        "MediaDeDesvios": 2.58,
+        "NotaMediana": 8.79
+      }
+    },
+    "DesvioDeNotas": 0.36868550283405516,
+    "MediaDeNotas": 9.519,
+    "MediaDeDesvios": 1.6919999999999997,
+    "NotaMediana": 9.68
+  },
+  "CAIO LIMA FIRME": {
+    "Notas": [
+      7.32,
+      8.37,
+      8.56,
+      8.72,
+      8.8,
+      8.87,
+      8.92,
+      9.07,
+      9.18
+    ],
+    "Desvios": [
+      1.89,
+      2.78,
+      1.99,
+      2.7,
+      2.37,
+      3.52,
+      2.14,
+      2.11,
+      1.81
+    ],
+    "Componentes": {
+      "QUI0341 - ORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          8.92
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.92,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 8.92
+      },
+      "QUI0340 - ORGANICA I": {
+        "Notas": [
+          8.37,
+          8.56
+        ],
+        "Desvios": [
+          2.78,
+          2.37
+        ],
+        "DesvioDeNotas": 0.09500000000000064,
+        "MediaDeNotas": 8.465,
+        "MediaDeDesvios": 2.575,
+        "NotaMediana": 8.56
+      },
+      "QUI0621 - QUIMICA ORGANICA II": {
+        "Notas": [
+          9.07,
+          9.18
+        ],
+        "Desvios": [
+          1.99,
+          1.81
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.125,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.18
+      },
+      "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA": {
+        "Notas": [
+          7.32,
+          8.8,
+          8.87
+        ],
+        "Desvios": [
+          2.7,
+          3.52,
+          2.11
+        ],
+        "DesvioDeNotas": 0.7147493733237312,
+        "MediaDeNotas": 8.33,
+        "MediaDeDesvios": 2.776666666666667,
+        "NotaMediana": 8.8
+      },
+      "QUI0062 - QUÍMICA ORGÂNICA EXPERIMENTAL I": {
+        "Notas": [
+          8.72
+        ],
+        "Desvios": [
+          2.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.72,
+        "MediaDeDesvios": 2.14,
+        "NotaMediana": 8.72
+      }
+    },
+    "DesvioDeNotas": 0.5229427653218554,
+    "MediaDeNotas": 8.645555555555555,
+    "MediaDeDesvios": 2.3677777777777775,
+    "NotaMediana": 8.8
+  },
+  "CARLOS ALBERTO MARTINEZ HUITLE": {
+    "Notas": [
+      8.16,
+      8.56,
+      8.66,
+      9.29,
+      9.46
+    ],
+    "Desvios": [
+      2.31,
+      2.37,
+      1.92,
+      1.74,
+      1.36
+    ],
+    "Componentes": {
+      "QUI0067 - MÉTODOS ELETROANALÍTICOS": {
+        "Notas": [
+          8.56,
+          9.29,
+          9.46
+        ],
+        "Desvios": [
+          2.31,
+          1.92,
+          1.36
+        ],
+        "DesvioDeNotas": 0.39041288685470177,
+        "MediaDeNotas": 9.103333333333333,
+        "MediaDeDesvios": 1.8633333333333335,
+        "NotaMediana": 9.29
+      },
+      "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA": {
+        "Notas": [
+          8.16
+        ],
+        "Desvios": [
+          2.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.16,
+        "MediaDeDesvios": 2.37,
+        "NotaMediana": 8.16
+      },
+      "QUI0644 - QUIMICA AMBIENTAL": {
+        "Notas": [
+          8.66
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.66,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 8.66
+      }
+    },
+    "DesvioDeNotas": 0.4814810484328536,
+    "MediaDeNotas": 8.826,
+    "MediaDeDesvios": 1.94,
+    "NotaMediana": 8.66
+  },
+  "CARLOS NECO DA SILVA JUNIOR": {
+    "Notas": [
+      8.39,
+      8.99,
+      9.16,
+      9.53,
+      9.57,
+      9.57,
+      9.61,
+      9.67
+    ],
+    "Desvios": [
+      1.61,
+      1.18,
+      2.18,
+      1.77,
+      1.27,
+      1.82,
+      2.26,
+      0.97
+    ],
+    "Componentes": {
+      "QUI0079 - ENSINO DE QUIMICA II": {
+        "Notas": [
+          8.99
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.99,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 8.99
+      },
+      "QUI0080 - ENSINO DE QUÍMICA III": {
+        "Notas": [
+          9.53,
+          9.67
+        ],
+        "Desvios": [
+          1.18,
+          1.27
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.225,
+        "NotaMediana": 9.67
+      },
+      "QUI0085 - ENSINO DE QUIMICA I": {
+        "Notas": [
+          8.39,
+          9.16,
+          9.57
+        ],
+        "Desvios": [
+          2.18,
+          1.77,
+          2.26
+        ],
+        "DesvioDeNotas": 0.48914892074568306,
+        "MediaDeNotas": 9.040000000000001,
+        "MediaDeDesvios": 2.07,
+        "NotaMediana": 9.16
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 9.57
+      },
+      "QUI0081 - ENSINO DE QUÍMICA IV": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          0.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 0.97,
+        "NotaMediana": 9.61
+      }
+    },
+    "DesvioDeNotas": 0.4145008293115947,
+    "MediaDeNotas": 9.31125,
+    "MediaDeDesvios": 1.6325,
+    "NotaMediana": 9.57
+  },
+  "CARLOS ROBERTO OLIVEIRA SOUTO": {
+    "Notas": [
+      7.98,
+      8.01,
+      9.01,
+      9.01,
+      9.07,
+      9.24,
+      9.28,
+      9.28,
+      9.32,
+      9.44,
+      9.52,
+      9.75
+    ],
+    "Desvios": [
+      1.38,
+      1.91,
+      2.24,
+      3.4,
+      2.2,
+      1.47,
+      1.54,
+      3,
+      1.97,
+      1.76,
+      1.67,
+      1.3
+    ],
+    "Componentes": {
+      "QUI0343 - ORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          9.28,
+          9.44
+        ],
+        "Desvios": [
+          1.38,
+          1.54
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.44
+      },
+      "QUI0340 - ORGANICA I": {
+        "Notas": [
+          9.01
+        ],
+        "Desvios": [
+          1.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.01,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 9.01
+      },
+      "QUI0621 - QUIMICA ORGANICA II": {
+        "Notas": [
+          9.07,
+          9.24,
+          9.28,
+          9.32
+        ],
+        "Desvios": [
+          2.24,
+          2.2,
+          1.97,
+          1.67
+        ],
+        "DesvioDeNotas": 0.09522998477370442,
+        "MediaDeNotas": 9.227500000000001,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 9.28
+      },
+      "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA": {
+        "Notas": [
+          7.98,
+          8.01
+        ],
+        "Desvios": [
+          3.4,
+          3
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 7.995,
+        "MediaDeDesvios": 3.2,
+        "NotaMediana": 8.01
+      },
+      "QUI0063 - QUÍMICA ORGÂNICA EXPERIMENTAL II": {
+        "Notas": [
+          9.52,
+          9.75
+        ],
+        "Desvios": [
+          1.47,
+          1.3
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.635,
+        "MediaDeDesvios": 1.385,
+        "NotaMediana": 9.75
+      },
+      "QUI0342 - ORGANICA II": {
+        "Notas": [
+          9.01
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.01,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.01
+      }
+    },
+    "DesvioDeNotas": 0.5243958163660558,
+    "MediaDeNotas": 9.075833333333335,
+    "MediaDeDesvios": 1.9866666666666666,
+    "NotaMediana": 9.28
+  },
+  "DANIEL DE LIMA PONTES": {
+    "Notas": [
+      8.84,
+      9.15,
+      9.22,
+      9.49,
+      9.49,
+      9.68,
+      9.73,
+      9.79,
+      9.82
+    ],
+    "Desvios": [
+      1.5,
+      2.45,
+      1.99,
+      1.1,
+      1.83,
+      1.99,
+      1.26,
+      1.3,
+      1.45
+    ],
+    "Componentes": {
+      "QUI0607 - METODOS ESPECTROSCOPICOS": {
+        "Notas": [
+          9.68,
+          9.73
+        ],
+        "Desvios": [
+          1.5,
+          1.26
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.705,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.73
+      },
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          2.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 2.45,
+        "NotaMediana": 8.84
+      },
+      "QUI0612 - QUIMICA INORGANICA II": {
+        "Notas": [
+          9.22,
+          9.49
+        ],
+        "Desvios": [
+          1.99,
+          1.99
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.355,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.49
+      },
+      "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL": {
+        "Notas": [
+          9.49,
+          9.79,
+          9.82
+        ],
+        "Desvios": [
+          1.1,
+          1.3,
+          1.45
+        ],
+        "DesvioDeNotas": 0.1489966442575132,
+        "MediaDeNotas": 9.700000000000001,
+        "MediaDeDesvios": 1.2833333333333334,
+        "NotaMediana": 9.79
+      },
+      "QUI0615 - QUIMICA INORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.15
+      }
+    },
+    "DesvioDeNotas": 0.3160793774346978,
+    "MediaDeNotas": 9.467777777777778,
+    "MediaDeDesvios": 1.6522222222222223,
+    "NotaMediana": 9.49
+  },
+  "DAVI SERRADELLA VIEIRA": {
+    "Notas": [
+      8.93,
+      9.63,
+      9.65,
+      9.65,
+      9.71,
+      9.81
+    ],
+    "Desvios": [
+      1.62,
+      2.02,
+      2.22,
+      1.52,
+      1.97,
+      1.56
+    ],
+    "Componentes": {
+      "QUI0084 - ELETROQUÍMICA E CINÉTICA QUÍMICA": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.71
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          8.93,
+          9.65,
+          9.65
+        ],
+        "Desvios": [
+          2.02,
+          2.22,
+          1.97
+        ],
+        "DesvioDeNotas": 0.3394112549695431,
+        "MediaDeNotas": 9.409999999999998,
+        "MediaDeDesvios": 2.07,
+        "NotaMediana": 9.65
+      },
+      "QUI0601 - QUIMICA FUNDAMENTAL II": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.81
+      },
+      "QUI0013 - FISICO-QUIMICA BASICA": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.2895206766747798,
+    "MediaDeNotas": 9.563333333333334,
+    "MediaDeDesvios": 1.8183333333333336,
+    "NotaMediana": 9.65
+  },
+  "EDGAR PERIN MORAES": {
+    "Notas": [
+      9.02,
+      9.22,
+      9.35,
+      9.57,
+      9.6,
+      9.61,
+      9.7,
+      9.72
+    ],
+    "Desvios": [
+      1.53,
+      1.21,
+      2.11,
+      2.61,
+      1.47,
+      1.45,
+      1.62,
+      1.37
+    ],
+    "Componentes": {
+      "QUI0068 - MÉTODOS ESPECTROANALÍTICOS": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.7
+      },
+      "QUI0111 - QUIMICA ANALITICA APLICADA": {
+        "Notas": [
+          9.02,
+          9.57,
+          9.61
+        ],
+        "Desvios": [
+          1.21,
+          2.61,
+          1.37
+        ],
+        "DesvioDeNotas": 0.26919633479426636,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.7299999999999998,
+        "NotaMediana": 9.57
+      },
+      "QUI0610 - QUIMIOMETRIA": {
+        "Notas": [
+          9.35,
+          9.72
+        ],
+        "Desvios": [
+          2.11,
+          1.45
+        ],
+        "DesvioDeNotas": 0.1850000000000005,
+        "MediaDeNotas": 9.535,
+        "MediaDeDesvios": 1.7799999999999998,
+        "NotaMediana": 9.72
+      },
+      "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA": {
+        "Notas": [
+          9.22,
+          9.6
+        ],
+        "Desvios": [
+          1.47,
+          1.62
+        ],
+        "DesvioDeNotas": 0.1899999999999995,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.545,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.23483704456494933,
+    "MediaDeNotas": 9.47375,
+    "MediaDeDesvios": 1.6712500000000001,
+    "NotaMediana": 9.6
+  },
+  "ELEDIR VITOR SOBRINHO": {
+    "Notas": [
+      8.96,
+      9.05,
+      9.08,
+      9.32,
+      9.36,
+      9.59,
+      9.63,
+      9.64,
+      9.75,
+      9.92
+    ],
+    "Desvios": [
+      1.79,
+      1.75,
+      1.61,
+      1.98,
+      2.39,
+      2.41,
+      2.3,
+      1.81,
+      0.45,
+      1.36
+    ],
+    "Componentes": {
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          8.96,
+          9.36,
+          9.59,
+          9.75,
+          9.92
+        ],
+        "Desvios": [
+          1.79,
+          2.39,
+          2.41,
+          0.45,
+          1.36
+        ],
+        "DesvioDeNotas": 0.3337424156441609,
+        "MediaDeNotas": 9.516,
+        "MediaDeDesvios": 1.6800000000000002,
+        "NotaMediana": 9.59
+      },
+      "QUI0650 - SEMINÁRIOS SOBRE O PETRÓLEO, O GÁS NATURAL E SEUS COMPONENTES": {
+        "Notas": [
+          9.08,
+          9.63
+        ],
+        "Desvios": [
+          1.75,
+          2.3
+        ],
+        "DesvioDeNotas": 0.27500000000000036,
+        "MediaDeNotas": 9.355,
+        "MediaDeDesvios": 2.025,
+        "NotaMediana": 9.63
+      },
+      "QUI0656 - TRATAMENTO DE EFLUENTES DA INDÚSTRIA DO PETRÓLEO": {
+        "Notas": [
+          9.32,
+          9.64
+        ],
+        "Desvios": [
+          1.61,
+          1.81
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.64
+      },
+      "QUI0058 - FUNDAMENTOS DE REFINO DE PETRÓLEO": {
+        "Notas": [
+          9.05
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.05
+      }
+    },
+    "DesvioDeNotas": 0.30935416596516024,
+    "MediaDeNotas": 9.430000000000001,
+    "MediaDeDesvios": 1.7849999999999997,
+    "NotaMediana": 9.59
+  },
+  "FABIANO DO ESPIRITO SANTO GOMES": {
+    "Notas": [
+      9,
+      9.35,
+      9.44,
+      9.47,
+      9.52,
+      9.65,
+      9.65,
+      9.72,
+      9.74
+    ],
+    "Desvios": [
+      1.78,
+      1.84,
+      1.45,
+      0.85,
+      1.96,
+      1.57,
+      2.45,
+      1.3,
+      1.28
+    ],
+    "Componentes": {
+      "QUI0341 - ORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          9.35
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.35
+      },
+      "QUI0343 - ORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          9.44
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.44,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 9.44
+      },
+      "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA": {
+        "Notas": [
+          9.65,
+          9.72
+        ],
+        "Desvios": [
+          1.45,
+          1.3
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.685,
+        "MediaDeDesvios": 1.375,
+        "NotaMediana": 9.72
+      },
+      "QUI0063 - QUÍMICA ORGÂNICA EXPERIMENTAL II": {
+        "Notas": [
+          9.52,
+          9.65,
+          9.74
+        ],
+        "Desvios": [
+          0.85,
+          1.96,
+          1.28
+        ],
+        "DesvioDeNotas": 0.09030811456096073,
+        "MediaDeNotas": 9.636666666666667,
+        "MediaDeDesvios": 1.3633333333333333,
+        "NotaMediana": 9.65
+      },
+      "QUI0621 - QUIMICA ORGANICA II": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.47
+      },
+      "QUI0065 - SEMINÁRIOS PARA O CURSO DE QUÍMICA": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          2.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 2.45,
+        "NotaMediana": 9
+      }
+    },
+    "DesvioDeNotas": 0.21812896853371017,
+    "MediaDeNotas": 9.504444444444443,
+    "MediaDeDesvios": 1.6088888888888888,
+    "NotaMediana": 9.52
+  },
+  "FABRICIO GAVA MENEZES": {
+    "Notas": [
+      8.68,
+      8.9,
+      9.03,
+      9.25,
+      9.32,
+      9.5,
+      9.67,
+      9.7,
+      9.73,
+      9.8
+    ],
+    "Desvios": [
+      1.82,
+      1.5,
+      2.12,
+      2.08,
+      0.98,
+      2,
+      1.73,
+      2.2,
+      1.8,
+      1.15
+    ],
+    "Componentes": {
+      "QUI0342 - ORGANICA II": {
+        "Notas": [
+          9.32,
+          9.5
+        ],
+        "Desvios": [
+          1.82,
+          1.73
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.775,
+        "NotaMediana": 9.5
+      },
+      "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA": {
+        "Notas": [
+          8.9,
+          9.03,
+          9.7
+        ],
+        "Desvios": [
+          1.5,
+          2.12,
+          2.2
+        ],
+        "DesvioDeNotas": 0.35052341814301996,
+        "MediaDeNotas": 9.209999999999999,
+        "MediaDeDesvios": 1.9400000000000002,
+        "NotaMediana": 9.03
+      },
+      "QUI0340 - ORGANICA I": {
+        "Notas": [
+          9.25,
+          9.67
+        ],
+        "Desvios": [
+          2.08,
+          1.8
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.67
+      },
+      "QUI0622 - QUIMICA ORGANICA EXPERIMENTAL": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.8
+      },
+      "QUI0341 - ORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          8.68
+        ],
+        "Desvios": [
+          2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.68,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 8.68
+      },
+      "QUI0621 - QUIMICA ORGANICA II": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.3685593574988974,
+    "MediaDeNotas": 9.358,
+    "MediaDeDesvios": 1.738,
+    "NotaMediana": 9.5
+  },
+  "FERNANDO JOSÉ VOLPI EUSÉBIO DE OLIVEIRA": {
+    "Notas": [
+      9.56,
+      9.65,
+      9.68,
+      9.72,
+      9.77,
+      9.8,
+      9.86,
+      9.87,
+      9.98
+    ],
+    "Desvios": [
+      1.46,
+      0.98,
+      1.12,
+      1.54,
+      1.5,
+      1.62,
+      1.98,
+      1.59,
+      1.16
+    ],
+    "Componentes": {
+      "QUI0600 - QUIMICA FUNDAMENTAL I": {
+        "Notas": [
+          9.77,
+          9.86
+        ],
+        "Desvios": [
+          1.46,
+          1.62
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.815,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.86
+      },
+      "QUI0133 - QUIMICA INORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          9.98
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.98,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.98
+      },
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          9.56,
+          9.68,
+          9.8
+        ],
+        "Desvios": [
+          1.12,
+          1.98,
+          1.59
+        ],
+        "DesvioDeNotas": 0.09797958971132721,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.5633333333333335,
+        "NotaMediana": 9.68
+      },
+      "QUI0613 - QUIMICA INORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          9.72,
+          9.87
+        ],
+        "Desvios": [
+          1.54,
+          1.5
+        ],
+        "DesvioDeNotas": 0.07499999999999929,
+        "MediaDeNotas": 9.795,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.87
+      },
+      "QUI0612 - QUIMICA INORGANICA II": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.16,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.12111620784382698,
+    "MediaDeNotas": 9.765555555555558,
+    "MediaDeDesvios": 1.4388888888888889,
+    "NotaMediana": 9.77
+  },
+  "FRANCISCO CLAUDECE PEREIRA": {
+    "Notas": [
+      7.96,
+      8.45,
+      8.74,
+      9.05,
+      9.14,
+      9.24,
+      9.38,
+      9.42,
+      9.43,
+      9.48,
+      9.67,
+      9.7,
+      9.75
+    ],
+    "Desvios": [
+      3.04,
+      1.93,
+      2.05,
+      2.29,
+      2.13,
+      1.78,
+      2.21,
+      2.77,
+      1.92,
+      1.19,
+      1.66,
+      0.96,
+      1.33
+    ],
+    "Componentes": {
+      "QUI0603 - QUIMICA ANALITICA QUALITATIVA": {
+        "Notas": [
+          7.96,
+          8.45,
+          8.74
+        ],
+        "Desvios": [
+          3.04,
+          2.21,
+          2.77
+        ],
+        "DesvioDeNotas": 0.32190405748020984,
+        "MediaDeNotas": 8.383333333333333,
+        "MediaDeDesvios": 2.6733333333333333,
+        "NotaMediana": 8.45
+      },
+      "QUI0604 - QUIMICA ANALITICA QUANTITATIVA": {
+        "Notas": [
+          9.24,
+          9.42
+        ],
+        "Desvios": [
+          1.93,
+          1.92
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.9249999999999998,
+        "NotaMediana": 9.42
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.05,
+          9.14,
+          9.43,
+          9.67,
+          9.75
+        ],
+        "Desvios": [
+          2.05,
+          2.13,
+          1.19,
+          0.96,
+          1.33
+        ],
+        "DesvioDeNotas": 0.2778776709273342,
+        "MediaDeNotas": 9.408,
+        "MediaDeDesvios": 1.5319999999999998,
+        "NotaMediana": 9.43
+      },
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          2.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 2.29,
+        "NotaMediana": 9.7
+      },
+      "QUI0602 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.38,
+          9.48
+        ],
+        "Desvios": [
+          1.78,
+          1.66
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.48
+      }
+    },
+    "DesvioDeNotas": 0.5055174863385863,
+    "MediaDeNotas": 9.185384615384617,
+    "MediaDeDesvios": 1.943076923076923,
+    "NotaMediana": 9.38
+  },
+  "FRANCISCO JOSE SANTOS LIMA": {
+    "Notas": [
+      10,
+      9.17,
+      9.28,
+      9.37,
+      9.74,
+      9.97
+    ],
+    "Desvios": [
+      1.93,
+      2.12,
+      2.16,
+      1.87,
+      0.54,
+      1.71
+    ],
+    "Componentes": {
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.37
+      },
+      "QUI0600 - QUIMICA FUNDAMENTAL I": {
+        "Notas": [
+          9.28
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.28,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 9.28
+      },
+      "QUI0601 - QUIMICA FUNDAMENTAL II": {
+        "Notas": [
+          9.17
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 9.17
+      },
+      "QUI0510 - QUIMICA FUNDAMENTAL I": {
+        "Notas": [
+          10,
+          9.74
+        ],
+        "Desvios": [
+          1.87,
+          0.54
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.870000000000001,
+        "MediaDeDesvios": 1.205,
+        "NotaMediana": 9.74
+      },
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.97
+      }
+    },
+    "DesvioDeNotas": 0.3306265096583895,
+    "MediaDeNotas": 9.588333333333333,
+    "MediaDeDesvios": 1.721666666666667,
+    "NotaMediana": 9.37
+  },
+  "FRANCISCO ORDELEI NASCIMENTO DA SILVA": {
+    "Notas": [
+      8.66,
+      8.79,
+      9.09,
+      9.15,
+      9.23,
+      9.41,
+      9.45,
+      9.8,
+      9.81,
+      9.89,
+      9.95
+    ],
+    "Desvios": [
+      2.44,
+      1.92,
+      2.7,
+      1.39,
+      2.61,
+      2.12,
+      1.91,
+      1.38,
+      1.52,
+      0.61,
+      0.79
+    ],
+    "Componentes": {
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          2.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 2.44,
+        "NotaMediana": 9.15
+      },
+      "QUI0611 - QUIMICA INORGANICA I": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.41
+      },
+      "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL": {
+        "Notas": [
+          8.66,
+          9.23,
+          9.45
+        ],
+        "Desvios": [
+          2.7,
+          2.12,
+          1.91
+        ],
+        "DesvioDeNotas": 0.3328997179665703,
+        "MediaDeNotas": 9.113333333333333,
+        "MediaDeDesvios": 2.2433333333333336,
+        "NotaMediana": 9.23
+      },
+      "QUI0131 - QUIMICA INORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          9.09,
+          9.8,
+          9.95
+        ],
+        "Desvios": [
+          1.39,
+          1.52,
+          0.61
+        ],
+        "DesvioDeNotas": 0.375085175512028,
+        "MediaDeNotas": 9.613333333333333,
+        "MediaDeDesvios": 1.1733333333333333,
+        "NotaMediana": 9.8
+      },
+      "QUI0614 - QUIMICA INORGANICA III": {
+        "Notas": [
+          8.79,
+          9.89
+        ],
+        "Desvios": [
+          2.61,
+          0.79
+        ],
+        "DesvioDeNotas": 0.5500000000000007,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.89
+      },
+      "QUI0612 - QUIMICA INORGANICA II": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.81
+      }
+    },
+    "DesvioDeNotas": 0.42403609701327083,
+    "MediaDeNotas": 9.384545454545457,
+    "MediaDeDesvios": 1.7627272727272725,
+    "NotaMediana": 9.41
+  },
+  "FRANKLIN NELSON DA CRUZ": {
+    "Notas": [
+      9.03
+    ],
+    "Desvios": [
+      2.71
+    ],
+    "Componentes": {
+      "QUI0600 - QUIMICA FUNDAMENTAL I": {
+        "Notas": [
+          9.03
+        ],
+        "Desvios": [
+          2.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.03,
+        "MediaDeDesvios": 2.71,
+        "NotaMediana": 9.03
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.03,
+    "MediaDeDesvios": 2.71,
+    "NotaMediana": 9.03
+  },
+  "HENRIQUE EDUARDO BEZERRA DA SILVA": {
+    "Notas": [
+      5.57,
+      8.73,
+      8.97,
+      9.18,
+      9.21,
+      9.39,
+      9.41,
+      9.45,
+      9.63,
+      9.82
+    ],
+    "Desvios": [
+      2.14,
+      1.95,
+      2.08,
+      2.22,
+      3.28,
+      1.31,
+      1.68,
+      0.82,
+      1.44,
+      1.43
+    ],
+    "Componentes": {
+      "QUI0604 - QUIMICA ANALITICA QUANTITATIVA": {
+        "Notas": [
+          5.57,
+          8.73
+        ],
+        "Desvios": [
+          2.14,
+          3.28
+        ],
+        "DesvioDeNotas": 1.58,
+        "MediaDeNotas": 7.15,
+        "MediaDeDesvios": 2.71,
+        "NotaMediana": 8.73
+      },
+      "QUI1000 - QUÍMICA AMBIENTAL": {
+        "Notas": [
+          9.18,
+          9.41
+        ],
+        "Desvios": [
+          1.95,
+          1.43
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.295,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.41
+      },
+      "QUI0644 - QUIMICA AMBIENTAL": {
+        "Notas": [
+          9.21,
+          9.39,
+          9.45
+        ],
+        "Desvios": [
+          2.08,
+          1.68,
+          1.44
+        ],
+        "DesvioDeNotas": 0.10198039027185515,
+        "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 1.7333333333333332,
+        "NotaMediana": 9.39
+      },
+      "QUI0111 - QUIMICA ANALITICA APLICADA": {
+        "Notas": [
+          8.97
+        ],
+        "Desvios": [
+          2.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.97,
+        "MediaDeDesvios": 2.22,
+        "NotaMediana": 8.97
+      },
+      "QUI0068 - MÉTODOS ESPECTROANALÍTICOS": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.63
+      },
+      "QUI0083 - MÉTODOS INSTRUMENTAIS DE ANÁLISES": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          0.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 0.82,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 1.1604412953699985,
+    "MediaDeNotas": 8.936,
+    "MediaDeDesvios": 1.8350000000000002,
+    "NotaMediana": 9.39
+  },
+  "JAILSON VIEIRA DE MELO": {
+    "Notas": [
+      7.2,
+      7.99,
+      8.53,
+      8.61,
+      9.4,
+      9.41,
+      9.55,
+      9.82
+    ],
+    "Desvios": [
+      1.76,
+      1.73,
+      3,
+      1.2,
+      2.36,
+      2.26,
+      1.43,
+      2.67
+    ],
+    "Componentes": {
+      "QUI0603 - QUIMICA ANALITICA QUALITATIVA": {
+        "Notas": [
+          8.53,
+          9.55
+        ],
+        "Desvios": [
+          1.76,
+          2.26
+        ],
+        "DesvioDeNotas": 0.5100000000000007,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 2.01,
+        "NotaMediana": 9.55
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.41,
+          9.82
+        ],
+        "Desvios": [
+          1.73,
+          1.2
+        ],
+        "DesvioDeNotas": 0.20500000000000007,
+        "MediaDeNotas": 9.615,
+        "MediaDeDesvios": 1.4649999999999999,
+        "NotaMediana": 9.82
+      },
+      "QUI0604 - QUIMICA ANALITICA QUANTITATIVA": {
+        "Notas": [
+          7.2,
+          7.99
+        ],
+        "Desvios": [
+          3,
+          2.67
+        ],
+        "DesvioDeNotas": 0.395,
+        "MediaDeNotas": 7.595000000000001,
+        "MediaDeDesvios": 2.835,
+        "NotaMediana": 7.99
+      },
+      "QUI0067 - MÉTODOS ELETROANALÍTICOS": {
+        "Notas": [
+          8.61
+        ],
+        "Desvios": [
+          2.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.61,
+        "MediaDeDesvios": 2.36,
+        "NotaMediana": 8.61
+      },
+      "QUI0111 - QUIMICA ANALITICA APLICADA": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.4
+      }
+    },
+    "DesvioDeNotas": 0.8410252300020494,
+    "MediaDeNotas": 8.813749999999999,
+    "MediaDeDesvios": 2.05125,
+    "NotaMediana": 9.4
+  },
+  "JOAO BOSCO LUCENA DE OLIVEIRA": {
+    "Notas": [
+      8.18,
+      8.65,
+      8.68,
+      9.07,
+      9.08,
+      9.13,
+      9.23,
+      9.61,
+      9.75
+    ],
+    "Desvios": [
+      1.86,
+      1.53,
+      3.07,
+      2,
+      1.81,
+      1.83,
+      1.08,
+      1.13,
+      1.58
+    ],
+    "Componentes": {
+      "QUI0632 - FISICO-QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.07,
+          9.08,
+          9.13,
+          9.23,
+          9.61
+        ],
+        "Desvios": [
+          1.86,
+          1.53,
+          1.81,
+          1.83,
+          1.13
+        ],
+        "DesvioDeNotas": 0.20115665537088218,
+        "MediaDeNotas": 9.224,
+        "MediaDeDesvios": 1.6320000000000001,
+        "NotaMediana": 9.13
+      },
+      "QUI0659 - PRINCÍPIOS DE FÍSICO-QUÍMICA": {
+        "Notas": [
+          8.18
+        ],
+        "Desvios": [
+          3.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.18,
+        "MediaDeDesvios": 3.07,
+        "NotaMediana": 8.18
+      },
+      "QUI0084 - ELETROQUÍMICA E CINÉTICA QUÍMICA": {
+        "Notas": [
+          8.68
+        ],
+        "Desvios": [
+          2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.68,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 8.68
+      },
+      "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.75
+      },
+      "QUI0601 - QUIMICA FUNDAMENTAL II": {
+        "Notas": [
+          8.65
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 8.65
+      }
+    },
+    "DesvioDeNotas": 0.45910003213479833,
+    "MediaDeNotas": 9.042222222222223,
+    "MediaDeDesvios": 1.7655555555555558,
+    "NotaMediana": 9.08
+  },
+  "JOSE LUIS CARDOZO FONSECA": {
+    "Notas": [
+      8.15,
+      9.02,
+      9.21,
+      9.23,
+      9.28,
+      9.37,
+      9.48
+    ],
+    "Desvios": [
+      1.84,
+      2.32,
+      2.33,
+      2.56,
+      1.39,
+      1.69,
+      1.83
+    ],
+    "Componentes": {
+      "QUI0641 - FÍSICO-QUÍMICA DE SUPERFÍCIES E INTERFACES APLICADA AO PETRÓLEO E GÁS NATURAL": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 9.21
+      },
+      "QUI0600 - QUIMICA FUNDAMENTAL I": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          2.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 2.32,
+        "NotaMediana": 9.37
+      },
+      "QUI0602 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          2.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 2.33,
+        "NotaMediana": 9.23
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          8.15,
+          9.02
+        ],
+        "Desvios": [
+          2.56,
+          1.69
+        ],
+        "DesvioDeNotas": 0.4349999999999996,
+        "MediaDeNotas": 8.585,
+        "MediaDeDesvios": 2.125,
+        "NotaMediana": 9.02
+      },
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.48
+      },
+      "QUI0601 - QUIMICA FUNDAMENTAL II": {
+        "Notas": [
+          9.28
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.28,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.28
+      }
+    },
+    "DesvioDeNotas": 0.41185493780689125,
+    "MediaDeNotas": 9.105714285714285,
+    "MediaDeDesvios": 1.9942857142857144,
+    "NotaMediana": 9.23
+  },
+  "JULIANA DE SOUZA NUNES": {
+    "Notas": [
+      9.36,
+      9.41,
+      9.45,
+      9.57,
+      9.59,
+      9.61,
+      9.66,
+      9.75,
+      9.85,
+      9.88
+    ],
+    "Desvios": [
+      2.14,
+      1.53,
+      2.16,
+      1.07,
+      1.65,
+      1.74,
+      1.82,
+      1.69,
+      1.54,
+      1.39
+    ],
+    "Componentes": {
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          2.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 2.14,
+        "NotaMediana": 9.36
+      },
+      "QUI0671 - QUÍMICA INDUSTRIAL III: PROCESSOS BIOQUÍMICOS": {
+        "Notas": [
+          9.45,
+          9.66
+        ],
+        "Desvios": [
+          1.53,
+          1.82
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.675,
+        "NotaMediana": 9.66
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.41,
+          9.57,
+          9.59,
+          9.85,
+          9.88
+        ],
+        "Desvios": [
+          2.16,
+          1.07,
+          1.74,
+          1.69,
+          1.54
+        ],
+        "DesvioDeNotas": 0.17888543819998323,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.59
+      },
+      "QUI0673 - QUÍMICA INDUSTRIAL IV: PROCESSOS E TECNOLOGIA DE ALIMENTOS": {
+        "Notas": [
+          9.61,
+          9.75
+        ],
+        "Desvios": [
+          1.65,
+          1.39
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.16811008298136096,
+    "MediaDeNotas": 9.613,
+    "MediaDeDesvios": 1.673,
+    "NotaMediana": 9.61
+  },
+  "JÚLIO CÉZAR DE OLIVEIRA FREITAS": {
+    "Notas": [
+      9.09,
+      9.21,
+      9.31,
+      9.37,
+      9.5,
+      9.52,
+      9.52,
+      9.53,
+      9.65,
+      9.91
+    ],
+    "Desvios": [
+      1.99,
+      1.17,
+      1.03,
+      1.16,
+      1.69,
+      1.9,
+      2.31,
+      1.65,
+      1.11,
+      1.35
+    ],
+    "Componentes": {
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.09,
+          9.21,
+          9.31,
+          9.37,
+          9.52,
+          9.53,
+          9.91
+        ],
+        "Desvios": [
+          1.99,
+          1.17,
+          1.69,
+          1.9,
+          2.31,
+          1.65,
+          1.35
+        ],
+        "DesvioDeNotas": 0.24779023386727725,
+        "MediaDeNotas": 9.42,
+        "MediaDeDesvios": 1.7228571428571429,
+        "NotaMediana": 9.37
+      },
+      "QUI0057 - SEMINÁRIOS DE ESTÁGIOS DO CURSO DE QUÍMICA DO PETRÓLEO": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.03,
+        "NotaMediana": 9.52
+      },
+      "QUI0639 - FUNDAMENTOS DE EXPLORACAO E PRODUCAO DE PETROLEO E GAS NAT.": {
+        "Notas": [
+          9.5,
+          9.65
+        ],
+        "Desvios": [
+          1.16,
+          1.11
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.575,
+        "MediaDeDesvios": 1.135,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.21961101975993824,
+    "MediaDeNotas": 9.461000000000002,
+    "MediaDeDesvios": 1.536,
+    "NotaMediana": 9.52
+  },
+  "KASSIO MICHELL GOMES DE LIMA": {
+    "Notas": [
+      9.21,
+      9.27,
+      9.37,
+      9.43,
+      9.62,
+      9.68,
+      9.79,
+      9.81,
+      9.87
+    ],
+    "Desvios": [
+      2.27,
+      1.17,
+      2.56,
+      1.56,
+      2.09,
+      0.48,
+      1.27,
+      1.02,
+      1.58
+    ],
+    "Componentes": {
+      "QUI0068 - MÉTODOS ESPECTROANALÍTICOS": {
+        "Notas": [
+          9.27
+        ],
+        "Desvios": [
+          2.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 2.27,
+        "NotaMediana": 9.27
+      },
+      "QUI0111 - QUIMICA ANALITICA APLICADA": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.68
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.21,
+          9.43
+        ],
+        "Desvios": [
+          2.56,
+          2.09
+        ],
+        "DesvioDeNotas": 0.10999999999999943,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 2.325,
+        "NotaMediana": 9.43
+      },
+      "QUI0603 - QUIMICA ANALITICA QUALITATIVA": {
+        "Notas": [
+          9.62,
+          9.81
+        ],
+        "Desvios": [
+          1.56,
+          1.02
+        ],
+        "DesvioDeNotas": 0.09500000000000064,
+        "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.81
+      },
+      "QUI0089 - ANALISE INSTRUMENTAL APLICADA": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          0.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 0.48,
+        "NotaMediana": 9.87
+      },
+      "QUI0604 - QUIMICA ANALITICA QUANTITATIVA": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.79
+      },
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.2331163011814985,
+    "MediaDeNotas": 9.561111111111112,
+    "MediaDeDesvios": 1.5555555555555556,
+    "NotaMediana": 9.62
+  },
+  "LIVIA NUNES CAVALCANTI": {
+    "Notas": [
+      8.32,
+      8.96,
+      9.16,
+      9.17,
+      9.49,
+      9.54,
+      9.55,
+      9.56,
+      9.79
+    ],
+    "Desvios": [
+      1.49,
+      3.31,
+      2.13,
+      1.75,
+      1.45,
+      2.31,
+      2.14,
+      1.09,
+      1.66
+    ],
+    "Componentes": {
+      "QUI0062 - QUÍMICA ORGÂNICA EXPERIMENTAL I": {
+        "Notas": [
+          8.32,
+          9.49,
+          9.55
+        ],
+        "Desvios": [
+          1.49,
+          3.31,
+          2.13
+        ],
+        "DesvioDeNotas": 0.5662155066756828,
+        "MediaDeNotas": 9.12,
+        "MediaDeDesvios": 2.31,
+        "NotaMediana": 9.49
+      },
+      "QUI0342 - ORGANICA II": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 9.54
+      },
+      "QUI0621 - QUIMICA ORGANICA II": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.56
+      },
+      "QUI0622 - QUIMICA ORGANICA EXPERIMENTAL": {
+        "Notas": [
+          8.96
+        ],
+        "Desvios": [
+          2.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 2.31,
+        "NotaMediana": 8.96
+      },
+      "QUI0620 - QUIMICA ORGANICA I": {
+        "Notas": [
+          9.17
+        ],
+        "Desvios": [
+          2.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 2.14,
+        "NotaMediana": 9.17
+      },
+      "QUI0340 - ORGANICA I": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.79
+      },
+      "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA": {
+        "Notas": [
+          9.16
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.16
+      }
+    },
+    "DesvioDeNotas": 0.4181381424515579,
+    "MediaDeNotas": 9.282222222222222,
+    "MediaDeDesvios": 1.9255555555555555,
+    "NotaMediana": 9.49
+  },
+  "LUCIENE DA SILVA SANTOS": {
+    "Notas": [
+      8.51,
+      8.64,
+      8.69,
+      8.7,
+      8.84,
+      8.86,
+      9.13,
+      9.2,
+      9.34,
+      9.37,
+      9.53,
+      9.64,
+      9.65,
+      9.69,
+      9.71
+    ],
+    "Desvios": [
+      1.32,
+      2.02,
+      1.29,
+      1.35,
+      1.78,
+      1.8,
+      1.87,
+      1.8,
+      1.5,
+      2.06,
+      2.06,
+      1.57,
+      1.61,
+      1.79,
+      1.78
+    ],
+    "Componentes": {
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.53,
+          9.64,
+          9.71
+        ],
+        "Desvios": [
+          1.32,
+          2.02,
+          1.5
+        ],
+        "DesvioDeNotas": 0.07408703590297686,
+        "MediaDeNotas": 9.626666666666667,
+        "MediaDeDesvios": 1.6133333333333333,
+        "NotaMediana": 9.64
+      },
+      "QUI0674.1 - QUÍMICA INDUSTRIAL II - PRÁTICA": {
+        "Notas": [
+          8.7,
+          8.86,
+          9.34,
+          9.65
+        ],
+        "Desvios": [
+          1.29,
+          1.78,
+          2.06,
+          1.57
+        ],
+        "DesvioDeNotas": 0.37817819873705083,
+        "MediaDeNotas": 9.1375,
+        "MediaDeDesvios": 1.6750000000000003,
+        "NotaMediana": 9.34
+      },
+      "QUI0674.0 - QUÍMICA INDUSTRIAL II - TEÓRICA": {
+        "Notas": [
+          8.69,
+          8.84,
+          9.37,
+          9.69
+        ],
+        "Desvios": [
+          1.35,
+          1.8,
+          2.06,
+          1.61
+        ],
+        "DesvioDeNotas": 0.4023912896671596,
+        "MediaDeNotas": 9.147499999999999,
+        "MediaDeDesvios": 1.7050000000000003,
+        "NotaMediana": 9.37
+      },
+      "QUI0675.1 - TÉCNICAS DE CARACTERIZAÇÃO DO PETRÓLEO E GÁS NATURAL -PRÁTICA": {
+        "Notas": [
+          8.64,
+          9.13
+        ],
+        "Desvios": [
+          1.87,
+          1.79
+        ],
+        "DesvioDeNotas": 0.2450000000000001,
+        "MediaDeNotas": 8.885000000000002,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.13
+      },
+      "QUI0675.0 - TÉCNICAS DE CARACTERIZAÇÃO DO PETRÓLEO E GÁS NATURAL -TEÓRICA": {
+        "Notas": [
+          8.51,
+          9.2
+        ],
+        "Desvios": [
+          1.8,
+          1.78
+        ],
+        "DesvioDeNotas": 0.34499999999999975,
+        "MediaDeNotas": 8.855,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.2
+      }
+    },
+    "DesvioDeNotas": 0.4152857115555775,
+    "MediaDeNotas": 9.166666666666666,
+    "MediaDeDesvios": 1.7066666666666666,
+    "NotaMediana": 9.2
+  },
+  "LUIZ HENRIQUE DA SILVA GASPAROTTO": {
+    "Notas": [
+      7.9,
+      9,
+      9.24,
+      9.31,
+      9.54
+    ],
+    "Desvios": [
+      1.45,
+      2.13,
+      1.64,
+      1.85,
+      2.02
+    ],
+    "Componentes": {
+      "QUI0086 - FÍSICO-QUÍMICA DE SUPERFÍCIE E ELETROQUÍMICA": {
+        "Notas": [
+          9.24,
+          9.54
+        ],
+        "Desvios": [
+          1.45,
+          1.85
+        ],
+        "DesvioDeNotas": 0.14999999999999947,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.54
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9,
+          9.31
+        ],
+        "Desvios": [
+          2.13,
+          1.64
+        ],
+        "DesvioDeNotas": 0.15500000000000025,
+        "MediaDeNotas": 9.155000000000001,
+        "MediaDeDesvios": 1.8849999999999998,
+        "NotaMediana": 9.31
+      },
+      "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO": {
+        "Notas": [
+          7.9
+        ],
+        "Desvios": [
+          2.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.9,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 7.9
+      }
+    },
+    "DesvioDeNotas": 0.5753746605473686,
+    "MediaDeNotas": 8.998000000000001,
+    "MediaDeDesvios": 1.818,
+    "NotaMediana": 9.24
+  },
+  "LUIZ SEIXAS DAS NEVES": {
+    "Notas": [
+      8.87,
+      8.94,
+      9.06,
+      9.06,
+      9.21,
+      9.25,
+      9.47,
+      9.48,
+      9.5,
+      9.5,
+      9.57,
+      9.58,
+      9.68,
+      9.71
+    ],
+    "Desvios": [
+      1.59,
+      1.69,
+      2.52,
+      2,
+      1.35,
+      2.19,
+      2.04,
+      1.78,
+      2.63,
+      1.76,
+      2.22,
+      1.48,
+      1.31,
+      1.22
+    ],
+    "Componentes": {
+      "QUI0079 - ENSINO DE QUIMICA II": {
+        "Notas": [
+          8.87,
+          8.94,
+          9.06,
+          9.47,
+          9.5,
+          9.5
+        ],
+        "Desvios": [
+          1.59,
+          1.69,
+          1.35,
+          2.63,
+          1.76,
+          1.48
+        ],
+        "DesvioDeNotas": 0.2725598812901287,
+        "MediaDeNotas": 9.223333333333333,
+        "MediaDeDesvios": 1.7500000000000002,
+        "NotaMediana": 9.47
+      },
+      "QUI0066 - SEMINÁRIOS EM EDUCAÇÃO QUÍMICA": {
+        "Notas": [
+          9.06,
+          9.25,
+          9.48
+        ],
+        "Desvios": [
+          2.52,
+          2,
+          2.22
+        ],
+        "DesvioDeNotas": 0.1717232916318834,
+        "MediaDeNotas": 9.263333333333334,
+        "MediaDeDesvios": 2.2466666666666666,
+        "NotaMediana": 9.25
+      },
+      "QUI0087 - HISTÓRIA E FILOSOFIA DA QUÍMICA": {
+        "Notas": [
+          9.21,
+          9.57,
+          9.58,
+          9.68
+        ],
+        "Desvios": [
+          2.19,
+          2.04,
+          1.31,
+          1.22
+        ],
+        "DesvioDeNotas": 0.17846568297574708,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.6900000000000002,
+        "NotaMediana": 9.58
+      },
+      "QUI0078 - SEMINÁRIOS DE ESTÁGIOS DE LICENCIATURA EM QUÍMICA": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0.2689093618637315,
+    "MediaDeNotas": 9.348571428571429,
+    "MediaDeDesvios": 1.8414285714285712,
+    "NotaMediana": 9.48
+  },
+  "MARCIA GORETTE LIMA DA SILVA": {
+    "Notas": [
+      9.29,
+      9.61,
+      9.68,
+      9.73,
+      9.76,
+      9.94
+    ],
+    "Desvios": [
+      1.45,
+      1.59,
+      1.2,
+      2.23,
+      1.09,
+      1.49
+    ],
+    "Componentes": {
+      "QUI0080 - ENSINO DE QUÍMICA III": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.68
+      },
+      "QUI0085 - ENSINO DE QUIMICA I": {
+        "Notas": [
+          9.61,
+          9.73,
+          9.94
+        ],
+        "Desvios": [
+          1.59,
+          1.09,
+          1.49
+        ],
+        "DesvioDeNotas": 0.13638181696985852,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.73
+      },
+      "QUI0082 - ENSINO DE QUÍMICA V": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.76
+      },
+      "QUI0066 - SEMINÁRIOS EM EDUCAÇÃO QUÍMICA": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          2.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 2.23,
+        "NotaMediana": 9.29
+      }
+    },
+    "DesvioDeNotas": 0.19692779274535027,
+    "MediaDeNotas": 9.668333333333331,
+    "MediaDeDesvios": 1.5083333333333335,
+    "NotaMediana": 9.73
+  },
+  "MARCIA RODRIGUES PEREIRA": {
+    "Notas": [
+      9.16,
+      9.3,
+      9.39,
+      9.4,
+      9.42,
+      9.45,
+      9.72,
+      9.8
+    ],
+    "Desvios": [
+      2.54,
+      2.51,
+      1.53,
+      2.06,
+      1.95,
+      1.9,
+      1.55,
+      1.73
+    ],
+    "Componentes": {
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.4,
+          9.45,
+          9.72,
+          9.8
+        ],
+        "Desvios": [
+          2.54,
+          1.53,
+          1.95,
+          1.55
+        ],
+        "DesvioDeNotas": 0.1707886120325361,
+        "MediaDeNotas": 9.5925,
+        "MediaDeDesvios": 1.8925,
+        "NotaMediana": 9.72
+      },
+      "QUI0601 - QUIMICA FUNDAMENTAL II": {
+        "Notas": [
+          9.16,
+          9.3,
+          9.39,
+          9.42
+        ],
+        "Desvios": [
+          2.51,
+          2.06,
+          1.9,
+          1.73
+        ],
+        "DesvioDeNotas": 0.10108783309577864,
+        "MediaDeNotas": 9.317499999999999,
+        "MediaDeDesvios": 2.0500000000000003,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.19646882704388513,
+    "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 1.9712500000000002,
+    "NotaMediana": 9.42
+  },
+  "MARCIA TEIXEIRA BARROSO": {
+    "Notas": [
+      8.17,
+      8.25,
+      8.96,
+      9.16,
+      9.19,
+      9.24
+    ],
+    "Desvios": [
+      3.35,
+      2.16,
+      2.14,
+      2.89,
+      1.77,
+      1.72
+    ],
+    "Componentes": {
+      "QUI0620 - QUIMICA ORGANICA I": {
+        "Notas": [
+          8.17,
+          8.25,
+          9.24
+        ],
+        "Desvios": [
+          3.35,
+          2.14,
+          2.89
+        ],
+        "DesvioDeNotas": 0.4866438350808755,
+        "MediaDeNotas": 8.553333333333333,
+        "MediaDeDesvios": 2.7933333333333334,
+        "NotaMediana": 8.25
+      },
+      "QUI0340 - ORGANICA I": {
+        "Notas": [
+          9.16
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 9.16
+      },
+      "QUI0341 - ORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          8.96,
+          9.19
+        ],
+        "Desvios": [
+          1.77,
+          1.72
+        ],
+        "DesvioDeNotas": 0.11499999999999932,
+        "MediaDeNotas": 9.075,
+        "MediaDeDesvios": 1.745,
+        "NotaMediana": 9.19
+      }
+    },
+    "DesvioDeNotas": 0.4463711709129772,
+    "MediaDeNotas": 8.828333333333333,
+    "MediaDeDesvios": 2.3383333333333334,
+    "NotaMediana": 9.16
+  },
+  "MARIA DE FATIMA VITORIA DE MOURA": {
+    "Notas": [
+      3.67,
+      8.11,
+      8.27,
+      8.72,
+      8.9,
+      8.97,
+      9.18,
+      9.18,
+      9.32,
+      9.33,
+      9.78
+    ],
+    "Desvios": [
+      1.67,
+      2.23,
+      2.37,
+      2.22,
+      2.03,
+      3.5,
+      1.77,
+      2.48,
+      0.9,
+      1.33,
+      1.64
+    ],
+    "Componentes": {
+      "QUI0111 - QUIMICA ANALITICA APLICADA": {
+        "Notas": [
+          8.97,
+          9.18,
+          9.18,
+          9.32,
+          9.33
+        ],
+        "Desvios": [
+          1.67,
+          2.22,
+          2.03,
+          1.77,
+          1.33
+        ],
+        "DesvioDeNotas": 0.13032267646115914,
+        "MediaDeNotas": 9.196,
+        "MediaDeDesvios": 1.8039999999999998,
+        "NotaMediana": 9.18
+      },
+      "QUI0603 - QUIMICA ANALITICA QUALITATIVA": {
+        "Notas": [
+          8.72
+        ],
+        "Desvios": [
+          2.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.72,
+        "MediaDeDesvios": 2.23,
+        "NotaMediana": 8.72
+      },
+      "QUI0610 - QUIMIOMETRIA": {
+        "Notas": [
+          8.27,
+          8.9
+        ],
+        "Desvios": [
+          2.37,
+          2.48
+        ],
+        "DesvioDeNotas": 0.3150000000000004,
+        "MediaDeNotas": 8.585,
+        "MediaDeDesvios": 2.425,
+        "NotaMediana": 8.9
+      },
+      "QUI0604 - QUIMICA ANALITICA QUANTITATIVA": {
+        "Notas": [
+          3.67
+        ],
+        "Desvios": [
+          3.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 3.67,
+        "MediaDeDesvios": 3.5,
+        "NotaMediana": 3.67
+      },
+      "QUI0083 - MÉTODOS INSTRUMENTAIS DE ANÁLISES": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          0.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 0.9,
+        "NotaMediana": 9.78
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          8.11
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.11,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 8.11
+      }
+    },
+    "DesvioDeNotas": 1.5922326961464162,
+    "MediaDeNotas": 8.493636363636362,
+    "MediaDeDesvios": 2.0127272727272727,
+    "NotaMediana": 8.97
+  },
+  "MARIA GORETTE CAVALCANTE": {
+    "Notas": [
+      9.41,
+      9.47,
+      9.65,
+      9.67,
+      9.73,
+      9.78,
+      9.9,
+      9.91
+    ],
+    "Desvios": [
+      1.61,
+      1.92,
+      1.51,
+      1.7,
+      1.79,
+      0.87,
+      1.25,
+      1.38
+    ],
+    "Componentes": {
+      "QUI0631 - CINETICA QUIMICA": {
+        "Notas": [
+          9.47,
+          9.65
+        ],
+        "Desvios": [
+          1.61,
+          1.79
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.7000000000000002,
+        "NotaMediana": 9.65
+      },
+      "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO": {
+        "Notas": [
+          9.67,
+          9.73
+        ],
+        "Desvios": [
+          1.92,
+          1.7
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.73
+      },
+      "QUI0634 - QUÍMICA QUÂNTICA": {
+        "Notas": [
+          9.41,
+          9.78,
+          9.91
+        ],
+        "Desvios": [
+          1.51,
+          0.87,
+          1.38
+        ],
+        "DesvioDeNotas": 0.2118175315375633,
+        "MediaDeNotas": 9.700000000000001,
+        "MediaDeDesvios": 1.2533333333333332,
+        "NotaMediana": 9.78
+      },
+      "QUI0084 - ELETROQUÍMICA E CINÉTICA QUÍMICA": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.1699264546796642,
+    "MediaDeNotas": 9.690000000000001,
+    "MediaDeDesvios": 1.5037500000000001,
+    "NotaMediana": 9.73
+  },
+  "MARTA COSTA": {
+    "Notas": [
+      6.99,
+      7.3,
+      8.11,
+      8.38,
+      8.88,
+      9.23,
+      9.34,
+      9.52,
+      9.68
+    ],
+    "Desvios": [
+      2.36,
+      3.43,
+      3.44,
+      2.84,
+      2.16,
+      1.6,
+      1.62,
+      1.05,
+      1.57
+    ],
+    "Componentes": {
+      "QUI1004 - PRINCIPIOS DE QUIMICA ORGÂNICA BIOLÓGICA": {
+        "Notas": [
+          8.11
+        ],
+        "Desvios": [
+          2.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.11,
+        "MediaDeDesvios": 2.36,
+        "NotaMediana": 8.11
+      },
+      "QUI0620 - QUIMICA ORGANICA I": {
+        "Notas": [
+          7.3,
+          9.68
+        ],
+        "Desvios": [
+          3.43,
+          1.05
+        ],
+        "DesvioDeNotas": 1.19,
+        "MediaDeNotas": 8.49,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 9.68
+      },
+      "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA": {
+        "Notas": [
+          6.99,
+          8.38
+        ],
+        "Desvios": [
+          3.44,
+          2.84
+        ],
+        "DesvioDeNotas": 0.6950000000000003,
+        "MediaDeNotas": 7.6850000000000005,
+        "MediaDeDesvios": 3.1399999999999997,
+        "NotaMediana": 8.38
+      },
+      "QUI0062 - QUÍMICA ORGÂNICA EXPERIMENTAL I": {
+        "Notas": [
+          8.88,
+          9.23
+        ],
+        "Desvios": [
+          2.16,
+          1.6
+        ],
+        "DesvioDeNotas": 0.17499999999999982,
+        "MediaDeNotas": 9.055,
+        "MediaDeDesvios": 1.8800000000000001,
+        "NotaMediana": 9.23
+      },
+      "QUI0343 - ORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.52
+      },
+      "QUI0063 - QUÍMICA ORGÂNICA EXPERIMENTAL II": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.9193113364542685,
+    "MediaDeNotas": 8.603333333333333,
+    "MediaDeDesvios": 2.23,
+    "NotaMediana": 8.88
+  },
+  "MELQUESEDEQUE DA SILVA FREIRE": {
+    "Notas": [
+      9.48,
+      9.53,
+      9.64,
+      9.75,
+      9.79,
+      9.86,
+      9.87,
+      9.89,
+      9.91,
+      9.95
+    ],
+    "Desvios": [
+      1.45,
+      1.4,
+      1.91,
+      1.28,
+      1.17,
+      1.85,
+      0.93,
+      0.53,
+      0.56,
+      1.3
+    ],
+    "Componentes": {
+      "QUI0080 - ENSINO DE QUÍMICA III": {
+        "Notas": [
+          9.48,
+          9.64,
+          9.75,
+          9.95
+        ],
+        "Desvios": [
+          1.45,
+          1.4,
+          1.85,
+          0.93
+        ],
+        "DesvioDeNotas": 0.17095320997278715,
+        "MediaDeNotas": 9.705,
+        "MediaDeDesvios": 1.4074999999999998,
+        "NotaMediana": 9.75
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 9.79
+      },
+      "QUI0081 - ENSINO DE QUÍMICA IV": {
+        "Notas": [
+          9.87,
+          9.89,
+          9.91
+        ],
+        "Desvios": [
+          1.28,
+          1.17,
+          0.56
+        ],
+        "DesvioDeNotas": 0.016329931618554897,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.0033333333333334,
+        "NotaMediana": 9.89
+      },
+      "QUI0085 - ENSINO DE QUIMICA I": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          0.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 0.53,
+        "NotaMediana": 9.86
+      },
+      "QUI0087 - HISTÓRIA E FILOSOFIA DA QUÍMICA": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.53
+      }
+    },
+    "DesvioDeNotas": 0.1561441641560771,
+    "MediaDeNotas": 9.767,
+    "MediaDeDesvios": 1.238,
+    "NotaMediana": 9.86
+  },
+  "MIGUEL ANGELO FONSECA DE SOUZA": {
+    "Notas": [
+      8.57,
+      8.79,
+      9.39,
+      9.41,
+      9.43,
+      9.5,
+      9.82,
+      9.83
+    ],
+    "Desvios": [
+      2.26,
+      1.82,
+      2.03,
+      1.89,
+      2.71,
+      2.03,
+      1.8,
+      2.12
+    ],
+    "Componentes": {
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          8.79,
+          9.39,
+          9.43,
+          9.5,
+          9.83
+        ],
+        "Desvios": [
+          2.26,
+          1.82,
+          2.03,
+          2.03,
+          2.12
+        ],
+        "DesvioDeNotas": 0.3368323024889392,
+        "MediaDeNotas": 9.388,
+        "MediaDeDesvios": 2.0519999999999996,
+        "NotaMediana": 9.43
+      },
+      "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL": {
+        "Notas": [
+          8.57,
+          9.41
+        ],
+        "Desvios": [
+          1.89,
+          2.71
+        ],
+        "DesvioDeNotas": 0.41999999999999993,
+        "MediaDeNotas": 8.99,
+        "MediaDeDesvios": 2.3,
+        "NotaMediana": 9.41
+      },
+      "QUI0611 - QUIMICA INORGANICA I": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.41936708263763395,
+    "MediaDeNotas": 9.342500000000001,
+    "MediaDeDesvios": 2.0825,
+    "NotaMediana": 9.43
+  },
+  "NEDJA SUELY FERNANDES": {
+    "Notas": [
+      9.32,
+      9.58,
+      9.59,
+      9.64,
+      9.85,
+      9.86,
+      9.91
+    ],
+    "Desvios": [
+      1.33,
+      1.53,
+      1.38,
+      2.19,
+      1.52,
+      1.56,
+      1.3
+    ],
+    "Componentes": {
+      "QUI0111 - QUIMICA ANALITICA APLICADA": {
+        "Notas": [
+          9.58,
+          9.64,
+          9.85
+        ],
+        "Desvios": [
+          1.33,
+          1.52,
+          1.56
+        ],
+        "DesvioDeNotas": 0.11575836902790199,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.64
+      },
+      "QUI0603 - QUIMICA ANALITICA QUALITATIVA": {
+        "Notas": [
+          9.59,
+          9.91
+        ],
+        "Desvios": [
+          1.53,
+          1.38
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.455,
+        "NotaMediana": 9.91
+      },
+      "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 9.32
+      },
+      "QUI0604 - QUIMICA ANALITICA QUANTITATIVA": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.86
+      }
+    },
+    "DesvioDeNotas": 0.19401241281559936,
+    "MediaDeNotas": 9.678571428571429,
+    "MediaDeDesvios": 1.5442857142857143,
+    "NotaMediana": 9.64
+  },
+  "OTOM ANSELMO DE OLIVEIRA": {
+    "Notas": [
+      9.19,
+      9.25,
+      9.32,
+      9.43,
+      9.73
+    ],
+    "Desvios": [
+      0.76,
+      1.73,
+      2.01,
+      1.85,
+      1.9
+    ],
+    "Componentes": {
+      "QUI0615 - QUIMICA INORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          0.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 0.76,
+        "NotaMediana": 9.73
+      },
+      "QUI0612 - QUIMICA INORGANICA II": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.43
+      },
+      "QUI0607 - METODOS ESPECTROSCOPICOS": {
+        "Notas": [
+          9.19,
+          9.32
+        ],
+        "Desvios": [
+          2.01,
+          1.85
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.254999999999999,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.32
+      },
+      "QUI0611 - QUIMICA INORGANICA I": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.25
+      }
+    },
+    "DesvioDeNotas": 0.19053608582103307,
+    "MediaDeNotas": 9.384,
+    "MediaDeDesvios": 1.65,
+    "NotaMediana": 9.32
+  },
+  "PATRICIA FLAVIA DA SILVA DIAS MOREIRA": {
+    "Notas": [
+      8.44,
+      9.11,
+      9.36,
+      9.39,
+      9.4,
+      9.49,
+      9.54,
+      9.55,
+      9.61,
+      9.75,
+      9.78
+    ],
+    "Desvios": [
+      2,
+      1.46,
+      2.14,
+      1.79,
+      1.67,
+      0.8,
+      1.7,
+      1.14,
+      2.32,
+      1.33,
+      0.94
+    ],
+    "Componentes": {
+      "QUI0082 - ENSINO DE QUÍMICA V": {
+        "Notas": [
+          9.39,
+          9.55,
+          9.61,
+          9.75
+        ],
+        "Desvios": [
+          2,
+          1.46,
+          1.7,
+          1.14
+        ],
+        "DesvioDeNotas": 0.1291317157014493,
+        "MediaDeNotas": 9.575,
+        "MediaDeDesvios": 1.575,
+        "NotaMediana": 9.61
+      },
+      "QUI0085 - ENSINO DE QUIMICA I": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          2.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 2.14,
+        "NotaMediana": 9.11
+      },
+      "QUI0079 - ENSINO DE QUIMICA II": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.36
+      },
+      "QUI0081 - ENSINO DE QUÍMICA IV": {
+        "Notas": [
+          9.4,
+          9.49,
+          9.54,
+          9.78
+        ],
+        "Desvios": [
+          1.67,
+          0.8,
+          1.33,
+          0.94
+        ],
+        "DesvioDeNotas": 0.1406013869063883,
+        "MediaDeNotas": 9.5525,
+        "MediaDeDesvios": 1.185,
+        "NotaMediana": 9.54
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          8.44
+        ],
+        "Desvios": [
+          2.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.44,
+        "MediaDeDesvios": 2.32,
+        "NotaMediana": 8.44
+      }
+    },
+    "DesvioDeNotas": 0.35272492970168395,
+    "MediaDeNotas": 9.40181818181818,
+    "MediaDeDesvios": 1.571818181818182,
+    "NotaMediana": 9.49
+  },
+  "PAULO ROBERTO PAIVA CAMPOS": {
+    "Notas": [
+      8.88,
+      9.18,
+      9.3,
+      9.61
+    ],
+    "Desvios": [
+      2.29,
+      2.08,
+      2.2,
+      1.69
+    ],
+    "Componentes": {
+      "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA": {
+        "Notas": [
+          8.88,
+          9.18,
+          9.3,
+          9.61
+        ],
+        "Desvios": [
+          2.29,
+          2.08,
+          2.2,
+          1.69
+        ],
+        "DesvioDeNotas": 0.26156978036462813,
+        "MediaDeNotas": 9.2425,
+        "MediaDeDesvios": 2.065,
+        "NotaMediana": 9.3
+      }
+    },
+    "DesvioDeNotas": 0.26156978036462813,
+    "MediaDeNotas": 9.2425,
+    "MediaDeDesvios": 2.065,
+    "NotaMediana": 9.3
+  },
+  "POLLYANA SOUZA CASTRO": {
+    "Notas": [
+      8.47,
+      9,
+      9.61,
+      9.63,
+      9.71,
+      9.72,
+      9.93
+    ],
+    "Desvios": [
+      2.39,
+      1.72,
+      1.46,
+      1.43,
+      1.18,
+      1.38,
+      2.05
+    ],
+    "Componentes": {
+      "QUI0068 - MÉTODOS ESPECTROANALÍTICOS": {
+        "Notas": [
+          8.47,
+          9.93
+        ],
+        "Desvios": [
+          2.39,
+          1.43
+        ],
+        "DesvioDeNotas": 0.7299999999999995,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.9100000000000001,
+        "NotaMediana": 9.93
+      },
+      "QUI0644 - QUIMICA AMBIENTAL": {
+        "Notas": [
+          9.61,
+          9.63
+        ],
+        "Desvios": [
+          1.72,
+          1.38
+        ],
+        "DesvioDeNotas": 0.010000000000000675,
+        "MediaDeNotas": 9.620000000000001,
+        "MediaDeDesvios": 1.5499999999999998,
+        "NotaMediana": 9.63
+      },
+      "QUI1000 - QUÍMICA AMBIENTAL": {
+        "Notas": [
+          9.71,
+          9.72
+        ],
+        "Desvios": [
+          1.46,
+          1.18
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 1.3199999999999998,
+        "NotaMediana": 9.72
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          2.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 9
+      }
+    },
+    "DesvioDeNotas": 0.47672779209429567,
+    "MediaDeNotas": 9.438571428571427,
+    "MediaDeDesvios": 1.6585714285714286,
+    "NotaMediana": 9.63
+  },
+  "RENATA MENDONÇA ARAUJO": {
+    "Notas": [
+      8.92,
+      8.92,
+      8.93,
+      9,
+      9.32,
+      9.5
+    ],
+    "Desvios": [
+      2.05,
+      1.44,
+      2.29,
+      2.39,
+      1.68,
+      1.72
+    ],
+    "Componentes": {
+      "QUI0204 - QUIMICA ORGANICA III": {
+        "Notas": [
+          9,
+          9.32
+        ],
+        "Desvios": [
+          2.05,
+          1.68
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.8649999999999998,
+        "NotaMediana": 9.32
+      },
+      "QUI0624 - ANALISE FUNCIONAL ORGANICA": {
+        "Notas": [
+          8.92,
+          9.5
+        ],
+        "Desvios": [
+          1.44,
+          1.72
+        ],
+        "DesvioDeNotas": 0.29000000000000004,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.5
+      },
+      "QUI1004 - PRINCIPIOS DE QUIMICA ORGÂNICA BIOLÓGICA": {
+        "Notas": [
+          8.92
+        ],
+        "Desvios": [
+          2.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.92,
+        "MediaDeDesvios": 2.29,
+        "NotaMediana": 8.92
+      },
+      "QUI0341 - ORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          8.93
+        ],
+        "Desvios": [
+          2.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.93,
+        "MediaDeDesvios": 2.39,
+        "NotaMediana": 8.93
+      }
+    },
+    "DesvioDeNotas": 0.2280655363900669,
+    "MediaDeNotas": 9.098333333333334,
+    "MediaDeDesvios": 1.9283333333333335,
+    "NotaMediana": 9
+  },
+  "RICARDO SILVEIRA NASAR": {
+    "Notas": [
+      6.27,
+      6.95,
+      6.96,
+      7.35,
+      7.5,
+      7.73,
+      8.43,
+      8.55,
+      8.64,
+      8.65,
+      9.47
+    ],
+    "Desvios": [
+      3.36,
+      2.91,
+      3.29,
+      2.54,
+      2,
+      3.27,
+      3.12,
+      2.84,
+      1.8,
+      2.45,
+      1.41
+    ],
+    "Componentes": {
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          6.27,
+          6.96,
+          7.35,
+          8.43,
+          8.55,
+          8.65
+        ],
+        "Desvios": [
+          3.36,
+          2.91,
+          2.54,
+          3.27,
+          3.12,
+          1.8
+        ],
+        "DesvioDeNotas": 0.9011921117177085,
+        "MediaDeNotas": 7.701666666666668,
+        "MediaDeDesvios": 2.8333333333333335,
+        "NotaMediana": 8.43
+      },
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          6.95,
+          7.5,
+          8.64,
+          9.47
+        ],
+        "Desvios": [
+          3.29,
+          2,
+          2.84,
+          1.41
+        ],
+        "DesvioDeNotas": 0.9803825783845816,
+        "MediaDeNotas": 8.14,
+        "MediaDeDesvios": 2.385,
+        "NotaMediana": 8.64
+      },
+      "QUI0510 - QUIMICA FUNDAMENTAL I": {
+        "Notas": [
+          7.73
+        ],
+        "Desvios": [
+          2.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.73,
+        "MediaDeDesvios": 2.45,
+        "NotaMediana": 7.73
+      }
+    },
+    "DesvioDeNotas": 0.9144424304884842,
+    "MediaDeNotas": 7.863636363636363,
+    "MediaDeDesvios": 2.6354545454545453,
+    "NotaMediana": 7.73
+  },
+  "ROBSON FERNANDES DE FARIAS": {
+    "Notas": [
+      6.36,
+      6.9,
+      7.38,
+      7.76,
+      7.78,
+      8.18,
+      8.25,
+      8.29,
+      8.41,
+      8.55,
+      8.91,
+      9.36
+    ],
+    "Desvios": [
+      2.94,
+      2.74,
+      2.52,
+      3.28,
+      2.39,
+      3.29,
+      3.55,
+      3.53,
+      3.57,
+      2.02,
+      1.28,
+      1.77
+    ],
+    "Componentes": {
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          6.36,
+          7.38,
+          7.76,
+          7.78,
+          8.25,
+          8.29,
+          8.41
+        ],
+        "Desvios": [
+          2.94,
+          2.74,
+          3.28,
+          3.53,
+          3.57,
+          1.28,
+          1.77
+        ],
+        "DesvioDeNotas": 0.6597773279288849,
+        "MediaDeNotas": 7.747142857142857,
+        "MediaDeDesvios": 2.73,
+        "NotaMediana": 7.78
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          8.55
+        ],
+        "Desvios": [
+          2.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.55,
+        "MediaDeDesvios": 2.52,
+        "NotaMediana": 8.55
+      },
+      "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          2.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 2.39,
+        "NotaMediana": 9.36
+      },
+      "QUI0611 - QUIMICA INORGANICA I": {
+        "Notas": [
+          8.18
+        ],
+        "Desvios": [
+          3.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.18,
+        "MediaDeDesvios": 3.29,
+        "NotaMediana": 8.18
+      },
+      "QUI0600 - QUIMICA FUNDAMENTAL I": {
+        "Notas": [
+          6.9,
+          8.91
+        ],
+        "Desvios": [
+          3.55,
+          2.02
+        ],
+        "DesvioDeNotas": 1.005,
+        "MediaDeNotas": 7.905,
+        "MediaDeDesvios": 2.785,
+        "NotaMediana": 8.91
+      }
+    },
+    "DesvioDeNotas": 0.8018671786662813,
+    "MediaDeNotas": 8.010833333333332,
+    "MediaDeDesvios": 2.74,
+    "NotaMediana": 8.25
+  },
+  "ROSANGELA DE CARVALHO BALABAN": {
+    "Notas": [
+      8.64,
+      9.02,
+      9.07,
+      9.37,
+      9.66,
+      9.81,
+      9.85
+    ],
+    "Desvios": [
+      1.58,
+      2,
+      1.71,
+      1.64,
+      0.84,
+      1.51,
+      1.55
+    ],
+    "Componentes": {
+      "QUI0640 - REOLOGIA APLICADA À FLUIDOS DE PERFURAÇÃO": {
+        "Notas": [
+          8.64,
+          9.81
+        ],
+        "Desvios": [
+          1.58,
+          0.84
+        ],
+        "DesvioDeNotas": 0.585,
+        "MediaDeNotas": 9.225000000000001,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.81
+      },
+      "QUI0091 - COMPOSIÇÃO E PROPRIEDADES DE FLUIDOS DE PERFURAÇÃO E COMPLETAÇÃO": {
+        "Notas": [
+          9.07,
+          9.85
+        ],
+        "Desvios": [
+          2,
+          1.51
+        ],
+        "DesvioDeNotas": 0.3899999999999997,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.755,
+        "NotaMediana": 9.85
+      },
+      "QUI0625 - QUÍMICA DOS POLÍMEROS": {
+        "Notas": [
+          9.02,
+          9.66
+        ],
+        "Desvios": [
+          1.71,
+          1.55
+        ],
+        "DesvioDeNotas": 0.3200000000000003,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.66
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.42247086604056044,
+    "MediaDeNotas": 9.345714285714285,
+    "MediaDeDesvios": 1.5471428571428572,
+    "NotaMediana": 9.37
+  },
+  "SIBELE BERENICE CASTELLA PERGHER": {
+    "Notas": [
+      9,
+      9.11,
+      9.13
+    ],
+    "Desvios": [
+      1.72,
+      1.8,
+      1.47
+    ],
+    "Componentes": {
+      "QUI0670 - QUÍMICA INDUSTRIAL I: PROCESSOS QUÍMICOS INORGÂNICOS": {
+        "Notas": [
+          9,
+          9.13
+        ],
+        "Desvios": [
+          1.72,
+          1.8
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.065000000000001,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.13
+      },
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.11
+      }
+    },
+    "DesvioDeNotas": 0.057154760664940955,
+    "MediaDeNotas": 9.08,
+    "MediaDeDesvios": 1.6633333333333333,
+    "NotaMediana": 9.11
+  },
+  "TIAGO PINHEIRO BRAGA": {
+    "Notas": [
+      8.86,
+      8.95,
+      9.38,
+      9.39,
+      9.49,
+      9.68
+    ],
+    "Desvios": [
+      2.36,
+      2.19,
+      2.19,
+      1.51,
+      1.23,
+      1.19
+    ],
+    "Componentes": {
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          2.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 2.36,
+        "NotaMediana": 9.49
+      },
+      "QUI0013 - FISICO-QUIMICA BASICA": {
+        "Notas": [
+          8.95
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 8.95
+      },
+      "QUI0632 - FISICO-QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          8.86,
+          9.68
+        ],
+        "Desvios": [
+          2.19,
+          1.23
+        ],
+        "DesvioDeNotas": 0.41000000000000014,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.68
+      },
+      "QUI0084 - ELETROQUÍMICA E CINÉTICA QUÍMICA": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.39
+      },
+      "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO": {
+        "Notas": [
+          9.38
+        ],
+        "Desvios": [
+          1.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.38
+      }
+    },
+    "DesvioDeNotas": 0.29174284719404703,
+    "MediaDeNotas": 9.291666666666666,
+    "MediaDeDesvios": 1.7783333333333333,
+    "NotaMediana": 9.39
+  },
+  "VALTER JOSE FERNANDES JUNIOR": {
+    "Notas": [
+      9.21,
+      9.57,
+      9.63,
+      9.74,
+      9.88,
+      9.9
+    ],
+    "Desvios": [
+      1.08,
+      2.04,
+      1.75,
+      0.36,
+      1.67,
+      1.37
+    ],
+    "Componentes": {
+      "QUI0111 - QUIMICA ANALITICA APLICADA": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.74
+      },
+      "QUI0083 - MÉTODOS INSTRUMENTAIS DE ANÁLISES": {
+        "Notas": [
+          9.57,
+          9.63,
+          9.88
+        ],
+        "Desvios": [
+          2.04,
+          1.67,
+          1.37
+        ],
+        "DesvioDeNotas": 0.1342468704373486,
+        "MediaDeNotas": 9.693333333333335,
+        "MediaDeDesvios": 1.6933333333333334,
+        "NotaMediana": 9.63
+      },
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 9.21
+      },
+      "QUI0089 - ANALISE INSTRUMENTAL APLICADA": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          0.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.36,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.23228933107943914,
+    "MediaDeNotas": 9.655000000000001,
+    "MediaDeDesvios": 1.3783333333333332,
+    "NotaMediana": 9.74
+  },
+  "DULCE MARIA DE ARAUJO MELO": {
+    "Notas": [
+      8.89,
+      8.96,
+      9.07,
+      9.28,
+      9.48,
+      9.5
+    ],
+    "Desvios": [
+      2.07,
+      1.79,
+      2.1,
+      1.58,
+      1.56,
+      1.32
+    ],
+    "Componentes": {
+      "QUI0311 - QUIMICA BASICA": {
+        "Notas": [
+          8.96
+        ],
+        "Desvios": [
+          2.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 2.07,
+        "NotaMediana": 8.96
+      },
+      "QUI0611 - QUIMICA INORGANICA I": {
+        "Notas": [
+          8.89,
+          9.28
+        ],
+        "Desvios": [
+          1.79,
+          1.32
+        ],
+        "DesvioDeNotas": 0.1949999999999994,
+        "MediaDeNotas": 9.085,
+        "MediaDeDesvios": 1.5550000000000002,
+        "NotaMediana": 9.28
+      },
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.48
+      },
+      "QUI0615 - QUIMICA INORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.5
+      },
+      "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.07
+      }
+    },
+    "DesvioDeNotas": 0.23990738953928753,
+    "MediaDeNotas": 9.196666666666667,
+    "MediaDeDesvios": 1.7366666666666666,
+    "NotaMediana": 9.28
+  },
+  "Fernanda Marur Mazze": {
+    "Notas": [
+      8.44,
+      8.9,
+      9.07,
+      9.33,
+      9.52,
+      9.55
+    ],
+    "Desvios": [
+      1.99,
+      2.37,
+      1.81,
+      1.51,
+      1.31,
+      0.96
+    ],
+    "Componentes": {
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          1.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.07
+      },
+      "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO": {
+        "Notas": [
+          8.44,
+          8.9,
+          9.55
+        ],
+        "Desvios": [
+          2.37,
+          1.51,
+          0.96
+        ],
+        "DesvioDeNotas": 0.45536310297998017,
+        "MediaDeNotas": 8.963333333333333,
+        "MediaDeDesvios": 1.6133333333333333,
+        "NotaMediana": 8.9
+      },
+      "QUI0659 - PRINCÍPIOS DE FÍSICO-QUÍMICA": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.52
+      },
+      "QUI0678 - PRINCÍPIOS DE TERMODINÂMICA QUÍMICA": {
+        "Notas": [
+          9.33
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.33
+      }
+    },
+    "DesvioDeNotas": 0.387502688162719,
+    "MediaDeNotas": 9.135,
+    "MediaDeDesvios": 1.6583333333333332,
+    "NotaMediana": 9.33
+  },
+  "GRAZIELLE TAVARES MALCHER": {
+    "Notas": [
+      8.91,
+      8.93,
+      9.38,
+      9.5,
+      9.52,
+      9.54,
+      9.68,
+      9.7,
+      9.73,
+      9.83
+    ],
+    "Desvios": [
+      1.73,
+      2.4,
+      1.16,
+      1.51,
+      1.85,
+      1.64,
+      1.34,
+      1.04,
+      0.99,
+      1.4
+    ],
+    "Componentes": {
+      "QUI0341 - ORGANICA EXPERIMENTAL I": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.5
+      },
+      "QUI0343 - ORGANICA EXPERIMENTAL II": {
+        "Notas": [
+          8.93,
+          9.38,
+          9.68
+        ],
+        "Desvios": [
+          2.4,
+          1.85,
+          1.04
+        ],
+        "DesvioDeNotas": 0.3082207001484489,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.7633333333333334,
+        "NotaMediana": 9.38
+      },
+      "QUI0622 - QUIMICA ORGANICA EXPERIMENTAL": {
+        "Notas": [
+          9.7,
+          9.83
+        ],
+        "Desvios": [
+          1.16,
+          0.99
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.765,
+        "MediaDeDesvios": 1.075,
+        "NotaMediana": 9.83
+      },
+      "QUI0620 - QUIMICA ORGANICA I": {
+        "Notas": [
+          9.52,
+          9.73
+        ],
+        "Desvios": [
+          1.51,
+          1.4
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.625,
+        "MediaDeDesvios": 1.455,
+        "NotaMediana": 9.73
+      },
+      "QUI1004 - PRINCIPIOS DE QUIMICA ORGÂNICA BIOLÓGICA": {
+        "Notas": [
+          8.91
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.91,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 8.91
+      },
+      "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.54
+      }
+    },
+    "DesvioDeNotas": 0.3026152672949598,
+    "MediaDeNotas": 9.472,
+    "MediaDeDesvios": 1.5060000000000002,
+    "NotaMediana": 9.54
+  },
+  "RUSCELI DIEGO DE ARAUJO": {
+    "Notas": [
+      8.38,
+      9.55,
+      9.65,
+      9.91
+    ],
+    "Desvios": [
+      1.34,
+      1.45,
+      1.7,
+      1.2
+    ],
+    "Componentes": {
+      "QUI0312 - QUIMICA EXPERIMENTAL": {
+        "Notas": [
+          9.65,
+          9.91
+        ],
+        "Desvios": [
+          1.34,
+          1.45
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.780000000000001,
+        "MediaDeDesvios": 1.395,
+        "NotaMediana": 9.91
+      },
+      "QUI0070 - QUIMICA GERAL E INORGANICA": {
+        "Notas": [
+          8.38
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.38,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 8.38
+      },
+      "QUI0250 - QUIMICA ORGANICA BIOLOGICA BASICA": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.5878934852505169,
+    "MediaDeNotas": 9.372500000000002,
+    "MediaDeDesvios": 1.4225,
+    "NotaMediana": 9.65
+  }
+}

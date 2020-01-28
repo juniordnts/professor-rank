@@ -1,0 +1,1631 @@
+[
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0095 - GOVERNO E POLÍTICAS PÚBLICAS COMPARADAS",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "12",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0095 - GOVERNO E POLÍTICAS PÚBLICAS COMPARADAS",
+        "Turma": "2",
+        "Horário": "5T1234",
+        "Discentes": "7",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0054 - TÓPICOS ESPECIAIS V",
+        "Turma": "2",
+        "Horário": "3N34",
+        "Discentes": "23",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "ALEXSANDRO FERREIRA CARDOSO DA SILVA",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "2",
+        "Horário": "3N12 5N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "34",
+        "Média Geral": "8.5",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "ANDERSON CRISTOPHER DOS SANTOS",
+        "Componente Curricular": "DPP0081 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA II",
+        "Turma": "1",
+        "Horário": "3N34 5N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "34",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "ANDERSON CRISTOPHER DOS SANTOS",
+        "Componente Curricular": "DPP0104 - TÓPICOS ESPECIAIS II",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "18",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "ANDERSON CRISTOPHER DOS SANTOS",
+        "Componente Curricular": "DPP0104 - TÓPICOS ESPECIAIS II",
+        "Turma": "2",
+        "Horário": "3T12",
+        "Discentes": "20",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "CLAUDIO ROBERTO DE JESUS",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "2",
+        "Horário": "3N12 5N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "34",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0078 - AGENDA CONTEMPORÂNEA II",
+        "Turma": "1",
+        "Horário": "4T34",
+        "Discentes": "33",
+        "Média Geral": "8.63",
+        "Desvio Padrão Geral": "2.59"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0078 - AGENDA CONTEMPORÂNEA II",
+        "Turma": "2",
+        "Horário": "4N34",
+        "Discentes": "22",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0081 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA II",
+        "Turma": "1",
+        "Horário": "3N34 5N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "34",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0042 - CULTURA ORGANIZACIONAL",
+        "Turma": "1",
+        "Horário": "6N34",
+        "Discentes": "16",
+        "Média Geral": "7.73",
+        "Desvio Padrão Geral": "2.72"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0042 - CULTURA ORGANIZACIONAL",
+        "Turma": "2",
+        "Horário": "6T34",
+        "Discentes": "18",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0103 - TÓPICOS ESPECIAIS I",
+        "Turma": "1",
+        "Horário": "3N12",
+        "Discentes": "33",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0103 - TÓPICOS ESPECIAIS I",
+        "Turma": "2",
+        "Horário": "3T12",
+        "Discentes": "6",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "FERNANDO MANUEL ROCHA DA CRUZ",
+        "Componente Curricular": "DPP0081 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA II",
+        "Turma": "1",
+        "Horário": "3N34 5N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "34",
+        "Média Geral": "7.44",
+        "Desvio Padrão Geral": "2.78"
+    },
+    {
+        "Docente": "FERNANDO MANUEL ROCHA DA CRUZ",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "1",
+        "Horário": "3T12 5T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "28",
+        "Média Geral": "8.45",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "JOANA TEREZA VAZ DE MOURA",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "1",
+        "Horário": "3T12 5T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "28",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "JOSÉ GOMES FERREIRA",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "2",
+        "Horário": "3N12 5N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "34",
+        "Média Geral": "7.93",
+        "Desvio Padrão Geral": "2.95"
+    },
+    {
+        "Docente": "LINDIJANE DE SOUZA BENTO ALMEIDA",
+        "Componente Curricular": "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI",
+        "Turma": "1",
+        "Horário": "2N34 4N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "37",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "LINDIJANE DE SOUZA BENTO ALMEIDA",
+        "Componente Curricular": "DPP0092 - GESTÃO PÚBLICA NO BRASIL CONTEMPORÂNEO",
+        "Turma": "2",
+        "Horário": "2T1234",
+        "Discentes": "52",
+        "Média Geral": "8.67",
+        "Desvio Padrão Geral": "2.81"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0062 - AS AGÊNCIAS MULTILATERAIS",
+        "Turma": "1",
+        "Horário": "5N12",
+        "Discentes": "28",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0062 - AS AGÊNCIAS MULTILATERAIS",
+        "Turma": "2",
+        "Horário": "5T12",
+        "Discentes": "14",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI",
+        "Turma": "1",
+        "Horário": "2N34 4N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "37",
+        "Média Geral": "9.92",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0091 - GESTÃO MUNICIPAL E METROPOLITANA",
+        "Turma": "1",
+        "Horário": "5N34",
+        "Discentes": "27",
+        "Média Geral": "9.92",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "RAYANE DAYSE DA SILVA OLIVEIRA",
+        "Componente Curricular": "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI",
+        "Turma": "2",
+        "Horário": "2T34 4T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "27",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "RAYANE DAYSE DA SILVA OLIVEIRA",
+        "Componente Curricular": "DPP0093 - GESTÃO PARTICIPATIVA",
+        "Turma": "1",
+        "Horário": "6N34",
+        "Discentes": "21",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "RAYANE DAYSE DA SILVA OLIVEIRA",
+        "Componente Curricular": "DPP0093 - GESTÃO PARTICIPATIVA",
+        "Turma": "2",
+        "Horário": "6T34",
+        "Discentes": "15",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "RAYANE DAYSE DA SILVA OLIVEIRA",
+        "Componente Curricular": "DPP0023 - ORGANIZAÇÃO DO ESTADO BRASILEIRO",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "50",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "RAYANE DAYSE DA SILVA OLIVEIRA",
+        "Componente Curricular": "DPP0023 - ORGANIZAÇÃO DO ESTADO BRASILEIRO",
+        "Turma": "2",
+        "Horário": "6T12",
+        "Discentes": "40",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "RAYANE DAYSE DA SILVA OLIVEIRA",
+        "Componente Curricular": "DPP0099 - ORGANIZAÇÕES SOCIAIS NA GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "2N12",
+        "Discentes": "53",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "RAYANE DAYSE DA SILVA OLIVEIRA",
+        "Componente Curricular": "DPP0099 - ORGANIZAÇÕES SOCIAIS NA GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "2T12",
+        "Discentes": "29",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "RICHARDSON LEONARDI MOURA DA CAMARA",
+        "Componente Curricular": "DPP0041 - CULTURA POLÍTICA E ENGAJAMENTO CÍVICO",
+        "Turma": "1",
+        "Horário": "2N34",
+        "Discentes": "16",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "RICHARDSON LEONARDI MOURA DA CAMARA",
+        "Componente Curricular": "DPP0041 - CULTURA POLÍTICA E ENGAJAMENTO CÍVICO",
+        "Turma": "2",
+        "Horário": "2T34",
+        "Discentes": "14",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "RICHARDSON LEONARDI MOURA DA CAMARA",
+        "Componente Curricular": "DPP0089 - ESTADO, GOVERNO E SOCIEDADE CIVIL",
+        "Turma": "1",
+        "Horário": "6N34",
+        "Discentes": "35",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "RICHARDSON LEONARDI MOURA DA CAMARA",
+        "Componente Curricular": "DPP0089 - ESTADO, GOVERNO E SOCIEDADE CIVIL",
+        "Turma": "2",
+        "Horário": "6T34",
+        "Discentes": "38",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "RICHARDSON LEONARDI MOURA DA CAMARA",
+        "Componente Curricular": "DPP0091 - GESTÃO MUNICIPAL E METROPOLITANA",
+        "Turma": "2",
+        "Horário": "5T34",
+        "Discentes": "15",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "RICHARDSON LEONARDI MOURA DA CAMARA",
+        "Componente Curricular": "DPP0043 - ORÇAMENTO E FINANCIAMENTO DO SETOR PÚBLICO BRASILEIRO",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "24",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "RICHARDSON LEONARDI MOURA DA CAMARA",
+        "Componente Curricular": "DPP0043 - ORÇAMENTO E FINANCIAMENTO DO SETOR PÚBLICO BRASILEIRO",
+        "Turma": "2",
+        "Horário": "6T12",
+        "Discentes": "19",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI",
+        "Turma": "1",
+        "Horário": "2N34 4N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "37",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI",
+        "Turma": "2",
+        "Horário": "2T34 4T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "27",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "SANDRA CRISTINA GOMES",
+        "Componente Curricular": "DPP0092 - GESTÃO PÚBLICA NO BRASIL CONTEMPORÂNEO",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "44",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "SARA RAQUEL FERNANDES QUEIROZ DE MEDEIROS",
+        "Componente Curricular": "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI",
+        "Turma": "2",
+        "Horário": "2T34 4T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "27",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "SARA RAQUEL FERNANDES QUEIROZ DE MEDEIROS",
+        "Componente Curricular": "DPP0054 - TÓPICOS ESPECIAIS V",
+        "Turma": "1",
+        "Horário": "3T34",
+        "Discentes": "27",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0081 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA II",
+        "Turma": "2",
+        "Horário": "3T34 5T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "40",
+        "Média Geral": "6.66",
+        "Desvio Padrão Geral": "3.03"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "2",
+        "Horário": "3N12 5N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "34",
+        "Média Geral": "6.48",
+        "Desvio Padrão Geral": "3.23"
+    },
+    {
+        "Docente": "WINIFRED KNOX",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "1",
+        "Horário": "3T12 5T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "28",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "ZORAIDE SOUZA PESSOA",
+        "Componente Curricular": "DPP0081 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA II",
+        "Turma": "2",
+        "Horário": "3T34 5T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "40",
+        "Média Geral": "7.55",
+        "Desvio Padrão Geral": "2.74"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0032 - ESTADO DE DIREITO E CIDADANIA",
+        "Turma": "2",
+        "Horário": "3N12",
+        "Discentes": "46",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0032 - ESTADO DE DIREITO E CIDADANIA",
+        "Turma": "3",
+        "Horário": "3T12",
+        "Discentes": "14",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0034 - PARTIDOS POLÍTICOS E ELEIÇÕES NO BRASIL",
+        "Turma": "1",
+        "Horário": "6T12",
+        "Discentes": "11",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0034 - PARTIDOS POLÍTICOS E ELEIÇÕES NO BRASIL",
+        "Turma": "2",
+        "Horário": "6N12",
+        "Discentes": "17",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0033 - SISTEMAS ELEITORAIS E PARTIDÁRIOS",
+        "Turma": "1",
+        "Horário": "6T34",
+        "Discentes": "16",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "ALEXSANDRO FERREIRA CARDOSO DA SILVA",
+        "Componente Curricular": "DPP0084 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA V",
+        "Turma": "1",
+        "Horário": "2T34 5T1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "29",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "ANDERSON CRISTOPHER DOS SANTOS",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "2",
+        "Horário": "3N34 5N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "38",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "CAROLINE SOUZA DOS SANTOS",
+        "Componente Curricular": "DPP0094 - GOVERNANÇA E INSTRUMENTOS DE GESTÃO PÚBLICA",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "22",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "CAROLINE SOUZA DOS SANTOS",
+        "Componente Curricular": "DPP0094 - GOVERNANÇA E INSTRUMENTOS DE GESTÃO PÚBLICA",
+        "Turma": "2",
+        "Horário": "4N12",
+        "Discentes": "35",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "CAROLINE SOUZA DOS SANTOS",
+        "Componente Curricular": "DPP0096 - INTRODUÇÃO ÀS POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "57",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "CAROLINE SOUZA DOS SANTOS",
+        "Componente Curricular": "DPP0096 - INTRODUÇÃO ÀS POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "6N1234",
+        "Discentes": "44",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "CAROLINE SOUZA DOS SANTOS",
+        "Componente Curricular": "DPP0101 - SOCIEDADE, AMBIENTE E POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "3N1234",
+        "Discentes": "11",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "CLAUDIO ROBERTO DE JESUS",
+        "Componente Curricular": "DPP0109 - ÉTICA NA GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "33",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "CLAUDIO ROBERTO DE JESUS",
+        "Componente Curricular": "DPP0109 - ÉTICA NA GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "4N12",
+        "Discentes": "45",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0084 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA V",
+        "Turma": "2",
+        "Horário": "2N34 5N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "29",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0086 - DEMOCRACIA E PARTICIPAÇÃO NA GESTÃO PÚBLICA",
+        "Turma": "1",
+        "Horário": "3T1234",
+        "Discentes": "28",
+        "Média Geral": "7.95",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0086 - DEMOCRACIA E PARTICIPAÇÃO NA GESTÃO PÚBLICA",
+        "Turma": "2",
+        "Horário": "3N1234",
+        "Discentes": "36",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0108 - GESTÃO E INSTITUIÇÕES SOCIAIS",
+        "Turma": "2",
+        "Horário": "4N12",
+        "Discentes": "12",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "DANIEL GONCALVES DE MENEZES",
+        "Componente Curricular": "DPP0033 - SISTEMAS ELEITORAIS E PARTIDÁRIOS",
+        "Turma": "2",
+        "Horário": "6N34",
+        "Discentes": "7",
+        "Média Geral": "8.24",
+        "Desvio Padrão Geral": "2.4"
+    },
+    {
+        "Docente": "FERNANDO MANUEL ROCHA DA CRUZ",
+        "Componente Curricular": "DPP0079 - ANÁLISES QUANTITATIVAS E QUALITATIVAS APLICADOS À GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "52",
+        "Média Geral": "8.4",
+        "Desvio Padrão Geral": "2.42"
+    },
+    {
+        "Docente": "FERNANDO MANUEL ROCHA DA CRUZ",
+        "Componente Curricular": "DPP0079 - ANÁLISES QUANTITATIVAS E QUALITATIVAS APLICADOS À GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "2N12",
+        "Discentes": "46",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "FERNANDO MANUEL ROCHA DA CRUZ",
+        "Componente Curricular": "DPP0084 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA V",
+        "Turma": "2",
+        "Horário": "2N34 5N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "29",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "JOANA TEREZA VAZ DE MOURA",
+        "Componente Curricular": "DPP0077 - AGENDA CONTEMPORÂNEA I",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "54",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "JOANA TEREZA VAZ DE MOURA",
+        "Componente Curricular": "DPP0077 - AGENDA CONTEMPORÂNEA I",
+        "Turma": "2",
+        "Horário": "3N12",
+        "Discentes": "47",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "JOANA TEREZA VAZ DE MOURA",
+        "Componente Curricular": "DPP0080 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA I",
+        "Turma": "2",
+        "Horário": "3N34 5N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "45",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "JOSÉ GOMES FERREIRA",
+        "Componente Curricular": "DPP0084 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA V",
+        "Turma": "1",
+        "Horário": "2T34 5T1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "29",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "LINDIJANE DE SOUZA BENTO ALMEIDA",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "1",
+        "Horário": "3T34 5T1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "30",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "MARIA DO LIVRAMENTO MIRANDA CLEMENTINO",
+        "Componente Curricular": "DPP0087 - DESENVOLVIMENTO E POLÍTICAS PÚBLICAS NO BRASIL E NO RIO GRANDE DO NORTE",
+        "Turma": "1",
+        "Horário": "2T1234",
+        "Discentes": "27",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "1",
+        "Horário": "3T34 5T1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "30",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0108 - GESTÃO E INSTITUIÇÕES SOCIAIS",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "25",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0016 - TRANSFORMAÇÕES ECONÔMICAS, POLÍTICAS E SOCIAIS NO BRASIL",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "54",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0016 - TRANSFORMAÇÕES ECONÔMICAS, POLÍTICAS E SOCIAIS NO BRASIL",
+        "Turma": "2",
+        "Horário": "2N34",
+        "Discentes": "42",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "RICHARDSON LEONARDI MOURA DA CAMARA",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "2",
+        "Horário": "3N34 5N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "38",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "RICHARDSON LEONARDI MOURA DA CAMARA",
+        "Componente Curricular": "DPP0087 - DESENVOLVIMENTO E POLÍTICAS PÚBLICAS NO BRASIL E NO RIO GRANDE DO NORTE",
+        "Turma": "2",
+        "Horário": "2N1234",
+        "Discentes": "42",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "RICHARDSON LEONARDI MOURA DA CAMARA",
+        "Componente Curricular": "DPP0097 - METODOLOGIA E TÉCNICAS DE PESQUISA",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "13",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0084 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA V",
+        "Turma": "2",
+        "Horário": "2N34 5N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "29",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "1",
+        "Horário": "3T34 5T1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "30",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "SANDRA CRISTINA GOMES",
+        "Componente Curricular": "DPP0098 - MODELOS DE ANÁLISE DE POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "5T1234",
+        "Discentes": "9",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "0.58"
+    },
+    {
+        "Docente": "SANDRA CRISTINA GOMES",
+        "Componente Curricular": "DPP0098 - MODELOS DE ANÁLISE DE POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "5N1234",
+        "Discentes": "10",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "0.92"
+    },
+    {
+        "Docente": "SARA RAQUEL FERNANDES QUEIROZ DE MEDEIROS",
+        "Componente Curricular": "DPP0080 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA I",
+        "Turma": "1",
+        "Horário": "3T34 5T1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "54",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0102 - SOCIEDADE E POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "4T34",
+        "Discentes": "43",
+        "Média Geral": "8.56",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0102 - SOCIEDADE E POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "4N34",
+        "Discentes": "59",
+        "Média Geral": "8.74",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0090 - VIVÊNCIAS PÚBLICAS DE EXTENSÃO UNIVERSITÁRIA",
+        "Turma": "2",
+        "Horário": "6N12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "23",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "WINIFRED KNOX",
+        "Componente Curricular": "DPP0080 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA I",
+        "Turma": "2",
+        "Horário": "3N34 5N1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "45",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "WINIFRED KNOX",
+        "Componente Curricular": "DPP0103 - TÓPICOS ESPECIAIS I",
+        "Turma": "1",
+        "Horário": "4T34",
+        "Discentes": "20",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "WINIFRED KNOX",
+        "Componente Curricular": "DPP0103 - TÓPICOS ESPECIAIS I",
+        "Turma": "2",
+        "Horário": "4N34",
+        "Discentes": "11",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "ZORAIDE SOUZA PESSOA",
+        "Componente Curricular": "DPP0101 - SOCIEDADE, AMBIENTE E POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "3T1234",
+        "Discentes": "13",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0024 - ATORES POLÍTICOS E SOCIAIS",
+        "Turma": "3",
+        "Horário": "4T123",
+        "Discentes": "19",
+        "Média Geral": "8.44",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0024 - ATORES POLÍTICOS E SOCIAIS",
+        "Turma": "4",
+        "Horário": "4N234",
+        "Discentes": "16",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0022 - SISTEMAS DE GOVERNO",
+        "Turma": "3",
+        "Horário": "3T12",
+        "Discentes": "33",
+        "Média Geral": "8.5",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0022 - SISTEMAS DE GOVERNO",
+        "Turma": "4",
+        "Horário": "3N12",
+        "Discentes": "39",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "ALEXSANDRO FERREIRA CARDOSO DA SILVA",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "1",
+        "Horário": "3T34 5T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "32",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "ALEXSANDRO FERREIRA CARDOSO DA SILVA",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "2",
+        "Horário": "3N34 5N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "34",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "ANDERSON CRISTOPHER DOS SANTOS",
+        "Componente Curricular": "DPP0037 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS VI",
+        "Turma": "2",
+        "Horário": "2N34 4N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "38",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "ANDERSON CRISTOPHER DOS SANTOS",
+        "Componente Curricular": "DPP0041 - CULTURA POLÍTICA E ENGAJAMENTO CÍVICO",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "31",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "ANDERSON CRISTOPHER DOS SANTOS",
+        "Componente Curricular": "DPP0041 - CULTURA POLÍTICA E ENGAJAMENTO CÍVICO",
+        "Turma": "2",
+        "Horário": "2N12",
+        "Discentes": "59",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "CLAUDIO ROBERTO DE JESUS",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "1",
+        "Horário": "3T34 5T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "32",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "FABIO FONSECA FIGUEIREDO",
+        "Componente Curricular": "DPP0027 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS II",
+        "Turma": "2",
+        "Horário": "3N34 5N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "39",
+        "Média Geral": "7.76",
+        "Desvio Padrão Geral": "3.04"
+    },
+    {
+        "Docente": "FABIO FONSECA FIGUEIREDO",
+        "Componente Curricular": "DPP0043 - ORÇAMENTO E FINANCIAMENTO DO SETOR PÚBLICO BRASILEIRO",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "32",
+        "Média Geral": "8.73",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "FABIO FONSECA FIGUEIREDO",
+        "Componente Curricular": "DPP0043 - ORÇAMENTO E FINANCIAMENTO DO SETOR PÚBLICO BRASILEIRO",
+        "Turma": "2",
+        "Horário": "3N12",
+        "Discentes": "43",
+        "Média Geral": "8.92",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "JOANA TEREZA VAZ DE MOURA",
+        "Componente Curricular": "DPP0027 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS II",
+        "Turma": "2",
+        "Horário": "3N34 5N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "39",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "JOANA TEREZA VAZ DE MOURA",
+        "Componente Curricular": "DPP0045 - TÓPICOS ESPECIAIS I",
+        "Turma": "3",
+        "Horário": "4T4",
+        "Discentes": "22",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "JOANA TEREZA VAZ DE MOURA",
+        "Componente Curricular": "DPP0045 - TÓPICOS ESPECIAIS I",
+        "Turma": "4",
+        "Horário": "4N1",
+        "Discentes": "22",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "LINDIJANE DE SOUZA BENTO ALMEIDA",
+        "Componente Curricular": "DPP0037 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS VI",
+        "Turma": "1",
+        "Horário": "2T12 4T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "27",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "LINDIJANE DE SOUZA BENTO ALMEIDA",
+        "Componente Curricular": "DPP0061 - ATORES SOCIAIS, DEMOCRACIA E PARTICIPAÇÃO",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "22",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "LINDIJANE DE SOUZA BENTO ALMEIDA",
+        "Componente Curricular": "DPP0061 - ATORES SOCIAIS, DEMOCRACIA E PARTICIPAÇÃO",
+        "Turma": "2",
+        "Horário": "2N12",
+        "Discentes": "17",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "MARIA DO LIVRAMENTO MIRANDA CLEMENTINO",
+        "Componente Curricular": "DPP0037 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS VI",
+        "Turma": "1",
+        "Horário": "2T12 4T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "27",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "2",
+        "Horário": "3N34 5N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "34",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0037 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS VI",
+        "Turma": "2",
+        "Horário": "2N34 4N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "38",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0062 - AS AGÊNCIAS MULTILATERAIS",
+        "Turma": "1",
+        "Horário": "5T12",
+        "Discentes": "6",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "0.75"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0062 - AS AGÊNCIAS MULTILATERAIS",
+        "Turma": "2",
+        "Horário": "5N12",
+        "Discentes": "19",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0025 - GESTÃO PÚBLICA NO BRASIL CONTEMPORÂNEO",
+        "Turma": "1",
+        "Horário": "2T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "34",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0025 - GESTÃO PÚBLICA NO BRASIL CONTEMPORÂNEO",
+        "Turma": "2",
+        "Horário": "2N123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "30",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "SANDRA CRISTINA GOMES",
+        "Componente Curricular": "DPP0023 - ORGANIZAÇÃO DO ESTADO BRASILEIRO",
+        "Turma": "3",
+        "Horário": "4T12",
+        "Discentes": "28",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "SANDRA CRISTINA GOMES",
+        "Componente Curricular": "DPP0023 - ORGANIZAÇÃO DO ESTADO BRASILEIRO",
+        "Turma": "4",
+        "Horário": "4N12",
+        "Discentes": "37",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "SARA RAQUEL FERNANDES QUEIROZ DE MEDEIROS",
+        "Componente Curricular": "DPP0027 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS II",
+        "Turma": "1",
+        "Horário": "3T34 5T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "41",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "SARA RAQUEL FERNANDES QUEIROZ DE MEDEIROS",
+        "Componente Curricular": "DPP0042 - CULTURA ORGANIZACIONAL",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "35",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "SARA RAQUEL FERNANDES QUEIROZ DE MEDEIROS",
+        "Componente Curricular": "DPP0042 - CULTURA ORGANIZACIONAL",
+        "Turma": "2",
+        "Horário": "2N34",
+        "Discentes": "32",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0021 - AGENDA CONTEMPORÂNEA II",
+        "Turma": "3",
+        "Horário": "4T34",
+        "Discentes": "24",
+        "Média Geral": "8.43",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0021 - AGENDA CONTEMPORÂNEA II",
+        "Turma": "4",
+        "Horário": "4N34",
+        "Discentes": "28",
+        "Média Geral": "8.38",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0044 - GESTÃO MUNICIPAL E METROPOLITANA",
+        "Turma": "1",
+        "Horário": "5T345 (19/02/2018 - 07/07/2018)",
+        "Discentes": "17",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0044 - GESTÃO MUNICIPAL E METROPOLITANA",
+        "Turma": "2",
+        "Horário": "5N34 6N1 (19/02/2018 - 07/07/2018)",
+        "Discentes": "18",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "WINIFRED KNOX",
+        "Componente Curricular": "DPP0063 - GESTÃO PARTICIPATIVA",
+        "Turma": "1",
+        "Horário": "6T345 (19/02/2018 - 07/07/2018)",
+        "Discentes": "15",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "WINIFRED KNOX",
+        "Componente Curricular": "DPP0063 - GESTÃO PARTICIPATIVA",
+        "Turma": "2",
+        "Horário": "6N234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "17",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "ZORAIDE SOUZA PESSOA",
+        "Componente Curricular": "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV",
+        "Turma": "1",
+        "Horário": "3T34 5T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "32",
+        "Média Geral": "7.84",
+        "Desvio Padrão Geral": "2.35"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0013 - ESTADO E SOCIEDADE",
+        "Turma": "2",
+        "Horário": "6N34",
+        "Discentes": "44",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0033 - SISTEMAS ELEITORAIS E PARTIDÁRIOS",
+        "Turma": "1",
+        "Horário": "4T34",
+        "Discentes": "11",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0033 - SISTEMAS ELEITORAIS E PARTIDÁRIOS",
+        "Turma": "2",
+        "Horário": "4N34",
+        "Discentes": "20",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0054 - TÓPICOS ESPECIAIS V",
+        "Turma": "1",
+        "Horário": "5T12",
+        "Discentes": "23",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "ALAN DANIEL FREIRE DE LACERDA",
+        "Componente Curricular": "DPP0054 - TÓPICOS ESPECIAIS V",
+        "Turma": "2",
+        "Horário": "5N12",
+        "Discentes": "18",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "ALEXSANDRO FERREIRA CARDOSO DA SILVA",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "1",
+        "Horário": "3T12 5T1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "35",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "ALEXSANDRO FERREIRA CARDOSO DA SILVA",
+        "Componente Curricular": "DPP0031 - METODOLOGIA E TÉCNICAS DE PESQUISA",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "26",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "ALEXSANDRO FERREIRA CARDOSO DA SILVA",
+        "Componente Curricular": "DPP0031 - METODOLOGIA E TÉCNICAS DE PESQUISA",
+        "Turma": "2",
+        "Horário": "4N12",
+        "Discentes": "20",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "ANDERSON CRISTOPHER DOS SANTOS",
+        "Componente Curricular": "DPP0026 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS I",
+        "Turma": "1",
+        "Horário": "3N34 5N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "57",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "ANDERSON CRISTOPHER DOS SANTOS",
+        "Componente Curricular": "DPP0032 - ESTADO DE DIREITO E CIDADANIA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "35",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "ANDERSON CRISTOPHER DOS SANTOS",
+        "Componente Curricular": "DPP0032 - ESTADO DE DIREITO E CIDADANIA",
+        "Turma": "2",
+        "Horário": "2N34",
+        "Discentes": "31",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "CLAUDIO ROBERTO DE JESUS",
+        "Componente Curricular": "DPP0012 - AGENDA CONTEMPORÂNEA I",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "51",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "CLAUDIO ROBERTO DE JESUS",
+        "Componente Curricular": "DPP0012 - AGENDA CONTEMPORÂNEA I",
+        "Turma": "2",
+        "Horário": "3N12",
+        "Discentes": "58",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "CLAUDIO ROBERTO DE JESUS",
+        "Componente Curricular": "DPP0026 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS I",
+        "Turma": "1",
+        "Horário": "3N34 5N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "57",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "FABIO FONSECA FIGUEIREDO",
+        "Componente Curricular": "DPP0036 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS V",
+        "Turma": "1",
+        "Horário": "2T34 4T1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "24",
+        "Média Geral": "7.97",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "JESSICA MORAIS DE MOURA",
+        "Componente Curricular": "DPP0011 - ANÁLISE E REPRESENTAÇÃO DE DADOS E INFORMAÇÕES",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "44",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "JESSICA MORAIS DE MOURA",
+        "Componente Curricular": "DPP0011 - ANÁLISE E REPRESENTAÇÃO DE DADOS E INFORMAÇÕES",
+        "Turma": "2",
+        "Horário": "4N34",
+        "Discentes": "52",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "JESSICA MORAIS DE MOURA",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "2",
+        "Horário": "3N12 5N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "35",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "JESSICA MORAIS DE MOURA",
+        "Componente Curricular": "DPP0013 - ESTADO E SOCIEDADE",
+        "Turma": "1",
+        "Horário": "6T12",
+        "Discentes": "49",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "JOSÉ GOMES FERREIRA",
+        "Componente Curricular": "DPP0055 - TÓPICOS ESPECIAIS VI",
+        "Turma": "1",
+        "Horário": "6T12",
+        "Discentes": "6",
+        "Média Geral": "8.71",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "KIVYSON NUNES DOS SANTOS",
+        "Componente Curricular": "DPP0036 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS V",
+        "Turma": "1",
+        "Horário": "2T34 4T1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "KIVYSON NUNES DOS SANTOS",
+        "Componente Curricular": "DPP0034 - PARTIDOS POLÍTICOS E ELEIÇÕES NO BRASIL",
+        "Turma": "1",
+        "Horário": "3T34",
+        "Discentes": "40",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "KIVYSON NUNES DOS SANTOS",
+        "Componente Curricular": "DPP0034 - PARTIDOS POLÍTICOS E ELEIÇÕES NO BRASIL",
+        "Turma": "2",
+        "Horário": "3N34",
+        "Discentes": "39",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "KIVYSON NUNES DOS SANTOS",
+        "Componente Curricular": "DPP0039 - TÓPICOS ESPECIAIS X",
+        "Turma": "1",
+        "Horário": "5T34",
+        "Discentes": "12",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "KIVYSON NUNES DOS SANTOS",
+        "Componente Curricular": "DPP0039 - TÓPICOS ESPECIAIS X",
+        "Turma": "2",
+        "Horário": "5N34",
+        "Discentes": "24",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "LINDIJANE DE SOUZA BENTO ALMEIDA",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "1",
+        "Horário": "3T12 5T1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "35",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "MARIA DO LIVRAMENTO MIRANDA CLEMENTINO",
+        "Componente Curricular": "DPP0026 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS I",
+        "Turma": "2",
+        "Horário": "3T34 5T1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "46",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "MARIA DO LIVRAMENTO MIRANDA CLEMENTINO",
+        "Componente Curricular": "DPP0067 - TÓPICOS ESPECIAIS II E III",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "23",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "MARIA DO LIVRAMENTO MIRANDA CLEMENTINO",
+        "Componente Curricular": "DPP0067 - TÓPICOS ESPECIAIS II E III",
+        "Turma": "2",
+        "Horário": "3N12",
+        "Discentes": "29",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "2",
+        "Horário": "3N12 5N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "35",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0036 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS V",
+        "Turma": "2",
+        "Horário": "2N34 4N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "42",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0016 - TRANSFORMAÇÕES ECONÔMICAS, POLÍTICAS E SOCIAIS NO BRASIL",
+        "Turma": "1",
+        "Horário": "6T34",
+        "Discentes": "50",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "RAQUEL MARIA DA COSTA SILVEIRA",
+        "Componente Curricular": "DPP0016 - TRANSFORMAÇÕES ECONÔMICAS, POLÍTICAS E SOCIAIS NO BRASIL",
+        "Turma": "2",
+        "Horário": "6N12",
+        "Discentes": "46",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0036 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS V",
+        "Turma": "1",
+        "Horário": "2T34 4T1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0016 - TRANSFORMAÇÕES ECONÔMICAS, POLÍTICAS E SOCIAIS NO BRASIL",
+        "Turma": "1",
+        "Horário": "6T34",
+        "Discentes": "50",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "ROBERIO PAULINO RODRIGUES",
+        "Componente Curricular": "DPP0016 - TRANSFORMAÇÕES ECONÔMICAS, POLÍTICAS E SOCIAIS NO BRASIL",
+        "Turma": "2",
+        "Horário": "6N12",
+        "Discentes": "46",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "SANDRA CRISTINA GOMES",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "1",
+        "Horário": "3T12 5T1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "35",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "SANDRA CRISTINA GOMES",
+        "Componente Curricular": "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III",
+        "Turma": "2",
+        "Horário": "3N12 5N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "35",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "SARA RAQUEL FERNANDES QUEIROZ DE MEDEIROS",
+        "Componente Curricular": "DPP0036 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS V",
+        "Turma": "2",
+        "Horário": "2N34 4N1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "42",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "SARA RAQUEL FERNANDES QUEIROZ DE MEDEIROS",
+        "Componente Curricular": "DPP0068 - TÓPICOS ESPECIAIS IV E VIII",
+        "Turma": "2",
+        "Horário": "2N12",
+        "Discentes": "38",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0035 - GESTÃO E INSTITUIÇÕES SOCIAIS",
+        "Turma": "1",
+        "Horário": "6T234",
+        "Discentes": "14",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0035 - GESTÃO E INSTITUIÇÕES SOCIAIS",
+        "Turma": "2",
+        "Horário": "6N123",
+        "Discentes": "15",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0038 - TÓPICOS ESPECIAIS IX",
+        "Turma": "1",
+        "Horário": "3T34",
+        "Discentes": "17",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "SORAIA MARIA DO SOCORRO CARLOS VIDAL",
+        "Componente Curricular": "DPP0038 - TÓPICOS ESPECIAIS IX",
+        "Turma": "2",
+        "Horário": "3N34",
+        "Discentes": "17",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "WINIFRED KNOX",
+        "Componente Curricular": "DPP0014 - INTRODUÇÃO ÀS POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "48",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "WINIFRED KNOX",
+        "Componente Curricular": "DPP0014 - INTRODUÇÃO ÀS POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "2N123",
+        "Discentes": "50",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "WINIFRED KNOX",
+        "Componente Curricular": "DPP0056 - TÓPICOS ESPECIAIS VII",
+        "Turma": "2",
+        "Horário": "6T34",
+        "Discentes": "11",
+        "Média Geral": "8.47",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "ZORAIDE SOUZA PESSOA",
+        "Componente Curricular": "DPP0026 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS I",
+        "Turma": "2",
+        "Horário": "3T34 5T1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "46",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "2"
+    }
+]
