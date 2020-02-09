@@ -61,10 +61,14 @@
           <br><br>
 
           <a class="btn btn-outline-primary m-1" href="./rank.html?id=ccetmat&nome=Dep. Matemática">Dep. Matemática</a>
-          <a class="btn btn-outline-primary m-1" href="./rank.html?id=ccetest&nome=Dep. Estatística">Dep. Estatística</a>
-          <a class="btn btn-outline-primary m-1" href="./rank.html?id=ccetdim&nome=Dep. Info. e Mat. Aplicada">Dep. Info. e Mat. Aplicada</a>
-          <a class="btn btn-outline-primary m-1" href="./rank.html?id=ccetfis&nome=Dep. Física Teórica e Exp.">Dep. Física Teórica e Exp.</a>
-          <a class="btn btn-outline-primary m-1" href="./rank.html?id=ccetqui&nome=Instituto de Química">Instituto de Química</a>
+          <a class="btn btn-outline-primary m-1" href="./rank.html?id=ccetest&nome=Dep. Estatística">Dep.
+            Estatística</a>
+          <a class="btn btn-outline-primary m-1" href="./rank.html?id=ccetdim&nome=Dep. Info. e Mat. Aplicada">Dep.
+            Info. e Mat. Aplicada</a>
+          <a class="btn btn-outline-primary m-1" href="./rank.html?id=ccetfis&nome=Dep. Física Teórica e Exp.">Dep.
+            Física Teórica e Exp.</a>
+          <a class="btn btn-outline-primary m-1" href="./rank.html?id=ccetqui&nome=Instituto de Química">Instituto de
+            Química</a>
 
           <!--  -->
           <br><br>
@@ -188,11 +192,11 @@
     $("#send-message").click(function (e) {
       e.preventDefault();
       $("#send-message").text("Enviando...").attr("class", "btn btn-outline-secondary rounded-0 no-outline")
-      $.post("https://com-circular-ufrn.000webhostapp.com/api/inbox/create.php", JSON.stringify({
+      $.post("https://circular-ufrn.firebaseapp.com/api/mensagem", {
         "mensagem": $("input").val(),
         "usuario_id": "00000000",
         "usuario_nome": "Professor Rank"
-      }))
+      })
         .done((res) => {
           $("input").val("")
           $("#send-message").text("Enviado").attr("class", "btn btn-outline-success rounded-0 no-outline")
