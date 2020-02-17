@@ -1,0 +1,1550 @@
+[
+    {
+        "Docente": "ALESSANDRO DOZENA",
+        "Componente Curricular": "DGE0123 - GEOGRAFIA REGIONAL DO BRASIL",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "25",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "ALESSANDRO DOZENA",
+        "Componente Curricular": "DGE0053 - INTRODUCAO A GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "39",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "ANELINO FRANCISCO DA SILVA",
+        "Componente Curricular": "DGE0183 - ATIVIDADE INTEGRADORA EM GEOGRAFIA III",
+        "Turma": "1",
+        "Horário": "3N12 6N3 (11/02/2019 - 29/06/2019)",
+        "Discentes": "28",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "2.56"
+    },
+    {
+        "Docente": "ANELINO FRANCISCO DA SILVA",
+        "Componente Curricular": "DGE0168 - METODOLOGIA DO ENSINO E DA PESQUISA DE GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "32",
+        "Média Geral": "8.3",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "BRUNO MAIA HALLEY",
+        "Componente Curricular": "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "14",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "BRUNO MAIA HALLEY",
+        "Componente Curricular": "DGE0170 - GEOGRAFIA E AS TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO",
+        "Turma": "1",
+        "Horário": "56N12",
+        "Discentes": "32",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "CELSO DONIZETE LOCATEL",
+        "Componente Curricular": "DGE0117 - GEOGRAFIA AGRARIA",
+        "Turma": "1",
+        "Horário": "2M3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "33",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "EDU SILVESTRE DE ALBUQUERQUE",
+        "Componente Curricular": "DGE0142 - GEOGRAFIA POLITICA",
+        "Turma": "1",
+        "Horário": "2M1234",
+        "Discentes": "29",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "EDU SILVESTRE DE ALBUQUERQUE",
+        "Componente Curricular": "DGE1011 - GEOGRAFIA REGIONAL DO MUNDO",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "23",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "EUGENIA MARIA DANTAS",
+        "Componente Curricular": "DGE0181 - ATIVIDADE INTEGRADORA EM GEOGRAFIA I",
+        "Turma": "1",
+        "Horário": "4T56 5T6 (11/02/2019 - 29/06/2019)",
+        "Discentes": "49",
+        "Média Geral": "8.81",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "FERNANDO MOREIRA DA SILVA",
+        "Componente Curricular": "DGE0060 - METEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "43",
+        "Média Geral": "7.77",
+        "Desvio Padrão Geral": "3.14"
+    },
+    {
+        "Docente": "FERNANDO MOREIRA DA SILVA",
+        "Componente Curricular": "DGE1013 - QUANTIFICAÇÃO EM GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "41",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "2.36"
+    },
+    {
+        "Docente": "HUGO ARRUDA DE MORAIS",
+        "Componente Curricular": "DGE0204 - FORMACAO ECONOMICA E TERRITORIAL DO BRASIL",
+        "Turma": "1",
+        "Horário": "56M12",
+        "Discentes": "38",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "HUGO ARRUDA DE MORAIS",
+        "Componente Curricular": "DGE0109 - GEOGRAFIA DA POPULACAO",
+        "Turma": "1",
+        "Horário": "34M34",
+        "Discentes": "38",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "HUGO ARRUDA DE MORAIS",
+        "Componente Curricular": "DGE0073 - GEOGRAFIA URBANA DO BRASIL",
+        "Turma": "1",
+        "Horário": "36N12",
+        "Discentes": "27",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0075 - EDUCACAO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "42",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0166 - METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "Turma": "1",
+        "Horário": "2M3456 4M56",
+        "Discentes": "24",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0131 - PEDOLOGIA",
+        "Turma": "1",
+        "Horário": "34M12",
+        "Discentes": "38",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0131 - PEDOLOGIA",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "30",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "LEANDRO DE CASTRO LIMA",
+        "Componente Curricular": "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "14",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "LEANDRO DE CASTRO LIMA",
+        "Componente Curricular": "DGE0170 - GEOGRAFIA E AS TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO",
+        "Turma": "1",
+        "Horário": "56N12",
+        "Discentes": "32",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "0.92"
+    },
+    {
+        "Docente": "LUTIANE QUEIROZ DE ALMEIDA",
+        "Componente Curricular": "DGE0208 - ECOLOGIA",
+        "Turma": "1",
+        "Horário": "34M34",
+        "Discentes": "31",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "LUTIANE QUEIROZ DE ALMEIDA",
+        "Componente Curricular": "DGE0216 - PLANEJAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "19",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0074 - GEOGRAFIA FISICA DO BRASIL",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "23",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0203 - GEOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "39",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0169 - GEOMORFOLOGIA CLIMÁTICA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "30",
+        "Média Geral": "8.73",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "MARIA APARECIDA PONTES DA FONSECA",
+        "Componente Curricular": "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "5",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "MARIA APARECIDA PONTES DA FONSECA",
+        "Componente Curricular": "DGE0150 - GEOGRAFIA E TURISMO",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "30",
+        "Média Geral": "7.5",
+        "Desvio Padrão Geral": "3.02"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE0127 - GEOGRAFIA DOS RECURSOS NATURAIS",
+        "Turma": "1",
+        "Horário": "26N12",
+        "Discentes": "10",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE0054 - GEOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "36",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE0146 - SEDIMENTOLOGIA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "17",
+        "Média Geral": "8.49",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE0059 - CARTOGRAFIA GERAL",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "43",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE0215 - GEOPROCESSAMENTO",
+        "Turma": "1",
+        "Horário": "34M12",
+        "Discentes": "5",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE0215 - GEOPROCESSAMENTO",
+        "Turma": "2",
+        "Horário": "34M34",
+        "Discentes": "10",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "RODRIGO DE FREITAS AMORIM",
+        "Componente Curricular": "DGE0212 - HIDROLOGIA",
+        "Turma": "1",
+        "Horário": "34M12",
+        "Discentes": "32",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "SEBASTIAO MILTON PINHEIRO DA SILVA",
+        "Componente Curricular": "DGE0135 - CARTOGRAFIA TEMATICA",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "32",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "SEBASTIAO MILTON PINHEIRO DA SILVA",
+        "Componente Curricular": "DGE0315 - GEOPROCESSAMENTO",
+        "Turma": "1",
+        "Horário": "5T2345",
+        "Discentes": "18",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "SEBASTIAO MILTON PINHEIRO DA SILVA",
+        "Componente Curricular": "DGE0137 - SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "5M1234",
+        "Discentes": "9",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "SILVIO BRAZ DE SOUSA",
+        "Componente Curricular": "DGE0051 - CARTOGRAFIA E TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "5T3456",
+        "Discentes": "14",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "SILVIO BRAZ DE SOUSA",
+        "Componente Curricular": "DGE0102 - CARTOGRAFIA GERAL",
+        "Turma": "1",
+        "Horário": "2M3456",
+        "Discentes": "43",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "ZULEIDE MARIA CARVALHO LIMA",
+        "Componente Curricular": "DGE0131 - PEDOLOGIA",
+        "Turma": "1",
+        "Horário": "34M12",
+        "Discentes": "38",
+        "Média Geral": "8.96",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "ZULEIDE MARIA CARVALHO LIMA",
+        "Componente Curricular": "DGE0131 - PEDOLOGIA",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "30",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "ZULEIDE MARIA CARVALHO LIMA",
+        "Componente Curricular": "DGE0146 - SEDIMENTOLOGIA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "17",
+        "Média Geral": "8.74",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "ADRIANO LIMA TROLEIS",
+        "Componente Curricular": "DGE0076 - GEOGRAFIA DE BACIAS HIDROGRAFICAS",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "19",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "ALESSANDRO DOZENA",
+        "Componente Curricular": "DGE0150 - GEOGRAFIA E TURISMO",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "46",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "ALESSANDRO DOZENA",
+        "Componente Curricular": "DGE0070 - GEOGRAFIA REGIONAL DO BRASIL",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "32",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "ANELINO FRANCISCO DA SILVA",
+        "Componente Curricular": "DGE0182 - ATIVIDADE INTEGRADORA EM GEOGRAFIA II",
+        "Turma": "1",
+        "Horário": "4T56 5T6 (30/07/2018 - 15/12/2018)",
+        "Discentes": "34",
+        "Média Geral": "8.31",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "ANELINO FRANCISCO DA SILVA",
+        "Componente Curricular": "DGE0083 - GEOGRAFIA CULTURAL",
+        "Turma": "1",
+        "Horário": "3N12 4N34",
+        "Discentes": "6",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "CLEANTO CARLOS LIMA DA SILVA",
+        "Componente Curricular": "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "11",
+        "Média Geral": "8.73",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "CLEANTO CARLOS LIMA DA SILVA",
+        "Componente Curricular": "DGE0150 - GEOGRAFIA E TURISMO",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "46",
+        "Média Geral": "6",
+        "Desvio Padrão Geral": "2.99"
+    },
+    {
+        "Docente": "EDU SILVESTRE DE ALBUQUERQUE",
+        "Componente Curricular": "DGE0069 - GEOGRAFIA POLITICA",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "29",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "EDU SILVESTRE DE ALBUQUERQUE",
+        "Componente Curricular": "DGE1011 - GEOGRAFIA REGIONAL DO MUNDO",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "36",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "FRANCISCO FRANSUALDO DE AZEVEDO",
+        "Componente Curricular": "DGE0065 - GEOGRAFIA DA POPULACAO",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "28",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "HUGO ARRUDA DE MORAIS",
+        "Componente Curricular": "DGE0055 - FORMACAO ECONOMICA E TERRITORIAL DO BRASIL",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "31",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "HUGO ARRUDA DE MORAIS",
+        "Componente Curricular": "DGE0085 - GEOGRAFIA DO NORDESTE",
+        "Turma": "1",
+        "Horário": "36N34",
+        "Discentes": "6",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "HUGO ARRUDA DE MORAIS",
+        "Componente Curricular": "DGE0207 - TEORIA E METODOS DA GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "45",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JANE ROBERTA DE ASSIS BARBOSA",
+        "Componente Curricular": "DGE0070 - GEOGRAFIA REGIONAL DO BRASIL",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "32",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0107 - BIOGEOGRAFIA",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "26",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0064 - BIOGEOGRAFIA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "28",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0121 - TECNICAS DE PESQUISA GEOGRAFICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "24",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "LEANDRO DE CASTRO LIMA",
+        "Componente Curricular": "DGE0107 - BIOGEOGRAFIA",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "10",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "LEANDRO DE CASTRO LIMA",
+        "Componente Curricular": "DGE0188 - GESTÃO DO TERRITÓRIO",
+        "Turma": "1",
+        "Horário": "2T1234",
+        "Discentes": "26",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0119 - GEOGRAFIA URBANA",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "20",
+        "Média Geral": "8.12",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0188 - GESTÃO DO TERRITÓRIO",
+        "Turma": "2",
+        "Horário": "2N1234",
+        "Discentes": "14",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "LUTIANE QUEIROZ DE ALMEIDA",
+        "Componente Curricular": "DGE0167 - GEOMORFOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "33",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "LUTIANE QUEIROZ DE ALMEIDA",
+        "Componente Curricular": "DGE0216 - PLANEJAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "25",
+        "Média Geral": "8.81",
+        "Desvio Padrão Geral": "2.5"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0219 - GEOGRAFIA DO AMBIENTE COSTEIRO",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "37",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE",
+        "Turma": "1",
+        "Horário": "46N12",
+        "Discentes": "13",
+        "Média Geral": "8.49",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0214 - GEOGRAFIA FISICA DO BRASIL",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "9",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "MARIA APARECIDA PONTES DA FONSECA",
+        "Componente Curricular": "DGE0110 - GEOGRAFIA ECONOMICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "35",
+        "Média Geral": "7.88",
+        "Desvio Padrão Geral": "2.72"
+    },
+    {
+        "Docente": "MARIA APARECIDA PONTES DA FONSECA",
+        "Componente Curricular": "DGE0071 - GEOGRAFIA ECONOMICA",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "27",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE0213 - GEOGRAFIA DE BACIAS HIDROGRAFICAS",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "32",
+        "Média Geral": "8.35",
+        "Desvio Padrão Geral": "2.82"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE1017 - INTRODUÇÃO À CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "24",
+        "Média Geral": "8.46",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE1017 - INTRODUÇÃO À CIÊNCIA DO SOLO",
+        "Turma": "2",
+        "Horário": "2N34",
+        "Discentes": "21",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE0113 - AEROFOTOGRAMETRIA E FOTOINTERPRETACAO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "7",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE0113 - AEROFOTOGRAMETRIA E FOTOINTERPRETACAO",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "17",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "RODRIGO DE FREITAS AMORIM",
+        "Componente Curricular": "DGE0066 - CLIMATOLOGIA SISTEMATICA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "36",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "RODRIGO DE FREITAS AMORIM",
+        "Componente Curricular": "DGE0209 - CLIMATOLOGIA SISTEMATICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "30",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "RODRIGO DE FREITAS AMORIM",
+        "Componente Curricular": "DGE0066 - CLIMATOLOGIA SISTEMATICA",
+        "Turma": "2",
+        "Horário": "35N34",
+        "Discentes": "24",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "2.28"
+    },
+    {
+        "Docente": "SEBASTIAO MILTON PINHEIRO DA SILVA",
+        "Componente Curricular": "DGE0061 - CARTOGRAFIA TEMATICA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "31",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "SEBASTIAO MILTON PINHEIRO DA SILVA",
+        "Componente Curricular": "DGE0137 - SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "7",
+        "Média Geral": "8.69",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "SILVIO BRAZ DE SOUSA",
+        "Componente Curricular": "DGE0072 - CARTOGRAFIA PARA O ENSINO DA GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "28",
+        "Média Geral": "8.71",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "SILVIO BRAZ DE SOUSA",
+        "Componente Curricular": "DGE1012 - GEOMORFOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "39",
+        "Média Geral": "7.74",
+        "Desvio Padrão Geral": "2.66"
+    },
+    {
+        "Docente": "SILVIO BRAZ DE SOUSA",
+        "Componente Curricular": "DGE0205 - METEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "38",
+        "Média Geral": "7.86",
+        "Desvio Padrão Geral": "2.44"
+    },
+    {
+        "Docente": "ZULEIDE MARIA CARVALHO LIMA",
+        "Componente Curricular": "DGE0219 - GEOGRAFIA DO AMBIENTE COSTEIRO",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "37",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "ZULEIDE MARIA CARVALHO LIMA",
+        "Componente Curricular": "DGE1012 - GEOMORFOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "39",
+        "Média Geral": "8.77",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "ZULEIDE MARIA CARVALHO LIMA",
+        "Componente Curricular": "DGE1017 - INTRODUÇÃO À CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "24",
+        "Média Geral": "7.36",
+        "Desvio Padrão Geral": "2.74"
+    },
+    {
+        "Docente": "ALESSANDRO DOZENA",
+        "Componente Curricular": "DGE0123 - GEOGRAFIA REGIONAL DO BRASIL",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "25",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "ANELINO FRANCISCO DA SILVA",
+        "Componente Curricular": "DGE0181 - ATIVIDADE INTEGRADORA EM GEOGRAFIA I",
+        "Turma": "1",
+        "Horário": "4T456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "45",
+        "Média Geral": "8.45",
+        "Desvio Padrão Geral": "2.46"
+    },
+    {
+        "Docente": "ANELINO FRANCISCO DA SILVA",
+        "Componente Curricular": "DGE0053 - INTRODUCAO A GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "44",
+        "Média Geral": "9.01",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "ANELINO FRANCISCO DA SILVA",
+        "Componente Curricular": "DGE0201 - INTRODUCAO A GEOGRAFIA",
+        "Turma": "2",
+        "Horário": "24M34",
+        "Discentes": "42",
+        "Média Geral": "8.71",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "CELSO DONIZETE LOCATEL",
+        "Componente Curricular": "DGE0117 - GEOGRAFIA AGRARIA",
+        "Turma": "1",
+        "Horário": "2M3456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "21",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "CLEANTO CARLOS LIMA DA SILVA",
+        "Componente Curricular": "DGE0063 - GEOGRAFIA URBANA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "38",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "CLEANTO CARLOS LIMA DA SILVA",
+        "Componente Curricular": "DGE0073 - GEOGRAFIA URBANA DO BRASIL",
+        "Turma": "1",
+        "Horário": "36N12",
+        "Discentes": "22",
+        "Média Geral": "8.72",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "EDU SILVESTRE DE ALBUQUERQUE",
+        "Componente Curricular": "DGE1011 - GEOGRAFIA REGIONAL DO MUNDO",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "26",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "FRANCISCO FRANSUALDO DE AZEVEDO",
+        "Componente Curricular": "COP0011 - DESENVOLVIMENTO SUSTENTÁVEL E TERRITORIAL",
+        "Turma": "1",
+        "Horário": "23456M123456 23456T123456 23456N1234 (26/02/2018 - 03/03/2018)",
+        "Discentes": "41",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "FRANCISCO FRANSUALDO DE AZEVEDO",
+        "Componente Curricular": "DGE0109 - GEOGRAFIA DA POPULACAO",
+        "Turma": "1",
+        "Horário": "4M3456",
+        "Discentes": "29",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "FRANCISCO FRANSUALDO DE AZEVEDO",
+        "Componente Curricular": "DGE0151 - GEOGRAFIA, TURISMO E DESENVOLVIMENTO REGIONAL",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "6",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0075 - EDUCACAO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "42",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0210 - EDUCACAO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "14",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "LEANDRO DE CASTRO LIMA",
+        "Componente Curricular": "DGE1019 - CARTOGRAFIA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "7",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "LEANDRO DE CASTRO LIMA",
+        "Componente Curricular": "DGE0102 - CARTOGRAFIA GERAL",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "39",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "LEANDRO DE CASTRO LIMA",
+        "Componente Curricular": "DGE0062 - GEOGRAFIA AGRARIA",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "30",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0204 - FORMACAO ECONOMICA E TERRITORIAL DO BRASIL",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "42",
+        "Média Geral": "8.54",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "18",
+        "Média Geral": "7.83",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0142 - GEOGRAFIA POLITICA",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "32",
+        "Média Geral": "8.29",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0063 - GEOGRAFIA URBANA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "38",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0217 - PLANEJAMENTO URBANO E REGIONAL",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "33",
+        "Média Geral": "8.16",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "LUIZ ANTONIO CESTARO",
+        "Componente Curricular": "DGE0208 - ECOLOGIA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "22",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "LUIZ ANTONIO CESTARO",
+        "Componente Curricular": "DGE0082 - FITOGEOGRAFIA DO BRASIL",
+        "Turma": "1",
+        "Horário": "4M2345",
+        "Discentes": "25",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "LUIZ ANTONIO CESTARO",
+        "Componente Curricular": "DGE1013 - QUANTIFICAÇÃO EM GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "47",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "LUTIANE QUEIROZ DE ALMEIDA",
+        "Componente Curricular": "DGE0229 - GEOMORFOLOGIA APLICADA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "35",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "LUTIANE QUEIROZ DE ALMEIDA",
+        "Componente Curricular": "DGE0091 - MEIO AMBIENTE E DESENVOLVIMENTO",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "12",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "0.92"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0074 - GEOGRAFIA FISICA DO BRASIL",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "19",
+        "Média Geral": "8.49",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0054 - GEOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "37",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0203 - GEOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "42",
+        "Média Geral": "8.92",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "MARIA APARECIDA PONTES DA FONSECA",
+        "Componente Curricular": "DGE0150 - GEOGRAFIA E TURISMO",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "31",
+        "Média Geral": "8.03",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "MARIA APARECIDA PONTES DA FONSECA",
+        "Componente Curricular": "DGE0166 - METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "Turma": "1",
+        "Horário": "35M345",
+        "Discentes": "23",
+        "Média Geral": "6.11",
+        "Desvio Padrão Geral": "2.81"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE0127 - GEOGRAFIA DOS RECURSOS NATURAIS",
+        "Turma": "1",
+        "Horário": "46T56",
+        "Discentes": "6",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "0.85"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE0068 - PEDOLOGIA",
+        "Turma": "1",
+        "Horário": "2T6 3N1234",
+        "Discentes": "29",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE0131 - PEDOLOGIA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "44",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "PABLO RANIERE MEDEIROS DA COSTA",
+        "Componente Curricular": "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "18",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "PABLO RANIERE MEDEIROS DA COSTA",
+        "Componente Curricular": "DGE0142 - GEOGRAFIA POLITICA",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "32",
+        "Média Geral": "8.71",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "PABLO RANIERE MEDEIROS DA COSTA",
+        "Componente Curricular": "DGE0073 - GEOGRAFIA URBANA DO BRASIL",
+        "Turma": "1",
+        "Horário": "36N12",
+        "Discentes": "22",
+        "Média Geral": "8.39",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE0059 - CARTOGRAFIA GERAL",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "44",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE0215 - GEOPROCESSAMENTO",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "11",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE0215 - GEOPROCESSAMENTO",
+        "Turma": "2",
+        "Horário": "24M34",
+        "Discentes": "7",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "RODRIGO DE FREITAS AMORIM",
+        "Componente Curricular": "DGE0212 - HIDROLOGIA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "22",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "RODRIGO DE FREITAS AMORIM",
+        "Componente Curricular": "DGE0060 - METEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "37",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "RODRIGO DE FREITAS AMORIM",
+        "Componente Curricular": "DGE0060 - METEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "34",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "SEBASTIAO MILTON PINHEIRO DA SILVA",
+        "Componente Curricular": "DGE0061 - CARTOGRAFIA TEMATICA",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "24",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.45"
+    },
+    {
+        "Docente": "SEBASTIAO MILTON PINHEIRO DA SILVA",
+        "Componente Curricular": "DGE0135 - CARTOGRAFIA TEMATICA",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "29",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "SEBASTIAO MILTON PINHEIRO DA SILVA",
+        "Componente Curricular": "DGE0315 - GEOPROCESSAMENTO",
+        "Turma": "1",
+        "Horário": "5T2345",
+        "Discentes": "17",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "ADRIANO LIMA TROLEIS",
+        "Componente Curricular": "DGE0076 - GEOGRAFIA DE BACIAS HIDROGRAFICAS",
+        "Turma": "1",
+        "Horário": "4N1234",
+        "Discentes": "36",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "ALESSANDRO DOZENA",
+        "Componente Curricular": "DGE0083 - GEOGRAFIA CULTURAL",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "9",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.63"
+    },
+    {
+        "Docente": "ANELINO FRANCISCO DA SILVA",
+        "Componente Curricular": "DGE0140 - GEOGRAFIA DO NORDESTE",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "18",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "ANELINO FRANCISCO DA SILVA",
+        "Componente Curricular": "DGE0056 - ORGANIZACAO DO ESPACO",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "39",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "EUGENIA MARIA DANTAS",
+        "Componente Curricular": "DGE0207 - TEORIA E METODOS DA GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "36",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "FERNANDO MOREIRA DA SILVA",
+        "Componente Curricular": "DGE0066 - CLIMATOLOGIA SISTEMATICA",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "31",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "FERNANDO MOREIRA DA SILVA",
+        "Componente Curricular": "DGE0205 - METEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "33",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "FRANCISCO FRANSUALDO DE AZEVEDO",
+        "Componente Curricular": "DGE0150 - GEOGRAFIA E TURISMO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "42",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "JOSE LACERDA ALVES FELIPE",
+        "Componente Curricular": "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "26",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "JOSE LACERDA ALVES FELIPE",
+        "Componente Curricular": "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "17",
+        "Média Geral": "8.83",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0107 - BIOGEOGRAFIA",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "28",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "JULIANA FELIPE FARIAS",
+        "Componente Curricular": "DGE0121 - TECNICAS DE PESQUISA GEOGRAFICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "25",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.79"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0070 - GEOGRAFIA REGIONAL DO BRASIL",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "19",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0119 - GEOGRAFIA URBANA",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "24",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0165 - GESTÃO DO TERRITÓRIO",
+        "Turma": "1",
+        "Horário": "2N12",
+        "Discentes": "33",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "LUCIANA DA COSTA FEITOSA",
+        "Componente Curricular": "DGE0165 - GESTÃO DO TERRITÓRIO",
+        "Turma": "2",
+        "Horário": "2T34",
+        "Discentes": "33",
+        "Média Geral": "8.67",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "LUIZ ANTONIO CESTARO",
+        "Componente Curricular": "DGE0064 - BIOGEOGRAFIA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "34",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "LUIZ ANTONIO CESTARO",
+        "Componente Curricular": "DGE0107 - BIOGEOGRAFIA",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "28",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "LUTIANE QUEIROZ DE ALMEIDA",
+        "Componente Curricular": "DGE0064 - BIOGEOGRAFIA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "34",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "LUTIANE QUEIROZ DE ALMEIDA",
+        "Componente Curricular": "DGE0216 - PLANEJAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "28",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0219 - GEOGRAFIA DO AMBIENTE COSTEIRO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "26",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "MARCELO DOS SANTOS CHAVES",
+        "Componente Curricular": "DGE0214 - GEOGRAFIA FISICA DO BRASIL",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "28",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "MARIA APARECIDA PONTES DA FONSECA",
+        "Componente Curricular": "DGE0071 - GEOGRAFIA ECONOMICA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "28",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "MARIA APARECIDA PONTES DA FONSECA",
+        "Componente Curricular": "DGE0110 - GEOGRAFIA ECONOMICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "27",
+        "Média Geral": "8.3",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "MARIA FRANCISCA DE JESUS LIRIO RAMALHO",
+        "Componente Curricular": "DGE0213 - GEOGRAFIA DE BACIAS HIDROGRAFICAS",
+        "Turma": "1",
+        "Horário": "35M43",
+        "Discentes": "26",
+        "Média Geral": "8.61",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "MARIA FRANCISCA DE JESUS LIRIO RAMALHO",
+        "Componente Curricular": "DGE1012 - GEOMORFOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "30",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE0213 - GEOGRAFIA DE BACIAS HIDROGRAFICAS",
+        "Turma": "1",
+        "Horário": "35M43",
+        "Discentes": "26",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE1017 - INTRODUÇÃO À CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "33",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+        "Componente Curricular": "DGE1017 - INTRODUÇÃO À CIÊNCIA DO SOLO",
+        "Turma": "2",
+        "Horário": "2N34",
+        "Discentes": "16",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "PABLO RANIERE MEDEIROS DA COSTA",
+        "Componente Curricular": "DGE0065 - GEOGRAFIA DA POPULACAO",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "30",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "PABLO RANIERE MEDEIROS DA COSTA",
+        "Componente Curricular": "DGE1011 - GEOGRAFIA REGIONAL DO MUNDO",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "33",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "PABLO RANIERE MEDEIROS DA COSTA",
+        "Componente Curricular": "DGE0058 - TEORIA E METODOS DA GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "2N34 6N12",
+        "Discentes": "35",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE0113 - AEROFOTOGRAMETRIA E FOTOINTERPRETACAO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "23",
+        "Média Geral": "8.85",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE0113 - AEROFOTOGRAMETRIA E FOTOINTERPRETACAO",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "23",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "PAULO CESAR DE ARAUJO",
+        "Componente Curricular": "DGE1012 - GEOMORFOLOGIA",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "40",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "RODRIGO DE FREITAS AMORIM",
+        "Componente Curricular": "DGE0209 - CLIMATOLOGIA SISTEMATICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "26",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "RODRIGO DE FREITAS AMORIM",
+        "Componente Curricular": "DGE0207 - TEORIA E METODOS DA GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "36",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "SEBASTIAO MILTON PINHEIRO DA SILVA",
+        "Componente Curricular": "DGE0059 - CARTOGRAFIA GERAL",
+        "Turma": "1",
+        "Horário": "34N34",
+        "Discentes": "34",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "SEBASTIAO MILTON PINHEIRO DA SILVA",
+        "Componente Curricular": "DGE0072 - CARTOGRAFIA PARA O ENSINO DA GEOGRAFIA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "32",
+        "Média Geral": "9.01",
+        "Desvio Padrão Geral": "1.72"
+    }
+]

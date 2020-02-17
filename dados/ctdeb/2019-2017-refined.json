@@ -1,0 +1,818 @@
+{
+  "BEATRIZ STRANSKY FERREIRA": {
+    "Notas": [
+      7.89,
+      8.25,
+      9.03,
+      9.32,
+      9.38,
+      9.5,
+      9.56,
+      9.72,
+      9.78
+    ],
+    "Desvios": [
+      1.48,
+      1.76,
+      1.31,
+      1.58,
+      2.76,
+      1.62,
+      1.85,
+      0.9,
+      2.13
+    ],
+    "Componentes": {
+      "DEB0706 - BIOSSEGURANÇA E BIOÉTICA": {
+        "Notas": [
+          9.32,
+          9.38,
+          9.56,
+          9.78
+        ],
+        "Desvios": [
+          1.48,
+          1.58,
+          1.62,
+          0.9
+        ],
+        "DesvioDeNotas": 0.17916472867168876,
+        "MediaDeNotas": 9.510000000000002,
+        "MediaDeDesvios": 1.395,
+        "NotaMediana": 9.56
+      },
+      "DEB1004 - BIOTECNOLOGIA APLICADA À SAÚDE": {
+        "Notas": [
+          9.03,
+          9.5
+        ],
+        "Desvios": [
+          1.76,
+          1.85
+        ],
+        "DesvioDeNotas": 0.23500000000000032,
+        "MediaDeNotas": 9.265,
+        "MediaDeDesvios": 1.8050000000000002,
+        "NotaMediana": 9.5
+      },
+      "DBQ0044 - INTRODUÇÃO À BIOLOGIA DE SISTEMAS": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.72
+      },
+      "DEB1120 - TI NA SAÚDE": {
+        "Notas": [
+          7.89
+        ],
+        "Desvios": [
+          2.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.89,
+        "MediaDeDesvios": 2.76,
+        "NotaMediana": 7.89
+      },
+      "DEB0512 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE": {
+        "Notas": [
+          8.25
+        ],
+        "Desvios": [
+          2.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.25,
+        "MediaDeDesvios": 2.13,
+        "NotaMediana": 8.25
+      }
+    },
+    "DesvioDeNotas": 0.6240983619847907,
+    "MediaDeNotas": 9.158888888888889,
+    "MediaDeDesvios": 1.71,
+    "NotaMediana": 9.38
+  },
+  "CAROLINE DANTAS VILAR WANDERLEY": {
+    "Notas": [
+      9.28,
+      9.36,
+      9.47,
+      9.63,
+      9.74,
+      9.83,
+      9.84,
+      9.98
+    ],
+    "Desvios": [
+      1.83,
+      1.38,
+      0.77,
+      0.82,
+      1.85,
+      1.13,
+      1.4,
+      0.76
+    ],
+    "Componentes": {
+      "DEB0920 - ENGENHARIA TECIDUAL": {
+        "Notas": [
+          9.28,
+          9.36,
+          9.47,
+          9.74
+        ],
+        "Desvios": [
+          1.83,
+          1.38,
+          1.85,
+          1.4
+        ],
+        "DesvioDeNotas": 0.17383541066192504,
+        "MediaDeNotas": 9.4625,
+        "MediaDeDesvios": 1.6150000000000002,
+        "NotaMediana": 9.47
+      },
+      "DEB1113 - REABILITAÇÃO ORAL": {
+        "Notas": [
+          9.83,
+          9.98
+        ],
+        "Desvios": [
+          0.77,
+          0.76
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.905000000000001,
+        "MediaDeDesvios": 0.765,
+        "NotaMediana": 9.98
+      },
+      "DEB0824 - CIRURGIA E REABILITAÇÃO BUCOMAXILAR": {
+        "Notas": [
+          9.63,
+          9.84
+        ],
+        "Desvios": [
+          0.82,
+          1.13
+        ],
+        "DesvioDeNotas": 0.10499999999999954,
+        "MediaDeNotas": 9.735,
+        "MediaDeDesvios": 0.9749999999999999,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.23417074432985882,
+    "MediaDeNotas": 9.64125,
+    "MediaDeDesvios": 1.2425,
+    "NotaMediana": 9.74
+  },
+  "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO": {
+    "Notas": [
+      7.16,
+      7.99,
+      8.68,
+      8.93,
+      9.23,
+      9.45,
+      9.47,
+      9.67
+    ],
+    "Desvios": [
+      1.74,
+      1.5,
+      2.49,
+      2.27,
+      3.15,
+      3.35,
+      1.26,
+      1.58
+    ],
+    "Componentes": {
+      "DEB0601 - IMPLANTES ODONTO-MÉDICOS": {
+        "Notas": [
+          7.99,
+          8.93,
+          9.45,
+          9.47
+        ],
+        "Desvios": [
+          1.74,
+          2.49,
+          3.15,
+          1.26
+        ],
+        "DesvioDeNotas": 0.600416522091123,
+        "MediaDeNotas": 8.959999999999999,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 9.45
+      },
+      "DEB0504 - INTRODUÇÃO À ENGENHARIA BIOMÉDICA": {
+        "Notas": [
+          7.16,
+          8.68,
+          9.23,
+          9.67
+        ],
+        "Desvios": [
+          1.5,
+          2.27,
+          3.35,
+          1.58
+        ],
+        "DesvioDeNotas": 0.9477473291969754,
+        "MediaDeNotas": 8.685,
+        "MediaDeDesvios": 2.175,
+        "NotaMediana": 9.23
+      }
+    },
+    "DesvioDeNotas": 0.8051513832814298,
+    "MediaDeNotas": 8.8225,
+    "MediaDeDesvios": 2.1675,
+    "NotaMediana": 9.23
+  },
+  "DANILO ALVES PINTO NAGEM": {
+    "Notas": [
+      7.15,
+      7.87,
+      8.09,
+      8.3,
+      8.31
+    ],
+    "Desvios": [
+      2.57,
+      2.6,
+      3.13,
+      2.06,
+      1.98
+    ],
+    "Componentes": {
+      "DEB0605 - BIOMECÂNICA DO MOVIMENTO HUMANO": {
+        "Notas": [
+          7.15,
+          7.87,
+          8.3
+        ],
+        "Desvios": [
+          2.57,
+          2.6,
+          3.13
+        ],
+        "DesvioDeNotas": 0.4744353368889052,
+        "MediaDeNotas": 7.773333333333333,
+        "MediaDeDesvios": 2.766666666666667,
+        "NotaMediana": 7.87
+      },
+      "DEB0924 - PROJETO BIOMÉDICO": {
+        "Notas": [
+          8.09,
+          8.31
+        ],
+        "Desvios": [
+          2.06,
+          1.98
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 8.2,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 8.31
+      }
+    },
+    "DesvioDeNotas": 0.4284670349046704,
+    "MediaDeNotas": 7.944,
+    "MediaDeDesvios": 2.4680000000000004,
+    "NotaMediana": 8.09
+  },
+  "GEORGE CARLOS DO NASCIMENTO": {
+    "Notas": [
+      7.71,
+      8.26,
+      8.28,
+      8.3,
+      8.83,
+      9.04,
+      9.08,
+      9.18,
+      9.19,
+      9.32
+    ],
+    "Desvios": [
+      2.29,
+      2.23,
+      2.52,
+      2.26,
+      2.69,
+      3.09,
+      1.37,
+      2.39,
+      1.88,
+      2.42
+    ],
+    "Componentes": {
+      "DEB0822 - INSTRUMENTAÇÃO HOSPITALAR": {
+        "Notas": [
+          7.71,
+          8.26,
+          9.04,
+          9.19
+        ],
+        "Desvios": [
+          2.29,
+          2.52,
+          2.69,
+          2.39
+        ],
+        "DesvioDeNotas": 0.599874986976453,
+        "MediaDeNotas": 8.549999999999999,
+        "MediaDeDesvios": 2.4725,
+        "NotaMediana": 9.04
+      },
+      "DEB0707 - INTRODUÇÃO À NEUROENGENHARIA": {
+        "Notas": [
+          8.28,
+          8.3,
+          8.83,
+          9.18
+        ],
+        "Desvios": [
+          2.23,
+          2.26,
+          3.09,
+          2.42
+        ],
+        "DesvioDeNotas": 0.3783764659700705,
+        "MediaDeNotas": 8.647499999999999,
+        "MediaDeDesvios": 2.5,
+        "NotaMediana": 8.83
+      },
+      "DEB1106 - TÓPICOS ESPECIAIS EM ENG. BIOMÉDICA": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.32
+      },
+      "ICE1022 - INTERFACES CÉREBRO-MÁQUINA E NEUROMODULAÇÃO": {
+        "Notas": [
+          9.08
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.08,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 9.08
+      }
+    },
+    "DesvioDeNotas": 0.5136428720424338,
+    "MediaDeNotas": 8.719,
+    "MediaDeDesvios": 2.314,
+    "NotaMediana": 9.04
+  },
+  "HELIANA BEZERRA SOARES": {
+    "Notas": [
+      8.11,
+      8.3,
+      8.44,
+      8.86,
+      8.94,
+      9.13,
+      9.26,
+      9.55
+    ],
+    "Desvios": [
+      2.88,
+      1.59,
+      2.78,
+      2,
+      2.58,
+      2.29,
+      1.77,
+      1.53
+    ],
+    "Componentes": {
+      "DEB0925 - PROCESSAMENTO DIGITAL DE IMAGENS": {
+        "Notas": [
+          8.11,
+          8.3,
+          8.86,
+          8.94
+        ],
+        "Desvios": [
+          2.88,
+          2.78,
+          2.58,
+          1.77
+        ],
+        "DesvioDeNotas": 0.3550616143713649,
+        "MediaDeNotas": 8.5525,
+        "MediaDeDesvios": 2.5025,
+        "NotaMediana": 8.86
+      },
+      "DEB0503 - SISTEMAS DE INFORMAÇÃO NA SAÚDE": {
+        "Notas": [
+          8.44,
+          9.13,
+          9.26,
+          9.55
+        ],
+        "Desvios": [
+          1.59,
+          2,
+          2.29,
+          1.53
+        ],
+        "DesvioDeNotas": 0.4075843470988555,
+        "MediaDeNotas": 9.094999999999999,
+        "MediaDeDesvios": 1.8525,
+        "NotaMediana": 9.26
+      }
+    },
+    "DesvioDeNotas": 0.4686933299077342,
+    "MediaDeNotas": 8.82375,
+    "MediaDeDesvios": 2.1775,
+    "NotaMediana": 8.94
+  },
+  "HELIO ROBERTO HEKIS": {
+    "Notas": [
+      7.66,
+      8.7,
+      9.03,
+      9.08,
+      9.09,
+      9.16
+    ],
+    "Desvios": [
+      2.47,
+      2,
+      1.98,
+      1.69,
+      1.8,
+      2.16
+    ],
+    "Componentes": {
+      "DEB0922 - ENGENHARIA CLÍNICA": {
+        "Notas": [
+          7.66,
+          8.7,
+          9.03,
+          9.09
+        ],
+        "Desvios": [
+          2.47,
+          1.98,
+          1.8,
+          2.16
+        ],
+        "DesvioDeNotas": 0.5738031021177906,
+        "MediaDeNotas": 8.620000000000001,
+        "MediaDeDesvios": 2.1025,
+        "NotaMediana": 9.03
+      },
+      "DEB0505 - GESTÃO E EMPREENDEDORISMO NA SAÚDE": {
+        "Notas": [
+          9.08,
+          9.16
+        ],
+        "Desvios": [
+          2,
+          1.69
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.120000000000001,
+        "MediaDeDesvios": 1.845,
+        "NotaMediana": 9.16
+      }
+    },
+    "DesvioDeNotas": 0.5249656073390797,
+    "MediaDeNotas": 8.786666666666667,
+    "MediaDeDesvios": 2.016666666666667,
+    "NotaMediana": 9.08
+  },
+  "IVANIZIA SOARES DA SILVA": {
+    "Notas": [
+      9.66,
+      9.68,
+      9.74,
+      9.83,
+      9.86,
+      9.87
+    ],
+    "Desvios": [
+      1.53,
+      1.94,
+      1.13,
+      1.14,
+      1.18,
+      1.79
+    ],
+    "Componentes": {
+      "DEB0604 - BASES CINESIOLÓGICAS DO MOVIMENTO HUMANO": {
+        "Notas": [
+          9.68,
+          9.83,
+          9.86
+        ],
+        "Desvios": [
+          1.53,
+          1.13,
+          1.18
+        ],
+        "DesvioDeNotas": 0.07874007874011808,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.83
+      },
+      "DEB0902 - ÓRTESES E PRÓTESES": {
+        "Notas": [
+          9.66,
+          9.74,
+          9.87
+        ],
+        "Desvios": [
+          1.94,
+          1.14,
+          1.79
+        ],
+        "DesvioDeNotas": 0.08653836657164739,
+        "MediaDeNotas": 9.756666666666666,
+        "MediaDeDesvios": 1.6233333333333333,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.08439325934114753,
+    "MediaDeNotas": 9.773333333333332,
+    "MediaDeDesvios": 1.4516666666666664,
+    "NotaMediana": 9.83
+  },
+  "KARILANY DANTAS COUTINHO": {
+    "Notas": [
+      7.43,
+      7.63,
+      9.15,
+      9.63,
+      9.68
+    ],
+    "Desvios": [
+      1.55,
+      1.38,
+      1.77,
+      2.41,
+      2.85
+    ],
+    "Componentes": {
+      "DEB0926 - ANÁLISE ESTRUTURAL BIOMÉDICA": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.68
+      },
+      "DEB0701 - RESISTÊNCIA DOS MATERIAIS": {
+        "Notas": [
+          7.43,
+          7.63,
+          9.15,
+          9.63
+        ],
+        "Desvios": [
+          1.38,
+          1.77,
+          2.41,
+          2.85
+        ],
+        "DesvioDeNotas": 0.9479978902930116,
+        "MediaDeNotas": 8.46,
+        "MediaDeDesvios": 2.1025,
+        "NotaMediana": 9.15
+      }
+    },
+    "DesvioDeNotas": 0.9783169220656467,
+    "MediaDeNotas": 8.704,
+    "MediaDeDesvios": 1.9919999999999998,
+    "NotaMediana": 9.15
+  },
+  "THAMYRES TAMULLA CAVALCANTE PALITO": {
+    "Notas": [
+      9.58,
+      9.63,
+      9.63,
+      9.71
+    ],
+    "Desvios": [
+      1.66,
+      2.1,
+      1.09,
+      2.22
+    ],
+    "Componentes": {
+      "DEB0705 - ELETRÔNICA ANALÓGICA": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.63
+      },
+      "DEB0804 - PROCESSAMENTO DIGITAL DE SINAIS": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.63
+      },
+      "DEB0603 - SINAIS E SISTEMAS": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.71
+      },
+      "DEB0806 - SISTEMAS DIGITAIS": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          2.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 2.22,
+        "NotaMediana": 9.58
+      }
+    },
+    "DesvioDeNotas": 0.046569840025493144,
+    "MediaDeNotas": 9.637500000000001,
+    "MediaDeDesvios": 1.7675,
+    "NotaMediana": 9.63
+  },
+  "ALAN CASSIO QUEIROZ BEZERRA LEITE": {
+    "Notas": [
+      9.23,
+      9.32,
+      9.55,
+      9.59,
+      9.61,
+      9.73,
+      9.77,
+      9.77,
+      9.82,
+      9.82,
+      9.85,
+      9.88
+    ],
+    "Desvios": [
+      1.48,
+      1.06,
+      0.72,
+      1.15,
+      1.44,
+      1.01,
+      2,
+      1.4,
+      1.15,
+      1.36,
+      0.87,
+      1.06
+    ],
+    "Componentes": {
+      "DEB0705 - ELETRÔNICA ANALÓGICA": {
+        "Notas": [
+          9.59,
+          9.61,
+          9.88
+        ],
+        "Desvios": [
+          1.48,
+          1.44,
+          1.15
+        ],
+        "DesvioDeNotas": 0.13224556283251634,
+        "MediaDeNotas": 9.693333333333333,
+        "MediaDeDesvios": 1.3566666666666667,
+        "NotaMediana": 9.61
+      },
+      "DEB0804 - PROCESSAMENTO DIGITAL DE SINAIS": {
+        "Notas": [
+          9.23,
+          9.77,
+          9.85
+        ],
+        "Desvios": [
+          1.06,
+          1.01,
+          1.36
+        ],
+        "DesvioDeNotas": 0.27535835237417805,
+        "MediaDeNotas": 9.616666666666665,
+        "MediaDeDesvios": 1.1433333333333335,
+        "NotaMediana": 9.77
+      },
+      "DEB0603 - SINAIS E SISTEMAS": {
+        "Notas": [
+          9.32,
+          9.73,
+          9.77
+        ],
+        "Desvios": [
+          0.72,
+          2,
+          0.87
+        ],
+        "DesvioDeNotas": 0.20336065390226174,
+        "MediaDeNotas": 9.606666666666667,
+        "MediaDeDesvios": 1.1966666666666665,
+        "NotaMediana": 9.73
+      },
+      "DEB0806 - SISTEMAS DIGITAIS": {
+        "Notas": [
+          9.55,
+          9.82,
+          9.82
+        ],
+        "Desvios": [
+          1.15,
+          1.4,
+          1.06
+        ],
+        "DesvioDeNotas": 0.12727922061357835,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.2033333333333334,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.20099060232314891,
+    "MediaDeNotas": 9.661666666666665,
+    "MediaDeDesvios": 1.2249999999999999,
+    "NotaMediana": 9.77
+  },
+  "LUCIANA DE ANDRADE MENDES": {
+    "Notas": [
+      9.86,
+      9.9
+    ],
+    "Desvios": [
+      0.83,
+      0.88
+    ],
+    "Componentes": {
+      "DEB0604 - BASES CINESIOLÓGICAS DO MOVIMENTO HUMANO": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          0.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 0.83,
+        "NotaMediana": 9.86
+      },
+      "DEB0902 - ÓRTESES E PRÓTESES": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          0.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.88,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.020000000000000462,
+    "MediaDeNotas": 9.879999999999999,
+    "MediaDeDesvios": 0.855,
+    "NotaMediana": 9.9
+  }
+}

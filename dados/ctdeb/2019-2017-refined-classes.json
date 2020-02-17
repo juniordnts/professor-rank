@@ -1,0 +1,538 @@
+{
+  "DEB0706 - BIOSSEGURANÇA E BIOÉTICA": {
+    "Notas": [
+      9.32,
+      9.38,
+      9.56,
+      9.78
+    ],
+    "Desvios": [
+      1.48,
+      1.58,
+      1.62,
+      0.9
+    ],
+    "Docentes": [
+      "BEATRIZ STRANSKY FERREIRA"
+    ],
+    "DesvioDeNotas": 0.17916472867168876,
+    "MediaDeNotas": 9.510000000000002,
+    "MediaDeDesvios": 1.395,
+    "NotaMediana": 9.56
+  },
+  "DEB1004 - BIOTECNOLOGIA APLICADA À SAÚDE": {
+    "Notas": [
+      9.03,
+      9.5
+    ],
+    "Desvios": [
+      1.76,
+      1.85
+    ],
+    "Docentes": [
+      "BEATRIZ STRANSKY FERREIRA"
+    ],
+    "DesvioDeNotas": 0.23500000000000032,
+    "MediaDeNotas": 9.265,
+    "MediaDeDesvios": 1.8050000000000002,
+    "NotaMediana": 9.5
+  },
+  "DBQ0044 - INTRODUÇÃO À BIOLOGIA DE SISTEMAS": {
+    "Notas": [
+      9.72
+    ],
+    "Desvios": [
+      1.31
+    ],
+    "Docentes": [
+      "BEATRIZ STRANSKY FERREIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.72,
+    "MediaDeDesvios": 1.31,
+    "NotaMediana": 9.72
+  },
+  "DEB0920 - ENGENHARIA TECIDUAL": {
+    "Notas": [
+      9.28,
+      9.36,
+      9.47,
+      9.74
+    ],
+    "Desvios": [
+      1.83,
+      1.38,
+      1.85,
+      1.4
+    ],
+    "Docentes": [
+      "CAROLINE DANTAS VILAR WANDERLEY"
+    ],
+    "DesvioDeNotas": 0.17383541066192504,
+    "MediaDeNotas": 9.4625,
+    "MediaDeDesvios": 1.6150000000000002,
+    "NotaMediana": 9.47
+  },
+  "DEB0601 - IMPLANTES ODONTO-MÉDICOS": {
+    "Notas": [
+      7.99,
+      8.93,
+      9.45,
+      9.47
+    ],
+    "Desvios": [
+      1.74,
+      2.49,
+      3.15,
+      1.26
+    ],
+    "Docentes": [
+      "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO"
+    ],
+    "DesvioDeNotas": 0.600416522091123,
+    "MediaDeNotas": 8.959999999999999,
+    "MediaDeDesvios": 2.16,
+    "NotaMediana": 9.45
+  },
+  "DEB0504 - INTRODUÇÃO À ENGENHARIA BIOMÉDICA": {
+    "Notas": [
+      7.16,
+      8.68,
+      9.23,
+      9.67
+    ],
+    "Desvios": [
+      1.5,
+      2.27,
+      3.35,
+      1.58
+    ],
+    "Docentes": [
+      "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO"
+    ],
+    "DesvioDeNotas": 0.9477473291969754,
+    "MediaDeNotas": 8.685,
+    "MediaDeDesvios": 2.175,
+    "NotaMediana": 9.23
+  },
+  "DEB0605 - BIOMECÂNICA DO MOVIMENTO HUMANO": {
+    "Notas": [
+      7.15,
+      7.87,
+      8.3
+    ],
+    "Desvios": [
+      2.57,
+      2.6,
+      3.13
+    ],
+    "Docentes": [
+      "DANILO ALVES PINTO NAGEM"
+    ],
+    "DesvioDeNotas": 0.4744353368889052,
+    "MediaDeNotas": 7.773333333333333,
+    "MediaDeDesvios": 2.766666666666667,
+    "NotaMediana": 7.87
+  },
+  "DEB0822 - INSTRUMENTAÇÃO HOSPITALAR": {
+    "Notas": [
+      7.71,
+      8.26,
+      9.04,
+      9.19
+    ],
+    "Desvios": [
+      2.29,
+      2.52,
+      2.69,
+      2.39
+    ],
+    "Docentes": [
+      "GEORGE CARLOS DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.599874986976453,
+    "MediaDeNotas": 8.549999999999999,
+    "MediaDeDesvios": 2.4725,
+    "NotaMediana": 9.04
+  },
+  "DEB0707 - INTRODUÇÃO À NEUROENGENHARIA": {
+    "Notas": [
+      8.28,
+      8.3,
+      8.83,
+      9.18
+    ],
+    "Desvios": [
+      2.23,
+      2.26,
+      3.09,
+      2.42
+    ],
+    "Docentes": [
+      "GEORGE CARLOS DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.3783764659700705,
+    "MediaDeNotas": 8.647499999999999,
+    "MediaDeDesvios": 2.5,
+    "NotaMediana": 8.83
+  },
+  "DEB0925 - PROCESSAMENTO DIGITAL DE IMAGENS": {
+    "Notas": [
+      8.11,
+      8.3,
+      8.86,
+      8.94
+    ],
+    "Desvios": [
+      2.88,
+      2.78,
+      2.58,
+      1.77
+    ],
+    "Docentes": [
+      "HELIANA BEZERRA SOARES"
+    ],
+    "DesvioDeNotas": 0.3550616143713649,
+    "MediaDeNotas": 8.5525,
+    "MediaDeDesvios": 2.5025,
+    "NotaMediana": 8.86
+  },
+  "DEB0503 - SISTEMAS DE INFORMAÇÃO NA SAÚDE": {
+    "Notas": [
+      8.44,
+      9.13,
+      9.26,
+      9.55
+    ],
+    "Desvios": [
+      1.59,
+      2,
+      2.29,
+      1.53
+    ],
+    "Docentes": [
+      "HELIANA BEZERRA SOARES"
+    ],
+    "DesvioDeNotas": 0.4075843470988555,
+    "MediaDeNotas": 9.094999999999999,
+    "MediaDeDesvios": 1.8525,
+    "NotaMediana": 9.26
+  },
+  "DEB0922 - ENGENHARIA CLÍNICA": {
+    "Notas": [
+      7.66,
+      8.7,
+      9.03,
+      9.09
+    ],
+    "Desvios": [
+      2.47,
+      1.98,
+      1.8,
+      2.16
+    ],
+    "Docentes": [
+      "HELIO ROBERTO HEKIS"
+    ],
+    "DesvioDeNotas": 0.5738031021177906,
+    "MediaDeNotas": 8.620000000000001,
+    "MediaDeDesvios": 2.1025,
+    "NotaMediana": 9.03
+  },
+  "DEB0505 - GESTÃO E EMPREENDEDORISMO NA SAÚDE": {
+    "Notas": [
+      9.08,
+      9.16
+    ],
+    "Desvios": [
+      2,
+      1.69
+    ],
+    "Docentes": [
+      "HELIO ROBERTO HEKIS"
+    ],
+    "DesvioDeNotas": 0.040000000000000036,
+    "MediaDeNotas": 9.120000000000001,
+    "MediaDeDesvios": 1.845,
+    "NotaMediana": 9.16
+  },
+  "DEB0604 - BASES CINESIOLÓGICAS DO MOVIMENTO HUMANO": {
+    "Notas": [
+      9.68,
+      9.83,
+      9.86,
+      9.86
+    ],
+    "Desvios": [
+      1.53,
+      1.13,
+      1.18,
+      0.83
+    ],
+    "Docentes": [
+      "IVANIZIA SOARES DA SILVA",
+      "LUCIANA DE ANDRADE MENDES"
+    ],
+    "DesvioDeNotas": 0.07462405778299643,
+    "MediaDeNotas": 9.8075,
+    "MediaDeDesvios": 1.1675,
+    "NotaMediana": 9.86
+  },
+  "DEB0902 - ÓRTESES E PRÓTESES": {
+    "Notas": [
+      9.66,
+      9.74,
+      9.87,
+      9.9
+    ],
+    "Desvios": [
+      1.94,
+      1.14,
+      1.79,
+      0.88
+    ],
+    "Docentes": [
+      "IVANIZIA SOARES DA SILVA",
+      "LUCIANA DE ANDRADE MENDES"
+    ],
+    "DesvioDeNotas": 0.09730750228014269,
+    "MediaDeNotas": 9.792499999999999,
+    "MediaDeDesvios": 1.4375,
+    "NotaMediana": 9.87
+  },
+  "DEB0926 - ANÁLISE ESTRUTURAL BIOMÉDICA": {
+    "Notas": [
+      9.68
+    ],
+    "Desvios": [
+      1.55
+    ],
+    "Docentes": [
+      "KARILANY DANTAS COUTINHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.68,
+    "MediaDeDesvios": 1.55,
+    "NotaMediana": 9.68
+  },
+  "DEB0701 - RESISTÊNCIA DOS MATERIAIS": {
+    "Notas": [
+      7.43,
+      7.63,
+      9.15,
+      9.63
+    ],
+    "Desvios": [
+      1.38,
+      1.77,
+      2.41,
+      2.85
+    ],
+    "Docentes": [
+      "KARILANY DANTAS COUTINHO"
+    ],
+    "DesvioDeNotas": 0.9479978902930116,
+    "MediaDeNotas": 8.46,
+    "MediaDeDesvios": 2.1025,
+    "NotaMediana": 9.15
+  },
+  "DEB0705 - ELETRÔNICA ANALÓGICA": {
+    "Notas": [
+      9.59,
+      9.61,
+      9.63,
+      9.88
+    ],
+    "Desvios": [
+      1.66,
+      1.48,
+      1.44,
+      1.15
+    ],
+    "Docentes": [
+      "THAMYRES TAMULLA CAVALCANTE PALITO",
+      "ALAN CASSIO QUEIROZ BEZERRA LEITE"
+    ],
+    "DesvioDeNotas": 0.11776565713313913,
+    "MediaDeNotas": 9.6775,
+    "MediaDeDesvios": 1.4325,
+    "NotaMediana": 9.63
+  },
+  "DEB0804 - PROCESSAMENTO DIGITAL DE SINAIS": {
+    "Notas": [
+      9.23,
+      9.63,
+      9.77,
+      9.85
+    ],
+    "Desvios": [
+      2.1,
+      1.06,
+      1.01,
+      1.36
+    ],
+    "Docentes": [
+      "THAMYRES TAMULLA CAVALCANTE PALITO",
+      "ALAN CASSIO QUEIROZ BEZERRA LEITE"
+    ],
+    "DesvioDeNotas": 0.23853720883753096,
+    "MediaDeNotas": 9.620000000000001,
+    "MediaDeDesvios": 1.3825,
+    "NotaMediana": 9.77
+  },
+  "DEB0603 - SINAIS E SISTEMAS": {
+    "Notas": [
+      9.32,
+      9.71,
+      9.73,
+      9.77
+    ],
+    "Desvios": [
+      1.09,
+      0.72,
+      2,
+      0.87
+    ],
+    "Docentes": [
+      "THAMYRES TAMULLA CAVALCANTE PALITO",
+      "ALAN CASSIO QUEIROZ BEZERRA LEITE"
+    ],
+    "DesvioDeNotas": 0.18171062159378573,
+    "MediaDeNotas": 9.6325,
+    "MediaDeDesvios": 1.17,
+    "NotaMediana": 9.73
+  },
+  "DEB0806 - SISTEMAS DIGITAIS": {
+    "Notas": [
+      9.55,
+      9.58,
+      9.82,
+      9.82
+    ],
+    "Desvios": [
+      2.22,
+      1.15,
+      1.4,
+      1.06
+    ],
+    "Docentes": [
+      "THAMYRES TAMULLA CAVALCANTE PALITO",
+      "ALAN CASSIO QUEIROZ BEZERRA LEITE"
+    ],
+    "DesvioDeNotas": 0.1279404158192398,
+    "MediaDeNotas": 9.692499999999999,
+    "MediaDeDesvios": 1.4575,
+    "NotaMediana": 9.82
+  },
+  "DEB1120 - TI NA SAÚDE": {
+    "Notas": [
+      7.89
+    ],
+    "Desvios": [
+      2.76
+    ],
+    "Docentes": [
+      "BEATRIZ STRANSKY FERREIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 7.89,
+    "MediaDeDesvios": 2.76,
+    "NotaMediana": 7.89
+  },
+  "DEB1113 - REABILITAÇÃO ORAL": {
+    "Notas": [
+      9.83,
+      9.98
+    ],
+    "Desvios": [
+      0.77,
+      0.76
+    ],
+    "Docentes": [
+      "CAROLINE DANTAS VILAR WANDERLEY"
+    ],
+    "DesvioDeNotas": 0.07500000000000018,
+    "MediaDeNotas": 9.905000000000001,
+    "MediaDeDesvios": 0.765,
+    "NotaMediana": 9.98
+  },
+  "DEB0824 - CIRURGIA E REABILITAÇÃO BUCOMAXILAR": {
+    "Notas": [
+      9.63,
+      9.84
+    ],
+    "Desvios": [
+      0.82,
+      1.13
+    ],
+    "Docentes": [
+      "CAROLINE DANTAS VILAR WANDERLEY"
+    ],
+    "DesvioDeNotas": 0.10499999999999954,
+    "MediaDeNotas": 9.735,
+    "MediaDeDesvios": 0.9749999999999999,
+    "NotaMediana": 9.84
+  },
+  "DEB0924 - PROJETO BIOMÉDICO": {
+    "Notas": [
+      8.09,
+      8.31
+    ],
+    "Desvios": [
+      2.06,
+      1.98
+    ],
+    "Docentes": [
+      "DANILO ALVES PINTO NAGEM"
+    ],
+    "DesvioDeNotas": 0.11000000000000032,
+    "MediaDeNotas": 8.2,
+    "MediaDeDesvios": 2.02,
+    "NotaMediana": 8.31
+  },
+  "DEB1106 - TÓPICOS ESPECIAIS EM ENG. BIOMÉDICA": {
+    "Notas": [
+      9.32
+    ],
+    "Desvios": [
+      1.37
+    ],
+    "Docentes": [
+      "GEORGE CARLOS DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.32,
+    "MediaDeDesvios": 1.37,
+    "NotaMediana": 9.32
+  },
+  "DEB0512 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE": {
+    "Notas": [
+      8.25
+    ],
+    "Desvios": [
+      2.13
+    ],
+    "Docentes": [
+      "BEATRIZ STRANSKY FERREIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.25,
+    "MediaDeDesvios": 2.13,
+    "NotaMediana": 8.25
+  },
+  "ICE1022 - INTERFACES CÉREBRO-MÁQUINA E NEUROMODULAÇÃO": {
+    "Notas": [
+      9.08
+    ],
+    "Desvios": [
+      1.88
+    ],
+    "Docentes": [
+      "GEORGE CARLOS DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.08,
+    "MediaDeDesvios": 1.88,
+    "NotaMediana": 9.08
+  }
+}

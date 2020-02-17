@@ -1,0 +1,1861 @@
+{
+  "ADM0512 - ADMINISTRACAO ESTRATEGICA": {
+    "Notas": [
+      8.12,
+      8.36,
+      8.57,
+      8.58,
+      8.88,
+      8.91,
+      9.28,
+      9.39,
+      9.54
+    ],
+    "Desvios": [
+      2.41,
+      1.81,
+      1.74,
+      1.67,
+      2.56,
+      1.63,
+      2.53,
+      1.78,
+      2.28
+    ],
+    "Docentes": [
+      "AFRANIO GALDINO DE ARAUJO",
+      "DINARA LESLYE MACEDO E SILVA CALAZANS",
+      "PATRICIA WHEBBER SOUZA DE OLIVEIRA",
+      "VIDAL SUNCION INFANTE"
+    ],
+    "DesvioDeNotas": 0.45720838375169753,
+    "MediaDeNotas": 8.847777777777779,
+    "MediaDeDesvios": 2.0455555555555556,
+    "NotaMediana": 8.88
+  },
+  "ADM0535 - TOPICOS ESPECIAIS IV": {
+    "Notas": [
+      8.93,
+      9.07
+    ],
+    "Desvios": [
+      1.98,
+      1.45
+    ],
+    "Docentes": [
+      "AFRANIO GALDINO DE ARAUJO",
+      "THELMA PIGNATARO"
+    ],
+    "DesvioDeNotas": 0.07000000000000028,
+    "MediaDeNotas": 9,
+    "MediaDeDesvios": 1.7149999999999999,
+    "NotaMediana": 9.07
+  },
+  "ADM0073 - ESTUDOS ORGANIZACIONAIS CONTEMPORANEOS": {
+    "Notas": [
+      9.43,
+      9.54
+    ],
+    "Desvios": [
+      1.37,
+      1.53
+    ],
+    "Docentes": [
+      "ALINE GEHLEN RODRIGUES SILVA",
+      "HENRIQUE CLEMENTINO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.054999999999999716,
+    "MediaDeNotas": 9.485,
+    "MediaDeDesvios": 1.4500000000000002,
+    "NotaMediana": 9.54
+  },
+  "ADM0057 - MARKETING I": {
+    "Notas": [
+      8.77,
+      8.85,
+      8.98,
+      9.09,
+      9.14,
+      9.23,
+      9.34,
+      9.57
+    ],
+    "Desvios": [
+      1.54,
+      2.07,
+      2.12,
+      1.96,
+      1.5,
+      2.07,
+      1.72,
+      1.74
+    ],
+    "Docentes": [
+      "ALINE GEHLEN RODRIGUES SILVA",
+      "THELMA PIGNATARO",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO",
+      "MARIA VALERIA PEREIRA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.2447671086972269,
+    "MediaDeNotas": 9.121250000000002,
+    "MediaDeDesvios": 1.8400000000000003,
+    "NotaMediana": 9.14
+  },
+  "ADM0067 - NOVAS TECNOLOGIAS NA GESTÃO PÚBLICA": {
+    "Notas": [
+      9.43,
+      9.45,
+      9.45,
+      9.59,
+      9.79,
+      9.87
+    ],
+    "Desvios": [
+      1.73,
+      1.49,
+      1.67,
+      1.81,
+      1.43,
+      0.9
+    ],
+    "Docentes": [
+      "ALINE GEHLEN RODRIGUES SILVA",
+      "CAROLINA DE SOUSA MARTINS MELO",
+      "DALVANIR AVELINO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.1746106780494505,
+    "MediaDeNotas": 9.596666666666666,
+    "MediaDeDesvios": 1.505,
+    "NotaMediana": 9.59
+  },
+  "ADM0504 - ORGANIZACAO E PROCESSOS": {
+    "Notas": [
+      8.34,
+      8.72
+    ],
+    "Desvios": [
+      1.94,
+      2.1
+    ],
+    "Docentes": [
+      "ALINE GEHLEN RODRIGUES SILVA"
+    ],
+    "DesvioDeNotas": 0.1900000000000004,
+    "MediaDeNotas": 8.530000000000001,
+    "MediaDeDesvios": 2.02,
+    "NotaMediana": 8.72
+  },
+  "ADM0075 - ORGANIZAÇÃO, PROCESSOS E SISTEMAS": {
+    "Notas": [
+      8.02,
+      8.28,
+      8.45,
+      8.56,
+      8.82,
+      8.87,
+      9.37,
+      9.39,
+      9.43,
+      9.52,
+      9.59,
+      9.64,
+      9.76
+    ],
+    "Desvios": [
+      2.33,
+      1.97,
+      1.68,
+      1.54,
+      1.38,
+      1.81,
+      1.62,
+      2.41,
+      1.84,
+      1.64,
+      1.78,
+      1.87,
+      1.4
+    ],
+    "Docentes": [
+      "ALINE GEHLEN RODRIGUES SILVA",
+      "DINARA LESLYE MACEDO E SILVA CALAZANS",
+      "JOAO HEITOR DE AVILA SANTOS",
+      "CAROLINA DE SOUSA MARTINS MELO",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO",
+      "MILENA CRISTINA DUARTE DE ALMEIDA",
+      "FRANCENILDO DANTAS RODRIGUES",
+      "JOANNES EMMANUEL DANTAS E RODRIGUES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.5592651560690148,
+    "MediaDeNotas": 9.053846153846155,
+    "MediaDeDesvios": 1.79,
+    "NotaMediana": 9.37
+  },
+  "ADM0135 - OFICINA DE PROJETO II": {
+    "Notas": [
+      8.25,
+      8.57,
+      8.69,
+      9.04,
+      9.18,
+      9.27,
+      9.48,
+      9.51,
+      9.56,
+      9.57,
+      9.69
+    ],
+    "Desvios": [
+      1.79,
+      1.79,
+      1.74,
+      1.78,
+      1.27,
+      1.66,
+      1.3,
+      2.27,
+      1.16,
+      1.02,
+      2.03
+    ],
+    "Docentes": [
+      "ANA PATRICIA RODRIGUES LEITE",
+      "ANTONIO CARLOS FERREIRA",
+      "CAROLINA DE SOUSA MARTINS MELO",
+      "EVANGELINA DE MELLO BASTOS",
+      "VICENTE MORO"
+    ],
+    "DesvioDeNotas": 0.4530374986760054,
+    "MediaDeNotas": 9.164545454545454,
+    "MediaDeDesvios": 1.6190909090909094,
+    "NotaMediana": 9.27
+  },
+  "ADM0058 - GESTÃO DE SISTEMA DE INFORMAÇÃO": {
+    "Notas": [
+      9.02,
+      9.15,
+      9.4,
+      9.45,
+      9.52,
+      9.58,
+      9.62,
+      9.64,
+      9.64,
+      9.67
+    ],
+    "Desvios": [
+      1.74,
+      1.58,
+      1.64,
+      1.76,
+      2.01,
+      1.85,
+      1.55,
+      1.14,
+      1.12,
+      1.5
+    ],
+    "Docentes": [
+      "ANATALIA SARAIVA MARTINS RAMOS",
+      "DANIEL DE ARAUJO MARTINS",
+      "FRANCENILDO DANTAS RODRIGUES",
+      "RENAN FELINTO DE FARIAS AIRES"
+    ],
+    "DesvioDeNotas": 0.21097156206465367,
+    "MediaDeNotas": 9.469000000000001,
+    "MediaDeDesvios": 1.589,
+    "NotaMediana": 9.58
+  },
+  "ADM0416 - ADMINISTRACAO FINANCEIRA II": {
+    "Notas": [
+      6.72,
+      7.99,
+      8.15,
+      8.61,
+      8.7,
+      8.82,
+      8.91,
+      8.96
+    ],
+    "Desvios": [
+      2.39,
+      2.02,
+      2.41,
+      3.37,
+      1.76,
+      2.06,
+      2.41,
+      1.62
+    ],
+    "Docentes": [
+      "ANDERSON LUIZ REZENDE MOL",
+      "VINICIO DE SOUZA E ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.7002454926666791,
+    "MediaDeNotas": 8.3575,
+    "MediaDeDesvios": 2.2550000000000003,
+    "NotaMediana": 8.7
+  },
+  "ADM0068 - ADMINISTRAÇÃO DE MATERIAIS E PATRIMÔNIO": {
+    "Notas": [
+      9.59,
+      9.73,
+      9.74,
+      9.75,
+      9.79,
+      9.81,
+      9.88,
+      9.95
+    ],
+    "Desvios": [
+      1.31,
+      1.22,
+      1.67,
+      1.37,
+      1.38,
+      1.59,
+      1.48,
+      1.13
+    ],
+    "Docentes": [
+      "ANNE EMILIA COSTA CARVALHO"
+    ],
+    "DesvioDeNotas": 0.10062305898749048,
+    "MediaDeNotas": 9.780000000000001,
+    "MediaDeDesvios": 1.3937500000000003,
+    "NotaMediana": 9.79
+  },
+  "ADM0524 - CONSULTORIA EMPRESARIAL": {
+    "Notas": [
+      9.14,
+      9.19,
+      9.24,
+      9.25,
+      9.27,
+      9.29,
+      9.48,
+      9.68
+    ],
+    "Desvios": [
+      1.6,
+      2.11,
+      2.03,
+      1.83,
+      1.96,
+      1.73,
+      1.43,
+      1.42
+    ],
+    "Docentes": [
+      "ANTONIO CARLOS FERREIRA"
+    ],
+    "DesvioDeNotas": 0.1655105736803543,
+    "MediaDeNotas": 9.3175,
+    "MediaDeDesvios": 1.7637500000000002,
+    "NotaMediana": 9.27
+  },
+  "ADM0062 - GESTÃO DE EMPREENDIMENTOS ECONÔMICO-SOLIDÁRIOS": {
+    "Notas": [
+      9.13,
+      9.47,
+      9.52,
+      9.74,
+      9.79
+    ],
+    "Desvios": [
+      1.94,
+      1.44,
+      1.35,
+      1.33,
+      1.32
+    ],
+    "Docentes": [
+      "BRUNO LUAN DANTAS CARDOSO",
+      "RAONI FERNANDES AZEREDO"
+    ],
+    "DesvioDeNotas": 0.2346912865872949,
+    "MediaDeNotas": 9.53,
+    "MediaDeDesvios": 1.4760000000000002,
+    "NotaMediana": 9.52
+  },
+  "ADM0501 - GESTAO EMPRESARIAL": {
+    "Notas": [
+      9.13,
+      9.57,
+      9.82
+    ],
+    "Desvios": [
+      1.88,
+      1.9,
+      1.86
+    ],
+    "Docentes": [
+      "CARLOS ALBERTO FREIRE MEDEIROS",
+      "HENRIQUE CLEMENTINO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.28522895287041855,
+    "MediaDeNotas": 9.506666666666668,
+    "MediaDeDesvios": 1.88,
+    "NotaMediana": 9.57
+  },
+  "ADM0078 - LOGÍSTICA EMPRESARIAL": {
+    "Notas": [
+      7.31,
+      7.95,
+      8.58,
+      8.7,
+      8.91,
+      9,
+      9.31,
+      9.32,
+      9.37
+    ],
+    "Desvios": [
+      1.91,
+      1.97,
+      2.71,
+      2.16,
+      2.57,
+      2.36,
+      1.55,
+      2,
+      1.26
+    ],
+    "Docentes": [
+      "CARLOS ALBERTO FREIRE MEDEIROS",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO",
+      "HENRIQUE CLEMENTINO DE SOUZA",
+      "MILENA CRISTINA DUARTE DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.6537073759208576,
+    "MediaDeNotas": 8.716666666666667,
+    "MediaDeDesvios": 2.0544444444444445,
+    "NotaMediana": 8.91
+  },
+  "ADM0425 - ADMINISTRACAO DA PRODUCAO II": {
+    "Notas": [
+      8.59,
+      9.27,
+      9.43,
+      9.52,
+      9.55,
+      9.57,
+      9.57,
+      9.59,
+      9.79
+    ],
+    "Desvios": [
+      1.35,
+      1.51,
+      1.7,
+      1.57,
+      1.68,
+      1.29,
+      1.77,
+      1.73,
+      1.52
+    ],
+    "Docentes": [
+      "CARLOS DAVID CEQUEIRA FEITOR",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO",
+      "RENAN FELINTO DE FARIAS AIRES"
+    ],
+    "DesvioDeNotas": 0.3245661872046181,
+    "MediaDeNotas": 9.431111111111111,
+    "MediaDeDesvios": 1.568888888888889,
+    "NotaMediana": 9.55
+  },
+  "ADM0523 - EMPREENDEDORISMO E PLANO DE NEGÓCIOS": {
+    "Notas": [
+      7.69,
+      7.96,
+      8.13,
+      8.22,
+      8.24,
+      8.66,
+      9.22,
+      9.22,
+      9.25,
+      9.26,
+      9.32,
+      9.44,
+      9.65,
+      9.7,
+      9.73,
+      9.75,
+      9.78,
+      9.89
+    ],
+    "Desvios": [
+      1.95,
+      2.65,
+      2.83,
+      1.32,
+      1.43,
+      2.02,
+      2.82,
+      3.07,
+      2.32,
+      3.04,
+      3.08,
+      1.1,
+      1.23,
+      1.26,
+      0.99,
+      1.87,
+      1.66,
+      1.06
+    ],
+    "Docentes": [
+      "CAROLINA DE SOUSA MARTINS MELO",
+      "JOSE BOLIVAR VIEIRA DA ROCHA",
+      "JOAO HEITOR DE AVILA SANTOS",
+      "FRANCENILDO DANTAS RODRIGUES",
+      "JOANNES EMMANUEL DANTAS E RODRIGUES DE LIMA",
+      "RENAN FELINTO DE FARIAS AIRES"
+    ],
+    "DesvioDeNotas": 0.6959825189375567,
+    "MediaDeNotas": 9.061666666666667,
+    "MediaDeDesvios": 1.9833333333333334,
+    "NotaMediana": 9.26
+  },
+  "APS1001 - FUNDAMENTOS DA ADMINISTRAÇÃO PÚBLICA": {
+    "Notas": [
+      9.69
+    ],
+    "Desvios": [
+      1.51
+    ],
+    "Docentes": [
+      "CAROLINA DE SOUSA MARTINS MELO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.69,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.69
+  },
+  "ADM0518 - SISTEMAS DE GESTAO DA QUALIDADE": {
+    "Notas": [
+      7.48,
+      8.67,
+      9,
+      9.35,
+      9.4,
+      9.48,
+      9.59,
+      9.69,
+      9.71,
+      9.73
+    ],
+    "Desvios": [
+      1.46,
+      1.8,
+      1.74,
+      1.54,
+      2.37,
+      2.67,
+      1.46,
+      1.58,
+      1.35,
+      1.19
+    ],
+    "Docentes": [
+      "CAROLINA DE SOUSA MARTINS MELO",
+      "FRANCENILDO DANTAS RODRIGUES",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO",
+      "MILENA CRISTINA DUARTE DE ALMEIDA",
+      "RENAN FELINTO DE FARIAS AIRES"
+    ],
+    "DesvioDeNotas": 0.659727216355366,
+    "MediaDeNotas": 9.21,
+    "MediaDeDesvios": 1.716,
+    "NotaMediana": 9.48
+  },
+  "ADM0059 - GESTÃO DA TECNOLOGIA DA INFORMAÇÃO": {
+    "Notas": [
+      7.12,
+      7.71,
+      9.37,
+      9.46,
+      9.62,
+      9.64,
+      9.65,
+      9.79,
+      9.84
+    ],
+    "Desvios": [
+      1.71,
+      2.89,
+      1.55,
+      1.6,
+      1.72,
+      1.62,
+      1.2,
+      1.28,
+      2.21
+    ],
+    "Docentes": [
+      "DANIEL DE ARAUJO MARTINS",
+      "MANOEL VERAS DE SOUSA NETO",
+      "EVANGELINA DE MELLO BASTOS",
+      "FRANCENILDO DANTAS RODRIGUES"
+    ],
+    "DesvioDeNotas": 0.9388645624724935,
+    "MediaDeNotas": 9.133333333333333,
+    "MediaDeDesvios": 1.753333333333333,
+    "NotaMediana": 9.62
+  },
+  "ADM0500 - METODOLOGIA CIENTIFICA E PESQUISA EM ADMINISTRACAO": {
+    "Notas": [
+      9.11,
+      9.22,
+      9.29,
+      9.35,
+      9.5,
+      9.54,
+      9.69
+    ],
+    "Desvios": [
+      1.46,
+      1.75,
+      1.93,
+      2.06,
+      2.05,
+      1.66,
+      1.72
+    ],
+    "Docentes": [
+      "DINARA LESLYE MACEDO E SILVA CALAZANS",
+      "EVANGELINA DE MELLO BASTOS",
+      "VICENTE MORO"
+    ],
+    "DesvioDeNotas": 0.18646004113153966,
+    "MediaDeNotas": 9.385714285714284,
+    "MediaDeDesvios": 1.8042857142857145,
+    "NotaMediana": 9.35
+  },
+  "ADM0001 - INTRODUCAO A ADMINISTRACAO": {
+    "Notas": [
+      7.79,
+      7.9,
+      8.37,
+      8.42,
+      8.8,
+      8.8,
+      9,
+      9.07,
+      9.22,
+      9.32,
+      9.63,
+      9.65
+    ],
+    "Desvios": [
+      1.8,
+      2.06,
+      3.07,
+      1.71,
+      1.9,
+      2.6,
+      2.19,
+      2.35,
+      3.69,
+      2.79,
+      1.93,
+      2.5
+    ],
+    "Docentes": [
+      "EVANGELINA DE MELLO BASTOS",
+      "JOAO HEITOR DE AVILA SANTOS",
+      "VIDAL SUNCION INFANTE",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO",
+      "FRANCENILDO DANTAS RODRIGUES",
+      "JOSE BOLIVAR VIEIRA DA ROCHA",
+      "MARCELO RIQUE CARICIO"
+    ],
+    "DesvioDeNotas": 0.5858819325503126,
+    "MediaDeNotas": 8.830833333333333,
+    "MediaDeDesvios": 2.3825,
+    "NotaMediana": 9
+  },
+  "ADM0060 - MARKETING II": {
+    "Notas": [
+      7.06,
+      8.49,
+      8.67,
+      9.08,
+      9.12,
+      9.28,
+      9.28,
+      9.63,
+      9.72
+    ],
+    "Desvios": [
+      1.37,
+      1.7,
+      2.22,
+      1.58,
+      1.49,
+      3.15,
+      0.8,
+      1.08,
+      2.06
+    ],
+    "Docentes": [
+      "EVANGELINA DE MELLO BASTOS",
+      "MARIA VALERIA PEREIRA DE ARAUJO",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO",
+      "THELMA PIGNATARO",
+      "ANA PATRICIA RODRIGUES LEITE"
+    ],
+    "DesvioDeNotas": 0.7583331298331027,
+    "MediaDeNotas": 8.925555555555555,
+    "MediaDeDesvios": 1.716666666666667,
+    "NotaMediana": 9.12
+  },
+  "ADM0560 - PLANEJAMENTO, PROJETO E GESTAO EMPRESARIAL": {
+    "Notas": [
+      9.66,
+      9.79
+    ],
+    "Desvios": [
+      1.53,
+      1.01
+    ],
+    "Docentes": [
+      "EVANGELINA DE MELLO BASTOS",
+      "CAROLINA DE SOUSA MARTINS MELO"
+    ],
+    "DesvioDeNotas": 0.0649999999999995,
+    "MediaDeNotas": 9.725,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.79
+  },
+  "ADM0403 - ADMINISTRACAO FINANCEIRA I": {
+    "Notas": [
+      6.79,
+      7.23,
+      7.32,
+      7.47,
+      7.62,
+      8.1,
+      8.57,
+      8.57,
+      8.78,
+      8.78,
+      8.81,
+      8.85,
+      9,
+      9.09,
+      9.12,
+      9.16,
+      9.29,
+      9.29,
+      9.3,
+      9.73
+    ],
+    "Desvios": [
+      1.57,
+      1.82,
+      2.88,
+      1.73,
+      1.6,
+      1.54,
+      1.74,
+      2.69,
+      2.56,
+      2.57,
+      2.29,
+      1.9,
+      1.91,
+      2.11,
+      2.29,
+      1.62,
+      1.76,
+      1.74,
+      1.92,
+      2.36
+    ],
+    "Docentes": [
+      "GABRIEL MARTINS DE ARAUJO FILHO",
+      "JOSE FLAVIO LOPES VIEIRA",
+      "MARCO AURELIO DE ALBUQUERQUE OTHON",
+      "VALDEMIR GALVAO DE CARVALHO",
+      "RUAN RODRIGO ARAUJO DA COSTA",
+      "VINICIO DE SOUZA E ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.8090505237622677,
+    "MediaDeNotas": 8.5435,
+    "MediaDeDesvios": 2.03,
+    "NotaMediana": 8.81
+  },
+  "ADM0404 - ORCAMENTO EMPRESARIAL": {
+    "Notas": [
+      6.9,
+      8.62,
+      8.8,
+      8.87,
+      8.9,
+      8.92,
+      9.04,
+      9.3,
+      9.55
+    ],
+    "Desvios": [
+      2.75,
+      2.29,
+      1.26,
+      2.26,
+      2.32,
+      1.99,
+      1.78,
+      1.41,
+      2.2
+    ],
+    "Docentes": [
+      "GABRIEL MARTINS DE ARAUJO FILHO",
+      "MARCO AURELIO DE ALBUQUERQUE OTHON",
+      "ANDERSON LUIZ REZENDE MOL"
+    ],
+    "DesvioDeNotas": 0.7096008267563768,
+    "MediaDeNotas": 8.766666666666666,
+    "MediaDeDesvios": 2.0288888888888885,
+    "NotaMediana": 8.9
+  },
+  "ADM0424 - ADMINISTRACAO DA PRODUCAO I": {
+    "Notas": [
+      8.63,
+      9.18,
+      9.45,
+      9.46,
+      9.49,
+      9.52,
+      9.7,
+      9.8
+    ],
+    "Desvios": [
+      2.09,
+      1.76,
+      1.47,
+      1.99,
+      1.7,
+      1.65,
+      1.53,
+      1.26
+    ],
+    "Docentes": [
+      "HENRIQUE CLEMENTINO DE SOUZA",
+      "FRANCENILDO DANTAS RODRIGUES",
+      "CARLOS DAVID CEQUEIRA FEITOR"
+    ],
+    "DesvioDeNotas": 0.3390773326248746,
+    "MediaDeNotas": 9.40375,
+    "MediaDeDesvios": 1.68125,
+    "NotaMediana": 9.49
+  },
+  "ADM0136 - ADMINISTRAÇÃO FINANCEIRA EM EMPREENDIMENTOS TURÍSTICOS": {
+    "Notas": [
+      2.94,
+      8.78,
+      8.9,
+      9.08,
+      9.15,
+      9.21,
+      9.26,
+      9.28,
+      9.32
+    ],
+    "Desvios": [
+      2.43,
+      1.88,
+      1.95,
+      1.98,
+      3.79,
+      1.43,
+      1.85,
+      1.63,
+      1.51
+    ],
+    "Docentes": [
+      "HENRIQUE CLEMENTINO DE SOUZA",
+      "GABRIEL MARTINS DE ARAUJO FILHO",
+      "JOSE FLAVIO LOPES VIEIRA",
+      "MARCO AURELIO DE ALBUQUERQUE OTHON"
+    ],
+    "DesvioDeNotas": 1.950385210448388,
+    "MediaDeNotas": 8.435555555555556,
+    "MediaDeDesvios": 2.0500000000000003,
+    "NotaMediana": 9.15
+  },
+  "ADM0525 - JOGOS DE EMPRESAS": {
+    "Notas": [
+      9.29,
+      9.52
+    ],
+    "Desvios": [
+      1.81,
+      1.49
+    ],
+    "Docentes": [
+      "HENRIQUE CLEMENTINO DE SOUZA",
+      "JOAO HEITOR DE AVILA SANTOS"
+    ],
+    "DesvioDeNotas": 0.11500000000000021,
+    "MediaDeNotas": 9.405,
+    "MediaDeDesvios": 1.65,
+    "NotaMediana": 9.52
+  },
+  "ADM0561 - COMERCIALIZACAO E MARKETING": {
+    "Notas": [
+      2.4
+    ],
+    "Desvios": [
+      3.85
+    ],
+    "Docentes": [
+      "JOACY PEDRO DE MACEDO MEDEIROS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 2.4,
+    "MediaDeDesvios": 3.85,
+    "NotaMediana": 2.4
+  },
+  "ADM0165 - MODELOS PARA TOMADA DE DECISÃO": {
+    "Notas": [
+      7.92
+    ],
+    "Desvios": [
+      2.71
+    ],
+    "Docentes": [
+      "JOAO HEITOR DE AVILA SANTOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 7.92,
+    "MediaDeDesvios": 2.71,
+    "NotaMediana": 7.92
+  },
+  "ADM0069 - NOÇÕES DE PESQUISA OPERACIONAL": {
+    "Notas": [
+      8.26,
+      8.94,
+      9.08,
+      9.09,
+      9.5,
+      9.57,
+      9.58,
+      9.61,
+      9.61,
+      9.77
+    ],
+    "Desvios": [
+      1.39,
+      1.36,
+      2.68,
+      1.26,
+      2.03,
+      1.23,
+      1.92,
+      2.28,
+      1.01,
+      1.08
+    ],
+    "Docentes": [
+      "JOAO HEITOR DE AVILA SANTOS",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO",
+      "HENRIQUE CLEMENTINO DE SOUZA",
+      "LUCIANO MENEZES BEZERRA SAMPAIO"
+    ],
+    "DesvioDeNotas": 0.4368168952776437,
+    "MediaDeNotas": 9.300999999999998,
+    "MediaDeDesvios": 1.6239999999999999,
+    "NotaMediana": 9.57
+  },
+  "ADM0422 - MATEMATICA FINANCEIRA": {
+    "Notas": [
+      7.04,
+      7.95,
+      8.04,
+      8.2,
+      8.5,
+      8.64,
+      8.73,
+      8.79,
+      8.81,
+      8.81,
+      8.84,
+      8.86,
+      8.9,
+      8.92,
+      9.04,
+      9.06,
+      9.1,
+      9.21,
+      9.41
+    ],
+    "Desvios": [
+      2.68,
+      2.21,
+      1.92,
+      2.71,
+      3.03,
+      2.57,
+      2.1,
+      2.34,
+      2.27,
+      2.02,
+      2.29,
+      1.44,
+      1.8,
+      1.82,
+      1.73,
+      1.84,
+      1.83,
+      1.7,
+      1.84
+    ],
+    "Docentes": [
+      "JOSE FLAVIO LOPES VIEIRA",
+      "VALDEMIR GALVAO DE CARVALHO",
+      "MARCO AURELIO DE ALBUQUERQUE OTHON",
+      "JOAO HEITOR DE AVILA SANTOS",
+      "RUAN RODRIGO ARAUJO DA COSTA",
+      "GABRIEL MARTINS DE ARAUJO FILHO"
+    ],
+    "DesvioDeNotas": 0.5317717211688706,
+    "MediaDeNotas": 8.676315789473684,
+    "MediaDeDesvios": 2.1126315789473686,
+    "NotaMediana": 8.81
+  },
+  "ADM0510 - MERCADO FINANCEIRO": {
+    "Notas": [
+      8.68,
+      8.86,
+      9.35
+    ],
+    "Desvios": [
+      2.26,
+      2.12,
+      1.73
+    ],
+    "Docentes": [
+      "JOSE FLAVIO LOPES VIEIRA",
+      "VALDEMIR GALVAO DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0.28311756490114764,
+    "MediaDeNotas": 8.963333333333333,
+    "MediaDeDesvios": 2.0366666666666666,
+    "NotaMediana": 8.86
+  },
+  "ADM0064 - COMPORTAMENTO ORGANIZACIONAL": {
+    "Notas": [
+      8.25,
+      8.66,
+      8.66,
+      9.04,
+      9.05,
+      9.56
+    ],
+    "Desvios": [
+      1.71,
+      2.13,
+      1.7,
+      1.21,
+      1.98,
+      1.7
+    ],
+    "Docentes": [
+      "LUCIANA BEZERRA DE SOUZA GIANASI",
+      "PATRICIA WHEBBER SOUZA DE OLIVEIRA",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO"
+    ],
+    "DesvioDeNotas": 0.4102844541697058,
+    "MediaDeNotas": 8.87,
+    "MediaDeDesvios": 1.7383333333333333,
+    "NotaMediana": 9.04
+  },
+  "ADM0541 - GESTAO DE PESSOAS I": {
+    "Notas": [
+      9,
+      9.06,
+      9.18,
+      9.24,
+      9.26,
+      9.3,
+      9.36,
+      9.58,
+      9.7,
+      9.78,
+      9.82,
+      9.99
+    ],
+    "Desvios": [
+      1.51,
+      1.71,
+      1.95,
+      2.26,
+      2.21,
+      1.91,
+      0.62,
+      1.6,
+      1.62,
+      1.66,
+      1.56,
+      1.14
+    ],
+    "Docentes": [
+      "LUCIANA BEZERRA DE SOUZA GIANASI",
+      "LUCILA MOURA RAMOS VASCONCELOS",
+      "EVANGELINA DE MELLO BASTOS",
+      "HENRIQUE CLEMENTINO DE SOUZA",
+      "JOAO HEITOR DE AVILA SANTOS",
+      "FRANCENILDO DANTAS RODRIGUES",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO",
+      "JOANNES EMMANUEL DANTAS E RODRIGUES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.31006607718714113,
+    "MediaDeNotas": 9.439166666666667,
+    "MediaDeDesvios": 1.6458333333333333,
+    "NotaMediana": 9.36
+  },
+  "ADM0542 - GESTAO DE PESSOAS II": {
+    "Notas": [
+      8.9,
+      9.02,
+      9.36,
+      9.41,
+      9.63,
+      9.65,
+      9.69,
+      9.76,
+      9.82,
+      9.9
+    ],
+    "Desvios": [
+      1.69,
+      1.53,
+      1.6,
+      1.57,
+      1.54,
+      1.42,
+      1.48,
+      1.64,
+      0.97,
+      1.59
+    ],
+    "Docentes": [
+      "LUCIANA BEZERRA DE SOUZA GIANASI",
+      "LUCILA MOURA RAMOS VASCONCELOS",
+      "EVANGELINA DE MELLO BASTOS",
+      "MILENA CRISTINA DUARTE DE ALMEIDA",
+      "JOANNES EMMANUEL DANTAS E RODRIGUES DE LIMA",
+      "JOAO HEITOR DE AVILA SANTOS",
+      "PATRICIA WHEBBER SOUZA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.3196310372914371,
+    "MediaDeNotas": 9.514,
+    "MediaDeDesvios": 1.5030000000000003,
+    "NotaMediana": 9.65
+  },
+  "ADM0079 - EMPREENDEDORISMO": {
+    "Notas": [
+      8.89,
+      8.98,
+      9.15,
+      9.3,
+      9.36,
+      9.38,
+      9.42,
+      9.53
+    ],
+    "Desvios": [
+      2.11,
+      1.77,
+      2.01,
+      1.8,
+      1.75,
+      1.6,
+      2.19,
+      1.13
+    ],
+    "Docentes": [
+      "MARCELO RIQUE CARICIO"
+    ],
+    "DesvioDeNotas": 0.20954936769172053,
+    "MediaDeNotas": 9.25125,
+    "MediaDeDesvios": 1.795,
+    "NotaMediana": 9.36
+  },
+  "ADM0077 - ADMINISTRAÇÃO DE CUSTOS GERENCIAIS": {
+    "Notas": [
+      8.81,
+      9.24,
+      9.43,
+      9.7
+    ],
+    "Desvios": [
+      2.02,
+      1.42,
+      1.27,
+      1.27
+    ],
+    "Docentes": [
+      "MARCO AURELIO DE ALBUQUERQUE OTHON",
+      "VALDEMIR GALVAO DE CARVALHO",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO"
+    ],
+    "DesvioDeNotas": 0.32422985673746907,
+    "MediaDeNotas": 9.295,
+    "MediaDeDesvios": 1.495,
+    "NotaMediana": 9.43
+  },
+  "ADM0103 - DESENVOLVIMENTO GERENCIAL E INTERPESSOAL": {
+    "Notas": [
+      7.41,
+      8.89,
+      8.99,
+      9.13,
+      9.23,
+      9.74
+    ],
+    "Desvios": [
+      1.49,
+      2.42,
+      1.27,
+      1.8,
+      1.69,
+      1.51
+    ],
+    "Docentes": [
+      "PATRICIA WHEBBER SOUZA DE OLIVEIRA",
+      "FRANCENILDO DANTAS RODRIGUES",
+      "JOAO HEITOR DE AVILA SANTOS"
+    ],
+    "DesvioDeNotas": 0.7182946625321827,
+    "MediaDeNotas": 8.898333333333335,
+    "MediaDeDesvios": 1.6966666666666665,
+    "NotaMediana": 9.13
+  },
+  "ADM0134 - OFICINA DE PROJETO I": {
+    "Notas": [
+      9.07,
+      9.09,
+      9.32,
+      9.37,
+      9.55
+    ],
+    "Desvios": [
+      1.95,
+      1.44,
+      1.24,
+      1.22,
+      1.26
+    ],
+    "Docentes": [
+      "VALDEMIR GALVAO DE CARVALHO",
+      "MATILDE MEDEIROS DE ARAÚJO"
+    ],
+    "DesvioDeNotas": 0.1804438970982395,
+    "MediaDeNotas": 9.28,
+    "MediaDeDesvios": 1.422,
+    "NotaMediana": 9.32
+  },
+  "ADM0074 - TEORIA GERAL DAS ORGANIZAÇÕES": {
+    "Notas": [
+      7.7,
+      7.92,
+      8.04,
+      8.47,
+      8.63,
+      8.93,
+      9.09,
+      9.2,
+      9.23,
+      9.28,
+      9.54,
+      9.9
+    ],
+    "Desvios": [
+      3.37,
+      3.24,
+      1.19,
+      1.91,
+      2.96,
+      2.82,
+      1.76,
+      2.31,
+      1.89,
+      2.74,
+      1.09,
+      1.87
+    ],
+    "Docentes": [
+      "VIDAL SUNCION INFANTE",
+      "ALINE GEHLEN RODRIGUES SILVA",
+      "HENRIQUE CLEMENTINO DE SOUZA",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO",
+      "DALVANIR AVELINO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.6534922213258038,
+    "MediaDeNotas": 8.8275,
+    "MediaDeDesvios": 2.2625000000000006,
+    "NotaMediana": 9.09
+  },
+  "ADM0045 - PLANEJAMENTO GOVERNAMENTAL": {
+    "Notas": [
+      8.31,
+      9.63,
+      9.72,
+      9.83
+    ],
+    "Desvios": [
+      2.25,
+      1.04,
+      1.12,
+      1.19
+    ],
+    "Docentes": [
+      "ALINE GEHLEN RODRIGUES SILVA",
+      "JOAO HEITOR DE AVILA SANTOS",
+      "MILENA CRISTINA DUARTE DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.6175101213745406,
+    "MediaDeNotas": 9.3725,
+    "MediaDeDesvios": 1.4,
+    "NotaMediana": 9.72
+  },
+  "ADM0170 - MARKETING DE VAREJO": {
+    "Notas": [
+      9.51,
+      9.56
+    ],
+    "Desvios": [
+      1.47,
+      1.55
+    ],
+    "Docentes": [
+      "ANA PATRICIA RODRIGUES LEITE",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO"
+    ],
+    "DesvioDeNotas": 0.025000000000000355,
+    "MediaDeNotas": 9.535,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.56
+  },
+  "ADM0054 - PODER, POLÍTICA E GESTÃO": {
+    "Notas": [
+      8.57,
+      8.59,
+      9.31,
+      9.42,
+      9.57
+    ],
+    "Desvios": [
+      1.78,
+      1.71,
+      1.86,
+      2.05,
+      1.74
+    ],
+    "Docentes": [
+      "CAROLINA DE SOUSA MARTINS MELO",
+      "MILENA CRISTINA DUARTE DE ALMEIDA",
+      "CARLOS ALBERTO PEREIRA LEITE FILHO"
+    ],
+    "DesvioDeNotas": 0.4261642875699465,
+    "MediaDeNotas": 9.092000000000002,
+    "MediaDeDesvios": 1.828,
+    "NotaMediana": 9.31
+  },
+  "ADM0520 - MARKETING DE VAREJO E SERVICOS": {
+    "Notas": [
+      5.3,
+      5.57,
+      8.66
+    ],
+    "Desvios": [
+      3.07,
+      2.45,
+      2.89
+    ],
+    "Docentes": [
+      "JOACY PEDRO DE MACEDO MEDEIROS"
+    ],
+    "DesvioDeNotas": 1.5242703172337904,
+    "MediaDeNotas": 6.510000000000001,
+    "MediaDeDesvios": 2.8033333333333332,
+    "NotaMediana": 5.57
+  },
+  "ADM0533 - TOPICOS ESPECIAIS II": {
+    "Notas": [
+      6.93,
+      8.29,
+      8.8,
+      9.51
+    ],
+    "Desvios": [
+      2.94,
+      2.99,
+      1.56,
+      1.56
+    ],
+    "Docentes": [
+      "JOSE BOLIVAR VIEIRA DA ROCHA",
+      "AFRANIO GALDINO DE ARAUJO",
+      "MANOEL VERAS DE SOUSA NETO"
+    ],
+    "DesvioDeNotas": 0.9439114100380397,
+    "MediaDeNotas": 8.3825,
+    "MediaDeDesvios": 2.2625,
+    "NotaMediana": 8.8
+  },
+  "COP0001 - COMUNICAÇÃO E EXPRESSÃO": {
+    "Notas": [
+      9.78
+    ],
+    "Desvios": [
+      0.52
+    ],
+    "Docentes": [
+      "JUAREZ AZEVEDO DE PAIVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.78,
+    "MediaDeDesvios": 0.52,
+    "NotaMediana": 9.78
+  },
+  "COP0012 - MOVIMENTOS SOCIAIS E PARTICIPAÇÃO": {
+    "Notas": [
+      9.86
+    ],
+    "Desvios": [
+      0.44
+    ],
+    "Docentes": [
+      "JUAREZ AZEVEDO DE PAIVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 0.44,
+    "NotaMediana": 9.86
+  },
+  "ADM0159 - GESTÃO DE PROJETOS": {
+    "Notas": [
+      8.83,
+      8.86
+    ],
+    "Desvios": [
+      2.15,
+      1.43
+    ],
+    "Docentes": [
+      "MANOEL VERAS DE SOUSA NETO"
+    ],
+    "DesvioDeNotas": 0.01499999999999968,
+    "MediaDeNotas": 8.844999999999999,
+    "MediaDeDesvios": 1.79,
+    "NotaMediana": 8.86
+  },
+  "COP0036 - ELABORAÇÃO DE PROJETO II": {
+    "Notas": [
+      9.75
+    ],
+    "Desvios": [
+      0.82
+    ],
+    "Docentes": [
+      "BRUNO LUAN DANTAS CARDOSO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 0.82,
+    "NotaMediana": 9.75
+  },
+  "ADM0066 - FUNDAMENTOS DA ADMINISTRAÇÃO PÚBLICA": {
+    "Notas": [
+      9.64,
+      9.95
+    ],
+    "Desvios": [
+      1.57,
+      1.15
+    ],
+    "Docentes": [
+      "CAROLINA DE SOUSA MARTINS MELO",
+      "DALVANIR AVELINO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.15499999999999936,
+    "MediaDeNotas": 9.795,
+    "MediaDeDesvios": 1.3599999999999999,
+    "NotaMediana": 9.95
+  },
+  "CST3166.1 - GESTÃO EM ALIMENTAÇÃO COLETIVA II - PRÁTICA I": {
+    "Notas": [
+      9.48
+    ],
+    "Desvios": [
+      0.84
+    ],
+    "Docentes": [
+      "DINARA LESLYE MACEDO E SILVA CALAZANS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 0.84,
+    "NotaMediana": 9.48
+  },
+  "CST3166.0 - GESTÃO EM ALIMENTAÇÃO COLETIVA II - TEORIA": {
+    "Notas": [
+      9.3
+    ],
+    "Desvios": [
+      1.23
+    ],
+    "Docentes": [
+      "DINARA LESLYE MACEDO E SILVA CALAZANS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.3,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.3
+  },
+  "CST3165.1 - VIGILÂNCIA E CONTROLE SANITÁRIO DE ALIMENTOS - PRÁTICA I": {
+    "Notas": [
+      9.52
+    ],
+    "Desvios": [
+      1.69
+    ],
+    "Docentes": [
+      "DINARA LESLYE MACEDO E SILVA CALAZANS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.52
+  },
+  "CST3165.2 - VIGILÂNCIA E CONTROLE SANITÁRIO DE ALIMENTOS - PRÁTICA II": {
+    "Notas": [
+      9.63,
+      9.89
+    ],
+    "Desvios": [
+      1.8,
+      1.13
+    ],
+    "Docentes": [
+      "DINARA LESLYE MACEDO E SILVA CALAZANS"
+    ],
+    "DesvioDeNotas": 0.1299999999999999,
+    "MediaDeNotas": 9.760000000000002,
+    "MediaDeDesvios": 1.4649999999999999,
+    "NotaMediana": 9.89
+  },
+  "COP0009 - RELAÇÕES HUMANAS NAS ORGANIZAÇÕES": {
+    "Notas": [
+      9.56,
+      9.58
+    ],
+    "Desvios": [
+      1.03,
+      0.97
+    ],
+    "Docentes": [
+      "GABRIEL MARTINS DE ARAUJO FILHO",
+      "PATRICIA WHEBBER SOUZA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.009999999999999787,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1,
+    "NotaMediana": 9.58
+  },
+  "COP0022 - OPERAÇÕES E LOGÍSTICA": {
+    "Notas": [
+      9.71
+    ],
+    "Desvios": [
+      0.84
+    ],
+    "Docentes": [
+      "MARIA VALERIA PEREIRA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.71,
+    "MediaDeDesvios": 0.84,
+    "NotaMediana": 9.71
+  },
+  "COP0020 - QUALIDADE ORGANIZACIONAL": {
+    "Notas": [
+      9.65
+    ],
+    "Desvios": [
+      0.84
+    ],
+    "Docentes": [
+      "MATILDE MEDEIROS DE ARAÚJO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.65,
+    "MediaDeDesvios": 0.84,
+    "NotaMediana": 9.65
+  },
+  "CSH5165 - ADMINISTRAÇÃO DE CUSTOS": {
+    "Notas": [
+      9.35
+    ],
+    "Desvios": [
+      1.64
+    ],
+    "Docentes": [
+      "VALDEMIR GALVAO DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.35,
+    "MediaDeDesvios": 1.64,
+    "NotaMediana": 9.35
+  },
+  "CSH5157 - ESTATÍSTICA DESCRITIVA": {
+    "Notas": [
+      9.24
+    ],
+    "Desvios": [
+      1.75
+    ],
+    "Docentes": [
+      "VALDEMIR GALVAO DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.24,
+    "MediaDeDesvios": 1.75,
+    "NotaMediana": 9.24
+  },
+  "CSH5144 - GESTÃO CONTÁBIL": {
+    "Notas": [
+      9.54
+    ],
+    "Desvios": [
+      1.54
+    ],
+    "Docentes": [
+      "VALDEMIR GALVAO DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.54,
+    "NotaMediana": 9.54
+  },
+  "COP0017 - METODOLOGIAS DE SERVIÇO DE ASSISTÊNCIA TÉCNICA E EXTENSÃO RURAL": {
+    "Notas": [
+      9.73
+    ],
+    "Desvios": [
+      1.16
+    ],
+    "Docentes": [
+      "ABDON SILVA RIBEIRO DA CUNHA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.16,
+    "NotaMediana": 9.73
+  },
+  "COP0035 - ELABORAÇÃO DE PROJETO I": {
+    "Notas": [
+      9.59,
+      9.6
+    ],
+    "Desvios": [
+      1.09,
+      1
+    ],
+    "Docentes": [
+      "BRUNO LUAN DANTAS CARDOSO",
+      "RAONI FERNANDES AZEREDO"
+    ],
+    "DesvioDeNotas": 0.004999999999999893,
+    "MediaDeNotas": 9.594999999999999,
+    "MediaDeDesvios": 1.045,
+    "NotaMediana": 9.6
+  },
+  "DTU1108 - TEORIA GERAL DA ADMINISTRAÇÃO": {
+    "Notas": [
+      9.39
+    ],
+    "Desvios": [
+      1.18
+    ],
+    "Docentes": [
+      "CARLOS ALBERTO FREIRE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.39,
+    "MediaDeDesvios": 1.18,
+    "NotaMediana": 9.39
+  },
+  "ADM0055 - FILOSOFIA E ÉTICA NAS ORGANIZAÇÕES": {
+    "Notas": [
+      9.89
+    ],
+    "Desvios": [
+      1.27
+    ],
+    "Docentes": [
+      "DALVANIR AVELINO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.89,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.89
+  },
+  "CST3135.0 - ACOMPANHAMENTO DE ESTÁGIO SUPERVISIONADO EM ALIMENTAÇÃO COLETIVA - TEORIA": {
+    "Notas": [
+      9.71
+    ],
+    "Desvios": [
+      0.9
+    ],
+    "Docentes": [
+      "DINARA LESLYE MACEDO E SILVA CALAZANS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.71,
+    "MediaDeDesvios": 0.9,
+    "NotaMediana": 9.71
+  },
+  "CST3133.1 - GESTÃO EM ALIMENTAÇÃO COLETIVA I - PRÁTICA I": {
+    "Notas": [
+      9.47
+    ],
+    "Desvios": [
+      1.07
+    ],
+    "Docentes": [
+      "DINARA LESLYE MACEDO E SILVA CALAZANS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.47,
+    "MediaDeDesvios": 1.07,
+    "NotaMediana": 9.47
+  },
+  "CST3133.2 - GESTÃO EM ALIMENTAÇÃO COLETIVA I - PRÁTICA II": {
+    "Notas": [
+      9.16,
+      9.34
+    ],
+    "Desvios": [
+      1.03,
+      1.39
+    ],
+    "Docentes": [
+      "DINARA LESLYE MACEDO E SILVA CALAZANS"
+    ],
+    "DesvioDeNotas": 0.08999999999999986,
+    "MediaDeNotas": 9.25,
+    "MediaDeDesvios": 1.21,
+    "NotaMediana": 9.34
+  },
+  "CST3133.0 - GESTÃO EM ALIMENTAÇÃO COLETIVA I - TEORIA": {
+    "Notas": [
+      9.55
+    ],
+    "Desvios": [
+      1.18
+    ],
+    "Docentes": [
+      "DINARA LESLYE MACEDO E SILVA CALAZANS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.55,
+    "MediaDeDesvios": 1.18,
+    "NotaMediana": 9.55
+  },
+  "CST3102 - LIDERANÇA E GESTÃO DE PESSOAS": {
+    "Notas": [
+      9.64
+    ],
+    "Desvios": [
+      1.17
+    ],
+    "Docentes": [
+      "DINARA LESLYE MACEDO E SILVA CALAZANS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.64,
+    "MediaDeDesvios": 1.17,
+    "NotaMediana": 9.64
+  },
+  "COP0005 - FUNDAMENTOS DA GESTÃO SOCIAL": {
+    "Notas": [
+      9.73
+    ],
+    "Desvios": [
+      1.1
+    ],
+    "Docentes": [
+      "JUAREZ AZEVEDO DE PAIVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.1,
+    "NotaMediana": 9.73
+  },
+  "ADM0537 - TOPICOS ESPECIAIS VI": {
+    "Notas": [
+      9.39
+    ],
+    "Desvios": [
+      1.23
+    ],
+    "Docentes": [
+      "THELMA PIGNATARO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.39,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.39
+  },
+  "CSH5158 - ADMINISTRAÇÃO FINANCEIRA I": {
+    "Notas": [
+      8.79
+    ],
+    "Desvios": [
+      1.6
+    ],
+    "Docentes": [
+      "VALDEMIR GALVAO DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.79,
+    "MediaDeDesvios": 1.6,
+    "NotaMediana": 8.79
+  },
+  "CSH0510 - MERCADO DE CAPITAIS": {
+    "Notas": [
+      9.7
+    ],
+    "Desvios": [
+      0.9
+    ],
+    "Docentes": [
+      "VALDEMIR GALVAO DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.7,
+    "MediaDeDesvios": 0.9,
+    "NotaMediana": 9.7
+  },
+  "CSH5171 - PLANEJAMENTO ORÇAMENTÁRIO": {
+    "Notas": [
+      9.5
+    ],
+    "Desvios": [
+      1.46
+    ],
+    "Docentes": [
+      "VALDEMIR GALVAO DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.46,
+    "NotaMediana": 9.5
+  }
+}
