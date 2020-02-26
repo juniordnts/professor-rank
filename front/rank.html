@@ -359,6 +359,11 @@
     });
   </script>
 
+  <script src="https://www.gstatic.com/firebasejs/7.9.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.9.1/firebase-analytics.js"></script>
+  <script src="./assets/js/main.analytics.js"></script>
+  <script>firebase.analytics().logEvent('select_content', { name: $("#dep-name").text() });</script>
+
 </body>
 
 </html>
