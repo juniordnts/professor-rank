@@ -1,0 +1,2732 @@
+{
+  "ADRIANA MARCELLE DE ANDRADE FREITAS": {
+    "Notas": [
+      9.53,
+      9.68,
+      9.73,
+      9.74,
+      9.75,
+      9.82,
+      9.91,
+      9.91,
+      9.97
+    ],
+    "Desvios": [
+      0.75,
+      1.39,
+      1.25,
+      2.01,
+      1.46,
+      0.83,
+      1.4,
+      1.21,
+      1.03
+    ],
+    "Componentes": {
+      "LEM4044 - HISTÓRIA DA LÍNGUA ESPANHOLA": {
+        "Notas": [
+          9.73,
+          9.91
+        ],
+        "Desvios": [
+          0.75,
+          1.4
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.075,
+        "NotaMediana": 9.91
+      },
+      "LEM4043 - LEXICOLOGIA DA LÍNGUA ESPANHOLA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.82
+      },
+      "LEM4008 - SINTAXE DA LÍNGUA ESPANHOLA II": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.53
+      },
+      "LEM4042 - LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          2.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 2.01,
+        "NotaMediana": 9.91
+      },
+      "LEM4004 - LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA ESPANHOLA II": {
+        "Notas": [
+          9.68,
+          9.75
+        ],
+        "Desvios": [
+          1.46,
+          1.21
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 1.335,
+        "NotaMediana": 9.75
+      },
+      "LEM4003 - FONÉTICA E FONOLOGIA DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          0.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 0.83,
+        "NotaMediana": 9.97
+      },
+      "LEM4033 - LINGUÍSTICA APLICADA AO ENSINO DE LÍNGUA ESPANHOLA": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.03,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.12864920242252065,
+    "MediaDeNotas": 9.782222222222222,
+    "MediaDeDesvios": 1.258888888888889,
+    "NotaMediana": 9.75
+  },
+  "ANA GRACA CANAN": {
+    "Notas": [
+      9.2,
+      9.23,
+      9.47,
+      9.51,
+      9.52,
+      9.72
+    ],
+    "Desvios": [
+      2.16,
+      1.81,
+      1.89,
+      1.57,
+      2.53,
+      1.66
+    ],
+    "Componentes": {
+      "LEM7001 - LÍNGUA INGLESA I (RI)": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 9.2
+      },
+      "LEM2001 - OFICINA DE EXPRESSÃO ORAL EM LÍNGUA INGLESA I": {
+        "Notas": [
+          9.52,
+          9.72
+        ],
+        "Desvios": [
+          1.81,
+          1.57
+        ],
+        "DesvioDeNotas": 0.10000000000000053,
+        "MediaDeNotas": 9.620000000000001,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.72
+      },
+      "LEM2004 - OFICINA DE EXPRESSÃO ORAL EM LÍNGUA INGLESA II": {
+        "Notas": [
+          9.47,
+          9.51
+        ],
+        "Desvios": [
+          1.89,
+          1.66
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.775,
+        "NotaMediana": 9.51
+      },
+      "LEM2006 - OFICINA DE EXPRESSÃO ORAL EM LÍNGUA INGLESA III": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          2.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 2.53,
+        "NotaMediana": 9.23
+      }
+    },
+    "DesvioDeNotas": 0.17901737966527803,
+    "MediaDeNotas": 9.441666666666665,
+    "MediaDeDesvios": 1.9366666666666668,
+    "NotaMediana": 9.51
+  },
+  "BRUCE STEWART": {
+    "Notas": [
+      8.92,
+      9.16,
+      9.2,
+      9.32,
+      9.36,
+      9.58,
+      9.64,
+      9.67,
+      9.76,
+      9.81,
+      9.89
+    ],
+    "Desvios": [
+      2.07,
+      1.92,
+      2.24,
+      1.82,
+      1.67,
+      1.22,
+      1.85,
+      1.38,
+      2.31,
+      1.91,
+      1.09
+    ],
+    "Componentes": {
+      "LEM2013 - ASPECTOS SEMÂNTICOS DA LÍNGUA INGLESA": {
+        "Notas": [
+          9.16,
+          9.89
+        ],
+        "Desvios": [
+          2.07,
+          1.22
+        ],
+        "DesvioDeNotas": 0.3650000000000002,
+        "MediaDeNotas": 9.525,
+        "MediaDeDesvios": 1.645,
+        "NotaMediana": 9.89
+      },
+      "LEM2015 - FORMAS POÉTICAS DE LÍNGUA INGLESA II": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.2
+      },
+      "LEM7001 - LÍNGUA INGLESA I (RI)": {
+        "Notas": [
+          9.64,
+          9.67,
+          9.81
+        ],
+        "Desvios": [
+          2.24,
+          1.67,
+          1.09
+        ],
+        "DesvioDeNotas": 0.0740870359029763,
+        "MediaDeNotas": 9.706666666666669,
+        "MediaDeDesvios": 1.6666666666666667,
+        "NotaMediana": 9.67
+      },
+      "LEM2011 - FORMAS POÉTICAS DA LÍNGUA INGLESA I": {
+        "Notas": [
+          9.32,
+          9.36
+        ],
+        "Desvios": [
+          1.82,
+          1.91
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.865,
+        "NotaMediana": 9.36
+      },
+      "LEM2014 - FORMAS NARRATIVAS LONGAS DE LÍNGUA INGLESA I": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.58
+      },
+      "LEM7002 - LÍNGUA INGLESA II (RI)": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.76
+      },
+      "LEM2018 - FORMAS NARRATIVAS LONGAS DE LÍNGUA INGLESA II": {
+        "Notas": [
+          8.92
+        ],
+        "Desvios": [
+          2.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.92,
+        "MediaDeDesvios": 2.31,
+        "NotaMediana": 8.92
+      }
+    },
+    "DesvioDeNotas": 0.29563770546491885,
+    "MediaDeNotas": 9.482727272727274,
+    "MediaDeDesvios": 1.770909090909091,
+    "NotaMediana": 9.58
+  },
+  "FLEIDE DANIEL SANTOS DE ALBUQUERQUE": {
+    "Notas": [
+      8.69,
+      8.89,
+      9.5,
+      9.65
+    ],
+    "Desvios": [
+      1.92,
+      2.26,
+      1.73,
+      1.47
+    ],
+    "Componentes": {
+      "LEM1009 - ENSINO / APRENDIZAGEM DE PORTUGUÊS LÍNGUA ESTRANGEIRA": {
+        "Notas": [
+          8.89,
+          9.65
+        ],
+        "Desvios": [
+          1.92,
+          1.47
+        ],
+        "DesvioDeNotas": 0.3799999999999999,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 1.6949999999999998,
+        "NotaMediana": 9.65
+      },
+      "LEM1010 - PRODUÇÃO DE MATERIAIS DIDÁTICOS PARA O ENSINO DE PORTUGUÊS LÍNGUA ESTRANGEIRA": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          2.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 2.26,
+        "NotaMediana": 9.5
+      },
+      "LEM1001 - METODOLOGIA DE ENSINO DE PORTUGUÊS COMO LÍNGUA ESTRANGEIRA I": {
+        "Notas": [
+          8.69
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.69,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 8.69
+      }
+    },
+    "DesvioDeNotas": 0.4023291562887285,
+    "MediaDeNotas": 9.1825,
+    "MediaDeDesvios": 1.845,
+    "NotaMediana": 9.5
+  },
+  "FRANCISCO ERNESTO ZARAGOZA ZALDIVAR": {
+    "Notas": [
+      8.85,
+      9.06,
+      9.17,
+      9.42,
+      9.57,
+      9.7,
+      9.72,
+      9.72,
+      9.74
+    ],
+    "Desvios": [
+      2.24,
+      1.59,
+      1.88,
+      1.64,
+      1.47,
+      1.81,
+      1.74,
+      1.18,
+      0.83
+    ],
+    "Componentes": {
+      "LEM4039 - ESPANHOL PARA FINS ACADÊMICOS II": {
+        "Notas": [
+          9.06
+        ],
+        "Desvios": [
+          2.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 9.06
+      },
+      "LEM4025 - LITERATURA HISPANO-AMERICANA II": {
+        "Notas": [
+          9.17,
+          9.72,
+          9.74
+        ],
+        "Desvios": [
+          1.59,
+          1.47,
+          0.83
+        ],
+        "DesvioDeNotas": 0.26411277052720433,
+        "MediaDeNotas": 9.543333333333335,
+        "MediaDeDesvios": 1.2966666666666666,
+        "NotaMediana": 9.72
+      },
+      "LEM4005 - MORFOLOGIA DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          8.85
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.85,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 8.85
+      },
+      "LEM4038 - ESPANHOL PARA FINS ACADÊMICOS I": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.7
+      },
+      "LEM4015 - CULTURA ESPANHOLA I": {
+        "Notas": [
+          9.42
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.42,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.42
+      },
+      "LEM4022 - LITERATURA ESPANHOLA I": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.72
+      },
+      "LEM4045 - TRADUÇÃO EM LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.3157159216920753,
+    "MediaDeNotas": 9.43888888888889,
+    "MediaDeDesvios": 1.597777777777778,
+    "NotaMediana": 9.57
+  },
+  "FRANCOIS WEIGEL": {
+    "Notas": [
+      9.71
+    ],
+    "Desvios": [
+      1.41
+    ],
+    "Componentes": {
+      "LEM3036 - LÍNGUA FRANCESA I– INTRODUÇÃO AO ESTUDO DE LÍNGUA FRANCESA": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.71,
+    "MediaDeDesvios": 1.41,
+    "NotaMediana": 9.71
+  },
+  "GERARDO ANDRES GODOY FAJARDO": {
+    "Notas": [
+      8.55,
+      8.6,
+      8.71,
+      8.83,
+      8.96,
+      9.2,
+      9.36,
+      9.38,
+      9.5,
+      9.59,
+      9.79,
+      9.82
+    ],
+    "Desvios": [
+      2.67,
+      1.88,
+      1.78,
+      1.11,
+      1.59,
+      1.34,
+      2.35,
+      1.62,
+      2.2,
+      1.95,
+      1.11,
+      2.12
+    ],
+    "Componentes": {
+      "LEM4015 - CULTURA ESPANHOLA I": {
+        "Notas": [
+          8.71,
+          9.79
+        ],
+        "Desvios": [
+          2.67,
+          1.11
+        ],
+        "DesvioDeNotas": 0.5399999999999991,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.8900000000000001,
+        "NotaMediana": 9.79
+      },
+      "LEM4016 - CULTURA HISPANO-AMERICANA I": {
+        "Notas": [
+          8.55,
+          8.96,
+          9.2,
+          9.5
+        ],
+        "Desvios": [
+          1.88,
+          1.59,
+          2.35,
+          1.95
+        ],
+        "DesvioDeNotas": 0.34751798514609245,
+        "MediaDeNotas": 9.0525,
+        "MediaDeDesvios": 1.9425000000000001,
+        "NotaMediana": 9.2
+      },
+      "LEM4038 - ESPANHOL PARA FINS ACADÊMICOS I": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.36
+      },
+      "LEM4037 - LÍNGUA ESPANHOLA II": {
+        "Notas": [
+          8.6,
+          8.83,
+          9.38
+        ],
+        "Desvios": [
+          1.34,
+          2.2,
+          2.12
+        ],
+        "DesvioDeNotas": 0.32724438710066395,
+        "MediaDeNotas": 8.936666666666667,
+        "MediaDeDesvios": 1.8866666666666667,
+        "NotaMediana": 8.83
+      },
+      "LEM4036 - LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.59,
+          9.82
+        ],
+        "Desvios": [
+          1.62,
+          1.11
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.705,
+        "MediaDeDesvios": 1.3650000000000002,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.4328867891518775,
+    "MediaDeNotas": 9.190833333333332,
+    "MediaDeDesvios": 1.8099999999999998,
+    "NotaMediana": 9.36
+  },
+  "IZABEL SOUZA DO NASCIMENTO": {
+    "Notas": [
+      8.45,
+      8.57,
+      8.87,
+      8.98,
+      9.16,
+      9.6
+    ],
+    "Desvios": [
+      2.07,
+      2.13,
+      1.79,
+      2.14,
+      2.94,
+      2.8
+    ],
+    "Componentes": {
+      "LEM4041 - EXPRESSÃO ORAL E COMPREENSÃO AUDITIVA EM LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          8.57,
+          9.16,
+          9.6
+        ],
+        "Desvios": [
+          2.07,
+          2.14,
+          2.94
+        ],
+        "DesvioDeNotas": 0.42197946237544126,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 2.3833333333333333,
+        "NotaMediana": 9.16
+      },
+      "LEM4033 - LINGUÍSTICA APLICADA AO ENSINO DE LÍNGUA ESPANHOLA": {
+        "Notas": [
+          8.98
+        ],
+        "Desvios": [
+          2.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 2.13,
+        "NotaMediana": 8.98
+      },
+      "LEM4022 - LITERATURA ESPANHOLA I": {
+        "Notas": [
+          8.87
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.87,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 8.87
+      },
+      "LEM4004 - LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA ESPANHOLA II": {
+        "Notas": [
+          8.45
+        ],
+        "Desvios": [
+          2.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.45,
+        "MediaDeDesvios": 2.8,
+        "NotaMediana": 8.45
+      }
+    },
+    "DesvioDeNotas": 0.38023749888136443,
+    "MediaDeNotas": 8.938333333333333,
+    "MediaDeDesvios": 2.311666666666666,
+    "NotaMediana": 8.98
+  },
+  "JANAINA WEISSHEIMER": {
+    "Notas": [
+      9.73,
+      9.82,
+      9.86,
+      9.88,
+      9.88,
+      9.9,
+      9.93
+    ],
+    "Desvios": [
+      1.51,
+      1.62,
+      1.26,
+      1.36,
+      1.43,
+      1.35,
+      0.98
+    ],
+    "Componentes": {
+      "LEM2006 - OFICINA DE EXPRESSÃO ORAL EM LÍNGUA INGLESA III": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.86
+      },
+      "LEM2002 - OFICINA DE LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA INGLESA I": {
+        "Notas": [
+          9.82,
+          9.88
+        ],
+        "Desvios": [
+          1.62,
+          1.43
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.850000000000001,
+        "MediaDeDesvios": 1.525,
+        "NotaMediana": 9.88
+      },
+      "LEM2005 - OFICINA DE LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA INGLESA II": {
+        "Notas": [
+          9.88,
+          9.93
+        ],
+        "Desvios": [
+          1.26,
+          0.98
+        ],
+        "DesvioDeNotas": 0.02499999999999947,
+        "MediaDeNotas": 9.905000000000001,
+        "MediaDeDesvios": 1.12,
+        "NotaMediana": 9.93
+      },
+      "LEM2021 - INGLÊS PARA FINS ACADÊMICOS II": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.9
+      },
+      "LEM7002 - LÍNGUA INGLESA II (RI)": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.06064281507654598,
+    "MediaDeNotas": 9.857142857142858,
+    "MediaDeDesvios": 1.3585714285714285,
+    "NotaMediana": 9.88
+  },
+  "JANEIDE MAIA CAMPELO": {
+    "Notas": [
+      9,
+      9.29,
+      9.6,
+      9.61,
+      9.73
+    ],
+    "Desvios": [
+      1.46,
+      1.62,
+      2.13,
+      1.22,
+      0.83
+    ],
+    "Componentes": {
+      "LEM3015 - CULTURAS DE LÍNGUA FRANCESA I": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.61
+      },
+      "LEM3003 - LÍNGUA FRANCESA III - INTERMEDIÁRIO I": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.6
+      },
+      "LEM3050 - OFICINA 1 – A FRANCOFONIA E O ENSINO DA LÍNGUA FRANCESA": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          2.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 2.13,
+        "NotaMediana": 9
+      },
+      "LEM3002 - LÍNGUA FRANCESA II - BÁSICO II": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.73
+      },
+      "LEM3004 - LÍNGUA FRANCESA IV - INTERMEDIÁRIO II": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          0.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 0.83,
+        "NotaMediana": 9.29
+      }
+    },
+    "DesvioDeNotas": 0.26627805016561173,
+    "MediaDeNotas": 9.446,
+    "MediaDeDesvios": 1.452,
+    "NotaMediana": 9.6
+  },
+  "LUIS ALFREDO FERNANDES DE ASSIS": {
+    "Notas": [
+      9.05,
+      9.4,
+      9.47,
+      9.52,
+      9.55,
+      9.66,
+      9.74,
+      9.87,
+      9.9,
+      9.93
+    ],
+    "Desvios": [
+      1.74,
+      1.98,
+      2.19,
+      0.93,
+      1.26,
+      1.49,
+      1.44,
+      1.62,
+      1.53,
+      1.76
+    ],
+    "Componentes": {
+      "LEM2040 - ASPECTOS FONÉTICOS DA LÍNGUA INGLESA": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.66
+      },
+      "LEM2008 - FORMAS NARRATIVAS CURTAS EM LITERATURAS DA LÍNGUA INGLESA I": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.47
+      },
+      "LEM2021 - INGLÊS PARA FINS ACADÊMICOS II": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 9.52
+      },
+      "LEM2012 - FORMAS NARRATIVAS CURTAS EM LITERATURAS DA LÍNGUA INGLESA II": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          0.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 0.93,
+        "NotaMediana": 9.93
+      },
+      "LEM7001 - LÍNGUA INGLESA I (RI)": {
+        "Notas": [
+          9.05,
+          9.55,
+          9.74,
+          9.87
+        ],
+        "Desvios": [
+          1.26,
+          1.44,
+          1.62,
+          1.76
+        ],
+        "DesvioDeNotas": 0.3116388133721468,
+        "MediaDeNotas": 9.5525,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.74
+      },
+      "LEM2007 - FONÉTICA E FONOLOGIA DA LÍNGUA INGLESA I": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.9
+      },
+      "LEM2016 - FORMAS DRAMÁTICAS DA LÍNGUA INGLESA I": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.4
+      }
+    },
+    "DesvioDeNotas": 0.2573888109456195,
+    "MediaDeNotas": 9.609,
+    "MediaDeDesvios": 1.5939999999999999,
+    "NotaMediana": 9.66
+  },
+  "LUIS EDUARDO FIORI": {
+    "Notas": [
+      9.1,
+      9.2,
+      9.34,
+      9.7,
+      9.71,
+      9.94
+    ],
+    "Desvios": [
+      2.16,
+      1.06,
+      1.28,
+      1.66,
+      2.05,
+      1.48
+    ],
+    "Componentes": {
+      "LEM4004 - LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA ESPANHOLA II": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 9.34
+      },
+      "LEM4006 - SINTAXE DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.06,
+        "NotaMediana": 9.7
+      },
+      "LEM4003 - FONÉTICA E FONOLOGIA DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.71
+      },
+      "LEM4023 - LITERATURA HISPANO-AMERICANA I": {
+        "Notas": [
+          9.1
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.1
+      },
+      "LEM4015 - CULTURA ESPANHOLA I": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          2.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 9.2
+      },
+      "LEM4022 - LITERATURA ESPANHOLA I": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.94
+      }
+    },
+    "DesvioDeNotas": 0.3036673984623456,
+    "MediaDeNotas": 9.498333333333333,
+    "MediaDeDesvios": 1.6150000000000002,
+    "NotaMediana": 9.7
+  },
+  "MARCELO DA SILVA AMORIM": {
+    "Notas": [
+      9.52,
+      9.55,
+      9.7,
+      9.82,
+      9.86,
+      9.91
+    ],
+    "Desvios": [
+      2.11,
+      1.73,
+      0.86,
+      1.1,
+      1.66,
+      1.2
+    ],
+    "Componentes": {
+      "LEM2020 - INGLÊS PARA FINS ACADÊMICOS I": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 9.55
+      },
+      "LEM1007 - TÓPICOS EM CULTURA BRASILEIRA I": {
+        "Notas": [
+          9.52,
+          9.7
+        ],
+        "Desvios": [
+          1.73,
+          1.66
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.6949999999999998,
+        "NotaMediana": 9.7
+      },
+      "LEM1005 - TÓPICOS EM GRAMÁTICA DE PORTUGUÊS LÍNGUA ESTRANGEIRA I": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          0.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 0.86,
+        "NotaMediana": 9.86
+      },
+      "LEM1008 - TÓPICOS EM CULTURA BRASILEIRA II": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.82
+      },
+      "LEM1006 - TÓPICOS EM GRAMÁTICA DE PORTUGUÊS LÍNGUA ESTRANGEIRA II": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.91
+      }
+    },
+    "DesvioDeNotas": 0.14985177861992677,
+    "MediaDeNotas": 9.726666666666667,
+    "MediaDeDesvios": 1.4433333333333334,
+    "NotaMediana": 9.82
+  },
+  "MARCIO VENICIO BARBOSA": {
+    "Notas": [
+      8.87,
+      9.59,
+      9.68
+    ],
+    "Desvios": [
+      1.61,
+      1.57,
+      1.88
+    ],
+    "Componentes": {
+      "LEM3009 - PANORAMA DAS LITERATURAS DE LÍNGUA FRANCESA": {
+        "Notas": [
+          9.59,
+          9.68
+        ],
+        "Desvios": [
+          1.61,
+          1.57
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.635,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.68
+      },
+      "LEM3014 - LITERATURAS DE LÍNGUA FRANCESA V - ESTUDO DO TEXTO DRAMÁTICO": {
+        "Notas": [
+          8.87
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.87,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 8.87
+      }
+    },
+    "DesvioDeNotas": 0.3624913792078374,
+    "MediaDeNotas": 9.38,
+    "MediaDeDesvios": 1.6866666666666668,
+    "NotaMediana": 9.59
+  },
+  "MARILIA VARELLA BEZERRA DE FARIA": {
+    "Notas": [
+      9.24,
+      9.36,
+      9.5,
+      9.61,
+      9.73,
+      9.94
+    ],
+    "Desvios": [
+      1.53,
+      2.05,
+      1.41,
+      1.36,
+      1.98,
+      0.98
+    ],
+    "Componentes": {
+      "LEM7002 - LÍNGUA INGLESA II (RI)": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.73
+      },
+      "LEM2009 - OFICINA DE LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA INGLESA III": {
+        "Notas": [
+          9.24,
+          9.36
+        ],
+        "Desvios": [
+          2.05,
+          1.98
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.3,
+        "MediaDeDesvios": 2.0149999999999997,
+        "NotaMediana": 9.36
+      },
+      "LEM2017 - LINGUÍSTICA APLICADA E ENSINO DE LÍNGUA INGLESA I": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.5
+      },
+      "LEM2020 - INGLÊS PARA FINS ACADÊMICOS I": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.61
+      },
+      "LEM2003 - INICIAÇÃO À PESQUISA EM LÍNGUA E LITERATURA INGLESA I": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.94
+      }
+    },
+    "DesvioDeNotas": 0.2315647257727787,
+    "MediaDeNotas": 9.563333333333334,
+    "MediaDeDesvios": 1.5516666666666667,
+    "NotaMediana": 9.61
+  },
+  "MICHAEL MANFRED HANKE": {
+    "Notas": [
+      9.31,
+      9.37,
+      9.48
+    ],
+    "Desvios": [
+      1.32,
+      1.71,
+      1.33
+    ],
+    "Componentes": {
+      "LEM5001 - LÍNGUA ALEMÃ I": {
+        "Notas": [
+          9.31,
+          9.37,
+          9.48
+        ],
+        "Desvios": [
+          1.32,
+          1.71,
+          1.33
+        ],
+        "DesvioDeNotas": 0.07039570693980966,
+        "MediaDeNotas": 9.386666666666667,
+        "MediaDeDesvios": 1.4533333333333334,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.07039570693980966,
+    "MediaDeNotas": 9.386666666666667,
+    "MediaDeDesvios": 1.4533333333333334,
+    "NotaMediana": 9.37
+  },
+  "NATHALIA OLIVEIRA DE BARROS CARVALHO": {
+    "Notas": [
+      9.59,
+      9.75,
+      9.78,
+      9.81,
+      9.83,
+      9.88,
+      9.9,
+      9.93
+    ],
+    "Desvios": [
+      1.25,
+      0.8,
+      0.79,
+      1.28,
+      0.93,
+      0.97,
+      1.18,
+      0.77
+    ],
+    "Componentes": {
+      "LEM4043 - LEXICOLOGIA DA LÍNGUA ESPANHOLA": {
+        "Notas": [
+          9.81,
+          9.93
+        ],
+        "Desvios": [
+          1.25,
+          0.93
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.870000000000001,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.93
+      },
+      "LEM4022 - LITERATURA ESPANHOLA I": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          0.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 0.8,
+        "NotaMediana": 9.78
+      },
+      "LEM4005 - MORFOLOGIA DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.83,
+          9.9
+        ],
+        "Desvios": [
+          0.79,
+          0.97
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.865,
+        "MediaDeDesvios": 0.88,
+        "NotaMediana": 9.9
+      },
+      "LEM4044 - HISTÓRIA DA LÍNGUA ESPANHOLA": {
+        "Notas": [
+          9.59,
+          9.75
+        ],
+        "Desvios": [
+          1.28,
+          1.18
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.75
+      },
+      "LEM4006 - SINTAXE DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          0.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 0.77,
+        "NotaMediana": 9.88
+      }
+    },
+    "DesvioDeNotas": 0.10042876828877283,
+    "MediaDeNotas": 9.80875,
+    "MediaDeDesvios": 0.9962499999999999,
+    "NotaMediana": 9.83
+  },
+  "ORISON MARDEN BANDEIRA DE MELO JUNIOR": {
+    "Notas": [
+      10,
+      9.52,
+      9.58,
+      9.64,
+      9.71,
+      9.82,
+      9.91,
+      9.95,
+      9.98,
+      9.98
+    ],
+    "Desvios": [
+      1.5,
+      1.09,
+      1.09,
+      1.86,
+      1.81,
+      1.34,
+      1.77,
+      0.61,
+      1.18,
+      0.89
+    ],
+    "Componentes": {
+      "LEM2019 - FORMAS DRAMÁTICAS DA LÍNGUA INGLESA II": {
+        "Notas": [
+          9.58,
+          9.98
+        ],
+        "Desvios": [
+          1.5,
+          1.34
+        ],
+        "DesvioDeNotas": 0.20000000000000018,
+        "MediaDeNotas": 9.780000000000001,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.98
+      },
+      "LEM2008 - FORMAS NARRATIVAS CURTAS EM LITERATURAS DA LÍNGUA INGLESA I": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.91
+      },
+      "LEM2015 - FORMAS POÉTICAS DE LÍNGUA INGLESA II": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.52
+      },
+      "LEM2012 - FORMAS NARRATIVAS CURTAS EM LITERATURAS DA LÍNGUA INGLESA II": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.86,
+        "NotaMediana": 9.71
+      },
+      "LEM2021 - INGLÊS PARA FINS ACADÊMICOS II": {
+        "Notas": [
+          9.82,
+          9.98
+        ],
+        "Desvios": [
+          1.81,
+          1.18
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.495,
+        "NotaMediana": 9.98
+      },
+      "LEM2020 - INGLÊS PARA FINS ACADÊMICOS I": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.64
+      },
+      "LEM2052 - LITERATURA COMPARADA": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          0.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 0.61,
+        "NotaMediana": 9.95
+      },
+      "LEM2050 - LITERATURA NORTE-AMERICANA CONTEMPORÂNEA DE MINORIAS": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          0.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 0.89,
+        "NotaMediana": 10
+      }
+    },
+    "DesvioDeNotas": 0.1730577938146676,
+    "MediaDeNotas": 9.809000000000001,
+    "MediaDeDesvios": 1.3139999999999998,
+    "NotaMediana": 9.82
+  },
+  "REGINA SIMON DA SILVA": {
+    "Notas": [
+      9.8,
+      9.84,
+      9.88,
+      9.91
+    ],
+    "Desvios": [
+      0.89,
+      0.92,
+      1.06,
+      0.64
+    ],
+    "Componentes": {
+      "LEM4003 - FONÉTICA E FONOLOGIA DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.8,
+          9.88
+        ],
+        "Desvios": [
+          0.89,
+          1.06
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 0.9750000000000001,
+        "NotaMediana": 9.88
+      },
+      "LEM4023 - LITERATURA HISPANO-AMERICANA I": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          0.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 0.92,
+        "NotaMediana": 9.84
+      },
+      "LEM4025 - LITERATURA HISPANO-AMERICANA II": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          0.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 0.64,
+        "NotaMediana": 9.91
+      }
+    },
+    "DesvioDeNotas": 0.04145780987944242,
+    "MediaDeNotas": 9.857500000000002,
+    "MediaDeDesvios": 0.8775000000000001,
+    "NotaMediana": 9.88
+  },
+  "RENATA ARCHANJO": {
+    "Notas": [
+      9.24,
+      9.61
+    ],
+    "Desvios": [
+      1.54,
+      1.32
+    ],
+    "Componentes": {
+      "LEM3036 - LÍNGUA FRANCESA I– INTRODUÇÃO AO ESTUDO DE LÍNGUA FRANCESA": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.61
+      },
+      "LEM3004 - LÍNGUA FRANCESA IV - INTERMEDIÁRIO II": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.24
+      }
+    },
+    "DesvioDeNotas": 0.1849999999999996,
+    "MediaDeNotas": 9.425,
+    "MediaDeDesvios": 1.4300000000000002,
+    "NotaMediana": 9.61
+  },
+  "ROSANNE BEZERRA DE ARAUJO": {
+    "Notas": [
+      10,
+      9.36,
+      9.54,
+      9.54,
+      9.59,
+      9.73,
+      9.86,
+      9.93
+    ],
+    "Desvios": [
+      1.23,
+      2.11,
+      1.6,
+      0.61,
+      1.33,
+      1.98,
+      0.82,
+      1.42
+    ],
+    "Componentes": {
+      "LEM2014 - FORMAS NARRATIVAS LONGAS DE LÍNGUA INGLESA I": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.73
+      },
+      "LEM2020 - INGLÊS PARA FINS ACADÊMICOS I": {
+        "Notas": [
+          9.36,
+          9.54
+        ],
+        "Desvios": [
+          2.11,
+          1.98
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 2.045,
+        "NotaMediana": 9.54
+      },
+      "LEM7002 - LÍNGUA INGLESA II (RI)": {
+        "Notas": [
+          9.54,
+          9.59
+        ],
+        "Desvios": [
+          1.6,
+          1.42
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.565,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.59
+      },
+      "LEM2018 - FORMAS NARRATIVAS LONGAS DE LÍNGUA INGLESA II": {
+        "Notas": [
+          10,
+          9.93
+        ],
+        "Desvios": [
+          0.61,
+          0.82
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.965,
+        "MediaDeDesvios": 0.715,
+        "NotaMediana": 9.93
+      },
+      "LEM2008 - FORMAS NARRATIVAS CURTAS EM LITERATURAS DA LÍNGUA INGLESA I": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.86
+      }
+    },
+    "DesvioDeNotas": 0.2085627903054619,
+    "MediaDeNotas": 9.693749999999998,
+    "MediaDeDesvios": 1.3875,
+    "NotaMediana": 9.59
+  },
+  "SANDRA SASSETTI FERNANDES ERICKSON": {
+    "Notas": [
+      9.78,
+      9.78,
+      9.82,
+      9.84,
+      9.88,
+      9.91,
+      9.93,
+      9.94
+    ],
+    "Desvios": [
+      1.12,
+      1,
+      0.89,
+      1.42,
+      0.71,
+      1.53,
+      1.15,
+      1.11
+    ],
+    "Componentes": {
+      "LEM2008 - FORMAS NARRATIVAS CURTAS EM LITERATURAS DA LÍNGUA INGLESA I": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          1.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.12,
+        "NotaMediana": 9.93
+      },
+      "LEM2015 - FORMAS POÉTICAS DE LÍNGUA INGLESA II": {
+        "Notas": [
+          9.88,
+          9.94
+        ],
+        "Desvios": [
+          1,
+          1.53
+        ],
+        "DesvioDeNotas": 0.02999999999999936,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.2650000000000001,
+        "NotaMediana": 9.94
+      },
+      "LEM2010 - ASPECTOS MORFOSSINTÁTICOS DA LÍNGUA INGLESA I": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          0.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 0.89,
+        "NotaMediana": 9.84
+      },
+      "LEM2016 - FORMAS DRAMÁTICAS DA LÍNGUA INGLESA I": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.91
+      },
+      "LEM4034 - PENSAMENTO CRÍTICO LATINO AMERICANO": {
+        "Notas": [
+          9.78,
+          9.82
+        ],
+        "Desvios": [
+          0.71,
+          1.11
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.91,
+        "NotaMediana": 9.82
+      },
+      "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.78
+      }
+    },
+    "DesvioDeNotas": 0.06020797289396159,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 1.11625,
+    "NotaMediana": 9.88
+  },
+  "TAMARA MARIA COSTA E SILVA N DE ABREU": {
+    "Notas": [
+      8.47,
+      9.02,
+      9.31
+    ],
+    "Desvios": [
+      1.98,
+      1.56,
+      2.02
+    ],
+    "Componentes": {
+      "LEM3015 - CULTURAS DE LÍNGUA FRANCESA I": {
+        "Notas": [
+          9.02
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.02
+      },
+      "LEM3001 - LÍNGUA FRANCESA I - BÁSICO I": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.31
+      },
+      "LEM3003 - LÍNGUA FRANCESA III - INTERMEDIÁRIO I": {
+        "Notas": [
+          8.47
+        ],
+        "Desvios": [
+          2.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.47,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 8.47
+      }
+    },
+    "DesvioDeNotas": 0.34836124290103726,
+    "MediaDeNotas": 8.933333333333332,
+    "MediaDeDesvios": 1.8533333333333335,
+    "NotaMediana": 9.02
+  },
+  "THAYANE SILVA CAMPOS": {
+    "Notas": [
+      9.77,
+      9.78,
+      9.87,
+      9.88,
+      9.94,
+      9.96
+    ],
+    "Desvios": [
+      1.34,
+      1.17,
+      0.94,
+      1.46,
+      1.01,
+      1.14
+    ],
+    "Componentes": {
+      "LEM4010 - EXPRESSÃO ORAL E COMPREENSÃO AUDITIVA DE LÍNGUA ESPANHOLA II": {
+        "Notas": [
+          9.87,
+          9.88
+        ],
+        "Desvios": [
+          1.34,
+          1.46
+        ],
+        "DesvioDeNotas": 0.005000000000000782,
+        "MediaDeNotas": 9.875,
+        "MediaDeDesvios": 1.4,
+        "NotaMediana": 9.88
+      },
+      "LEM4042 - LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.94
+      },
+      "LEM4024 - LITERATURA ESPANHOLA II": {
+        "Notas": [
+          9.77,
+          9.96
+        ],
+        "Desvios": [
+          0.94,
+          1.01
+        ],
+        "DesvioDeNotas": 0.09500000000000064,
+        "MediaDeNotas": 9.865,
+        "MediaDeDesvios": 0.975,
+        "NotaMediana": 9.96
+      },
+      "LEM4006 - SINTAXE DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.14,
+        "NotaMediana": 9.78
+      }
+    },
+    "DesvioDeNotas": 0.07203394261658137,
+    "MediaDeNotas": 9.866666666666667,
+    "MediaDeDesvios": 1.1766666666666665,
+    "NotaMediana": 9.88
+  },
+  "VANESKA OLIVEIRA CALDAS": {
+    "Notas": [
+      9.45,
+      9.52,
+      9.55
+    ],
+    "Desvios": [
+      2.15,
+      2.21,
+      2.14
+    ],
+    "Componentes": {
+      "LEM2020 - INGLÊS PARA FINS ACADÊMICOS I": {
+        "Notas": [
+          9.45,
+          9.52
+        ],
+        "Desvios": [
+          2.15,
+          2.21
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.485,
+        "MediaDeDesvios": 2.1799999999999997,
+        "NotaMediana": 9.52
+      },
+      "LEM2021 - INGLÊS PARA FINS ACADÊMICOS II": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          2.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 2.14,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.041899350299922304,
+    "MediaDeNotas": 9.506666666666666,
+    "MediaDeDesvios": 2.1666666666666665,
+    "NotaMediana": 9.52
+  },
+  "WIEBKE ROBEN DE ALENCAR XAVIER": {
+    "Notas": [
+      9.5,
+      9.71,
+      9.78,
+      9.87,
+      9.95,
+      9.95,
+      9.95
+    ],
+    "Desvios": [
+      1.47,
+      1.04,
+      2.05,
+      1.04,
+      1.55,
+      1.23,
+      1.12
+    ],
+    "Componentes": {
+      "LEM5002 - LÍNGUA ALEMÃ II": {
+        "Notas": [
+          9.78,
+          9.87,
+          9.95
+        ],
+        "Desvios": [
+          1.47,
+          1.55,
+          1.12
+        ],
+        "DesvioDeNotas": 0.0694422221866655,
+        "MediaDeNotas": 9.866666666666667,
+        "MediaDeDesvios": 1.3800000000000001,
+        "NotaMediana": 9.87
+      },
+      "LEM5007 - LÍNGUA ALEMÃ IV": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.95
+      },
+      "LEM5001 - LÍNGUA ALEMÃ I": {
+        "Notas": [
+          9.5,
+          9.71
+        ],
+        "Desvios": [
+          2.05,
+          1.23
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.605,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.71
+      },
+      "LEM5003 - LÍNGUA ALEMÃ III": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.95
+      }
+    },
+    "DesvioDeNotas": 0.15545850552084756,
+    "MediaDeNotas": 9.815714285714284,
+    "MediaDeDesvios": 1.3571428571428572,
+    "NotaMediana": 9.87
+  },
+  "CARLOS EDUARDO GALVAO BRAGA": {
+    "Notas": [
+      9.14,
+      9.16
+    ],
+    "Desvios": [
+      1,
+      1.94
+    ],
+    "Componentes": {
+      "LEM3010 - LITERATURAS DE LÍNGUA FRANCESA I - ESTUDO DA NARRATIVA I": {
+        "Notas": [
+          9.14
+        ],
+        "Desvios": [
+          1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 1,
+        "NotaMediana": 9.14
+      },
+      "LEM3021 - TRADUÇÃO EM LÍNGUA FRANCESA I": {
+        "Notas": [
+          9.16
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.16
+      }
+    },
+    "DesvioDeNotas": 0.009999999999999787,
+    "MediaDeNotas": 9.15,
+    "MediaDeDesvios": 1.47,
+    "NotaMediana": 9.16
+  },
+  "KATIA AILY FRANCO DE CAMARGO": {
+    "Notas": [
+      9.57,
+      9.9
+    ],
+    "Desvios": [
+      0.87,
+      1.3
+    ],
+    "Componentes": {
+      "LEM3060 - FONÉTICA DA LÍNGUA FRANCESA": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          0.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 0.87,
+        "NotaMediana": 9.57
+      },
+      "LEM3005 - LÍNGUA FRANCESA V - INTERMEDIÁRIO III": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.16500000000000004,
+    "MediaDeNotas": 9.735,
+    "MediaDeDesvios": 1.085,
+    "NotaMediana": 9.9
+  },
+  "MARA PASSOS GUIMARAES": {
+    "Notas": [
+      9.24,
+      9.25,
+      9.26,
+      9.49,
+      9.57,
+      9.82
+    ],
+    "Desvios": [
+      1.91,
+      1.74,
+      1.56,
+      1.91,
+      1.63,
+      2.05
+    ],
+    "Componentes": {
+      "LEM2021 - INGLÊS PARA FINS ACADÊMICOS II": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          1.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 9.24
+      },
+      "LEM7002 - LÍNGUA INGLESA II (RI)": {
+        "Notas": [
+          9.49,
+          9.82
+        ],
+        "Desvios": [
+          1.74,
+          1.56
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.655000000000001,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.82
+      },
+      "LEM2020 - INGLÊS PARA FINS ACADÊMICOS I": {
+        "Notas": [
+          9.25,
+          9.26,
+          9.57
+        ],
+        "Desvios": [
+          1.91,
+          1.63,
+          2.05
+        ],
+        "DesvioDeNotas": 0.14854853303438145,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.8633333333333333,
+        "NotaMediana": 9.26
+      }
+    },
+    "DesvioDeNotas": 0.21302712399024593,
+    "MediaDeNotas": 9.438333333333334,
+    "MediaDeDesvios": 1.8,
+    "NotaMediana": 9.49
+  },
+  "MARIA EDILEUDA DO REGO SARMENTO": {
+    "Notas": [
+      8.43,
+      8.52,
+      8.66,
+      8.84,
+      8.96,
+      9,
+      9.09,
+      9.7
+    ],
+    "Desvios": [
+      2.28,
+      2.28,
+      2.32,
+      2.06,
+      2.52,
+      1.65,
+      1.41,
+      2.26
+    ],
+    "Componentes": {
+      "LEM2020 - INGLÊS PARA FINS ACADÊMICOS I": {
+        "Notas": [
+          8.43,
+          8.66,
+          8.84,
+          8.96,
+          9,
+          9.09,
+          9.7
+        ],
+        "Desvios": [
+          2.28,
+          2.28,
+          2.32,
+          2.06,
+          1.65,
+          1.41,
+          2.26
+        ],
+        "DesvioDeNotas": 0.36862125908995147,
+        "MediaDeNotas": 8.954285714285714,
+        "MediaDeDesvios": 2.037142857142857,
+        "NotaMediana": 8.96
+      },
+      "LEM2021 - INGLÊS PARA FINS ACADÊMICOS II": {
+        "Notas": [
+          8.52
+        ],
+        "Desvios": [
+          2.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.52,
+        "MediaDeDesvios": 2.52,
+        "NotaMediana": 8.52
+      }
+    },
+    "DesvioDeNotas": 0.3735304539123951,
+    "MediaDeNotas": 8.900000000000002,
+    "MediaDeDesvios": 2.0975,
+    "NotaMediana": 8.96
+  },
+  "SAMUEL ANDERSON DE OLIVEIRA LIMA": {
+    "Notas": [
+      9.31,
+      9.87,
+      9.93,
+      9.94,
+      9.98,
+      9.99
+    ],
+    "Desvios": [
+      1.4,
+      1.64,
+      1.29,
+      1.51,
+      0.53,
+      0.84
+    ],
+    "Componentes": {
+      "LEM4022 - LITERATURA ESPANHOLA I": {
+        "Notas": [
+          9.94,
+          9.98,
+          9.99
+        ],
+        "Desvios": [
+          1.4,
+          1.51,
+          0.53
+        ],
+        "DesvioDeNotas": 0.02160246899469323,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 1.1466666666666667,
+        "NotaMediana": 9.98
+      },
+      "LEM4008 - SINTAXE DA LÍNGUA ESPANHOLA II": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.31
+      },
+      "LEM4015 - CULTURA ESPANHOLA I": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.87
+      },
+      "LEM4006 - SINTAXE DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          0.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 0.84,
+        "NotaMediana": 9.93
+      }
+    },
+    "DesvioDeNotas": 0.23872345693058486,
+    "MediaDeNotas": 9.836666666666668,
+    "MediaDeDesvios": 1.2016666666666667,
+    "NotaMediana": 9.94
+  },
+  "DIANA DE OLIVEIRA MENDONCA": {
+    "Notas": [
+      10,
+      9.48,
+      9.68,
+      9.81,
+      9.91,
+      9.95
+    ],
+    "Desvios": [
+      0.89,
+      1.65,
+      1.21,
+      0.94,
+      1.13,
+      1.44
+    ],
+    "Componentes": {
+      "LEM4010 - EXPRESSÃO ORAL E COMPREENSÃO AUDITIVA DE LÍNGUA ESPANHOLA II": {
+        "Notas": [
+          10,
+          9.81
+        ],
+        "Desvios": [
+          0.89,
+          0.94
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.905000000000001,
+        "MediaDeDesvios": 0.915,
+        "NotaMediana": 9.81
+      },
+      "LEM4042 - LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.68,
+          9.95
+        ],
+        "Desvios": [
+          1.65,
+          1.13
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.815,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.95
+      },
+      "LEM4008 - SINTAXE DA LÍNGUA ESPANHOLA II": {
+        "Notas": [
+          9.48,
+          9.91
+        ],
+        "Desvios": [
+          1.21,
+          1.44
+        ],
+        "DesvioDeNotas": 0.21499999999999986,
+        "MediaDeNotas": 9.695,
+        "MediaDeDesvios": 1.325,
+        "NotaMediana": 9.91
+      }
+    },
+    "DesvioDeNotas": 0.17858238061652837,
+    "MediaDeNotas": 9.805,
+    "MediaDeDesvios": 1.21,
+    "NotaMediana": 9.81
+  },
+  "JOAO DANIEL CAMARA DE ARAUJO": {
+    "Notas": [
+      9.15,
+      9.34
+    ],
+    "Desvios": [
+      1.73,
+      1.71
+    ],
+    "Componentes": {
+      "LEM4043 - LEXICOLOGIA DA LÍNGUA ESPANHOLA": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.15
+      },
+      "LEM4005 - MORFOLOGIA DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.09499999999999975,
+    "MediaDeNotas": 9.245000000000001,
+    "MediaDeDesvios": 1.72,
+    "NotaMediana": 9.34
+  },
+  "LUANA VITAL DOS SANTOS": {
+    "Notas": [
+      9,
+      9.47
+    ],
+    "Desvios": [
+      1.18,
+      2.32
+    ],
+    "Componentes": {
+      "LEM4003 - FONÉTICA E FONOLOGIA DA LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.47
+      },
+      "LEM4023 - LITERATURA HISPANO-AMERICANA I": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          2.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 2.32,
+        "NotaMediana": 9
+      }
+    },
+    "DesvioDeNotas": 0.23500000000000032,
+    "MediaDeNotas": 9.235,
+    "MediaDeDesvios": 1.75,
+    "NotaMediana": 9.47
+  },
+  "SELMA ALAS MARTINS": {
+    "Notas": [
+      7.69,
+      9.7
+    ],
+    "Desvios": [
+      1.41,
+      3.27
+    ],
+    "Componentes": {
+      "LEM3005 - LÍNGUA FRANCESA V - INTERMEDIÁRIO III": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.7
+      },
+      "LEM3002 - LÍNGUA FRANCESA II - BÁSICO II": {
+        "Notas": [
+          7.69
+        ],
+        "Desvios": [
+          3.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.69,
+        "MediaDeDesvios": 3.27,
+        "NotaMediana": 7.69
+      }
+    },
+    "DesvioDeNotas": 1.0049999999999994,
+    "MediaDeNotas": 8.695,
+    "MediaDeDesvios": 2.34,
+    "NotaMediana": 9.7
+  },
+  "FLAVIO DIONEL BAISTROCCHI": {
+    "Notas": [
+      9.22,
+      9.79
+    ],
+    "Desvios": [
+      1.26,
+      1.26
+    ],
+    "Componentes": {
+      "LEM4041 - EXPRESSÃO ORAL E COMPREENSÃO AUDITIVA EM LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.79
+      },
+      "LEM4043 - LEXICOLOGIA DA LÍNGUA ESPANHOLA": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0.28499999999999925,
+    "MediaDeNotas": 9.504999999999999,
+    "MediaDeDesvios": 1.26,
+    "NotaMediana": 9.79
+  },
+  "JENNIFER SARAH COOPER": {
+    "Notas": [
+      9.61,
+      9.96
+    ],
+    "Desvios": [
+      1.36,
+      0.99
+    ],
+    "Componentes": {
+      "LEM2010 - ASPECTOS MORFOSSINTÁTICOS DA LÍNGUA INGLESA I": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.61
+      },
+      "LEM2013 - ASPECTOS SEMÂNTICOS DA LÍNGUA INGLESA": {
+        "Notas": [
+          9.96
+        ],
+        "Desvios": [
+          0.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.96,
+        "MediaDeDesvios": 0.99,
+        "NotaMediana": 9.96
+      }
+    },
+    "DesvioDeNotas": 0.1750000000000007,
+    "MediaDeNotas": 9.785,
+    "MediaDeDesvios": 1.175,
+    "NotaMediana": 9.96
+  },
+  "RENY GOMES MALDONADO": {
+    "Notas": [
+      9.55,
+      9.55,
+      9.95
+    ],
+    "Desvios": [
+      1.03,
+      0.85,
+      0.52
+    ],
+    "Componentes": {
+      "LEM4015 - CULTURA ESPANHOLA I": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.03,
+        "NotaMediana": 9.55
+      },
+      "LEM4024 - LITERATURA ESPANHOLA II": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          0.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 0.85,
+        "NotaMediana": 9.55
+      },
+      "LEM4045 - TRADUÇÃO EM LÍNGUA ESPANHOLA I": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          0.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 0.52,
+        "NotaMediana": 9.95
+      }
+    },
+    "DesvioDeNotas": 0.188561808316412,
+    "MediaDeNotas": 9.683333333333334,
+    "MediaDeDesvios": 0.7999999999999999,
+    "NotaMediana": 9.55
+  }
+}

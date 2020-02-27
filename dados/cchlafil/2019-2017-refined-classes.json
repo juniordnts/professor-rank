@@ -1,0 +1,1229 @@
+{
+  "FIL0001 - FILOSOFIA I": {
+    "Notas": [
+      7.41,
+      7.86,
+      9.2,
+      9.41,
+      9.47,
+      9.48,
+      9.54,
+      9.59,
+      9.62,
+      9.66,
+      9.68,
+      9.71,
+      9.72,
+      9.72,
+      9.76,
+      9.8
+    ],
+    "Desvios": [
+      1.78,
+      1.84,
+      1.65,
+      1.56,
+      0.69,
+      1.72,
+      1.58,
+      1.52,
+      1.84,
+      1.74,
+      1.66,
+      1.49,
+      1.7,
+      1.77,
+      2.16,
+      1.93
+    ],
+    "Docentes": [
+      "ANDERSON BARBOSA CAMILO",
+      "JOAO DANIEL DANTAS DE OLIVEIRA",
+      "TÚLIO MADSON DE OLIVEIRA GALVÃO",
+      "FEDERICO SANGUINETTI",
+      "SANDERSON MOLICK SILVA",
+      "LEONARDO OLIVEIRA FREIRE"
+    ],
+    "DesvioDeNotas": 0.6701979068715449,
+    "MediaDeNotas": 9.351875,
+    "MediaDeDesvios": 1.6643749999999997,
+    "NotaMediana": 9.62
+  },
+  "FIL0619 - IDEIAS FILOSOF.CONTEMPORANEAS": {
+    "Notas": [
+      8.48,
+      8.52,
+      9.06,
+      9.07,
+      9.24,
+      9.34,
+      9.36,
+      9.47,
+      9.54,
+      9.6
+    ],
+    "Desvios": [
+      2.28,
+      2.11,
+      1.72,
+      2.87,
+      1.75,
+      2.31,
+      2.08,
+      1.68,
+      1.61,
+      1.63
+    ],
+    "Docentes": [
+      "ANDERSON BARBOSA CAMILO",
+      "TÚLIO MADSON DE OLIVEIRA GALVÃO",
+      "SANDERSON MOLICK SILVA",
+      "LEONARDO OLIVEIRA FREIRE"
+    ],
+    "DesvioDeNotas": 0.3744809741495553,
+    "MediaDeNotas": 9.168000000000001,
+    "MediaDeDesvios": 2.004,
+    "NotaMediana": 9.34
+  },
+  "FIL0549 - INTRODUÇÃO AO CAMPO DA ÉTICA": {
+    "Notas": [
+      8.62,
+      9.42
+    ],
+    "Desvios": [
+      2.58,
+      2.02
+    ],
+    "Docentes": [
+      "ANDERSON BARBOSA CAMILO",
+      "SANDERSON MOLICK SILVA"
+    ],
+    "DesvioDeNotas": 0.40000000000000036,
+    "MediaDeNotas": 9.02,
+    "MediaDeDesvios": 2.3,
+    "NotaMediana": 9.42
+  },
+  "FIL0510 - FILOSOFIA SOCIAL E POLITICA": {
+    "Notas": [
+      9.29,
+      9.53
+    ],
+    "Desvios": [
+      2.13,
+      2.08
+    ],
+    "Docentes": [
+      "ANTONIO BASILIO NOVAES THOMAZ DE MENEZES",
+      "SERGIO LUIS RIZZO DELA SAVIA"
+    ],
+    "DesvioDeNotas": 0.1200000000000001,
+    "MediaDeNotas": 9.41,
+    "MediaDeDesvios": 2.105,
+    "NotaMediana": 9.53
+  },
+  "FIL0965 - TOPICOS ESPECIAIS DA FILOSOFIA POLITICA I": {
+    "Notas": [
+      9.7
+    ],
+    "Desvios": [
+      1.34
+    ],
+    "Docentes": [
+      "ANTONIO BASILIO NOVAES THOMAZ DE MENEZES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.7,
+    "MediaDeDesvios": 1.34,
+    "NotaMediana": 9.7
+  },
+  "FIL0030 - FUNDAMENTOS DE FILOSOFIA": {
+    "Notas": [
+      8.8,
+      8.99,
+      9.36
+    ],
+    "Desvios": [
+      2.16,
+      2.47,
+      2.6
+    ],
+    "Docentes": [
+      "BRUNO RAFAELO LOPES VAZ",
+      "FERNANDA MACHADO DE BULHOES"
+    ],
+    "DesvioDeNotas": 0.2325224003546033,
+    "MediaDeNotas": 9.049999999999999,
+    "MediaDeDesvios": 2.41,
+    "NotaMediana": 8.99
+  },
+  "FIL0990 - TOPICOS ESPECIAIS DE TEORIA DO CONHECIMENTO I": {
+    "Notas": [
+      7.98
+    ],
+    "Desvios": [
+      2.16
+    ],
+    "Docentes": [
+      "CLAUDIO FERREIRA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 7.98,
+    "MediaDeDesvios": 2.16,
+    "NotaMediana": 7.98
+  },
+  "FIL0977 - TOPICOS ESPECIAIS METAFISICA III": {
+    "Notas": [
+      9.29
+    ],
+    "Desvios": [
+      1.53
+    ],
+    "Docentes": [
+      "CLAUDIO FERREIRA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.29,
+    "MediaDeDesvios": 1.53,
+    "NotaMediana": 9.29
+  },
+  "FIL0701 - ESTETICA FILOSOFICA": {
+    "Notas": [
+      9.35,
+      9.43,
+      9.53,
+      9.58
+    ],
+    "Desvios": [
+      2.13,
+      1.95,
+      2.13,
+      1.56
+    ],
+    "Docentes": [
+      "EDUARDO ANIBAL PELLEJERO"
+    ],
+    "DesvioDeNotas": 0.0889873586527885,
+    "MediaDeNotas": 9.4725,
+    "MediaDeDesvios": 1.9425,
+    "NotaMediana": 9.53
+  },
+  "FIL0025 - LABORATÓRIO DE ESTÉTICA": {
+    "Notas": [
+      7.43,
+      9.03,
+      9.56
+    ],
+    "Desvios": [
+      2.06,
+      1.86,
+      3.36
+    ],
+    "Docentes": [
+      "EDUARDO ANIBAL PELLEJERO",
+      "GLENN WALTER ERICKSON"
+    ],
+    "DesvioDeNotas": 0.9054035318881608,
+    "MediaDeNotas": 8.673333333333334,
+    "MediaDeDesvios": 2.4266666666666663,
+    "NotaMediana": 9.03
+  },
+  "FIL0021 - LABORATÓRIO DE METAFÍSICA": {
+    "Notas": [
+      9.47,
+      9.61
+    ],
+    "Desvios": [
+      1.53,
+      1.97
+    ],
+    "Docentes": [
+      "FEDERICO SANGUINETTI",
+      "OSCAR FEDERICO BAUCHWITZ"
+    ],
+    "DesvioDeNotas": 0.0699999999999994,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.75,
+    "NotaMediana": 9.61
+  },
+  "FIL0992 - TOPICOS ESPECIAIS DE TEORIA DO CONHECIMENTO III": {
+    "Notas": [
+      9.93
+    ],
+    "Desvios": [
+      1.16
+    ],
+    "Docentes": [
+      "FEDERICO SANGUINETTI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.93,
+    "MediaDeDesvios": 1.16,
+    "NotaMediana": 9.93
+  },
+  "FIL0605 - HISTORIA DA FILOSOFIA I": {
+    "Notas": [
+      9.2,
+      9.7,
+      9.9
+    ],
+    "Desvios": [
+      2.26,
+      1.76,
+      1.97
+    ],
+    "Docentes": [
+      "GISELE AMARAL DOS SANTOS",
+      "MARKUS FIGUEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.29439202887759525,
+    "MediaDeNotas": 9.6,
+    "MediaDeDesvios": 1.9966666666666664,
+    "NotaMediana": 9.7
+  },
+  "FIL0953 - TOPICOS ESPECIAIS DA FILOSOFIA ANTIGA IV": {
+    "Notas": [
+      9.57,
+      9.66
+    ],
+    "Desvios": [
+      1.51,
+      1.07
+    ],
+    "Docentes": [
+      "GISELE AMARAL DOS SANTOS",
+      "MARKUS FIGUEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.04499999999999993,
+    "MediaDeNotas": 9.615,
+    "MediaDeDesvios": 1.29,
+    "NotaMediana": 9.66
+  },
+  "FIL0939 - TOPICOS ESPECIAIS DE FILOSOFIA CONTEMPORANEA V": {
+    "Notas": [
+      9.59
+    ],
+    "Desvios": [
+      1.4
+    ],
+    "Docentes": [
+      "GLENN WALTER ERICKSON"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.4,
+    "NotaMediana": 9.59
+  },
+  "FIL0520 - FILOSOFIA DA CULTURA": {
+    "Notas": [
+      9.89
+    ],
+    "Desvios": [
+      1.46
+    ],
+    "Docentes": [
+      "JAIME BIELLA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.89,
+    "MediaDeDesvios": 1.46,
+    "NotaMediana": 9.89
+  },
+  "FIL0019 - LABORATÓRIO DE ÉTICA E POLÍTICA": {
+    "Notas": [
+      9.65,
+      9.96
+    ],
+    "Desvios": [
+      0.84,
+      1.46
+    ],
+    "Docentes": [
+      "JAIME BIELLA",
+      "SERGIO EDUARDO LIMA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.15500000000000025,
+    "MediaDeNotas": 9.805,
+    "MediaDeDesvios": 1.15,
+    "NotaMediana": 9.96
+  },
+  "FIL0923 - FILOSOFIA DA CIENCIA": {
+    "Notas": [
+      9.3,
+      9.59,
+      9.63,
+      9.78,
+      9.82
+    ],
+    "Desvios": [
+      1.88,
+      0.39,
+      1.98,
+      1.5,
+      1.43
+    ],
+    "Docentes": [
+      "JOAO DANIEL DANTAS DE OLIVEIRA",
+      "TÚLIO MADSON DE OLIVEIRA GALVÃO",
+      "SAMIR BEZERRA GORSKY",
+      "SANDERSON MOLICK SILVA"
+    ],
+    "DesvioDeNotas": 0.18380424369420825,
+    "MediaDeNotas": 9.624,
+    "MediaDeDesvios": 1.436,
+    "NotaMediana": 9.63
+  },
+  "FIL0103 - LOGICA": {
+    "Notas": [
+      9.19,
+      9.39,
+      9.5,
+      9.58,
+      9.71
+    ],
+    "Desvios": [
+      1.88,
+      2.37,
+      1.8,
+      1.95,
+      1.62
+    ],
+    "Docentes": [
+      "JOAO DANIEL DANTAS DE OLIVEIRA",
+      "SAMIR BEZERRA GORSKY",
+      "BRUNO RAFAELO LOPES VAZ"
+    ],
+    "DesvioDeNotas": 0.17624982269494663,
+    "MediaDeNotas": 9.474,
+    "MediaDeDesvios": 1.9240000000000002,
+    "NotaMediana": 9.5
+  },
+  "FIL0611 - HISTORIA DA FILOSOFIA III": {
+    "Notas": [
+      9.6,
+      9.73
+    ],
+    "Desvios": [
+      1.71,
+      1.75
+    ],
+    "Docentes": [
+      "MARIA CRISTINA LONGO CARDOSO DIAS",
+      "DAX FONSECA MORAES PAES NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.06500000000000039,
+    "MediaDeNotas": 9.665,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.73
+  },
+  "FIL0023 - LABORATÓRIO DE LÓGICA E TEORIA DO CONHECIMENTO": {
+    "Notas": [
+      9.49,
+      9.65
+    ],
+    "Desvios": [
+      1.67,
+      1.49
+    ],
+    "Docentes": [
+      "SAMIR BEZERRA GORSKY",
+      "BRUNO RAFAELO LOPES VAZ"
+    ],
+    "DesvioDeNotas": 0.08000000000000007,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.58,
+    "NotaMediana": 9.65
+  },
+  "PEC4030 - RESIDÊNCIA PEDAGÓGICA III": {
+    "Notas": [
+      9.91
+    ],
+    "Desvios": [
+      0.93
+    ],
+    "Docentes": [
+      "SAMIR BEZERRA GORSKY"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.91,
+    "MediaDeDesvios": 0.93,
+    "NotaMediana": 9.91
+  },
+  "FIL0008 - FILOSOFIA APLICADA A SERVICO SOCIAL": {
+    "Notas": [
+      9.41,
+      9.46,
+      9.58,
+      9.63
+    ],
+    "Desvios": [
+      2.09,
+      1.85,
+      1.77,
+      1.58
+    ],
+    "Docentes": [
+      "SERGIO EDUARDO LIMA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.08860022573334682,
+    "MediaDeNotas": 9.520000000000001,
+    "MediaDeDesvios": 1.8225,
+    "NotaMediana": 9.58
+  },
+  "FIL0946 - TOPICOS ESPECIAIS DA FILOSOFIA MEDIEVAL II": {
+    "Notas": [
+      9.88
+    ],
+    "Desvios": [
+      1.65
+    ],
+    "Docentes": [
+      "SERGIO EDUARDO LIMA DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.88,
+    "MediaDeDesvios": 1.65,
+    "NotaMediana": 9.88
+  },
+  "FIL0935 - TOPICOS ESPECIAIS DE FILOSOFIA CONTEMPORANEA I": {
+    "Notas": [
+      9.41,
+      9.84
+    ],
+    "Desvios": [
+      1.3,
+      1.8
+    ],
+    "Docentes": [
+      "SERGIO EDUARDO LIMA DA SILVA",
+      "FEDERICO SANGUINETTI"
+    ],
+    "DesvioDeNotas": 0.21499999999999986,
+    "MediaDeNotas": 9.625,
+    "MediaDeDesvios": 1.55,
+    "NotaMediana": 9.84
+  },
+  "FIL0501 - ETICA": {
+    "Notas": [
+      9.23,
+      9.3
+    ],
+    "Desvios": [
+      2.22,
+      2.31
+    ],
+    "Docentes": [
+      "SERGIO LUIS RIZZO DELA SAVIA"
+    ],
+    "DesvioDeNotas": 0.03500000000000014,
+    "MediaDeNotas": 9.265,
+    "MediaDeDesvios": 2.265,
+    "NotaMediana": 9.3
+  },
+  "FIL0050 - EPISTEMOLOGIA DAS CIÊNCIAS HUMANAS": {
+    "Notas": [
+      8.71,
+      9.38
+    ],
+    "Desvios": [
+      2.32,
+      2.69
+    ],
+    "Docentes": [
+      "TÚLIO MADSON DE OLIVEIRA GALVÃO",
+      "MARKUS FIGUEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.33499999999999996,
+    "MediaDeNotas": 9.045000000000002,
+    "MediaDeDesvios": 2.505,
+    "NotaMediana": 9.38
+  },
+  "FIL0004 - METODOLOGIA DA CIENCIA": {
+    "Notas": [
+      8.68,
+      9.14,
+      9.19,
+      9.46,
+      9.46,
+      9.48,
+      9.54,
+      9.64
+    ],
+    "Desvios": [
+      1.96,
+      1.85,
+      1.33,
+      1.62,
+      1.32,
+      1.68,
+      1.29,
+      1.68
+    ],
+    "Docentes": [
+      "TÚLIO MADSON DE OLIVEIRA GALVÃO",
+      "JOAO DANIEL DANTAS DE OLIVEIRA",
+      "SANDERSON MOLICK SILVA",
+      "LEONARDO OLIVEIRA FREIRE"
+    ],
+    "DesvioDeNotas": 0.2903419320387603,
+    "MediaDeNotas": 9.32375,
+    "MediaDeDesvios": 1.59125,
+    "NotaMediana": 9.46
+  },
+  "FIL0131 - FILOSOFIA DA MATEMATICA": {
+    "Notas": [
+      9.75
+    ],
+    "Desvios": [
+      1.42
+    ],
+    "Docentes": [
+      "BRUNO RAFAELO LOPES VAZ"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.42,
+    "NotaMediana": 9.75
+  },
+  "FIL0212 - TEORIA DO CONHECIMENTO": {
+    "Notas": [
+      9.48,
+      9.58
+    ],
+    "Desvios": [
+      1.86,
+      1.37
+    ],
+    "Docentes": [
+      "BRUNO RAFAELO LOPES VAZ",
+      "JAIME BIELLA"
+    ],
+    "DesvioDeNotas": 0.04999999999999982,
+    "MediaDeNotas": 9.530000000000001,
+    "MediaDeDesvios": 1.6150000000000002,
+    "NotaMediana": 9.58
+  },
+  "FIL0938 - TOPICOS ESPECIAIS DE FILOSOFIA CONTEMPORANEA IV": {
+    "Notas": [
+      9.44
+    ],
+    "Desvios": [
+      1.57
+    ],
+    "Docentes": [
+      "CLAUDIO FERREIRA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.44,
+    "MediaDeDesvios": 1.57,
+    "NotaMediana": 9.44
+  },
+  "FIL0016 - FILOSOFIA E ARTE II": {
+    "Notas": [
+      9.91
+    ],
+    "Desvios": [
+      1.12
+    ],
+    "Docentes": [
+      "EDUARDO ANIBAL PELLEJERO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.91,
+    "MediaDeDesvios": 1.12,
+    "NotaMediana": 9.91
+  },
+  "FIL0976 - TOPICOS ESPECIAIS METAFISICA II": {
+    "Notas": [
+      9.75
+    ],
+    "Desvios": [
+      1.44
+    ],
+    "Docentes": [
+      "FEDERICO SANGUINETTI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.44,
+    "NotaMediana": 9.75
+  },
+  "FIL0017 - FILOSOFIA E ARTE III": {
+    "Notas": [
+      9.21
+    ],
+    "Desvios": [
+      1.86
+    ],
+    "Docentes": [
+      "FERNANDA MACHADO DE BULHOES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.21,
+    "MediaDeDesvios": 1.86,
+    "NotaMediana": 9.21
+  },
+  "FIL0020 - LABORATÓRIO DE ANÁLISE FILOSÓFICA I": {
+    "Notas": [
+      9.04,
+      9.46
+    ],
+    "Desvios": [
+      1.54,
+      1.45
+    ],
+    "Docentes": [
+      "FERNANDA MACHADO DE BULHOES"
+    ],
+    "DesvioDeNotas": 0.21000000000000085,
+    "MediaDeNotas": 9.25,
+    "MediaDeDesvios": 1.495,
+    "NotaMediana": 9.46
+  },
+  "FIL0980 - SEMINARIO INTERDISCIPLINAR I": {
+    "Notas": [
+      10,
+      10
+    ],
+    "Desvios": [
+      0.42,
+      0.42
+    ],
+    "Docentes": [
+      "FERNANDA MACHADO DE BULHOES",
+      "MONALISA CARRILHO DE MACEDO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 10,
+    "MediaDeDesvios": 0.42,
+    "NotaMediana": 10
+  },
+  "FIL0022 - LABORATÓRIO DE ANÁLISE FILOSÓFICA II": {
+    "Notas": [
+      9.61,
+      9.64
+    ],
+    "Desvios": [
+      1.51,
+      1.2
+    ],
+    "Docentes": [
+      "GISELE AMARAL DOS SANTOS",
+      "MARKUS FIGUEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.015000000000000568,
+    "MediaDeNotas": 9.625,
+    "MediaDeDesvios": 1.355,
+    "NotaMediana": 9.64
+  },
+  "FIL0918 - FILOSOFIA DA MENTE": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      1.88
+    ],
+    "Docentes": [
+      "JAIME BIELLA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.88,
+    "NotaMediana": 9.57
+  },
+  "FIL0613 - HISTORIA DA FILOSOFIA IV": {
+    "Notas": [
+      9.61,
+      9.73
+    ],
+    "Desvios": [
+      1.91,
+      1.08
+    ],
+    "Docentes": [
+      "JAIME BIELLA"
+    ],
+    "DesvioDeNotas": 0.0600000000000005,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.495,
+    "NotaMediana": 9.73
+  },
+  "FIL0024 - LABORATÓRIO DE ANÁLISE FILOSÓFICA III": {
+    "Notas": [
+      8.91,
+      9.88
+    ],
+    "Desvios": [
+      2.45,
+      1.2
+    ],
+    "Docentes": [
+      "MARIA CRISTINA LONGO CARDOSO DIAS",
+      "DANIEL DURANTE PEREIRA ALVES"
+    ],
+    "DesvioDeNotas": 0.4850000000000003,
+    "MediaDeNotas": 9.395,
+    "MediaDeDesvios": 1.8250000000000002,
+    "NotaMediana": 9.88
+  },
+  "FIL0952 - TOPICOS ESPECIAIS DA FILOSOFIA ANTIGA III": {
+    "Notas": [
+      9.75
+    ],
+    "Desvios": [
+      1.15
+    ],
+    "Docentes": [
+      "MARKUS FIGUEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.15,
+    "NotaMediana": 9.75
+  },
+  "FIL0303 - METAFISICA": {
+    "Notas": [
+      9.57,
+      9.63,
+      9.68
+    ],
+    "Desvios": [
+      1.99,
+      1.27,
+      1.26
+    ],
+    "Docentes": [
+      "OSCAR FEDERICO BAUCHWITZ",
+      "DAX FONSECA MORAES PAES NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.044969125210773266,
+    "MediaDeNotas": 9.626666666666667,
+    "MediaDeDesvios": 1.5066666666666666,
+    "NotaMediana": 9.63
+  },
+  "FIL0993 - TOPICOS ESPECIAIS DE TEORIA DO CONHECIMENTO IV": {
+    "Notas": [
+      9.8
+    ],
+    "Desvios": [
+      1.23
+    ],
+    "Docentes": [
+      "SAMIR BEZERRA GORSKY"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.8
+  },
+  "FIL0607 - HISTORIA DA FILOSOFIA II": {
+    "Notas": [
+      9.47,
+      9.6
+    ],
+    "Desvios": [
+      1.73,
+      1.37
+    ],
+    "Docentes": [
+      "SERGIO EDUARDO LIMA DA SILVA",
+      "GISELE AMARAL DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.0649999999999995,
+    "MediaDeNotas": 9.535,
+    "MediaDeDesvios": 1.55,
+    "NotaMediana": 9.6
+  },
+  "FIL0945 - TOPICOS ESPECIAIS DA FILOSOFIA MEDIEVAL I": {
+    "Notas": [
+      9.61
+    ],
+    "Desvios": [
+      1.59
+    ],
+    "Docentes": [
+      "SERGIO EDUARDO LIMA DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.59,
+    "NotaMediana": 9.61
+  },
+  "FIL0930 - TOPICOS ESPECIAIS DE ETICA I": {
+    "Notas": [
+      9.67
+    ],
+    "Desvios": [
+      1.39
+    ],
+    "Docentes": [
+      "SERGIO LUIS RIZZO DELA SAVIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.39,
+    "NotaMediana": 9.67
+  },
+  "FIL0905 - TOP.ESP.DA FILOSOFIA DA CULTURA I": {
+    "Notas": [
+      9.5
+    ],
+    "Desvios": [
+      1.14
+    ],
+    "Docentes": [
+      "TÚLIO MADSON DE OLIVEIRA GALVÃO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.14,
+    "NotaMediana": 9.5
+  },
+  "FIL0934 - TOPICOS ESPECIAIS DE ETICA V": {
+    "Notas": [
+      9.94
+    ],
+    "Desvios": [
+      1.26
+    ],
+    "Docentes": [
+      "CINARA MARIA LEITE NAHRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.94,
+    "MediaDeDesvios": 1.26,
+    "NotaMediana": 9.94
+  },
+  "FIL0220 - FILOSOFIA DA LINGUAGEM": {
+    "Notas": [
+      8.71,
+      9.34
+    ],
+    "Desvios": [
+      1.9,
+      1.68
+    ],
+    "Docentes": [
+      "CLAUDIO FERREIRA COSTA",
+      "SANDERSON MOLICK SILVA"
+    ],
+    "DesvioDeNotas": 0.3149999999999995,
+    "MediaDeNotas": 9.025,
+    "MediaDeDesvios": 1.79,
+    "NotaMediana": 9.34
+  },
+  "FIL0979 - TOPICOS ESPECIAIS METAFISICA V": {
+    "Notas": [
+      9.86
+    ],
+    "Desvios": [
+      1.38
+    ],
+    "Docentes": [
+      "CLAUDIO FERREIRA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 1.38,
+    "NotaMediana": 9.86
+  },
+  "FIL0932 - TOPICOS ESPECIAIS DE ETICA III": {
+    "Notas": [
+      9.62
+    ],
+    "Desvios": [
+      1.51
+    ],
+    "Docentes": [
+      "DAX FONSECA MORAES PAES NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.62,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.62
+  },
+  "FIL0975 - TOPICOS ESPECIAIS METAFISICA I": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.76
+    ],
+    "Docentes": [
+      "FERNANDA MACHADO DE BULHOES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.76,
+    "NotaMediana": 9.66
+  },
+  "FIL0950 - TOPICOS ESPECIAIS DA FILOSOFIA ANTIGA I": {
+    "Notas": [
+      9.59
+    ],
+    "Desvios": [
+      1.53
+    ],
+    "Docentes": [
+      "GISELE AMARAL DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.53,
+    "NotaMediana": 9.59
+  },
+  "FIL0951 - TOPICOS ESPECIAIS DA FILOSOFIA ANTIGA II": {
+    "Notas": [
+      9.47
+    ],
+    "Desvios": [
+      1.21
+    ],
+    "Docentes": [
+      "GISELE AMARAL DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.47,
+    "MediaDeDesvios": 1.21,
+    "NotaMediana": 9.47
+  },
+  "FIL0907 - TOP.ESP.DA FILOSOFIA DA CULTURA III": {
+    "Notas": [
+      9.93
+    ],
+    "Desvios": [
+      1.13
+    ],
+    "Docentes": [
+      "JAIME BIELLA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.93,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.93
+  },
+  "FIL0996 - HISTORIA DA CULTURA GREGA": {
+    "Notas": [
+      8.91
+    ],
+    "Desvios": [
+      2.05
+    ],
+    "Docentes": [
+      "MONALISA CARRILHO DE MACEDO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.91,
+    "MediaDeDesvios": 2.05,
+    "NotaMediana": 8.91
+  },
+  "FIL0027 - FILOSOFIA E ARQUITETURA": {
+    "Notas": [
+      10
+    ],
+    "Desvios": [
+      0.57
+    ],
+    "Docentes": [
+      "OSCAR FEDERICO BAUCHWITZ"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 10,
+    "MediaDeDesvios": 0.57,
+    "NotaMediana": 10
+  },
+  "FIL0956 - TOPICOS ESPECIAIS DE LOGICA II": {
+    "Notas": [
+      9.73
+    ],
+    "Desvios": [
+      1.5
+    ],
+    "Docentes": [
+      "SAMIR BEZERRA GORSKY"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.5,
+    "NotaMediana": 9.73
+  },
+  "FIL0937 - TOPICOS ESPECIAIS DE FILOSOFIA CONTEMPORANEA III": {
+    "Notas": [
+      9.84
+    ],
+    "Desvios": [
+      1.73
+    ],
+    "Docentes": [
+      "SERGIO EDUARDO LIMA DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.84,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.84
+  },
+  "FIL0015 - FILOSOFIA E ARTE I": {
+    "Notas": [
+      9.02,
+      9.49,
+      9.65
+    ],
+    "Desvios": [
+      1.38,
+      1.79,
+      1.47
+    ],
+    "Docentes": [
+      "ANTONIO BASILIO NOVAES THOMAZ DE MENEZES",
+      "MONALISA CARRILHO DE MACEDO",
+      "SANDERSON MOLICK SILVA"
+    ],
+    "DesvioDeNotas": 0.2673740617354067,
+    "MediaDeNotas": 9.386666666666668,
+    "MediaDeDesvios": 1.5466666666666666,
+    "NotaMediana": 9.49
+  },
+  "FIL0968 - TOPICOS ESPECIAIS DA FILOSOFIA POLITICA IV": {
+    "Notas": [
+      9.75,
+      9.81
+    ],
+    "Desvios": [
+      0.85,
+      0.7
+    ],
+    "Docentes": [
+      "ANTONIO BASILIO NOVAES THOMAZ DE MENEZES",
+      "JOEL THIAGO KLEIN"
+    ],
+    "DesvioDeNotas": 0.03000000000000025,
+    "MediaDeNotas": 9.780000000000001,
+    "MediaDeDesvios": 0.7749999999999999,
+    "NotaMediana": 9.81
+  },
+  "FIL0933 - TOPICOS ESPECIAIS DE ETICA IV": {
+    "Notas": [
+      9.98
+    ],
+    "Desvios": [
+      0.7
+    ],
+    "Docentes": [
+      "CINARA MARIA LEITE NAHRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.98,
+    "MediaDeDesvios": 0.7,
+    "NotaMediana": 9.98
+  },
+  "FIL0962 - TOPICOS ESPECIAIS ESTETICA III": {
+    "Notas": [
+      9.99
+    ],
+    "Desvios": [
+      0.41
+    ],
+    "Docentes": [
+      "DAX FONSECA MORAES PAES NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.99,
+    "MediaDeDesvios": 0.41,
+    "NotaMediana": 9.99
+  },
+  "FIL0014 - FILOSOFIA DA LITERATURA IV": {
+    "Notas": [
+      9.59
+    ],
+    "Desvios": [
+      1.31
+    ],
+    "Docentes": [
+      "EDUARDO ANIBAL PELLEJERO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.31,
+    "NotaMediana": 9.59
+  },
+  "FIL0991 - TOPICOS ESPECIAIS DE TEORIA DO CONHECIMENTO II": {
+    "Notas": [
+      9.43,
+      9.49,
+      9.55
+    ],
+    "Desvios": [
+      1.67,
+      1.75,
+      1.61
+    ],
+    "Docentes": [
+      "FEDERICO SANGUINETTI",
+      "SANDERSON MOLICK SILVA",
+      "SERGIO EDUARDO LIMA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.048989794855663966,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.6766666666666667,
+    "NotaMediana": 9.49
+  },
+  "FIL0978 - TOPICOS ESPECIAIS METAFISICA IV": {
+    "Notas": [
+      9.54
+    ],
+    "Desvios": [
+      1.42
+    ],
+    "Docentes": [
+      "GLENN WALTER ERICKSON"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.42,
+    "NotaMediana": 9.54
+  },
+  "FIL0942 - TOPICOS ESPECIAIS DA FILOSOFIA MODERNA III": {
+    "Notas": [
+      9.32
+    ],
+    "Desvios": [
+      1.31
+    ],
+    "Docentes": [
+      "JOEL THIAGO KLEIN"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.32,
+    "MediaDeDesvios": 1.31,
+    "NotaMediana": 9.32
+  },
+  "FIL0955 - TOPICOS ESPECIAIS DE LOGICA I": {
+    "Notas": [
+      9.82
+    ],
+    "Desvios": [
+      1.56
+    ],
+    "Docentes": [
+      "SAMIR BEZERRA GORSKY"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 1.56,
+    "NotaMediana": 9.82
+  },
+  "FIL0936 - TOPICOS ESPECIAIS DE FILOSOFIA CONTEMPORANEA II": {
+    "Notas": [
+      9.87
+    ],
+    "Desvios": [
+      0.5
+    ],
+    "Docentes": [
+      "SERGIO EDUARDO LIMA DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.87,
+    "MediaDeDesvios": 0.5,
+    "NotaMediana": 9.87
+  }
+}

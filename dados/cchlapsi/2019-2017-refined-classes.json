@@ -1,0 +1,2211 @@
+{
+  "PSI0100 - PSICOLOGIA APLICADA A CIENCIAS CONTABEIS": {
+    "Notas": [
+      8.97,
+      9,
+      9.28,
+      9.5,
+      9.69,
+      9.69,
+      9.71,
+      9.84
+    ],
+    "Desvios": [
+      1.84,
+      1.86,
+      1.89,
+      2.69,
+      2.12,
+      2.64,
+      1.43,
+      0.99
+    ],
+    "Docentes": [
+      "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+      "ANDRE LUIZ DOS SANTOS PAIVA",
+      "KEYLA MAFALDA DE OLIVEIRA AMORIM",
+      "JAMILE LUZ MORAIS MONTEIRO",
+      "LUCILA MOURA RAMOS VASCONCELOS"
+    ],
+    "DesvioDeNotas": 0.3159113799786262,
+    "MediaDeNotas": 9.46,
+    "MediaDeDesvios": 1.9324999999999999,
+    "NotaMediana": 9.69
+  },
+  "PSI0095 - PSICOLOGIA E PROCESSOS PSICOSSOMÁTICOS": {
+    "Notas": [
+      8.56,
+      9.34,
+      9.6,
+      9.68,
+      9.86,
+      9.93
+    ],
+    "Desvios": [
+      1.89,
+      2.26,
+      1.71,
+      1.49,
+      1.57,
+      0.61
+    ],
+    "Docentes": [
+      "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+      "KATIE MORAES DE ALMONDES",
+      "KAMILLA STHEFANY ANDRADE DE OLIVEIRA",
+      "ANA KARINA SILVA AZEVEDO"
+    ],
+    "DesvioDeNotas": 0.45933829218416616,
+    "MediaDeNotas": 9.495,
+    "MediaDeDesvios": 1.5883333333333332,
+    "NotaMediana": 9.68
+  },
+  "PSI0270 - ESTÁGIO DE ÊNFASE I": {
+    "Notas": [
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "Desvios": [
+      0.57,
+      0.57,
+      0.57,
+      0,
+      0
+    ],
+    "Docentes": [
+      "ANA CAROLINA RIOS SIMONI",
+      "ANA KARENINA DE MELO ARRAES AMORIM",
+      "RAQUEL FARIAS DINIZ",
+      "ILANA LEMOS DE PAIVA",
+      "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 10,
+    "MediaDeDesvios": 0.34199999999999997,
+    "NotaMediana": 10
+  },
+  "PSI0170 - ESTÁGIO DE ÊNFASE I": {
+    "Notas": [
+      10,
+      10,
+      9.22,
+      9.79,
+      9.88,
+      9.89,
+      9.93,
+      9.99
+    ],
+    "Desvios": [
+      1.27,
+      1.15,
+      0.51,
+      1.57,
+      0.26,
+      0.77,
+      0.7,
+      0.11
+    ],
+    "Docentes": [
+      "ANA CAROLINA RIOS SIMONI",
+      "ANA KARINA SILVA AZEVEDO",
+      "EULALIA MARIA CHAVES MAIA",
+      "KATIE MORAES DE ALMONDES",
+      "PEDRO FERNANDO BENDASSOLLI",
+      "GEORGIA SIBELE NOGUEIRA DA SILVA",
+      "SYMONE FERNANDES DE MELO"
+    ],
+    "DesvioDeNotas": 0.24309206075065456,
+    "MediaDeNotas": 9.8375,
+    "MediaDeDesvios": 0.7925,
+    "NotaMediana": 9.88
+  },
+  "PSI7552 - INFANCIA E ADOLESCENCIA NO CONTEXTO DA SAUDE": {
+    "Notas": [
+      9.71,
+      9.81
+    ],
+    "Desvios": [
+      1.62,
+      1.6
+    ],
+    "Docentes": [
+      "ANA CAROLINA RIOS SIMONI",
+      "JAMILE LUZ MORAIS MONTEIRO"
+    ],
+    "DesvioDeNotas": 0.04999999999999982,
+    "MediaDeNotas": 9.760000000000002,
+    "MediaDeDesvios": 1.61,
+    "NotaMediana": 9.81
+  },
+  "PSI0967 - TOPICOS EM ANALISE INSTITUCIONAL I": {
+    "Notas": [
+      9.13,
+      9.32,
+      9.72,
+      9.76
+    ],
+    "Desvios": [
+      1.72,
+      1.78,
+      1.46,
+      1.63
+    ],
+    "Docentes": [
+      "ANA CAROLINA RIOS SIMONI",
+      "MARIA TERESA LISBOA NOBRE PEREIRA",
+      "ANA KARENINA DE MELO ARRAES AMORIM"
+    ],
+    "DesvioDeNotas": 0.2664934333149691,
+    "MediaDeNotas": 9.4825,
+    "MediaDeDesvios": 1.6475,
+    "NotaMediana": 9.72
+  },
+  "PSI0107 - ESTÁGIO III DA ENFASE II": {
+    "Notas": [
+      10,
+      10,
+      10
+    ],
+    "Desvios": [
+      0.28,
+      0.28,
+      0.28
+    ],
+    "Docentes": [
+      "ANA KARENINA DE MELO ARRAES AMORIM",
+      "ILANA LEMOS DE PAIVA",
+      "RAQUEL FARIAS DINIZ"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 10,
+    "MediaDeDesvios": 0.28,
+    "NotaMediana": 10
+  },
+  "PSI7031 - INTRODUÇÃO À PSICOPATOLOGIA": {
+    "Notas": [
+      9.23,
+      9.44,
+      9.62,
+      9.65
+    ],
+    "Desvios": [
+      2.15,
+      2.29,
+      1.67,
+      1.66
+    ],
+    "Docentes": [
+      "ANA KARENINA DE MELO ARRAES AMORIM",
+      "NEUCIANE GOMES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.16770509831248404,
+    "MediaDeNotas": 9.485,
+    "MediaDeDesvios": 1.9425,
+    "NotaMediana": 9.62
+  },
+  "PSI0124 - SEMINÁRIO DE INTEGRAÇÃO I": {
+    "Notas": [
+      9.37,
+      9.38,
+      9.39,
+      9.39
+    ],
+    "Desvios": [
+      1.59,
+      2.01,
+      1.27,
+      1.85
+    ],
+    "Docentes": [
+      "ANA KARENINA DE MELO ARRAES AMORIM",
+      "FELLIPE COELHO LIMA",
+      "MARIA TERESA LISBOA NOBRE PEREIRA"
+    ],
+    "DesvioDeNotas": 0.008291561975888992,
+    "MediaDeNotas": 9.3825,
+    "MediaDeDesvios": 1.6799999999999997,
+    "NotaMediana": 9.39
+  },
+  "PSI0106 - ESTAGIO III DA ENFASE I": {
+    "Notas": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      9.99
+    ],
+    "Desvios": [
+      0,
+      0.24,
+      0.15,
+      0,
+      0.24,
+      0,
+      0.4
+    ],
+    "Docentes": [
+      "ANA KARINA SILVA AZEVEDO",
+      "SYMONE FERNANDES DE MELO",
+      "ANA KARENINA DE MELO ARRAES AMORIM",
+      "GEORGIA SIBELE NOGUEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.0034992710611187515,
+    "MediaDeNotas": 9.998571428571427,
+    "MediaDeDesvios": 0.14714285714285716,
+    "NotaMediana": 10
+  },
+  "PSI0174 - INTERVENÇÕES EM PSICOLOGIA CLÍNICA": {
+    "Notas": [
+      7.88,
+      9.2,
+      9.44
+    ],
+    "Desvios": [
+      1.75,
+      2.63,
+      2.05
+    ],
+    "Docentes": [
+      "ANA KARINA SILVA AZEVEDO",
+      "MARLOS ALVES BEZERRA"
+    ],
+    "DesvioDeNotas": 0.6858571279792897,
+    "MediaDeNotas": 8.84,
+    "MediaDeDesvios": 2.143333333333333,
+    "NotaMediana": 9.2
+  },
+  "PSI0088 - PSICOLOGIA APLICADA AO SERVICO SOCIAL": {
+    "Notas": [
+      9.32,
+      9.36,
+      9.55,
+      9.75
+    ],
+    "Desvios": [
+      1.9,
+      1.74,
+      1.78,
+      1.27
+    ],
+    "Docentes": [
+      "ANDRE LUIZ DOS SANTOS PAIVA",
+      "LUCILA MOURA RAMOS VASCONCELOS"
+    ],
+    "DesvioDeNotas": 0.17095320997278768,
+    "MediaDeNotas": 9.495000000000001,
+    "MediaDeDesvios": 1.6724999999999999,
+    "NotaMediana": 9.55
+  },
+  "PSI0089 - PSICOLOGIA APLICADA AO TURISMO": {
+    "Notas": [
+      8.92,
+      9.32,
+      9.53,
+      9.59
+    ],
+    "Desvios": [
+      1.4,
+      1.61,
+      1.99,
+      1.81
+    ],
+    "Docentes": [
+      "ANDRE LUIZ DOS SANTOS PAIVA",
+      "ALVARO LUIS DOS SANTOS GOMES RIBEIRO"
+    ],
+    "DesvioDeNotas": 0.2623928352680384,
+    "MediaDeNotas": 9.34,
+    "MediaDeDesvios": 1.7025000000000001,
+    "NotaMediana": 9.53
+  },
+  "PSI0981 - PSICOLOGIA SOCIAL E COMUNICACAO": {
+    "Notas": [
+      8.39,
+      9.01,
+      9.05,
+      9.09,
+      9.36,
+      9.45,
+      9.78,
+      9.91
+    ],
+    "Desvios": [
+      2.53,
+      2.07,
+      1.77,
+      1.92,
+      2.12,
+      1.88,
+      1.32,
+      1.21
+    ],
+    "Docentes": [
+      "ANDRE LUIZ DOS SANTOS PAIVA",
+      "CARMEM PLACIDA SOUSA CAVALCANTE",
+      "KAMILLA STHEFANY ANDRADE DE OLIVEIRA",
+      "MARLOS ALVES BEZERRA",
+      "ADRIANA AZEVEDO GERMANO RODRIGUES"
+    ],
+    "DesvioDeNotas": 0.4515528761950252,
+    "MediaDeNotas": 9.254999999999999,
+    "MediaDeDesvios": 1.8525,
+    "NotaMediana": 9.36
+  },
+  "PSI7013 - HISTORIA DA PSICOLOGIA I": {
+    "Notas": [
+      8.11,
+      8.14
+    ],
+    "Desvios": [
+      3.14,
+      2.9
+    ],
+    "Docentes": [
+      "CANDIDA MARIA BEZERRA DANTAS",
+      "HERCULANO RICARDO CAMPOS"
+    ],
+    "DesvioDeNotas": 0.015000000000000568,
+    "MediaDeNotas": 8.125,
+    "MediaDeDesvios": 3.02,
+    "NotaMediana": 8.14
+  },
+  "PSI0136 - PSICOLOGIA, GÊNERO E SEXUALIDADE": {
+    "Notas": [
+      9.18,
+      9.49
+    ],
+    "Desvios": [
+      1.57,
+      1.73
+    ],
+    "Docentes": [
+      "CANDIDA MARIA BEZERRA DANTAS",
+      "JADER FERREIRA LEITE"
+    ],
+    "DesvioDeNotas": 0.15500000000000025,
+    "MediaDeNotas": 9.335,
+    "MediaDeDesvios": 1.65,
+    "NotaMediana": 9.49
+  },
+  "PSI2005 - ESTÁGIO BÁSICO III": {
+    "Notas": [
+      9.07,
+      9.11,
+      9.29,
+      9.55
+    ],
+    "Desvios": [
+      1.65,
+      1.97,
+      1.86,
+      1.79
+    ],
+    "Docentes": [
+      "CARMEM PLACIDA SOUSA CAVALCANTE",
+      "GUILHERME PAIM MASCARENHAS",
+      "CLARA MARIA MELO DOS SANTOS",
+      "JAMILE LUZ MORAIS MONTEIRO"
+    ],
+    "DesvioDeNotas": 0.18940696924875838,
+    "MediaDeNotas": 9.254999999999999,
+    "MediaDeDesvios": 1.8175000000000001,
+    "NotaMediana": 9.29
+  },
+  "PSI7553 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXTO DA EDUCAÇÃO": {
+    "Notas": [
+      6.89,
+      9.44,
+      9.46
+    ],
+    "Desvios": [
+      1.76,
+      3.1,
+      1.84
+    ],
+    "Docentes": [
+      "CARMEM PLACIDA SOUSA CAVALCANTE",
+      "HERCULANO RICARDO CAMPOS",
+      "ANDRE LUIZ DOS SANTOS PAIVA"
+    ],
+    "DesvioDeNotas": 1.2068231942675873,
+    "MediaDeNotas": 8.596666666666666,
+    "MediaDeDesvios": 2.2333333333333334,
+    "NotaMediana": 9.44
+  },
+  "PSI7071 - PSICOLOGIA E ÉTICA": {
+    "Notas": [
+      8.99,
+      9.02
+    ],
+    "Desvios": [
+      2,
+      1.71
+    ],
+    "Docentes": [
+      "CARMEM PLACIDA SOUSA CAVALCANTE",
+      "ANA KARENINA DE MELO ARRAES AMORIM"
+    ],
+    "DesvioDeNotas": 0.01499999999999968,
+    "MediaDeNotas": 9.004999999999999,
+    "MediaDeDesvios": 1.855,
+    "NotaMediana": 9.02
+  },
+  "PSI0001 - PSICOLOGIA I - GERAL": {
+    "Notas": [
+      9.38,
+      9.41
+    ],
+    "Desvios": [
+      1.78,
+      2.07
+    ],
+    "Docentes": [
+      "CARMEM PLACIDA SOUSA CAVALCANTE",
+      "ALVARO LUIS DOS SANTOS GOMES RIBEIRO"
+    ],
+    "DesvioDeNotas": 0.01499999999999968,
+    "MediaDeNotas": 9.395,
+    "MediaDeDesvios": 1.9249999999999998,
+    "NotaMediana": 9.41
+  },
+  "PSI2001 - ESPAÇO INTEGRATIVO I": {
+    "Notas": [
+      7.88,
+      8.65,
+      9.24,
+      9.3,
+      9.32
+    ],
+    "Desvios": [
+      2.99,
+      2.62,
+      2.59,
+      2.79,
+      2.41
+    ],
+    "Docentes": [
+      "CLARA MARIA MELO DOS SANTOS",
+      "LIETI COELHO LEAL",
+      "MARIA DA APRESENTACAO BARRETO",
+      "DENISE PEREIRA DO REGO",
+      "JAMILE LUZ MORAIS MONTEIRO"
+    ],
+    "DesvioDeNotas": 0.5572216794059616,
+    "MediaDeNotas": 8.878,
+    "MediaDeDesvios": 2.6799999999999997,
+    "NotaMediana": 9.24
+  },
+  "PSI7037 - INTRODUÇÃO AO DESENVOLVIMENTO HUMANO": {
+    "Notas": [
+      9.34,
+      9.42,
+      9.7
+    ],
+    "Desvios": [
+      2.11,
+      1.83,
+      1.73
+    ],
+    "Docentes": [
+      "CLARA MARIA MELO DOS SANTOS",
+      "LIETI COELHO LEAL"
+    ],
+    "DesvioDeNotas": 0.15434449203720274,
+    "MediaDeNotas": 9.486666666666666,
+    "MediaDeDesvios": 1.89,
+    "NotaMediana": 9.42
+  },
+  "PSI7551 - PISCOLOGIA DA INFANCIA E DA ADOLESCÊNCIA": {
+    "Notas": [
+      9.18,
+      9.44
+    ],
+    "Desvios": [
+      1.75,
+      1.78
+    ],
+    "Docentes": [
+      "CLARA MARIA MELO DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.1299999999999999,
+    "MediaDeNotas": 9.309999999999999,
+    "MediaDeDesvios": 1.7650000000000001,
+    "NotaMediana": 9.44
+  },
+  "PSI0138 - PSICOLOGIA, GRUPOS E FENOMENOLOGIA": {
+    "Notas": [
+      9.99
+    ],
+    "Desvios": [
+      0.45
+    ],
+    "Docentes": [
+      "CYNARA CARVALHO DE ABREU"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.99,
+    "MediaDeDesvios": 0.45,
+    "NotaMediana": 9.99
+  },
+  "PSI0126 - SEMINÁRIO DE INTEGRAÇÃO III": {
+    "Notas": [
+      9.21,
+      9.65,
+      9.66,
+      9.74
+    ],
+    "Desvios": [
+      0.96,
+      1.27,
+      1.26,
+      1.87
+    ],
+    "Docentes": [
+      "CYNARA CARVALHO DE ABREU",
+      "MARLOS ALVES BEZERRA",
+      "KEYLA MAFALDA DE OLIVEIRA AMORIM",
+      "RAQUEL FARIAS DINIZ"
+    ],
+    "DesvioDeNotas": 0.20790622886291765,
+    "MediaDeNotas": 9.565,
+    "MediaDeDesvios": 1.34,
+    "NotaMediana": 9.66
+  },
+  "PSI2003 - ESTÁGIO BÁSICO I": {
+    "Notas": [
+      8.76,
+      9.4,
+      9.45,
+      9.7
+    ],
+    "Desvios": [
+      2.07,
+      2.47,
+      1.81,
+      2.12
+    ],
+    "Docentes": [
+      "DENISE PEREIRA DO REGO",
+      "PITAGORAS JOSE BINDE",
+      "CLARA MARIA MELO DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.3467978517811203,
+    "MediaDeNotas": 9.3275,
+    "MediaDeDesvios": 2.1174999999999997,
+    "NotaMediana": 9.45
+  },
+  "PSI7033 - INTRODUÇÃO AOS PROCESSOS PSICOSSOCIOLÓGICOS E DE INTERAÇÃO SOCIAL": {
+    "Notas": [
+      8.57,
+      9.09,
+      9.47,
+      9.82
+    ],
+    "Desvios": [
+      1.99,
+      1.72,
+      2.1,
+      2.28
+    ],
+    "Docentes": [
+      "DENISE PEREIRA DO REGO",
+      "FELLIPE COELHO LIMA",
+      "JADER FERREIRA LEITE"
+    ],
+    "DesvioDeNotas": 0.46386285688767975,
+    "MediaDeNotas": 9.2375,
+    "MediaDeDesvios": 2.0225,
+    "NotaMediana": 9.47
+  },
+  "PSI3088 - TÉCNICAS DE DINÂMICA DE GRUPO": {
+    "Notas": [
+      10,
+      9.9
+    ],
+    "Desvios": [
+      0.6,
+      0
+    ],
+    "Docentes": [
+      "DENISE PEREIRA DO REGO"
+    ],
+    "DesvioDeNotas": 0.04999999999999982,
+    "MediaDeNotas": 9.95,
+    "MediaDeDesvios": 0.3,
+    "NotaMediana": 9.9
+  },
+  "MCL0044.0 - INICIAÇÃO AO EXAME CLÍNICO - TEÓRICA": {
+    "Notas": [
+      9.57,
+      9.61
+    ],
+    "Desvios": [
+      1.86,
+      1.35
+    ],
+    "Docentes": [
+      "EMERSON ARCOVERDE NUNES"
+    ],
+    "DesvioDeNotas": 0.019999999999999574,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.605,
+    "NotaMediana": 9.61
+  },
+  "MCL0040.1 - PSIQUIATRIA - PRÁTICA": {
+    "Notas": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      9.13,
+      9.13,
+      9.3,
+      9.5,
+      9.5,
+      9.65,
+      9.68,
+      9.71,
+      9.87,
+      9.97
+    ],
+    "Desvios": [
+      0.67,
+      1.24,
+      1.38,
+      2.07,
+      0.5,
+      1.09,
+      2.12,
+      1.25,
+      0,
+      0.99,
+      0.15,
+      0.29,
+      1.12,
+      1.12,
+      1.17,
+      0.14
+    ],
+    "Docentes": [
+      "EMERSON ARCOVERDE NUNES"
+    ],
+    "DesvioDeNotas": 0.30933396192464846,
+    "MediaDeNotas": 9.715,
+    "MediaDeDesvios": 0.9562500000000002,
+    "NotaMediana": 9.3
+  },
+  "MCL0040.0 - PSIQUIATRIA - TEÓRICA": {
+    "Notas": [
+      9.56,
+      9.79
+    ],
+    "Desvios": [
+      1.56,
+      0.9
+    ],
+    "Docentes": [
+      "EMERSON ARCOVERDE NUNES"
+    ],
+    "DesvioDeNotas": 0.11499999999999932,
+    "MediaDeNotas": 9.675,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.79
+  },
+  "MCL0072.1 - SAÚDE MENTAL - PRÁTICA": {
+    "Notas": [
+      9.59,
+      9.59,
+      9.67
+    ],
+    "Desvios": [
+      0.85,
+      0.91,
+      1
+    ],
+    "Docentes": [
+      "EMERSON ARCOVERDE NUNES"
+    ],
+    "DesvioDeNotas": 0.03771236166328257,
+    "MediaDeNotas": 9.616666666666665,
+    "MediaDeDesvios": 0.9199999999999999,
+    "NotaMediana": 9.59
+  },
+  "MCL0072.0 - SAÚDE MENTAL - TEÓRICA": {
+    "Notas": [
+      9.61
+    ],
+    "Desvios": [
+      1.13
+    ],
+    "Docentes": [
+      "EMERSON ARCOVERDE NUNES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.61
+  },
+  "PSI3089 - PSICOLOGIA HOSPITALAR I": {
+    "Notas": [
+      9.59
+    ],
+    "Desvios": [
+      1.56
+    ],
+    "Docentes": [
+      "EULALIA MARIA CHAVES MAIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.56,
+    "NotaMediana": 9.59
+  },
+  "PSI7014 - INTRODUÇÃO AO ESTUDO SUPERIOR": {
+    "Notas": [
+      9.23,
+      9.68
+    ],
+    "Desvios": [
+      2.4,
+      2.54
+    ],
+    "Docentes": [
+      "FELLIPE COELHO LIMA",
+      "KEYLA MAFALDA DE OLIVEIRA AMORIM"
+    ],
+    "DesvioDeNotas": 0.22499999999999964,
+    "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 2.4699999999999998,
+    "NotaMediana": 9.68
+  },
+  "PSI3004 - TÓPICOS DE PSICOOLOGIA ORGANIZACIONAL E DO TRABALHO I": {
+    "Notas": [
+      9.75
+    ],
+    "Desvios": [
+      1.52
+    ],
+    "Docentes": [
+      "FELLIPE COELHO LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.52,
+    "NotaMediana": 9.75
+  },
+  "PSI0172 - MODALIDADES DE INTERVENÇÃO PSICOLÓGICA EM SAÚDE": {
+    "Notas": [
+      9.16,
+      9.35,
+      9.78,
+      9.81
+    ],
+    "Desvios": [
+      2.03,
+      1.17,
+      1.71,
+      1.22
+    ],
+    "Docentes": [
+      "GUILHERME PAIM MASCARENHAS",
+      "KATIE MORAES DE ALMONDES",
+      "KEYLA MAFALDA DE OLIVEIRA AMORIM"
+    ],
+    "DesvioDeNotas": 0.2784331158465171,
+    "MediaDeNotas": 9.525,
+    "MediaDeDesvios": 1.5325,
+    "NotaMediana": 9.78
+  },
+  "PSI0086 - PSICOLOGIA APLICADA A ADMINISTRACAO I": {
+    "Notas": [
+      8.91,
+      9.21,
+      9.3,
+      9.37,
+      9.47,
+      9.5,
+      9.59,
+      9.65
+    ],
+    "Desvios": [
+      2.11,
+      2.09,
+      1.52,
+      2.02,
+      1.8,
+      1.82,
+      1.75,
+      1.58
+    ],
+    "Docentes": [
+      "GUILHERME PAIM MASCARENHAS",
+      "JADER FERREIRA LEITE",
+      "ANA CAROLINA RIOS SIMONI",
+      "ANDRE LUIZ DOS SANTOS PAIVA",
+      "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+      "KAMILLA STHEFANY ANDRADE DE OLIVEIRA",
+      "YASMIN MAKHAMID MAKHAMED"
+    ],
+    "DesvioDeNotas": 0.22237355957937077,
+    "MediaDeNotas": 9.375,
+    "MediaDeDesvios": 1.83625,
+    "NotaMediana": 9.47
+  },
+  "PSI0098 - PSICOLOGIA E SAÚDE II": {
+    "Notas": [
+      8.91,
+      9.16,
+      9.31,
+      9.82
+    ],
+    "Desvios": [
+      1.74,
+      1.48,
+      2.32,
+      1.02
+    ],
+    "Docentes": [
+      "GUILHERME PAIM MASCARENHAS",
+      "CARMEM PLACIDA SOUSA CAVALCANTE",
+      "MARLOS ALVES BEZERRA",
+      "IANNY FELINTO MEDEIROS DE AZEVEDO"
+    ],
+    "DesvioDeNotas": 0.332490601370926,
+    "MediaDeNotas": 9.3,
+    "MediaDeDesvios": 1.6399999999999997,
+    "NotaMediana": 9.31
+  },
+  "PSI0003 - PSICOLOGIA III - PSICOLOGIA SOCIAL": {
+    "Notas": [
+      8.51,
+      9.24,
+      9.43
+    ],
+    "Desvios": [
+      1.71,
+      2.49,
+      1.43
+    ],
+    "Docentes": [
+      "GUILHERME PAIM MASCARENHAS",
+      "ANDRE LUIZ DOS SANTOS PAIVA",
+      "KAMILLA STHEFANY ANDRADE DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.39656861533241217,
+    "MediaDeNotas": 9.06,
+    "MediaDeDesvios": 1.8766666666666667,
+    "NotaMediana": 9.24
+  },
+  "PSI1273 - SAÚDE E CONTEXTOS SOCIAIS": {
+    "Notas": [
+      9.12,
+      9.68
+    ],
+    "Desvios": [
+      1.94,
+      1.23
+    ],
+    "Docentes": [
+      "GUILHERME PAIM MASCARENHAS",
+      "JAMILE LUZ MORAIS MONTEIRO"
+    ],
+    "DesvioDeNotas": 0.28000000000000025,
+    "MediaDeNotas": 9.399999999999999,
+    "MediaDeDesvios": 1.585,
+    "NotaMediana": 9.68
+  },
+  "PSI7057 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXO SÓCIO-COMUNITÁRIO": {
+    "Notas": [
+      8.49,
+      9.4
+    ],
+    "Desvios": [
+      2.32,
+      1.8
+    ],
+    "Docentes": [
+      "ILANA LEMOS DE PAIVA"
+    ],
+    "DesvioDeNotas": 0.45500000000000007,
+    "MediaDeNotas": 8.945,
+    "MediaDeDesvios": 2.06,
+    "NotaMediana": 9.4
+  },
+  "PSI0141 - PSICOLOGIA E DIREITOS HUMANOS": {
+    "Notas": [
+      9.23
+    ],
+    "Desvios": [
+      1.97
+    ],
+    "Docentes": [
+      "ILANA LEMOS DE PAIVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.23,
+    "MediaDeDesvios": 1.97,
+    "NotaMediana": 9.23
+  },
+  "PSI7032 - INTRODUÇÃO AO CAMPO DA PSICOLOGIA COMO CIÊNCIA E PROFISSÃO": {
+    "Notas": [
+      8.81,
+      9.12
+    ],
+    "Desvios": [
+      2.46,
+      2.09
+    ],
+    "Docentes": [
+      "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.15499999999999936,
+    "MediaDeNotas": 8.965,
+    "MediaDeDesvios": 2.275,
+    "NotaMediana": 9.12
+  },
+  "PSI3085 - TEMAS EM POLITICAS SOCIAIS A PRATICAS DO PSICOLOGO NOS AMBITOS DO SUS E SUAS": {
+    "Notas": [
+      9.21,
+      9.3,
+      9.47
+    ],
+    "Desvios": [
+      1.8,
+      1.71,
+      1.77
+    ],
+    "Docentes": [
+      "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+      "ILANA LEMOS DE PAIVA"
+    ],
+    "DesvioDeNotas": 0.10780641085864144,
+    "MediaDeNotas": 9.326666666666668,
+    "MediaDeDesvios": 1.7599999999999998,
+    "NotaMediana": 9.3
+  },
+  "PSI7052 - PROCESSOS DE AVALIAÇÃO PSICOLÓGICA NA INFÂNCIA E ADOLESCÊNCIA": {
+    "Notas": [
+      9.12,
+      9.57
+    ],
+    "Desvios": [
+      1.96,
+      1.78
+    ],
+    "Docentes": [
+      "JOAO CARLOS ALCHIERI"
+    ],
+    "DesvioDeNotas": 0.22500000000000053,
+    "MediaDeNotas": 9.344999999999999,
+    "MediaDeDesvios": 1.87,
+    "NotaMediana": 9.57
+  },
+  "PSI0097 - PSICOLOGIA E SAÚDE I": {
+    "Notas": [
+      9.29,
+      9.43,
+      9.65,
+      9.72
+    ],
+    "Desvios": [
+      2.03,
+      1.45,
+      1.68,
+      1.19
+    ],
+    "Docentes": [
+      "JOAO CARLOS ALCHIERI",
+      "CARMEM PLACIDA SOUSA CAVALCANTE",
+      "KAMILLA STHEFANY ANDRADE DE OLIVEIRA",
+      "IANNY FELINTO MEDEIROS DE AZEVEDO"
+    ],
+    "DesvioDeNotas": 0.17166464400102951,
+    "MediaDeNotas": 9.522499999999999,
+    "MediaDeDesvios": 1.5875,
+    "NotaMediana": 9.65
+  },
+  "PSI0128 - NEUROPSICOLOGIA DO ENVELHECIMENTO I": {
+    "Notas": [
+      9.72,
+      9.76
+    ],
+    "Desvios": [
+      1.55,
+      1.9
+    ],
+    "Docentes": [
+      "KATIE MORAES DE ALMONDES"
+    ],
+    "DesvioDeNotas": 0.019999999999999574,
+    "MediaDeNotas": 9.74,
+    "MediaDeDesvios": 1.725,
+    "NotaMediana": 9.76
+  },
+  "PSI0271 - CONTEXTOS SOCIAIS DE APRENDIZAGEM": {
+    "Notas": [
+      9,
+      9.39
+    ],
+    "Desvios": [
+      1.18,
+      1.74
+    ],
+    "Docentes": [
+      "MARIA DA APRESENTACAO BARRETO",
+      "ANDRE LUIZ DOS SANTOS PAIVA"
+    ],
+    "DesvioDeNotas": 0.19500000000000028,
+    "MediaDeNotas": 9.195,
+    "MediaDeDesvios": 1.46,
+    "NotaMediana": 9.39
+  },
+  "PSI7055 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXO DA CLÍNICA PSICOLÓGICA": {
+    "Notas": [
+      9.07,
+      9.9,
+      9.92
+    ],
+    "Desvios": [
+      2.01,
+      1.46,
+      1.52
+    ],
+    "Docentes": [
+      "MARLOS ALVES BEZERRA",
+      "JAMILE LUZ MORAIS MONTEIRO",
+      "SYMONE FERNANDES DE MELO"
+    ],
+    "DesvioDeNotas": 0.3960639678974428,
+    "MediaDeNotas": 9.63,
+    "MediaDeDesvios": 1.6633333333333333,
+    "NotaMediana": 9.9
+  },
+  "PSI3080 - PSICOLOGIA TRANSPESSOAL II": {
+    "Notas": [
+      9.94
+    ],
+    "Desvios": [
+      0.87
+    ],
+    "Docentes": [
+      "MARLOS ALVES BEZERRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.94,
+    "MediaDeDesvios": 0.87,
+    "NotaMediana": 9.94
+  },
+  "PSI3028 - TÓPICOS NA ABORDAGEM COGNITIVO-COMPORTAMENTAL I": {
+    "Notas": [
+      9.32,
+      9.54,
+      9.68
+    ],
+    "Desvios": [
+      1.17,
+      1.63,
+      1.5
+    ],
+    "Docentes": [
+      "NEUCIANE GOMES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.14817407180595218,
+    "MediaDeNotas": 9.513333333333334,
+    "MediaDeDesvios": 1.4333333333333333,
+    "NotaMediana": 9.54
+  },
+  "PSI0272 - DESENVOLVIMENTO INSTITUCIONAL I": {
+    "Notas": [
+      9.55,
+      9.94
+    ],
+    "Desvios": [
+      0.94,
+      0.7
+    ],
+    "Docentes": [
+      "PEDRO FERNANDO BENDASSOLLI"
+    ],
+    "DesvioDeNotas": 0.1949999999999994,
+    "MediaDeNotas": 9.745000000000001,
+    "MediaDeDesvios": 0.82,
+    "NotaMediana": 9.94
+  },
+  "PSI0986 - PSICOLOGIA APLICADA AO DIREITO": {
+    "Notas": [
+      7.45,
+      7.57,
+      7.89,
+      8.4,
+      8.73,
+      8.81,
+      9.27,
+      9.31
+    ],
+    "Desvios": [
+      2.77,
+      1.83,
+      2.54,
+      1.87,
+      2.98,
+      2.22,
+      2.18,
+      1.79
+    ],
+    "Docentes": [
+      "PITAGORAS JOSE BINDE"
+    ],
+    "DesvioDeNotas": 0.680706204981268,
+    "MediaDeNotas": 8.42875,
+    "MediaDeDesvios": 2.2725,
+    "NotaMediana": 8.73
+  },
+  "PSI7036 - INTRODUÇÃO AOS METODOS DE PESQUISA": {
+    "Notas": [
+      9.36,
+      9.66
+    ],
+    "Desvios": [
+      2.26,
+      1.89
+    ],
+    "Docentes": [
+      "RAQUEL FARIAS DINIZ"
+    ],
+    "DesvioDeNotas": 0.15000000000000036,
+    "MediaDeNotas": 9.51,
+    "MediaDeDesvios": 2.0749999999999997,
+    "NotaMediana": 9.66
+  },
+  "PSI7058 - METODOS DE PESQUISA E ANALISE DE DADOS II": {
+    "Notas": [
+      9.64,
+      9.72
+    ],
+    "Desvios": [
+      1.47,
+      1.61
+    ],
+    "Docentes": [
+      "RAQUEL FARIAS DINIZ"
+    ],
+    "DesvioDeNotas": 0.040000000000000036,
+    "MediaDeNotas": 9.68,
+    "MediaDeDesvios": 1.54,
+    "NotaMediana": 9.72
+  },
+  "PSI0142 - PSICOLOGIA E RELAÇÕES ÉTNICO-RACIAIS": {
+    "Notas": [
+      9.87
+    ],
+    "Desvios": [
+      1.56
+    ],
+    "Docentes": [
+      "RAQUEL FARIAS DINIZ"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.87,
+    "MediaDeDesvios": 1.56,
+    "NotaMediana": 9.87
+  },
+  "PSI0602 - INTRODUCAO A PSICANALISE": {
+    "Notas": [
+      9.75,
+      9.8
+    ],
+    "Desvios": [
+      1.07,
+      1.04
+    ],
+    "Docentes": [
+      "ALVARO LUIS DOS SANTOS GOMES RIBEIRO"
+    ],
+    "DesvioDeNotas": 0.025000000000000355,
+    "MediaDeNotas": 9.775,
+    "MediaDeDesvios": 1.0550000000000002,
+    "NotaMediana": 9.8
+  },
+  "PSI7024 - PSICANALISE": {
+    "Notas": [
+      9.32,
+      9.56
+    ],
+    "Desvios": [
+      1.74,
+      1.74
+    ],
+    "Docentes": [
+      "ALVARO LUIS DOS SANTOS GOMES RIBEIRO"
+    ],
+    "DesvioDeNotas": 0.1200000000000001,
+    "MediaDeNotas": 9.440000000000001,
+    "MediaDeDesvios": 1.74,
+    "NotaMediana": 9.56
+  },
+  "PSI2006 - ESTÁGIO BÁSICO IV": {
+    "Notas": [
+      8.54,
+      9.11,
+      9.42,
+      9.44
+    ],
+    "Desvios": [
+      1.93,
+      2.93,
+      1.45,
+      1.34
+    ],
+    "Docentes": [
+      "ANA CAROLINA RIOS SIMONI",
+      "PITAGORAS JOSE BINDE",
+      "DENISE PEREIRA DO REGO",
+      "LUCILA MOURA RAMOS VASCONCELOS"
+    ],
+    "DesvioDeNotas": 0.36355020286062306,
+    "MediaDeNotas": 9.1275,
+    "MediaDeDesvios": 1.9125,
+    "NotaMediana": 9.42
+  },
+  "PSI7065 - IDADE ADULTA E ENVELHECIMENTO NO CONTEXTO DA CLÍNICA": {
+    "Notas": [
+      9.65,
+      9.7
+    ],
+    "Desvios": [
+      1.53,
+      1.16
+    ],
+    "Docentes": [
+      "ANA CAROLINA RIOS SIMONI",
+      "JAMILE LUZ MORAIS MONTEIRO"
+    ],
+    "DesvioDeNotas": 0.02499999999999947,
+    "MediaDeNotas": 9.675,
+    "MediaDeDesvios": 1.345,
+    "NotaMediana": 9.7
+  },
+  "PSI7044 - OS LUGARES DA CLÍNICA PSICOLÓGICA": {
+    "Notas": [
+      9.51,
+      9.53,
+      9.69,
+      9.78
+    ],
+    "Desvios": [
+      1.62,
+      1.79,
+      1.28,
+      1.41
+    ],
+    "Docentes": [
+      "ANA CAROLINA RIOS SIMONI",
+      "NEUCIANE GOMES DA SILVA",
+      "JAMILE LUZ MORAIS MONTEIRO"
+    ],
+    "DesvioDeNotas": 0.11233320969330476,
+    "MediaDeNotas": 9.6275,
+    "MediaDeDesvios": 1.5250000000000001,
+    "NotaMediana": 9.69
+  },
+  "PSI7070 - PERSPECTIVAS DOS PROCESSOS SAÚDE-DOENÇA": {
+    "Notas": [
+      8.34,
+      8.5,
+      9.03,
+      9.7
+    ],
+    "Desvios": [
+      2.38,
+      2.37,
+      1.71,
+      1.37
+    ],
+    "Docentes": [
+      "ANA KARENINA DE MELO ARRAES AMORIM",
+      "GEORGIA SIBELE NOGUEIRA DA SILVA",
+      "JAMILE LUZ MORAIS MONTEIRO"
+    ],
+    "DesvioDeNotas": 0.5315719612620663,
+    "MediaDeNotas": 8.892499999999998,
+    "MediaDeDesvios": 1.9575,
+    "NotaMediana": 9.03
+  },
+  "PSI0183 - SAÚDE MENTAL E A REFORMA PSIQUIÁTRICA NO BRASIL": {
+    "Notas": [
+      9.41,
+      9.75,
+      9.75
+    ],
+    "Desvios": [
+      1.29,
+      0.85,
+      0.84
+    ],
+    "Docentes": [
+      "ANA KARENINA DE MELO ARRAES AMORIM",
+      "MARIA TERESA LISBOA NOBRE PEREIRA"
+    ],
+    "DesvioDeNotas": 0.1602775370689507,
+    "MediaDeNotas": 9.636666666666667,
+    "MediaDeDesvios": 0.9933333333333333,
+    "NotaMediana": 9.75
+  },
+  "PSI3032 - TÓPICOS EM PSICOLOGIA E SAÚDE III": {
+    "Notas": [
+      8.81
+    ],
+    "Desvios": [
+      2.13
+    ],
+    "Docentes": [
+      "ANA KARENINA DE MELO ARRAES AMORIM"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.81,
+    "MediaDeDesvios": 2.13,
+    "NotaMediana": 8.81
+  },
+  "PSI0180 - ESTÁGIO DE ÊNFASE II": {
+    "Notas": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      9.18,
+      9.22,
+      9.45,
+      9.55,
+      9.95
+    ],
+    "Desvios": [
+      0.11,
+      0.59,
+      0.35,
+      0,
+      1.07,
+      0.98,
+      1.03,
+      0,
+      0.76,
+      0.72
+    ],
+    "Docentes": [
+      "ANA KARINA SILVA AZEVEDO",
+      "GEORGIA SIBELE NOGUEIRA DA SILVA",
+      "SYMONE FERNANDES DE MELO",
+      "ANA KARENINA DE MELO ARRAES AMORIM",
+      "EULALIA MARIA CHAVES MAIA",
+      "KATIE MORAES DE ALMONDES",
+      "MARIA TERESA LISBOA NOBRE PEREIRA",
+      "NEUCIANE GOMES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.3295527271924782,
+    "MediaDeNotas": 9.735000000000001,
+    "MediaDeDesvios": 0.5609999999999999,
+    "NotaMediana": 9.18
+  },
+  "PSI7084 - PERSPECTIVAS ATUAIS DA PSICOLOGIA": {
+    "Notas": [
+      8.5,
+      9.12,
+      9.74
+    ],
+    "Desvios": [
+      1.09,
+      1.62,
+      1.18
+    ],
+    "Docentes": [
+      "CARMEM PLACIDA SOUSA CAVALCANTE",
+      "ILANA LEMOS DE PAIVA",
+      "JADER FERREIRA LEITE"
+    ],
+    "DesvioDeNotas": 0.5062278801751903,
+    "MediaDeNotas": 9.12,
+    "MediaDeDesvios": 1.2966666666666666,
+    "NotaMediana": 9.12
+  },
+  "PSI2004 - ESTÁGIO BÁSICO II": {
+    "Notas": [
+      9.03,
+      9.48,
+      9.66,
+      9.69
+    ],
+    "Desvios": [
+      2.07,
+      1.89,
+      1.45,
+      1.28
+    ],
+    "Docentes": [
+      "CLARA MARIA MELO DOS SANTOS",
+      "MARIA DA APRESENTACAO BARRETO",
+      "LUCILA MOURA RAMOS VASCONCELOS",
+      "YASMIN MAKHAMID MAKHAMED"
+    ],
+    "DesvioDeNotas": 0.2636759374687044,
+    "MediaDeNotas": 9.465,
+    "MediaDeDesvios": 1.6725,
+    "NotaMediana": 9.66
+  },
+  "PSI7023 - PSICOLOGIA COGNITIVA": {
+    "Notas": [
+      9.16,
+      9.4
+    ],
+    "Desvios": [
+      1.89,
+      1.92
+    ],
+    "Docentes": [
+      "CLARA MARIA MELO DOS SANTOS",
+      "IZABEL AUGUSTA HAZIN PIRES"
+    ],
+    "DesvioDeNotas": 0.1200000000000001,
+    "MediaDeNotas": 9.280000000000001,
+    "MediaDeDesvios": 1.9049999999999998,
+    "NotaMediana": 9.4
+  },
+  "PSI0902 - TOPICOS EM PSICOLOGIA DO DESENVOLVIMENTO I": {
+    "Notas": [
+      9.61,
+      9.89
+    ],
+    "Desvios": [
+      1.71,
+      0.9
+    ],
+    "Docentes": [
+      "CLARA MARIA MELO DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.14000000000000057,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.305,
+    "NotaMediana": 9.89
+  },
+  "PSI2002 - ESPAÇO INTEGRATIVO II": {
+    "Notas": [
+      8.14,
+      9.72,
+      9.73,
+      9.84
+    ],
+    "Desvios": [
+      1.94,
+      2.34,
+      1.59,
+      1.38
+    ],
+    "Docentes": [
+      "CYNARA CARVALHO DE ABREU",
+      "JADER FERREIRA LEITE",
+      "ADRIANA AZEVEDO GERMANO RODRIGUES",
+      "SYMONE FERNANDES DE MELO"
+    ],
+    "DesvioDeNotas": 0.7044989354143836,
+    "MediaDeNotas": 9.3575,
+    "MediaDeDesvios": 1.8124999999999998,
+    "NotaMediana": 9.73
+  },
+  "PSI0283 - DESENVOLVIMENTO INSTITUCIONAL II": {
+    "Notas": [
+      9.62,
+      9.97
+    ],
+    "Desvios": [
+      1.37,
+      0.43
+    ],
+    "Docentes": [
+      "DENISE PEREIRA DO REGO",
+      "PEDRO FERNANDO BENDASSOLLI"
+    ],
+    "DesvioDeNotas": 0.1750000000000007,
+    "MediaDeNotas": 9.795,
+    "MediaDeDesvios": 0.9,
+    "NotaMediana": 9.97
+  },
+  "PSI7663 - DINAMICA DE GRUPO": {
+    "Notas": [
+      9.24,
+      9.4
+    ],
+    "Desvios": [
+      1.76,
+      1.7
+    ],
+    "Docentes": [
+      "DENISE PEREIRA DO REGO"
+    ],
+    "DesvioDeNotas": 0.08000000000000007,
+    "MediaDeNotas": 9.32,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.4
+  },
+  "MCL0059 - INTERNATO EM CLÍNICA MÉDICA III": {
+    "Notas": [
+      8.8
+    ],
+    "Desvios": [
+      1.48
+    ],
+    "Docentes": [
+      "EMERSON ARCOVERDE NUNES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.8,
+    "MediaDeDesvios": 1.48,
+    "NotaMediana": 8.8
+  },
+  "PSI0182 - PSICOLOGIA DA SAÚDE E HOSPITALIZAÇÃO": {
+    "Notas": [
+      9.69,
+      9.75
+    ],
+    "Desvios": [
+      1.23,
+      0.83
+    ],
+    "Docentes": [
+      "EULALIA MARIA CHAVES MAIA",
+      "IANNY FELINTO MEDEIROS DE AZEVEDO"
+    ],
+    "DesvioDeNotas": 0.03000000000000025,
+    "MediaDeNotas": 9.719999999999999,
+    "MediaDeDesvios": 1.03,
+    "NotaMediana": 9.75
+  },
+  "PSI7662 - CONTEXTO DE TRABALHO": {
+    "Notas": [
+      9.63,
+      9.89,
+      9.97
+    ],
+    "Desvios": [
+      1.27,
+      0.71,
+      1.14
+    ],
+    "Docentes": [
+      "FELLIPE COELHO LIMA",
+      "PEDRO FERNANDO BENDASSOLLI",
+      "YASMIN MAKHAMID MAKHAMED"
+    ],
+    "DesvioDeNotas": 0.14514360704718152,
+    "MediaDeNotas": 9.83,
+    "MediaDeDesvios": 1.04,
+    "NotaMediana": 9.89
+  },
+  "PSI7048 - PROCESSOS PSICOSSOCIOLOGICOS NAS ORGANIZAÇÕES": {
+    "Notas": [
+      9.27,
+      9.93
+    ],
+    "Desvios": [
+      1.37,
+      1.72
+    ],
+    "Docentes": [
+      "FELLIPE COELHO LIMA",
+      "YASMIN MAKHAMID MAKHAMED"
+    ],
+    "DesvioDeNotas": 0.33000000000000007,
+    "MediaDeNotas": 9.6,
+    "MediaDeDesvios": 1.545,
+    "NotaMediana": 9.93
+  },
+  "PSI0125 - SEMINÁRIO DE INTEGRAÇÃO II": {
+    "Notas": [
+      9.71,
+      9.72,
+      9.76,
+      9.91
+    ],
+    "Desvios": [
+      0.92,
+      1.06,
+      0.94,
+      0.93
+    ],
+    "Docentes": [
+      "FELLIPE COELHO LIMA",
+      "RAQUEL FARIAS DINIZ",
+      "IANNY FELINTO MEDEIROS DE AZEVEDO"
+    ],
+    "DesvioDeNotas": 0.08015609770940677,
+    "MediaDeNotas": 9.775,
+    "MediaDeDesvios": 0.9625,
+    "NotaMediana": 9.76
+  },
+  "MCL0026.0 - INTRODUÇÃO A MEDICINA E BIOÉTICA - TEÓRICA": {
+    "Notas": [
+      9.34,
+      9.78,
+      9.89
+    ],
+    "Desvios": [
+      1.44,
+      1.8,
+      0.76
+    ],
+    "Docentes": [
+      "GEORGIA SIBELE NOGUEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.23762715894162167,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.3333333333333333,
+    "NotaMediana": 9.78
+  },
+  "PSI0280 - ESTÁGIO DE ÊNFASE II": {
+    "Notas": [
+      9.99
+    ],
+    "Desvios": [
+      0.11
+    ],
+    "Docentes": [
+      "HERCULANO RICARDO CAMPOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.99,
+    "MediaDeDesvios": 0.11,
+    "NotaMediana": 9.99
+  },
+  "PSI7029 - HISTORIA DA PSICOLOGIA II": {
+    "Notas": [
+      8.7,
+      9.02
+    ],
+    "Desvios": [
+      2.45,
+      1.8
+    ],
+    "Docentes": [
+      "HERCULANO RICARDO CAMPOS",
+      "CANDIDA MARIA BEZERRA DANTAS"
+    ],
+    "DesvioDeNotas": 0.16000000000000014,
+    "MediaDeNotas": 8.86,
+    "MediaDeDesvios": 2.125,
+    "NotaMediana": 9.02
+  },
+  "PSI7067 - IDADE ADULTA E ENVELHECIMENTO NO CONTEXTO SÓCIO-COMUNITÁRIO E EDUCACIONAL": {
+    "Notas": [
+      8.36,
+      9.68,
+      9.73
+    ],
+    "Desvios": [
+      2.22,
+      1.05,
+      0.94
+    ],
+    "Docentes": [
+      "ILANA LEMOS DE PAIVA",
+      "IANNY FELINTO MEDEIROS DE AZEVEDO"
+    ],
+    "DesvioDeNotas": 0.6343675765849186,
+    "MediaDeNotas": 9.256666666666666,
+    "MediaDeDesvios": 1.4033333333333335,
+    "NotaMediana": 9.68
+  },
+  "PSI3065 - TÓPICOS EM PSICOLOGIA E EDUCAÇÃO III": {
+    "Notas": [
+      9.09,
+      9.11
+    ],
+    "Desvios": [
+      1.5,
+      1.48
+    ],
+    "Docentes": [
+      "ILANA LEMOS DE PAIVA",
+      "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.009999999999999787,
+    "MediaDeNotas": 9.1,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.11
+  },
+  "PSI7068 - METODOS DE PESQUISA E ANALISE DE DADOS III": {
+    "Notas": [
+      9.26,
+      9.85,
+      9.95
+    ],
+    "Desvios": [
+      1.6,
+      0.85,
+      0.82
+    ],
+    "Docentes": [
+      "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+      "RAQUEL FARIAS DINIZ"
+    ],
+    "DesvioDeNotas": 0.3044484995674782,
+    "MediaDeNotas": 9.686666666666666,
+    "MediaDeDesvios": 1.09,
+    "NotaMediana": 9.85
+  },
+  "PSI7026 - INTRODUCAO AO PARADIGMA SOCIAL": {
+    "Notas": [
+      8.11,
+      9.15,
+      9.25
+    ],
+    "Desvios": [
+      2.35,
+      1.72,
+      1.67
+    ],
+    "Docentes": [
+      "JADER FERREIRA LEITE",
+      "CANDIDA MARIA BEZERRA DANTAS"
+    ],
+    "DesvioDeNotas": 0.5154501808020725,
+    "MediaDeNotas": 8.836666666666666,
+    "MediaDeDesvios": 1.9133333333333333,
+    "NotaMediana": 9.15
+  },
+  "PSI7041 - INTRODUÇÃO AOS PROCESSOS DE AVALIAÇÃO PSICOLÓGICA": {
+    "Notas": [
+      8.55,
+      9.33
+    ],
+    "Desvios": [
+      2.19,
+      1.54
+    ],
+    "Docentes": [
+      "JOAO CARLOS ALCHIERI"
+    ],
+    "DesvioDeNotas": 0.3899999999999997,
+    "MediaDeNotas": 8.940000000000001,
+    "MediaDeDesvios": 1.865,
+    "NotaMediana": 9.33
+  },
+  "PSI7063 - PROCESSOS DE AVALIAÇÃO PSICOLÓGICA NA IDADE ADULTA E ENVELHECIMENTO": {
+    "Notas": [
+      9.15,
+      9.22
+    ],
+    "Desvios": [
+      1.95,
+      1.42
+    ],
+    "Docentes": [
+      "JOAO CARLOS ALCHIERI"
+    ],
+    "DesvioDeNotas": 0.03500000000000014,
+    "MediaDeNotas": 9.185,
+    "MediaDeDesvios": 1.685,
+    "NotaMediana": 9.22
+  },
+  "PSI0470 - TECNICAS PROJETIVAS": {
+    "Notas": [
+      9.54
+    ],
+    "Desvios": [
+      1.1
+    ],
+    "Docentes": [
+      "JOAO CARLOS ALCHIERI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.1,
+    "NotaMediana": 9.54
+  },
+  "PSI7661 - IDADE ADULTA E ENVELHECIMENTO NO CONTEXTO DA SAÚDE": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.41
+    ],
+    "Docentes": [
+      "KATIE MORAES DE ALMONDES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.41,
+    "NotaMediana": 9.66
+  },
+  "PSI0118 - NEUROPSICOLOGIA DO ENVELHECIMENTO II": {
+    "Notas": [
+      9.35
+    ],
+    "Desvios": [
+      1.47
+    ],
+    "Docentes": [
+      "KATIE MORAES DE ALMONDES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.35,
+    "MediaDeDesvios": 1.47,
+    "NotaMediana": 9.35
+  },
+  "PSI0137 - PSICOLOGIA DO SONO": {
+    "Notas": [
+      9.5
+    ],
+    "Desvios": [
+      1.55
+    ],
+    "Docentes": [
+      "KATIE MORAES DE ALMONDES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.55,
+    "NotaMediana": 9.5
+  },
+  "PSI0282 - ORIENTAÇÃO PROFISSIONAL E OCUPACIONAL": {
+    "Notas": [
+      9.82
+    ],
+    "Desvios": [
+      0.97
+    ],
+    "Docentes": [
+      "MARIA DA APRESENTACAO BARRETO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 0.97,
+    "NotaMediana": 9.82
+  },
+  "PSI7045 - PSICOLOGIA, ESCOLA E SOCIEDADE": {
+    "Notas": [
+      8.29,
+      9.07
+    ],
+    "Desvios": [
+      2.16,
+      2.57
+    ],
+    "Docentes": [
+      "MARIA DA APRESENTACAO BARRETO",
+      "HERCULANO RICARDO CAMPOS"
+    ],
+    "DesvioDeNotas": 0.39000000000000057,
+    "MediaDeNotas": 8.68,
+    "MediaDeDesvios": 2.365,
+    "NotaMediana": 9.07
+  },
+  "PSI0181 - PRÁTICAS CLÍNICAS EM INSTITUIÇÃO": {
+    "Notas": [
+      9.17,
+      9.86
+    ],
+    "Desvios": [
+      1.75,
+      0.87
+    ],
+    "Docentes": [
+      "MARLOS ALVES BEZERRA",
+      "SUELY ALENCAR ROCHA DE HOLANDA"
+    ],
+    "DesvioDeNotas": 0.34499999999999975,
+    "MediaDeNotas": 9.515,
+    "MediaDeDesvios": 1.31,
+    "NotaMediana": 9.86
+  },
+  "PSI7025 - PSICOLOGIA HUMANISTA-EXISTENCIAL": {
+    "Notas": [
+      8.06,
+      9.8,
+      9.84
+    ],
+    "Desvios": [
+      2.7,
+      1.7,
+      1.55
+    ],
+    "Docentes": [
+      "MARLOS ALVES BEZERRA",
+      "SYMONE FERNANDES DE MELO"
+    ],
+    "DesvioDeNotas": 0.8298326471176113,
+    "MediaDeNotas": 9.233333333333333,
+    "MediaDeDesvios": 1.9833333333333334,
+    "NotaMediana": 9.8
+  },
+  "PSI3079 - PSICOLOGIA TRANSPESSOAL I": {
+    "Notas": [
+      9.36
+    ],
+    "Desvios": [
+      1.32
+    ],
+    "Docentes": [
+      "MARLOS ALVES BEZERRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.36,
+    "MediaDeDesvios": 1.32,
+    "NotaMediana": 9.36
+  },
+  "PSI7021 - COMPORTAMENTALISMO": {
+    "Notas": [
+      9.14,
+      9.36
+    ],
+    "Desvios": [
+      1.89,
+      1.9
+    ],
+    "Docentes": [
+      "NEUCIANE GOMES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.10999999999999943,
+    "MediaDeNotas": 9.25,
+    "MediaDeDesvios": 1.895,
+    "NotaMediana": 9.36
+  },
+  "PSI7074 - MÉTODOS DE PESQUISA E ANÁLISE DE DADOS I": {
+    "Notas": [
+      9.7,
+      9.74,
+      9.84
+    ],
+    "Desvios": [
+      1.47,
+      1.18,
+      1.25
+    ],
+    "Docentes": [
+      "RAQUEL FARIAS DINIZ",
+      "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.05887840577551913,
+    "MediaDeNotas": 9.76,
+    "MediaDeDesvios": 1.3,
+    "NotaMediana": 9.74
+  },
+  "PSI0937 - TOPICOS EM PSICOSSOMATICA": {
+    "Notas": [
+      8.91
+    ],
+    "Desvios": [
+      2.25
+    ],
+    "Docentes": [
+      "EULALIA MARIA CHAVES MAIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.91,
+    "MediaDeDesvios": 2.25,
+    "NotaMediana": 8.91
+  },
+  "CST5072 - CONSULTORIA ORGANIZACIONAL": {
+    "Notas": [
+      9.94
+    ],
+    "Desvios": [
+      1.02
+    ],
+    "Docentes": [
+      "FELLIPE COELHO LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.94,
+    "MediaDeDesvios": 1.02,
+    "NotaMediana": 9.94
+  },
+  "CST5083 - FUNDAMENTOS DA PSICOLOGIA ORGANIZACIONAL E DO TRABALHO": {
+    "Notas": [
+      9.93
+    ],
+    "Desvios": [
+      1.34
+    ],
+    "Docentes": [
+      "FELLIPE COELHO LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.93,
+    "MediaDeDesvios": 1.34,
+    "NotaMediana": 9.93
+  },
+  "PSI0928 - TOPICOS EM TECNICAS DE EXAMES PSICOLOGICOS II": {
+    "Notas": [
+      9.84
+    ],
+    "Desvios": [
+      0.59
+    ],
+    "Docentes": [
+      "JOAO CARLOS ALCHIERI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.84,
+    "MediaDeDesvios": 0.59,
+    "NotaMediana": 9.84
+  },
+  "PSI3056 - PSICOLOGIA DAS EMERGÊNCIAS E DO DESASTRE": {
+    "Notas": [
+      9.63,
+      9.77
+    ],
+    "Desvios": [
+      0.88,
+      1.98
+    ],
+    "Docentes": [
+      "PITAGORAS JOSE BINDE"
+    ],
+    "DesvioDeNotas": 0.0699999999999994,
+    "MediaDeNotas": 9.7,
+    "MediaDeDesvios": 1.43,
+    "NotaMediana": 9.77
+  },
+  "PSI0085 - PSICOLOGIA APLICADA A EDUCACAO FISICA": {
+    "Notas": [
+      9.07
+    ],
+    "Desvios": [
+      1.82
+    ],
+    "Docentes": [
+      "ALVARO LUIS DOS SANTOS GOMES RIBEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.07,
+    "MediaDeDesvios": 1.82,
+    "NotaMediana": 9.07
+  },
+  "PSI0134 - TÓPICOS EM PSICOLOGIA DO DESENVOLVIMENTO I": {
+    "Notas": [
+      9.83
+    ],
+    "Desvios": [
+      1.4
+    ],
+    "Docentes": [
+      "CLARA MARIA MELO DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.83,
+    "MediaDeDesvios": 1.4,
+    "NotaMediana": 9.83
+  },
+  "CST5094 - ATIVIDADE TEÓRICO-PRÁTICA EM PSICOLOGIA II (PROCESSOS DE TRABALHO)": {
+    "Notas": [
+      9.79,
+      9.95
+    ],
+    "Desvios": [
+      1.02,
+      1.19
+    ],
+    "Docentes": [
+      "FELLIPE COELHO LIMA"
+    ],
+    "DesvioDeNotas": 0.08000000000000007,
+    "MediaDeNotas": 9.87,
+    "MediaDeDesvios": 1.105,
+    "NotaMediana": 9.95
+  },
+  "CST5092 - PSICOLOGIA SOCIAL DO TRABALHO": {
+    "Notas": [
+      9.83
+    ],
+    "Desvios": [
+      1.13
+    ],
+    "Docentes": [
+      "FELLIPE COELHO LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.83,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.83
+  },
+  "CST5069 - TÓPICOS ESPECIAIS EM PSICOLOGIA NA EDUCAÇÃO III": {
+    "Notas": [
+      9.95
+    ],
+    "Desvios": [
+      0.6
+    ],
+    "Docentes": [
+      "FELLIPE COELHO LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.95,
+    "MediaDeDesvios": 0.6,
+    "NotaMediana": 9.95
+  },
+  "PSI0135 - TÓPICOS ESPECIAIS EM PSICOLOGIA EXISTENCIAL - PSICOLOGIA DO LUTO": {
+    "Notas": [
+      9.24
+    ],
+    "Desvios": [
+      1.33
+    ],
+    "Docentes": [
+      "GEORGIA SIBELE NOGUEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.24,
+    "MediaDeDesvios": 1.33,
+    "NotaMediana": 9.24
+  },
+  "PSI3068 - INTRODUÇÃO A PSICOLOGIA AMBIENTAL": {
+    "Notas": [
+      9.9
+    ],
+    "Desvios": [
+      1.26
+    ],
+    "Docentes": [
+      "RAQUEL FARIAS DINIZ"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.9,
+    "MediaDeDesvios": 1.26,
+    "NotaMediana": 9.9
+  },
+  "PSI3008 - TÓPICOS EM TEORIA PSICANALÍTICA FREUDIANA I": {
+    "Notas": [
+      9.86
+    ],
+    "Desvios": [
+      0.88
+    ],
+    "Docentes": [
+      "SUELY ALENCAR ROCHA DE HOLANDA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 0.88,
+    "NotaMediana": 9.86
+  },
+  "PSI0133 - TÓPICOS EM PSICOLOGIA JURÍDICA": {
+    "Notas": [
+      9.84
+    ],
+    "Desvios": [
+      1.31
+    ],
+    "Docentes": [
+      "SYMONE FERNANDES DE MELO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.84,
+    "MediaDeDesvios": 1.31,
+    "NotaMediana": 9.84
+  }
+}

@@ -1,0 +1,749 @@
+[
+    {
+        "Docente": "BEATRIZ STRANSKY FERREIRA",
+        "Componente Curricular": "DEB0706 - BIOSSEGURANÇA E BIOÉTICA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "22",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "BEATRIZ STRANSKY FERREIRA",
+        "Componente Curricular": "DEB1004 - BIOTECNOLOGIA APLICADA À SAÚDE",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "17",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "BEATRIZ STRANSKY FERREIRA",
+        "Componente Curricular": "DBQ0044 - INTRODUÇÃO À BIOLOGIA DE SISTEMAS",
+        "Turma": "1",
+        "Horário": "3T1 5T234",
+        "Discentes": "12",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "CAROLINE DANTAS VILAR WANDERLEY",
+        "Componente Curricular": "DEB0920 - ENGENHARIA TECIDUAL",
+        "Turma": "1",
+        "Horário": "34N12",
+        "Discentes": "22",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO",
+        "Componente Curricular": "DEB0601 - IMPLANTES ODONTO-MÉDICOS",
+        "Turma": "1",
+        "Horário": "36N12",
+        "Discentes": "21",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO",
+        "Componente Curricular": "DEB0504 - INTRODUÇÃO À ENGENHARIA BIOMÉDICA",
+        "Turma": "1",
+        "Horário": "36N34",
+        "Discentes": "32",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "DANILO ALVES PINTO NAGEM",
+        "Componente Curricular": "DEB0605 - BIOMECÂNICA DO MOVIMENTO HUMANO",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "19",
+        "Média Geral": "8.3",
+        "Desvio Padrão Geral": "2.57"
+    },
+    {
+        "Docente": "GEORGE CARLOS DO NASCIMENTO",
+        "Componente Curricular": "DEB0822 - INSTRUMENTAÇÃO HOSPITALAR",
+        "Turma": "1",
+        "Horário": "2N12 4N34",
+        "Discentes": "21",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "GEORGE CARLOS DO NASCIMENTO",
+        "Componente Curricular": "DEB0707 - INTRODUÇÃO À NEUROENGENHARIA",
+        "Turma": "1",
+        "Horário": "3N12 5N34",
+        "Discentes": "20",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "2.23"
+    },
+    {
+        "Docente": "HELIANA BEZERRA SOARES",
+        "Componente Curricular": "DEB0925 - PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Turma": "1",
+        "Horário": "3N34 5N12",
+        "Discentes": "17",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "2.88"
+    },
+    {
+        "Docente": "HELIANA BEZERRA SOARES",
+        "Componente Curricular": "DEB0503 - SISTEMAS DE INFORMAÇÃO NA SAÚDE",
+        "Turma": "1",
+        "Horário": "3N12 5N34",
+        "Discentes": "36",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "HELIO ROBERTO HEKIS",
+        "Componente Curricular": "DEB0922 - ENGENHARIA CLÍNICA",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "24",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "2.47"
+    },
+    {
+        "Docente": "HELIO ROBERTO HEKIS",
+        "Componente Curricular": "DEB0505 - GESTÃO E EMPREENDEDORISMO NA SAÚDE",
+        "Turma": "1",
+        "Horário": "6T3456",
+        "Discentes": "27",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "IVANIZIA SOARES DA SILVA",
+        "Componente Curricular": "DEB0604 - BASES CINESIOLÓGICAS DO MOVIMENTO HUMANO",
+        "Turma": "1",
+        "Horário": "56N12",
+        "Discentes": "30",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "IVANIZIA SOARES DA SILVA",
+        "Componente Curricular": "DEB0902 - ÓRTESES E PRÓTESES",
+        "Turma": "1",
+        "Horário": "46N34",
+        "Discentes": "34",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "KARILANY DANTAS COUTINHO",
+        "Componente Curricular": "DEB0926 - ANÁLISE ESTRUTURAL BIOMÉDICA",
+        "Turma": "1",
+        "Horário": "3N12 5N34",
+        "Discentes": "8",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "KARILANY DANTAS COUTINHO",
+        "Componente Curricular": "DEB0701 - RESISTÊNCIA DOS MATERIAIS",
+        "Turma": "1",
+        "Horário": "3N34 5N12",
+        "Discentes": "38",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "THAMYRES TAMULLA CAVALCANTE PALITO",
+        "Componente Curricular": "DEB0705 - ELETRÔNICA ANALÓGICA",
+        "Turma": "1",
+        "Horário": "45N34",
+        "Discentes": "16",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "THAMYRES TAMULLA CAVALCANTE PALITO",
+        "Componente Curricular": "DEB0804 - PROCESSAMENTO DIGITAL DE SINAIS",
+        "Turma": "1",
+        "Horário": "25N12",
+        "Discentes": "21",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "THAMYRES TAMULLA CAVALCANTE PALITO",
+        "Componente Curricular": "DEB0603 - SINAIS E SISTEMAS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "16",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "THAMYRES TAMULLA CAVALCANTE PALITO",
+        "Componente Curricular": "DEB0806 - SISTEMAS DIGITAIS",
+        "Turma": "1",
+        "Horário": "2N34 4N12",
+        "Discentes": "19",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0705 - ELETRÔNICA ANALÓGICA",
+        "Turma": "1",
+        "Horário": "45N34",
+        "Discentes": "20",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0804 - PROCESSAMENTO DIGITAL DE SINAIS",
+        "Turma": "1",
+        "Horário": "25N12",
+        "Discentes": "17",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0603 - SINAIS E SISTEMAS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "22",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "0.72"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0806 - SISTEMAS DIGITAIS",
+        "Turma": "1",
+        "Horário": "2N34 4N12",
+        "Discentes": "27",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "BEATRIZ STRANSKY FERREIRA",
+        "Componente Curricular": "DEB0706 - BIOSSEGURANÇA E BIOÉTICA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "33",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "BEATRIZ STRANSKY FERREIRA",
+        "Componente Curricular": "DEB1120 - TI NA SAÚDE",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "12",
+        "Média Geral": "7.89",
+        "Desvio Padrão Geral": "2.76"
+    },
+    {
+        "Docente": "CAROLINE DANTAS VILAR WANDERLEY",
+        "Componente Curricular": "DEB0920 - ENGENHARIA TECIDUAL",
+        "Turma": "1",
+        "Horário": "34N12",
+        "Discentes": "7",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "CAROLINE DANTAS VILAR WANDERLEY",
+        "Componente Curricular": "DEB1113 - REABILITAÇÃO ORAL",
+        "Turma": "1",
+        "Horário": "3M12 4T56",
+        "Discentes": "9",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "0.77"
+    },
+    {
+        "Docente": "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO",
+        "Componente Curricular": "DEB0601 - IMPLANTES ODONTO-MÉDICOS",
+        "Turma": "1",
+        "Horário": "36N12",
+        "Discentes": "20",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO",
+        "Componente Curricular": "DEB0504 - INTRODUÇÃO À ENGENHARIA BIOMÉDICA",
+        "Turma": "1",
+        "Horário": "36N34",
+        "Discentes": "17",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "DANILO ALVES PINTO NAGEM",
+        "Componente Curricular": "DEB0605 - BIOMECÂNICA DO MOVIMENTO HUMANO",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "19",
+        "Média Geral": "7.87",
+        "Desvio Padrão Geral": "2.6"
+    },
+    {
+        "Docente": "GEORGE CARLOS DO NASCIMENTO",
+        "Componente Curricular": "DEB0822 - INSTRUMENTAÇÃO HOSPITALAR",
+        "Turma": "1",
+        "Horário": "2N12 4N34",
+        "Discentes": "10",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "GEORGE CARLOS DO NASCIMENTO",
+        "Componente Curricular": "DEB0707 - INTRODUÇÃO À NEUROENGENHARIA",
+        "Turma": "1",
+        "Horário": "3N12 5N34",
+        "Discentes": "29",
+        "Média Geral": "8.83",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "HELIANA BEZERRA SOARES",
+        "Componente Curricular": "DEB0925 - PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Turma": "1",
+        "Horário": "3N34 5N12",
+        "Discentes": "15",
+        "Média Geral": "8.11",
+        "Desvio Padrão Geral": "2.78"
+    },
+    {
+        "Docente": "HELIANA BEZERRA SOARES",
+        "Componente Curricular": "DEB0503 - SISTEMAS DE INFORMAÇÃO NA SAÚDE",
+        "Turma": "1",
+        "Horário": "3N12 5N34",
+        "Discentes": "30",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "HELIO ROBERTO HEKIS",
+        "Componente Curricular": "DEB0922 - ENGENHARIA CLÍNICA",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "16",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "HELIO ROBERTO HEKIS",
+        "Componente Curricular": "DEB0505 - GESTÃO E EMPREENDEDORISMO NA SAÚDE",
+        "Turma": "1",
+        "Horário": "6T3456",
+        "Discentes": "36",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "IVANIZIA SOARES DA SILVA",
+        "Componente Curricular": "DEB0604 - BASES CINESIOLÓGICAS DO MOVIMENTO HUMANO",
+        "Turma": "1",
+        "Horário": "56N12",
+        "Discentes": "34",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "IVANIZIA SOARES DA SILVA",
+        "Componente Curricular": "DEB0902 - ÓRTESES E PRÓTESES",
+        "Turma": "1",
+        "Horário": "46N34",
+        "Discentes": "21",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "KARILANY DANTAS COUTINHO",
+        "Componente Curricular": "DEB0701 - RESISTÊNCIA DOS MATERIAIS",
+        "Turma": "1",
+        "Horário": "3N34 5N12",
+        "Discentes": "38",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0705 - ELETRÔNICA ANALÓGICA",
+        "Turma": "1",
+        "Horário": "2N34 6N12",
+        "Discentes": "30",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0804 - PROCESSAMENTO DIGITAL DE SINAIS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "14",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0603 - SINAIS E SISTEMAS",
+        "Turma": "1",
+        "Horário": "5N12 6N34",
+        "Discentes": "20",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0806 - SISTEMAS DIGITAIS",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "9",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "BEATRIZ STRANSKY FERREIRA",
+        "Componente Curricular": "DEB0706 - BIOSSEGURANÇA E BIOÉTICA",
+        "Turma": "1",
+        "Horário": "36N12",
+        "Discentes": "24",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "BEATRIZ STRANSKY FERREIRA",
+        "Componente Curricular": "DEB1004 - BIOTECNOLOGIA APLICADA À SAÚDE",
+        "Turma": "1",
+        "Horário": "46T56",
+        "Discentes": "8",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "CAROLINE DANTAS VILAR WANDERLEY",
+        "Componente Curricular": "DEB0824 - CIRURGIA E REABILITAÇÃO BUCOMAXILAR",
+        "Turma": "1",
+        "Horário": "4T56 3N12",
+        "Discentes": "6",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.82"
+    },
+    {
+        "Docente": "CAROLINE DANTAS VILAR WANDERLEY",
+        "Componente Curricular": "DEB0920 - ENGENHARIA TECIDUAL",
+        "Turma": "1",
+        "Horário": "3N34 4N12",
+        "Discentes": "12",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO",
+        "Componente Curricular": "DEB0601 - IMPLANTES ODONTO-MÉDICOS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "24",
+        "Média Geral": "7.99",
+        "Desvio Padrão Geral": "3.15"
+    },
+    {
+        "Docente": "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO",
+        "Componente Curricular": "DEB0504 - INTRODUÇÃO À ENGENHARIA BIOMÉDICA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "36",
+        "Média Geral": "7.16",
+        "Desvio Padrão Geral": "3.35"
+    },
+    {
+        "Docente": "DANILO ALVES PINTO NAGEM",
+        "Componente Curricular": "DEB0605 - BIOMECÂNICA DO MOVIMENTO HUMANO",
+        "Turma": "1",
+        "Horário": "4N12 6N34",
+        "Discentes": "27",
+        "Média Geral": "7.15",
+        "Desvio Padrão Geral": "3.13"
+    },
+    {
+        "Docente": "DANILO ALVES PINTO NAGEM",
+        "Componente Curricular": "DEB0924 - PROJETO BIOMÉDICO",
+        "Turma": "1",
+        "Horário": "4N34 6N12",
+        "Discentes": "13",
+        "Média Geral": "8.31",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "GEORGE CARLOS DO NASCIMENTO",
+        "Componente Curricular": "DEB0822 - INSTRUMENTAÇÃO HOSPITALAR",
+        "Turma": "1",
+        "Horário": "25N12",
+        "Discentes": "24",
+        "Média Geral": "8.26",
+        "Desvio Padrão Geral": "2.69"
+    },
+    {
+        "Docente": "GEORGE CARLOS DO NASCIMENTO",
+        "Componente Curricular": "DEB0707 - INTRODUÇÃO À NEUROENGENHARIA",
+        "Turma": "1",
+        "Horário": "26N34",
+        "Discentes": "14",
+        "Média Geral": "8.3",
+        "Desvio Padrão Geral": "3.09"
+    },
+    {
+        "Docente": "GEORGE CARLOS DO NASCIMENTO",
+        "Componente Curricular": "DEB1106 - TÓPICOS ESPECIAIS EM ENG. BIOMÉDICA",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "12",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "HELIANA BEZERRA SOARES",
+        "Componente Curricular": "DEB0925 - PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Turma": "1",
+        "Horário": "3N12 6N34",
+        "Discentes": "17",
+        "Média Geral": "8.3",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "HELIANA BEZERRA SOARES",
+        "Componente Curricular": "DEB0503 - SISTEMAS DE INFORMAÇÃO NA SAÚDE",
+        "Turma": "1",
+        "Horário": "3N34 6N12",
+        "Discentes": "32",
+        "Média Geral": "8.44",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "HELIO ROBERTO HEKIS",
+        "Componente Curricular": "DEB0922 - ENGENHARIA CLÍNICA",
+        "Turma": "1",
+        "Horário": "25N34",
+        "Discentes": "15",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "IVANIZIA SOARES DA SILVA",
+        "Componente Curricular": "DEB0604 - BASES CINESIOLÓGICAS DO MOVIMENTO HUMANO",
+        "Turma": "1",
+        "Horário": "56N34",
+        "Discentes": "32",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "IVANIZIA SOARES DA SILVA",
+        "Componente Curricular": "DEB0902 - ÓRTESES E PRÓTESES",
+        "Turma": "1",
+        "Horário": "56N12",
+        "Discentes": "9",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "KARILANY DANTAS COUTINHO",
+        "Componente Curricular": "DEB0701 - RESISTÊNCIA DOS MATERIAIS",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "36",
+        "Média Geral": "7.43",
+        "Desvio Padrão Geral": "2.41"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0705 - ELETRÔNICA ANALÓGICA",
+        "Turma": "1",
+        "Horário": "2N34 6N12",
+        "Discentes": "13",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0804 - PROCESSAMENTO DIGITAL DE SINAIS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "8",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0603 - SINAIS E SISTEMAS",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "35",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "ALAN CASSIO QUEIROZ BEZERRA LEITE",
+        "Componente Curricular": "DEB0806 - SISTEMAS DIGITAIS",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "11",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "BEATRIZ STRANSKY FERREIRA",
+        "Componente Curricular": "DEB0706 - BIOSSEGURANÇA E BIOÉTICA",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "34",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "BEATRIZ STRANSKY FERREIRA",
+        "Componente Curricular": "DEB0512 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "11",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "CAROLINE DANTAS VILAR WANDERLEY",
+        "Componente Curricular": "DEB0824 - CIRURGIA E REABILITAÇÃO BUCOMAXILAR",
+        "Turma": "1",
+        "Horário": "3N12 4N34",
+        "Discentes": "14",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "CAROLINE DANTAS VILAR WANDERLEY",
+        "Componente Curricular": "DEB0920 - ENGENHARIA TECIDUAL",
+        "Turma": "1",
+        "Horário": "3N34 4N12",
+        "Discentes": "20",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "CAROLINE DANTAS VILAR WANDERLEY",
+        "Componente Curricular": "DEB1113 - REABILITAÇÃO ORAL",
+        "Turma": "1",
+        "Horário": "34T56",
+        "Discentes": "15",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "0.76"
+    },
+    {
+        "Docente": "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO",
+        "Componente Curricular": "DEB0601 - IMPLANTES ODONTO-MÉDICOS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "15",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "CUSTODIO LEOPOLDINO DE BRITO GUERRA NETO",
+        "Componente Curricular": "DEB0504 - INTRODUÇÃO À ENGENHARIA BIOMÉDICA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "37",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "DANILO ALVES PINTO NAGEM",
+        "Componente Curricular": "DEB0924 - PROJETO BIOMÉDICO",
+        "Turma": "1",
+        "Horário": "4N34 6N12",
+        "Discentes": "6",
+        "Média Geral": "8.09",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "GEORGE CARLOS DO NASCIMENTO",
+        "Componente Curricular": "DEB0822 - INSTRUMENTAÇÃO HOSPITALAR",
+        "Turma": "1",
+        "Horário": "25N12",
+        "Discentes": "17",
+        "Média Geral": "7.71",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "GEORGE CARLOS DO NASCIMENTO",
+        "Componente Curricular": "ICE1022 - INTERFACES CÉREBRO-MÁQUINA E NEUROMODULAÇÃO",
+        "Turma": "1",
+        "Horário": "35M56 (24/07/2017 - 15/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "GEORGE CARLOS DO NASCIMENTO",
+        "Componente Curricular": "DEB0707 - INTRODUÇÃO À NEUROENGENHARIA",
+        "Turma": "1",
+        "Horário": "26N34",
+        "Discentes": "19",
+        "Média Geral": "8.28",
+        "Desvio Padrão Geral": "2.42"
+    },
+    {
+        "Docente": "HELIANA BEZERRA SOARES",
+        "Componente Curricular": "DEB0925 - PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Turma": "1",
+        "Horário": "3N12 6N34",
+        "Discentes": "21",
+        "Média Geral": "8.94",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "HELIANA BEZERRA SOARES",
+        "Componente Curricular": "DEB0503 - SISTEMAS DE INFORMAÇÃO NA SAÚDE",
+        "Turma": "1",
+        "Horário": "3N34 6N12",
+        "Discentes": "36",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "HELIO ROBERTO HEKIS",
+        "Componente Curricular": "DEB0922 - ENGENHARIA CLÍNICA",
+        "Turma": "1",
+        "Horário": "25N34",
+        "Discentes": "13",
+        "Média Geral": "7.66",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "KARILANY DANTAS COUTINHO",
+        "Componente Curricular": "DEB0701 - RESISTÊNCIA DOS MATERIAIS",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "16",
+        "Média Geral": "7.63",
+        "Desvio Padrão Geral": "2.85"
+    },
+    {
+        "Docente": "LUCIANA DE ANDRADE MENDES",
+        "Componente Curricular": "DEB0604 - BASES CINESIOLÓGICAS DO MOVIMENTO HUMANO",
+        "Turma": "1",
+        "Horário": "56N34",
+        "Discentes": "26",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.83"
+    },
+    {
+        "Docente": "LUCIANA DE ANDRADE MENDES",
+        "Componente Curricular": "DEB0902 - ÓRTESES E PRÓTESES",
+        "Turma": "1",
+        "Horário": "56N12",
+        "Discentes": "19",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.88"
+    }
+]

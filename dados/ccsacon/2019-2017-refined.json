@@ -1,0 +1,3690 @@
+{
+  "ADILSON DE LIMA TAVARES": {
+    "Notas": [
+      9.34,
+      9.54,
+      9.57,
+      9.61,
+      9.64,
+      9.7,
+      9.77,
+      9.81
+    ],
+    "Desvios": [
+      1.45,
+      1.87,
+      1.58,
+      1.97,
+      1.71,
+      1.27,
+      1.1,
+      1.62
+    ],
+    "Componentes": {
+      "CON4107 - ANÁLISE DAS DEMONSTRAÇÕES CONTÁBEIS": {
+        "Notas": [
+          9.34,
+          9.54,
+          9.57,
+          9.61,
+          9.64,
+          9.7,
+          9.77,
+          9.81
+        ],
+        "Desvios": [
+          1.45,
+          1.87,
+          1.58,
+          1.97,
+          1.71,
+          1.27,
+          1.1,
+          1.62
+        ],
+        "DesvioDeNotas": 0.13818013605435486,
+        "MediaDeNotas": 9.622499999999999,
+        "MediaDeDesvios": 1.57125,
+        "NotaMediana": 9.64
+      }
+    },
+    "DesvioDeNotas": 0.13818013605435486,
+    "MediaDeNotas": 9.622499999999999,
+    "MediaDeDesvios": 1.57125,
+    "NotaMediana": 9.64
+  },
+  "ADRIANA ISABEL BACKES STEPPAN": {
+    "Notas": [
+      9.28,
+      9.52,
+      9.66,
+      9.73
+    ],
+    "Desvios": [
+      1.24,
+      1.61,
+      1.17,
+      1.87
+    ],
+    "Componentes": {
+      "CON3402 - SISTEMA DE INFORMACOES GERENCIAIS": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.52
+      },
+      "CON4702 - ANÁLISE DE CUSTOS": {
+        "Notas": [
+          9.28,
+          9.66,
+          9.73
+        ],
+        "Desvios": [
+          1.61,
+          1.17,
+          1.87
+        ],
+        "DesvioDeNotas": 0.19770910168449268,
+        "MediaDeNotas": 9.556666666666667,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.17195566289017683,
+    "MediaDeNotas": 9.5475,
+    "MediaDeDesvios": 1.4725,
+    "NotaMediana": 9.66
+  },
+  "ALEXANDRO BARBOSA": {
+    "Notas": [
+      7.38,
+      7.78,
+      8.19,
+      8.2,
+      8.4,
+      8.51,
+      8.59,
+      8.97,
+      9
+    ],
+    "Desvios": [
+      2.63,
+      2.68,
+      2.42,
+      2.46,
+      1.99,
+      2.58,
+      1.79,
+      1.62,
+      1.83
+    ],
+    "Componentes": {
+      "CON4203 - ANÁLISE DE DADOS CONTABEIS": {
+        "Notas": [
+          7.78,
+          8.51,
+          8.97
+        ],
+        "Desvios": [
+          2.63,
+          2.42,
+          1.99
+        ],
+        "DesvioDeNotas": 0.4899659852139399,
+        "MediaDeNotas": 8.42,
+        "MediaDeDesvios": 2.3466666666666667,
+        "NotaMediana": 8.51
+      },
+      "CON4701 - CONTABILIDADE DE CUSTOS": {
+        "Notas": [
+          8.19,
+          8.2,
+          8.4,
+          8.59
+        ],
+        "Desvios": [
+          2.68,
+          2.46,
+          2.58,
+          1.62
+        ],
+        "DesvioDeNotas": 0.1643928222277362,
+        "MediaDeNotas": 8.344999999999999,
+        "MediaDeDesvios": 2.335,
+        "NotaMediana": 8.4
+      },
+      "CON3204 - ANALISE DE DADOS CONTABEIS": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9
+      },
+      "CON3402 - SISTEMA DE INFORMACOES GERENCIAIS": {
+        "Notas": [
+          7.38
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.38,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 7.38
+      }
+    },
+    "DesvioDeNotas": 0.49493234354945737,
+    "MediaDeNotas": 8.335555555555555,
+    "MediaDeDesvios": 2.2222222222222223,
+    "NotaMediana": 8.4
+  },
+  "ANAILSON MARCIO GOMES": {
+    "Notas": [
+      7.56,
+      7.62
+    ],
+    "Desvios": [
+      2.67,
+      2.96
+    ],
+    "Componentes": {
+      "CON3603 - CONTROLADORIA GOVERNAMENTAL": {
+        "Notas": [
+          7.56
+        ],
+        "Desvios": [
+          2.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.56,
+        "MediaDeDesvios": 2.67,
+        "NotaMediana": 7.56
+      },
+      "CON4105 - CONTABILIDADE AVANÇADA": {
+        "Notas": [
+          7.62
+        ],
+        "Desvios": [
+          2.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.62,
+        "MediaDeDesvios": 2.96,
+        "NotaMediana": 7.62
+      }
+    },
+    "DesvioDeNotas": 0.03000000000000025,
+    "MediaDeNotas": 7.59,
+    "MediaDeDesvios": 2.815,
+    "NotaMediana": 7.62
+  },
+  "ARIANNE RAQUEL AXIOLE DE SOUZA CÂMARA": {
+    "Notas": [
+      9.51,
+      9.55,
+      9.57,
+      9.57,
+      9.59,
+      9.9
+    ],
+    "Desvios": [
+      1.82,
+      1.08,
+      1.95,
+      1.74,
+      1.25,
+      1.49
+    ],
+    "Componentes": {
+      "CON0127 - CONTABILIDADE E ANALISE DE BALANCO": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 9.51
+      },
+      "CON0013 - FINANÇAS CORPORATIVAS PARA CIÊNCIAS ATUARIAIS": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.55
+      },
+      "CON4406 - MATEMÁTICA FINANCEIRA": {
+        "Notas": [
+          9.57,
+          9.9
+        ],
+        "Desvios": [
+          1.95,
+          1.25
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.735,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.9
+      },
+      "CON4302 - METODOLOGIA DA PESQUISA EM CONTABILIDADE": {
+        "Notas": [
+          9.57,
+          9.59
+        ],
+        "Desvios": [
+          1.74,
+          1.49
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.615,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.12983964469041553,
+    "MediaDeNotas": 9.615,
+    "MediaDeDesvios": 1.555,
+    "NotaMediana": 9.57
+  },
+  "ARLINDO NONATO MORAIS DE SOUZA": {
+    "Notas": [
+      9.25,
+      9.32,
+      9.46
+    ],
+    "Desvios": [
+      1.83,
+      1.78,
+      2.41
+    ],
+    "Componentes": {
+      "CON0012 - CONTABILIDADE BÁSICA PARA CIÊNCIAS ATUARIAIS": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.32
+      },
+      "CON0015 - INTRODUÇÃO À AUDITORIA PÚBLICA E GOVERNAMENTAL": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.46
+      },
+      "CON4802 - PRÁTICA EMPRESARIAL II": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          2.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 2.41,
+        "NotaMediana": 9.25
+      }
+    },
+    "DesvioDeNotas": 0.08730533902472565,
+    "MediaDeNotas": 9.343333333333334,
+    "MediaDeDesvios": 2.006666666666667,
+    "NotaMediana": 9.32
+  },
+  "ATELMO FERREIRA DE OLIVEIRA": {
+    "Notas": [
+      9.06,
+      9.08,
+      9.31,
+      9.53,
+      9.62,
+      9.65,
+      9.74,
+      9.87
+    ],
+    "Desvios": [
+      1.48,
+      1.97,
+      2.31,
+      1.97,
+      0.76,
+      1.68,
+      1.17,
+      1.29
+    ],
+    "Componentes": {
+      "CON3302 - CONTABILIDADE INTERNACIONAL": {
+        "Notas": [
+          9.08,
+          9.65,
+          9.74,
+          9.87
+        ],
+        "Desvios": [
+          1.48,
+          2.31,
+          0.76,
+          1.17
+        ],
+        "DesvioDeNotas": 0.3018691769624714,
+        "MediaDeNotas": 9.585,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.74
+      },
+      "CON4301 - TEORIA DA CONTABILIDADE": {
+        "Notas": [
+          9.06,
+          9.31,
+          9.53,
+          9.62
+        ],
+        "Desvios": [
+          1.97,
+          1.97,
+          1.68,
+          1.29
+        ],
+        "DesvioDeNotas": 0.2164486082191331,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.7275,
+        "NotaMediana": 9.53
+      }
+    },
+    "DesvioDeNotas": 0.2819463601467482,
+    "MediaDeNotas": 9.4825,
+    "MediaDeDesvios": 1.5787499999999999,
+    "NotaMediana": 9.62
+  },
+  "CAMILA CATARINE DE ARAÚJO AZEVEDO": {
+    "Notas": [
+      9.44,
+      9.56,
+      9.61,
+      9.64,
+      9.64,
+      9.75,
+      9.79
+    ],
+    "Desvios": [
+      1.93,
+      1.93,
+      1.8,
+      1.34,
+      1.87,
+      0.91,
+      1.24
+    ],
+    "Componentes": {
+      "CON4702 - ANÁLISE DE CUSTOS": {
+        "Notas": [
+          9.44,
+          9.75
+        ],
+        "Desvios": [
+          1.93,
+          1.34
+        ],
+        "DesvioDeNotas": 0.15500000000000025,
+        "MediaDeNotas": 9.594999999999999,
+        "MediaDeDesvios": 1.635,
+        "NotaMediana": 9.75
+      },
+      "CON4701 - CONTABILIDADE DE CUSTOS": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.56
+      },
+      "CON4803 - PRÁTICA EMPRESARIAL III": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.64
+      },
+      "CON4408 - MERCADO FINANCEIRO E DE CAPITAL": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.64
+      },
+      "CON4704 - ORÇAMENTO EMPRESARIAL": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          0.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 0.91,
+        "NotaMediana": 9.79
+      },
+      "CON4802 - PRÁTICA EMPRESARIAL II": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.61
+      }
+    },
+    "DesvioDeNotas": 0.10793043867156622,
+    "MediaDeNotas": 9.632857142857144,
+    "MediaDeDesvios": 1.5742857142857145,
+    "NotaMediana": 9.64
+  },
+  "CLAYTON LEVY LIMA DE MELO": {
+    "Notas": [
+      7.64,
+      7.67,
+      8.46,
+      8.47,
+      8.97,
+      9.1,
+      9.1,
+      9.15
+    ],
+    "Desvios": [
+      2.59,
+      2.34,
+      1.61,
+      1.56,
+      1.77,
+      1.76,
+      1.72,
+      1.9
+    ],
+    "Componentes": {
+      "CON4102 - CONTABILIDADE BÁSICA II": {
+        "Notas": [
+          7.64,
+          8.47,
+          8.97,
+          9.1
+        ],
+        "Desvios": [
+          2.59,
+          1.61,
+          1.77,
+          1.72
+        ],
+        "DesvioDeNotas": 0.5729965095879731,
+        "MediaDeNotas": 8.545,
+        "MediaDeDesvios": 1.9225,
+        "NotaMediana": 8.97
+      },
+      "CON4301 - TEORIA DA CONTABILIDADE": {
+        "Notas": [
+          7.67,
+          8.46,
+          9.1,
+          9.15
+        ],
+        "Desvios": [
+          2.34,
+          1.56,
+          1.76,
+          1.9
+        ],
+        "DesvioDeNotas": 0.599353818708115,
+        "MediaDeNotas": 8.595,
+        "MediaDeDesvios": 1.8900000000000001,
+        "NotaMediana": 9.1
+      }
+    },
+    "DesvioDeNotas": 0.5868560300448484,
+    "MediaDeNotas": 8.57,
+    "MediaDeDesvios": 1.90625,
+    "NotaMediana": 8.97
+  },
+  "DANIELE DA ROCHA CARVALHO": {
+    "Notas": [
+      9.21,
+      9.43,
+      9.47,
+      9.57,
+      9.75,
+      9.86
+    ],
+    "Desvios": [
+      1.38,
+      1.71,
+      1.55,
+      1.51,
+      1.26,
+      1.71
+    ],
+    "Componentes": {
+      "CON4703 - CONTROLADORIA EMPRESARIAL": {
+        "Notas": [
+          9.21,
+          9.43,
+          9.57
+        ],
+        "Desvios": [
+          1.38,
+          1.55,
+          1.71
+        ],
+        "DesvioDeNotas": 0.14817407180595218,
+        "MediaDeNotas": 9.403333333333334,
+        "MediaDeDesvios": 1.5466666666666666,
+        "NotaMediana": 9.43
+      },
+      "CON4701 - CONTABILIDADE DE CUSTOS": {
+        "Notas": [
+          9.47,
+          9.75,
+          9.86
+        ],
+        "Desvios": [
+          1.71,
+          1.51,
+          1.26
+        ],
+        "DesvioDeNotas": 0.16418147141366285,
+        "MediaDeNotas": 9.693333333333333,
+        "MediaDeDesvios": 1.4933333333333332,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.21326170672569278,
+    "MediaDeNotas": 9.548333333333334,
+    "MediaDeDesvios": 1.5199999999999998,
+    "NotaMediana": 9.57
+  },
+  "DIOGO HENRIQUE SILVA DE LIMA": {
+    "Notas": [
+      8.89,
+      8.98,
+      9.08,
+      9.15,
+      9.31,
+      9.49,
+      9.75,
+      9.86
+    ],
+    "Desvios": [
+      2.02,
+      1.73,
+      2.39,
+      1.44,
+      2.27,
+      1.68,
+      1.28,
+      1.57
+    ],
+    "Componentes": {
+      "CON4201 - MÉTODOS QUANTITATIVOS APLICADOS A CONTABILIDADE I": {
+        "Notas": [
+          8.89,
+          9.08,
+          9.31,
+          9.75
+        ],
+        "Desvios": [
+          2.02,
+          2.39,
+          2.27,
+          1.28
+        ],
+        "DesvioDeNotas": 0.32088744132483576,
+        "MediaDeNotas": 9.2575,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.31
+      },
+      "CON4202 - MÉTODOS QUANTITATIVOS APLICADOS A CONTABILIDADE II": {
+        "Notas": [
+          8.98,
+          9.15,
+          9.49,
+          9.86
+        ],
+        "Desvios": [
+          1.73,
+          1.44,
+          1.68,
+          1.57
+        ],
+        "DesvioDeNotas": 0.3372684390808007,
+        "MediaDeNotas": 9.370000000000001,
+        "MediaDeDesvios": 1.605,
+        "NotaMediana": 9.49
+      }
+    },
+    "DesvioDeNotas": 0.33395125018481336,
+    "MediaDeNotas": 9.31375,
+    "MediaDeDesvios": 1.7974999999999999,
+    "NotaMediana": 9.31
+  },
+  "DJONES DERKYAN TEIXEIRA DOS SANTOS": {
+    "Notas": [
+      8.35,
+      8.87,
+      9.75
+    ],
+    "Desvios": [
+      1.13,
+      2.16,
+      2.02
+    ],
+    "Componentes": {
+      "CON3101 - CONTABILIDADE BASICA I": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.75
+      },
+      "CON4103 - CONTABILIDADE INTERMEDIÁRIA I": {
+        "Notas": [
+          8.35
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.35,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 8.35
+      },
+      "CON4803 - PRÁTICA EMPRESARIAL III": {
+        "Notas": [
+          8.87
+        ],
+        "Desvios": [
+          2.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.87,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 8.87
+      }
+    },
+    "DesvioDeNotas": 0.5778119648005455,
+    "MediaDeNotas": 8.99,
+    "MediaDeDesvios": 1.7700000000000002,
+    "NotaMediana": 8.87
+  },
+  "EDMILSON JOVINO DE OLIVEIRA": {
+    "Notas": [
+      7.04,
+      8.22,
+      8.24,
+      8.71,
+      8.74,
+      9.09,
+      9.18,
+      9.34
+    ],
+    "Desvios": [
+      2.51,
+      2.52,
+      1.71,
+      3.18,
+      2.95,
+      2.18,
+      1.33,
+      1.87
+    ],
+    "Componentes": {
+      "CON4601 - ELEMENTOS DE ADMINISTRAÇÃO PÚBLICA": {
+        "Notas": [
+          8.22,
+          8.24,
+          9.18,
+          9.34
+        ],
+        "Desvios": [
+          2.51,
+          1.71,
+          2.95,
+          1.33
+        ],
+        "DesvioDeNotas": 0.518145732395819,
+        "MediaDeNotas": 8.745000000000001,
+        "MediaDeDesvios": 2.125,
+        "NotaMediana": 9.18
+      },
+      "CON4602 - ORÇAMENTO PÚBLICO": {
+        "Notas": [
+          7.04,
+          8.71,
+          8.74,
+          9.09
+        ],
+        "Desvios": [
+          2.52,
+          3.18,
+          2.18,
+          1.87
+        ],
+        "DesvioDeNotas": 0.796445227244159,
+        "MediaDeNotas": 8.395,
+        "MediaDeDesvios": 2.4375,
+        "NotaMediana": 8.74
+      }
+    },
+    "DesvioDeNotas": 0.6942802027999934,
+    "MediaDeNotas": 8.57,
+    "MediaDeDesvios": 2.2812500000000004,
+    "NotaMediana": 8.74
+  },
+  "EDZANA ROBERTA FERREIRA DA CUNHA VIEIRA LUCENA": {
+    "Notas": [
+      8.35,
+      9.18,
+      9.46,
+      9.5,
+      9.51,
+      9.63,
+      9.65,
+      9.82,
+      9.85
+    ],
+    "Desvios": [
+      1.3,
+      1.98,
+      1.74,
+      1.32,
+      1.26,
+      1.68,
+      1.54,
+      1.16,
+      1.36
+    ],
+    "Componentes": {
+      "CON4702 - ANÁLISE DE CUSTOS": {
+        "Notas": [
+          9.5,
+          9.63,
+          9.82,
+          9.85
+        ],
+        "Desvios": [
+          1.3,
+          1.32,
+          1.68,
+          1.16
+        ],
+        "DesvioDeNotas": 0.14300349646075078,
+        "MediaDeNotas": 9.700000000000001,
+        "MediaDeDesvios": 1.365,
+        "NotaMediana": 9.82
+      },
+      "CON4704 - ORÇAMENTO EMPRESARIAL": {
+        "Notas": [
+          8.35,
+          9.18,
+          9.46,
+          9.51,
+          9.65
+        ],
+        "Desvios": [
+          1.98,
+          1.74,
+          1.26,
+          1.54,
+          1.36
+        ],
+        "DesvioDeNotas": 0.46574671228039843,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 1.576,
+        "NotaMediana": 9.46
+      }
+    },
+    "DesvioDeNotas": 0.4291191091952715,
+    "MediaDeNotas": 9.43888888888889,
+    "MediaDeDesvios": 1.482222222222222,
+    "NotaMediana": 9.51
+  },
+  "EGON JOSE MATEUS CELESTINO": {
+    "Notas": [
+      9,
+      9.22,
+      9.29,
+      9.52,
+      9.53,
+      9.56,
+      9.59,
+      9.59,
+      9.66,
+      9.68,
+      9.71,
+      9.76,
+      9.78,
+      9.79,
+      9.81
+    ],
+    "Desvios": [
+      1.67,
+      1.31,
+      1.56,
+      1.42,
+      1.43,
+      1.29,
+      1.73,
+      1.64,
+      1.64,
+      1.98,
+      1.89,
+      1.69,
+      1.94,
+      1.76,
+      1.41
+    ],
+    "Componentes": {
+      "CON4502 - AUDITORIA EMPRESARIAL": {
+        "Notas": [
+          9.22,
+          9.78
+        ],
+        "Desvios": [
+          1.67,
+          1.29
+        ],
+        "DesvioDeNotas": 0.27999999999999936,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.78
+      },
+      "CON3101 - CONTABILIDADE BASICA I": {
+        "Notas": [
+          9.68,
+          9.76
+        ],
+        "Desvios": [
+          1.31,
+          1.73
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.719999999999999,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.76
+      },
+      "CON0701 - CONTABILIDADE DE CUSTOS PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.79
+      },
+      "CON4501 - INTRODUÇÃO À AUDITORIA": {
+        "Notas": [
+          9.52,
+          9.81
+        ],
+        "Desvios": [
+          1.42,
+          1.64
+        ],
+        "DesvioDeNotas": 0.14500000000000046,
+        "MediaDeNotas": 9.665,
+        "MediaDeDesvios": 1.5299999999999998,
+        "NotaMediana": 9.81
+      },
+      "CON4408 - MERCADO FINANCEIRO E DE CAPITAL": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.56
+      },
+      "CON0127 - CONTABILIDADE E ANALISE DE BALANCO": {
+        "Notas": [
+          9,
+          9.71
+        ],
+        "Desvios": [
+          1.64,
+          1.94
+        ],
+        "DesvioDeNotas": 0.3550000000000004,
+        "MediaDeNotas": 9.355,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.71
+      },
+      "CON4302 - METODOLOGIA DA PESQUISA EM CONTABILIDADE": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.29
+      },
+      "CON4604 - ANÁLISE FINANCEIRA GOVERNAMENTAL": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.59
+      },
+      "CON0002 - CONTABILIDADE APLICADA A ADMINISTRACAO": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.53
+      },
+      "CON4601 - ELEMENTOS DE ADMINISTRAÇÃO PÚBLICA": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.66
+      },
+      "CON4704 - ORÇAMENTO EMPRESARIAL": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.22458257575629798,
+    "MediaDeNotas": 9.566,
+    "MediaDeDesvios": 1.6240000000000003,
+    "NotaMediana": 9.59
+  },
+  "ERIVAN FERREIRA BORGES": {
+    "Notas": [
+      8.37,
+      8.59,
+      8.86,
+      9.23,
+      9.32
+    ],
+    "Desvios": [
+      2.41,
+      2.11,
+      1.72,
+      1.78,
+      1.73
+    ],
+    "Componentes": {
+      "CON4503 - PERÍCIA CONTÁBIL": {
+        "Notas": [
+          8.59,
+          8.86,
+          9.23,
+          9.32
+        ],
+        "Desvios": [
+          2.41,
+          2.11,
+          1.72,
+          1.73
+        ],
+        "DesvioDeNotas": 0.29283100928692674,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 1.9924999999999997,
+        "NotaMediana": 9.23
+      },
+      "CON4502 - AUDITORIA EMPRESARIAL": {
+        "Notas": [
+          8.37
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.37,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 8.37
+      }
+    },
+    "DesvioDeNotas": 0.36346113960092113,
+    "MediaDeNotas": 8.873999999999999,
+    "MediaDeDesvios": 1.95,
+    "NotaMediana": 8.86
+  },
+  "ERMINIO JOSE ARAUJO DE CARVALHO": {
+    "Notas": [
+      9.38,
+      9.41,
+      9.46,
+      9.48,
+      9.52,
+      9.61,
+      9.64,
+      9.66,
+      9.66,
+      9.69,
+      9.7,
+      9.72,
+      9.75,
+      9.77
+    ],
+    "Desvios": [
+      1.6,
+      1.53,
+      1.36,
+      1.35,
+      1.75,
+      1.8,
+      2.04,
+      1.81,
+      1.85,
+      1.7,
+      1.37,
+      1.26,
+      1.33,
+      1.22
+    ],
+    "Componentes": {
+      "CON4101 - CONTABILIDADE BÁSICA I": {
+        "Notas": [
+          9.38,
+          9.48,
+          9.61,
+          9.64,
+          9.66,
+          9.69,
+          9.7,
+          9.75
+        ],
+        "Desvios": [
+          1.6,
+          1.53,
+          1.35,
+          1.75,
+          1.81,
+          1.85,
+          1.26,
+          1.33
+        ],
+        "DesvioDeNotas": 0.1157516198590755,
+        "MediaDeNotas": 9.61375,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.66
+      },
+      "CON4102 - CONTABILIDADE BÁSICA II": {
+        "Notas": [
+          9.41,
+          9.46,
+          9.52,
+          9.77
+        ],
+        "Desvios": [
+          1.36,
+          1.8,
+          1.7,
+          1.22
+        ],
+        "DesvioDeNotas": 0.13838352503098014,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.52
+      },
+      "CON4902 - ESTÁGIO SUPERVISIONADO EM CONTABILIDADE": {
+        "Notas": [
+          9.66,
+          9.72
+        ],
+        "Desvios": [
+          2.04,
+          1.37
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.690000000000001,
+        "MediaDeDesvios": 1.705,
+        "NotaMediana": 9.72
+      }
+    },
+    "DesvioDeNotas": 0.12464848534161627,
+    "MediaDeNotas": 9.603571428571428,
+    "MediaDeDesvios": 1.5692857142857142,
+    "NotaMediana": 9.66
+  },
+  "EVERTON GOMES DOS SANTOS": {
+    "Notas": [
+      5.9,
+      5.99,
+      7.76
+    ],
+    "Desvios": [
+      3.54,
+      2.15,
+      3.12
+    ],
+    "Componentes": {
+      "CON0701 - CONTABILIDADE DE CUSTOS PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          5.99
+        ],
+        "Desvios": [
+          3.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 5.99,
+        "MediaDeDesvios": 3.54,
+        "NotaMediana": 5.99
+      },
+      "CON3606 - GESTAO DE ORCAMENTO PUBLICO": {
+        "Notas": [
+          7.76
+        ],
+        "Desvios": [
+          2.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.76,
+        "MediaDeDesvios": 2.15,
+        "NotaMediana": 7.76
+      },
+      "CON4704 - ORÇAMENTO EMPRESARIAL": {
+        "Notas": [
+          5.9
+        ],
+        "Desvios": [
+          3.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 5.9,
+        "MediaDeDesvios": 3.12,
+        "NotaMediana": 5.9
+      }
+    },
+    "DesvioDeNotas": 0.8563877626402654,
+    "MediaDeNotas": 6.55,
+    "MediaDeDesvios": 2.936666666666666,
+    "NotaMediana": 5.99
+  },
+  "GILMARA MENDES DA COSTA BORGES": {
+    "Notas": [
+      8.41,
+      9.03,
+      9.04,
+      9.21,
+      9.27,
+      9.34,
+      9.52,
+      9.65
+    ],
+    "Desvios": [
+      2.22,
+      2.39,
+      1.82,
+      1.03,
+      1.33,
+      1.8,
+      2.01,
+      1.66
+    ],
+    "Componentes": {
+      "CON4605 - AUDITORIA GOVERNAMENTAL": {
+        "Notas": [
+          8.41
+        ],
+        "Desvios": [
+          2.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.41,
+        "MediaDeDesvios": 2.22,
+        "NotaMediana": 8.41
+      },
+      "CON4601 - ELEMENTOS DE ADMINISTRAÇÃO PÚBLICA": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          2.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 2.39,
+        "NotaMediana": 9.34
+      },
+      "CON4503 - PERÍCIA CONTÁBIL": {
+        "Notas": [
+          9.04,
+          9.21,
+          9.65
+        ],
+        "Desvios": [
+          1.82,
+          1.03,
+          2.01
+        ],
+        "DesvioDeNotas": 0.25703436864876034,
+        "MediaDeNotas": 9.299999999999999,
+        "MediaDeDesvios": 1.6199999999999999,
+        "NotaMediana": 9.21
+      },
+      "COP0018 - CONTABILIDADE APLICADA AO TERCEIRO SETOR": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.52
+      },
+      "CON3115 - CONTABILIDADE APLICADA AS FUNDACOES E ASSOCIACOES": {
+        "Notas": [
+          9.27
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.27
+      },
+      "CON3503 - PERICIA CONTABIL": {
+        "Notas": [
+          9.03
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.03,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.03
+      }
+    },
+    "DesvioDeNotas": 0.3546102614138514,
+    "MediaDeNotas": 9.18375,
+    "MediaDeDesvios": 1.7825000000000002,
+    "NotaMediana": 9.27
+  },
+  "GIOVANNA TONETTO SEGANTINI": {
+    "Notas": [
+      9.46,
+      9.54
+    ],
+    "Desvios": [
+      1.93,
+      1.75
+    ],
+    "Componentes": {
+      "CON4407 - FINANÇAS CORPORATIVAS": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.46
+      },
+      "CON4408 - MERCADO FINANCEIRO E DE CAPITAL": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 9.54
+      }
+    },
+    "DesvioDeNotas": 0.03999999999999915,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.8399999999999999,
+    "NotaMediana": 9.54
+  },
+  "IVAN ALVES DO NASCIMENTO": {
+    "Notas": [
+      8.3,
+      8.6,
+      8.82,
+      8.96,
+      9.14,
+      9.16,
+      9.21,
+      9.37,
+      9.48,
+      9.8
+    ],
+    "Desvios": [
+      2.03,
+      2.23,
+      2.22,
+      2.26,
+      2.3,
+      1.19,
+      2.26,
+      2.04,
+      1.27,
+      1.12
+    ],
+    "Componentes": {
+      "CON4201 - MÉTODOS QUANTITATIVOS APLICADOS A CONTABILIDADE I": {
+        "Notas": [
+          8.6,
+          8.82,
+          9.21,
+          9.37
+        ],
+        "Desvios": [
+          2.03,
+          2.26,
+          2.26,
+          1.27
+        ],
+        "DesvioDeNotas": 0.30553232234904376,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 1.9549999999999996,
+        "NotaMediana": 9.21
+      },
+      "CON4202 - MÉTODOS QUANTITATIVOS APLICADOS A CONTABILIDADE II": {
+        "Notas": [
+          8.96,
+          9.14,
+          9.16,
+          9.48
+        ],
+        "Desvios": [
+          2.23,
+          2.3,
+          2.04,
+          1.12
+        ],
+        "DesvioDeNotas": 0.1872832080032803,
+        "MediaDeNotas": 9.185,
+        "MediaDeDesvios": 1.9224999999999999,
+        "NotaMediana": 9.16
+      },
+      "CON4406 - MATEMÁTICA FINANCEIRA": {
+        "Notas": [
+          8.3,
+          9.8
+        ],
+        "Desvios": [
+          2.22,
+          1.19
+        ],
+        "DesvioDeNotas": 0.75,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 1.705,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.4135262990427574,
+    "MediaDeNotas": 9.084000000000001,
+    "MediaDeDesvios": 1.892,
+    "NotaMediana": 9.16
+  },
+  "JOANA DARC MEDEIROS MARTINS": {
+    "Notas": [
+      8.52,
+      8.72,
+      8.77,
+      8.86,
+      9.11,
+      9.15,
+      9.21,
+      9.41,
+      9.41
+    ],
+    "Desvios": [
+      2.29,
+      2.35,
+      1.68,
+      2.07,
+      1.52,
+      1.8,
+      2.4,
+      2.19,
+      2.12
+    ],
+    "Componentes": {
+      "CON4104 - CONTABILIDADE INTERMEDIÁRIA II": {
+        "Notas": [
+          8.52,
+          8.77,
+          9.11,
+          9.21,
+          9.41,
+          9.41
+        ],
+        "Desvios": [
+          2.29,
+          2.35,
+          2.07,
+          1.52,
+          2.4,
+          2.19
+        ],
+        "DesvioDeNotas": 0.3278422723743168,
+        "MediaDeNotas": 9.071666666666665,
+        "MediaDeDesvios": 2.1366666666666667,
+        "NotaMediana": 9.21
+      },
+      "CON3116 - EDUCAÇÃO FISCAL": {
+        "Notas": [
+          8.86,
+          9.15
+        ],
+        "Desvios": [
+          1.68,
+          1.8
+        ],
+        "DesvioDeNotas": 0.14500000000000046,
+        "MediaDeNotas": 9.004999999999999,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.15
+      },
+      "CON4802 - PRÁTICA EMPRESARIAL II": {
+        "Notas": [
+          8.72
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.72,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 8.72
+      }
+    },
+    "DesvioDeNotas": 0.29690169633053753,
+    "MediaDeNotas": 9.017777777777777,
+    "MediaDeDesvios": 2.046666666666667,
+    "NotaMediana": 9.11
+  },
+  "JOAO MARIA MONTENEGRO RIBEIRO": {
+    "Notas": [
+      8.3,
+      8.5,
+      8.98,
+      9.09,
+      9.12,
+      9.18,
+      9.18,
+      9.29,
+      9.32,
+      9.48,
+      9.59,
+      9.6
+    ],
+    "Desvios": [
+      2.12,
+      2.28,
+      1.86,
+      1.88,
+      1.68,
+      1.55,
+      2.06,
+      1.94,
+      2.4,
+      1.19,
+      1.54,
+      2.15
+    ],
+    "Componentes": {
+      "CON4106 - CONTABILIDADE TRIBUTÁRIA": {
+        "Notas": [
+          8.5,
+          9.18,
+          9.18,
+          9.29,
+          9.32,
+          9.48,
+          9.59,
+          9.6
+        ],
+        "Desvios": [
+          2.12,
+          2.28,
+          1.88,
+          1.68,
+          2.06,
+          1.94,
+          1.19,
+          1.54
+        ],
+        "DesvioDeNotas": 0.329270025966531,
+        "MediaDeNotas": 9.267499999999998,
+        "MediaDeDesvios": 1.8362499999999997,
+        "NotaMediana": 9.32
+      },
+      "CON3116 - EDUCAÇÃO FISCAL": {
+        "Notas": [
+          8.3,
+          8.98,
+          9.09,
+          9.12
+        ],
+        "Desvios": [
+          1.86,
+          1.55,
+          2.4,
+          2.15
+        ],
+        "DesvioDeNotas": 0.33461731873888373,
+        "MediaDeNotas": 8.8725,
+        "MediaDeDesvios": 1.9900000000000002,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 0.37983457656663566,
+    "MediaDeNotas": 9.135833333333334,
+    "MediaDeDesvios": 1.8875,
+    "NotaMediana": 9.18
+  },
+  "JOSE DIONISIO GOMES DA SILVA": {
+    "Notas": [
+      8.47,
+      8.66,
+      8.98,
+      9.14,
+      9.27
+    ],
+    "Desvios": [
+      2.13,
+      2.14,
+      2.47,
+      2.56,
+      1.66
+    ],
+    "Componentes": {
+      "CON4703 - CONTROLADORIA EMPRESARIAL": {
+        "Notas": [
+          8.66,
+          9.14
+        ],
+        "Desvios": [
+          2.13,
+          2.47
+        ],
+        "DesvioDeNotas": 0.2400000000000002,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 2.3,
+        "NotaMediana": 9.14
+      },
+      "CON4407 - FINANÇAS CORPORATIVAS": {
+        "Notas": [
+          8.47,
+          8.98,
+          9.27
+        ],
+        "Desvios": [
+          2.14,
+          2.56,
+          1.66
+        ],
+        "DesvioDeNotas": 0.3306895153396238,
+        "MediaDeNotas": 8.906666666666668,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 8.98
+      }
+    },
+    "DesvioDeNotas": 0.2977650080180676,
+    "MediaDeNotas": 8.904,
+    "MediaDeDesvios": 2.192,
+    "NotaMediana": 8.98
+  },
+  "JOSE EMERSON FIRMINO": {
+    "Notas": [
+      8.4,
+      8.7,
+      8.9,
+      8.95,
+      8.99,
+      9.07,
+      9.34,
+      9.39
+    ],
+    "Desvios": [
+      1.67,
+      2.06,
+      1.99,
+      2.16,
+      2.16,
+      1.83,
+      1.5,
+      2.01
+    ],
+    "Componentes": {
+      "CON4502 - AUDITORIA EMPRESARIAL": {
+        "Notas": [
+          8.4,
+          8.9,
+          9.34,
+          9.39
+        ],
+        "Desvios": [
+          1.67,
+          1.99,
+          2.16,
+          1.5
+        ],
+        "DesvioDeNotas": 0.3992101576863995,
+        "MediaDeNotas": 9.0075,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.34
+      },
+      "CON4501 - INTRODUÇÃO À AUDITORIA": {
+        "Notas": [
+          8.7,
+          8.95,
+          8.99,
+          9.07
+        ],
+        "Desvios": [
+          2.06,
+          2.16,
+          1.83,
+          2.01
+        ],
+        "DesvioDeNotas": 0.1382705680902487,
+        "MediaDeNotas": 8.927499999999998,
+        "MediaDeDesvios": 2.015,
+        "NotaMediana": 8.99
+      }
+    },
+    "DesvioDeNotas": 0.30140296946115186,
+    "MediaDeNotas": 8.9675,
+    "MediaDeDesvios": 1.9224999999999999,
+    "NotaMediana": 8.99
+  },
+  "JOSE JAILSON DA SILVA": {
+    "Notas": [
+      7.26,
+      8.28,
+      8.36,
+      8.88,
+      8.89,
+      9.23,
+      9.57
+    ],
+    "Desvios": [
+      1.86,
+      1.94,
+      2.54,
+      2.22,
+      1.81,
+      1.29,
+      1.72
+    ],
+    "Componentes": {
+      "CON4605 - AUDITORIA GOVERNAMENTAL": {
+        "Notas": [
+          8.28,
+          8.89,
+          9.23
+        ],
+        "Desvios": [
+          1.86,
+          2.22,
+          1.81
+        ],
+        "DesvioDeNotas": 0.3930224760324364,
+        "MediaDeNotas": 8.8,
+        "MediaDeDesvios": 1.9633333333333336,
+        "NotaMediana": 8.89
+      },
+      "CON0015 - INTRODUÇÃO À AUDITORIA PÚBLICA E GOVERNAMENTAL": {
+        "Notas": [
+          8.36
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.36,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 8.36
+      },
+      "CON4604 - ANÁLISE FINANCEIRA GOVERNAMENTAL": {
+        "Notas": [
+          7.26
+        ],
+        "Desvios": [
+          2.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.26,
+        "MediaDeDesvios": 2.54,
+        "NotaMediana": 7.26
+      },
+      "CON3602 - CONTABILIDADE GOVERNAMENTAL": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.57
+      },
+      "CON3303 - ETICA GERAL E PROFISSIONAL": {
+        "Notas": [
+          8.88
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.88,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 8.88
+      }
+    },
+    "DesvioDeNotas": 0.7015783954042197,
+    "MediaDeNotas": 8.638571428571428,
+    "MediaDeDesvios": 1.9114285714285715,
+    "NotaMediana": 8.88
+  },
+  "JOSUE LINS E SILVA": {
+    "Notas": [
+      8.21,
+      8.25,
+      8.57,
+      8.86,
+      8.99,
+      8.99,
+      9.05,
+      9.15,
+      9.18,
+      9.25,
+      9.26,
+      9.32,
+      9.59,
+      9.98
+    ],
+    "Desvios": [
+      2.24,
+      2.53,
+      2.44,
+      1.76,
+      1.87,
+      1.9,
+      1.98,
+      1.81,
+      2.64,
+      1.52,
+      2.86,
+      1.6,
+      1.99,
+      1.96
+    ],
+    "Componentes": {
+      "CON4105 - CONTABILIDADE AVANÇADA": {
+        "Notas": [
+          8.25,
+          8.57,
+          8.99,
+          8.99,
+          9.05,
+          9.25,
+          9.26,
+          9.32
+        ],
+        "Desvios": [
+          2.24,
+          2.53,
+          1.76,
+          1.87,
+          1.81,
+          2.64,
+          1.6,
+          1.99
+        ],
+        "DesvioDeNotas": 0.3481738071710737,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 2.0549999999999997,
+        "NotaMediana": 9.05
+      },
+      "CON4802 - PRÁTICA EMPRESARIAL II": {
+        "Notas": [
+          8.21,
+          8.86,
+          9.15,
+          9.18
+        ],
+        "Desvios": [
+          2.44,
+          1.98,
+          2.86,
+          1.96
+        ],
+        "DesvioDeNotas": 0.3900640972968414,
+        "MediaDeNotas": 8.85,
+        "MediaDeDesvios": 2.3099999999999996,
+        "NotaMediana": 9.15
+      },
+      "CON4902 - ESTÁGIO SUPERVISIONADO EM CONTABILIDADE": {
+        "Notas": [
+          9.59,
+          9.98
+        ],
+        "Desvios": [
+          1.9,
+          1.52
+        ],
+        "DesvioDeNotas": 0.19500000000000028,
+        "MediaDeNotas": 9.785,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.98
+      }
+    },
+    "DesvioDeNotas": 0.4597764541112365,
+    "MediaDeNotas": 9.046428571428573,
+    "MediaDeDesvios": 2.0785714285714287,
+    "NotaMediana": 9.15
+  },
+  "LUIZ VIEIRA DE OLIVEIRA SOBRINHO": {
+    "Notas": [
+      5.71,
+      6.67,
+      6.75,
+      6.86,
+      7.74,
+      7.94,
+      8.18,
+      8.19,
+      8.22,
+      8.54,
+      8.55,
+      8.58,
+      8.86,
+      9.03
+    ],
+    "Desvios": [
+      3.64,
+      1.99,
+      2.23,
+      4.04,
+      2.95,
+      2.91,
+      2.48,
+      2.3,
+      2.84,
+      2.86,
+      2.15,
+      1.92,
+      2.23,
+      2.38
+    ],
+    "Componentes": {
+      "CON0012 - CONTABILIDADE BÁSICA PARA CIÊNCIAS ATUARIAIS": {
+        "Notas": [
+          6.67
+        ],
+        "Desvios": [
+          3.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.67,
+        "MediaDeDesvios": 3.64,
+        "NotaMediana": 6.67
+      },
+      "CON0014 - CONTABILIDADE DE EMPREENDIMENTOS TURÍSTICOS": {
+        "Notas": [
+          6.75,
+          8.55,
+          9.03
+        ],
+        "Desvios": [
+          1.99,
+          2.91,
+          1.92
+        ],
+        "DesvioDeNotas": 0.9814275317108236,
+        "MediaDeNotas": 8.11,
+        "MediaDeDesvios": 2.2733333333333334,
+        "NotaMediana": 8.55
+      },
+      "CON3606 - GESTAO DE ORCAMENTO PUBLICO": {
+        "Notas": [
+          8.18
+        ],
+        "Desvios": [
+          2.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.18,
+        "MediaDeDesvios": 2.23,
+        "NotaMediana": 8.18
+      },
+      "CON4801 - PRÁTICA EMPRESARIAL I": {
+        "Notas": [
+          5.71,
+          6.86,
+          7.74,
+          7.94,
+          8.22,
+          8.54,
+          8.58,
+          8.86
+        ],
+        "Desvios": [
+          4.04,
+          2.95,
+          2.48,
+          2.3,
+          2.86,
+          2.15,
+          2.23,
+          2.38
+        ],
+        "DesvioDeNotas": 0.9830175163749625,
+        "MediaDeNotas": 7.8062499999999995,
+        "MediaDeDesvios": 2.6737499999999996,
+        "NotaMediana": 8.22
+      },
+      "CON4802 - PRÁTICA EMPRESARIAL II": {
+        "Notas": [
+          8.19
+        ],
+        "Desvios": [
+          2.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.19,
+        "MediaDeDesvios": 2.84,
+        "NotaMediana": 8.19
+      }
+    },
+    "DesvioDeNotas": 0.9431990721983975,
+    "MediaDeNotas": 7.844285714285713,
+    "MediaDeDesvios": 2.6371428571428566,
+    "NotaMediana": 8.19
+  },
+  "MARISE MAGALY QUEIROZ ROCHA": {
+    "Notas": [
+      9.19,
+      9.38,
+      9.38,
+      9.41,
+      9.55,
+      9.57,
+      9.72,
+      9.76
+    ],
+    "Desvios": [
+      1.71,
+      1.98,
+      1.58,
+      1.31,
+      1.67,
+      1.58,
+      1.4,
+      1.64
+    ],
+    "Componentes": {
+      "CON4604 - ANÁLISE FINANCEIRA GOVERNAMENTAL": {
+        "Notas": [
+          9.38,
+          9.38,
+          9.41,
+          9.57
+        ],
+        "Desvios": [
+          1.71,
+          1.58,
+          1.67,
+          1.4
+        ],
+        "DesvioDeNotas": 0.07889866919029734,
+        "MediaDeNotas": 9.435,
+        "MediaDeDesvios": 1.5899999999999999,
+        "NotaMediana": 9.41
+      },
+      "CON4602 - ORÇAMENTO PÚBLICO": {
+        "Notas": [
+          9.19,
+          9.55,
+          9.72,
+          9.76
+        ],
+        "Desvios": [
+          1.98,
+          1.31,
+          1.58,
+          1.64
+        ],
+        "DesvioDeNotas": 0.22500000000000026,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.6275,
+        "NotaMediana": 9.72
+      }
+    },
+    "DesvioDeNotas": 0.17895530168173288,
+    "MediaDeNotas": 9.495,
+    "MediaDeDesvios": 1.6087500000000001,
+    "NotaMediana": 9.55
+  },
+  "MAURICIO CORREA DA SILVA": {
+    "Notas": [
+      8.64,
+      8.73,
+      8.85,
+      8.91,
+      8.98,
+      9.11,
+      9.16,
+      9.16,
+      9.18,
+      9.22,
+      9.29,
+      9.34,
+      9.45,
+      9.47,
+      9.5,
+      9.68
+    ],
+    "Desvios": [
+      2.04,
+      2.22,
+      1.94,
+      1.71,
+      2.75,
+      2.49,
+      2.14,
+      1.67,
+      1.84,
+      1.6,
+      1.65,
+      1.85,
+      1.55,
+      2.02,
+      1.76,
+      1.74
+    ],
+    "Componentes": {
+      "CON4603 - CONTABILIDADE GOVERNAMENTAL": {
+        "Notas": [
+          8.64,
+          8.73,
+          8.85,
+          8.98,
+          9.16,
+          9.16,
+          9.18,
+          9.47
+        ],
+        "Desvios": [
+          2.04,
+          2.22,
+          2.75,
+          2.49,
+          1.84,
+          1.6,
+          1.55,
+          2.02
+        ],
+        "DesvioDeNotas": 0.2564876946366043,
+        "MediaDeNotas": 9.02125,
+        "MediaDeDesvios": 2.06375,
+        "NotaMediana": 9.16
+      },
+      "CON4804 - PRÁTICA GOVERNAMENTAL": {
+        "Notas": [
+          8.91,
+          9.11,
+          9.22,
+          9.29,
+          9.34,
+          9.45,
+          9.5,
+          9.68
+        ],
+        "Desvios": [
+          1.94,
+          1.71,
+          2.14,
+          1.67,
+          1.65,
+          1.85,
+          1.76,
+          1.74
+        ],
+        "DesvioDeNotas": 0.2241511766643217,
+        "MediaDeNotas": 9.3125,
+        "MediaDeDesvios": 1.8074999999999999,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.28146311370231075,
+    "MediaDeNotas": 9.166875000000001,
+    "MediaDeDesvios": 1.9356250000000002,
+    "NotaMediana": 9.18
+  },
+  "PEDRO LOPES DE ARAUJO NETO": {
+    "Notas": [
+      8.16,
+      8.25,
+      8.73,
+      9.02,
+      9.09,
+      9.25,
+      9.31,
+      9.44
+    ],
+    "Desvios": [
+      1.93,
+      1.43,
+      1.85,
+      2.15,
+      1.79,
+      2.07,
+      1.7,
+      1.63
+    ],
+    "Componentes": {
+      "CON4103 - CONTABILIDADE INTERMEDIÁRIA I": {
+        "Notas": [
+          8.25,
+          9.02,
+          9.09,
+          9.25,
+          9.44
+        ],
+        "Desvios": [
+          1.93,
+          1.85,
+          1.79,
+          1.7,
+          1.63
+        ],
+        "DesvioDeNotas": 0.4065956222095854,
+        "MediaDeNotas": 9.01,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.09
+      },
+      "CON4803 - PRÁTICA EMPRESARIAL III": {
+        "Notas": [
+          8.16,
+          8.73,
+          9.31
+        ],
+        "Desvios": [
+          1.43,
+          2.15,
+          2.07
+        ],
+        "DesvioDeNotas": 0.4694914506380519,
+        "MediaDeNotas": 8.733333333333333,
+        "MediaDeDesvios": 1.8833333333333335,
+        "NotaMediana": 8.73
+      }
+    },
+    "DesvioDeNotas": 0.4515788275594859,
+    "MediaDeNotas": 8.90625,
+    "MediaDeDesvios": 1.8187499999999996,
+    "NotaMediana": 9.09
+  },
+  "RIDALVO MEDEIROS ALVES DE OLIVEIRA": {
+    "Notas": [
+      8.8,
+      9.31,
+      9.37,
+      9.54,
+      9.72
+    ],
+    "Desvios": [
+      2.3,
+      1.58,
+      1.56,
+      1.34,
+      1.52
+    ],
+    "Componentes": {
+      "CON4302 - METODOLOGIA DA PESQUISA EM CONTABILIDADE": {
+        "Notas": [
+          8.8,
+          9.37,
+          9.72
+        ],
+        "Desvios": [
+          2.3,
+          1.58,
+          1.52
+        ],
+        "DesvioDeNotas": 0.3791510985814962,
+        "MediaDeNotas": 9.296666666666667,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.37
+      },
+      "ADM0077 - ADMINISTRAÇÃO DE CUSTOS GERENCIAIS": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.54
+      },
+      "CON4701 - CONTABILIDADE DE CUSTOS": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.31
+      }
+    },
+    "DesvioDeNotas": 0.3090242708914623,
+    "MediaDeNotas": 9.348,
+    "MediaDeDesvios": 1.6599999999999997,
+    "NotaMediana": 9.37
+  },
+  "RODOLFO MAIA ROSADO CASCUDO RODRIGUES": {
+    "Notas": [
+      8.27,
+      8.44,
+      8.68,
+      8.79,
+      8.98,
+      9.14,
+      9.15,
+      9.4,
+      9.44,
+      9.49,
+      9.49,
+      9.53,
+      9.56,
+      9.57,
+      9.58,
+      9.77,
+      9.84
+    ],
+    "Desvios": [
+      1.48,
+      2.17,
+      1.79,
+      2.24,
+      1.91,
+      1.77,
+      1.2,
+      1.84,
+      1.65,
+      1.98,
+      1.39,
+      2.07,
+      2.77,
+      1.52,
+      1.64,
+      1.03,
+      2.08
+    ],
+    "Componentes": {
+      "CON3204 - ANALISE DE DADOS CONTABEIS": {
+        "Notas": [
+          8.44,
+          9.57
+        ],
+        "Desvios": [
+          1.48,
+          1.91
+        ],
+        "DesvioDeNotas": 0.5650000000000004,
+        "MediaDeNotas": 9.004999999999999,
+        "MediaDeDesvios": 1.6949999999999998,
+        "NotaMediana": 9.57
+      },
+      "CON4203 - ANÁLISE DE DADOS CONTABEIS": {
+        "Notas": [
+          8.79
+        ],
+        "Desvios": [
+          2.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.79,
+        "MediaDeDesvios": 2.17,
+        "NotaMediana": 8.79
+      },
+      "CON4103 - CONTABILIDADE INTERMEDIÁRIA I": {
+        "Notas": [
+          9.4,
+          9.44,
+          9.84
+        ],
+        "Desvios": [
+          1.79,
+          1.77,
+          1.39
+        ],
+        "DesvioDeNotas": 0.19866219234335114,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.6500000000000001,
+        "NotaMediana": 9.44
+      },
+      "CON4802 - PRÁTICA EMPRESARIAL II": {
+        "Notas": [
+          8.27,
+          9.14,
+          9.56
+        ],
+        "Desvios": [
+          2.24,
+          1.2,
+          2.77
+        ],
+        "DesvioDeNotas": 0.5372150407425321,
+        "MediaDeNotas": 8.99,
+        "MediaDeDesvios": 2.0700000000000003,
+        "NotaMediana": 9.14
+      },
+      "CON4803 - PRÁTICA EMPRESARIAL III": {
+        "Notas": [
+          8.68,
+          9.15,
+          9.53
+        ],
+        "Desvios": [
+          1.84,
+          1.52,
+          2.08
+        ],
+        "DesvioDeNotas": 0.34765883660086444,
+        "MediaDeNotas": 9.12,
+        "MediaDeDesvios": 1.8133333333333335,
+        "NotaMediana": 9.15
+      },
+      "CON4301 - TEORIA DA CONTABILIDADE": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.58
+      },
+      "CON3101 - CONTABILIDADE BASICA I": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.49
+      },
+      "CON3302 - CONTABILIDADE INTERNACIONAL": {
+        "Notas": [
+          8.98,
+          9.77
+        ],
+        "Desvios": [
+          2.07,
+          1.03
+        ],
+        "DesvioDeNotas": 0.3949999999999996,
+        "MediaDeNotas": 9.375,
+        "MediaDeDesvios": 1.5499999999999998,
+        "NotaMediana": 9.77
+      },
+      "CON0002 - CONTABILIDADE APLICADA A ADMINISTRACAO": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.49
+      }
+    },
+    "DesvioDeNotas": 0.44886168984331537,
+    "MediaDeNotas": 9.24235294117647,
+    "MediaDeDesvios": 1.7958823529411765,
+    "NotaMediana": 9.44
+  },
+  "SEVERINO CESARIO DE LIMA": {
+    "Notas": [
+      9.56
+    ],
+    "Desvios": [
+      1.15
+    ],
+    "Componentes": {
+      "CON4604 - ANÁLISE FINANCEIRA GOVERNAMENTAL": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.56
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.56,
+    "MediaDeDesvios": 1.15,
+    "NotaMediana": 9.56
+  },
+  "VANESSA CAMARA DE MEDEIROS": {
+    "Notas": [
+      9.4,
+      9.48,
+      9.59,
+      9.64,
+      9.66,
+      9.7,
+      9.71,
+      9.73,
+      9.78,
+      9.78,
+      9.8
+    ],
+    "Desvios": [
+      1.89,
+      1.47,
+      1.85,
+      1.57,
+      1.58,
+      1.63,
+      1.63,
+      1.83,
+      1.49,
+      1.77,
+      1.83
+    ],
+    "Componentes": {
+      "CON3101 - CONTABILIDADE BASICA I": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.48
+      },
+      "CON0701 - CONTABILIDADE DE CUSTOS PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          9.4,
+          9.73
+        ],
+        "Desvios": [
+          1.47,
+          1.85
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.565000000000001,
+        "MediaDeDesvios": 1.6600000000000001,
+        "NotaMediana": 9.73
+      },
+      "CON4406 - MATEMÁTICA FINANCEIRA": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.8
+      },
+      "CON4710 - RESPONSABILIDADE SOCIAL CORPORATIVA DA CONTABILIDADE": {
+        "Notas": [
+          9.64,
+          9.66
+        ],
+        "Desvios": [
+          1.58,
+          1.83
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.705,
+        "NotaMediana": 9.66
+      },
+      "CON0002 - CONTABILIDADE APLICADA A ADMINISTRACAO": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.7
+      },
+      "CON4102 - CONTABILIDADE BÁSICA II": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.78
+      },
+      "CON4408 - MERCADO FINANCEIRO E DE CAPITAL": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.78
+      },
+      "CON4704 - ORÇAMENTO EMPRESARIAL": {
+        "Notas": [
+          9.59,
+          9.71
+        ],
+        "Desvios": [
+          1.49,
+          1.77
+        ],
+        "DesvioDeNotas": 0.0600000000000005,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0.12161448369593181,
+    "MediaDeNotas": 9.66090909090909,
+    "MediaDeDesvios": 1.6854545454545453,
+    "NotaMediana": 9.7
+  },
+  "AMANDA BORGES DE ALBUQUERQUE ASSUNCAO": {
+    "Notas": [
+      9.55,
+      9.64,
+      9.66,
+      9.69,
+      9.75,
+      9.8,
+      9.86,
+      9.96
+    ],
+    "Desvios": [
+      1.56,
+      1.83,
+      1.24,
+      1.47,
+      1.83,
+      1.11,
+      1.38,
+      0.97
+    ],
+    "Componentes": {
+      "CON0119 - MATEMATICA COMERCIAL E FINANCEIRA": {
+        "Notas": [
+          9.75,
+          9.96
+        ],
+        "Desvios": [
+          1.56,
+          1.11
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.855,
+        "MediaDeDesvios": 1.335,
+        "NotaMediana": 9.96
+      },
+      "CON4406 - MATEMÁTICA FINANCEIRA": {
+        "Notas": [
+          9.64,
+          9.66,
+          9.8,
+          9.86
+        ],
+        "Desvios": [
+          1.83,
+          1.47,
+          1.38,
+          0.97
+        ],
+        "DesvioDeNotas": 0.09273618495495678,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.4124999999999999,
+        "NotaMediana": 9.8
+      },
+      "CON4408 - MERCADO FINANCEIRO E DE CAPITAL": {
+        "Notas": [
+          9.55,
+          9.69
+        ],
+        "Desvios": [
+          1.24,
+          1.83
+        ],
+        "DesvioDeNotas": 0.0699999999999994,
+        "MediaDeNotas": 9.620000000000001,
+        "MediaDeDesvios": 1.5350000000000001,
+        "NotaMediana": 9.69
+      }
+    },
+    "DesvioDeNotas": 0.12323123589415143,
+    "MediaDeNotas": 9.73875,
+    "MediaDeDesvios": 1.4237499999999998,
+    "NotaMediana": 9.75
+  },
+  "BRUNO FRANCISCO MALHEIRO": {
+    "Notas": [
+      8.55,
+      9.16,
+      9.41,
+      9.41
+    ],
+    "Desvios": [
+      1.41,
+      1.82,
+      1.73,
+      1.83
+    ],
+    "Componentes": {
+      "CON4203 - ANÁLISE DE DADOS CONTABEIS": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.41
+      },
+      "CON4601 - ELEMENTOS DE ADMINISTRAÇÃO PÚBLICA": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 9.41
+      },
+      "CON4709 - EMPREENDEDORISMO PARA CONTADORES": {
+        "Notas": [
+          9.16
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.16
+      },
+      "CON3203 - INTRODUCAO A CIENCIA ATUARIAL": {
+        "Notas": [
+          8.55
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.55,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 8.55
+      }
+    },
+    "DesvioDeNotas": 0.35145234385333074,
+    "MediaDeNotas": 9.1325,
+    "MediaDeDesvios": 1.6975,
+    "NotaMediana": 9.41
+  },
+  "ROBERTO JOSE VIEIRA DE SOUSA LIMA": {
+    "Notas": [
+      8.84,
+      9.03,
+      9.28,
+      9.41,
+      9.48,
+      9.57,
+      9.66,
+      9.77
+    ],
+    "Desvios": [
+      1.41,
+      2.1,
+      2.29,
+      1.79,
+      1.65,
+      1.76,
+      1.36,
+      1.29
+    ],
+    "Componentes": {
+      "CON0002 - CONTABILIDADE APLICADA A ADMINISTRACAO": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.57
+      },
+      "CON3109 - CONTABILIDADE DAS INSTITUICOES DE CREDITO E FINANCIAMENTO": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 8.84
+      },
+      "CON4201 - MÉTODOS QUANTITATIVOS APLICADOS A CONTABILIDADE I": {
+        "Notas": [
+          9.28
+        ],
+        "Desvios": [
+          2.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.28,
+        "MediaDeDesvios": 2.29,
+        "NotaMediana": 9.28
+      },
+      "CON4202 - MÉTODOS QUANTITATIVOS APLICADOS A CONTABILIDADE II": {
+        "Notas": [
+          9.03
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.03,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.03
+      },
+      "ADM0077 - ADMINISTRAÇÃO DE CUSTOS GERENCIAIS": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.48
+      },
+      "CON0012 - CONTABILIDADE BÁSICA PARA CIÊNCIAS ATUARIAIS": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.41
+      },
+      "CON0013 - FINANÇAS CORPORATIVAS PARA CIÊNCIAS ATUARIAIS": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.77
+      },
+      "CON3202 - METODOS QUANTITATIVOS APLICADOS A CONTABILIDADE": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.2961418578992171,
+    "MediaDeNotas": 9.379999999999999,
+    "MediaDeDesvios": 1.7062499999999998,
+    "NotaMediana": 9.48
+  },
+  "VICTOR BRANCO DE HOLANDA": {
+    "Notas": [
+      7.51,
+      7.87,
+      7.93,
+      8.25,
+      8.69,
+      8.73,
+      9.22,
+      9.67
+    ],
+    "Desvios": [
+      2.4,
+      2.07,
+      2.26,
+      1.57,
+      2.46,
+      0.89,
+      0.9,
+      2.19
+    ],
+    "Componentes": {
+      "CON4605 - AUDITORIA GOVERNAMENTAL": {
+        "Notas": [
+          7.87,
+          8.25
+        ],
+        "Desvios": [
+          2.4,
+          2.26
+        ],
+        "DesvioDeNotas": 0.18999999999999995,
+        "MediaDeNotas": 8.06,
+        "MediaDeDesvios": 2.33,
+        "NotaMediana": 8.25
+      },
+      "CON3603 - CONTROLADORIA GOVERNAMENTAL": {
+        "Notas": [
+          7.51,
+          7.93,
+          8.69,
+          8.73,
+          9.67
+        ],
+        "Desvios": [
+          2.07,
+          1.57,
+          2.46,
+          0.9,
+          2.19
+        ],
+        "DesvioDeNotas": 0.7433330343796112,
+        "MediaDeNotas": 8.506,
+        "MediaDeDesvios": 1.8379999999999999,
+        "NotaMediana": 8.69
+      },
+      "CON3109 - CONTABILIDADE DAS INSTITUICOES DE CREDITO E FINANCIAMENTO": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          0.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 0.89,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0.6836105890783145,
+    "MediaDeNotas": 8.48375,
+    "MediaDeDesvios": 1.8424999999999998,
+    "NotaMediana": 8.69
+  },
+  "ANEIDE OLIVEIRA ARAUJO": {
+    "Notas": [
+      8.32,
+      8.53,
+      8.8,
+      9.15
+    ],
+    "Desvios": [
+      2.25,
+      2.53,
+      1.44,
+      1.92
+    ],
+    "Componentes": {
+      "CON4703 - CONTROLADORIA EMPRESARIAL": {
+        "Notas": [
+          8.32,
+          9.15
+        ],
+        "Desvios": [
+          2.25,
+          1.44
+        ],
+        "DesvioDeNotas": 0.41500000000000004,
+        "MediaDeNotas": 8.735,
+        "MediaDeDesvios": 1.845,
+        "NotaMediana": 9.15
+      },
+      "CON4710 - RESPONSABILIDADE SOCIAL CORPORATIVA DA CONTABILIDADE": {
+        "Notas": [
+          8.53
+        ],
+        "Desvios": [
+          2.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.53,
+        "MediaDeDesvios": 2.53,
+        "NotaMediana": 8.53
+      },
+      "CON3406 - ORCAMENTO EMPRESARIAL": {
+        "Notas": [
+          8.8
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.8,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 8.8
+      }
+    },
+    "DesvioDeNotas": 0.3105640030653909,
+    "MediaDeNotas": 8.7,
+    "MediaDeDesvios": 2.0349999999999997,
+    "NotaMediana": 8.8
+  },
+  "LUIS MANUEL ESTEVES DA ROCHA VIEIRA": {
+    "Notas": [
+      9.22,
+      9.4,
+      9.41,
+      9.52,
+      9.68,
+      9.71
+    ],
+    "Desvios": [
+      1.74,
+      1.56,
+      1.86,
+      1.23,
+      1.3,
+      1.53
+    ],
+    "Componentes": {
+      "CON4709 - EMPREENDEDORISMO PARA CONTADORES": {
+        "Notas": [
+          9.22,
+          9.52
+        ],
+        "Desvios": [
+          1.74,
+          1.3
+        ],
+        "DesvioDeNotas": 0.14999999999999947,
+        "MediaDeNotas": 9.370000000000001,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.52
+      },
+      "CON4407 - FINANÇAS CORPORATIVAS": {
+        "Notas": [
+          9.4,
+          9.41,
+          9.68
+        ],
+        "Desvios": [
+          1.56,
+          1.86,
+          1.53
+        ],
+        "DesvioDeNotas": 0.1297005097222912,
+        "MediaDeNotas": 9.496666666666666,
+        "MediaDeDesvios": 1.6500000000000001,
+        "NotaMediana": 9.41
+      },
+      "CON0002 - CONTABILIDADE APLICADA A ADMINISTRACAO": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0.1697056274847713,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.5366666666666668,
+    "NotaMediana": 9.52
+  },
+  "MAYARA BEZERRA BARBOSA": {
+    "Notas": [
+      9.1,
+      9.15,
+      9.15,
+      9.47,
+      9.6,
+      9.62,
+      9.63,
+      9.64
+    ],
+    "Desvios": [
+      1.99,
+      2,
+      1.2,
+      2.02,
+      1.98,
+      1.47,
+      1.19,
+      1.43
+    ],
+    "Componentes": {
+      "CON4502 - AUDITORIA EMPRESARIAL": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.15
+      },
+      "CON3101 - CONTABILIDADE BASICA I": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 9.47
+      },
+      "CON3116 - EDUCAÇÃO FISCAL": {
+        "Notas": [
+          9.63,
+          9.64
+        ],
+        "Desvios": [
+          1.2,
+          1.47
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.635000000000002,
+        "MediaDeDesvios": 1.335,
+        "NotaMediana": 9.64
+      },
+      "CON4501 - INTRODUÇÃO À AUDITORIA": {
+        "Notas": [
+          9.1
+        ],
+        "Desvios": [
+          2.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 9.1
+      },
+      "CON4408 - MERCADO FINANCEIRO E DE CAPITAL": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.15
+      },
+      "CON3203 - INTRODUCAO A CIENCIA ATUARIAL": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.6
+      },
+      "CON4302 - METODOLOGIA DA PESQUISA EM CONTABILIDADE": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.62
+      }
+    },
+    "DesvioDeNotas": 0.22792542640082963,
+    "MediaDeNotas": 9.42,
+    "MediaDeDesvios": 1.6600000000000001,
+    "NotaMediana": 9.6
+  },
+  "YURI GOMES PAIVA AZEVEDO": {
+    "Notas": [
+      9.38,
+      9.49,
+      9.56,
+      9.57,
+      9.6,
+      9.65,
+      9.7,
+      9.79,
+      9.86
+    ],
+    "Desvios": [
+      1.47,
+      1.85,
+      1.89,
+      1.52,
+      1.12,
+      1.17,
+      1.62,
+      1.52,
+      1.22
+    ],
+    "Componentes": {
+      "CON4203 - ANÁLISE DE DADOS CONTABEIS": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.65
+      },
+      "CON3101 - CONTABILIDADE BASICA I": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.57
+      },
+      "CON4703 - CONTROLADORIA EMPRESARIAL": {
+        "Notas": [
+          9.38,
+          9.6
+        ],
+        "Desvios": [
+          1.89,
+          1.52
+        ],
+        "DesvioDeNotas": 0.10999999999999943,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.705,
+        "NotaMediana": 9.6
+      },
+      "CON4302 - METODOLOGIA DA PESQUISA EM CONTABILIDADE": {
+        "Notas": [
+          9.79,
+          9.86
+        ],
+        "Desvios": [
+          1.52,
+          1.12
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.825,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.86
+      },
+      "CON4502 - AUDITORIA EMPRESARIAL": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.7
+      },
+      "CON0002 - CONTABILIDADE APLICADA A ADMINISTRACAO": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.56
+      },
+      "CON3805 - PRATICA CONTABIL V": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.49
+      }
+    },
+    "DesvioDeNotas": 0.13934591472525182,
+    "MediaDeNotas": 9.622222222222222,
+    "MediaDeDesvios": 1.4866666666666668,
+    "NotaMediana": 9.6
+  },
+  "IVANIELLY DEYSE DE PAIVA MOURA": {
+    "Notas": [
+      9.39,
+      9.57,
+      9.71
+    ],
+    "Desvios": [
+      1.24,
+      1.48,
+      1.37
+    ],
+    "Componentes": {
+      "CON4104 - CONTABILIDADE INTERMEDIÁRIA II": {
+        "Notas": [
+          9.57,
+          9.71
+        ],
+        "Desvios": [
+          1.24,
+          1.48
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.3599999999999999,
+        "NotaMediana": 9.71
+      },
+      "CON4802 - PRÁTICA EMPRESARIAL II": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.13097921802925677,
+    "MediaDeNotas": 9.556666666666667,
+    "MediaDeDesvios": 1.3633333333333333,
+    "NotaMediana": 9.57
+  },
+  "JOAO VICTOR JOAQUIM DOS SANTOS": {
+    "Notas": [
+      8.86,
+      9.21,
+      9.24,
+      9.25
+    ],
+    "Desvios": [
+      1.76,
+      1.51,
+      1.25,
+      1.39
+    ],
+    "Componentes": {
+      "CON0002 - CONTABILIDADE APLICADA A ADMINISTRACAO": {
+        "Notas": [
+          8.86
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.86,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 8.86
+      },
+      "CON4709 - EMPREENDEDORISMO PARA CONTADORES": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.25
+      },
+      "CON4407 - FINANÇAS CORPORATIVAS": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.21
+      },
+      "CON4408 - MERCADO FINANCEIRO E DE CAPITAL": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.24
+      }
+    },
+    "DesvioDeNotas": 0.16232683080747964,
+    "MediaDeNotas": 9.14,
+    "MediaDeDesvios": 1.4774999999999998,
+    "NotaMediana": 9.24
+  },
+  "MARKE GEISY DA SILVA DANTAS": {
+    "Notas": [
+      9.59,
+      9.77
+    ],
+    "Desvios": [
+      1.25,
+      1.21
+    ],
+    "Componentes": {
+      "CON4203 - ANÁLISE DE DADOS CONTABEIS": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.77
+      },
+      "CON4501 - INTRODUÇÃO À AUDITORIA": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.08999999999999986,
+    "MediaDeNotas": 9.68,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.77
+  },
+  "RONALDO JOSE REGO DE ARAUJO": {
+    "Notas": [
+      8.94,
+      9.16,
+      9.26,
+      9.7
+    ],
+    "Desvios": [
+      1.71,
+      1.1,
+      1.76,
+      1.36
+    ],
+    "Componentes": {
+      "CON4604 - ANÁLISE FINANCEIRA GOVERNAMENTAL": {
+        "Notas": [
+          9.16
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.16
+      },
+      "CON4605 - AUDITORIA GOVERNAMENTAL": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.7
+      },
+      "CON3604 - AUDITORIA GOVERNAMENTAL": {
+        "Notas": [
+          8.94
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.94,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 8.94
+      },
+      "CON4803 - PRÁTICA EMPRESARIAL III": {
+        "Notas": [
+          9.26
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.26,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.26
+      }
+    },
+    "DesvioDeNotas": 0.2765411361804965,
+    "MediaDeNotas": 9.264999999999999,
+    "MediaDeDesvios": 1.4825000000000002,
+    "NotaMediana": 9.26
+  },
+  "VICTOR GODEIRO DE MEDEIROS LIMA": {
+    "Notas": [
+      7.97,
+      9.07,
+      9.14,
+      9.58
+    ],
+    "Desvios": [
+      2.28,
+      1.22,
+      1.52,
+      1.73
+    ],
+    "Componentes": {
+      "CON0127 - CONTABILIDADE E ANALISE DE BALANCO": {
+        "Notas": [
+          7.97
+        ],
+        "Desvios": [
+          2.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.97,
+        "MediaDeDesvios": 2.28,
+        "NotaMediana": 7.97
+      },
+      "CON4601 - ELEMENTOS DE ADMINISTRAÇÃO PÚBLICA": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.58
+      },
+      "CON3606 - GESTAO DE ORCAMENTO PUBLICO": {
+        "Notas": [
+          9.14
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.14
+      },
+      "CON3701 - INTRODUCAO AO MERCADO DE CAPITAIS": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.07
+      }
+    },
+    "DesvioDeNotas": 0.5931694530233331,
+    "MediaDeNotas": 8.940000000000001,
+    "MediaDeDesvios": 1.6875,
+    "NotaMediana": 9.14
+  }
+}
