@@ -1,0 +1,938 @@
+{
+  "BERGSON GUEDES BEZERRA": {
+    "Notas": [
+      9.41,
+      9.43,
+      9.45,
+      9.52,
+      9.56,
+      9.7,
+      9.71
+    ],
+    "Desvios": [
+      1.8,
+      1.36,
+      1.63,
+      1.84,
+      1.77,
+      1.18,
+      1.43
+    ],
+    "Componentes": {
+      "CAC2002 - INSTRUMENTAÇÃO PARA AS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          9.41,
+          9.7
+        ],
+        "Desvios": [
+          1.8,
+          1.77
+        ],
+        "DesvioDeNotas": 0.14499999999999957,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.7850000000000001,
+        "NotaMediana": 9.7
+      },
+      "CAC2011 - METEOROLOGIA POR SATÉLITES": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.45
+      },
+      "CAC2004 - AGROMETEOROLOGIA": {
+        "Notas": [
+          9.56,
+          9.71
+        ],
+        "Desvios": [
+          1.63,
+          1.18
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.635000000000002,
+        "MediaDeDesvios": 1.4049999999999998,
+        "NotaMediana": 9.71
+      },
+      "CAC2007 - INTERAÇÕES NO SISTEMA SOLO-VEGETAÇÃO-ATMOSFERA": {
+        "Notas": [
+          9.43,
+          9.52
+        ],
+        "Desvios": [
+          1.84,
+          1.43
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.475,
+        "MediaDeDesvios": 1.635,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.11489125293076073,
+    "MediaDeNotas": 9.540000000000001,
+    "MediaDeDesvios": 1.5728571428571427,
+    "NotaMediana": 9.52
+  },
+  "CLAUDIO MOISES SANTOS E SILVA": {
+    "Notas": [
+      8.31,
+      8.93,
+      9.17,
+      9.31,
+      9.37,
+      9.46
+    ],
+    "Desvios": [
+      2.29,
+      1.29,
+      2.06,
+      1.51,
+      1.37,
+      1.14
+    ],
+    "Componentes": {
+      "CAC2009 - METEOROLOGIA DINÂMICA I": {
+        "Notas": [
+          8.31,
+          9.46
+        ],
+        "Desvios": [
+          2.29,
+          1.51
+        ],
+        "DesvioDeNotas": 0.5750000000000002,
+        "MediaDeNotas": 8.885000000000002,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.46
+      },
+      "CAC2015 - METEOROLOGIA DINÂMICA II": {
+        "Notas": [
+          9.17,
+          9.37
+        ],
+        "Desvios": [
+          1.29,
+          1.14
+        ],
+        "DesvioDeNotas": 0.09999999999999964,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 1.2149999999999999,
+        "NotaMediana": 9.37
+      },
+      "CAC0003 - CÁLCULO III - EQUAÇÕES DIFERENCIAIS APLICADAS ÀS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          8.93
+        ],
+        "Desvios": [
+          2.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.93,
+        "MediaDeDesvios": 2.06,
+        "NotaMediana": 8.93
+      },
+      "CAC2019 - PREVISÃO NUMÉRICA DO TEMPO": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.31
+      }
+    },
+    "DesvioDeNotas": 0.388175933766579,
+    "MediaDeNotas": 9.091666666666667,
+    "MediaDeDesvios": 1.61,
+    "NotaMediana": 9.31
+  },
+  "CRISTIANO PRESTRELO DE OLIVEIRA": {
+    "Notas": [
+      9.13,
+      9.37,
+      9.52,
+      9.54,
+      9.66,
+      9.69,
+      9.77
+    ],
+    "Desvios": [
+      1.77,
+      0.94,
+      1.66,
+      1.73,
+      1.28,
+      1.42,
+      0.86
+    ],
+    "Componentes": {
+      "CAC3001 - INFORMÁTICA BÁSICA APLICADA ÀS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          9.13,
+          9.66
+        ],
+        "Desvios": [
+          1.77,
+          1.73
+        ],
+        "DesvioDeNotas": 0.2649999999999997,
+        "MediaDeNotas": 9.395,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 9.66
+      },
+      "CAC2018 - METEOROLOGIA DE MESOESCALA": {
+        "Notas": [
+          9.52,
+          9.69
+        ],
+        "Desvios": [
+          0.94,
+          1.28
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.605,
+        "MediaDeDesvios": 1.1099999999999999,
+        "NotaMediana": 9.69
+      },
+      "CAC2003 - CLIMATOLOGIA GERAL": {
+        "Notas": [
+          9.37,
+          9.54
+        ],
+        "Desvios": [
+          1.66,
+          1.42
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.454999999999998,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.54
+      },
+      "CAC3002 - COMPUTAÇÃO AVANÇADA APLICADA ÀS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          0.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 0.86,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.20205071095128138,
+    "MediaDeNotas": 9.525714285714285,
+    "MediaDeDesvios": 1.3800000000000001,
+    "NotaMediana": 9.54
+  },
+  "DAVID MENDES": {
+    "Notas": [
+      9.07,
+      9.09,
+      9.56,
+      9.6,
+      9.63
+    ],
+    "Desvios": [
+      1.54,
+      1.32,
+      2.05,
+      1.68,
+      1.75
+    ],
+    "Componentes": {
+      "CAC2005 - MICROMETEOROLOGIA E MICROCLIMATOLOGIA": {
+        "Notas": [
+          9.56,
+          9.63
+        ],
+        "Desvios": [
+          1.54,
+          1.68
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.595,
+        "MediaDeDesvios": 1.6099999999999999,
+        "NotaMediana": 9.63
+      },
+      "CAC1004 - FÍSICA IV: TERMODINÂMICA DA ATMOSFERA": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.6
+      },
+      "CAC1003 - FÍSICA III: INTRODUÇÃO AOS FLUIDOS E TERMODINÂMICA DA ATMOSFERA": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          2.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 9.09
+      },
+      "CAC9002 - MUDANÇAS CLIMÁTICAS GLOBAIS: MODELAGEM E OBSERVAÇÕES": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 9.07
+      }
+    },
+    "DesvioDeNotas": 0.2541653005427768,
+    "MediaDeNotas": 9.39,
+    "MediaDeDesvios": 1.668,
+    "NotaMediana": 9.56
+  },
+  "HUMBERTO SCALCO GIMENES": {
+    "Notas": [
+      7.87,
+      8.03,
+      8.39,
+      8.66,
+      8.71
+    ],
+    "Desvios": [
+      2.45,
+      2.59,
+      2.11,
+      3.02,
+      2.94
+    ],
+    "Componentes": {
+      "CAC0003 - CÁLCULO III - EQUAÇÕES DIFERENCIAIS APLICADAS ÀS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          8.39
+        ],
+        "Desvios": [
+          2.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.39,
+        "MediaDeDesvios": 2.45,
+        "NotaMediana": 8.39
+      },
+      "CAC1001 - FÍSICA I APLICADA ÀS CIÊNCIAS ATMOSFÉRICAS: MECÂNICA": {
+        "Notas": [
+          8.71
+        ],
+        "Desvios": [
+          2.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.71,
+        "MediaDeDesvios": 2.59,
+        "NotaMediana": 8.71
+      },
+      "CAC1003 - FÍSICA III: INTRODUÇÃO AOS FLUIDOS E TERMODINÂMICA DA ATMOSFERA": {
+        "Notas": [
+          8.66
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.66,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 8.66
+      },
+      "CAC0002 - CÁLCULO II APLICADO ÀS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          7.87
+        ],
+        "Desvios": [
+          3.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.87,
+        "MediaDeDesvios": 3.02,
+        "NotaMediana": 7.87
+      },
+      "CAC1002 - FÍSICA II: CONCEITOS E APLICAÇÕES DE ONDAS E ÓPTICA EM CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          8.03
+        ],
+        "Desvios": [
+          2.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.03,
+        "MediaDeDesvios": 2.94,
+        "NotaMediana": 8.03
+      }
+    },
+    "DesvioDeNotas": 0.3342095151248693,
+    "MediaDeNotas": 8.332,
+    "MediaDeDesvios": 2.622,
+    "NotaMediana": 8.39
+  },
+  "JONATHAN MOTA DA SILVA": {
+    "Notas": [
+      6.21,
+      8.3,
+      8.68,
+      8.68,
+      8.8,
+      8.99,
+      9.14,
+      9.29
+    ],
+    "Desvios": [
+      2.26,
+      2.3,
+      2.15,
+      3.2,
+      2.55,
+      2.03,
+      2.37,
+      1.58
+    ],
+    "Componentes": {
+      "CAC0052 - HIDROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          8.3,
+          8.68,
+          8.99
+        ],
+        "Desvios": [
+          2.26,
+          2.55,
+          2.03
+        ],
+        "DesvioDeNotas": 0.2821740991342439,
+        "MediaDeNotas": 8.656666666666666,
+        "MediaDeDesvios": 2.28,
+        "NotaMediana": 8.68
+      },
+      "CAC2006 - HIDROLOGIA GERAL": {
+        "Notas": [
+          8.68,
+          9.14
+        ],
+        "Desvios": [
+          2.3,
+          2.37
+        ],
+        "DesvioDeNotas": 0.23000000000000043,
+        "MediaDeNotas": 8.91,
+        "MediaDeDesvios": 2.335,
+        "NotaMediana": 9.14
+      },
+      "CAC1103 - METEOROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          8.8,
+          9.29
+        ],
+        "Desvios": [
+          2.15,
+          1.58
+        ],
+        "DesvioDeNotas": 0.24499999999999922,
+        "MediaDeNotas": 9.045,
+        "MediaDeDesvios": 1.865,
+        "NotaMediana": 9.29
+      },
+      "CAC9006 - MODELAGEM HIDROLÓGICA": {
+        "Notas": [
+          6.21
+        ],
+        "Desvios": [
+          3.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.21,
+        "MediaDeDesvios": 3.2,
+        "NotaMediana": 6.21
+      }
+    },
+    "DesvioDeNotas": 0.9159481085192545,
+    "MediaDeNotas": 8.51125,
+    "MediaDeDesvios": 2.3049999999999997,
+    "NotaMediana": 8.8
+  },
+  "JUDITH JOHANNA HOELZEMANN": {
+    "Notas": [
+      8.91,
+      8.99,
+      8.99,
+      9.03,
+      9.16,
+      9.24
+    ],
+    "Desvios": [
+      2.15,
+      1.82,
+      1.89,
+      2.28,
+      1.71,
+      1.33
+    ],
+    "Componentes": {
+      "CAC2001 - INTRODUÇÃO ÀS CIÊNCIAS DA ATMOSFERA": {
+        "Notas": [
+          8.99,
+          8.99
+        ],
+        "Desvios": [
+          2.15,
+          2.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.99,
+        "MediaDeDesvios": 2.215,
+        "NotaMediana": 8.99
+      },
+      "CAC2012 - POLUIÇÃO ATMOSFÉRICA": {
+        "Notas": [
+          8.91,
+          9.03,
+          9.16,
+          9.24
+        ],
+        "Desvios": [
+          1.82,
+          1.89,
+          1.71,
+          1.33
+        ],
+        "DesvioDeNotas": 0.12579745625409136,
+        "MediaDeNotas": 9.085,
+        "MediaDeDesvios": 1.6875,
+        "NotaMediana": 9.16
+      }
+    },
+    "DesvioDeNotas": 0.11205157542647744,
+    "MediaDeNotas": 9.053333333333333,
+    "MediaDeDesvios": 1.863333333333333,
+    "NotaMediana": 9.03
+  },
+  "LARA DE MELO BARBOSA ANDRADE": {
+    "Notas": [
+      7.98,
+      8.32,
+      8.55,
+      8.57,
+      8.6,
+      8.89
+    ],
+    "Desvios": [
+      2.14,
+      1.55,
+      1.89,
+      2.32,
+      1.89,
+      1.87
+    ],
+    "Componentes": {
+      "CAC4002 - CLIMATOLOGIA ESTATÍSTICA II - MÉTODOS ESTATÍSTICOS APLICADOS ÀS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          7.98,
+          8.32
+        ],
+        "Desvios": [
+          2.14,
+          2.32
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 8.15,
+        "MediaDeDesvios": 2.23,
+        "NotaMediana": 8.32
+      },
+      "CAC9005 - CONCEITOS BÁSICOS EM DEMOGRAFIA: POPULAÇÃO E CLIMA": {
+        "Notas": [
+          8.55,
+          8.89
+        ],
+        "Desvios": [
+          1.55,
+          1.89
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 8.72,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 8.89
+      },
+      "CAC4001 - CLIMATOLOGIA ESTATÍSTICA I: CÁLCULO DAS PROBABILIDADES": {
+        "Notas": [
+          8.57,
+          8.6
+        ],
+        "Desvios": [
+          1.89,
+          1.87
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 8.585,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 8.6
+      }
+    },
+    "DesvioDeNotas": 0.28016364265669214,
+    "MediaDeNotas": 8.485000000000001,
+    "MediaDeDesvios": 1.9433333333333334,
+    "NotaMediana": 8.57
+  },
+  "MARCIO MACHADO CINTRA": {
+    "Notas": [
+      8.49,
+      9.11,
+      9.33,
+      9.36,
+      9.47,
+      9.48,
+      9.63,
+      9.82
+    ],
+    "Desvios": [
+      1.8,
+      1.79,
+      1.33,
+      1.09,
+      2.25,
+      1.83,
+      1,
+      1.12
+    ],
+    "Componentes": {
+      "CAC0001 - CÁLCULO I APLICADO ÀS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          9.33,
+          9.36
+        ],
+        "Desvios": [
+          1.8,
+          2.25
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.344999999999999,
+        "MediaDeDesvios": 2.025,
+        "NotaMediana": 9.36
+      },
+      "CAC1103 - METEOROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          8.49,
+          9.11
+        ],
+        "Desvios": [
+          1.79,
+          1.83
+        ],
+        "DesvioDeNotas": 0.3099999999999996,
+        "MediaDeNotas": 8.8,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.11
+      },
+      "CAC0004 - CÁLCULO IV - CÁLCULO VETORIAL E ÁLGEBRA LINEAR APLICADO ÀS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          9.63,
+          9.82
+        ],
+        "Desvios": [
+          1.33,
+          1
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.725000000000001,
+        "MediaDeDesvios": 1.165,
+        "NotaMediana": 9.82
+      },
+      "CAC2016 - INTERAÇÕES NO SISTEMA ATMOSFERA-OCEANO": {
+        "Notas": [
+          9.47,
+          9.48
+        ],
+        "Desvios": [
+          1.09,
+          1.12
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.475000000000001,
+        "MediaDeDesvios": 1.105,
+        "NotaMediana": 9.48
+      }
+    },
+    "DesvioDeNotas": 0.37529779842146704,
+    "MediaDeNotas": 9.336250000000001,
+    "MediaDeDesvios": 1.52625,
+    "NotaMediana": 9.47
+  },
+  "PAULO SERGIO LUCIO": {
+    "Notas": [
+      5.88,
+      6.14,
+      7.02,
+      8.23,
+      8.25,
+      8.48,
+      8.85
+    ],
+    "Desvios": [
+      1.92,
+      2.17,
+      2.54,
+      2.98,
+      1.93,
+      2.85,
+      2.84
+    ],
+    "Componentes": {
+      "CAC2013 - BIOMETEOROLOGIA E BIOCLIMATOLOGIA": {
+        "Notas": [
+          8.48,
+          8.85
+        ],
+        "Desvios": [
+          1.92,
+          1.93
+        ],
+        "DesvioDeNotas": 0.1849999999999996,
+        "MediaDeNotas": 8.665,
+        "MediaDeDesvios": 1.9249999999999998,
+        "NotaMediana": 8.85
+      },
+      "CAC4004 - CLIMATOLOGIA ESTATÍSTICA III - MÉTODOS MULTIVARIADOS EM CIÊNCIAS CLIMÁTICAS": {
+        "Notas": [
+          8.25
+        ],
+        "Desvios": [
+          2.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.25,
+        "MediaDeDesvios": 2.17,
+        "NotaMediana": 8.25
+      },
+      "CAC4003 - CLIMATOLOGIA ESTOCÁSTICA I - ANÁLISE DE SÉRIES TEMPORAIS PARA AS CIÊNCIAS CLIMÁTICAS": {
+        "Notas": [
+          6.14,
+          8.23
+        ],
+        "Desvios": [
+          2.54,
+          2.85
+        ],
+        "DesvioDeNotas": 1.0450000000000004,
+        "MediaDeNotas": 7.1850000000000005,
+        "MediaDeDesvios": 2.6950000000000003,
+        "NotaMediana": 8.23
+      },
+      "CAC4005 - CLIMATOLOGIA ESTOCÁSTICA II - MODELAGEM GEOESTATÍSTICA DE VARIÁVEIS CLIMATOLÓGICAS": {
+        "Notas": [
+          5.88,
+          7.02
+        ],
+        "Desvios": [
+          2.98,
+          2.84
+        ],
+        "DesvioDeNotas": 0.5699999999999998,
+        "MediaDeNotas": 6.449999999999999,
+        "MediaDeDesvios": 2.91,
+        "NotaMediana": 7.02
+      }
+    },
+    "DesvioDeNotas": 1.1061645447219868,
+    "MediaDeNotas": 7.55,
+    "MediaDeDesvios": 2.461428571428571,
+    "NotaMediana": 8.23
+  },
+  "WEBER ANDRADE GONCALVES": {
+    "Notas": [
+      9.11,
+      9.51,
+      9.59,
+      9.59,
+      9.73,
+      9.88,
+      9.9
+    ],
+    "Desvios": [
+      1.71,
+      1.27,
+      0.93,
+      1.35,
+      1.13,
+      1.39,
+      1.15
+    ],
+    "Componentes": {
+      "CAC2008 - METEOROLOGIA SINÓTICA I": {
+        "Notas": [
+          9.11,
+          9.73
+        ],
+        "Desvios": [
+          1.71,
+          1.13
+        ],
+        "DesvioDeNotas": 0.3100000000000005,
+        "MediaDeNotas": 9.42,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.73
+      },
+      "CAC1005 - FÍSICA DAS NUVENS E DA PRECIPITAÇÃO": {
+        "Notas": [
+          9.51,
+          9.59
+        ],
+        "Desvios": [
+          1.27,
+          1.39
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.59
+      },
+      "CAC2014 - METEOROLOGIA SINÓTICA II": {
+        "Notas": [
+          9.88,
+          9.9
+        ],
+        "Desvios": [
+          0.93,
+          1.15
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.9
+      },
+      "CAC2017 - LABORATÓRIO DE ANÁLISE E PREVISÃO DO TEMPO": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.24841538616122966,
+    "MediaDeNotas": 9.615714285714287,
+    "MediaDeDesvios": 1.2757142857142856,
+    "NotaMediana": 9.59
+  },
+  "RONABSON CARDOSO FERNANDES": {
+    "Notas": [
+      7.31,
+      7.85,
+      8.14,
+      8.51,
+      8.52,
+      8.57
+    ],
+    "Desvios": [
+      2.17,
+      2.23,
+      2.71,
+      2.74,
+      2.12,
+      2.55
+    ],
+    "Componentes": {
+      "CAC2013 - BIOMETEOROLOGIA E BIOCLIMATOLOGIA": {
+        "Notas": [
+          8.57
+        ],
+        "Desvios": [
+          2.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.57,
+        "MediaDeDesvios": 2.17,
+        "NotaMediana": 8.57
+      },
+      "CAC0003 - CÁLCULO III - EQUAÇÕES DIFERENCIAIS APLICADAS ÀS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          8.51
+        ],
+        "Desvios": [
+          2.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.51,
+        "MediaDeDesvios": 2.23,
+        "NotaMediana": 8.51
+      },
+      "CAC1003 - FÍSICA III: INTRODUÇÃO AOS FLUIDOS E TERMODINÂMICA DA ATMOSFERA": {
+        "Notas": [
+          8.14
+        ],
+        "Desvios": [
+          2.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.14,
+        "MediaDeDesvios": 2.71,
+        "NotaMediana": 8.14
+      },
+      "CAC0052 - HIDROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          7.85
+        ],
+        "Desvios": [
+          2.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.85,
+        "MediaDeDesvios": 2.74,
+        "NotaMediana": 7.85
+      },
+      "CAC0002 - CÁLCULO II APLICADO ÀS CIÊNCIAS ATMOSFÉRICAS": {
+        "Notas": [
+          8.52
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.52,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 8.52
+      },
+      "CAC9003 - ENERGIA E MEIO AMBIENTE": {
+        "Notas": [
+          7.31
+        ],
+        "Desvios": [
+          2.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.31,
+        "MediaDeDesvios": 2.55,
+        "NotaMediana": 7.31
+      }
+    },
+    "DesvioDeNotas": 0.45434935163740847,
+    "MediaDeNotas": 8.15,
+    "MediaDeDesvios": 2.4200000000000004,
+    "NotaMediana": 8.51
+  }
+}

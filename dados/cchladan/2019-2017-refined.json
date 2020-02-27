@@ -1,0 +1,1166 @@
+{
+  "ANA GRETEL ECHAZU": {
+    "Notas": [
+      9.2,
+      9.32,
+      9.42,
+      9.56,
+      9.62,
+      9.65,
+      9.75,
+      9.76,
+      9.83
+    ],
+    "Desvios": [
+      1.95,
+      1.49,
+      1.63,
+      1.41,
+      1.61,
+      1.5,
+      1.53,
+      1.74,
+      1.32
+    ],
+    "Componentes": {
+      "DAN0103 - ANTROPOLOGIA E O ESTUDO DA CULTURA": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          1.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.95,
+        "NotaMediana": 9.2
+      },
+      "DAN0024 - DIREITOS HUMANOS, DIVERSIDADE CULTURAL E RELAÇÕES ÉTNICO-RACIAIS": {
+        "Notas": [
+          9.56,
+          9.75,
+          9.76,
+          9.83
+        ],
+        "Desvios": [
+          1.49,
+          1.63,
+          1.53,
+          1.74
+        ],
+        "DesvioDeNotas": 0.10012492197250372,
+        "MediaDeNotas": 9.725,
+        "MediaDeDesvios": 1.5975000000000001,
+        "NotaMediana": 9.76
+      },
+      "DAN0201 - TEORIA ANTROPOLOGICA I": {
+        "Notas": [
+          9.42,
+          9.65
+        ],
+        "Desvios": [
+          1.41,
+          1.61
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.535,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.65
+      },
+      "DAN0027 - ANTROPOLOGIA DO CORPO": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.62
+      },
+      "DAN0016 - OFICINA II DE MÉTODOS QUALITATIVOS": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.32
+      }
+    },
+    "DesvioDeNotas": 0.20192285533384494,
+    "MediaDeNotas": 9.56777777777778,
+    "MediaDeDesvios": 1.5755555555555556,
+    "NotaMediana": 9.62
+  },
+  "ANGELA MERCEDES FACUNDO NAVIA": {
+    "Notas": [
+      9.16,
+      9.63,
+      9.64,
+      9.82,
+      9.82,
+      9.82
+    ],
+    "Desvios": [
+      1.79,
+      2.22,
+      1.34,
+      1.54,
+      1.08,
+      1.59
+    ],
+    "Componentes": {
+      "DAN0136 - INTRODUÇÃO À ANTROPOLOGIA": {
+        "Notas": [
+          9.82,
+          9.82
+        ],
+        "Desvios": [
+          1.79,
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.665,
+        "NotaMediana": 9.82
+      },
+      "DAN0403 - TEORIA ANTROPOLOGICA III": {
+        "Notas": [
+          9.16,
+          9.82
+        ],
+        "Desvios": [
+          2.22,
+          1.34
+        ],
+        "DesvioDeNotas": 0.33000000000000007,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.7800000000000002,
+        "NotaMediana": 9.82
+      },
+      "DAN0306 - ANTROPOLOGIA DO CORPO E DA SAÚDE": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.64
+      },
+      "DAN0024 - DIREITOS HUMANOS, DIVERSIDADE CULTURAL E RELAÇÕES ÉTNICO-RACIAIS": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.2335534675876645,
+    "MediaDeNotas": 9.648333333333335,
+    "MediaDeDesvios": 1.5933333333333335,
+    "NotaMediana": 9.82
+  },
+  "CARLOS GUILHERME OCTAVIANO DO VALLE": {
+    "Notas": [
+      7.36,
+      7.79,
+      8.34,
+      8.62
+    ],
+    "Desvios": [
+      2.53,
+      2.83,
+      1.81,
+      1.39
+    ],
+    "Componentes": {
+      "DAN0111 - ANTROPOLOGIA POLITICA": {
+        "Notas": [
+          7.79
+        ],
+        "Desvios": [
+          2.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.79,
+        "MediaDeDesvios": 2.53,
+        "NotaMediana": 7.79
+      },
+      "DAN0306 - ANTROPOLOGIA DO CORPO E DA SAÚDE": {
+        "Notas": [
+          7.36
+        ],
+        "Desvios": [
+          2.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.36,
+        "MediaDeDesvios": 2.83,
+        "NotaMediana": 7.36
+      },
+      "DAN0016 - OFICINA II DE MÉTODOS QUALITATIVOS": {
+        "Notas": [
+          8.34
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.34,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 8.34
+      },
+      "DAN0034 - ANTROPOLOGIA DO CORPO E DA SAÚDE": {
+        "Notas": [
+          8.62
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.62,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 8.62
+      }
+    },
+    "DesvioDeNotas": 0.48751282034424454,
+    "MediaDeNotas": 8.0275,
+    "MediaDeDesvios": 2.14,
+    "NotaMediana": 8.34
+  },
+  "ELIANE TANIA MARTINS DE FREITAS": {
+    "Notas": [
+      9.25,
+      9.27,
+      9.34,
+      9.47,
+      9.6
+    ],
+    "Desvios": [
+      1.84,
+      1.78,
+      1.91,
+      1.95,
+      1.54
+    ],
+    "Componentes": {
+      "DAN0134 - CULTURA BRASILEIRA": {
+        "Notas": [
+          9.25,
+          9.47,
+          9.6
+        ],
+        "Desvios": [
+          1.84,
+          1.91,
+          1.95
+        ],
+        "DesvioDeNotas": 0.14445299120013627,
+        "MediaDeNotas": 9.44,
+        "MediaDeDesvios": 1.9000000000000001,
+        "NotaMediana": 9.47
+      },
+      "DAN0136 - INTRODUÇÃO À ANTROPOLOGIA": {
+        "Notas": [
+          9.27
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.27
+      },
+      "DAN0008 - ANTROPOLOGIA BRASILEIRA": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.13184839779079613,
+    "MediaDeNotas": 9.386000000000001,
+    "MediaDeDesvios": 1.8039999999999998,
+    "NotaMediana": 9.34
+  },
+  "FRANCISCA DE SOUZA MILLER": {
+    "Notas": [
+      8.04,
+      8.77,
+      8.88,
+      9.11,
+      9.62
+    ],
+    "Desvios": [
+      2.51,
+      2.52,
+      2.04,
+      1.62,
+      0.94
+    ],
+    "Componentes": {
+      "DAN0301 - TEORIA ANTROPOLOGICA II": {
+        "Notas": [
+          8.04,
+          8.77,
+          8.88,
+          9.11
+        ],
+        "Desvios": [
+          2.51,
+          2.52,
+          2.04,
+          1.62
+        ],
+        "DesvioDeNotas": 0.40031237802496217,
+        "MediaDeNotas": 8.7,
+        "MediaDeDesvios": 2.1725,
+        "NotaMediana": 8.88
+      },
+      "DAN0012 - CULTURA E MEIO AMBIENTE": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          0.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 0.94,
+        "NotaMediana": 9.62
+      }
+    },
+    "DesvioDeNotas": 0.5134432782693722,
+    "MediaDeNotas": 8.883999999999999,
+    "MediaDeDesvios": 1.9259999999999997,
+    "NotaMediana": 8.88
+  },
+  "LISABETE CORADINI": {
+    "Notas": [
+      8.69,
+      8.82,
+      9.2
+    ],
+    "Desvios": [
+      2.35,
+      1.59,
+      2.18
+    ],
+    "Componentes": {
+      "DAN0306 - ANTROPOLOGIA DO CORPO E DA SAÚDE": {
+        "Notas": [
+          8.69
+        ],
+        "Desvios": [
+          2.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.69,
+        "MediaDeDesvios": 2.35,
+        "NotaMediana": 8.69
+      },
+      "DAN0017 - ATIVIDADE CURRICULAR EM COMUNIDADE": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.2
+      },
+      "DAN0029 - ANTROPOLOGIA E IMAGEM": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          2.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 2.18,
+        "NotaMediana": 8.82
+      }
+    },
+    "DesvioDeNotas": 0.21638443156156623,
+    "MediaDeNotas": 8.903333333333334,
+    "MediaDeDesvios": 2.0400000000000005,
+    "NotaMediana": 8.82
+  },
+  "LUIZ CARVALHO DE ASSUNCAO": {
+    "Notas": [
+      9.03,
+      9.36,
+      9.41,
+      9.56,
+      9.63,
+      9.63,
+      9.75
+    ],
+    "Desvios": [
+      1.64,
+      1.89,
+      2.33,
+      1.33,
+      1.46,
+      1.1,
+      1.43
+    ],
+    "Componentes": {
+      "DAN0107 - ANTROPOLOGIA DE RELIGIAO": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.41
+      },
+      "DAN0507 - PLURALIDADE CULTURAL E EDUCACAO": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.36
+      },
+      "DAN0008 - ANTROPOLOGIA BRASILEIRA": {
+        "Notas": [
+          9.03,
+          9.63
+        ],
+        "Desvios": [
+          2.33,
+          1.33
+        ],
+        "DesvioDeNotas": 0.3000000000000007,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.63
+      },
+      "DAN0007 - ANTROPOLOGIA AFRO-BRASILEIRA": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.75
+      },
+      "DAN0010 - ANTROPOLOGIA DAS RELIGIÕES": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.63
+      },
+      "DAN0114 - CULTURA POPULAR": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.56
+      }
+    },
+    "DesvioDeNotas": 0.22235290941773347,
+    "MediaDeNotas": 9.481428571428571,
+    "MediaDeDesvios": 1.5971428571428568,
+    "NotaMediana": 9.56
+  },
+  "MARCOS MARIANO VIANA DA SILVA": {
+    "Notas": [
+      9.54,
+      9.69,
+      9.73,
+      9.75,
+      9.76,
+      9.86,
+      9.87,
+      9.88,
+      9.89,
+      9.93
+    ],
+    "Desvios": [
+      1.3,
+      1.25,
+      1.13,
+      1.36,
+      0.78,
+      1.49,
+      1.32,
+      1.23,
+      1.45,
+      1.53
+    ],
+    "Componentes": {
+      "DAN0027 - ANTROPOLOGIA DO CORPO": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          1.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.93
+      },
+      "DAN0034 - ANTROPOLOGIA DO CORPO E DA SAÚDE": {
+        "Notas": [
+          9.69,
+          9.86
+        ],
+        "Desvios": [
+          1.25,
+          1.45
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.774999999999999,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.86
+      },
+      "DAN0023 - ANTROPOLOGIA E TURISMO": {
+        "Notas": [
+          9.54,
+          9.73,
+          9.75
+        ],
+        "Desvios": [
+          1.13,
+          1.49,
+          1.53
+        ],
+        "DesvioDeNotas": 0.09463379711052308,
+        "MediaDeNotas": 9.673333333333334,
+        "MediaDeDesvios": 1.3833333333333335,
+        "NotaMediana": 9.73
+      },
+      "DAN0024 - DIREITOS HUMANOS, DIVERSIDADE CULTURAL E RELAÇÕES ÉTNICO-RACIAIS": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.88
+      },
+      "DAN0103 - ANTROPOLOGIA E O ESTUDO DA CULTURA": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          0.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 0.78,
+        "NotaMediana": 9.76
+      },
+      "DAN0134 - CULTURA BRASILEIRA": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.89
+      },
+      "DAN0030 - ANTROPOLOGIA DO CORPO": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.87
+      }
+    },
+    "DesvioDeNotas": 0.1129601699715437,
+    "MediaDeNotas": 9.790000000000001,
+    "MediaDeDesvios": 1.284,
+    "NotaMediana": 9.86
+  },
+  "PAULO VICTOR LEITE LOPES": {
+    "Notas": [
+      8.91,
+      9.27,
+      9.47,
+      9.5,
+      9.5,
+      9.57,
+      9.61,
+      9.69,
+      9.77
+    ],
+    "Desvios": [
+      2.39,
+      1.76,
+      1.65,
+      1.5,
+      1.74,
+      1.26,
+      1.12,
+      1.54,
+      1.45
+    ],
+    "Componentes": {
+      "DAN0016 - OFICINA II DE MÉTODOS QUALITATIVOS": {
+        "Notas": [
+          8.91,
+          9.5
+        ],
+        "Desvios": [
+          2.39,
+          1.76
+        ],
+        "DesvioDeNotas": 0.29499999999999993,
+        "MediaDeNotas": 9.205,
+        "MediaDeDesvios": 2.075,
+        "NotaMediana": 9.5
+      },
+      "DAN0030 - ANTROPOLOGIA DO CORPO": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.61
+      },
+      "DAN0112 - ANTROPOLOGIA URBANA": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.69
+      },
+      "DAN0009 - ANTROPOLOGIA DE GÊNERO E DAS SEXUALIDADES": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.47
+      },
+      "DAN0306 - ANTROPOLOGIA DO CORPO E DA SAÚDE": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.57
+      },
+      "DAN0103 - ANTROPOLOGIA E O ESTUDO DA CULTURA": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.12,
+        "NotaMediana": 9.77
+      },
+      "DAN0201 - TEORIA ANTROPOLOGICA I": {
+        "Notas": [
+          9.27,
+          9.5
+        ],
+        "Desvios": [
+          1.54,
+          1.45
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.385,
+        "MediaDeDesvios": 1.495,
+        "NotaMediana": 9.5
+      }
+    },
+    "DesvioDeNotas": 0.2410624630901938,
+    "MediaDeNotas": 9.476666666666667,
+    "MediaDeDesvios": 1.6011111111111112,
+    "NotaMediana": 9.5
+  },
+  "RITA DE CASSIA MARIA NEVES": {
+    "Notas": [
+      9.16,
+      9.2,
+      9.2,
+      9.24,
+      9.5,
+      9.61,
+      9.77
+    ],
+    "Desvios": [
+      2.03,
+      2.15,
+      1.41,
+      2.06,
+      1.52,
+      1.42,
+      0.92
+    ],
+    "Componentes": {
+      "DAN0034 - ANTROPOLOGIA DO CORPO E DA SAÚDE": {
+        "Notas": [
+          9.2,
+          9.24
+        ],
+        "Desvios": [
+          2.03,
+          2.06
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.219999999999999,
+        "MediaDeDesvios": 2.045,
+        "NotaMediana": 9.24
+      },
+      "DAN0501 - TEORIA ANTROPOLOGICA IV": {
+        "Notas": [
+          9.16,
+          9.5
+        ],
+        "Desvios": [
+          2.15,
+          1.52
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.835,
+        "NotaMediana": 9.5
+      },
+      "DAN0027 - ANTROPOLOGIA DO CORPO": {
+        "Notas": [
+          9.2,
+          9.77
+        ],
+        "Desvios": [
+          1.41,
+          1.42
+        ],
+        "DesvioDeNotas": 0.28500000000000014,
+        "MediaDeNotas": 9.485,
+        "MediaDeDesvios": 1.415,
+        "NotaMediana": 9.77
+      },
+      "DAN0012 - CULTURA E MEIO AMBIENTE": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          0.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 0.92,
+        "NotaMediana": 9.61
+      }
+    },
+    "DesvioDeNotas": 0.22429026383010825,
+    "MediaDeNotas": 9.382857142857143,
+    "MediaDeDesvios": 1.6442857142857144,
+    "NotaMediana": 9.24
+  },
+  "ROZELI MARIA PORTO": {
+    "Notas": [
+      9.02,
+      9.47,
+      9.48,
+      9.54,
+      9.76
+    ],
+    "Desvios": [
+      2.33,
+      1.54,
+      1.6,
+      1.16,
+      1.58
+    ],
+    "Componentes": {
+      "DAN0306 - ANTROPOLOGIA DO CORPO E DA SAÚDE": {
+        "Notas": [
+          9.02
+        ],
+        "Desvios": [
+          2.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 2.33,
+        "NotaMediana": 9.02
+      },
+      "DAN0017 - ATIVIDADE CURRICULAR EM COMUNIDADE": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.47
+      },
+      "DAN0030 - ANTROPOLOGIA DO CORPO": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.76
+      },
+      "DAN0403 - TEORIA ANTROPOLOGICA III": {
+        "Notas": [
+          9.48,
+          9.54
+        ],
+        "Desvios": [
+          1.16,
+          1.58
+        ],
+        "DesvioDeNotas": 0.02999999999999936,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.54
+      }
+    },
+    "DesvioDeNotas": 0.24096472770926458,
+    "MediaDeNotas": 9.453999999999999,
+    "MediaDeDesvios": 1.6420000000000001,
+    "NotaMediana": 9.48
+  },
+  "ELISETE SCHWADE": {
+    "Notas": [
+      8.67,
+      9.06,
+      9.24,
+      9.35,
+      9.36
+    ],
+    "Desvios": [
+      1.95,
+      1.78,
+      1.52,
+      1.95,
+      1.62
+    ],
+    "Componentes": {
+      "DAN0103 - ANTROPOLOGIA E O ESTUDO DA CULTURA": {
+        "Notas": [
+          9.06,
+          9.35,
+          9.36
+        ],
+        "Desvios": [
+          1.95,
+          1.78,
+          1.62
+        ],
+        "DesvioDeNotas": 0.13912424503139423,
+        "MediaDeNotas": 9.256666666666666,
+        "MediaDeDesvios": 1.7833333333333332,
+        "NotaMediana": 9.35
+      },
+      "DCS1019 - EDUCAÇÃO NO CAMPO": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.24
+      },
+      "DAN0507 - PLURALIDADE CULTURAL E EDUCACAO": {
+        "Notas": [
+          8.67
+        ],
+        "Desvios": [
+          1.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.67,
+        "MediaDeDesvios": 1.95,
+        "NotaMediana": 8.67
+      }
+    },
+    "DesvioDeNotas": 0.25679563859224697,
+    "MediaDeNotas": 9.136,
+    "MediaDeDesvios": 1.764,
+    "NotaMediana": 9.24
+  },
+  "JOSE GLEBSON VIEIRA": {
+    "Notas": [
+      9.63,
+      9.7,
+      9.7
+    ],
+    "Desvios": [
+      1.52,
+      0.74,
+      1.21
+    ],
+    "Componentes": {
+      "DAN0022 - ANTROPOLOGIA E O ESTUDO DAS RELAÇÕES ÉTNICO-RACIAIS": {
+        "Notas": [
+          9.63,
+          9.7
+        ],
+        "Desvios": [
+          1.52,
+          1.21
+        ],
+        "DesvioDeNotas": 0.034999999999999254,
+        "MediaDeNotas": 9.665,
+        "MediaDeDesvios": 1.365,
+        "NotaMediana": 9.7
+      },
+      "DAN0014 - ETNOLOGIA INDÍGENA": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          0.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 0.74,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.03299831645537151,
+    "MediaDeNotas": 9.676666666666668,
+    "MediaDeDesvios": 1.1566666666666665,
+    "NotaMediana": 9.7
+  },
+  "EDUARDO NEVES ROCHA DE BRITO": {
+    "Notas": [
+      8.91,
+      9.55,
+      9.74,
+      9.77,
+      9.82,
+      9.83
+    ],
+    "Desvios": [
+      1.25,
+      1.34,
+      1.24,
+      1.48,
+      1.31,
+      1.13
+    ],
+    "Componentes": {
+      "DAN0030 - ANTROPOLOGIA DO CORPO": {
+        "Notas": [
+          9.83
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.83
+      },
+      "DAN0034 - ANTROPOLOGIA DO CORPO E DA SAÚDE": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.74
+      },
+      "DAN0023 - ANTROPOLOGIA E TURISMO": {
+        "Notas": [
+          8.91,
+          9.82
+        ],
+        "Desvios": [
+          1.24,
+          1.48
+        ],
+        "DesvioDeNotas": 0.45500000000000007,
+        "MediaDeNotas": 9.365,
+        "MediaDeDesvios": 1.3599999999999999,
+        "NotaMediana": 9.82
+      },
+      "DAN0134 - CULTURA BRASILEIRA": {
+        "Notas": [
+          9.55,
+          9.77
+        ],
+        "Desvios": [
+          1.31,
+          1.13
+        ],
+        "DesvioDeNotas": 0.10999999999999943,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.3236081306491266,
+    "MediaDeNotas": 9.603333333333332,
+    "MediaDeDesvios": 1.2916666666666667,
+    "NotaMediana": 9.77
+  },
+  "JULIANA GONCALVES MELO": {
+    "Notas": [
+      9.43,
+      9.72
+    ],
+    "Desvios": [
+      1.77,
+      0.59
+    ],
+    "Componentes": {
+      "DAN0136 - INTRODUÇÃO À ANTROPOLOGIA": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.43
+      },
+      "DAN0026 - ANTROPOLOGIA DO DIREITO": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          0.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 0.59,
+        "NotaMediana": 9.72
+      }
+    },
+    "DesvioDeNotas": 0.14500000000000046,
+    "MediaDeNotas": 9.575,
+    "MediaDeDesvios": 1.18,
+    "NotaMediana": 9.72
+  },
+  "JULIE ANTOINETTE CAVIGNAC": {
+    "Notas": [
+      8.85,
+      9.43
+    ],
+    "Desvios": [
+      1.71,
+      1.5
+    ],
+    "Componentes": {
+      "DAN0017 - ATIVIDADE CURRICULAR EM COMUNIDADE": {
+        "Notas": [
+          8.85
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.85,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 8.85
+      },
+      "DAN0008 - ANTROPOLOGIA BRASILEIRA": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.43
+      }
+    },
+    "DesvioDeNotas": 0.29000000000000004,
+    "MediaDeNotas": 9.14,
+    "MediaDeDesvios": 1.605,
+    "NotaMediana": 9.43
+  }
+}
