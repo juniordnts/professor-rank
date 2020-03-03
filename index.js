@@ -1,14 +1,8 @@
 
-function desvioPadrao(lista) {
-  let media = lista.reduce((total, valor) => total + valor / lista.length, 0);
-  let variancia = lista.reduce((total, valor) => total + Math.pow(media - valor, 2) / lista.length, 0);
-  let desvioPadrao = Math.sqrt(variancia);
-  return desvioPadrao
-}
-
+const desvioPadrao = require('./util/desvio');
 const fs = require('fs');
-
 const jsonRaw = require('./dados/2019-2017.json');
+
 
 var jsonCluster = {};
 var jsonClusterClasses = {};

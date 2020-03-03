@@ -4,3 +4,5 @@ function desvioPadrao(lista) {
   let desvioPadrao = Math.sqrt(variancia);
   return desvioPadrao
 };
+
+module.exports = desvioPadrao
