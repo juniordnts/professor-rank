@@ -1,5 +1,7 @@
 ## Rank dos Professores UFRN
 
+# [Link para a página](https://juniordnts.github.io/professor-rank/front/index.html)
+
 #### As informações presentes neste relatório são compiladas do Sigaa com os dados fornecidos pela Avaliação Semestral e por esse motivo não expressam nenhuma opinião pessoal do desenvolvedor para com os professores.
 
 ## Screenshot:
