@@ -1,0 +1,704 @@
+[
+    {
+        "Docente": "BERGSON GUEDES BEZERRA",
+        "Componente Curricular": "CAC2002 - INSTRUMENTAÇÃO PARA AS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "44",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "BERGSON GUEDES BEZERRA",
+        "Componente Curricular": "CAC2011 - METEOROLOGIA POR SATÉLITES",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "17",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "CLAUDIO MOISES SANTOS E SILVA",
+        "Componente Curricular": "CAC2009 - METEOROLOGIA DINÂMICA I",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "20",
+        "Média Geral": "8.31",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "CRISTIANO PRESTRELO DE OLIVEIRA",
+        "Componente Curricular": "CAC3001 - INFORMÁTICA BÁSICA APLICADA ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "43",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "CRISTIANO PRESTRELO DE OLIVEIRA",
+        "Componente Curricular": "CAC2018 - METEOROLOGIA DE MESOESCALA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "6",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "DAVID MENDES",
+        "Componente Curricular": "CAC2005 - MICROMETEOROLOGIA E MICROCLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "17",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "HUMBERTO SCALCO GIMENES",
+        "Componente Curricular": "CAC0003 - CÁLCULO III - EQUAÇÕES DIFERENCIAIS APLICADAS ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "6",
+        "Média Geral": "8.39",
+        "Desvio Padrão Geral": "2.45"
+    },
+    {
+        "Docente": "HUMBERTO SCALCO GIMENES",
+        "Componente Curricular": "CAC1001 - FÍSICA I APLICADA ÀS CIÊNCIAS ATMOSFÉRICAS: MECÂNICA",
+        "Turma": "1",
+        "Horário": "246T12",
+        "Discentes": "46",
+        "Média Geral": "8.71",
+        "Desvio Padrão Geral": "2.59"
+    },
+    {
+        "Docente": "HUMBERTO SCALCO GIMENES",
+        "Componente Curricular": "CAC1003 - FÍSICA III: INTRODUÇÃO AOS FLUIDOS E TERMODINÂMICA DA ATMOSFERA",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "12",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "JONATHAN MOTA DA SILVA",
+        "Componente Curricular": "CAC0052 - HIDROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "16",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "JONATHAN MOTA DA SILVA",
+        "Componente Curricular": "CAC2006 - HIDROLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "18",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2.3"
+    },
+    {
+        "Docente": "JUDITH JOHANNA HOELZEMANN",
+        "Componente Curricular": "CAC2001 - INTRODUÇÃO ÀS CIÊNCIAS DA ATMOSFERA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "46",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "JUDITH JOHANNA HOELZEMANN",
+        "Componente Curricular": "CAC2012 - POLUIÇÃO ATMOSFÉRICA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "51",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "LARA DE MELO BARBOSA ANDRADE",
+        "Componente Curricular": "CAC4002 - CLIMATOLOGIA ESTATÍSTICA II - MÉTODOS ESTATÍSTICOS APLICADOS ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "13",
+        "Média Geral": "7.98",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "LARA DE MELO BARBOSA ANDRADE",
+        "Componente Curricular": "CAC9005 - CONCEITOS BÁSICOS EM DEMOGRAFIA: POPULAÇÃO E CLIMA",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "20",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "MARCIO MACHADO CINTRA",
+        "Componente Curricular": "CAC0001 - CÁLCULO I APLICADO ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "52",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "MARCIO MACHADO CINTRA",
+        "Componente Curricular": "CAC1103 - METEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "48",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "PAULO SERGIO LUCIO",
+        "Componente Curricular": "CAC2013 - BIOMETEOROLOGIA E BIOCLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "9",
+        "Média Geral": "8.48",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "PAULO SERGIO LUCIO",
+        "Componente Curricular": "CAC4004 - CLIMATOLOGIA ESTATÍSTICA III - MÉTODOS MULTIVARIADOS EM CIÊNCIAS CLIMÁTICAS",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "12",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "WEBER ANDRADE GONCALVES",
+        "Componente Curricular": "CAC2008 - METEOROLOGIA SINÓTICA I",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "24",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "BERGSON GUEDES BEZERRA",
+        "Componente Curricular": "CAC2004 - AGROMETEOROLOGIA",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "25",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "BERGSON GUEDES BEZERRA",
+        "Componente Curricular": "CAC2007 - INTERAÇÕES NO SISTEMA SOLO-VEGETAÇÃO-ATMOSFERA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "15",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "CLAUDIO MOISES SANTOS E SILVA",
+        "Componente Curricular": "CAC2015 - METEOROLOGIA DINÂMICA II",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "6",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "CRISTIANO PRESTRELO DE OLIVEIRA",
+        "Componente Curricular": "CAC2003 - CLIMATOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "24",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "DAVID MENDES",
+        "Componente Curricular": "CAC1004 - FÍSICA IV: TERMODINÂMICA DA ATMOSFERA",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "16",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "HUMBERTO SCALCO GIMENES",
+        "Componente Curricular": "CAC0002 - CÁLCULO II APLICADO ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "246T12",
+        "Discentes": "13",
+        "Média Geral": "7.87",
+        "Desvio Padrão Geral": "3.02"
+    },
+    {
+        "Docente": "HUMBERTO SCALCO GIMENES",
+        "Componente Curricular": "CAC1002 - FÍSICA II: CONCEITOS E APLICAÇÕES DE ONDAS E ÓPTICA EM CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "14",
+        "Média Geral": "8.03",
+        "Desvio Padrão Geral": "2.94"
+    },
+    {
+        "Docente": "JONATHAN MOTA DA SILVA",
+        "Componente Curricular": "CAC1103 - METEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "42",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "JONATHAN MOTA DA SILVA",
+        "Componente Curricular": "CAC9006 - MODELAGEM HIDROLÓGICA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "10",
+        "Média Geral": "6.21",
+        "Desvio Padrão Geral": "3.2"
+    },
+    {
+        "Docente": "JUDITH JOHANNA HOELZEMANN",
+        "Componente Curricular": "CAC2012 - POLUIÇÃO ATMOSFÉRICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "30",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "LARA DE MELO BARBOSA ANDRADE",
+        "Componente Curricular": "CAC4001 - CLIMATOLOGIA ESTATÍSTICA I: CÁLCULO DAS PROBABILIDADES",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "13",
+        "Média Geral": "8.6",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "MARCIO MACHADO CINTRA",
+        "Componente Curricular": "CAC0004 - CÁLCULO IV - CÁLCULO VETORIAL E ÁLGEBRA LINEAR APLICADO ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "246T12",
+        "Discentes": "17",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "MARCIO MACHADO CINTRA",
+        "Componente Curricular": "CAC2016 - INTERAÇÕES NO SISTEMA ATMOSFERA-OCEANO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "5",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "PAULO SERGIO LUCIO",
+        "Componente Curricular": "CAC4003 - CLIMATOLOGIA ESTOCÁSTICA I - ANÁLISE DE SÉRIES TEMPORAIS PARA AS CIÊNCIAS CLIMÁTICAS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "10",
+        "Média Geral": "8.23",
+        "Desvio Padrão Geral": "2.54"
+    },
+    {
+        "Docente": "PAULO SERGIO LUCIO",
+        "Componente Curricular": "CAC4005 - CLIMATOLOGIA ESTOCÁSTICA II - MODELAGEM GEOESTATÍSTICA DE VARIÁVEIS CLIMATOLÓGICAS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "8",
+        "Média Geral": "7.02",
+        "Desvio Padrão Geral": "2.98"
+    },
+    {
+        "Docente": "WEBER ANDRADE GONCALVES",
+        "Componente Curricular": "CAC1005 - FÍSICA DAS NUVENS E DA PRECIPITAÇÃO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "24",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "WEBER ANDRADE GONCALVES",
+        "Componente Curricular": "CAC2014 - METEOROLOGIA SINÓTICA II",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "5",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "BERGSON GUEDES BEZERRA",
+        "Componente Curricular": "CAC2002 - INSTRUMENTAÇÃO PARA AS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "42",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "CLAUDIO MOISES SANTOS E SILVA",
+        "Componente Curricular": "CAC0003 - CÁLCULO III - EQUAÇÕES DIFERENCIAIS APLICADAS ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "246T12",
+        "Discentes": "23",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "CLAUDIO MOISES SANTOS E SILVA",
+        "Componente Curricular": "CAC2009 - METEOROLOGIA DINÂMICA I",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "12",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "CLAUDIO MOISES SANTOS E SILVA",
+        "Componente Curricular": "CAC2019 - PREVISÃO NUMÉRICA DO TEMPO",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "9",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "CRISTIANO PRESTRELO DE OLIVEIRA",
+        "Componente Curricular": "CAC3001 - INFORMÁTICA BÁSICA APLICADA ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "49",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "CRISTIANO PRESTRELO DE OLIVEIRA",
+        "Componente Curricular": "CAC2018 - METEOROLOGIA DE MESOESCALA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "9",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "DAVID MENDES",
+        "Componente Curricular": "CAC1003 - FÍSICA III: INTRODUÇÃO AOS FLUIDOS E TERMODINÂMICA DA ATMOSFERA",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "14",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "DAVID MENDES",
+        "Componente Curricular": "CAC2005 - MICROMETEOROLOGIA E MICROCLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "15",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "DAVID MENDES",
+        "Componente Curricular": "CAC9002 - MUDANÇAS CLIMÁTICAS GLOBAIS: MODELAGEM E OBSERVAÇÕES",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "10",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "JONATHAN MOTA DA SILVA",
+        "Componente Curricular": "CAC0052 - HIDROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "27",
+        "Média Geral": "8.3",
+        "Desvio Padrão Geral": "2.55"
+    },
+    {
+        "Docente": "JONATHAN MOTA DA SILVA",
+        "Componente Curricular": "CAC0052 - HIDROLOGIA E CLIMATOLOGIA",
+        "Turma": "2",
+        "Horário": "4N1234",
+        "Discentes": "13",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "JONATHAN MOTA DA SILVA",
+        "Componente Curricular": "CAC2006 - HIDROLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "21",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "2.37"
+    },
+    {
+        "Docente": "JUDITH JOHANNA HOELZEMANN",
+        "Componente Curricular": "CAC2001 - INTRODUÇÃO ÀS CIÊNCIAS DA ATMOSFERA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "44",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "2.28"
+    },
+    {
+        "Docente": "JUDITH JOHANNA HOELZEMANN",
+        "Componente Curricular": "CAC2012 - POLUIÇÃO ATMOSFÉRICA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "47",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "LARA DE MELO BARBOSA ANDRADE",
+        "Componente Curricular": "CAC4002 - CLIMATOLOGIA ESTATÍSTICA II - MÉTODOS ESTATÍSTICOS APLICADOS ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "13",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "LARA DE MELO BARBOSA ANDRADE",
+        "Componente Curricular": "CAC9005 - CONCEITOS BÁSICOS EM DEMOGRAFIA: POPULAÇÃO E CLIMA",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "12",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "MARCIO MACHADO CINTRA",
+        "Componente Curricular": "CAC0001 - CÁLCULO I APLICADO ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "47",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "MARCIO MACHADO CINTRA",
+        "Componente Curricular": "CAC1103 - METEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "38",
+        "Média Geral": "8.49",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "PAULO SERGIO LUCIO",
+        "Componente Curricular": "CAC2013 - BIOMETEOROLOGIA E BIOCLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "8",
+        "Média Geral": "8.85",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "RONABSON CARDOSO FERNANDES",
+        "Componente Curricular": "CAC2013 - BIOMETEOROLOGIA E BIOCLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "8",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "RONABSON CARDOSO FERNANDES",
+        "Componente Curricular": "CAC0003 - CÁLCULO III - EQUAÇÕES DIFERENCIAIS APLICADAS ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "246T12",
+        "Discentes": "23",
+        "Média Geral": "8.51",
+        "Desvio Padrão Geral": "2.23"
+    },
+    {
+        "Docente": "RONABSON CARDOSO FERNANDES",
+        "Componente Curricular": "CAC1003 - FÍSICA III: INTRODUÇÃO AOS FLUIDOS E TERMODINÂMICA DA ATMOSFERA",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "14",
+        "Média Geral": "8.14",
+        "Desvio Padrão Geral": "2.71"
+    },
+    {
+        "Docente": "RONABSON CARDOSO FERNANDES",
+        "Componente Curricular": "CAC0052 - HIDROLOGIA E CLIMATOLOGIA",
+        "Turma": "2",
+        "Horário": "4N1234",
+        "Discentes": "13",
+        "Média Geral": "7.85",
+        "Desvio Padrão Geral": "2.74"
+    },
+    {
+        "Docente": "WEBER ANDRADE GONCALVES",
+        "Componente Curricular": "CAC2017 - LABORATÓRIO DE ANÁLISE E PREVISÃO DO TEMPO",
+        "Turma": "1",
+        "Horário": "246T12",
+        "Discentes": "9",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "WEBER ANDRADE GONCALVES",
+        "Componente Curricular": "CAC2008 - METEOROLOGIA SINÓTICA I",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "11",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "BERGSON GUEDES BEZERRA",
+        "Componente Curricular": "CAC2004 - AGROMETEOROLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "27",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "BERGSON GUEDES BEZERRA",
+        "Componente Curricular": "CAC2007 - INTERAÇÕES NO SISTEMA SOLO-VEGETAÇÃO-ATMOSFERA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "16",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "CLAUDIO MOISES SANTOS E SILVA",
+        "Componente Curricular": "CAC2015 - METEOROLOGIA DINÂMICA II",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "11",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "CRISTIANO PRESTRELO DE OLIVEIRA",
+        "Componente Curricular": "CAC2003 - CLIMATOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "29",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "CRISTIANO PRESTRELO DE OLIVEIRA",
+        "Componente Curricular": "CAC3002 - COMPUTAÇÃO AVANÇADA APLICADA ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "46T12",
+        "Discentes": "10",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.86"
+    },
+    {
+        "Docente": "JONATHAN MOTA DA SILVA",
+        "Componente Curricular": "CAC1103 - METEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "49",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "JUDITH JOHANNA HOELZEMANN",
+        "Componente Curricular": "CAC2012 - POLUIÇÃO ATMOSFÉRICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "33",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "LARA DE MELO BARBOSA ANDRADE",
+        "Componente Curricular": "CAC4001 - CLIMATOLOGIA ESTATÍSTICA I: CÁLCULO DAS PROBABILIDADES",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "15",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "MARCIO MACHADO CINTRA",
+        "Componente Curricular": "CAC0004 - CÁLCULO IV - CÁLCULO VETORIAL E ÁLGEBRA LINEAR APLICADO ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "5",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "MARCIO MACHADO CINTRA",
+        "Componente Curricular": "CAC2016 - INTERAÇÕES NO SISTEMA ATMOSFERA-OCEANO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "10",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "PAULO SERGIO LUCIO",
+        "Componente Curricular": "CAC4003 - CLIMATOLOGIA ESTOCÁSTICA I - ANÁLISE DE SÉRIES TEMPORAIS PARA AS CIÊNCIAS CLIMÁTICAS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "8",
+        "Média Geral": "6.14",
+        "Desvio Padrão Geral": "2.85"
+    },
+    {
+        "Docente": "PAULO SERGIO LUCIO",
+        "Componente Curricular": "CAC4005 - CLIMATOLOGIA ESTOCÁSTICA II - MODELAGEM GEOESTATÍSTICA DE VARIÁVEIS CLIMATOLÓGICAS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "8",
+        "Média Geral": "5.88",
+        "Desvio Padrão Geral": "2.84"
+    },
+    {
+        "Docente": "RONABSON CARDOSO FERNANDES",
+        "Componente Curricular": "CAC0002 - CÁLCULO II APLICADO ÀS CIÊNCIAS ATMOSFÉRICAS",
+        "Turma": "1",
+        "Horário": "246T12",
+        "Discentes": "26",
+        "Média Geral": "8.52",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "RONABSON CARDOSO FERNANDES",
+        "Componente Curricular": "CAC9003 - ENERGIA E MEIO AMBIENTE",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "9",
+        "Média Geral": "7.31",
+        "Desvio Padrão Geral": "2.55"
+    },
+    {
+        "Docente": "WEBER ANDRADE GONCALVES",
+        "Componente Curricular": "CAC1005 - FÍSICA DAS NUVENS E DA PRECIPITAÇÃO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "18",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "WEBER ANDRADE GONCALVES",
+        "Componente Curricular": "CAC2014 - METEOROLOGIA SINÓTICA II",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "10",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.15"
+    }
+]

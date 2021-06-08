@@ -1,0 +1,6098 @@
+{
+  "ADRIANO HENRIQUE DO NASCIMENTO RANGEL": {
+    "Notas": [
+      7.22,
+      7.58,
+      8.01,
+      8.09,
+      8.2,
+      8.26,
+      9.25
+    ],
+    "Desvios": [
+      2.21,
+      2.53,
+      2.58,
+      2.92,
+      2.4,
+      2.02,
+      1.48
+    ],
+    "Componentes": {
+      "ZOO0466 - JULGAMENTO DE ANIMAIS": {
+        "Notas": [
+          8.2
+        ],
+        "Desvios": [
+          2.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.2,
+        "MediaDeDesvios": 2.21,
+        "NotaMediana": 8.2
+      },
+      "ZOO0315 - TECNOLOGIA E INDUSTRIALIZAÇÃO DE PRODUTOS DE ORIGEM ANIMAL": {
+        "Notas": [
+          8.01,
+          9.25
+        ],
+        "Desvios": [
+          2.53,
+          2.02
+        ],
+        "DesvioDeNotas": 0.6200000000000001,
+        "MediaDeNotas": 8.629999999999999,
+        "MediaDeDesvios": 2.275,
+        "NotaMediana": 9.25
+      },
+      "ZOO0464 - CARNES E TIPIFICAÇÃO DE CARCAÇA": {
+        "Notas": [
+          8.09
+        ],
+        "Desvios": [
+          2.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.09,
+        "MediaDeDesvios": 2.58,
+        "NotaMediana": 8.09
+      },
+      "ZOO0463 - BOVINOCULTURA DE LEITE": {
+        "Notas": [
+          7.22,
+          8.26
+        ],
+        "Desvios": [
+          2.92,
+          1.48
+        ],
+        "DesvioDeNotas": 0.52,
+        "MediaDeNotas": 7.74,
+        "MediaDeDesvios": 2.2,
+        "NotaMediana": 8.26
+      },
+      "ZOO0437 - JULGAMENTO DE ANIMAIS": {
+        "Notas": [
+          7.58
+        ],
+        "Desvios": [
+          2.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.58,
+        "MediaDeDesvios": 2.4,
+        "NotaMediana": 7.58
+      }
+    },
+    "DesvioDeNotas": 0.5867516945185657,
+    "MediaDeNotas": 8.087142857142856,
+    "MediaDeDesvios": 2.3057142857142856,
+    "NotaMediana": 8.09
+  },
+  "ALESSANDRA MENDES PACHECO GUERRA VALE": {
+    "Notas": [
+      9.43,
+      9.62,
+      9.7
+    ],
+    "Desvios": [
+      1.91,
+      1.68,
+      1.69
+    ],
+    "Componentes": {
+      "TAD0018 - PROCESSAMENTO DIGITAL DE IMAGENS": {
+        "Notas": [
+          9.62,
+          9.7
+        ],
+        "Desvios": [
+          1.91,
+          1.69
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.7999999999999998,
+        "NotaMediana": 9.7
+      },
+      "TAD0012 - PROCESSO DE DESENVOLVIMENTO DE SOFTWARE": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.43
+      }
+    },
+    "DesvioDeNotas": 0.11323525167641998,
+    "MediaDeNotas": 9.583333333333334,
+    "MediaDeDesvios": 1.7599999999999998,
+    "NotaMediana": 9.62
+  },
+  "ALEXANDRE SANTOS PIMENTA": {
+    "Notas": [
+      7.58,
+      8.04,
+      8.22,
+      8.46,
+      8.46,
+      8.5,
+      8.55,
+      8.59
+    ],
+    "Desvios": [
+      1.67,
+      2.55,
+      2.35,
+      1.85,
+      2.34,
+      2.55,
+      2.21,
+      1.72
+    ],
+    "Componentes": {
+      "EFL0312 - ANATOMIA DA MADEIRA": {
+        "Notas": [
+          8.55,
+          8.59
+        ],
+        "Desvios": [
+          1.67,
+          2.34
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 8.57,
+        "MediaDeDesvios": 2.005,
+        "NotaMediana": 8.59
+      },
+      "EFL0331 - TECNOLOGIA DE PRODUTOS FLORESTAIS": {
+        "Notas": [
+          8.04,
+          8.22
+        ],
+        "Desvios": [
+          2.55,
+          2.55
+        ],
+        "DesvioDeNotas": 0.09000000000000075,
+        "MediaDeNotas": 8.129999999999999,
+        "MediaDeDesvios": 2.55,
+        "NotaMediana": 8.22
+      },
+      "EFL0340 - ENERGIA DA BIOMASSA FLORESTAL": {
+        "Notas": [
+          7.58,
+          8.46
+        ],
+        "Desvios": [
+          2.35,
+          2.21
+        ],
+        "DesvioDeNotas": 0.4400000000000004,
+        "MediaDeNotas": 8.02,
+        "MediaDeDesvios": 2.2800000000000002,
+        "NotaMediana": 8.46
+      },
+      "EFL0320 - PROPRIEDADES DA MADEIRA": {
+        "Notas": [
+          8.46,
+          8.5
+        ],
+        "Desvios": [
+          1.85,
+          1.72
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 8.48,
+        "MediaDeDesvios": 1.7850000000000001,
+        "NotaMediana": 8.5
+      }
+    },
+    "DesvioDeNotas": 0.3221412733568925,
+    "MediaDeNotas": 8.3,
+    "MediaDeDesvios": 2.155,
+    "NotaMediana": 8.46
+  },
+  "ANA ISABEL RODRIGUES CASTRO": {
+    "Notas": [
+      9.32,
+      9.47,
+      9.55,
+      9.56
+    ],
+    "Desvios": [
+      1.74,
+      2.03,
+      1.8,
+      1.44
+    ],
+    "Componentes": {
+      "CCA0104 - AGROINFORMÁTICA": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.56
+      },
+      "TAD0022 - ESTATISTICA APLICADA": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          2.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 2.03,
+        "NotaMediana": 9.47
+      },
+      "TAD0005 - MATEMATICA APLICADA I": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.32
+      },
+      "TAD0057 - PROJETOS APLICADOS II": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.09604686356149286,
+    "MediaDeNotas": 9.475000000000001,
+    "MediaDeDesvios": 1.7525,
+    "NotaMediana": 9.55
+  },
+  "CARLOS HENRIQUE GRILO DINIZ": {
+    "Notas": [
+      9.82
+    ],
+    "Desvios": [
+      1.97
+    ],
+    "Componentes": {
+      "TAD0008 - CONTEXTO GEOGRAFICO REGIONAL": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 1.97,
+    "NotaMediana": 9.82
+  },
+  "CASSIA REGINA DE ALMEIDA MORAES": {
+    "Notas": [
+      7.89,
+      7.97,
+      8.09,
+      8.15,
+      8.19,
+      8.28,
+      8.39,
+      8.77,
+      8.99,
+      9.5
+    ],
+    "Desvios": [
+      2.42,
+      2.52,
+      2.38,
+      1.46,
+      2.28,
+      2.87,
+      2.58,
+      1.75,
+      2.12,
+      1.6
+    ],
+    "Componentes": {
+      "AGR0316 - CULTURAS AGRÍCOLAS I": {
+        "Notas": [
+          7.89,
+          8.09
+        ],
+        "Desvios": [
+          2.42,
+          2.28
+        ],
+        "DesvioDeNotas": 0.10000000000000009,
+        "MediaDeNotas": 7.99,
+        "MediaDeDesvios": 2.3499999999999996,
+        "NotaMediana": 8.09
+      },
+      "CCA0120 - FISIOLOGIA VEGETAL": {
+        "Notas": [
+          7.97
+        ],
+        "Desvios": [
+          2.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.97,
+        "MediaDeDesvios": 2.52,
+        "NotaMediana": 7.97
+      },
+      "AGR0320 - CULTURAS AGRICOLAS II": {
+        "Notas": [
+          8.19,
+          8.77
+        ],
+        "Desvios": [
+          2.38,
+          1.75
+        ],
+        "DesvioDeNotas": 0.29000000000000004,
+        "MediaDeNotas": 8.48,
+        "MediaDeDesvios": 2.065,
+        "NotaMediana": 8.77
+      },
+      "CCA0112 - MORFOLOGIA E SISTEMÁTICA VEGETAL": {
+        "Notas": [
+          8.99,
+          9.5
+        ],
+        "Desvios": [
+          1.46,
+          1.6
+        ],
+        "DesvioDeNotas": 0.2549999999999999,
+        "MediaDeNotas": 9.245000000000001,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.5
+      },
+      "AGR0360 - FISIOLOGIA VEGETAL": {
+        "Notas": [
+          8.15,
+          8.28,
+          8.39
+        ],
+        "Desvios": [
+          2.87,
+          2.58,
+          2.12
+        ],
+        "DesvioDeNotas": 0.0980929264637478,
+        "MediaDeNotas": 8.273333333333333,
+        "MediaDeDesvios": 2.5233333333333334,
+        "NotaMediana": 8.28
+      }
+    },
+    "DesvioDeNotas": 0.4850113400736112,
+    "MediaDeNotas": 8.422,
+    "MediaDeDesvios": 2.198,
+    "NotaMediana": 8.28
+  },
+  "CIBELE SOARES PONTES": {
+    "Notas": [
+      8.1,
+      8.27,
+      8.7
+    ],
+    "Desvios": [
+      2.12,
+      1.45,
+      1.94
+    ],
+    "Componentes": {
+      "CCA0132 - AQUICULTURA": {
+        "Notas": [
+          8.27
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.27,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 8.27
+      },
+      "DOL0095 - CARCINICULTURA II": {
+        "Notas": [
+          8.1,
+          8.7
+        ],
+        "Desvios": [
+          1.45,
+          1.94
+        ],
+        "DesvioDeNotas": 0.2999999999999998,
+        "MediaDeNotas": 8.399999999999999,
+        "MediaDeDesvios": 1.6949999999999998,
+        "NotaMediana": 8.7
+      }
+    },
+    "DesvioDeNotas": 0.2524986248587415,
+    "MediaDeNotas": 8.356666666666667,
+    "MediaDeDesvios": 1.8366666666666667,
+    "NotaMediana": 8.27
+  },
+  "CLAUDIA SOUZA MACEDO": {
+    "Notas": [
+      9.35,
+      9.79
+    ],
+    "Desvios": [
+      1.23,
+      1.03
+    ],
+    "Componentes": {
+      "CCA0127 - PÓS-COLHEITA E PROCESSAMENTO DE PRODUTOS AGROPECUÁRIOS": {
+        "Notas": [
+          9.35,
+          9.79
+        ],
+        "Desvios": [
+          1.23,
+          1.03
+        ],
+        "DesvioDeNotas": 0.21999999999999975,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.21999999999999975,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.79
+  },
+  "DAMIANA CLEUMA DE MEDEIROS": {
+    "Notas": [
+      7.94,
+      8.55,
+      8.95,
+      9.1,
+      9.34
+    ],
+    "Desvios": [
+      1.42,
+      2.13,
+      2.48,
+      1.52,
+      1.85
+    ],
+    "Componentes": {
+      "AGR0322 - CONTROLE DE PLANTAS DANINHAS": {
+        "Notas": [
+          8.95,
+          9.34
+        ],
+        "Desvios": [
+          1.42,
+          1.52
+        ],
+        "DesvioDeNotas": 0.19500000000000028,
+        "MediaDeNotas": 9.145,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.34
+      },
+      "AGR0315 - SOCIOLOGIA E EXTENSÃO RURAL": {
+        "Notas": [
+          8.55,
+          9.1
+        ],
+        "Desvios": [
+          2.13,
+          1.85
+        ],
+        "DesvioDeNotas": 0.27499999999999947,
+        "MediaDeNotas": 8.825,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.1
+      },
+      "CCA0119 - SOCIOLOGIA E EXTENSÃO RURAL": {
+        "Notas": [
+          7.94
+        ],
+        "Desvios": [
+          2.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.94,
+        "MediaDeDesvios": 2.48,
+        "NotaMediana": 7.94
+      }
+    },
+    "DesvioDeNotas": 0.49057517262902706,
+    "MediaDeNotas": 8.776,
+    "MediaDeDesvios": 1.8799999999999997,
+    "NotaMediana": 8.95
+  },
+  "DANILO FLADEMIR ALVES DE OLIVEIRA": {
+    "Notas": [
+      9.18,
+      9.4,
+      9.51,
+      9.52,
+      9.54,
+      9.65,
+      9.74,
+      9.75,
+      9.76,
+      9.81,
+      9.82,
+      9.86,
+      9.95,
+      9.98
+    ],
+    "Desvios": [
+      1.48,
+      1.64,
+      1.22,
+      1.12,
+      2.4,
+      1.54,
+      0.56,
+      1.27,
+      1.43,
+      1.23,
+      1.56,
+      0.99,
+      1.5,
+      1.64
+    ],
+    "Componentes": {
+      "CCA0114 - ESTATÍSTICA": {
+        "Notas": [
+          9.4,
+          9.74,
+          9.81
+        ],
+        "Desvios": [
+          1.48,
+          1.22,
+          1.12
+        ],
+        "DesvioDeNotas": 0.17907168024751058,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.2733333333333334,
+        "NotaMediana": 9.74
+      },
+      "CCA0123 - GENÉTICA GERAL": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.54
+      },
+      "CCA0105 - MICROBIOLOGIA": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          2.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 2.4,
+        "NotaMediana": 9.18
+      },
+      "CCA0102 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.82
+      },
+      "AGR0392 - ESTATÍSTICA EXPERIMENTAL AGRÍCOLA": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          0.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 0.56,
+        "NotaMediana": 9.95
+      },
+      "EFL0304 - EXPERIMENTACAO FLORESTAL": {
+        "Notas": [
+          9.75,
+          9.98
+        ],
+        "Desvios": [
+          1.27,
+          0.99
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.865,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.98
+      },
+      "EFL0313 - GENETICA GERAL": {
+        "Notas": [
+          9.52,
+          9.86
+        ],
+        "Desvios": [
+          1.43,
+          1.5
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.4649999999999999,
+        "NotaMediana": 9.86
+      },
+      "EFL0324 - MELHORAMENTO FLORESTAL": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.51
+      },
+      "EFL0302 - ESTATISTICA FLORESTAL": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.76
+      },
+      "EFL0301 - METODOS E TECNICAS DE PESQUISAS": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.21545987836178107,
+    "MediaDeNotas": 9.676428571428572,
+    "MediaDeDesvios": 1.3985714285714284,
+    "NotaMediana": 9.75
+  },
+  "DARLENE SAUSEN": {
+    "Notas": [
+      8.27,
+      8.81,
+      8.98,
+      9.24,
+      9.25,
+      9.31,
+      9.41,
+      9.58,
+      9.59,
+      9.63,
+      9.66,
+      9.75,
+      9.78,
+      9.79,
+      9.83
+    ],
+    "Desvios": [
+      1.64,
+      1.28,
+      2.14,
+      0.94,
+      1.4,
+      1.19,
+      1.37,
+      2.6,
+      1.31,
+      1.7,
+      2.11,
+      1.97,
+      1.21,
+      1.51,
+      1.62
+    ],
+    "Componentes": {
+      "CCA0117 - AGROMETEOROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          9.59,
+          9.66,
+          9.75
+        ],
+        "Desvios": [
+          1.64,
+          1.4,
+          1.19
+        ],
+        "DesvioDeNotas": 0.06548960901462839,
+        "MediaDeNotas": 9.666666666666666,
+        "MediaDeDesvios": 1.4100000000000001,
+        "NotaMediana": 9.66
+      },
+      "CCA0106 - DESENHO TÉCNICO": {
+        "Notas": [
+          9.41,
+          9.83
+        ],
+        "Desvios": [
+          1.28,
+          2.14
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.620000000000001,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.83
+      },
+      "EFL0321 - SISTEMAS AGROFLORESTAIS": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          0.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 0.94,
+        "NotaMediana": 9.79
+      },
+      "AGR0321 - ENTOMOLOGIA AGRICOLA": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.78
+      },
+      "EFL0306 - IRRIGACAO E DRENAGEM": {
+        "Notas": [
+          8.27
+        ],
+        "Desvios": [
+          2.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.27,
+        "MediaDeDesvios": 2.6,
+        "NotaMediana": 8.27
+      },
+      "AGR0327 - CULTURAS AGRICOLAS III": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.58
+      },
+      "CCA0123 - GENÉTICA GERAL": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.24
+      },
+      "CCA0124 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO": {
+        "Notas": [
+          8.81
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.81,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 8.81
+      },
+      "CCA0119 - SOCIOLOGIA E EXTENSÃO RURAL": {
+        "Notas": [
+          8.98,
+          9.25
+        ],
+        "Desvios": [
+          1.97,
+          1.62
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.115,
+        "MediaDeDesvios": 1.795,
+        "NotaMediana": 9.25
+      },
+      "AGR0315 - SOCIOLOGIA E EXTENSÃO RURAL": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.31
+      },
+      "AGR0322 - CONTROLE DE PLANTAS DANINHAS": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.4202887896038468,
+    "MediaDeNotas": 9.392,
+    "MediaDeDesvios": 1.5993333333333335,
+    "NotaMediana": 9.58
+  },
+  "DINARTE AEDA DA SILVA": {
+    "Notas": [
+      6.47,
+      6.76,
+      7.37,
+      7.95,
+      8.7,
+      8.83,
+      8.87
+    ],
+    "Desvios": [
+      2.75,
+      3.2,
+      3.49,
+      1.83,
+      2.01,
+      2.18,
+      1.41
+    ],
+    "Componentes": {
+      "AGR0323 - CONSTRUÇÕES RURAIS": {
+        "Notas": [
+          6.76
+        ],
+        "Desvios": [
+          2.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.76,
+        "MediaDeDesvios": 2.75,
+        "NotaMediana": 6.76
+      },
+      "ZOO0308 - INSTALAÇÕES ZOOTÉCNICAS TROPICAIS": {
+        "Notas": [
+          6.47,
+          8.7
+        ],
+        "Desvios": [
+          3.2,
+          2.01
+        ],
+        "DesvioDeNotas": 1.1149999999999998,
+        "MediaDeNotas": 7.584999999999999,
+        "MediaDeDesvios": 2.605,
+        "NotaMediana": 8.7
+      },
+      "CIV0446 - IRRIGAÇÃO E DRENAGEM": {
+        "Notas": [
+          7.37,
+          7.95,
+          8.83,
+          8.87
+        ],
+        "Desvios": [
+          3.49,
+          1.83,
+          2.18,
+          1.41
+        ],
+        "DesvioDeNotas": 0.6295037728242776,
+        "MediaDeNotas": 8.254999999999999,
+        "MediaDeDesvios": 2.2275,
+        "NotaMediana": 8.83
+      }
+    },
+    "DesvioDeNotas": 0.9301459178921491,
+    "MediaDeNotas": 7.85,
+    "MediaDeDesvios": 2.41,
+    "NotaMediana": 7.95
+  },
+  "EDSON MOREIRA SILVA NETO": {
+    "Notas": [
+      9.13,
+      9.41,
+      9.47,
+      9.5,
+      9.67
+    ],
+    "Desvios": [
+      1.77,
+      1.55,
+      1.8,
+      1.83,
+      1.71
+    ],
+    "Componentes": {
+      "TAD0006 - SISTEMAS OPERACIONAIS": {
+        "Notas": [
+          9.47,
+          9.5
+        ],
+        "Desvios": [
+          1.77,
+          1.83
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.485,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.5
+      },
+      "TAD0014 - REDES DE COMPUTADORES": {
+        "Notas": [
+          9.41,
+          9.67
+        ],
+        "Desvios": [
+          1.55,
+          1.71
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.67
+      },
+      "TAD0064 - REDES DE ALTA VELOCIDADE": {
+        "Notas": [
+          9.13
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.13,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.13
+      }
+    },
+    "DesvioDeNotas": 0.1756815300479817,
+    "MediaDeNotas": 9.436000000000002,
+    "MediaDeDesvios": 1.732,
+    "NotaMediana": 9.47
+  },
+  "EDUARDO ALEXANDRE FERREIRA SILVA": {
+    "Notas": [
+      8.82,
+      9.01,
+      9.46,
+      9.56
+    ],
+    "Desvios": [
+      2.05,
+      1.87,
+      1.97,
+      1.18
+    ],
+    "Componentes": {
+      "TAD0003 - BANCO DE DADOS I": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          2.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 8.82
+      },
+      "TAD0021 - ENGENHARIA DE SOFTWARE": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.46
+      },
+      "TAD0012 - PROCESSO DE DESENVOLVIMENTO DE SOFTWARE": {
+        "Notas": [
+          9.01
+        ],
+        "Desvios": [
+          1.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.01,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.01
+      },
+      "TAD0057 - PROJETOS APLICADOS II": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.56
+      }
+    },
+    "DesvioDeNotas": 0.30703216443884207,
+    "MediaDeNotas": 9.2125,
+    "MediaDeDesvios": 1.7674999999999998,
+    "NotaMediana": 9.46
+  },
+  "ELAINY CRISTINA LOPES": {
+    "Notas": [
+      8.77,
+      9.17,
+      9.2,
+      9.51,
+      9.57
+    ],
+    "Desvios": [
+      1.53,
+      1.76,
+      1.73,
+      1.48,
+      1.88
+    ],
+    "Componentes": {
+      "ZOO0404 - BIOSSEGURANÇA NA PRODUÇÃO ANIMAL": {
+        "Notas": [
+          8.77
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.77,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 8.77
+      },
+      "ZOO0461 - CRIAÇÃO DE ANIMAIS DE ESTIMAÇÃO": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.2
+      },
+      "ZOO0433 - IMPACTOS AMBIENTAIS NA PRODUÇÃO DE ANIMAIS": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.57
+      },
+      "ZOO0445 - NUTRIÇÃO DE EQÜINOS": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.51
+      },
+      "ZOO0307 - NUTRIÇÃO E ALIMENTAÇÃO DE MONOGÁSTRICOS": {
+        "Notas": [
+          9.17
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 9.17
+      }
+    },
+    "DesvioDeNotas": 0.28604894686049814,
+    "MediaDeNotas": 9.244,
+    "MediaDeDesvios": 1.6759999999999997,
+    "NotaMediana": 9.2
+  },
+  "EMERSON MOREIRA DE AGUIAR": {
+    "Notas": [
+      8.54,
+      8.64,
+      8.67,
+      8.88,
+      8.95,
+      8.95,
+      8.98,
+      9.46,
+      9.62
+    ],
+    "Desvios": [
+      1.81,
+      1.42,
+      2.1,
+      2.09,
+      1.6,
+      1.02,
+      2.03,
+      1.49,
+      1.63
+    ],
+    "Componentes": {
+      "ZOO0415 - CONSERVAÇÃO DE FORRAGENS": {
+        "Notas": [
+          8.54,
+          8.88
+        ],
+        "Desvios": [
+          1.81,
+          1.6
+        ],
+        "DesvioDeNotas": 0.17000000000000082,
+        "MediaDeNotas": 8.71,
+        "MediaDeDesvios": 1.705,
+        "NotaMediana": 8.88
+      },
+      "AGR0314 - FORRAGICULTURA": {
+        "Notas": [
+          9.46,
+          9.62
+        ],
+        "Desvios": [
+          1.42,
+          1.02
+        ],
+        "DesvioDeNotas": 0.07999999999999918,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.62
+      },
+      "ZOO0305 - FORRAGICULTURA": {
+        "Notas": [
+          8.67,
+          8.95
+        ],
+        "Desvios": [
+          2.1,
+          2.03
+        ],
+        "DesvioDeNotas": 0.13999999999999968,
+        "MediaDeNotas": 8.809999999999999,
+        "MediaDeDesvios": 2.065,
+        "NotaMediana": 8.95
+      },
+      "ZOO0309 - FORRAGICULTURA TROPICAL": {
+        "Notas": [
+          8.64,
+          8.95
+        ],
+        "Desvios": [
+          2.09,
+          1.63
+        ],
+        "DesvioDeNotas": 0.15499999999999936,
+        "MediaDeNotas": 8.795,
+        "MediaDeDesvios": 1.8599999999999999,
+        "NotaMediana": 8.95
+      },
+      "AGR0320 - CULTURAS AGRICOLAS II": {
+        "Notas": [
+          8.98
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 8.98
+      }
+    },
+    "DesvioDeNotas": 0.34241336653268506,
+    "MediaDeNotas": 8.965555555555557,
+    "MediaDeDesvios": 1.6877777777777776,
+    "NotaMediana": 8.95
+  },
+  "ERMELINDA MARIA MOTA OLIVEIRA": {
+    "Notas": [
+      6.76,
+      7.54,
+      7.75,
+      8.04,
+      8.28,
+      8.61,
+      8.7,
+      8.85,
+      8.91,
+      9.08,
+      9.31,
+      9.5,
+      9.68,
+      9.74
+    ],
+    "Desvios": [
+      1.35,
+      2.01,
+      1.78,
+      1.64,
+      2.05,
+      1.94,
+      2.21,
+      1.64,
+      1.36,
+      2.39,
+      2.67,
+      1.55,
+      1.01,
+      1.68
+    ],
+    "Componentes": {
+      "CCA0122 - CIÊNCIA DO SOLO": {
+        "Notas": [
+          8.7,
+          9.08,
+          9.31,
+          9.5,
+          9.68,
+          9.74
+        ],
+        "Desvios": [
+          1.35,
+          2.01,
+          2.05,
+          1.64,
+          1.36,
+          1.01
+        ],
+        "DesvioDeNotas": 0.3603586176759666,
+        "MediaDeNotas": 9.335,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.5
+      },
+      "AGR0312 - MANEJO E CONSERVAÇÃO DOS SOLOS": {
+        "Notas": [
+          7.54,
+          7.75,
+          8.04,
+          8.61
+        ],
+        "Desvios": [
+          1.78,
+          2.21,
+          2.39,
+          1.68
+        ],
+        "DesvioDeNotas": 0.4021504693519576,
+        "MediaDeNotas": 7.984999999999999,
+        "MediaDeDesvios": 2.015,
+        "NotaMediana": 8.04
+      },
+      "AGR0313 - NUTRIÇÃO MINERAL DAS PLANTAS": {
+        "Notas": [
+          6.76,
+          8.91
+        ],
+        "Desvios": [
+          1.64,
+          2.67
+        ],
+        "DesvioDeNotas": 1.0750000000000002,
+        "MediaDeNotas": 7.835,
+        "MediaDeDesvios": 2.155,
+        "NotaMediana": 8.91
+      },
+      "AGR0306 - FERTILIDADE DO SOLO": {
+        "Notas": [
+          8.85
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.85,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 8.85
+      },
+      "AGR0357 - AGRICULTURA FAMILIAR": {
+        "Notas": [
+          8.28
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.28,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 8.28
+      }
+    },
+    "DesvioDeNotas": 0.8374344324013844,
+    "MediaDeNotas": 8.625,
+    "MediaDeDesvios": 1.8057142857142858,
+    "NotaMediana": 8.85
+  },
+  "FABIO DE ALMEIDA VIEIRA": {
+    "Notas": [
+      9.76,
+      9.9,
+      9.91,
+      9.93
+    ],
+    "Desvios": [
+      1.6,
+      1.41,
+      1.56,
+      1.24
+    ],
+    "Componentes": {
+      "EFL0313 - GENETICA GERAL": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.93
+      },
+      "EFL0324 - MELHORAMENTO FLORESTAL": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.91
+      },
+      "EFL0302 - ESTATISTICA FLORESTAL": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.76
+      },
+      "EFL0304 - EXPERIMENTACAO FLORESTAL": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.06726812023536864,
+    "MediaDeNotas": 9.875,
+    "MediaDeDesvios": 1.4525000000000001,
+    "NotaMediana": 9.91
+  },
+  "FLAVO ELANO SOARES DE SOUZA": {
+    "Notas": [
+      7.4,
+      8.28,
+      8.36,
+      8.51,
+      8.61,
+      8.69,
+      8.82,
+      9.34,
+      9.37,
+      9.38,
+      9.44,
+      9.5,
+      9.55,
+      9.9
+    ],
+    "Desvios": [
+      1.66,
+      2.74,
+      1.94,
+      1.02,
+      1.58,
+      2.53,
+      2,
+      1.98,
+      1.45,
+      2.02,
+      2.16,
+      2.12,
+      2.26,
+      1.75
+    ],
+    "Componentes": {
+      "CCA0106 - DESENHO TÉCNICO": {
+        "Notas": [
+          8.36,
+          9.38,
+          9.55
+        ],
+        "Desvios": [
+          1.66,
+          2.74,
+          1.45
+        ],
+        "DesvioDeNotas": 0.5255050480780904,
+        "MediaDeNotas": 9.096666666666668,
+        "MediaDeDesvios": 1.9500000000000002,
+        "NotaMediana": 9.38
+      },
+      "EFL0342 - DESENHO TÉCNICO E CONSTRUÇÕES RURAIS": {
+        "Notas": [
+          9.34,
+          9.5
+        ],
+        "Desvios": [
+          1.94,
+          2.02
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.42,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.5
+      },
+      "CCA0124 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO": {
+        "Notas": [
+          8.51,
+          8.69,
+          9.44,
+          9.9
+        ],
+        "Desvios": [
+          1.02,
+          1.58,
+          2.16,
+          2.12
+        ],
+        "DesvioDeNotas": 0.5627832620112295,
+        "MediaDeNotas": 9.135,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.44
+      },
+      "CCA0111 - TOPOGRAFIA": {
+        "Notas": [
+          7.4
+        ],
+        "Desvios": [
+          2.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.4,
+        "MediaDeDesvios": 2.53,
+        "NotaMediana": 7.4
+      },
+      "CCA0126 - TOPOGRAFIA AGRÍCOLA E GEORREFERENCIAMENTO": {
+        "Notas": [
+          8.61,
+          8.82,
+          9.37
+        ],
+        "Desvios": [
+          2,
+          1.98,
+          1.75
+        ],
+        "DesvioDeNotas": 0.32045107097478825,
+        "MediaDeNotas": 8.933333333333332,
+        "MediaDeDesvios": 1.9100000000000001,
+        "NotaMediana": 8.82
+      },
+      "ARQ0002 - DESENHO TECNICO": {
+        "Notas": [
+          8.28
+        ],
+        "Desvios": [
+          2.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.28,
+        "MediaDeDesvios": 2.26,
+        "NotaMediana": 8.28
+      }
+    },
+    "DesvioDeNotas": 0.6497303208223536,
+    "MediaDeNotas": 8.939285714285713,
+    "MediaDeDesvios": 1.9435714285714287,
+    "NotaMediana": 9.34
+  },
+  "FRANCISCO ALEXANDRE DA COSTA": {
+    "Notas": [
+      7.72,
+      8.52,
+      8.59,
+      8.73,
+      9.18,
+      9.2,
+      9.73
+    ],
+    "Desvios": [
+      2.99,
+      2.32,
+      2.31,
+      2.21,
+      1.44,
+      1.28,
+      1.85
+    ],
+    "Componentes": {
+      "CCA0101 - CÁLCULO I": {
+        "Notas": [
+          7.72,
+          8.52,
+          8.73,
+          9.18,
+          9.2,
+          9.73
+        ],
+        "Desvios": [
+          2.99,
+          2.32,
+          2.31,
+          2.21,
+          1.44,
+          1.28
+        ],
+        "DesvioDeNotas": 0.6332368347537034,
+        "MediaDeNotas": 8.846666666666666,
+        "MediaDeDesvios": 2.091666666666667,
+        "NotaMediana": 9.18
+      },
+      "FIS0801 - FÍSICA GERAL I": {
+        "Notas": [
+          8.59
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.59,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 8.59
+      }
+    },
+    "DesvioDeNotas": 0.5931032191544983,
+    "MediaDeNotas": 8.81,
+    "MediaDeDesvios": 2.0571428571428574,
+    "NotaMediana": 8.73
+  },
+  "GERBSON AZEVEDO DE MENDONCA": {
+    "Notas": [
+      9.11,
+      9.16
+    ],
+    "Desvios": [
+      1.32,
+      1.74
+    ],
+    "Componentes": {
+      "EFL0315 - ENTOMOLOGIA FLORESTAL": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.11
+      },
+      "AGR0328 - PRAGAS DAS PLANTAS CULTIVADAS": {
+        "Notas": [
+          9.16
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.16
+      }
+    },
+    "DesvioDeNotas": 0.025000000000000355,
+    "MediaDeNotas": 9.135,
+    "MediaDeDesvios": 1.53,
+    "NotaMediana": 9.16
+  },
+  "GUALTER GUENTHER COSTA DA SILVA": {
+    "Notas": [
+      7.54,
+      7.62,
+      7.76,
+      7.85,
+      7.91,
+      8.11,
+      8.25,
+      8.41,
+      8.5,
+      8.62,
+      8.68,
+      8.75,
+      8.86,
+      8.93,
+      9.43
+    ],
+    "Desvios": [
+      1.23,
+      2.21,
+      1.84,
+      2.7,
+      2.35,
+      2.03,
+      1.8,
+      1.79,
+      2.08,
+      2.86,
+      2.38,
+      1.83,
+      2.17,
+      2,
+      1.61
+    ],
+    "Componentes": {
+      "CCA0122 - CIÊNCIA DO SOLO": {
+        "Notas": [
+          8.5,
+          8.62,
+          8.68,
+          8.86,
+          8.93,
+          9.43
+        ],
+        "Desvios": [
+          1.23,
+          2.21,
+          2.35,
+          1.79,
+          1.83,
+          2.17
+        ],
+        "DesvioDeNotas": 0.30169889330626026,
+        "MediaDeNotas": 8.836666666666666,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 8.86
+      },
+      "AGR0312 - MANEJO E CONSERVAÇÃO DOS SOLOS": {
+        "Notas": [
+          7.76,
+          7.91,
+          8.25,
+          8.41
+        ],
+        "Desvios": [
+          1.84,
+          1.8,
+          2.08,
+          1.61
+        ],
+        "DesvioDeNotas": 0.2593621984792696,
+        "MediaDeNotas": 8.0825,
+        "MediaDeDesvios": 1.8325000000000002,
+        "NotaMediana": 8.25
+      },
+      "EFL0314 - NUTRICAO MINERAL DAS ARVORES": {
+        "Notas": [
+          7.62,
+          8.11
+        ],
+        "Desvios": [
+          2.7,
+          2.86
+        ],
+        "DesvioDeNotas": 0.24499999999999966,
+        "MediaDeNotas": 7.865,
+        "MediaDeDesvios": 2.7800000000000002,
+        "NotaMediana": 8.11
+      },
+      "AGR0306 - FERTILIDADE DO SOLO": {
+        "Notas": [
+          7.85,
+          8.75
+        ],
+        "Desvios": [
+          2.03,
+          2
+        ],
+        "DesvioDeNotas": 0.4500000000000002,
+        "MediaDeNotas": 8.3,
+        "MediaDeDesvios": 2.0149999999999997,
+        "NotaMediana": 8.75
+      },
+      "AGR0313 - NUTRIÇÃO MINERAL DAS PLANTAS": {
+        "Notas": [
+          7.54
+        ],
+        "Desvios": [
+          2.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.54,
+        "MediaDeDesvios": 2.38,
+        "NotaMediana": 7.54
+      }
+    },
+    "DesvioDeNotas": 0.527828254896104,
+    "MediaDeNotas": 8.348,
+    "MediaDeDesvios": 2.058666666666667,
+    "NotaMediana": 8.41
+  },
+  "HAILSON ALVES FERREIRA PRESTON": {
+    "Notas": [
+      8.61,
+      8.62,
+      8.63,
+      9.05,
+      9.07,
+      9.08,
+      9.1,
+      9.22,
+      9.32,
+      9.38,
+      9.51,
+      9.55
+    ],
+    "Desvios": [
+      1.41,
+      1.56,
+      1.63,
+      1.62,
+      1.74,
+      1.68,
+      1.79,
+      1.74,
+      1.24,
+      2.04,
+      1.19,
+      1.63
+    ],
+    "Componentes": {
+      "CCA0128 - FITOPATOLOGIA II": {
+        "Notas": [
+          8.61,
+          9.32
+        ],
+        "Desvios": [
+          1.41,
+          1.79
+        ],
+        "DesvioDeNotas": 0.3550000000000004,
+        "MediaDeNotas": 8.965,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.32
+      },
+      "CCA0105 - MICROBIOLOGIA": {
+        "Notas": [
+          8.63,
+          9.38,
+          9.51
+        ],
+        "Desvios": [
+          1.56,
+          1.68,
+          1.19
+        ],
+        "DesvioDeNotas": 0.3878430381252473,
+        "MediaDeNotas": 9.173333333333334,
+        "MediaDeDesvios": 1.4766666666666666,
+        "NotaMediana": 9.38
+      },
+      "AGR0333 - PLANEJAMENTO ESTRATÉGICO DA PRODUÇÃO AGROPECUÁRIA": {
+        "Notas": [
+          9.07,
+          9.22
+        ],
+        "Desvios": [
+          1.63,
+          1.74
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.145,
+        "MediaDeDesvios": 1.685,
+        "NotaMediana": 9.22
+      },
+      "AGR0310 - FITOPATOLOGIA": {
+        "Notas": [
+          9.08,
+          9.55
+        ],
+        "Desvios": [
+          1.62,
+          1.24
+        ],
+        "DesvioDeNotas": 0.23500000000000032,
+        "MediaDeNotas": 9.315000000000001,
+        "MediaDeDesvios": 1.4300000000000002,
+        "NotaMediana": 9.55
+      },
+      "EFL0341 - FITOPATOLOGIA FLORESTAL": {
+        "Notas": [
+          8.62,
+          9.1
+        ],
+        "Desvios": [
+          1.74,
+          2.04
+        ],
+        "DesvioDeNotas": 0.2400000000000002,
+        "MediaDeNotas": 8.86,
+        "MediaDeDesvios": 1.8900000000000001,
+        "NotaMediana": 9.1
+      },
+      "ZOO0451 - PRAGAS E DOENÇAS DAS PLANTAS FORRAGEIRAS": {
+        "Notas": [
+          9.05
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.05
+      }
+    },
+    "DesvioDeNotas": 0.31710933971318706,
+    "MediaDeNotas": 9.095,
+    "MediaDeDesvios": 1.6058333333333332,
+    "NotaMediana": 9.1
+  },
+  "HENRIQUE ROCHA DE MEDEIROS": {
+    "Notas": [
+      7.05,
+      7.9,
+      8.08,
+      8.1,
+      8.45,
+      9,
+      9.11,
+      9.48,
+      9.68
+    ],
+    "Desvios": [
+      2.04,
+      1.46,
+      2.28,
+      2.55,
+      2.48,
+      3.02,
+      1.7,
+      0.88,
+      1.84
+    ],
+    "Componentes": {
+      "ZOO0330 - ECONOMIA RURAL": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 9.11
+      },
+      "ZOO0312 - PARASITOLOGIA, HIGIENE E PROFILAXIA ZOOTÉCNICA": {
+        "Notas": [
+          7.05,
+          9.48
+        ],
+        "Desvios": [
+          1.46,
+          3.02
+        ],
+        "DesvioDeNotas": 1.2150000000000003,
+        "MediaDeNotas": 8.265,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 9.48
+      },
+      "ZOO0314 - ECONOMIA E ADMINISTRAÇÃO RURAL": {
+        "Notas": [
+          8.45,
+          9
+        ],
+        "Desvios": [
+          2.28,
+          1.7
+        ],
+        "DesvioDeNotas": 0.27500000000000036,
+        "MediaDeNotas": 8.725,
+        "MediaDeDesvios": 1.9899999999999998,
+        "NotaMediana": 9
+      },
+      "ZOO0313 - EXTENSÃO E COMUNICAÇÃO RURAL": {
+        "Notas": [
+          8.08
+        ],
+        "Desvios": [
+          2.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.08,
+        "MediaDeDesvios": 2.55,
+        "NotaMediana": 8.08
+      },
+      "CCA0107 - ECOLOGIA GERAL": {
+        "Notas": [
+          8.1
+        ],
+        "Desvios": [
+          2.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.1,
+        "MediaDeDesvios": 2.48,
+        "NotaMediana": 8.1
+      },
+      "ZOO0468 - EQUIDEOCULTURA": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          0.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 0.88,
+        "NotaMediana": 9.68
+      },
+      "ZOO0337 - PARASITOLOGIA ZOOTÉCNICA": {
+        "Notas": [
+          7.9
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.9,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 7.9
+      }
+    },
+    "DesvioDeNotas": 0.8001867066079633,
+    "MediaDeNotas": 8.538888888888888,
+    "MediaDeDesvios": 2.0277777777777772,
+    "NotaMediana": 8.45
+  },
+  "IVAN MAX FREIRE DE LACERDA": {
+    "Notas": [
+      9.2,
+      9.24,
+      9.34,
+      9.6
+    ],
+    "Desvios": [
+      1.95,
+      2.29,
+      1.85,
+      1.68
+    ],
+    "Componentes": {
+      "TAD0007 - INSTALACAO E ARQUITETURA DE COMPUTADORES": {
+        "Notas": [
+          9.34,
+          9.6
+        ],
+        "Desvios": [
+          1.95,
+          1.68
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.469999999999999,
+        "MediaDeDesvios": 1.815,
+        "NotaMediana": 9.6
+      },
+      "TAD0035 - LEGISLACAO E ETICA EM TI": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          2.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 2.29,
+        "NotaMediana": 9.24
+      },
+      "TAD0034 - TOPICOS EM REDES DE COMPUTADORES": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.2
+      }
+    },
+    "DesvioDeNotas": 0.1558043645088288,
+    "MediaDeNotas": 9.344999999999999,
+    "MediaDeDesvios": 1.9425,
+    "NotaMediana": 9.34
+  },
+  "JANETE GOUVEIA DE SOUZA": {
+    "Notas": [
+      8.64,
+      9.11,
+      9.36,
+      9.45,
+      9.46,
+      9.49,
+      9.56,
+      9.65,
+      9.79,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.33,
+      2.03,
+      1.48,
+      1.76,
+      1.44,
+      1.06,
+      1.67,
+      1.37,
+      1.86,
+      1.29,
+      1.26
+    ],
+    "Componentes": {
+      "ZOO0467 - AVICULTURA": {
+        "Notas": [
+          9.11,
+          9.46,
+          9.84
+        ],
+        "Desvios": [
+          1.33,
+          1.44,
+          1.29
+        ],
+        "DesvioDeNotas": 0.29810512687081847,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.3533333333333335,
+        "NotaMediana": 9.46
+      },
+      "ZOO0318 - METODOLOGIA DA PESQUISA CIENTIFICA": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          2.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 2.03,
+        "NotaMediana": 9.45
+      },
+      "CCA0110 - ZOOLOGIA GERAL": {
+        "Notas": [
+          8.64,
+          9.56,
+          9.65,
+          9.79
+        ],
+        "Desvios": [
+          1.48,
+          1.76,
+          1.37,
+          1.86
+        ],
+        "DesvioDeNotas": 0.4520508820918279,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.6175000000000002,
+        "NotaMediana": 9.65
+      },
+      "ZOO0476 - COTURNICULTURA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.06,
+        "NotaMediana": 9.82
+      },
+      "CCA0116 - MÉTODOS E TÉCNICAS DE PESQUISA": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.49
+      },
+      "ZOO0441 - NUTRIÇÃO DE AVES": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.36
+      }
+    },
+    "DesvioDeNotas": 0.33490839995980437,
+    "MediaDeNotas": 9.47,
+    "MediaDeDesvios": 1.5045454545454546,
+    "NotaMediana": 9.49
+  },
+  "JOSE APARECIDO MOREIRA": {
+    "Notas": [
+      9.29,
+      9.39,
+      9.57,
+      9.59,
+      9.64,
+      9.68
+    ],
+    "Desvios": [
+      1.69,
+      1.09,
+      1.74,
+      1.03,
+      1.46,
+      1.32
+    ],
+    "Componentes": {
+      "CCA0121 - BIOQUÍMICA": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.59
+      },
+      "ZOO0469 - SUINOCULTURA": {
+        "Notas": [
+          9.57,
+          9.64
+        ],
+        "Desvios": [
+          1.09,
+          1.46
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.605,
+        "MediaDeDesvios": 1.275,
+        "NotaMediana": 9.64
+      },
+      "ZOO0429 - FORMULAÇÃO DE RAÇÕES": {
+        "Notas": [
+          9.29,
+          9.39
+        ],
+        "Desvios": [
+          1.74,
+          1.32
+        ],
+        "DesvioDeNotas": 0.05000000000000071,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.39
+      },
+      "ZOO0447 - NUTRIÇÃO DE SUÍNOS": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.03,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.13960261060914633,
+    "MediaDeNotas": 9.526666666666667,
+    "MediaDeDesvios": 1.3883333333333334,
+    "NotaMediana": 9.59
+  },
+  "JOSE HAMILTON DA COSTA FILHO": {
+    "Notas": [
+      6.67,
+      7.55,
+      7.62,
+      8.62,
+      9.07,
+      9.14,
+      9.22,
+      9.55
+    ],
+    "Desvios": [
+      1.95,
+      1.81,
+      2.49,
+      1.85,
+      1.73,
+      1.8,
+      1.49,
+      1.43
+    ],
+    "Componentes": {
+      "AGR0327 - CULTURAS AGRICOLAS III": {
+        "Notas": [
+          7.55
+        ],
+        "Desvios": [
+          1.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.55,
+        "MediaDeDesvios": 1.95,
+        "NotaMediana": 7.55
+      },
+      "CCA0123 - GENÉTICA GERAL": {
+        "Notas": [
+          9.07,
+          9.14
+        ],
+        "Desvios": [
+          1.81,
+          1.73
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.105,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.14
+      },
+      "AGR0324 - MECANIZAÇÃO AGRÍCOLA": {
+        "Notas": [
+          6.67
+        ],
+        "Desvios": [
+          2.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.67,
+        "MediaDeDesvios": 2.49,
+        "NotaMediana": 6.67
+      },
+      "AGR0317 - MELHORAMENTO VEGETAL": {
+        "Notas": [
+          7.62,
+          9.22
+        ],
+        "Desvios": [
+          1.85,
+          1.43
+        ],
+        "DesvioDeNotas": 0.8000000000000003,
+        "MediaDeNotas": 8.42,
+        "MediaDeDesvios": 1.6400000000000001,
+        "NotaMediana": 9.22
+      },
+      "CCA0114 - ESTATÍSTICA": {
+        "Notas": [
+          8.62,
+          9.55
+        ],
+        "Desvios": [
+          1.8,
+          1.49
+        ],
+        "DesvioDeNotas": 0.46500000000000075,
+        "MediaDeNotas": 9.085,
+        "MediaDeDesvios": 1.645,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.9589316972548152,
+    "MediaDeNotas": 8.43,
+    "MediaDeDesvios": 1.81875,
+    "NotaMediana": 9.07
+  },
+  "JOSE RIBAMAR SILVA DO NASCIMENTO JUNIOR": {
+    "Notas": [
+      9.15,
+      9.19
+    ],
+    "Desvios": [
+      2.07,
+      1.9
+    ],
+    "Componentes": {
+      "CCA0107 - ECOLOGIA GERAL": {
+        "Notas": [
+          9.15,
+          9.19
+        ],
+        "Desvios": [
+          2.07,
+          1.9
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 1.9849999999999999,
+        "NotaMediana": 9.19
+      }
+    },
+    "DesvioDeNotas": 0.019999999999999574,
+    "MediaDeNotas": 9.17,
+    "MediaDeDesvios": 1.9849999999999999,
+    "NotaMediana": 9.19
+  },
+  "JOSENALDE BARBOSA DE OLIVEIRA": {
+    "Notas": [
+      9.77,
+      9.91,
+      9.96
+    ],
+    "Desvios": [
+      1.58,
+      1.12,
+      0.89
+    ],
+    "Componentes": {
+      "TAD0001 - FUNDAMENTOS DA COMPUTACAO": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.77
+      },
+      "TAD0036 - SISTEMAS EMBARCADOS": {
+        "Notas": [
+          9.91,
+          9.96
+        ],
+        "Desvios": [
+          1.12,
+          0.89
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.935,
+        "MediaDeDesvios": 1.0050000000000001,
+        "NotaMediana": 9.96
+      }
+    },
+    "DesvioDeNotas": 0.08041558721209928,
+    "MediaDeNotas": 9.88,
+    "MediaDeDesvios": 1.1966666666666668,
+    "NotaMediana": 9.91
+  },
+  "JOSENILDA APRIGIO DANTAS DE MEDEIROS": {
+    "Notas": [
+      8.95,
+      8.95,
+      9.51
+    ],
+    "Desvios": [
+      1.98,
+      1.96,
+      1.86
+    ],
+    "Componentes": {
+      "EFL0316 - MANEJO DE BACIAS HIDROGRAFICAS": {
+        "Notas": [
+          8.95
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 8.95
+      },
+      "EFL0332 - RECUPERACAO DE AREAS DEGRADADAS": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 9.51
+      },
+      "EFL0400 - SOLOS FLORESTAIS": {
+        "Notas": [
+          8.95
+        ],
+        "Desvios": [
+          1.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 1.86,
+        "NotaMediana": 8.95
+      }
+    },
+    "DesvioDeNotas": 0.263986531642978,
+    "MediaDeNotas": 9.136666666666667,
+    "MediaDeDesvios": 1.9333333333333333,
+    "NotaMediana": 8.95
+  },
+  "JOSIMAR TORRES GOMES": {
+    "Notas": [
+      5.57,
+      9.28
+    ],
+    "Desvios": [
+      3.8,
+      1.71
+    ],
+    "Componentes": {
+      "ZOO0400 - AGRICULTURA FAMILIAR": {
+        "Notas": [
+          5.57
+        ],
+        "Desvios": [
+          3.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 5.57,
+        "MediaDeDesvios": 3.8,
+        "NotaMediana": 5.57
+      },
+      "ZOO0462 - BOVINOCULTURA DE CORTE": {
+        "Notas": [
+          9.28
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.28,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.28
+      }
+    },
+    "DesvioDeNotas": 1.8549999999999995,
+    "MediaDeNotas": 7.425,
+    "MediaDeDesvios": 2.755,
+    "NotaMediana": 9.28
+  },
+  "JULIANA LORENSI DO CANTO": {
+    "Notas": [
+      9.44,
+      9.5,
+      9.61,
+      9.73,
+      9.76,
+      9.8,
+      9.81,
+      9.85
+    ],
+    "Desvios": [
+      1.3,
+      1.85,
+      1.61,
+      1.26,
+      1.57,
+      1.18,
+      1.5,
+      1.08
+    ],
+    "Componentes": {
+      "EFL0310 - DENDROMETRIA": {
+        "Notas": [
+          9.76,
+          9.81
+        ],
+        "Desvios": [
+          1.3,
+          1.57
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.785,
+        "MediaDeDesvios": 1.435,
+        "NotaMediana": 9.81
+      },
+      "EFL0330 - EXPLORACAO E TRANSPORTE FLORESTAL": {
+        "Notas": [
+          9.61,
+          9.8
+        ],
+        "Desvios": [
+          1.85,
+          1.18
+        ],
+        "DesvioDeNotas": 0.09500000000000064,
+        "MediaDeNotas": 9.705,
+        "MediaDeDesvios": 1.5150000000000001,
+        "NotaMediana": 9.8
+      },
+      "EFL0325 - MECANIZACAO FLORESTAL": {
+        "Notas": [
+          9.5,
+          9.85
+        ],
+        "Desvios": [
+          1.61,
+          1.5
+        ],
+        "DesvioDeNotas": 0.17499999999999982,
+        "MediaDeNotas": 9.675,
+        "MediaDeDesvios": 1.5550000000000002,
+        "NotaMediana": 9.85
+      },
+      "AGR0334 - SILVICULTURA": {
+        "Notas": [
+          9.44,
+          9.73
+        ],
+        "Desvios": [
+          1.26,
+          1.08
+        ],
+        "DesvioDeNotas": 0.14500000000000046,
+        "MediaDeNotas": 9.585,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.14298164217828827,
+    "MediaDeNotas": 9.687500000000002,
+    "MediaDeDesvios": 1.4187500000000002,
+    "NotaMediana": 9.76
+  },
+  "JULIO GOMES JUNIOR": {
+    "Notas": [
+      8.88,
+      9.34
+    ],
+    "Desvios": [
+      1.29,
+      1.84
+    ],
+    "Componentes": {
+      "CCA0127 - PÓS-COLHEITA E PROCESSAMENTO DE PRODUTOS AGROPECUÁRIOS": {
+        "Notas": [
+          8.88,
+          9.34
+        ],
+        "Desvios": [
+          1.29,
+          1.84
+        ],
+        "DesvioDeNotas": 0.22999999999999954,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 1.565,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.22999999999999954,
+    "MediaDeNotas": 9.11,
+    "MediaDeDesvios": 1.565,
+    "NotaMediana": 9.34
+  },
+  "KAREN MARIA DA COSTA MATTOS": {
+    "Notas": [
+      7.74,
+      7.99,
+      8.3,
+      8.45,
+      8.68,
+      8.71,
+      8.75,
+      8.91,
+      9,
+      9.04,
+      9.14,
+      9.24
+    ],
+    "Desvios": [
+      2.39,
+      1.38,
+      2.4,
+      1.87,
+      1.85,
+      1.77,
+      1.81,
+      1.47,
+      1.55,
+      1.42,
+      2.08,
+      1.32
+    ],
+    "Componentes": {
+      "ZOO0311 - GESTÃO DE RECURSOS AMBIENTAIS": {
+        "Notas": [
+          8.3,
+          9
+        ],
+        "Desvios": [
+          2.39,
+          1.81
+        ],
+        "DesvioDeNotas": 0.34999999999999964,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9
+      },
+      "AGR0331 - GESTÃO DE RECURSOS NATURAIS": {
+        "Notas": [
+          8.75,
+          8.91,
+          9.14,
+          9.24
+        ],
+        "Desvios": [
+          1.38,
+          1.85,
+          1.47,
+          1.32
+        ],
+        "DesvioDeNotas": 0.1919635382045248,
+        "MediaDeNotas": 9.010000000000002,
+        "MediaDeDesvios": 1.5050000000000001,
+        "NotaMediana": 9.14
+      },
+      "AGR0345 - LEGISLAÇÃO E LICENCIAMENTO AMBIENTAL": {
+        "Notas": [
+          7.99,
+          8.71
+        ],
+        "Desvios": [
+          2.4,
+          1.42
+        ],
+        "DesvioDeNotas": 0.3600000000000003,
+        "MediaDeNotas": 8.350000000000001,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 8.71
+      },
+      "ZOO0316 - AGRONEGÓCIO": {
+        "Notas": [
+          7.74,
+          8.68
+        ],
+        "Desvios": [
+          1.87,
+          2.08
+        ],
+        "DesvioDeNotas": 0.46999999999999975,
+        "MediaDeNotas": 8.21,
+        "MediaDeDesvios": 1.975,
+        "NotaMediana": 8.68
+      },
+      "AGR0350 - GESTÃO EMPRESARIAL RURAL": {
+        "Notas": [
+          8.45,
+          9.04
+        ],
+        "Desvios": [
+          1.77,
+          1.55
+        ],
+        "DesvioDeNotas": 0.29499999999999993,
+        "MediaDeNotas": 8.745,
+        "MediaDeDesvios": 1.6600000000000001,
+        "NotaMediana": 9.04
+      }
+    },
+    "DesvioDeNotas": 0.44433705299768395,
+    "MediaDeNotas": 8.6625,
+    "MediaDeDesvios": 1.775833333333333,
+    "NotaMediana": 8.75
+  },
+  "KARINA RIBEIRO": {
+    "Notas": [
+      8.98,
+      9.02,
+      9.18,
+      9.96
+    ],
+    "Desvios": [
+      1.47,
+      1.39,
+      1.78,
+      1.19
+    ],
+    "Componentes": {
+      "ZOO0411 - CARCINOCULTURA": {
+        "Notas": [
+          8.98,
+          9.02,
+          9.18,
+          9.96
+        ],
+        "Desvios": [
+          1.47,
+          1.39,
+          1.78,
+          1.19
+        ],
+        "DesvioDeNotas": 0.3968311983702898,
+        "MediaDeNotas": 9.285,
+        "MediaDeDesvios": 1.4575,
+        "NotaMediana": 9.18
+      }
+    },
+    "DesvioDeNotas": 0.3968311983702898,
+    "MediaDeNotas": 9.285,
+    "MediaDeDesvios": 1.4575,
+    "NotaMediana": 9.18
+  },
+  "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA": {
+    "Notas": [
+      9.77,
+      9.8,
+      9.81,
+      9.83,
+      9.88,
+      9.91,
+      9.93,
+      9.95,
+      9.96,
+      9.97
+    ],
+    "Desvios": [
+      1.29,
+      1.49,
+      1.33,
+      1.35,
+      1.46,
+      1.32,
+      1.64,
+      0.91,
+      1.64,
+      1.7
+    ],
+    "Componentes": {
+      "TAD0065 - APRENDIZADO DE MAQUINA": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.97
+      },
+      "TAD0002 - LOGICA COMPUTACIONAL E ALGORITMOS": {
+        "Notas": [
+          9.81,
+          9.83
+        ],
+        "Desvios": [
+          1.49,
+          1.64
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.565,
+        "NotaMediana": 9.83
+      },
+      "TAD0032 - METODOLOGIA DO TRABALHO CIENTIFICO": {
+        "Notas": [
+          9.91,
+          9.95
+        ],
+        "Desvios": [
+          1.33,
+          0.91
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.12,
+        "NotaMediana": 9.95
+      },
+      "TAD0025 - INTELIGÊNCIA COMPUTACIONAL": {
+        "Notas": [
+          9.88,
+          9.96
+        ],
+        "Desvios": [
+          1.35,
+          1.64
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.920000000000002,
+        "MediaDeDesvios": 1.495,
+        "NotaMediana": 9.96
+      },
+      "TAD0009 - PROGRAMACAO ORIENTADA A OBJETOS": {
+        "Notas": [
+          9.8,
+          9.93
+        ],
+        "Desvios": [
+          1.46,
+          1.7
+        ],
+        "DesvioDeNotas": 0.0649999999999995,
+        "MediaDeNotas": 9.865,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.93
+      },
+      "CCA0104 - AGROINFORMÁTICA": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.06977822009767806,
+    "MediaDeNotas": 9.881,
+    "MediaDeDesvios": 1.413,
+    "NotaMediana": 9.91
+  },
+  "LEONARDO RODRIGUES DE LIMA TEIXEIRA": {
+    "Notas": [
+      9.68,
+      9.76,
+      9.8,
+      9.97
+    ],
+    "Desvios": [
+      1.59,
+      1.37,
+      1.62,
+      1.32
+    ],
+    "Componentes": {
+      "TAD0023 - CIRCUITOS DIGITAIS": {
+        "Notas": [
+          9.68,
+          9.76
+        ],
+        "Desvios": [
+          1.59,
+          1.62
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.719999999999999,
+        "MediaDeDesvios": 1.605,
+        "NotaMediana": 9.76
+      },
+      "TAD0030 - MICROCONTROLADORES": {
+        "Notas": [
+          9.8,
+          9.97
+        ],
+        "Desvios": [
+          1.37,
+          1.32
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.885000000000002,
+        "MediaDeDesvios": 1.3450000000000002,
+        "NotaMediana": 9.97
+      }
+    },
+    "DesvioDeNotas": 0.10591860082157466,
+    "MediaDeNotas": 9.8025,
+    "MediaDeDesvios": 1.475,
+    "NotaMediana": 9.8
+  },
+  "LUCIANO PATTO NOVAES": {
+    "Notas": [
+      8.99,
+      9.07
+    ],
+    "Desvios": [
+      2,
+      1.39
+    ],
+    "Componentes": {
+      "ZOO0408 - BUBALINOCULTURA": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 9.07
+      },
+      "ZOO0457 - SISTEMAS AGROSILVOPASTORIS": {
+        "Notas": [
+          8.99
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.99,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 8.99
+      }
+    },
+    "DesvioDeNotas": 0.040000000000000036,
+    "MediaDeNotas": 9.030000000000001,
+    "MediaDeDesvios": 1.6949999999999998,
+    "NotaMediana": 9.07
+  },
+  "LUIS HENRIQUE FERNANDES BORBA": {
+    "Notas": [
+      8.39,
+      9.21,
+      9.41,
+      9.45,
+      9.58,
+      9.66,
+      9.71
+    ],
+    "Desvios": [
+      1.89,
+      2.09,
+      1.59,
+      1.16,
+      0.78,
+      1.56,
+      0.97
+    ],
+    "Componentes": {
+      "ZOO0470 - GENÉTICA QUANTITATIVA": {
+        "Notas": [
+          9.45,
+          9.58
+        ],
+        "Desvios": [
+          1.89,
+          1.16
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.515,
+        "MediaDeDesvios": 1.525,
+        "NotaMediana": 9.58
+      },
+      "ZOO0471 - MELHORAMENTO GENÉTICO ANIMAL": {
+        "Notas": [
+          8.39,
+          9.41
+        ],
+        "Desvios": [
+          2.09,
+          0.97
+        ],
+        "DesvioDeNotas": 0.5099999999999998,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 1.5299999999999998,
+        "NotaMediana": 9.41
+      },
+      "CCA0123 - GENÉTICA GERAL": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.66
+      },
+      "ZOO0468 - EQUIDEOCULTURA": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          0.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 0.78,
+        "NotaMediana": 9.71
+      },
+      "CCA0114 - ESTATÍSTICA": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.21
+      }
+    },
+    "DesvioDeNotas": 0.41972294068680044,
+    "MediaDeNotas": 9.344285714285714,
+    "MediaDeDesvios": 1.4342857142857144,
+    "NotaMediana": 9.45
+  },
+  "LUIZ EDUARDO SANTOS LAZZARINI": {
+    "Notas": [
+      9.12,
+      9.25
+    ],
+    "Desvios": [
+      2.12,
+      1.72
+    ],
+    "Componentes": {
+      "EFL0315 - ENTOMOLOGIA FLORESTAL": {
+        "Notas": [
+          9.12
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.12,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 9.12
+      },
+      "AGR0328 - PRAGAS DAS PLANTAS CULTIVADAS": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.25
+      }
+    },
+    "DesvioDeNotas": 0.06500000000000039,
+    "MediaDeNotas": 9.184999999999999,
+    "MediaDeDesvios": 1.92,
+    "NotaMediana": 9.25
+  },
+  "MALCON DO PRADO COSTA": {
+    "Notas": [
+      6.43,
+      6.64,
+      8.32,
+      8.65,
+      8.7,
+      9.23,
+      9.93
+    ],
+    "Desvios": [
+      2.47,
+      3.35,
+      3.43,
+      0.6,
+      1.85,
+      1.61,
+      2.03
+    ],
+    "Componentes": {
+      "EFL0317 - SILVICULTURA": {
+        "Notas": [
+          8.32
+        ],
+        "Desvios": [
+          2.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.32,
+        "MediaDeDesvios": 2.47,
+        "NotaMediana": 8.32
+      },
+      "EFL0303 - DENDROLOGIA": {
+        "Notas": [
+          6.64,
+          9.23
+        ],
+        "Desvios": [
+          3.35,
+          1.61
+        ],
+        "DesvioDeNotas": 1.2950000000000004,
+        "MediaDeNotas": 7.9350000000000005,
+        "MediaDeDesvios": 2.48,
+        "NotaMediana": 9.23
+      },
+      "EFL0322 - ECOLOGIA FLORESTAL": {
+        "Notas": [
+          6.43,
+          8.7
+        ],
+        "Desvios": [
+          3.43,
+          2.03
+        ],
+        "DesvioDeNotas": 1.1349999999999998,
+        "MediaDeNotas": 7.5649999999999995,
+        "MediaDeDesvios": 2.73,
+        "NotaMediana": 8.7
+      },
+      "CCA0107 - ECOLOGIA GERAL": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          0.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 0.6,
+        "NotaMediana": 9.93
+      },
+      "EFL0422 - FITOSSOCIOLOGIA": {
+        "Notas": [
+          8.65
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 8.65
+      }
+    },
+    "DesvioDeNotas": 1.1983015190728272,
+    "MediaDeNotas": 8.271428571428572,
+    "MediaDeDesvios": 2.1914285714285713,
+    "NotaMediana": 8.65
+  },
+  "MARCIO DIAS PEREIRA": {
+    "Notas": [
+      7.83,
+      8.54,
+      9.09,
+      9.13,
+      9.27
+    ],
+    "Desvios": [
+      1.78,
+      2.09,
+      2.01,
+      1.34,
+      1.29
+    ],
+    "Componentes": {
+      "AGR0327 - CULTURAS AGRICOLAS III": {
+        "Notas": [
+          7.83
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.83,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 7.83
+      },
+      "TAD0016 - VERTENTES PRODUTIVAS NAS CIENCIAS AGRARIAS": {
+        "Notas": [
+          8.54,
+          9.13
+        ],
+        "Desvios": [
+          2.09,
+          2.01
+        ],
+        "DesvioDeNotas": 0.2950000000000008,
+        "MediaDeNotas": 8.835,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 9.13
+      },
+      "AGR0378 - PRODUÇÃO E TECNOLOGIA DE SEMENTES": {
+        "Notas": [
+          9.27
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.27
+      },
+      "ZOO0459 - TECNOLOGIA E PRODUÇÃO DE SEMENTES FORRAGEIRAS": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 0.5326312044933155,
+    "MediaDeNotas": 8.772,
+    "MediaDeDesvios": 1.702,
+    "NotaMediana": 9.09
+  },
+  "MARCONE GERALDO COSTA": {
+    "Notas": [
+      8.91,
+      9.06,
+      9.12,
+      9.25,
+      9.28,
+      9.4,
+      9.51,
+      9.67
+    ],
+    "Desvios": [
+      1.39,
+      1.6,
+      2.23,
+      2,
+      1.52,
+      1.65,
+      1.83,
+      1.41
+    ],
+    "Componentes": {
+      "ZOO0323 - ANÁLISES DE ALIMENTOS": {
+        "Notas": [
+          9.25,
+          9.51
+        ],
+        "Desvios": [
+          1.39,
+          1.65
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.379999999999999,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.51
+      },
+      "CCA0121 - BIOQUÍMICA": {
+        "Notas": [
+          9.67
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.67
+      },
+      "ZOO0425 - FISIOLOGIA DA DIGESTÃO": {
+        "Notas": [
+          8.91,
+          9.06
+        ],
+        "Desvios": [
+          2.23,
+          1.83
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 8.985,
+        "MediaDeDesvios": 2.0300000000000002,
+        "NotaMediana": 9.06
+      },
+      "ZOO0318 - METODOLOGIA DA PESQUISA CIENTIFICA": {
+        "Notas": [
+          9.12
+        ],
+        "Desvios": [
+          2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.12,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 9.12
+      },
+      "ZOO0306 - NUTRIÇÃO E ALIMENTAÇÃO DE RUMINANTES": {
+        "Notas": [
+          9.28,
+          9.4
+        ],
+        "Desvios": [
+          1.52,
+          1.41
+        ],
+        "DesvioDeNotas": 0.0600000000000005,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.4649999999999999,
+        "NotaMediana": 9.4
+      }
+    },
+    "DesvioDeNotas": 0.23210988776870317,
+    "MediaDeNotas": 9.275,
+    "MediaDeDesvios": 1.70375,
+    "NotaMediana": 9.28
+  },
+  "MARIA LUCIANA LIRA DE ANDRADE": {
+    "Notas": [
+      9.58,
+      9.58,
+      9.63,
+      9.75,
+      9.77,
+      9.81
+    ],
+    "Desvios": [
+      1.96,
+      1.78,
+      1.47,
+      1.3,
+      1.63,
+      1.26
+    ],
+    "Componentes": {
+      "CCA0102 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.58,
+          9.63,
+          9.75,
+          9.77,
+          9.81
+        ],
+        "Desvios": [
+          1.96,
+          1.78,
+          1.47,
+          1.63,
+          1.26
+        ],
+        "DesvioDeNotas": 0.08772684879784513,
+        "MediaDeNotas": 9.708000000000002,
+        "MediaDeDesvios": 1.6199999999999999,
+        "NotaMediana": 9.75
+      },
+      "AGR0326 - BIOTECNOLOGIA AGRICOLA": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.58
+      }
+    },
+    "DesvioDeNotas": 0.09321420969406369,
+    "MediaDeNotas": 9.686666666666667,
+    "MediaDeDesvios": 1.5666666666666667,
+    "NotaMediana": 9.75
+  },
+  "MAURO VASCONCELOS PACHECO": {
+    "Notas": [
+      8.46,
+      8.99,
+      9.28,
+      9.46
+    ],
+    "Desvios": [
+      1.57,
+      1.78,
+      2.19,
+      1.59
+    ],
+    "Componentes": {
+      "EFL0311 - VIVEIROS FLORESTAIS": {
+        "Notas": [
+          8.46,
+          9.28
+        ],
+        "Desvios": [
+          1.57,
+          2.19
+        ],
+        "DesvioDeNotas": 0.40999999999999925,
+        "MediaDeNotas": 8.870000000000001,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 9.28
+      },
+      "EFL0307 - SEMENTES FLORESTAIS": {
+        "Notas": [
+          8.99,
+          9.46
+        ],
+        "Desvios": [
+          1.78,
+          1.59
+        ],
+        "DesvioDeNotas": 0.23500000000000032,
+        "MediaDeNotas": 9.225000000000001,
+        "MediaDeDesvios": 1.685,
+        "NotaMediana": 9.46
+      }
+    },
+    "DesvioDeNotas": 0.3783764659700704,
+    "MediaDeNotas": 9.0475,
+    "MediaDeDesvios": 1.7825,
+    "NotaMediana": 9.28
+  },
+  "NESIO ANTONIO MOREIRA TEIXEIRA DE BARROS": {
+    "Notas": [
+      9.09,
+      9.28,
+      9.33,
+      9.4,
+      9.57,
+      9.57,
+      9.89
+    ],
+    "Desvios": [
+      1.5,
+      2.14,
+      1.93,
+      1.35,
+      2.41,
+      0.58,
+      1.54
+    ],
+    "Componentes": {
+      "ZOO0302 - BIOCLIMATOLOGIA ANIMAL": {
+        "Notas": [
+          9.09,
+          9.57,
+          9.89
+        ],
+        "Desvios": [
+          1.5,
+          1.93,
+          0.58
+        ],
+        "DesvioDeNotas": 0.3287687468250124,
+        "MediaDeNotas": 9.516666666666667,
+        "MediaDeDesvios": 1.3366666666666667,
+        "NotaMediana": 9.57
+      },
+      "ZOO0300 - ZOOTECNIA GERAL": {
+        "Notas": [
+          9.28,
+          9.33
+        ],
+        "Desvios": [
+          2.14,
+          2.41
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.305,
+        "MediaDeDesvios": 2.2750000000000004,
+        "NotaMediana": 9.33
+      },
+      "CCA0109 - ZOOTECNIA GERAL": {
+        "Notas": [
+          9.4,
+          9.57
+        ],
+        "Desvios": [
+          1.35,
+          1.54
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.485,
+        "MediaDeDesvios": 1.445,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.2383703172864974,
+    "MediaDeNotas": 9.44714285714286,
+    "MediaDeDesvios": 1.6357142857142857,
+    "NotaMediana": 9.4
+  },
+  "PAULO MARIO CARVALHO DE FARIA": {
+    "Notas": [
+      8.29,
+      8.71,
+      9.45,
+      9.57
+    ],
+    "Desvios": [
+      1.41,
+      2.09,
+      1.6,
+      1.58
+    ],
+    "Componentes": {
+      "ZOO0450 - PISCICULTURA": {
+        "Notas": [
+          8.29,
+          8.71,
+          9.45,
+          9.57
+        ],
+        "Desvios": [
+          1.41,
+          2.09,
+          1.6,
+          1.58
+        ],
+        "DesvioDeNotas": 0.5280861672113748,
+        "MediaDeNotas": 9.004999999999999,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.45
+      }
+    },
+    "DesvioDeNotas": 0.5280861672113748,
+    "MediaDeNotas": 9.004999999999999,
+    "MediaDeDesvios": 1.67,
+    "NotaMediana": 9.45
+  },
+  "PAULO ROGERIO SOARES DE OLIVEIRA": {
+    "Notas": [
+      6.02,
+      6.46,
+      7.01,
+      7.06,
+      7.25,
+      7.92,
+      8.64,
+      8.95,
+      9.09,
+      9.4
+    ],
+    "Desvios": [
+      3.77,
+      3.25,
+      2.89,
+      2.4,
+      2.97,
+      2.26,
+      0.86,
+      2.71,
+      1.47,
+      1.66
+    ],
+    "Componentes": {
+      "EFL0417 - ETICA E EXERCICIO PROFISSIONAL": {
+        "Notas": [
+          6.46,
+          9.4
+        ],
+        "Desvios": [
+          3.77,
+          0.86
+        ],
+        "DesvioDeNotas": 1.4700000000000002,
+        "MediaDeNotas": 7.93,
+        "MediaDeDesvios": 2.315,
+        "NotaMediana": 9.4
+      },
+      "EFL0326 - MANEJO FLORESTAL": {
+        "Notas": [
+          6.02
+        ],
+        "Desvios": [
+          3.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.02,
+        "MediaDeDesvios": 3.25,
+        "NotaMediana": 6.02
+      },
+      "EFL0334 - POLITICA, ADMINISTRACAO E LEGISLACAO FLORESTAL": {
+        "Notas": [
+          7.92,
+          8.64
+        ],
+        "Desvios": [
+          2.89,
+          2.26
+        ],
+        "DesvioDeNotas": 0.3600000000000003,
+        "MediaDeNotas": 8.280000000000001,
+        "MediaDeDesvios": 2.575,
+        "NotaMediana": 8.64
+      },
+      "EFL0318 - ECONOMIA FLORESTAL": {
+        "Notas": [
+          7.06,
+          9.09
+        ],
+        "Desvios": [
+          2.4,
+          1.47
+        ],
+        "DesvioDeNotas": 1.0150000000000001,
+        "MediaDeNotas": 8.075,
+        "MediaDeDesvios": 1.935,
+        "NotaMediana": 9.09
+      },
+      "EFL0323 - INVENTARIO FLORESTAL": {
+        "Notas": [
+          7.01,
+          8.95
+        ],
+        "Desvios": [
+          2.97,
+          1.66
+        ],
+        "DesvioDeNotas": 0.9699999999999998,
+        "MediaDeNotas": 7.9799999999999995,
+        "MediaDeDesvios": 2.315,
+        "NotaMediana": 8.95
+      },
+      "EFL0416 - SOCIEDADE E MEIO AMBIENTE": {
+        "Notas": [
+          7.25
+        ],
+        "Desvios": [
+          2.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.25,
+        "MediaDeDesvios": 2.71,
+        "NotaMediana": 7.25
+      }
+    },
+    "DesvioDeNotas": 1.1269782606598941,
+    "MediaDeNotas": 7.779999999999999,
+    "MediaDeDesvios": 2.424,
+    "NotaMediana": 7.92
+  },
+  "RENATA MARIA ALVES COUTINHO CAMPERO": {
+    "Notas": [
+      8.25,
+      8.38,
+      8.72,
+      9.06,
+      9.13,
+      9.22,
+      9.29,
+      9.44,
+      9.56,
+      9.57,
+      9.63,
+      9.77
+    ],
+    "Desvios": [
+      1.69,
+      2.01,
+      1.87,
+      1.8,
+      1.8,
+      1.66,
+      1.83,
+      1.31,
+      0.71,
+      1.63,
+      1.21,
+      1.78
+    ],
+    "Componentes": {
+      "ZOO0430 - FUNDAMENTOS DE HIDROLOGIA E IRRIGAÇÃO": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.29
+      },
+      "ZOO0308 - INSTALAÇÕES ZOOTÉCNICAS TROPICAIS": {
+        "Notas": [
+          9.13
+        ],
+        "Desvios": [
+          2.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.13,
+        "MediaDeDesvios": 2.01,
+        "NotaMediana": 9.13
+      },
+      "CCA0105 - MICROBIOLOGIA": {
+        "Notas": [
+          9.44
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.44,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.44
+      },
+      "CCA0119 - SOCIOLOGIA E EXTENSÃO RURAL": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.22
+      },
+      "CCA0110 - ZOOLOGIA GERAL": {
+        "Notas": [
+          9.56,
+          9.63
+        ],
+        "Desvios": [
+          1.8,
+          1.66
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.595,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.63
+      },
+      "ZOO0314 - ECONOMIA E ADMINISTRAÇÃO RURAL": {
+        "Notas": [
+          8.25
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.25,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 8.25
+      },
+      "ZOO0326 - EMBRIOLOGIA E REPRODUÇÃO ANIMAL": {
+        "Notas": [
+          8.38
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.38,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 8.38
+      },
+      "ZOO0468 - EQUIDEOCULTURA": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          0.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 0.71,
+        "NotaMediana": 9.77
+      },
+      "ZOO0313 - EXTENSÃO E COMUNICAÇÃO RURAL": {
+        "Notas": [
+          8.72
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.72,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 8.72
+      },
+      "ZOO0304 - FISIOLOGIA DOS ANIMAIS DOMÉSTICOS": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.57
+      },
+      "ZOO0337 - PARASITOLOGIA ZOOTÉCNICA": {
+        "Notas": [
+          9.06
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.06
+      }
+    },
+    "DesvioDeNotas": 0.4708296460032603,
+    "MediaDeNotas": 9.168333333333335,
+    "MediaDeDesvios": 1.6083333333333334,
+    "NotaMediana": 9.29
+  },
+  "RENATA MARTINS BRAGA": {
+    "Notas": [
+      8.82,
+      9.31,
+      9.32,
+      9.4,
+      9.41,
+      9.48,
+      9.66,
+      9.77,
+      9.78
+    ],
+    "Desvios": [
+      1.85,
+      1.42,
+      1.97,
+      1.28,
+      1.15,
+      1.35,
+      1.5,
+      1.81,
+      1.2
+    ],
+    "Componentes": {
+      "CCA0103 - QUÍMICA GERAL": {
+        "Notas": [
+          9.31,
+          9.32,
+          9.4,
+          9.41,
+          9.77
+        ],
+        "Desvios": [
+          1.85,
+          1.42,
+          1.97,
+          1.15,
+          1.81
+        ],
+        "DesvioDeNotas": 0.1689260193102291,
+        "MediaDeNotas": 9.442,
+        "MediaDeDesvios": 1.6400000000000001,
+        "NotaMediana": 9.4
+      },
+      "CCA0121 - BIOQUÍMICA": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.78
+      },
+      "CCA0108 - FÍSICA GERAL E EXPERIMENTAL": {
+        "Notas": [
+          9.48,
+          9.66
+        ],
+        "Desvios": [
+          1.35,
+          1.2
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.275,
+        "NotaMediana": 9.66
+      },
+      "CCA0400 - QUÍMICA AMBIENTAL": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 8.82
+      }
+    },
+    "DesvioDeNotas": 0.27742644448351583,
+    "MediaDeNotas": 9.43888888888889,
+    "MediaDeDesvios": 1.5033333333333332,
+    "NotaMediana": 9.41
+  },
+  "ROSIMEIRE CAVALCANTE DOS SANTOS": {
+    "Notas": [
+      7.44,
+      7.47,
+      7.84,
+      7.97,
+      8.05,
+      8.54
+    ],
+    "Desvios": [
+      2.27,
+      1.9,
+      1.75,
+      1.84,
+      1.69,
+      1.7
+    ],
+    "Componentes": {
+      "AGR0341 - BIOENERGIAS": {
+        "Notas": [
+          7.47,
+          7.97
+        ],
+        "Desvios": [
+          2.27,
+          1.84
+        ],
+        "DesvioDeNotas": 0.25,
+        "MediaDeNotas": 7.72,
+        "MediaDeDesvios": 2.055,
+        "NotaMediana": 7.97
+      },
+      "AGR0329 - PLANEJAMENTO AGROENERGETICO": {
+        "Notas": [
+          7.44,
+          8.05
+        ],
+        "Desvios": [
+          1.9,
+          1.7
+        ],
+        "DesvioDeNotas": 0.30500000000000016,
+        "MediaDeNotas": 7.745000000000001,
+        "MediaDeDesvios": 1.7999999999999998,
+        "NotaMediana": 8.05
+      },
+      "AGR0319 - ENERGIA DA BIOMASSA": {
+        "Notas": [
+          7.84,
+          8.54
+        ],
+        "Desvios": [
+          1.75,
+          1.69
+        ],
+        "DesvioDeNotas": 0.34999999999999964,
+        "MediaDeNotas": 8.19,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 8.54
+      }
+    },
+    "DesvioDeNotas": 0.3732179881338338,
+    "MediaDeNotas": 7.885000000000001,
+    "MediaDeDesvios": 1.8583333333333332,
+    "NotaMediana": 7.97
+  },
+  "SERGIO MARQUES JUNIOR": {
+    "Notas": [
+      9.36,
+      9.37,
+      9.4,
+      9.51,
+      9.63,
+      9.65,
+      9.68,
+      9.78,
+      9.85
+    ],
+    "Desvios": [
+      2.03,
+      1.39,
+      1.13,
+      0.95,
+      1.56,
+      1.52,
+      1,
+      1.79,
+      1.58
+    ],
+    "Componentes": {
+      "EFL0335 - AVALIACAO E MITIGACAO DE IMPACTOS AMBIENTAIS": {
+        "Notas": [
+          9.36,
+          9.68
+        ],
+        "Desvios": [
+          2.03,
+          0.95
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.4899999999999998,
+        "NotaMediana": 9.68
+      },
+      "AGR0390 - ECONOMIA RURAL": {
+        "Notas": [
+          9.63,
+          9.85
+        ],
+        "Desvios": [
+          1.39,
+          1
+        ],
+        "DesvioDeNotas": 0.10999999999999943,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.1949999999999998,
+        "NotaMediana": 9.85
+      },
+      "AGR0318 - IRRIGAÇÃO E DRENAGEM": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.78
+      },
+      "AGR0339 - GESTÃO DE PROJETOS": {
+        "Notas": [
+          9.4,
+          9.65
+        ],
+        "Desvios": [
+          1.56,
+          1.58
+        ],
+        "DesvioDeNotas": 0.125,
+        "MediaDeNotas": 9.525,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.65
+      },
+      "AGR0336 - ANÁLISE DE VIABILIDADE DE PROJETOS AGROPECUÁRIOS": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.51
+      },
+      "EFL0328 - GESTAO DE PROJETOS FLORESTAIS": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.16999636887915806,
+    "MediaDeNotas": 9.581111111111111,
+    "MediaDeDesvios": 1.438888888888889,
+    "NotaMediana": 9.63
+  },
+  "SEVERINO PAULO GOMES NETO": {
+    "Notas": [
+      6,
+      6.17,
+      6.76,
+      8.28,
+      8.61,
+      8.75,
+      9.27
+    ],
+    "Desvios": [
+      1.75,
+      1.98,
+      1.99,
+      3.26,
+      3.22,
+      3,
+      2.22
+    ],
+    "Componentes": {
+      "CCA0104 - AGROINFORMÁTICA": {
+        "Notas": [
+          6.76,
+          9.27
+        ],
+        "Desvios": [
+          1.75,
+          3
+        ],
+        "DesvioDeNotas": 1.255,
+        "MediaDeNotas": 8.015,
+        "MediaDeDesvios": 2.375,
+        "NotaMediana": 9.27
+      },
+      "TAD0003 - BANCO DE DADOS I": {
+        "Notas": [
+          8.61
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.61,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 8.61
+      },
+      "TAD0005 - MATEMATICA APLICADA I": {
+        "Notas": [
+          8.75
+        ],
+        "Desvios": [
+          1.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.75,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 8.75
+      },
+      "TAD0015 - EMPREENDEDORISMO": {
+        "Notas": [
+          6.17,
+          8.28
+        ],
+        "Desvios": [
+          3.26,
+          2.22
+        ],
+        "DesvioDeNotas": 1.0549999999999997,
+        "MediaDeNotas": 7.225,
+        "MediaDeDesvios": 2.74,
+        "NotaMediana": 8.28
+      },
+      "TAD0011 - PROGRAMACAO VISUAL E AUTORIA WEB": {
+        "Notas": [
+          6
+        ],
+        "Desvios": [
+          3.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6,
+        "MediaDeDesvios": 3.22,
+        "NotaMediana": 6
+      }
+    },
+    "DesvioDeNotas": 1.2447538892881431,
+    "MediaDeNotas": 7.691428571428571,
+    "MediaDeDesvios": 2.488571428571429,
+    "NotaMediana": 8.28
+  },
+  "SHIRLLE KATIA DA SILVA NUNES": {
+    "Notas": [
+      8.7,
+      9.31,
+      9.54,
+      9.59,
+      9.65,
+      9.65,
+      9.68,
+      9.69,
+      9.72,
+      9.75,
+      9.75
+    ],
+    "Desvios": [
+      1.45,
+      1.53,
+      2.06,
+      1.86,
+      1.11,
+      1.48,
+      1.19,
+      1.17,
+      1.11,
+      1,
+      1.09
+    ],
+    "Componentes": {
+      "CCA0121 - BIOQUÍMICA": {
+        "Notas": [
+          9.54,
+          9.69,
+          9.72,
+          9.75
+        ],
+        "Desvios": [
+          1.45,
+          1.53,
+          1.86,
+          1.48
+        ],
+        "DesvioDeNotas": 0.08077747210701798,
+        "MediaDeNotas": 9.675,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.72
+      },
+      "CCA0103 - QUÍMICA GERAL": {
+        "Notas": [
+          8.7,
+          9.59,
+          9.75
+        ],
+        "Desvios": [
+          2.06,
+          1.19,
+          1.11
+        ],
+        "DesvioDeNotas": 0.4619042709864846,
+        "MediaDeNotas": 9.346666666666666,
+        "MediaDeDesvios": 1.4533333333333334,
+        "NotaMediana": 9.59
+      },
+      "CCA0113 - QUÍMICA ORGÂNICA": {
+        "Notas": [
+          9.31,
+          9.65,
+          9.65,
+          9.68
+        ],
+        "Desvios": [
+          1.11,
+          1.17,
+          1,
+          1.09
+        ],
+        "DesvioDeNotas": 0.15204851199534952,
+        "MediaDeNotas": 9.5725,
+        "MediaDeDesvios": 1.0925,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.29343787268170934,
+    "MediaDeNotas": 9.548181818181819,
+    "MediaDeDesvios": 1.3681818181818182,
+    "NotaMediana": 9.65
+  },
+  "SIDNEY CARLOS PRAXEDES": {
+    "Notas": [
+      6.65,
+      6.86,
+      7.88,
+      8.8,
+      8.88,
+      9.07,
+      9.22,
+      9.24,
+      9.55
+    ],
+    "Desvios": [
+      2.59,
+      2.06,
+      3.53,
+      1.63,
+      2.66,
+      1.23,
+      1.62,
+      1.11,
+      1.44
+    ],
+    "Componentes": {
+      "EFL0308 - FISIOLOGIA DAS ARVORES": {
+        "Notas": [
+          6.86
+        ],
+        "Desvios": [
+          2.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.86,
+        "MediaDeDesvios": 2.59,
+        "NotaMediana": 6.86
+      },
+      "CCA0120 - FISIOLOGIA VEGETAL": {
+        "Notas": [
+          8.8,
+          9.22
+        ],
+        "Desvios": [
+          2.06,
+          1.62
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.010000000000002,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 9.22
+      },
+      "EFL0402 - UNIDADES DE CONSERVACAO": {
+        "Notas": [
+          6.65
+        ],
+        "Desvios": [
+          3.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.65,
+        "MediaDeDesvios": 3.53,
+        "NotaMediana": 6.65
+      },
+      "CCA0115 - ANATOMIA VEGETAL": {
+        "Notas": [
+          9.07,
+          9.24,
+          9.55
+        ],
+        "Desvios": [
+          1.63,
+          1.23,
+          1.11
+        ],
+        "DesvioDeNotas": 0.19871811414385193,
+        "MediaDeNotas": 9.286666666666667,
+        "MediaDeDesvios": 1.3233333333333333,
+        "NotaMediana": 9.24
+      },
+      "CCA0112 - MORFOLOGIA E SISTEMÁTICA VEGETAL": {
+        "Notas": [
+          7.88
+        ],
+        "Desvios": [
+          2.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.88,
+        "MediaDeDesvios": 2.66,
+        "NotaMediana": 7.88
+      },
+      "EFL0321 - SISTEMAS AGROFLORESTAIS": {
+        "Notas": [
+          8.88
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.88,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 8.88
+      }
+    },
+    "DesvioDeNotas": 1.0116372257599116,
+    "MediaDeNotas": 8.461111111111112,
+    "MediaDeDesvios": 1.9855555555555557,
+    "NotaMediana": 8.88
+  },
+  "STELA ANTAS URBANO": {
+    "Notas": [
+      9.35,
+      9.56,
+      9.64,
+      9.68,
+      9.68,
+      9.69,
+      9.71,
+      9.91
+    ],
+    "Desvios": [
+      1.54,
+      1.63,
+      1.11,
+      1.48,
+      1.6,
+      1.8,
+      1.16,
+      0.96
+    ],
+    "Componentes": {
+      "ZOO0462 - BOVINOCULTURA DE CORTE": {
+        "Notas": [
+          9.56,
+          9.69,
+          9.91
+        ],
+        "Desvios": [
+          1.54,
+          1.6,
+          1.16
+        ],
+        "DesvioDeNotas": 0.14445299120013627,
+        "MediaDeNotas": 9.719999999999999,
+        "MediaDeDesvios": 1.4333333333333333,
+        "NotaMediana": 9.69
+      },
+      "ZOO0448 - ORGANIZAÇÃO DE EXPOSIÇÕES": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.71
+      },
+      "ZOO0312 - PARASITOLOGIA, HIGIENE E PROFILAXIA ZOOTÉCNICA": {
+        "Notas": [
+          9.35,
+          9.68
+        ],
+        "Desvios": [
+          1.11,
+          1.8
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.515,
+        "MediaDeDesvios": 1.455,
+        "NotaMediana": 9.68
+      },
+      "ZOO0304 - FISIOLOGIA DOS ANIMAIS DOMÉSTICOS": {
+        "Notas": [
+          9.64,
+          9.68
+        ],
+        "Desvios": [
+          1.48,
+          0.96
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.14694812009685604,
+    "MediaDeNotas": 9.6525,
+    "MediaDeDesvios": 1.4100000000000001,
+    "NotaMediana": 9.68
+  },
+  "TANIRO CHACON RODRIGUES": {
+    "Notas": [
+      9.56,
+      9.59,
+      9.63,
+      9.64,
+      9.71,
+      9.79,
+      9.8,
+      9.8,
+      9.84,
+      9.85,
+      9.91
+    ],
+    "Desvios": [
+      1.45,
+      1.7,
+      1.55,
+      1.29,
+      1.48,
+      2,
+      1.32,
+      1.69,
+      0.85,
+      1.65,
+      1.67
+    ],
+    "Componentes": {
+      "TAD0021 - ENGENHARIA DE SOFTWARE": {
+        "Notas": [
+          9.85
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.85,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.85
+      },
+      "TAD0020 - ESTRUTURAS DE DADOS": {
+        "Notas": [
+          9.59,
+          9.84
+        ],
+        "Desvios": [
+          1.7,
+          1.32
+        ],
+        "DesvioDeNotas": 0.125,
+        "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.84
+      },
+      "TAD0019 - PROGRAMACAO WEB": {
+        "Notas": [
+          9.71,
+          9.91
+        ],
+        "Desvios": [
+          1.55,
+          1.69
+        ],
+        "DesvioDeNotas": 0.09999999999999964,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.91
+      },
+      "TAD0057 - PROJETOS APLICADOS II": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.63
+      },
+      "TAD0029 - ARQUITETURA DE SOFTWARE": {
+        "Notas": [
+          9.56,
+          9.79
+        ],
+        "Desvios": [
+          1.48,
+          1.65
+        ],
+        "DesvioDeNotas": 0.11499999999999932,
+        "MediaDeNotas": 9.675,
+        "MediaDeDesvios": 1.565,
+        "NotaMediana": 9.79
+      },
+      "TAD0027 - PROGRAMACAO PARA DISPOSITIVOS MOVEIS": {
+        "Notas": [
+          9.64,
+          9.8
+        ],
+        "Desvios": [
+          2,
+          1.67
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.835,
+        "NotaMediana": 9.8
+      },
+      "TAD0060 - SISTEMAS DISTRIBUIDOS": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.85,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.1122349954999598,
+    "MediaDeNotas": 9.738181818181818,
+    "MediaDeDesvios": 1.5136363636363634,
+    "NotaMediana": 9.79
+  },
+  "TATIANE KELLY BARBOSA DE AZEVEDO CARNAVAL": {
+    "Notas": [
+      7.38,
+      8.07,
+      8.88,
+      9.21,
+      9.23,
+      9.52,
+      9.56,
+      9.67,
+      9.7
+    ],
+    "Desvios": [
+      1.95,
+      1.45,
+      1.38,
+      1.59,
+      1.58,
+      1.98,
+      2.6,
+      2.13,
+      1.42
+    ],
+    "Componentes": {
+      "EFL0300 - INTRODUCAO A ENGENHARIA FLORESTAL": {
+        "Notas": [
+          9.21,
+          9.23
+        ],
+        "Desvios": [
+          1.95,
+          1.98
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.9649999999999999,
+        "NotaMediana": 9.23
+      },
+      "EFL0301 - METODOS E TECNICAS DE PESQUISAS": {
+        "Notas": [
+          9.52,
+          9.7
+        ],
+        "Desvios": [
+          1.45,
+          1.59
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.7
+      },
+      "EFL0403 - PRODUTOS FLORESTAIS NAO-MADEIREIROS": {
+        "Notas": [
+          8.88,
+          9.56,
+          9.67
+        ],
+        "Desvios": [
+          1.38,
+          1.58,
+          1.42
+        ],
+        "DesvioDeNotas": 0.3493804039534365,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.56
+      },
+      "EFL0333 - MANEJO DE AREAS NATURAIS PROTEGIDAS": {
+        "Notas": [
+          7.38,
+          8.07
+        ],
+        "Desvios": [
+          2.6,
+          2.13
+        ],
+        "DesvioDeNotas": 0.3450000000000002,
+        "MediaDeNotas": 7.725,
+        "MediaDeDesvios": 2.365,
+        "NotaMediana": 8.07
+      }
+    },
+    "DesvioDeNotas": 0.7541162761966428,
+    "MediaDeNotas": 9.024444444444445,
+    "MediaDeDesvios": 1.7866666666666664,
+    "NotaMediana": 9.23
+  },
+  "THIAGO MANCHINI DE CAMPOS": {
+    "Notas": [
+      9.59,
+      9.79,
+      9.82
+    ],
+    "Desvios": [
+      2.15,
+      1.7,
+      2.04
+    ],
+    "Componentes": {
+      "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I": {
+        "Notas": [
+          9.59,
+          9.79,
+          9.82
+        ],
+        "Desvios": [
+          2.15,
+          1.7,
+          2.04
+        ],
+        "DesvioDeNotas": 0.10208928554075702,
+        "MediaDeNotas": 9.733333333333333,
+        "MediaDeDesvios": 1.9633333333333332,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.10208928554075702,
+    "MediaDeNotas": 9.733333333333333,
+    "MediaDeDesvios": 1.9633333333333332,
+    "NotaMediana": 9.79
+  },
+  "UBIRATAN CORREIA SILVA": {
+    "Notas": [
+      9.32,
+      9.36,
+      9.56,
+      9.57,
+      9.57,
+      9.68,
+      9.82
+    ],
+    "Desvios": [
+      1.29,
+      1.58,
+      1.01,
+      1.23,
+      1.48,
+      2.38,
+      0.94
+    ],
+    "Componentes": {
+      "AGR0325 - ELETRIFICAÇÃO RURAL": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.82
+      },
+      "CCA0108 - FÍSICA GERAL E EXPERIMENTAL": {
+        "Notas": [
+          9.32,
+          9.36,
+          9.56,
+          9.57
+        ],
+        "Desvios": [
+          1.58,
+          1.48,
+          2.38,
+          0.94
+        ],
+        "DesvioDeNotas": 0.1134405130453845,
+        "MediaDeNotas": 9.4525,
+        "MediaDeDesvios": 1.5949999999999998,
+        "NotaMediana": 9.56
+      },
+      "ZOO0438 - MÁQUINAS E MOTORES AGRÍCOLAS": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.01,
+        "NotaMediana": 9.57
+      },
+      "CCA0101 - CÁLCULO I": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.16016573049341679,
+    "MediaDeNotas": 9.554285714285713,
+    "MediaDeDesvios": 1.4157142857142855,
+    "NotaMediana": 9.57
+  },
+  "VALDI DE LIMA JUNIOR": {
+    "Notas": [
+      7.73,
+      9.1,
+      9.22,
+      9.29,
+      9.7
+    ],
+    "Desvios": [
+      2.07,
+      1.97,
+      1.15,
+      1.07,
+      1.27
+    ],
+    "Componentes": {
+      "ZOO0410 - CAPRINOCULTURA E OVINOCULTURA": {
+        "Notas": [
+          7.73,
+          9.22
+        ],
+        "Desvios": [
+          2.07,
+          1.07
+        ],
+        "DesvioDeNotas": 0.7450000000000001,
+        "MediaDeNotas": 8.475000000000001,
+        "MediaDeDesvios": 1.5699999999999998,
+        "NotaMediana": 9.22
+      },
+      "ZOO0310 - GERENCIAMENTO DE REBANHOS EM REPRODUÇÃO": {
+        "Notas": [
+          9.1,
+          9.29
+        ],
+        "Desvios": [
+          1.97,
+          1.27
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.195,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.29
+      },
+      "ZOO0327 - ALIMENTOS E ALIMENTAÇÃO": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.6700865615724579,
+    "MediaDeNotas": 9.008,
+    "MediaDeDesvios": 1.5059999999999998,
+    "NotaMediana": 9.22
+  },
+  "VANDA MARIA DE LIRA": {
+    "Notas": [
+      8.07,
+      8.4,
+      8.54,
+      8.72,
+      8.84,
+      8.94,
+      9.02,
+      9.02,
+      9.11,
+      9.22,
+      9.47,
+      9.7
+    ],
+    "Desvios": [
+      1.98,
+      1.98,
+      2.2,
+      1.19,
+      2.08,
+      1.01,
+      1.39,
+      1.79,
+      1.56,
+      1.87,
+      1.77,
+      1.28
+    ],
+    "Componentes": {
+      "CCA0117 - AGROMETEOROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          9.02
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.02
+      },
+      "AGR0318 - IRRIGAÇÃO E DRENAGEM": {
+        "Notas": [
+          8.4,
+          8.72
+        ],
+        "Desvios": [
+          1.98,
+          1.79
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 8.56,
+        "MediaDeDesvios": 1.885,
+        "NotaMediana": 8.72
+      },
+      "AGR0324 - MECANIZAÇÃO AGRÍCOLA": {
+        "Notas": [
+          8.07,
+          8.94
+        ],
+        "Desvios": [
+          2.2,
+          1.56
+        ],
+        "DesvioDeNotas": 0.4349999999999996,
+        "MediaDeNotas": 8.504999999999999,
+        "MediaDeDesvios": 1.8800000000000001,
+        "NotaMediana": 8.94
+      },
+      "AGR0323 - CONSTRUÇÕES RURAIS": {
+        "Notas": [
+          9.02,
+          9.11,
+          9.22
+        ],
+        "Desvios": [
+          1.19,
+          1.39,
+          1.87
+        ],
+        "DesvioDeNotas": 0.0817856276425691,
+        "MediaDeNotas": 9.116666666666665,
+        "MediaDeDesvios": 1.4833333333333334,
+        "NotaMediana": 9.11
+      },
+      "AGR0307 - HIDRAULICA APLICADA": {
+        "Notas": [
+          8.54,
+          8.84,
+          9.7
+        ],
+        "Desvios": [
+          2.08,
+          1.01,
+          1.77
+        ],
+        "DesvioDeNotas": 0.49161864172230985,
+        "MediaDeNotas": 9.026666666666666,
+        "MediaDeDesvios": 1.6199999999999999,
+        "NotaMediana": 8.84
+      },
+      "EFL0306 - IRRIGACAO E DRENAGEM": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.47
+      }
+    },
+    "DesvioDeNotas": 0.43215464695973,
+    "MediaDeNotas": 8.920833333333333,
+    "MediaDeDesvios": 1.675,
+    "NotaMediana": 9.02
+  },
+  "VIVIANE DA SILVA MEDEIROS": {
+    "Notas": [
+      9.29,
+      9.52,
+      9.74
+    ],
+    "Desvios": [
+      1.39,
+      1.23,
+      1.43
+    ],
+    "Componentes": {
+      "ZOO0461 - CRIAÇÃO DE ANIMAIS DE ESTIMAÇÃO": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.74
+      },
+      "ZOO0325 - BEM ESTAR ANIMAL": {
+        "Notas": [
+          9.29,
+          9.52
+        ],
+        "Desvios": [
+          1.23,
+          1.43
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.405,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.18372685039360936,
+    "MediaDeNotas": 9.516666666666666,
+    "MediaDeDesvios": 1.3499999999999999,
+    "NotaMediana": 9.52
+  },
+  "WIARA DE ASSIS GOMES": {
+    "Notas": [
+      5.5,
+      8.68,
+      8.9,
+      8.93,
+      9.02,
+      9.36,
+      9.5,
+      9.7
+    ],
+    "Desvios": [
+      1.68,
+      1.5,
+      1.17,
+      1.77,
+      1.63,
+      4.13,
+      1.43,
+      1.14
+    ],
+    "Componentes": {
+      "AGR0357 - AGRICULTURA FAMILIAR": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.7
+      },
+      "CCA0107 - ECOLOGIA GERAL": {
+        "Notas": [
+          5.5,
+          9.5
+        ],
+        "Desvios": [
+          1.5,
+          4.13
+        ],
+        "DesvioDeNotas": 2,
+        "MediaDeNotas": 7.5,
+        "MediaDeDesvios": 2.815,
+        "NotaMediana": 9.5
+      },
+      "AGR0400 - FRUTICULTURA TROPICAL": {
+        "Notas": [
+          8.93
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.93,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 8.93
+      },
+      "ZOO0303 - FISIOLOGIA DAS PLANTAS FORRAGEIRAS": {
+        "Notas": [
+          8.9
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 8.9
+      },
+      "CCA0112 - MORFOLOGIA E SISTEMÁTICA VEGETAL": {
+        "Notas": [
+          9.02
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.02
+      },
+      "AGR0326 - BIOTECNOLOGIA AGRICOLA": {
+        "Notas": [
+          8.68
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.68,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 8.68
+      },
+      "AGR0332 - FRUTICULTURA": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.14,
+        "NotaMediana": 9.36
+      }
+    },
+    "DesvioDeNotas": 1.2505642476498358,
+    "MediaDeNotas": 8.69875,
+    "MediaDeDesvios": 1.80625,
+    "NotaMediana": 9.02
+  },
+  "CAIO CESAR PEREIRA LEAL": {
+    "Notas": [
+      9.13,
+      9.14,
+      9.22,
+      9.39
+    ],
+    "Desvios": [
+      1.78,
+      1.21,
+      1.49,
+      1.46
+    ],
+    "Componentes": {
+      "AGR0357 - AGRICULTURA FAMILIAR": {
+        "Notas": [
+          9.14,
+          9.22
+        ],
+        "Desvios": [
+          1.78,
+          1.49
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 1.635,
+        "NotaMediana": 9.22
+      },
+      "AGR0332 - FRUTICULTURA": {
+        "Notas": [
+          9.13
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.13,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.13
+      },
+      "CCA0107 - ECOLOGIA GERAL": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.10416333327999824,
+    "MediaDeNotas": 9.22,
+    "MediaDeDesvios": 1.485,
+    "NotaMediana": 9.22
+  },
+  "CARLA DA COSTA FERNANDES CURVELO": {
+    "Notas": [
+      8.87,
+      8.94,
+      9.09,
+      9.15
+    ],
+    "Desvios": [
+      2.16,
+      2.15,
+      2.46,
+      1.88
+    ],
+    "Componentes": {
+      "TAD0004 - ANALISE E PROJETO ORIENTADO A OBJETOS": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 9.15
+      },
+      "TAD0010 - BANCO DE DADOS II": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          2.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 2.15,
+        "NotaMediana": 9.09
+      },
+      "TAD0028 - PLANEJAMENTO E GERENCIA DE PROJETOS": {
+        "Notas": [
+          8.94
+        ],
+        "Desvios": [
+          2.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.94,
+        "MediaDeDesvios": 2.46,
+        "NotaMediana": 8.94
+      },
+      "TAD0056 - PROJETOS APLICADOS I": {
+        "Notas": [
+          8.87
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.87,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 8.87
+      }
+    },
+    "DesvioDeNotas": 0.11233320969330526,
+    "MediaDeNotas": 9.0125,
+    "MediaDeDesvios": 2.1625,
+    "NotaMediana": 9.09
+  },
+  "IASMIM SANTOS MANGABEIRA E SILVA": {
+    "Notas": [
+      9.45,
+      9.51,
+      9.7,
+      9.79,
+      9.87
+    ],
+    "Desvios": [
+      1.71,
+      1.31,
+      1.37,
+      1.09,
+      1.48
+    ],
+    "Componentes": {
+      "ZOO0468 - EQUIDEOCULTURA": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.51
+      },
+      "CCA0114 - ESTATÍSTICA": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.7
+      },
+      "ZOO0313 - EXTENSÃO E COMUNICAÇÃO RURAL": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.45
+      },
+      "CCA0102 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.87
+      },
+      "CCA0123 - GENÉTICA GERAL": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.1606984754128052,
+    "MediaDeNotas": 9.664,
+    "MediaDeDesvios": 1.3920000000000001,
+    "NotaMediana": 9.7
+  },
+  "JOSE AUGUSTO DA SILVA SANTANA": {
+    "Notas": [
+      7.56,
+      7.81,
+      8.14,
+      8.31,
+      8.66,
+      8.84,
+      9.2
+    ],
+    "Desvios": [
+      2.34,
+      2.04,
+      2.21,
+      1.96,
+      1.93,
+      1.69,
+      1.95
+    ],
+    "Componentes": {
+      "EFL0418 - MANEJO DA REGENERACAO NATURAL": {
+        "Notas": [
+          8.14
+        ],
+        "Desvios": [
+          2.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.14,
+        "MediaDeDesvios": 2.34,
+        "NotaMediana": 8.14
+      },
+      "EFL0319 - PROTECAO FLORESTAL": {
+        "Notas": [
+          7.81,
+          8.66
+        ],
+        "Desvios": [
+          2.04,
+          1.69
+        ],
+        "DesvioDeNotas": 0.4250000000000002,
+        "MediaDeNotas": 8.235,
+        "MediaDeDesvios": 1.865,
+        "NotaMediana": 8.66
+      },
+      "EFL0329 - SILVICULTURA REGIONAL": {
+        "Notas": [
+          7.56,
+          9.2
+        ],
+        "Desvios": [
+          2.21,
+          1.95
+        ],
+        "DesvioDeNotas": 0.8199999999999998,
+        "MediaDeNotas": 8.379999999999999,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 9.2
+      },
+      "EFL0316 - MANEJO DE BACIAS HIDROGRAFICAS": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          1.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 8.84
+      },
+      "EFL0332 - RECUPERACAO DE AREAS DEGRADADAS": {
+        "Notas": [
+          8.31
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.31,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 8.31
+      }
+    },
+    "DesvioDeNotas": 0.5371086615255001,
+    "MediaDeNotas": 8.36,
+    "MediaDeDesvios": 2.017142857142857,
+    "NotaMediana": 8.31
+  },
+  "JULIANA PAULA FELIPE DE OLIVEIRA": {
+    "Notas": [
+      9.56,
+      9.58,
+      9.61,
+      9.81,
+      9.83
+    ],
+    "Desvios": [
+      1.67,
+      1.52,
+      1.05,
+      1.44,
+      1.27
+    ],
+    "Componentes": {
+      "ZOO0468 - EQUIDEOCULTURA": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.61
+      },
+      "CCA0113 - QUÍMICA ORGÂNICA": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.56
+      },
+      "CCA0121 - BIOQUÍMICA": {
+        "Notas": [
+          9.83
+        ],
+        "Desvios": [
+          1.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.83
+      },
+      "ZOO0318 - METODOLOGIA DA PESQUISA CIENTIFICA": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.58
+      },
+      "ZOO0307 - NUTRIÇÃO E ALIMENTAÇÃO DE MONOGÁSTRICOS": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.81
+      }
+    },
+    "DesvioDeNotas": 0.11720068259186897,
+    "MediaDeNotas": 9.678,
+    "MediaDeDesvios": 1.39,
+    "NotaMediana": 9.61
+  },
+  "MAGDA MARIA GUILHERMINO": {
+    "Notas": [
+      9.42
+    ],
+    "Desvios": [
+      1.25
+    ],
+    "Componentes": {
+      "ZOO0400 - AGRICULTURA FAMILIAR": {
+        "Notas": [
+          9.42
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.42,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.42
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.42,
+    "MediaDeDesvios": 1.25,
+    "NotaMediana": 9.42
+  },
+  "RODRIGO ANTONIO PONCE DE LEON FERREIRA DE CARVALHO": {
+    "Notas": [
+      8.91
+    ],
+    "Desvios": [
+      2.08
+    ],
+    "Componentes": {
+      "DEQ0618 - TECNOLOGIA DE PESCADOS": {
+        "Notas": [
+          8.91
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.91,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 8.91
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.91,
+    "MediaDeDesvios": 2.08,
+    "NotaMediana": 8.91
+  },
+  "TASIA MOURA CARDOSO DO VALE": {
+    "Notas": [
+      7,
+      8.87,
+      8.87,
+      9.29,
+      9.4
+    ],
+    "Desvios": [
+      2.09,
+      1.98,
+      1.88,
+      2.94,
+      2.1
+    ],
+    "Componentes": {
+      "TAD0013 - MATEMATICA APLICADA II": {
+        "Notas": [
+          8.87
+        ],
+        "Desvios": [
+          2.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.87,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 8.87
+      },
+      "TAD0022 - ESTATISTICA APLICADA": {
+        "Notas": [
+          8.87
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.87,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 8.87
+      },
+      "TAD0001 - FUNDAMENTOS DA COMPUTACAO": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 9.4
+      },
+      "TAD0035 - LEGISLACAO E ETICA EM TI": {
+        "Notas": [
+          7
+        ],
+        "Desvios": [
+          2.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7,
+        "MediaDeDesvios": 2.94,
+        "NotaMediana": 7
+      },
+      "TAD0005 - MATEMATICA APLICADA I": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.29
+      }
+    },
+    "DesvioDeNotas": 0.8700482745227415,
+    "MediaDeNotas": 8.686,
+    "MediaDeDesvios": 2.198,
+    "NotaMediana": 8.87
+  },
+  "ARISTOTELINA PEREIRA BARRETO ROCHA": {
+    "Notas": [
+      9.22
+    ],
+    "Desvios": [
+      1.76
+    ],
+    "Componentes": {
+      "TAD0008 - CONTEXTO GEOGRAFICO REGIONAL": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.22,
+    "MediaDeDesvios": 1.76,
+    "NotaMediana": 9.22
+  },
+  "KARLA DIANA DA SILVA SOMBRA": {
+    "Notas": [
+      7.13,
+      7.77,
+      7.8,
+      8.47,
+      8.48,
+      8.59,
+      8.69,
+      9.06
+    ],
+    "Desvios": [
+      1.89,
+      1.69,
+      2.46,
+      1.95,
+      1.82,
+      1.96,
+      1.39,
+      1.42
+    ],
+    "Componentes": {
+      "ZOO0401 - APICULTURA": {
+        "Notas": [
+          7.8
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.8,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 7.8
+      },
+      "EFL0315 - ENTOMOLOGIA FLORESTAL": {
+        "Notas": [
+          9.06
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.06
+      },
+      "AGR0328 - PRAGAS DAS PLANTAS CULTIVADAS": {
+        "Notas": [
+          7.13
+        ],
+        "Desvios": [
+          2.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.13,
+        "MediaDeDesvios": 2.46,
+        "NotaMediana": 7.13
+      },
+      "CCA0131 - TECNOLOGIA DE APLICAÇÃO DE PRODUTOS FITOSSANITÁRIOS": {
+        "Notas": [
+          7.77,
+          8.48
+        ],
+        "Desvios": [
+          1.95,
+          1.42
+        ],
+        "DesvioDeNotas": 0.3550000000000004,
+        "MediaDeNotas": 8.125,
+        "MediaDeDesvios": 1.685,
+        "NotaMediana": 8.48
+      },
+      "AGR0321 - ENTOMOLOGIA AGRICOLA": {
+        "Notas": [
+          8.69
+        ],
+        "Desvios": [
+          1.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.69,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 8.69
+      },
+      "CCA0114 - ESTATÍSTICA": {
+        "Notas": [
+          8.59
+        ],
+        "Desvios": [
+          1.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.59,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 8.59
+      },
+      "ZOO0451 - PRAGAS E DOENÇAS DAS PLANTAS FORRAGEIRAS": {
+        "Notas": [
+          8.47
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.47,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 8.47
+      }
+    },
+    "DesvioDeNotas": 0.5867162325179015,
+    "MediaDeNotas": 8.24875,
+    "MediaDeDesvios": 1.8225,
+    "NotaMediana": 8.48
+  },
+  "PEDRO ALEXANDRE APARECIDO DA SILVA": {
+    "Notas": [
+      9.23,
+      9.42,
+      9.51,
+      9.62,
+      9.68,
+      9.9
+    ],
+    "Desvios": [
+      1.58,
+      1.44,
+      1.85,
+      1.02,
+      1.85,
+      1.94
+    ],
+    "Componentes": {
+      "TAD0003 - BANCO DE DADOS I": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.68
+      },
+      "TAD0021 - ENGENHARIA DE SOFTWARE": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.51
+      },
+      "TAD0012 - PROCESSO DE DESENVOLVIMENTO DE SOFTWARE": {
+        "Notas": [
+          9.42,
+          9.62
+        ],
+        "Desvios": [
+          1.85,
+          1.94
+        ],
+        "DesvioDeNotas": 0.09999999999999964,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.895,
+        "NotaMediana": 9.62
+      },
+      "TAD0061 - GESTÃO DE SERVIÇOS DE TI": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.02,
+        "NotaMediana": 9.9
+      },
+      "TAD0028 - PLANEJAMENTO E GERENCIA DE PROJETOS": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.23
+      }
+    },
+    "DesvioDeNotas": 0.20999999999999994,
+    "MediaDeNotas": 9.56,
+    "MediaDeDesvios": 1.6133333333333333,
+    "NotaMediana": 9.62
+  },
+  "ELIDIEL DANTAS DA COSTA": {
+    "Notas": [
+      9.36,
+      9.37
+    ],
+    "Desvios": [
+      1.61,
+      1.48
+    ],
+    "Componentes": {
+      "TAD0013 - MATEMATICA APLICADA II": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.36
+      },
+      "TAD0011 - PROGRAMACAO VISUAL E AUTORIA WEB": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.004999999999999893,
+    "MediaDeNotas": 9.364999999999998,
+    "MediaDeDesvios": 1.545,
+    "NotaMediana": 9.37
+  },
+  "EMERSON MOURA DE ALENCAR": {
+    "Notas": [
+      9.62
+    ],
+    "Desvios": [
+      1.42
+    ],
+    "Componentes": {
+      "TAD0010 - BANCO DE DADOS II": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.62
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.62,
+    "MediaDeDesvios": 1.42,
+    "NotaMediana": 9.62
+  },
+  "GELSON DOS SANTOS DIFANTE": {
+    "Notas": [
+      10,
+      9.32,
+      9.61
+    ],
+    "Desvios": [
+      0.38,
+      1.01,
+      1.75
+    ],
+    "Componentes": {
+      "ZOO0462 - BOVINOCULTURA DE CORTE": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          0.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 0.38,
+        "NotaMediana": 10
+      },
+      "ZOO0303 - FISIOLOGIA DAS PLANTAS FORRAGEIRAS": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.01,
+        "NotaMediana": 9.61
+      },
+      "ZOO0423 - ÉTICA PROFISSIONAL E RESPONSABILIDADE TÉCNICA": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 9.32
+      }
+    },
+    "DesvioDeNotas": 0.27860764925289144,
+    "MediaDeNotas": 9.643333333333333,
+    "MediaDeDesvios": 1.0466666666666666,
+    "NotaMediana": 9.32
+  },
+  "MARCELO CID DE AMORIM": {
+    "Notas": [
+      7.92,
+      8.91
+    ],
+    "Desvios": [
+      2.25,
+      1.79
+    ],
+    "Componentes": {
+      "CCA0117 - AGROMETEOROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          7.92,
+          8.91
+        ],
+        "Desvios": [
+          2.25,
+          1.79
+        ],
+        "DesvioDeNotas": 0.4950000000000001,
+        "MediaDeNotas": 8.415,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 8.91
+      }
+    },
+    "DesvioDeNotas": 0.4950000000000001,
+    "MediaDeNotas": 8.415,
+    "MediaDeDesvios": 2.02,
+    "NotaMediana": 8.91
+  }
+}
