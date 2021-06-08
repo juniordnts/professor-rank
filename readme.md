@@ -1,29 +1,29 @@
 ## Rank dos Professores UFRN
 
-# [Link para a página](https://juniordnts.github.io/professor-rank/front/index.html)
+<!-- # [Link para a página](https://juniordnts.github.io/professor-rank/front/index.html) -->
 
 #### As informações presentes neste relatório são compiladas do Sigaa com os dados fornecidos pela Avaliação Semestral e por esse motivo não expressam nenhuma opinião pessoal do desenvolvedor para com os professores.
 
-## Screenshot:
+<!-- ## Screenshot: -->
 
-*Página principal, escolha o departamento*
+<!-- _Página principal, escolha o departamento_
 
 ![Home](res/home.png)
 
 ---
 
-*Departamento, clique nos ícones para as informações*
+_Departamento, clique nos ícones para as informações_
 
 ![Departamento](res/departamento.png)
 
 ---
 
-*Ícone da bolinha, mostra a média das notas e a média do desvio padrão da avaliação do professor*
+_Ícone da bolinha, mostra a média das notas e a média do desvio padrão da avaliação do professor_
 
 ![Pontuação Professor](res/nota.png)
 
 ---
 
-*Ícone do quadro, mostra a indicação de cada professor por disciplinas*
+_Ícone do quadro, mostra a indicação de cada professor por disciplinas_
 
-![Pontuação do Professor nas Disciplinas](res/disciplinas.png)
+![Pontuação do Professor nas Disciplinas](res/disciplinas.png) -->

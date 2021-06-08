@@ -1,2 +1,4 @@
+.gitignore
+.dados
 **/node_modules
 ***/_*.json
