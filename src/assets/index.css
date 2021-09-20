@@ -1,0 +1,171 @@
+:root {
+  --main-bg-dark: #30373e;
+  --main-bg-light: #373f46;
+  --main-borders: #dee2e627;
+}
+
+body {
+  background-color: var(--main-bg-dark);
+  overflow-y: scroll;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.btn-transparent {
+  background-color: transparent;
+  border: 0;
+  color: inherit;
+  /* width: 40px; */
+  padding: 0 5px;
+}
+
+.btn-transparent.ajuda {
+  width: 28px;
+  margin-left: 5px;
+}
+
+th .btn-transparent {
+  width: auto;
+  padding: 0;
+}
+
+td button,
+th button {
+  cursor: pointer;
+}
+
+#professores > div,
+#disciplinas > div,
+#geral > div {
+  background-color: var(--main-bg-light);
+}
+
+.buscar-professor,
+.buscar-professor:focus {
+  background-color: transparent;
+  border-color: var(--main-borders);
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.enviar-msg,
+.enviar-msg:focus {
+  background-color: transparent;
+  border-color: var(--main-borders);
+  color: #ffffff;
+}
+#table-comparacao td:first-of-type,
+#table-comparacao td:nth-of-type(2) {
+  width: 40px;
+  text-overflow: initial;
+}
+
+#table-comparacao td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.quadro-resultados {
+  color: #ffffff59;
+}
+#professores .quadro-resultados td:last-child {
+  text-align: right;
+}
+#geral td:nth-of-type(2), 
+#geral td:nth-of-type(3),
+
+/* #professores .quadro-resultados td:nth-of-type(2), */
+/* #professores .quadro-resultados td:first-child, */
+#professores .quadro-normal td:nth-of-type(2),
+#professores .quadro-normal td:nth-of-type(3),
+
+#disciplinas .quadro-resultados td:first-child,
+#disciplinas .quadro-resultados th:nth-of-type(1), 
+#disciplinas .quadro-resultados td:nth-of-type(3),
+#disciplinas .quadro-resultados td:nth-of-type(4),
+#disciplinas .quadro-normal td:nth-of-type(2) {
+  width: 50px;
+}
+
+.posicao span {
+  width: 17px;
+  height: 17px;
+  background-color: #7d8287;
+  border-radius: 8px;
+  color: var(--main-bg-light);
+  font-weight: bold;
+  padding: 0 5px;
+}
+
+hr:last-child {
+  display: none;
+}
+
+tbody tr,
+tbody td {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Sobreposições */
+
+.table td,
+.table th {
+  border-color: var(--main-borders);
+  white-space: nowrap;
+}
+.table td:first-of-type {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+tbody tr:first-child td,
+tbody tr:first-child th {
+  border-top: 0;
+}
+tbody tr th:first-child,
+tbody tr th {
+  width: 50px;
+}
+
+table {
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+@media (max-width: 768px) {
+  .buscar-professor {
+    width: 100%;
+  }
+  .wid-auto {
+    width: 100%;
+  }
+  tbody td:first-of-type {
+    font-size: 14px;
+  }
+  tbody tr th:first-child,
+  tbody tr th {
+    width: 30px;
+  }
+}
+
+@media (min-width: 768px) {
+  .buscar-professor {
+    width: 70%;
+  }
+}

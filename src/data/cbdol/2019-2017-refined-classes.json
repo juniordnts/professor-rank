@@ -1,0 +1,723 @@
+{
+  "DOL0157 - OCEANOGRAFIA ABIÓTICA": {
+    "Notas": [
+      5.15,
+      5.93,
+      6.37,
+      7.65,
+      7.72
+    ],
+    "Desvios": [
+      3.35,
+      3.25,
+      3.38,
+      2.79,
+      2.43
+    ],
+    "Docentes": [
+      "ALEXANDRE MAGNO CAVALCANTI DA ROCHA"
+    ],
+    "DesvioDeNotas": 0.9954617019252925,
+    "MediaDeNotas": 6.564,
+    "MediaDeDesvios": 3.04,
+    "NotaMediana": 6.37
+  },
+  "DOL0052 - TOPICOS ESPECIAIS EM AQUICULTURA": {
+    "Notas": [
+      6.64,
+      7.69,
+      9.63,
+      9.79
+    ],
+    "Desvios": [
+      2.96,
+      1.26,
+      3.26,
+      1.53
+    ],
+    "Docentes": [
+      "ALEXANDRE MAGNO CAVALCANTI DA ROCHA",
+      "WALLACE SILVA DO NASCIMENTO",
+      "DEUSIMAR FREIRE BRASIL"
+    ],
+    "DesvioDeNotas": 1.3267512012430966,
+    "MediaDeNotas": 8.4375,
+    "MediaDeDesvios": 2.2525,
+    "NotaMediana": 9.63
+  },
+  "DOL0057 - EXTENSAO COMUNITARIA E EDUCACAO AMBIENTAL": {
+    "Notas": [
+      8.83,
+      9.41
+    ],
+    "Desvios": [
+      1.17,
+      2.48
+    ],
+    "Docentes": [
+      "DEUSIMAR FREIRE BRASIL"
+    ],
+    "DesvioDeNotas": 0.29000000000000004,
+    "MediaDeNotas": 9.120000000000001,
+    "MediaDeDesvios": 1.825,
+    "NotaMediana": 9.41
+  },
+  "DOL0041 - NOCOES DE CULTIVOS AQUATICOS": {
+    "Notas": [
+      9.22,
+      9.68,
+      9.68,
+      9.79
+    ],
+    "Desvios": [
+      1.35,
+      1.67,
+      1.42,
+      1.52
+    ],
+    "Docentes": [
+      "DEUSIMAR FREIRE BRASIL",
+      "VIRGINIA MARIA CAVALARI HENRIQUES",
+      "WALLACE SILVA DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.2197015020431125,
+    "MediaDeNotas": 9.5925,
+    "MediaDeDesvios": 1.4899999999999998,
+    "NotaMediana": 9.68
+  },
+  "DOL0058 - PATOLOGIA DE ORGANISMOS AQUATICOS CULTIVAVEIS": {
+    "Notas": [
+      8,
+      8.97,
+      9.18
+    ],
+    "Desvios": [
+      1.36,
+      2.07,
+      1.99
+    ],
+    "Docentes": [
+      "DEUSIMAR FREIRE BRASIL",
+      "VIRGINIA MARIA CAVALARI HENRIQUES"
+    ],
+    "DesvioDeNotas": 0.5139606556493946,
+    "MediaDeNotas": 8.716666666666667,
+    "MediaDeDesvios": 1.8066666666666666,
+    "NotaMediana": 8.97
+  },
+  "DOL0077 - BIOECOLOGIA AQUATICA": {
+    "Notas": [
+      9.09,
+      9.37,
+      9.46,
+      9.65,
+      9.96,
+      9.97
+    ],
+    "Desvios": [
+      1.7,
+      1.58,
+      2.34,
+      0.69,
+      0.61,
+      1.69
+    ],
+    "Docentes": [
+      "EDSON APARECIDO VIEIRA FILHO",
+      "GUILHERME ORTIGARA LONGO",
+      "MARIA CHRISTINA BARBOSA DE ARAUJO",
+      "WALLACE SILVA DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.3162101973195822,
+    "MediaDeNotas": 9.583333333333334,
+    "MediaDeDesvios": 1.4350000000000003,
+    "NotaMediana": 9.65
+  },
+  "DOL0158 - ECOLOGIA DE AMBIENTES AQUÁTICOS": {
+    "Notas": [
+      9.03,
+      9.4,
+      9.57,
+      9.63,
+      9.74,
+      9.75,
+      9.77,
+      9.78,
+      9.89,
+      9.92
+    ],
+    "Desvios": [
+      1.56,
+      1.22,
+      1.75,
+      1.55,
+      1.8,
+      1.68,
+      1.66,
+      1.88,
+      1.06,
+      1.83
+    ],
+    "Docentes": [
+      "EDSON APARECIDO VIEIRA FILHO",
+      "GUILHERME ORTIGARA LONGO",
+      "JULIANA DEO DIAS",
+      "NG HAIG THEY"
+    ],
+    "DesvioDeNotas": 0.2517061779138527,
+    "MediaDeNotas": 9.648,
+    "MediaDeDesvios": 1.5990000000000002,
+    "NotaMediana": 9.75
+  },
+  "DOL0044 - BIOTECNOLOGIA DE MACROALGAS MARINHAS": {
+    "Notas": [
+      9.13,
+      9.53,
+      9.69
+    ],
+    "Desvios": [
+      1.68,
+      1.99,
+      1.2
+    ],
+    "Docentes": [
+      "ELIANE MARINHO SORIANO"
+    ],
+    "DesvioDeNotas": 0.23551362310207533,
+    "MediaDeNotas": 9.450000000000001,
+    "MediaDeDesvios": 1.6233333333333333,
+    "NotaMediana": 9.53
+  },
+  "DOL0078 - INTRODUÇÃO A BIOLOGIA MARINHA": {
+    "Notas": [
+      9,
+      9.91
+    ],
+    "Desvios": [
+      1.05,
+      1.76
+    ],
+    "Docentes": [
+      "ELIANE MARINHO SORIANO"
+    ],
+    "DesvioDeNotas": 0.45500000000000007,
+    "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 1.405,
+    "NotaMediana": 9.91
+  },
+  "DOL0046 - ANATOMIA E FISIOL.DOS ORGAN.AQUATICOS CULTIVAVEIS": {
+    "Notas": [
+      8.61,
+      8.81,
+      9.66,
+      9.71,
+      9.78
+    ],
+    "Desvios": [
+      2.43,
+      1.25,
+      2.56,
+      1.61,
+      1.46
+    ],
+    "Docentes": [
+      "JOSE HOLMES DO REGO BARROS",
+      "WALLACE SILVA DO NASCIMENTO",
+      "NG HAIG THEY"
+    ],
+    "DesvioDeNotas": 0.4986622103187689,
+    "MediaDeNotas": 9.314000000000002,
+    "MediaDeDesvios": 1.862,
+    "NotaMediana": 9.66
+  },
+  "DOL0081 - BIOESTATÍSTICA II": {
+    "Notas": [
+      9.64,
+      9.81,
+      9.96
+    ],
+    "Desvios": [
+      1.36,
+      0.44,
+      0.77
+    ],
+    "Docentes": [
+      "JULIANA DEO DIAS",
+      "NG HAIG THEY"
+    ],
+    "DesvioDeNotas": 0.1307244770075173,
+    "MediaDeNotas": 9.803333333333335,
+    "MediaDeDesvios": 0.8566666666666668,
+    "NotaMediana": 9.81
+  },
+  "DOL0087 - ALIMENTAÇÃO DE ORGANISMOS AQUÁTICOS CULTIVÁVEIS": {
+    "Notas": [
+      9.31,
+      9.53
+    ],
+    "Desvios": [
+      1.29,
+      1.62
+    ],
+    "Docentes": [
+      "MARCOS ROGERIO CAMARA"
+    ],
+    "DesvioDeNotas": 0.10999999999999943,
+    "MediaDeNotas": 9.42,
+    "MediaDeDesvios": 1.455,
+    "NotaMediana": 9.53
+  },
+  "DOL0006 - CARCINOLOGIA": {
+    "Notas": [
+      9.8,
+      9.93
+    ],
+    "Desvios": [
+      1.13,
+      0.71
+    ],
+    "Docentes": [
+      "MARCOS ROGERIO CAMARA"
+    ],
+    "DesvioDeNotas": 0.0649999999999995,
+    "MediaDeNotas": 9.865,
+    "MediaDeDesvios": 0.9199999999999999,
+    "NotaMediana": 9.93
+  },
+  "DOL0086 - QUALIDADE DO AMBIENTE DE CULTIVO II": {
+    "Notas": [
+      9.54,
+      9.61
+    ],
+    "Desvios": [
+      1.56,
+      1.27
+    ],
+    "Docentes": [
+      "MARCOS ROGERIO CAMARA",
+      "WALLACE SILVA DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.03500000000000014,
+    "MediaDeNotas": 9.575,
+    "MediaDeDesvios": 1.415,
+    "NotaMediana": 9.61
+  },
+  "DOL0079 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS": {
+    "Notas": [
+      9.62,
+      9.72
+    ],
+    "Desvios": [
+      0.94,
+      1.32
+    ],
+    "Docentes": [
+      "MARIA CHRISTINA BARBOSA DE ARAUJO",
+      "NG HAIG THEY"
+    ],
+    "DesvioDeNotas": 0.05000000000000071,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.72
+  },
+  "DOL0050 - OCEANOGRAFIA": {
+    "Notas": [
+      7.96,
+      8.98,
+      9.77,
+      9.87
+    ],
+    "Desvios": [
+      1.33,
+      2.48,
+      2.22,
+      1.33
+    ],
+    "Docentes": [
+      "MARIA CHRISTINA BARBOSA DE ARAUJO",
+      "ALEXANDRE MAGNO CAVALCANTI DA ROCHA"
+    ],
+    "DesvioDeNotas": 0.7661103053738408,
+    "MediaDeNotas": 9.145,
+    "MediaDeDesvios": 1.84,
+    "NotaMediana": 9.77
+  },
+  "DOL0068 - PISCICULTURA MARINHA": {
+    "Notas": [
+      9.43,
+      9.48,
+      9.66,
+      9.79
+    ],
+    "Desvios": [
+      1.41,
+      1.49,
+      1.26,
+      1.31
+    ],
+    "Docentes": [
+      "RENATA BEZERRA GOMES REBOUCAS",
+      "DEUSIMAR FREIRE BRASIL",
+      "NG HAIG THEY",
+      "WALLACE SILVA DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.14370107863199885,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.3675000000000002,
+    "NotaMediana": 9.66
+  },
+  "DOL0082 - FUNDAMENTOS GERAIS DE SOLOS": {
+    "Notas": [
+      6.24,
+      8.59
+    ],
+    "Desvios": [
+      2.95,
+      1.78
+    ],
+    "Docentes": [
+      "ALEXANDRE MAGNO CAVALCANTI DA ROCHA"
+    ],
+    "DesvioDeNotas": 1.1749999999999998,
+    "MediaDeNotas": 7.415,
+    "MediaDeDesvios": 2.365,
+    "NotaMediana": 8.59
+  },
+  "DOL0089 - ELABORAÇÃO DE PROJETOS AQUÍCOLAS": {
+    "Notas": [
+      9.44,
+      9.97,
+      9.98
+    ],
+    "Desvios": [
+      1.45,
+      0.56,
+      0.61
+    ],
+    "Docentes": [
+      "DEUSIMAR FREIRE BRASIL",
+      "MARCOS ROGERIO CAMARA"
+    ],
+    "DesvioDeNotas": 0.252234458831902,
+    "MediaDeNotas": 9.796666666666667,
+    "MediaDeDesvios": 0.8733333333333332,
+    "NotaMediana": 9.97
+  },
+  "DOL0055 - EMBRIOLOGIA DE ORGANISMOS CULTIVAVEIS": {
+    "Notas": [
+      9.16,
+      9.19
+    ],
+    "Desvios": [
+      1.65,
+      1.73
+    ],
+    "Docentes": [
+      "DEUSIMAR FREIRE BRASIL"
+    ],
+    "DesvioDeNotas": 0.01499999999999968,
+    "MediaDeNotas": 9.175,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.19
+  },
+  "DOL0037 - BENTOS": {
+    "Notas": [
+      9.34,
+      9.62,
+      9.89
+    ],
+    "Desvios": [
+      2.01,
+      0.97,
+      1.29
+    ],
+    "Docentes": [
+      "EDSON APARECIDO VIEIRA FILHO",
+      "GUILHERME ORTIGARA LONGO"
+    ],
+    "DesvioDeNotas": 0.2245489305746575,
+    "MediaDeNotas": 9.616666666666667,
+    "MediaDeDesvios": 1.4233333333333331,
+    "NotaMediana": 9.62
+  },
+  "DOL0061 - ALGOCULTURA II": {
+    "Notas": [
+      9.32,
+      9.7
+    ],
+    "Desvios": [
+      1.27,
+      1.38
+    ],
+    "Docentes": [
+      "ELIANE MARINHO SORIANO"
+    ],
+    "DesvioDeNotas": 0.1899999999999995,
+    "MediaDeNotas": 9.51,
+    "MediaDeDesvios": 1.325,
+    "NotaMediana": 9.7
+  },
+  "DOL0048 - MACROFITAS AQUATICAS": {
+    "Notas": [
+      9.34,
+      9.4
+    ],
+    "Desvios": [
+      1.47,
+      1.63
+    ],
+    "Docentes": [
+      "ELIANE MARINHO SORIANO"
+    ],
+    "DesvioDeNotas": 0.03000000000000025,
+    "MediaDeNotas": 9.370000000000001,
+    "MediaDeDesvios": 1.5499999999999998,
+    "NotaMediana": 9.4
+  },
+  "DOL0094 - MALACOCULTURA II": {
+    "Notas": [
+      7.16,
+      9.25
+    ],
+    "Desvios": [
+      3.04,
+      1.08
+    ],
+    "Docentes": [
+      "JOSE HOLMES DO REGO BARROS"
+    ],
+    "DesvioDeNotas": 1.045,
+    "MediaDeNotas": 8.205,
+    "MediaDeDesvios": 2.06,
+    "NotaMediana": 9.25
+  },
+  "DOL0049 - LIMNOLOGIA": {
+    "Notas": [
+      9.59,
+      9.71,
+      9.86
+    ],
+    "Desvios": [
+      1.13,
+      0.98,
+      1.31
+    ],
+    "Docentes": [
+      "JULIANA DEO DIAS",
+      "NG HAIG THEY"
+    ],
+    "DesvioDeNotas": 0.1104536101718724,
+    "MediaDeNotas": 9.72,
+    "MediaDeDesvios": 1.14,
+    "NotaMediana": 9.71
+  },
+  "DOL0009 - PLANCTOLOGIA I": {
+    "Notas": [
+      9.31,
+      9.49,
+      9.5,
+      9.7,
+      9.96
+    ],
+    "Desvios": [
+      1.37,
+      1.17,
+      1.17,
+      1.12,
+      1.3
+    ],
+    "Docentes": [
+      "JULIANA DEO DIAS",
+      "NG HAIG THEY"
+    ],
+    "DesvioDeNotas": 0.22157617200412147,
+    "MediaDeNotas": 9.592000000000002,
+    "MediaDeDesvios": 1.226,
+    "NotaMediana": 9.5
+  },
+  "DOL0067 - METODOLOGIA CIENTIFICA": {
+    "Notas": [
+      9.55,
+      9.7
+    ],
+    "Desvios": [
+      1.27,
+      1.27
+    ],
+    "Docentes": [
+      "MARCOS ROGERIO CAMARA"
+    ],
+    "DesvioDeNotas": 0.07499999999999929,
+    "MediaDeNotas": 9.625,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.7
+  },
+  "DOL0043 - NUTRICAO DE ORGANISMOS AQUATICOS": {
+    "Notas": [
+      9.57,
+      9.75
+    ],
+    "Desvios": [
+      1.08,
+      1.7
+    ],
+    "Docentes": [
+      "MARCOS ROGERIO CAMARA"
+    ],
+    "DesvioDeNotas": 0.08999999999999986,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.3900000000000001,
+    "NotaMediana": 9.75
+  },
+  "DOL0053 - GESTAO COSTEIRA INTEGRADA": {
+    "Notas": [
+      9.05
+    ],
+    "Desvios": [
+      1.26
+    ],
+    "Docentes": [
+      "MARIA CHRISTINA BARBOSA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.05,
+    "MediaDeDesvios": 1.26,
+    "NotaMediana": 9.05
+  },
+  "DOL0085 - QUALIDADE DO AMBIENTE DE CULTIVO I": {
+    "Notas": [
+      9.54
+    ],
+    "Desvios": [
+      1.2
+    ],
+    "Docentes": [
+      "MARIA CHRISTINA BARBOSA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.2,
+    "NotaMediana": 9.54
+  },
+  "DOL0088 - INSTALAÇÕES E CONSTRUÇÕES PARA AQUICULTURA": {
+    "Notas": [
+      9.04
+    ],
+    "Desvios": [
+      1.58
+    ],
+    "Docentes": [
+      "RENATA BEZERRA GOMES REBOUCAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.04,
+    "MediaDeDesvios": 1.58,
+    "NotaMediana": 9.04
+  },
+  "DOL0073 - TECNOLOGIA DO PESCADO": {
+    "Notas": [
+      8.84,
+      9.32
+    ],
+    "Desvios": [
+      1.54,
+      1.77
+    ],
+    "Docentes": [
+      "RENATA BEZERRA GOMES REBOUCAS",
+      "VIRGINIA MARIA CAVALARI HENRIQUES"
+    ],
+    "DesvioDeNotas": 0.2400000000000002,
+    "MediaDeNotas": 9.08,
+    "MediaDeDesvios": 1.655,
+    "NotaMediana": 9.32
+  },
+  "DOL0084 - LARVICULTURA E ALEVINAGEM": {
+    "Notas": [
+      7.6,
+      8.29
+    ],
+    "Desvios": [
+      2.49,
+      2.43
+    ],
+    "Docentes": [
+      "VIRGINIA MARIA CAVALARI HENRIQUES"
+    ],
+    "DesvioDeNotas": 0.34499999999999975,
+    "MediaDeNotas": 7.944999999999999,
+    "MediaDeDesvios": 2.46,
+    "NotaMediana": 8.29
+  },
+  "DOL0080 - BIOESTATÍSTICA I": {
+    "Notas": [
+      8.89,
+      9.82,
+      9.88
+    ],
+    "Desvios": [
+      1.89,
+      0.79,
+      1.04
+    ],
+    "Docentes": [
+      "WALLACE SILVA DO NASCIMENTO",
+      "JULIANA DEO DIAS",
+      "NG HAIG THEY"
+    ],
+    "DesvioDeNotas": 0.4532107677449864,
+    "MediaDeNotas": 9.530000000000001,
+    "MediaDeDesvios": 1.24,
+    "NotaMediana": 9.82
+  },
+  "DOL0096 - PISCICULTURA CONTINENTAL": {
+    "Notas": [
+      9.41,
+      9.56,
+      9.79
+    ],
+    "Desvios": [
+      1.2,
+      1.22,
+      0.93
+    ],
+    "Docentes": [
+      "WALLACE SILVA DO NASCIMENTO",
+      "DEUSIMAR FREIRE BRASIL"
+    ],
+    "DesvioDeNotas": 0.15627610892974678,
+    "MediaDeNotas": 9.586666666666666,
+    "MediaDeDesvios": 1.1166666666666667,
+    "NotaMediana": 9.56
+  },
+  "DOL0054 - GEOLOGIA COSTEIRA E IMPACTO AMBIENTAL": {
+    "Notas": [
+      7.92
+    ],
+    "Desvios": [
+      2.04
+    ],
+    "Docentes": [
+      "ALEXANDRE MAGNO CAVALCANTI DA ROCHA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 7.92,
+    "MediaDeDesvios": 2.04,
+    "NotaMediana": 7.92
+  },
+  "DOL0003 - ICTIOLOGIA": {
+    "Notas": [
+      5.69
+    ],
+    "Desvios": [
+      3.76
+    ],
+    "Docentes": [
+      "JORGE EDUARDO LINS OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 5.69,
+    "MediaDeDesvios": 3.76,
+    "NotaMediana": 5.69
+  }
+}

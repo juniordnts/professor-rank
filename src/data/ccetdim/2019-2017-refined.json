@@ -1,0 +1,2696 @@
+{
+  "ADILSON BARBOZA LOPES": {
+    "Notas": [
+      8.16,
+      8.22,
+      8.53,
+      8.88,
+      9.04,
+      9.07,
+      9.08,
+      9.13,
+      9.15,
+      9.18,
+      9.19,
+      9.21,
+      9.23,
+      9.25,
+      9.27,
+      9.3
+    ],
+    "Desvios": [
+      2.39,
+      2.4,
+      2.4,
+      2.68,
+      1.99,
+      2.07,
+      2.19,
+      2.19,
+      2.27,
+      2.32,
+      2.31,
+      2.44,
+      2.36,
+      1.54,
+      1.42,
+      1.53
+    ],
+    "Componentes": {
+      "DIM0320 - ALGORITMO E PROGRAMACAO DE COMPUTADORES": {
+        "Notas": [
+          8.88,
+          9.08,
+          9.13,
+          9.15,
+          9.21,
+          9.25,
+          9.3
+        ],
+        "Desvios": [
+          2.39,
+          2.4,
+          2.4,
+          1.99,
+          2.32,
+          1.54,
+          1.42
+        ],
+        "DesvioDeNotas": 0.12758350606723484,
+        "MediaDeNotas": 9.142857142857142,
+        "MediaDeDesvios": 2.0657142857142854,
+        "NotaMediana": 9.15
+      },
+      "DIM0104 - SOFTWARES APLICATIVOS": {
+        "Notas": [
+          8.16,
+          8.22,
+          8.53
+        ],
+        "Desvios": [
+          2.68,
+          2.27,
+          2.36
+        ],
+        "DesvioDeNotas": 0.16213848676020368,
+        "MediaDeNotas": 8.303333333333335,
+        "MediaDeDesvios": 2.436666666666667,
+        "NotaMediana": 8.22
+      },
+      "DIM0103 - INTRODUCAO A INFORMATICA": {
+        "Notas": [
+          9.04,
+          9.19,
+          9.27
+        ],
+        "Desvios": [
+          2.07,
+          2.31,
+          1.53
+        ],
+        "DesvioDeNotas": 0.09533566430716746,
+        "MediaDeNotas": 9.166666666666666,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.19
+      },
+      "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 9.23
+      },
+      "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 9.18
+      },
+      "DIM0321 - LINGUAGENS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          2.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2.44,
+        "NotaMediana": 9.07
+      }
+    },
+    "DesvioDeNotas": 0.35282287960816827,
+    "MediaDeNotas": 8.993125,
+    "MediaDeDesvios": 2.15625,
+    "NotaMediana": 9.15
+  },
+  "ANDRE MAURICIO CUNHA CAMPOS": {
+    "Notas": [
+      8.47,
+      8.57,
+      8.75,
+      8.99,
+      9.27,
+      9.34,
+      9.38,
+      9.53,
+      9.63
+    ],
+    "Desvios": [
+      1.74,
+      2.42,
+      2.93,
+      1.66,
+      2.31,
+      1.79,
+      2.74,
+      1.98,
+      2.91
+    ],
+    "Componentes": {
+      "DIM0133 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.34
+      },
+      "IMD1004 - PENSAMENTO COMPUTACIONAL": {
+        "Notas": [
+          9.27
+        ],
+        "Desvios": [
+          2.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 2.42,
+        "NotaMediana": 9.27
+      },
+      "DIM0126 - INTELIGÊNCIA ARTIFICIAL PARA JOGOS I": {
+        "Notas": [
+          8.57
+        ],
+        "Desvios": [
+          2.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.57,
+        "MediaDeDesvios": 2.93,
+        "NotaMediana": 8.57
+      },
+      "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.63
+      },
+      "IMD0522 - JOGOS DIGITAIS COMO FERRAMENTA PEDAGÓGICA": {
+        "Notas": [
+          8.99
+        ],
+        "Desvios": [
+          2.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.99,
+        "MediaDeDesvios": 2.31,
+        "NotaMediana": 8.99
+      },
+      "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.53
+      },
+      "DIM0501 - BOAS PRÁTICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          8.47
+        ],
+        "Desvios": [
+          2.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.47,
+        "MediaDeDesvios": 2.74,
+        "NotaMediana": 8.47
+      },
+      "DIM0123 - PENSAMENTO COMPUTACIONAL": {
+        "Notas": [
+          9.38
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.38
+      },
+      "DIM0534 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE IV": {
+        "Notas": [
+          8.75
+        ],
+        "Desvios": [
+          2.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.75,
+        "MediaDeDesvios": 2.91,
+        "NotaMediana": 8.75
+      }
+    },
+    "DesvioDeNotas": 0.40041644987853986,
+    "MediaDeNotas": 9.103333333333333,
+    "MediaDeDesvios": 2.2755555555555556,
+    "NotaMediana": 9.27
+  },
+  "ANNE MAGALY DE PAULA CANUTO": {
+    "Notas": [
+      7.37,
+      8.85,
+      8.98,
+      9.53
+    ],
+    "Desvios": [
+      2.86,
+      2.24,
+      3.32,
+      2.47
+    ],
+    "Componentes": {
+      "IMD1101 - APRENDIZADO DE MÁQUINA": {
+        "Notas": [
+          8.85
+        ],
+        "Desvios": [
+          2.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.85,
+        "MediaDeDesvios": 2.86,
+        "NotaMediana": 8.85
+      },
+      "DIM0132 - PROBABILIDADE": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          2.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 9.53
+      },
+      "DIM0613 - INTELIGENCIA ARTIFICIAL": {
+        "Notas": [
+          7.37
+        ],
+        "Desvios": [
+          3.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.37,
+        "MediaDeDesvios": 3.32,
+        "NotaMediana": 7.37
+      },
+      "IMD0033 - PROBABILIDADE": {
+        "Notas": [
+          8.98
+        ],
+        "Desvios": [
+          2.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 2.47,
+        "NotaMediana": 8.98
+      }
+    },
+    "DesvioDeNotas": 0.7996053714176761,
+    "MediaDeNotas": 8.682500000000001,
+    "MediaDeDesvios": 2.7225,
+    "NotaMediana": 8.98
+  },
+  "EDGARD DE FARIA CORREA": {
+    "Notas": [
+      7.2,
+      7.21,
+      7.89,
+      8.65,
+      8.75,
+      8.82,
+      8.84,
+      9,
+      9.05,
+      9.73,
+      9.8,
+      9.9
+    ],
+    "Desvios": [
+      2.76,
+      2.78,
+      1.41,
+      1.94,
+      1.94,
+      0.55,
+      2.5,
+      1.96,
+      2.6,
+      1.49,
+      2.01,
+      1.97
+    ],
+    "Componentes": {
+      "DIM0615.1 - LABORATORIO DE PROJETO DE SISTEMAS OPERACIONAIS": {
+        "Notas": [
+          7.21,
+          8.65,
+          8.82
+        ],
+        "Desvios": [
+          2.76,
+          1.94,
+          1.96
+        ],
+        "DesvioDeNotas": 0.7222341879350648,
+        "MediaDeNotas": 8.226666666666667,
+        "MediaDeDesvios": 2.2199999999999998,
+        "NotaMediana": 8.65
+      },
+      "DIM0615.0 - PROJETO DE SISTEMAS OPERACIONAIS": {
+        "Notas": [
+          7.2,
+          7.89,
+          8.75
+        ],
+        "Desvios": [
+          2.78,
+          1.94,
+          2.6
+        ],
+        "DesvioDeNotas": 0.6340522235764355,
+        "MediaDeNotas": 7.946666666666666,
+        "MediaDeDesvios": 2.44,
+        "NotaMediana": 7.89
+      },
+      "DIM0590 - PROPOSTA DE TRABALHO DE CONCLUSÃO DE CURSO": {
+        "Notas": [
+          9.8,
+          9.9
+        ],
+        "Desvios": [
+          1.41,
+          0.55
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.850000000000001,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.9
+      },
+      "DIM0122 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          2.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 2.5,
+        "NotaMediana": 8.84
+      },
+      "IMD0236 - TÓPICOS ESPECIAIS EM SISTEMAS EMBARCADOS \"G\"": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.73
+      },
+      "DIM0109.0 - CIRCUITOS LÓGICOS": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          2.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 2.01,
+        "NotaMediana": 9
+      },
+      "DIM0109.1 - LABORATÓRIO DE CIRCUITOS LÓGICOS": {
+        "Notas": [
+          9.05
+        ],
+        "Desvios": [
+          1.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.05
+      }
+    },
+    "DesvioDeNotas": 0.8695049677195003,
+    "MediaDeNotas": 8.736666666666668,
+    "MediaDeDesvios": 1.9924999999999997,
+    "NotaMediana": 8.84
+  },
+  "EDSON ALYPPYO GOMES COUTINHO": {
+    "Notas": [
+      9.09,
+      9.15,
+      9.28,
+      9.32,
+      9.43,
+      9.49,
+      9.5,
+      9.55,
+      9.57,
+      9.6,
+      9.65,
+      9.65,
+      9.7
+    ],
+    "Desvios": [
+      2.41,
+      2.28,
+      1.49,
+      2.07,
+      1.96,
+      1.27,
+      2.4,
+      1.8,
+      1.73,
+      2.05,
+      1.56,
+      1.51,
+      1.25
+    ],
+    "Componentes": {
+      "DIM0320 - ALGORITMO E PROGRAMACAO DE COMPUTADORES": {
+        "Notas": [
+          9.09,
+          9.28,
+          9.43,
+          9.49,
+          9.5,
+          9.55,
+          9.57,
+          9.65,
+          9.65
+        ],
+        "Desvios": [
+          2.41,
+          2.28,
+          1.49,
+          1.96,
+          1.27,
+          1.8,
+          1.73,
+          1.56,
+          1.51
+        ],
+        "DesvioDeNotas": 0.17144988109764076,
+        "MediaDeNotas": 9.467777777777776,
+        "MediaDeDesvios": 1.778888888888889,
+        "NotaMediana": 9.5
+      },
+      "DIM0321 - LINGUAGENS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.15,
+          9.32
+        ],
+        "Desvios": [
+          2.07,
+          2.4
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.235,
+        "MediaDeDesvios": 2.235,
+        "NotaMediana": 9.32
+      },
+      "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          2.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 9.6
+      },
+      "DIM0104 - SOFTWARES APLICATIVOS": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.1876986127566457,
+    "MediaDeNotas": 9.459999999999997,
+    "MediaDeDesvios": 1.8292307692307692,
+    "NotaMediana": 9.5
+  },
+  "EDUARDO HENRIQUE DA SILVA ARANHA": {
+    "Notas": [
+      8.34,
+      8.43,
+      8.8,
+      8.9,
+      9.12,
+      9.28,
+      9.46,
+      9.49,
+      9.49,
+      9.69
+    ],
+    "Desvios": [
+      2.34,
+      2.32,
+      2.25,
+      2.41,
+      1.55,
+      1.42,
+      2.09,
+      2.05,
+      1.89,
+      1.74
+    ],
+    "Componentes": {
+      "DIM0517 - GERÊNCIA DE CONFIGURAÇÃO E MUDANÇAS": {
+        "Notas": [
+          8.43,
+          9.46
+        ],
+        "Desvios": [
+          2.34,
+          2.05
+        ],
+        "DesvioDeNotas": 0.5150000000000006,
+        "MediaDeNotas": 8.945,
+        "MediaDeDesvios": 2.195,
+        "NotaMediana": 9.46
+      },
+      "DIM0123 - PENSAMENTO COMPUTACIONAL": {
+        "Notas": [
+          9.12,
+          9.28
+        ],
+        "Desvios": [
+          2.32,
+          1.89
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 2.105,
+        "NotaMediana": 9.28
+      },
+      "DIM0510 - PROCESSOS DE SOFTWARE": {
+        "Notas": [
+          8.8
+        ],
+        "Desvios": [
+          2.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.8,
+        "MediaDeDesvios": 2.25,
+        "NotaMediana": 8.8
+      },
+      "DIM0535 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE V": {
+        "Notas": [
+          8.34
+        ],
+        "Desvios": [
+          2.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.34,
+        "MediaDeDesvios": 2.41,
+        "NotaMediana": 8.34
+      },
+      "DIM0320 - ALGORITMO E PROGRAMACAO DE COMPUTADORES": {
+        "Notas": [
+          9.49,
+          9.69
+        ],
+        "Desvios": [
+          1.55,
+          1.42
+        ],
+        "DesvioDeNotas": 0.09999999999999964,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.4849999999999999,
+        "NotaMediana": 9.69
+      },
+      "DIM0321 - LINGUAGENS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          2.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 9.49
+      },
+      "DIM0520 - MODELAGEM DE PROCESSOS DE NEGÓCIO": {
+        "Notas": [
+          8.9
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 8.9
+      }
+    },
+    "DesvioDeNotas": 0.4439819816163715,
+    "MediaDeNotas": 9.100000000000001,
+    "MediaDeDesvios": 2.006,
+    "NotaMediana": 9.28
+  },
+  "ELIZABETH FERREIRA GOUVEA GOLDBARG": {
+    "Notas": [
+      9.5,
+      9.89,
+      9.94,
+      9.97
+    ],
+    "Desvios": [
+      1.14,
+      1.75,
+      2.02,
+      1.07
+    ],
+    "Componentes": {
+      "DIM0549 - GRAFOS": {
+        "Notas": [
+          9.5,
+          9.94
+        ],
+        "Desvios": [
+          1.14,
+          2.02
+        ],
+        "DesvioDeNotas": 0.21999999999999975,
+        "MediaDeNotas": 9.719999999999999,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.94
+      },
+      "DIM0605 - PROJETO E ANÁLISE DE ALGORITMOS": {
+        "Notas": [
+          9.89,
+          9.97
+        ],
+        "Desvios": [
+          1.75,
+          1.07
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.4100000000000001,
+        "NotaMediana": 9.97
+      }
+    },
+    "DesvioDeNotas": 0.18980252896102318,
+    "MediaDeNotas": 9.825,
+    "MediaDeDesvios": 1.495,
+    "NotaMediana": 9.94
+  },
+  "EVERTON RANIELLY DE SOUSA CAVALCANTE": {
+    "Notas": [
+      8.85,
+      9.27,
+      9.66,
+      9.73,
+      9.77,
+      9.9
+    ],
+    "Desvios": [
+      2.22,
+      1.3,
+      2.38,
+      1.42,
+      1.24,
+      1.35
+    ],
+    "Componentes": {
+      "DIM0550 - MÉTODOS EXPERIMENTAIS EM ENGENHARIA DE SOFTWARE": {
+        "Notas": [
+          9.27
+        ],
+        "Desvios": [
+          2.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 2.22,
+        "NotaMediana": 9.27
+      },
+      "DIM0514 - ARQUITETURA DE SOFTWARE": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.77
+      },
+      "DIM0614 - PROGRAMAÇÃO DISTRIBUÍDA": {
+        "Notas": [
+          8.85
+        ],
+        "Desvios": [
+          2.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.85,
+        "MediaDeDesvios": 2.38,
+        "NotaMediana": 8.85
+      },
+      "DIM0612 - PROGRAMAÇÃO CONCORRENTE": {
+        "Notas": [
+          9.66,
+          9.9
+        ],
+        "Desvios": [
+          1.42,
+          1.35
+        ],
+        "DesvioDeNotas": 0.1200000000000001,
+        "MediaDeNotas": 9.780000000000001,
+        "MediaDeDesvios": 1.385,
+        "NotaMediana": 9.9
+      },
+      "DIM0501 - BOAS PRÁTICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.3608785575970585,
+    "MediaDeNotas": 9.53,
+    "MediaDeDesvios": 1.6516666666666666,
+    "NotaMediana": 9.73
+  },
+  "FERNANDO MARQUES FIGUEIRA FILHO": {
+    "Notas": [
+      6.53,
+      7.15,
+      7.31,
+      7.61,
+      7.87,
+      8.14,
+      8.68
+    ],
+    "Desvios": [
+      2.48,
+      2.25,
+      2.76,
+      2.57,
+      3.01,
+      2.14,
+      1.86
+    ],
+    "Componentes": {
+      "DIM0517 - GERÊNCIA DE CONFIGURAÇÃO E MUDANÇAS": {
+        "Notas": [
+          7.87
+        ],
+        "Desvios": [
+          2.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.87,
+        "MediaDeDesvios": 2.48,
+        "NotaMediana": 7.87
+      },
+      "DIM0510 - PROCESSOS DE SOFTWARE": {
+        "Notas": [
+          6.53,
+          8.14
+        ],
+        "Desvios": [
+          2.25,
+          3.01
+        ],
+        "DesvioDeNotas": 0.8050000000000002,
+        "MediaDeNotas": 7.335000000000001,
+        "MediaDeDesvios": 2.63,
+        "NotaMediana": 8.14
+      },
+      "DIM0547 - DESENVOLVIMENTO DE SISTEMAS WEB II": {
+        "Notas": [
+          7.15,
+          7.61
+        ],
+        "Desvios": [
+          2.76,
+          2.14
+        ],
+        "DesvioDeNotas": 0.22999999999999998,
+        "MediaDeNotas": 7.380000000000001,
+        "MediaDeDesvios": 2.45,
+        "NotaMediana": 7.61
+      },
+      "DIM0532 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE II": {
+        "Notas": [
+          7.31
+        ],
+        "Desvios": [
+          2.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.31,
+        "MediaDeDesvios": 2.57,
+        "NotaMediana": 7.31
+      },
+      "DIM0533 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE III": {
+        "Notas": [
+          8.68
+        ],
+        "Desvios": [
+          1.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.68,
+        "MediaDeDesvios": 1.86,
+        "NotaMediana": 8.68
+      }
+    },
+    "DesvioDeNotas": 0.6504221549054403,
+    "MediaDeNotas": 7.612857142857143,
+    "MediaDeDesvios": 2.4385714285714286,
+    "NotaMediana": 7.61
+  },
+  "JAIR CAVALCANTI LEITE": {
+    "Notas": [
+      8.93,
+      9.09,
+      9.35,
+      9.37,
+      9.38
+    ],
+    "Desvios": [
+      2.52,
+      2.21,
+      1.97,
+      1.62,
+      1.51
+    ],
+    "Componentes": {
+      "DIM0546 - DESENVOLVIMENTO DE SISTEMAS WEB I": {
+        "Notas": [
+          8.93,
+          9.38
+        ],
+        "Desvios": [
+          2.52,
+          1.97
+        ],
+        "DesvioDeNotas": 0.22500000000000053,
+        "MediaDeNotas": 9.155000000000001,
+        "MediaDeDesvios": 2.245,
+        "NotaMediana": 9.38
+      },
+      "DIM0508 - PROJETO DE INTERFACES DE USUÁRIO": {
+        "Notas": [
+          9.35,
+          9.37
+        ],
+        "Desvios": [
+          2.21,
+          1.51
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.8599999999999999,
+        "NotaMediana": 9.37
+      },
+      "DIM0514 - ARQUITETURA DE SOFTWARE": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 0.18216476058777128,
+    "MediaDeNotas": 9.224,
+    "MediaDeDesvios": 1.966,
+    "NotaMediana": 9.35
+  },
+  "JOAO MARCOS DE ALMEIDA": {
+    "Notas": [
+      9.31,
+      9.54,
+      9.94
+    ],
+    "Desvios": [
+      1.97,
+      2.01,
+      1.77
+    ],
+    "Componentes": {
+      "DIM0601 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO III": {
+        "Notas": [
+          9.31,
+          9.54,
+          9.94
+        ],
+        "Desvios": [
+          1.97,
+          2.01,
+          1.77
+        ],
+        "DesvioDeNotas": 0.26029897340472813,
+        "MediaDeNotas": 9.596666666666666,
+        "MediaDeDesvios": 1.9166666666666667,
+        "NotaMediana": 9.54
+      }
+    },
+    "DesvioDeNotas": 0.26029897340472813,
+    "MediaDeNotas": 9.596666666666666,
+    "MediaDeDesvios": 1.9166666666666667,
+    "NotaMediana": 9.54
+  },
+  "LEONARDO CUNHA DE MIRANDA": {
+    "Notas": [
+      8.49,
+      8.52,
+      9.49,
+      9.6
+    ],
+    "Desvios": [
+      2.98,
+      1.88,
+      1.53,
+      2.34
+    ],
+    "Componentes": {
+      "DIM0443 - INTERACAO HUMANO-COMPUTADOR": {
+        "Notas": [
+          8.49,
+          8.52
+        ],
+        "Desvios": [
+          2.98,
+          2.34
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 8.504999999999999,
+        "MediaDeDesvios": 2.66,
+        "NotaMediana": 8.52
+      },
+      "DIM0504 - ANÁLISE E PROJETO ORIENTADO A OBJETOS": {
+        "Notas": [
+          9.49,
+          9.6
+        ],
+        "Desvios": [
+          1.88,
+          1.53
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.545,
+        "MediaDeDesvios": 1.705,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.5215601595214113,
+    "MediaDeNotas": 9.025,
+    "MediaDeDesvios": 2.1825,
+    "NotaMediana": 9.49
+  },
+  "LYRENE FERNANDES DA SILVA": {
+    "Notas": [
+      7.57,
+      8.14,
+      8.39,
+      9.07,
+      9.35
+    ],
+    "Desvios": [
+      3.02,
+      2.93,
+      1.46,
+      2.53,
+      1.79
+    ],
+    "Componentes": {
+      "DIM0504 - ANÁLISE E PROJETO ORIENTADO A OBJETOS": {
+        "Notas": [
+          7.57,
+          9.35
+        ],
+        "Desvios": [
+          3.02,
+          1.46
+        ],
+        "DesvioDeNotas": 0.8899999999999997,
+        "MediaDeNotas": 8.46,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 9.35
+      },
+      "DIM0321 - LINGUAGENS DE PROGRAMAÇÃO": {
+        "Notas": [
+          8.39,
+          9.07
+        ],
+        "Desvios": [
+          2.93,
+          1.79
+        ],
+        "DesvioDeNotas": 0.33999999999999986,
+        "MediaDeNotas": 8.73,
+        "MediaDeDesvios": 2.3600000000000003,
+        "NotaMediana": 9.07
+      },
+      "DIM0511 - ENGENHARIA DE REQUISITOS": {
+        "Notas": [
+          8.14
+        ],
+        "Desvios": [
+          2.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.14,
+        "MediaDeDesvios": 2.53,
+        "NotaMediana": 8.14
+      }
+    },
+    "DesvioDeNotas": 0.6409243325073559,
+    "MediaDeNotas": 8.504000000000001,
+    "MediaDeDesvios": 2.346,
+    "NotaMediana": 8.39
+  },
+  "MARCEL VINICIUS MEDEIROS OLIVEIRA": {
+    "Notas": [
+      9.09,
+      9.53,
+      9.64,
+      9.65,
+      9.69,
+      9.69,
+      9.7
+    ],
+    "Desvios": [
+      2.61,
+      1.91,
+      1.6,
+      1.82,
+      1.74,
+      1.85,
+      1.08
+    ],
+    "Componentes": {
+      "DIM0125 - BANCO DE DADOS": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          2.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 2.61,
+        "NotaMediana": 9.09
+      },
+      "DIM0516 - MÉTODOS FORMAIS DE ENGENHARIA DE SOFTWARE": {
+        "Notas": [
+          9.53,
+          9.64
+        ],
+        "Desvios": [
+          1.91,
+          1.74
+        ],
+        "DesvioDeNotas": 0.055000000000000604,
+        "MediaDeNotas": 9.585,
+        "MediaDeDesvios": 1.825,
+        "NotaMediana": 9.64
+      },
+      "DIM0505 - LÓGICA APLICADA A ENGENHARIA DE SOFTWARE": {
+        "Notas": [
+          9.65,
+          9.69
+        ],
+        "Desvios": [
+          1.6,
+          1.08
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.69
+      },
+      "DIM0541.0 - BANCO DE DADOS": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          1.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 9.69
+      },
+      "DIM0541.1 - PRATICA DE BANCO DE DADOS": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.20318886358684685,
+    "MediaDeNotas": 9.569999999999999,
+    "MediaDeDesvios": 1.8014285714285714,
+    "NotaMediana": 9.65
+  },
+  "MARCIA JACYNTHA NUNES RODRIGUES LUCENA": {
+    "Notas": [
+      7.5,
+      7.67,
+      8.11,
+      8.28,
+      8.72,
+      8.78,
+      9.03
+    ],
+    "Desvios": [
+      2.37,
+      2.9,
+      2.35,
+      2.4,
+      2.97,
+      2.44,
+      1.55
+    ],
+    "Componentes": {
+      "DIM0511 - ENGENHARIA DE REQUISITOS": {
+        "Notas": [
+          8.78
+        ],
+        "Desvios": [
+          2.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.78,
+        "MediaDeDesvios": 2.37,
+        "NotaMediana": 8.78
+      },
+      "DIM0518 - PLANEJAMENTO E GERENCIAMENTO DE PROJETOS": {
+        "Notas": [
+          8.11,
+          8.72
+        ],
+        "Desvios": [
+          2.9,
+          2.4
+        ],
+        "DesvioDeNotas": 0.3050000000000006,
+        "MediaDeNotas": 8.415,
+        "MediaDeDesvios": 2.65,
+        "NotaMediana": 8.72
+      },
+      "DIM0114 - BANCO DE DADOS": {
+        "Notas": [
+          8.28
+        ],
+        "Desvios": [
+          2.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.28,
+        "MediaDeDesvios": 2.35,
+        "NotaMediana": 8.28
+      },
+      "DIM0536 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VI": {
+        "Notas": [
+          7.67
+        ],
+        "Desvios": [
+          2.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.67,
+        "MediaDeDesvios": 2.97,
+        "NotaMediana": 7.67
+      },
+      "IMD0401 - BANCO DE DADOS": {
+        "Notas": [
+          7.5
+        ],
+        "Desvios": [
+          2.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.5,
+        "MediaDeDesvios": 2.44,
+        "NotaMediana": 7.5
+      },
+      "DIM0538 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VIII": {
+        "Notas": [
+          9.03
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.03,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.03
+      }
+    },
+    "DesvioDeNotas": 0.5362682849744032,
+    "MediaDeNotas": 8.29857142857143,
+    "MediaDeDesvios": 2.4257142857142857,
+    "NotaMediana": 8.28
+  },
+  "MARCIO EDUARDO KREUTZ": {
+    "Notas": [
+      8.96,
+      9.36,
+      9.42,
+      9.51,
+      9.6
+    ],
+    "Desvios": [
+      2.53,
+      2.01,
+      2.37,
+      2.37,
+      1.79
+    ],
+    "Componentes": {
+      "DIM0127 - ARQUITETURA DE COMPUTADORES": {
+        "Notas": [
+          8.96
+        ],
+        "Desvios": [
+          2.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 2.53,
+        "NotaMediana": 8.96
+      },
+      "DIM0431 - ORGANIZACAO E ARQUITETURA DE COMPUTADORES": {
+        "Notas": [
+          9.51,
+          9.6
+        ],
+        "Desvios": [
+          2.01,
+          1.79
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.6
+      },
+      "DIM0109.0 - CIRCUITOS LÓGICOS": {
+        "Notas": [
+          9.42
+        ],
+        "Desvios": [
+          2.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.42,
+        "MediaDeDesvios": 2.37,
+        "NotaMediana": 9.42
+      },
+      "DIM0109.1 - LABORATÓRIO DE CIRCUITOS LÓGICOS": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          2.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 2.37,
+        "NotaMediana": 9.36
+      }
+    },
+    "DesvioDeNotas": 0.22054478003344313,
+    "MediaDeNotas": 9.370000000000001,
+    "MediaDeDesvios": 2.214,
+    "NotaMediana": 9.42
+  },
+  "MARCO CESAR GOLDBARG": {
+    "Notas": [
+      9.29,
+      9.73,
+      9.82
+    ],
+    "Desvios": [
+      1.73,
+      1.86,
+      1.45
+    ],
+    "Componentes": {
+      "DIM0529 - DESENVOLVIMENTO EM TIMES": {
+        "Notas": [
+          9.29,
+          9.73
+        ],
+        "Desvios": [
+          1.73,
+          1.86
+        ],
+        "DesvioDeNotas": 0.22000000000000064,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.795,
+        "NotaMediana": 9.73
+      },
+      "DIM0448 - QUALIDADE DE SOFTWARE": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.2315647257727793,
+    "MediaDeNotas": 9.613333333333333,
+    "MediaDeDesvios": 1.68,
+    "NotaMediana": 9.73
+  },
+  "MARCOS CESAR MADRUGA ALVES PINHEIRO": {
+    "Notas": [
+      9.55,
+      9.71
+    ],
+    "Desvios": [
+      1.79,
+      2.94
+    ],
+    "Componentes": {
+      "DIM0438 - REDES DE COMPUTADORES": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.71
+      },
+      "DIM0346 - GERENCIAMENTO E SEGURANCA EM REDES DE COMPUTADORES": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          2.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 2.94,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.08000000000000007,
+    "MediaDeNotas": 9.63,
+    "MediaDeDesvios": 2.365,
+    "NotaMediana": 9.71
+  },
+  "MARJORY CRISTIANY DA COSTA ABREU": {
+    "Notas": [
+      9.48,
+      9.52,
+      9.64,
+      9.65,
+      9.65,
+      9.73,
+      9.74
+    ],
+    "Desvios": [
+      1.69,
+      1.92,
+      1.94,
+      1.77,
+      2.14,
+      1.46,
+      1.37
+    ],
+    "Componentes": {
+      "DIM0133 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.74
+      },
+      "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.48,
+          9.65
+        ],
+        "Desvios": [
+          1.92,
+          1.46
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.565000000000001,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.65
+      },
+      "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.52,
+          9.64
+        ],
+        "Desvios": [
+          1.94,
+          1.37
+        ],
+        "DesvioDeNotas": 0.0600000000000005,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.655,
+        "NotaMediana": 9.64
+      },
+      "DIM0613 - INTELIGENCIA ARTIFICIAL": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.73
+      },
+      "DIM0123 - PENSAMENTO COMPUTACIONAL": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          2.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 2.14,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.09071147352221465,
+    "MediaDeNotas": 9.629999999999999,
+    "MediaDeDesvios": 1.755714285714286,
+    "NotaMediana": 9.65
+  },
+  "MARTIN ALEJANDRO MUSICANTE": {
+    "Notas": [
+      9.27,
+      9.41,
+      9.43,
+      9.72,
+      9.78,
+      9.9
+    ],
+    "Desvios": [
+      2.39,
+      1.93,
+      1.99,
+      1.53,
+      1.49,
+      1.44
+    ],
+    "Componentes": {
+      "DIM0439 - TEORIA DA COMPUTACAO": {
+        "Notas": [
+          9.27,
+          9.41
+        ],
+        "Desvios": [
+          2.39,
+          1.44
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.915,
+        "NotaMediana": 9.41
+      },
+      "DIM0611 - COMPILADORES": {
+        "Notas": [
+          9.72,
+          9.78
+        ],
+        "Desvios": [
+          1.93,
+          1.53
+        ],
+        "DesvioDeNotas": 0.02999999999999936,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.78
+      },
+      "DIM0436 - ESPECIFICACAO E VERIFICACAO DE PROGRAMAS": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.9
+      },
+      "DIM0590 - PROPOSTA DE TRABALHO DE CONCLUSÃO DE CURSO": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.43
+      }
+    },
+    "DesvioDeNotas": 0.2270646016739144,
+    "MediaDeNotas": 9.584999999999999,
+    "MediaDeDesvios": 1.795,
+    "NotaMediana": 9.72
+  },
+  "MONICA MAGALHAES PEREIRA": {
+    "Notas": [
+      9.53,
+      9.7,
+      9.82,
+      9.87
+    ],
+    "Desvios": [
+      1.67,
+      1.71,
+      1.88,
+      1.49
+    ],
+    "Componentes": {
+      "DIM0127 - ARQUITETURA DE COMPUTADORES": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.87
+      },
+      "DIM0616 - SISTEMAS EMBARCADOS": {
+        "Notas": [
+          9.53,
+          9.7
+        ],
+        "Desvios": [
+          1.71,
+          1.49
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.614999999999998,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.7
+      },
+      "DIM0431 - ORGANIZACAO E ARQUITETURA DE COMPUTADORES": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.13095800853708808,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.6875,
+    "NotaMediana": 9.82
+  },
+  "RAFAEL BESERRA GOMES": {
+    "Notas": [
+      9.34,
+      9.55,
+      9.61,
+      9.68,
+      9.68,
+      9.7,
+      9.71,
+      9.73,
+      9.74,
+      9.75,
+      9.81,
+      9.84,
+      9.95
+    ],
+    "Desvios": [
+      2.14,
+      1.56,
+      2.22,
+      1.86,
+      1.64,
+      1.62,
+      1.82,
+      1.83,
+      1.67,
+      1.19,
+      1.49,
+      1.4,
+      1.52
+    ],
+    "Componentes": {
+      "DIM0404 - CALCULO NUMERICO PARA CIENCIA DA COMPUTACAO": {
+        "Notas": [
+          9.55,
+          9.75
+        ],
+        "Desvios": [
+          2.14,
+          1.82
+        ],
+        "DesvioDeNotas": 0.09999999999999964,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.75
+      },
+      "DIM0410 - TREINAMENTO PARA COMPETICOES DE PROGRAMACAO": {
+        "Notas": [
+          9.68,
+          9.7,
+          9.95
+        ],
+        "Desvios": [
+          1.56,
+          1.19,
+          1.52
+        ],
+        "DesvioDeNotas": 0.12283683848458841,
+        "MediaDeNotas": 9.776666666666666,
+        "MediaDeDesvios": 1.4233333333333331,
+        "NotaMediana": 9.7
+      },
+      "DIM0491 - TÓPICOS ESPECIAIS EM COMPUTAÇÃO XII": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          2.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 2.22,
+        "NotaMediana": 9.34
+      },
+      "DIM0451 - COMPUTAÇÃO GRÁFICA I": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.86,
+        "NotaMediana": 9.61
+      },
+      "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.68,
+          9.73
+        ],
+        "Desvios": [
+          1.64,
+          1.49
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.705,
+        "MediaDeDesvios": 1.565,
+        "NotaMediana": 9.73
+      },
+      "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.71,
+          9.74
+        ],
+        "Desvios": [
+          1.62,
+          1.4
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.725000000000001,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.74
+      },
+      "DIM0118.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.81
+      },
+      "DIM0118.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.1415008311180559,
+    "MediaDeNotas": 9.69923076923077,
+    "MediaDeDesvios": 1.689230769230769,
+    "NotaMediana": 9.71
+  },
+  "REGIVAN HUGO NUNES SANTIAGO": {
+    "Notas": [
+      6.24,
+      7.95,
+      8.88,
+      9.41
+    ],
+    "Desvios": [
+      3.1,
+      3.05,
+      1.86,
+      1.84
+    ],
+    "Componentes": {
+      "DIM0610 - LÓGICA COMPUTACIONAL": {
+        "Notas": [
+          6.24
+        ],
+        "Desvios": [
+          3.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.24,
+        "MediaDeDesvios": 3.1,
+        "NotaMediana": 6.24
+      },
+      "DIM0439 - TEORIA DA COMPUTACAO": {
+        "Notas": [
+          7.95
+        ],
+        "Desvios": [
+          3.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.95,
+        "MediaDeDesvios": 3.05,
+        "NotaMediana": 7.95
+      },
+      "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II": {
+        "Notas": [
+          8.88
+        ],
+        "Desvios": [
+          1.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.88,
+        "MediaDeDesvios": 1.86,
+        "NotaMediana": 8.88
+      },
+      "DIM0601 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO III": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 9.41
+      }
+    },
+    "DesvioDeNotas": 1.2046783803156758,
+    "MediaDeNotas": 8.120000000000001,
+    "MediaDeDesvios": 2.4625,
+    "NotaMediana": 8.88
+  },
+  "ROBERTA DE SOUZA COELHO": {
+    "Notas": [
+      8.95,
+      9.31,
+      9.61,
+      9.82,
+      9.88,
+      9.97
+    ],
+    "Desvios": [
+      2.39,
+      1.99,
+      1.67,
+      1.87,
+      1.69,
+      1.06
+    ],
+    "Componentes": {
+      "DIM0507 - TESTE DE SOFTWARE I": {
+        "Notas": [
+          8.95,
+          9.31
+        ],
+        "Desvios": [
+          2.39,
+          1.87
+        ],
+        "DesvioDeNotas": 0.1800000000000006,
+        "MediaDeNotas": 9.129999999999999,
+        "MediaDeDesvios": 2.13,
+        "NotaMediana": 9.31
+      },
+      "DIM0436 - ESPECIFICACAO E VERIFICACAO DE PROGRAMAS": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          1.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.88
+      },
+      "DIM0512 - TESTE DE SOFTWARE II": {
+        "Notas": [
+          9.82,
+          9.97
+        ],
+        "Desvios": [
+          1.67,
+          1.06
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.895,
+        "MediaDeDesvios": 1.365,
+        "NotaMediana": 9.97
+      },
+      "DIM0537 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VII": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.61
+      }
+    },
+    "DesvioDeNotas": 0.3581898937714467,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.7783333333333333,
+    "NotaMediana": 9.82
+  },
+  "SELAN RODRIGUES DOS SANTOS": {
+    "Notas": [
+      9.32,
+      9.5,
+      9.6,
+      9.62,
+      9.64,
+      9.66,
+      9.7,
+      9.74,
+      9.79,
+      9.81,
+      9.82
+    ],
+    "Desvios": [
+      1.71,
+      2,
+      1.96,
+      2.28,
+      2.61,
+      1.76,
+      1.48,
+      1.92,
+      1.83,
+      1.4,
+      1.65
+    ],
+    "Componentes": {
+      "DIM0451 - COMPUTAÇÃO GRÁFICA I": {
+        "Notas": [
+          9.66,
+          9.81
+        ],
+        "Desvios": [
+          1.71,
+          1.4
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.735,
+        "MediaDeDesvios": 1.555,
+        "NotaMediana": 9.81
+      },
+      "DIM0119 - ESTRUTURA DE DADOS BÁSICAS I": {
+        "Notas": [
+          9.5,
+          9.74,
+          9.79
+        ],
+        "Desvios": [
+          2,
+          2.28,
+          1.48
+        ],
+        "DesvioDeNotas": 0.12657891697364995,
+        "MediaDeNotas": 9.676666666666668,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.74
+      },
+      "DIM0120 - LINGUAGEM DE PROGRAMAÇÃO I": {
+        "Notas": [
+          9.32,
+          9.62,
+          9.64,
+          9.7
+        ],
+        "Desvios": [
+          1.96,
+          2.61,
+          1.76,
+          1.92
+        ],
+        "DesvioDeNotas": 0.14730919862656208,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 2.0625,
+        "NotaMediana": 9.64
+      },
+      "DIM0096 - TOPICOS ESPECIAIS EM COMPUTACAO VII": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.82
+      },
+      "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.14125178269920158,
+    "MediaDeNotas": 9.654545454545454,
+    "MediaDeDesvios": 1.8727272727272721,
+    "NotaMediana": 9.66
+  },
+  "SILVIA MARIA DINIZ MONTEIRO MAIA": {
+    "Notas": [
+      9.05,
+      9.21,
+      9.38,
+      9.52,
+      9.56,
+      9.6,
+      9.61,
+      9.63
+    ],
+    "Desvios": [
+      1.81,
+      1.63,
+      1.71,
+      1.73,
+      2.24,
+      2.01,
+      1.9,
+      1.26
+    ],
+    "Componentes": {
+      "DIM0117 - ESTRUTURAS DE DADOS BÁSICAS II": {
+        "Notas": [
+          9.21,
+          9.56,
+          9.63
+        ],
+        "Desvios": [
+          1.81,
+          1.71,
+          1.9
+        ],
+        "DesvioDeNotas": 0.18372685039360884,
+        "MediaDeNotas": 9.466666666666667,
+        "MediaDeDesvios": 1.8066666666666666,
+        "NotaMediana": 9.56
+      },
+      "DIM0549 - GRAFOS": {
+        "Notas": [
+          9.52,
+          9.6
+        ],
+        "Desvios": [
+          1.63,
+          1.73
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.559999999999999,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.6
+      },
+      "DIM0320 - ALGORITMO E PROGRAMACAO DE COMPUTADORES": {
+        "Notas": [
+          9.05,
+          9.38
+        ],
+        "Desvios": [
+          2.24,
+          2.01
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.215,
+        "MediaDeDesvios": 2.125,
+        "NotaMediana": 9.38
+      },
+      "IMD0039 - ESTRUTURAS DE DADOS BÁSICAS II": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.61
+      }
+    },
+    "DesvioDeNotas": 0.19993749023132174,
+    "MediaDeNotas": 9.445,
+    "MediaDeDesvios": 1.7862500000000001,
+    "NotaMediana": 9.56
+  },
+  "THAIS VASCONCELOS BATISTA": {
+    "Notas": [
+      7.8,
+      8.77,
+      8.85,
+      9.07,
+      9.27
+    ],
+    "Desvios": [
+      2.25,
+      2.11,
+      2.47,
+      2.46,
+      1.54
+    ],
+    "Componentes": {
+      "DIM0550 - MÉTODOS EXPERIMENTAIS EM ENGENHARIA DE SOFTWARE": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          2.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2.25,
+        "NotaMediana": 9.07
+      },
+      "DIM0614 - PROGRAMAÇÃO DISTRIBUÍDA": {
+        "Notas": [
+          8.77,
+          8.85
+        ],
+        "Desvios": [
+          2.11,
+          2.46
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 8.809999999999999,
+        "MediaDeDesvios": 2.285,
+        "NotaMediana": 8.85
+      },
+      "DIM0514 - ARQUITETURA DE SOFTWARE": {
+        "Notas": [
+          7.8,
+          9.27
+        ],
+        "Desvios": [
+          2.47,
+          1.54
+        ],
+        "DesvioDeNotas": 0.7349999999999999,
+        "MediaDeNotas": 8.535,
+        "MediaDeDesvios": 2.005,
+        "NotaMediana": 9.27
+      }
+    },
+    "DesvioDeNotas": 0.5070857915579966,
+    "MediaDeNotas": 8.752,
+    "MediaDeDesvios": 2.1659999999999995,
+    "NotaMediana": 8.85
+  },
+  "UIRA KULESZA": {
+    "Notas": [
+      8.37,
+      9.02,
+      9.02,
+      9.16,
+      9.32
+    ],
+    "Desvios": [
+      2.34,
+      1.86,
+      2.01,
+      2.12,
+      1.67
+    ],
+    "Componentes": {
+      "DIM0138 - PROJETO DETALHADO DE SOFTWARE": {
+        "Notas": [
+          8.37
+        ],
+        "Desvios": [
+          2.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.37,
+        "MediaDeDesvios": 2.34,
+        "NotaMediana": 8.37
+      },
+      "DIM0547 - DESENVOLVIMENTO DE SISTEMAS WEB II": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.86,
+        "NotaMediana": 9.32
+      },
+      "DIM0600 - PROJETO DE SOFTWARE": {
+        "Notas": [
+          9.02,
+          9.16
+        ],
+        "Desvios": [
+          2.01,
+          1.67
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.8399999999999999,
+        "NotaMediana": 9.16
+      },
+      "DIM0506 - PROJETO DETALHADO DE SOFTWARE": {
+        "Notas": [
+          9.02
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 9.02
+      }
+    },
+    "DesvioDeNotas": 0.3235057959295324,
+    "MediaDeNotas": 8.978,
+    "MediaDeDesvios": 2,
+    "NotaMediana": 9.02
+  },
+  "UMBERTO RIVIECCIO": {
+    "Notas": [
+      8.74,
+      8.85,
+      8.95,
+      9.27,
+      9.45,
+      9.73
+    ],
+    "Desvios": [
+      2.57,
+      2.42,
+      2.66,
+      2.45,
+      1.33,
+      1.79
+    ],
+    "Componentes": {
+      "DIM0121 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II": {
+        "Notas": [
+          8.74,
+          8.85,
+          8.95
+        ],
+        "Desvios": [
+          2.57,
+          2.66,
+          2.45
+        ],
+        "DesvioDeNotas": 0.08576453553512367,
+        "MediaDeNotas": 8.846666666666666,
+        "MediaDeDesvios": 2.56,
+        "NotaMediana": 8.85
+      },
+      "DIM0601 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO III": {
+        "Notas": [
+          9.27,
+          9.45,
+          9.73
+        ],
+        "Desvios": [
+          2.42,
+          1.33,
+          1.79
+        ],
+        "DesvioDeNotas": 0.1892675942210456,
+        "MediaDeNotas": 9.483333333333333,
+        "MediaDeDesvios": 1.8466666666666667,
+        "NotaMediana": 9.45
+      }
+    },
+    "DesvioDeNotas": 0.3506066171651642,
+    "MediaDeNotas": 9.165000000000001,
+    "MediaDeDesvios": 2.2033333333333336,
+    "NotaMediana": 9.27
+  },
+  "UMBERTO SOUZA DA COSTA": {
+    "Notas": [
+      9.38,
+      9.45,
+      9.51,
+      9.73,
+      9.74,
+      9.8,
+      9.98
+    ],
+    "Desvios": [
+      2.28,
+      1.33,
+      1.87,
+      1.42,
+      1.51,
+      1.65,
+      1.71
+    ],
+    "Componentes": {
+      "DIM0548 - ENGENHARIA DE LINGUAGENS": {
+        "Notas": [
+          9.51,
+          9.8
+        ],
+        "Desvios": [
+          2.28,
+          1.42
+        ],
+        "DesvioDeNotas": 0.14500000000000046,
+        "MediaDeNotas": 9.655000000000001,
+        "MediaDeDesvios": 1.8499999999999999,
+        "NotaMediana": 9.8
+      },
+      "DIM0437 - LINGUAGENS DE PROGRAMACAO: CONCEITOS E PARADIGMAS": {
+        "Notas": [
+          9.74,
+          9.98
+        ],
+        "Desvios": [
+          1.33,
+          1.51
+        ],
+        "DesvioDeNotas": 0.1200000000000001,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.98
+      },
+      "DIM0320 - ALGORITMO E PROGRAMACAO DE COMPUTADORES": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.73
+      },
+      "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I": {
+        "Notas": [
+          9.38,
+          9.45
+        ],
+        "Desvios": [
+          1.65,
+          1.71
+        ],
+        "DesvioDeNotas": 0.034999999999999254,
+        "MediaDeNotas": 9.415,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.45
+      }
+    },
+    "DesvioDeNotas": 0.19934586905728482,
+    "MediaDeNotas": 9.655714285714286,
+    "MediaDeDesvios": 1.6814285714285713,
+    "NotaMediana": 9.73
+  },
+  "AUGUSTO JOSE VENANCIO NETO": {
+    "Notas": [
+      6.73,
+      8.23,
+      9.04
+    ],
+    "Desvios": [
+      2.29,
+      3.26,
+      1.86
+    ],
+    "Componentes": {
+      "DIM0438 - REDES DE COMPUTADORES": {
+        "Notas": [
+          6.73,
+          9.04
+        ],
+        "Desvios": [
+          2.29,
+          3.26
+        ],
+        "DesvioDeNotas": 1.1549999999999994,
+        "MediaDeNotas": 7.885,
+        "MediaDeDesvios": 2.775,
+        "NotaMediana": 9.04
+      },
+      "DIM0321 - LINGUAGENS DE PROGRAMAÇÃO": {
+        "Notas": [
+          8.23
+        ],
+        "Desvios": [
+          1.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.23,
+        "MediaDeDesvios": 1.86,
+        "NotaMediana": 8.23
+      }
+    },
+    "DesvioDeNotas": 0.9569743988216189,
+    "MediaDeNotas": 8,
+    "MediaDeDesvios": 2.47,
+    "NotaMediana": 8.23
+  },
+  "CARLOS PROLO": {
+    "Notas": [
+      9.11,
+      9.18,
+      9.66,
+      9.7,
+      9.78
+    ],
+    "Desvios": [
+      2.13,
+      1.41,
+      1.79,
+      1.94,
+      1.74
+    ],
+    "Componentes": {
+      "DIM0606 - LINGUAGENS FORMAIS E AUTÔMATOS": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          2.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 2.13,
+        "NotaMediana": 9.11
+      },
+      "DIM0410 - TREINAMENTO PARA COMPETICOES DE PROGRAMACAO": {
+        "Notas": [
+          9.7,
+          9.78
+        ],
+        "Desvios": [
+          1.41,
+          1.74
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.739999999999998,
+        "MediaDeDesvios": 1.575,
+        "NotaMediana": 9.78
+      },
+      "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.66
+      },
+      "DIM0549 - GRAFOS": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.18
+      }
+    },
+    "DesvioDeNotas": 0.2819645367772337,
+    "MediaDeNotas": 9.486,
+    "MediaDeDesvios": 1.802,
+    "NotaMediana": 9.66
+  },
+  "NELIO ALESSANDRO AZEVEDO CACHO": {
+    "Notas": [
+      8.38,
+      8.81
+    ],
+    "Desvios": [
+      2.18,
+      2.85
+    ],
+    "Componentes": {
+      "DIM0124 - PROGRAMAÇÃO CONCORRENTE": {
+        "Notas": [
+          8.81
+        ],
+        "Desvios": [
+          2.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.81,
+        "MediaDeDesvios": 2.18,
+        "NotaMediana": 8.81
+      },
+      "DIM0614 - PROGRAMAÇÃO DISTRIBUÍDA": {
+        "Notas": [
+          8.38
+        ],
+        "Desvios": [
+          2.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.38,
+        "MediaDeDesvios": 2.85,
+        "NotaMediana": 8.38
+      }
+    },
+    "DesvioDeNotas": 0.21499999999999986,
+    "MediaDeNotas": 8.595,
+    "MediaDeDesvios": 2.515,
+    "NotaMediana": 8.81
+  },
+  "ANTONIO CARLOS GAY THOME": {
+    "Notas": [
+      9.68
+    ],
+    "Desvios": [
+      1.54
+    ],
+    "Componentes": {
+      "DIM0097 - TOPICOS ESPECIAIS EM COMPUTACAO VIII": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.68,
+    "MediaDeDesvios": 1.54,
+    "NotaMediana": 9.68
+  },
+  "BENJAMIN RENE CALLEJAS BEDREGAL": {
+    "Notas": [
+      9.22,
+      9.37
+    ],
+    "Desvios": [
+      2.11,
+      1.58
+    ],
+    "Componentes": {
+      "DIM0439 - TEORIA DA COMPUTACAO": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 9.22
+      },
+      "DIM0606 - LINGUAGENS FORMAIS E AUTÔMATOS": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.07499999999999929,
+    "MediaDeNotas": 9.295,
+    "MediaDeDesvios": 1.845,
+    "NotaMediana": 9.37
+  },
+  "GIBEON SOARES DE AQUINO JUNIOR": {
+    "Notas": [
+      9.43
+    ],
+    "Desvios": [
+      1.21
+    ],
+    "Componentes": {
+      "DIM0524 - DESENVOLVIMENTO DE SISTEMAS PARA DISPOSITIVOS MÓVEIS": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.43
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.43,
+    "MediaDeDesvios": 1.21,
+    "NotaMediana": 9.43
+  }
+}

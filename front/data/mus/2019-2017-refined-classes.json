@@ -1,0 +1,1911 @@
+{
+  "MUS0407 - MUSICA BRASILEIRA I": {
+    "Notas": [
+      8.65,
+      8.84,
+      8.98,
+      9.07
+    ],
+    "Desvios": [
+      2.59,
+      2.34,
+      2.21,
+      2.56
+    ],
+    "Docentes": [
+      "AGOSTINHO JORGE DE LIMA"
+    ],
+    "DesvioDeNotas": 0.1585086748414736,
+    "MediaDeNotas": 8.885,
+    "MediaDeDesvios": 2.425,
+    "NotaMediana": 8.98
+  },
+  "MUS0409 - MUSICA POPULAR BRASILEIRA I": {
+    "Notas": [
+      9.59,
+      9.63
+    ],
+    "Desvios": [
+      1.61,
+      1.11
+    ],
+    "Docentes": [
+      "AGOSTINHO JORGE DE LIMA"
+    ],
+    "DesvioDeNotas": 0.020000000000000462,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.36,
+    "NotaMediana": 9.63
+  },
+  "MUS0023 - MUSICA DE CAMARA III": {
+    "Notas": [
+      9.34,
+      9.53,
+      9.56,
+      9.68,
+      9.84,
+      9.86
+    ],
+    "Desvios": [
+      1.18,
+      0.79,
+      0.91,
+      1.18,
+      0.66,
+      1.35
+    ],
+    "Docentes": [
+      "ALEXANDRE DOS SANTOS",
+      "ANGELA MARIA BEZERRA DO NASCIMENTO",
+      "FLAVIO GABRIEL PARRO DA SILVA",
+      "FREDERICO ARANTES NABLE",
+      "JOAO RAONE TAVARES DA SILVA",
+      "TARCISIO GOMES FILHO"
+    ],
+    "DesvioDeNotas": 0.18181950757092402,
+    "MediaDeNotas": 9.635,
+    "MediaDeDesvios": 1.0116666666666667,
+    "NotaMediana": 9.68
+  },
+  "MUS1005 - PRATICA DE FLAUTA DOCE I": {
+    "Notas": [
+      9.41,
+      9.5,
+      9.73,
+      9.74
+    ],
+    "Desvios": [
+      0.94,
+      1.38,
+      1.13,
+      1.61
+    ],
+    "Docentes": [
+      "ALEXANDRE JOHNSON DOS ANJOS"
+    ],
+    "DesvioDeNotas": 0.14361406616345082,
+    "MediaDeNotas": 9.594999999999999,
+    "MediaDeDesvios": 1.265,
+    "NotaMediana": 9.73
+  },
+  "MUS0341 - OFICINA DE COMPOSICAO I": {
+    "Notas": [
+      9.29,
+      9.41
+    ],
+    "Desvios": [
+      1.19,
+      1.81
+    ],
+    "Docentes": [
+      "ALEXANDRE RECHE E SILVA"
+    ],
+    "DesvioDeNotas": 0.0600000000000005,
+    "MediaDeNotas": 9.35,
+    "MediaDeDesvios": 1.5,
+    "NotaMediana": 9.41
+  },
+  "MUS4003 - PRÁTICA DE INSTRUMENTO HARMÔNICO VII (VIOLÃO III)": {
+    "Notas": [
+      9.03,
+      9.31,
+      9.74,
+      9.8
+    ],
+    "Desvios": [
+      1.38,
+      1.87,
+      0.99,
+      0.97
+    ],
+    "Docentes": [
+      "ALVARO ALBERTO DE PAIVA BARROS"
+    ],
+    "DesvioDeNotas": 0.3166228039797517,
+    "MediaDeNotas": 9.47,
+    "MediaDeDesvios": 1.3025,
+    "NotaMediana": 9.74
+  },
+  "MUS5029 - PRODUÇÃO MUSICAL": {
+    "Notas": [
+      8.56,
+      8.66,
+      8.9,
+      9.13,
+      9.4
+    ],
+    "Desvios": [
+      2.49,
+      2.19,
+      1.81,
+      1.63,
+      2.11
+    ],
+    "Docentes": [
+      "AMANDY BANDEIRA DE ARAUJO",
+      "FERNANDO DIEGO RODRIGUES DOS SANTOS",
+      "MARIO ANDRE WANDERLEY OLIVEIRA",
+      "POLLYANNA GUIMARAES DA SILVA",
+      "RADEGUNDIS ARANHA TAVARES FEITOSA"
+    ],
+    "DesvioDeNotas": 0.3071156134096735,
+    "MediaDeNotas": 8.93,
+    "MediaDeDesvios": 2.0460000000000003,
+    "NotaMediana": 8.9
+  },
+  "MUS0201 - PRATICA DE CONJUNTO I": {
+    "Notas": [
+      9.5,
+      9.83
+    ],
+    "Desvios": [
+      1.75,
+      0.78
+    ],
+    "Docentes": [
+      "AMÉLIA MARTINS DIAS SANTA ROSA",
+      "ANGELA MARIA BEZERRA DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.16500000000000004,
+    "MediaDeNotas": 9.665,
+    "MediaDeDesvios": 1.2650000000000001,
+    "NotaMediana": 9.83
+  },
+  "MUS5043 - PRÁTICA DE CONJUNTO XI": {
+    "Notas": [
+      9.32,
+      9.4
+    ],
+    "Desvios": [
+      1.18,
+      1.16
+    ],
+    "Docentes": [
+      "ANDRE LUIZ MUNIZ OLIVEIRA",
+      "ERICKINSON BEZERRA DE LIMA"
+    ],
+    "DesvioDeNotas": 0.040000000000000036,
+    "MediaDeNotas": 9.36,
+    "MediaDeDesvios": 1.17,
+    "NotaMediana": 9.4
+  },
+  "MUS1205 - CANTO CORAL I": {
+    "Notas": [
+      8.62,
+      9.65,
+      9.86
+    ],
+    "Desvios": [
+      1.64,
+      2.17,
+      1.06
+    ],
+    "Docentes": [
+      "ANGELA MARIA BEZERRA DO NASCIMENTO",
+      "AMÉLIA MARTINS DIAS SANTA ROSA"
+    ],
+    "DesvioDeNotas": 0.5418691929074972,
+    "MediaDeNotas": 9.376666666666667,
+    "MediaDeDesvios": 1.623333333333333,
+    "NotaMediana": 9.65
+  },
+  "MUS5075 - PEDAGOGIA DO INSTRUMENTO I": {
+    "Notas": [
+      9.44
+    ],
+    "Desvios": [
+      1.5
+    ],
+    "Docentes": [
+      "CAMILA TORRES MEIRELLES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.44,
+    "MediaDeDesvios": 1.5,
+    "NotaMediana": 9.44
+  },
+  "MUS5009 - PREPARAÇÃO PARA O PALCO E PERFORMANCE": {
+    "Notas": [
+      8.97,
+      9.56
+    ],
+    "Desvios": [
+      1.59,
+      1.34
+    ],
+    "Docentes": [
+      "CAMILA TORRES MEIRELLES"
+    ],
+    "DesvioDeNotas": 0.29499999999999993,
+    "MediaDeNotas": 9.265,
+    "MediaDeDesvios": 1.465,
+    "NotaMediana": 9.56
+  },
+  "MUS6010 - ATIVIDADES ORIENTADAS I - METODOLOGIA DO ENSINO DA MÚSICA NA EDUCAÇÃO INFANTIL E FUNDAMENTIL E FUNDAMENTAL": {
+    "Notas": [
+      9.22,
+      9.36,
+      9.48,
+      9.77
+    ],
+    "Desvios": [
+      1.23,
+      1.32,
+      1.67,
+      1.54
+    ],
+    "Docentes": [
+      "CAROLINA CHAVES GOMES",
+      "GLEISON COSTA DOS SANTOS",
+      "WASHINGTON NOGUEIRA DE ABREU"
+    ],
+    "DesvioDeNotas": 0.2025308618457935,
+    "MediaDeNotas": 9.4575,
+    "MediaDeDesvios": 1.44,
+    "NotaMediana": 9.48
+  },
+  "MUS5015 - ESTÁGIO SUPERVISIONADO I": {
+    "Notas": [
+      10,
+      9.41,
+      9.48,
+      9.48,
+      9.63,
+      9.63
+    ],
+    "Desvios": [
+      1.51,
+      0.97,
+      1.07,
+      0.85,
+      1.33,
+      0.97
+    ],
+    "Docentes": [
+      "CAROLINA CHAVES GOMES",
+      "TAMAR GENZ GAULKE"
+    ],
+    "DesvioDeNotas": 0.1943150363027352,
+    "MediaDeNotas": 9.605000000000002,
+    "MediaDeDesvios": 1.1166666666666665,
+    "NotaMediana": 9.48
+  },
+  "MUS5051 - SEMINÁRIO EM EDUCAÇÃO MUSICAL INFANTIL": {
+    "Notas": [
+      9.8
+    ],
+    "Desvios": [
+      1.4
+    ],
+    "Docentes": [
+      "CAROLINA CHAVES GOMES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 1.4,
+    "NotaMediana": 9.8
+  },
+  "MUS5005 - MUSICA E EDUCACAO ESPECIAL": {
+    "Notas": [
+      9.14,
+      9.72,
+      9.81
+    ],
+    "Desvios": [
+      1.43,
+      1.32,
+      1.18
+    ],
+    "Docentes": [
+      "CATARINA SHIN LIMA DE SOUZA",
+      "VILSON ZATTERA",
+      "MAURICIO ESLABÃO DA FONSECA"
+    ],
+    "DesvioDeNotas": 0.2969100125552447,
+    "MediaDeNotas": 9.556666666666667,
+    "MediaDeDesvios": 1.3099999999999998,
+    "NotaMediana": 9.72
+  },
+  "MUS2001 - LINGUAGEM E ESTRUTURACAO MUSICAL I": {
+    "Notas": [
+      9.72,
+      9.72
+    ],
+    "Desvios": [
+      1.29,
+      1.3
+    ],
+    "Docentes": [
+      "DANILO CESAR GUANAIS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.72,
+    "MediaDeDesvios": 1.295,
+    "NotaMediana": 9.72
+  },
+  "MUS2003 - LINGUAGEM E ESTRUTURACAO MUSICAL III": {
+    "Notas": [
+      9.5,
+      9.55
+    ],
+    "Desvios": [
+      1.53,
+      1.43
+    ],
+    "Docentes": [
+      "DANILO CESAR GUANAIS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.025000000000000355,
+    "MediaDeNotas": 9.525,
+    "MediaDeDesvios": 1.48,
+    "NotaMediana": 9.55
+  },
+  "MUS0109 - LABORATORIO DE PERFORMANCE XI": {
+    "Notas": [
+      9.47,
+      9.51,
+      9.65,
+      9.68,
+      9.88,
+      9.97
+    ],
+    "Desvios": [
+      1.75,
+      1.34,
+      1.06,
+      1.31,
+      1.18,
+      0.83
+    ],
+    "Docentes": [
+      "DURVAL DA NOBREGA CESETTI",
+      "EZEQUIAS OLIVEIRA LIRA",
+      "LEONARDO VILACA SALDANHA",
+      "MARCUS ANDRE VARELA VASCONCELOS",
+      "NAN QI",
+      "TARCISIO GOMES FILHO"
+    ],
+    "DesvioDeNotas": 0.18116904322268274,
+    "MediaDeNotas": 9.693333333333333,
+    "MediaDeDesvios": 1.245,
+    "NotaMediana": 9.68
+  },
+  "MUS0066 - LABORATÓRIO DE PERFORMANCE III": {
+    "Notas": [
+      9.55,
+      9.75
+    ],
+    "Desvios": [
+      1.05,
+      1.5
+    ],
+    "Docentes": [
+      "DURVAL DA NOBREGA CESETTI",
+      "NAN QI"
+    ],
+    "DesvioDeNotas": 0.09999999999999964,
+    "MediaDeNotas": 9.65,
+    "MediaDeDesvios": 1.275,
+    "NotaMediana": 9.75
+  },
+  "MUS0068 - LABORATÓRIO DE PERFORMANCE V": {
+    "Notas": [
+      9.54
+    ],
+    "Desvios": [
+      1.23
+    ],
+    "Docentes": [
+      "DURVAL DA NOBREGA CESETTI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.54
+  },
+  "MUS5013 - ATIVIDADES ORIENTADAS III - METODOLOGIA DO ENSINO DA MÚSICA PARA ADOLESCENTES E ADULTOS": {
+    "Notas": [
+      8.95,
+      9.39
+    ],
+    "Desvios": [
+      1.63,
+      1.68
+    ],
+    "Docentes": [
+      "EDIBERGON VARELA BEZERRA",
+      "WASHINGTON NOGUEIRA DE ABREU"
+    ],
+    "DesvioDeNotas": 0.22000000000000064,
+    "MediaDeNotas": 9.17,
+    "MediaDeDesvios": 1.6549999999999998,
+    "NotaMediana": 9.39
+  },
+  "MUS5017 - ESTÁGIO SUPERVISIONADO III": {
+    "Notas": [
+      10,
+      9.03,
+      9.34,
+      9.43,
+      9.46,
+      9.71
+    ],
+    "Desvios": [
+      0.74,
+      0.74,
+      1.64,
+      1.26,
+      2.33,
+      1.42
+    ],
+    "Docentes": [
+      "EDIBERGON VARELA BEZERRA",
+      "TAMAR GENZ GAULKE"
+    ],
+    "DesvioDeNotas": 0.30192438346932743,
+    "MediaDeNotas": 9.495000000000001,
+    "MediaDeDesvios": 1.3549999999999998,
+    "NotaMediana": 9.43
+  },
+  "MUS2331 - MUSICA E COMPUTACAO I": {
+    "Notas": [
+      8.68,
+      9.51
+    ],
+    "Desvios": [
+      1.27,
+      1.96
+    ],
+    "Docentes": [
+      "EDIBERGON VARELA BEZERRA"
+    ],
+    "DesvioDeNotas": 0.41500000000000004,
+    "MediaDeNotas": 9.094999999999999,
+    "MediaDeDesvios": 1.615,
+    "NotaMediana": 9.51
+  },
+  "MUS3020 - RECURSOS TECNOLOGICOS NA EDUCACAO MUSICAL": {
+    "Notas": [
+      9.05,
+      9.5
+    ],
+    "Desvios": [
+      1.53,
+      1.57
+    ],
+    "Docentes": [
+      "EDIBERGON VARELA BEZERRA"
+    ],
+    "DesvioDeNotas": 0.22499999999999964,
+    "MediaDeNotas": 9.275,
+    "MediaDeDesvios": 1.55,
+    "NotaMediana": 9.5
+  },
+  "MUS0300 - FUNDAMENTOS DA PRÁTICA DO TROMPETE": {
+    "Notas": [
+      9.49
+    ],
+    "Desvios": [
+      0.93
+    ],
+    "Docentes": [
+      "FLAVIO GABRIEL PARRO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 0.93,
+    "NotaMediana": 9.49
+  },
+  "MUS5016 - ESTÁGIO SUPERVISIONADO II": {
+    "Notas": [
+      10,
+      9.3,
+      9.8,
+      9.87,
+      9.93
+    ],
+    "Desvios": [
+      1.47,
+      0.79,
+      0.63,
+      0.7,
+      1.01
+    ],
+    "Docentes": [
+      "GLEISON COSTA DOS SANTOS",
+      "CAROLINA CHAVES GOMES",
+      "TAMAR GENZ GAULKE"
+    ],
+    "DesvioDeNotas": 0.24891765706755284,
+    "MediaDeNotas": 9.780000000000001,
+    "MediaDeDesvios": 0.9199999999999999,
+    "NotaMediana": 9.8
+  },
+  "ART0053 - FUNDAMENTOS DA ARTE NA EDUCACAO": {
+    "Notas": [
+      9.25,
+      9.64
+    ],
+    "Desvios": [
+      1.41,
+      1.91
+    ],
+    "Docentes": [
+      "GLEISON COSTA DOS SANTOS",
+      "WASHINGTON NOGUEIRA DE ABREU"
+    ],
+    "DesvioDeNotas": 0.19500000000000028,
+    "MediaDeNotas": 9.445,
+    "MediaDeDesvios": 1.66,
+    "NotaMediana": 9.64
+  },
+  "MUS0081 - INTRODUÇÃO À MÚSICA E TECNOLOGIA I": {
+    "Notas": [
+      9.39,
+      9.76
+    ],
+    "Desvios": [
+      1.33,
+      1.33
+    ],
+    "Docentes": [
+      "HEATHER DEA JENNINGS"
+    ],
+    "DesvioDeNotas": 0.1849999999999996,
+    "MediaDeNotas": 9.575,
+    "MediaDeDesvios": 1.33,
+    "NotaMediana": 9.76
+  },
+  "MUS0025 - MUSICA E COMPUTAÇÃO I": {
+    "Notas": [
+      9.64,
+      9.8
+    ],
+    "Desvios": [
+      1.17,
+      0.87
+    ],
+    "Docentes": [
+      "HEATHER DEA JENNINGS"
+    ],
+    "DesvioDeNotas": 0.08000000000000007,
+    "MediaDeNotas": 9.72,
+    "MediaDeDesvios": 1.02,
+    "NotaMediana": 9.8
+  },
+  "MUS1001 - PRATICA DE INSTRUMENTO HARMONICO I": {
+    "Notas": [
+      9.44,
+      9.73,
+      9.8,
+      9.8,
+      9.8,
+      9.92,
+      9.96
+    ],
+    "Desvios": [
+      1.35,
+      1.37,
+      1.55,
+      1.32,
+      0.9,
+      1.97,
+      0.58
+    ],
+    "Docentes": [
+      "JOANA CUNHA DE HOLANDA",
+      "NAN QI",
+      "RAQUEL CARMONA TORRES FELIX"
+    ],
+    "DesvioDeNotas": 0.156426940630769,
+    "MediaDeNotas": 9.778571428571428,
+    "MediaDeDesvios": 1.2914285714285716,
+    "NotaMediana": 9.8
+  },
+  "MUS1003 - PRATICA DE INSTRUMENTO HARMONICO III": {
+    "Notas": [
+      9.3,
+      9.32,
+      9.73
+    ],
+    "Desvios": [
+      0.89,
+      1.43,
+      1.28
+    ],
+    "Docentes": [
+      "JOANA CUNHA DE HOLANDA",
+      "NAN QI",
+      "ANDERSONN HENRIQUE SIMOES DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.19815818596935794,
+    "MediaDeNotas": 9.450000000000001,
+    "MediaDeDesvios": 1.2,
+    "NotaMediana": 9.32
+  },
+  "MUS0206 - IMPROVISACAO I": {
+    "Notas": [
+      9.18
+    ],
+    "Desvios": [
+      1.46
+    ],
+    "Docentes": [
+      "JOSE SIMIAO SEVERO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.18,
+    "MediaDeDesvios": 1.46,
+    "NotaMediana": 9.18
+  },
+  "MUS4001 - PRÁTICA DE INSTRUMENTO HARMÔNICO V (VIOLÃO I)": {
+    "Notas": [
+      9.46,
+      9.47,
+      9.49,
+      9.55,
+      9.75,
+      9.81
+    ],
+    "Desvios": [
+      0.93,
+      0.92,
+      1.01,
+      1.24,
+      1.71,
+      1.02
+    ],
+    "Docentes": [
+      "JOSE SIMIAO SEVERO",
+      "ALVARO ALBERTO DE PAIVA BARROS",
+      "EUGENIO LIMA DE SOUZA",
+      "TICIANO MACIEL DAMORE"
+    ],
+    "DesvioDeNotas": 0.13957276079362876,
+    "MediaDeNotas": 9.588333333333335,
+    "MediaDeDesvios": 1.1383333333333334,
+    "NotaMediana": 9.55
+  },
+  "MUS0083 - LINGUAGEM MUSICAL I": {
+    "Notas": [
+      9.84,
+      9.89
+    ],
+    "Desvios": [
+      1.03,
+      1.24
+    ],
+    "Docentes": [
+      "JULIO CESAR DE MELO COLABARDINI",
+      "DANILO CESAR GUANAIS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.025000000000000355,
+    "MediaDeNotas": 9.865,
+    "MediaDeDesvios": 1.135,
+    "NotaMediana": 9.89
+  },
+  "MUS0091 - PERCEPÇÃO MUSICAL I": {
+    "Notas": [
+      9.7,
+      9.84
+    ],
+    "Desvios": [
+      1.03,
+      1.79
+    ],
+    "Docentes": [
+      "JULIO CESAR DE MELO COLABARDINI",
+      "ANGELA MARIA BEZERRA DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.07000000000000028,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.4100000000000001,
+    "NotaMediana": 9.84
+  },
+  "MUS0088 - ANÁLISE MUSICAL II": {
+    "Notas": [
+      9.89
+    ],
+    "Desvios": [
+      1.11
+    ],
+    "Docentes": [
+      "MARCUS ANDRE VARELA VASCONCELOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.89,
+    "MediaDeDesvios": 1.11,
+    "NotaMediana": 9.89
+  },
+  "MUS0093 - PERCEPÇÃO MUSICAL III": {
+    "Notas": [
+      9.61
+    ],
+    "Desvios": [
+      1.18
+    ],
+    "Docentes": [
+      "MARCUS VINICIUS DE FREITAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.18,
+    "NotaMediana": 9.61
+  },
+  "MUS3007 - ORGANIZAÇÃO DE BANDINHA RÍTMICA": {
+    "Notas": [
+      9.67,
+      9.73,
+      9.75,
+      9.77
+    ],
+    "Desvios": [
+      1.66,
+      1.04,
+      0.96,
+      1.25
+    ],
+    "Docentes": [
+      "MARIA HELENA GUERRA MARANHAO BARRETO DE MEDEI"
+    ],
+    "DesvioDeNotas": 0.037416573867739326,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.2275,
+    "NotaMediana": 9.75
+  },
+  "MUS0080 - CONSCIÊNCIA CORPORAL E MÚSICA": {
+    "Notas": [
+      9.52,
+      9.77,
+      9.78
+    ],
+    "Desvios": [
+      1.6,
+      1.22,
+      1.25
+    ],
+    "Docentes": [
+      "MARIA NAZARE ROCHA DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.12027745701779138,
+    "MediaDeNotas": 9.69,
+    "MediaDeDesvios": 1.3566666666666667,
+    "NotaMediana": 9.77
+  },
+  "MUS0064 - LABORATÓRIO DE PERFORMANCE I": {
+    "Notas": [
+      9.4
+    ],
+    "Desvios": [
+      1.6
+    ],
+    "Docentes": [
+      "NAN QI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.4,
+    "MediaDeDesvios": 1.6,
+    "NotaMediana": 9.4
+  },
+  "MUS0070 - LABORATÓRIO DE PERFORMANCE VII": {
+    "Notas": [
+      8.24
+    ],
+    "Desvios": [
+      2.98
+    ],
+    "Docentes": [
+      "NAN QI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.24,
+    "MediaDeDesvios": 2.98,
+    "NotaMediana": 8.24
+  },
+  "MUS0431 - HISTORIA E LITERATURA DO INSTRUMENTO I": {
+    "Notas": [
+      9.1,
+      9.56,
+      9.82
+    ],
+    "Desvios": [
+      1.51,
+      1.07,
+      0.74
+    ],
+    "Docentes": [
+      "RUCKER BEZERRA DE QUEIROZ",
+      "TARCISIO GOMES FILHO",
+      "GERMANNA FRANCA DA CUNHA"
+    ],
+    "DesvioDeNotas": 0.2976948474902151,
+    "MediaDeNotas": 9.493333333333334,
+    "MediaDeDesvios": 1.1066666666666667,
+    "NotaMediana": 9.56
+  },
+  "MUS5018 - ESTÁGIO SUPERVISIONADO IV": {
+    "Notas": [
+      10,
+      9.24,
+      9.57,
+      9.74,
+      9.74,
+      9.9,
+      9.9
+    ],
+    "Desvios": [
+      1.07,
+      0.66,
+      0.51,
+      1.19,
+      0.93,
+      1.57,
+      1.23
+    ],
+    "Docentes": [
+      "TAMAR GENZ GAULKE",
+      "ANDERSONN HENRIQUE SIMOES DE ARAUJO",
+      "WASHINGTON NOGUEIRA DE ABREU"
+    ],
+    "DesvioDeNotas": 0.23801046109748356,
+    "MediaDeNotas": 9.727142857142857,
+    "MediaDeDesvios": 1.022857142857143,
+    "NotaMediana": 9.74
+  },
+  "MUS0500 - METODOLOGIA DA PESQUISA EM MUSICA": {
+    "Notas": [
+      9.48,
+      9.56,
+      9.64
+    ],
+    "Desvios": [
+      1.4,
+      1.5,
+      1.25
+    ],
+    "Docentes": [
+      "TAMAR GENZ GAULKE",
+      "TIAGO DE QUADROS MAIA CARVALHO"
+    ],
+    "DesvioDeNotas": 0.06531972647421815,
+    "MediaDeNotas": 9.56,
+    "MediaDeDesvios": 1.3833333333333335,
+    "NotaMediana": 9.56
+  },
+  "MUS0432 - HISTORIA E LITERATURA DO INSTRUMENTO II": {
+    "Notas": [
+      9.57,
+      9.73,
+      9.99,
+      9.99
+    ],
+    "Desvios": [
+      0.4,
+      0.87,
+      0.43,
+      0.76
+    ],
+    "Docentes": [
+      "TARCISIO GOMES FILHO",
+      "RADEGUNDIS ARANHA TAVARES FEITOSA",
+      "RONEDILK CAVALCANTE DANTAS",
+      "AMANDY BANDEIRA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.17916472867168912,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 0.615,
+    "NotaMediana": 9.99
+  },
+  "MUS5090 - HISTÓRIA DA MÚSICA I": {
+    "Notas": [
+      8.97,
+      9
+    ],
+    "Desvios": [
+      2.03,
+      2.33
+    ],
+    "Docentes": [
+      "TIAGO DE QUADROS MAIA CARVALHO",
+      "AGOSTINHO JORGE DE LIMA"
+    ],
+    "DesvioDeNotas": 0.01499999999999968,
+    "MediaDeNotas": 8.985,
+    "MediaDeDesvios": 2.1799999999999997,
+    "NotaMediana": 9
+  },
+  "MUS3501 - INTRODUÇÃO À METODOLOGIA CIENTÍFICA": {
+    "Notas": [
+      9.09,
+      9.22,
+      9.51,
+      9.74
+    ],
+    "Desvios": [
+      2.03,
+      1.92,
+      0.97,
+      1.19
+    ],
+    "Docentes": [
+      "TIAGO DE QUADROS MAIA CARVALHO",
+      "WASHINGTON NOGUEIRA DE ABREU",
+      "ANDERSONN HENRIQUE SIMOES DE ARAUJO",
+      "ELIANE LEAO"
+    ],
+    "DesvioDeNotas": 0.2528833723280358,
+    "MediaDeNotas": 9.39,
+    "MediaDeDesvios": 1.5274999999999999,
+    "NotaMediana": 9.51
+  },
+  "MUS0413 - SEMINARIO EM MUSICOLOGIA I": {
+    "Notas": [
+      9.77
+    ],
+    "Desvios": [
+      1.26
+    ],
+    "Docentes": [
+      "TIAGO DE QUADROS MAIA CARVALHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.26,
+    "NotaMediana": 9.77
+  },
+  "MUS0027 - MUSICOGRAFIA BRAILLE I": {
+    "Notas": [
+      9.23,
+      9.46,
+      9.71
+    ],
+    "Desvios": [
+      1.09,
+      1.46,
+      1.92
+    ],
+    "Docentes": [
+      "VILSON ZATTERA",
+      "MAURICIO ESLABÃO DA FONSECA"
+    ],
+    "DesvioDeNotas": 0.19601587237318893,
+    "MediaDeNotas": 9.466666666666667,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.46
+  },
+  "MUS2301 - HARMONIA": {
+    "Notas": [
+      9.18,
+      9.21
+    ],
+    "Desvios": [
+      1.82,
+      1.83
+    ],
+    "Docentes": [
+      "WANDER VIEIRA RODRIGUES",
+      "HEATHER DEA JENNINGS"
+    ],
+    "DesvioDeNotas": 0.015000000000000568,
+    "MediaDeNotas": 9.195,
+    "MediaDeDesvios": 1.8250000000000002,
+    "NotaMediana": 9.21
+  },
+  "MUS0233 - HARMONIA I": {
+    "Notas": [
+      9.61,
+      9.9
+    ],
+    "Desvios": [
+      1.27,
+      1.28
+    ],
+    "Docentes": [
+      "WANDER VIEIRA RODRIGUES",
+      "MARCUS ANDRE VARELA VASCONCELOS"
+    ],
+    "DesvioDeNotas": 0.14500000000000046,
+    "MediaDeNotas": 9.754999999999999,
+    "MediaDeDesvios": 1.275,
+    "NotaMediana": 9.9
+  },
+  "MUS0235 - HARMONIA III": {
+    "Notas": [
+      9.22
+    ],
+    "Desvios": [
+      1.79
+    ],
+    "Docentes": [
+      "WANDER VIEIRA RODRIGUES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.22,
+    "MediaDeDesvios": 1.79,
+    "NotaMediana": 9.22
+  },
+  "MUS2401 - HISTÓRIA DA MÚSICA": {
+    "Notas": [
+      9.04,
+      9.27
+    ],
+    "Desvios": [
+      2,
+      1.72
+    ],
+    "Docentes": [
+      "AGOSTINHO JORGE DE LIMA"
+    ],
+    "DesvioDeNotas": 0.11500000000000021,
+    "MediaDeNotas": 9.155,
+    "MediaDeDesvios": 1.8599999999999999,
+    "NotaMediana": 9.27
+  },
+  "MUS3031 - INTRODUCAO A ETNOMUSICOLOGIA": {
+    "Notas": [
+      9.79
+    ],
+    "Desvios": [
+      1.31
+    ],
+    "Docentes": [
+      "AGOSTINHO JORGE DE LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.79,
+    "MediaDeDesvios": 1.31,
+    "NotaMediana": 9.79
+  },
+  "MUS1006 - PRATICA DE FLAUTA DOCE II": {
+    "Notas": [
+      8.86,
+      9.69,
+      9.86,
+      9.91
+    ],
+    "Desvios": [
+      0.97,
+      1.09,
+      1.55,
+      1.29
+    ],
+    "Docentes": [
+      "ALEXANDRE JOHNSON DOS ANJOS",
+      "JOSE ESTEVAM DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.42361539159950284,
+    "MediaDeNotas": 9.58,
+    "MediaDeDesvios": 1.225,
+    "NotaMediana": 9.86
+  },
+  "MUS5012 - ATIVIDADES ORIENTADAS II - METODOLOGIA DO ENSINO DA VOZ E MÚSICA CORAL": {
+    "Notas": [
+      8.84,
+      9.38
+    ],
+    "Desvios": [
+      2.25,
+      1.32
+    ],
+    "Docentes": [
+      "AMÉLIA MARTINS DIAS SANTA ROSA"
+    ],
+    "DesvioDeNotas": 0.27000000000000046,
+    "MediaDeNotas": 9.11,
+    "MediaDeDesvios": 1.7850000000000001,
+    "NotaMediana": 9.38
+  },
+  "MUS5042 - PRÁTICA DE CONJUNTO X": {
+    "Notas": [
+      9.59,
+      9.59,
+      9.61,
+      9.7
+    ],
+    "Desvios": [
+      1.14,
+      1.06,
+      0.83,
+      0.83
+    ],
+    "Docentes": [
+      "ANDRE LUIZ MUNIZ OLIVEIRA",
+      "ERICKINSON BEZERRA DE LIMA",
+      "EZEQUIAS OLIVEIRA LIRA",
+      "GILVANDO PEREIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.04548351349665042,
+    "MediaDeNotas": 9.622499999999999,
+    "MediaDeDesvios": 0.9650000000000001,
+    "NotaMediana": 9.61
+  },
+  "MUS1206 - CANTO CORAL II": {
+    "Notas": [
+      9.57,
+      9.81
+    ],
+    "Desvios": [
+      1.08,
+      0.86
+    ],
+    "Docentes": [
+      "ANGELA MARIA BEZERRA DO NASCIMENTO",
+      "AMÉLIA MARTINS DIAS SANTA ROSA"
+    ],
+    "DesvioDeNotas": 0.1200000000000001,
+    "MediaDeNotas": 9.690000000000001,
+    "MediaDeDesvios": 0.97,
+    "NotaMediana": 9.81
+  },
+  "MUS0202 - PRATICA DE CONJUNTO II": {
+    "Notas": [
+      9.55,
+      9.91
+    ],
+    "Desvios": [
+      0.8,
+      1.22
+    ],
+    "Docentes": [
+      "ANGELA MARIA BEZERRA DO NASCIMENTO",
+      "JOSE ESTEVAM DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.17999999999999972,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.01,
+    "NotaMediana": 9.91
+  },
+  "MUS2004 - LINGUAGEM E ESTRUTURACAO MUSICAL IV": {
+    "Notas": [
+      9.48,
+      9.77
+    ],
+    "Desvios": [
+      1.54,
+      1
+    ],
+    "Docentes": [
+      "DANILO CESAR GUANAIS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.14499999999999957,
+    "MediaDeNotas": 9.625,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.77
+  },
+  "MUS2002 - LINGUAGEM E ESTRUTURAÇÃO MUSICAL II": {
+    "Notas": [
+      9.54,
+      9.73
+    ],
+    "Desvios": [
+      1.29,
+      1.28
+    ],
+    "Docentes": [
+      "DANILO CESAR GUANAIS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.09500000000000064,
+    "MediaDeNotas": 9.635,
+    "MediaDeDesvios": 1.2850000000000001,
+    "NotaMediana": 9.73
+  },
+  "MUS0084 - LINGUAGEM MUSICAL II": {
+    "Notas": [
+      9.87
+    ],
+    "Desvios": [
+      1.06
+    ],
+    "Docentes": [
+      "DANILO CESAR GUANAIS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.87,
+    "MediaDeDesvios": 1.06,
+    "NotaMediana": 9.87
+  },
+  "MUS0100 - LABORATÓRIO DE PERFORMANCE X": {
+    "Notas": [
+      10,
+      9.54,
+      9.55,
+      9.62,
+      9.64,
+      9.66,
+      9.68,
+      9.71,
+      9.78,
+      9.79,
+      9.82,
+      9.91,
+      9.99,
+      9.99
+    ],
+    "Desvios": [
+      0.83,
+      1.29,
+      0.99,
+      0.81,
+      0.74,
+      1,
+      0.22,
+      0.43,
+      0.78,
+      1.14,
+      1.09,
+      0.91,
+      0.95,
+      1.59
+    ],
+    "Docentes": [
+      "DURVAL DA NOBREGA CESETTI",
+      "JOAO RAONE TAVARES DA SILVA",
+      "LEONARDO VILACA SALDANHA",
+      "MARCUS ANDRE VARELA VASCONCELOS",
+      "NAN QI",
+      "TARCISIO GOMES FILHO"
+    ],
+    "DesvioDeNotas": 0.1549390927073591,
+    "MediaDeNotas": 9.762857142857143,
+    "MediaDeDesvios": 0.9121428571428571,
+    "NotaMediana": 9.71
+  },
+  "MUS3011 - APRECIAÇÃO MUSICAL": {
+    "Notas": [
+      9.18,
+      9.25,
+      9.47
+    ],
+    "Desvios": [
+      1.27,
+      1.34,
+      1.58
+    ],
+    "Docentes": [
+      "EDIBERGON VARELA BEZERRA",
+      "MARCUS VINICIUS DE FREITAS",
+      "WASHINGTON NOGUEIRA DE ABREU"
+    ],
+    "DesvioDeNotas": 0.12355835328567132,
+    "MediaDeNotas": 9.299999999999999,
+    "MediaDeDesvios": 1.3966666666666667,
+    "NotaMediana": 9.25
+  },
+  "MUS5014 - ATIVIDADES ORIENTADAS IV - METODOLOGIA DO ENSINO DA MÚSICA EM CONTEXTOS NÃO ESCOLARES": {
+    "Notas": [
+      9.35,
+      9.41
+    ],
+    "Desvios": [
+      1.44,
+      1.15
+    ],
+    "Docentes": [
+      "EDIBERGON VARELA BEZERRA",
+      "WASHINGTON NOGUEIRA DE ABREU"
+    ],
+    "DesvioDeNotas": 0.03000000000000025,
+    "MediaDeNotas": 9.379999999999999,
+    "MediaDeDesvios": 1.295,
+    "NotaMediana": 9.41
+  },
+  "MUS1207 - REGENCIA I": {
+    "Notas": [
+      9.36,
+      9.47,
+      9.62
+    ],
+    "Desvios": [
+      1.46,
+      1.26,
+      1.16
+    ],
+    "Docentes": [
+      "ERICKINSON BEZERRA DE LIMA",
+      "TAMAR GENZ GAULKE"
+    ],
+    "DesvioDeNotas": 0.1065624490876384,
+    "MediaDeNotas": 9.483333333333333,
+    "MediaDeDesvios": 1.2933333333333332,
+    "NotaMediana": 9.47
+  },
+  "MUS4002 - PRATICA DE INSTRUMENTO HARMONICO VI (VIOLÃO II)": {
+    "Notas": [
+      9.74,
+      9.76,
+      9.77,
+      9.8
+    ],
+    "Desvios": [
+      1.24,
+      1.06,
+      0.64,
+      1.06
+    ],
+    "Docentes": [
+      "EUGENIO LIMA DE SOUZA",
+      "JOSE SIMIAO SEVERO",
+      "ALVARO ALBERTO DE PAIVA BARROS"
+    ],
+    "DesvioDeNotas": 0.02165063509461117,
+    "MediaDeNotas": 9.7675,
+    "MediaDeDesvios": 1,
+    "NotaMediana": 9.77
+  },
+  "MUS0022 - MUSICA DE CAMARA II": {
+    "Notas": [
+      9.31,
+      9.5,
+      9.71,
+      9.75
+    ],
+    "Desvios": [
+      1.54,
+      0.96,
+      1.48,
+      1.17
+    ],
+    "Docentes": [
+      "FLAVIO GABRIEL PARRO DA SILVA",
+      "JOAO RAONE TAVARES DA SILVA",
+      "MARIA NAZARE ROCHA DE ALMEIDA",
+      "PAULO EDUARDO DA SILVA FRANCA"
+    ],
+    "DesvioDeNotas": 0.17640507362318125,
+    "MediaDeNotas": 9.5675,
+    "MediaDeDesvios": 1.2875,
+    "NotaMediana": 9.71
+  },
+  "MUS0009 - CONTRAPONTO I": {
+    "Notas": [
+      9.34
+    ],
+    "Desvios": [
+      1.36
+    ],
+    "Docentes": [
+      "HEATHER DEA JENNINGS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.34,
+    "MediaDeDesvios": 1.36,
+    "NotaMediana": 9.34
+  },
+  "DIM0532 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE II": {
+    "Notas": [
+      9.6
+    ],
+    "Desvios": [
+      1.48
+    ],
+    "Docentes": [
+      "HEATHER DEA JENNINGS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.6,
+    "MediaDeDesvios": 1.48,
+    "NotaMediana": 9.6
+  },
+  "MUS1002 - PRATICA DE INSTRUMENTO HARMONICO II": {
+    "Notas": [
+      10,
+      9.47
+    ],
+    "Desvios": [
+      1.4,
+      0.2
+    ],
+    "Docentes": [
+      "JOANA CUNHA DE HOLANDA"
+    ],
+    "DesvioDeNotas": 0.2649999999999997,
+    "MediaDeNotas": 9.735,
+    "MediaDeDesvios": 0.7999999999999999,
+    "NotaMediana": 9.47
+  },
+  "MUS0234 - HARMONIA II": {
+    "Notas": [
+      9.25
+    ],
+    "Desvios": [
+      1.52
+    ],
+    "Docentes": [
+      "JOSE SIMIAO SEVERO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.25,
+    "MediaDeDesvios": 1.52,
+    "NotaMediana": 9.25
+  },
+  "MUS0314 - ANALISE MUSICAL IV": {
+    "Notas": [
+      9.75,
+      9.84
+    ],
+    "Desvios": [
+      1.04,
+      0.78
+    ],
+    "Docentes": [
+      "MARCUS ANDRE VARELA VASCONCELOS"
+    ],
+    "DesvioDeNotas": 0.04499999999999993,
+    "MediaDeNotas": 9.795,
+    "MediaDeDesvios": 0.91,
+    "NotaMediana": 9.84
+  },
+  "MUS0087 - ANÁLISE MUSICAL I": {
+    "Notas": [
+      9.88
+    ],
+    "Desvios": [
+      1.01
+    ],
+    "Docentes": [
+      "MARCUS ANDRE VARELA VASCONCELOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.88,
+    "MediaDeDesvios": 1.01,
+    "NotaMediana": 9.88
+  },
+  "MUS0092 - PERCEPÇÃO MUSICAL II": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.18
+    ],
+    "Docentes": [
+      "MARCUS VINICIUS DE FREITAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.18,
+    "NotaMediana": 9.66
+  },
+  "MUS0044 - PERCEPCAO MUSICAL IV": {
+    "Notas": [
+      9.7,
+      9.82
+    ],
+    "Desvios": [
+      1.07,
+      0.68
+    ],
+    "Docentes": [
+      "MARIA CLARA DE ALMEIDA GONZAGA",
+      "HUGO ROBERTO SHIN LIMA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.0600000000000005,
+    "MediaDeNotas": 9.76,
+    "MediaDeDesvios": 0.875,
+    "NotaMediana": 9.82
+  },
+  "MUS2041 - DIDÁTICA MUSICAL": {
+    "Notas": [
+      9.45,
+      9.47
+    ],
+    "Desvios": [
+      1.71,
+      1.27
+    ],
+    "Docentes": [
+      "TIAGO DE QUADROS MAIA CARVALHO",
+      "WASHINGTON NOGUEIRA DE ABREU"
+    ],
+    "DesvioDeNotas": 0.010000000000000675,
+    "MediaDeNotas": 9.46,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.47
+  },
+  "MUS5091 - HISTÓRIA DA MÚSICA II": {
+    "Notas": [
+      9.68
+    ],
+    "Desvios": [
+      1.24
+    ],
+    "Docentes": [
+      "TIAGO DE QUADROS MAIA CARVALHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.68,
+    "MediaDeDesvios": 1.24,
+    "NotaMediana": 9.68
+  },
+  "MUS0410 - MUSICA POPULAR BRASILEIRA II": {
+    "Notas": [
+      9.14,
+      9.52
+    ],
+    "Desvios": [
+      1.49,
+      1.32
+    ],
+    "Docentes": [
+      "TIAGO DE QUADROS MAIA CARVALHO",
+      "ALVARO ALBERTO DE PAIVA BARROS"
+    ],
+    "DesvioDeNotas": 0.1899999999999995,
+    "MediaDeNotas": 9.33,
+    "MediaDeDesvios": 1.405,
+    "NotaMediana": 9.52
+  },
+  "MUS0021 - MUSICA DE CAMARA I": {
+    "Notas": [
+      8.68,
+      9.64,
+      9.71,
+      9.75,
+      9.96
+    ],
+    "Desvios": [
+      2.37,
+      1.46,
+      0.62,
+      1.45,
+      0.28
+    ],
+    "Docentes": [
+      "ALEXANDRE DOS SANTOS",
+      "DURVAL DA NOBREGA CESETTI",
+      "FLAVIO GABRIEL PARRO DA SILVA",
+      "JOAO RAONE TAVARES DA SILVA",
+      "PAULO EDUARDO DA SILVA FRANCA"
+    ],
+    "DesvioDeNotas": 0.4469183370594681,
+    "MediaDeNotas": 9.548,
+    "MediaDeDesvios": 1.2360000000000002,
+    "NotaMediana": 9.71
+  },
+  "MUS0082 - LABORATÓRIO DE PERFORMANCE IX": {
+    "Notas": [
+      10,
+      8.88,
+      9.07,
+      9.25,
+      9.55,
+      9.85,
+      9.86,
+      9.89,
+      9.98
+    ],
+    "Desvios": [
+      1.95,
+      1.03,
+      1.06,
+      1.36,
+      1.44,
+      0.5,
+      0.72,
+      0.93,
+      0.54
+    ],
+    "Docentes": [
+      "AMANDY BANDEIRA DE ARAUJO",
+      "CLAUDIA ROBERTA DE OLIVEIRA CUNHA",
+      "FERNANDO DIEGO RODRIGUES DOS SANTOS",
+      "FLAVIO GABRIEL PARRO DA SILVA",
+      "MARCUS VINICIUS DE FREITAS",
+      "RADEGUNDIS ARANHA TAVARES FEITOSA",
+      "RONEDILK CAVALCANTE DANTAS",
+      "RUCKER BEZERRA DE QUEIROZ",
+      "TARCISIO GOMES FILHO"
+    ],
+    "DesvioDeNotas": 0.4003270268106584,
+    "MediaDeNotas": 9.592222222222222,
+    "MediaDeDesvios": 1.058888888888889,
+    "NotaMediana": 9.55
+  },
+  "MUS5041 - PRÁTICA DE CONJUNTO IX": {
+    "Notas": [
+      9.46
+    ],
+    "Desvios": [
+      1.08
+    ],
+    "Docentes": [
+      "ERICKINSON BEZERRA DE LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.46,
+    "MediaDeDesvios": 1.08,
+    "NotaMediana": 9.46
+  },
+  "MUS0303 - HARMONIA III": {
+    "Notas": [
+      9.54
+    ],
+    "Desvios": [
+      0.5
+    ],
+    "Docentes": [
+      "GABRIEL GAGLIANO PINTO ALBERTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 0.5,
+    "NotaMediana": 9.54
+  },
+  "MUS0038 - TÓPICOS ESPECIAIS EM PERFORMANCE II": {
+    "Notas": [
+      9.5
+    ],
+    "Desvios": [
+      1.56
+    ],
+    "Docentes": [
+      "HEATHER DEA JENNINGS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.56,
+    "NotaMediana": 9.5
+  },
+  "MUS0313 - ANALISE MUSICAL III": {
+    "Notas": [
+      9.69
+    ],
+    "Desvios": [
+      1.24
+    ],
+    "Docentes": [
+      "MARCUS ANDRE VARELA VASCONCELOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.69,
+    "MediaDeDesvios": 1.24,
+    "NotaMediana": 9.69
+  },
+  "MUS0043 - PERCEPCAO MUSICAL III": {
+    "Notas": [
+      9.69
+    ],
+    "Desvios": [
+      1.12
+    ],
+    "Docentes": [
+      "MARIA CLARA DE ALMEIDA GONZAGA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.69,
+    "MediaDeDesvios": 1.12,
+    "NotaMediana": 9.69
+  },
+  "MUS1231 - INSTRUMENTO COMPLEMENTAR I": {
+    "Notas": [
+      9.78
+    ],
+    "Desvios": [
+      0.96
+    ],
+    "Docentes": [
+      "RAQUEL CARMONA TORRES FELIX"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.78,
+    "MediaDeDesvios": 0.96,
+    "NotaMediana": 9.78
+  },
+  "MUS2402 - SEMINARIO EM HISTORIA DA MUSICA I": {
+    "Notas": [
+      8.22
+    ],
+    "Desvios": [
+      1.54
+    ],
+    "Docentes": [
+      "AGOSTINHO JORGE DE LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.22,
+    "MediaDeDesvios": 1.54,
+    "NotaMediana": 8.22
+  },
+  "MUS0037 - TÓPICOS ESPECIAIS EM PERFORMANCE I": {
+    "Notas": [
+      10,
+      9.63,
+      9.9
+    ],
+    "Desvios": [
+      0.63,
+      1.27,
+      0.68
+    ],
+    "Docentes": [
+      "ALEXANDRE RECHE E SILVA",
+      "HEATHER DEA JENNINGS",
+      "MARCUS ANDRE VARELA VASCONCELOS"
+    ],
+    "DesvioDeNotas": 0.15627610892974692,
+    "MediaDeNotas": 9.843333333333334,
+    "MediaDeDesvios": 0.86,
+    "NotaMediana": 9.63
+  },
+  "MUS0071 - LABORATÓRIO DE PERFORMANCE VIII": {
+    "Notas": [
+      9.32,
+      9.65,
+      9.68,
+      9.84,
+      9.85,
+      9.95,
+      9.97
+    ],
+    "Desvios": [
+      0.52,
+      0.44,
+      0.96,
+      0.5,
+      0.48,
+      0.98,
+      0.94
+    ],
+    "Docentes": [
+      "AMANDY BANDEIRA DE ARAUJO",
+      "DURVAL DA NOBREGA CESETTI",
+      "FLAVIO GABRIEL PARRO DA SILVA",
+      "GERMANNA FRANCA DA CUNHA",
+      "MARIA NAZARE ROCHA DE ALMEIDA",
+      "PAULO ROBERTO DA SILVA",
+      "RUCKER BEZERRA DE QUEIROZ"
+    ],
+    "DesvioDeNotas": 0.20917720248826419,
+    "MediaDeNotas": 9.751428571428573,
+    "MediaDeDesvios": 0.6885714285714286,
+    "NotaMediana": 9.84
+  },
+  "MUS0042 - PERCEPCAO MUSICAL II": {
+    "Notas": [
+      9.41
+    ],
+    "Desvios": [
+      1.01
+    ],
+    "Docentes": [
+      "CATARINA SHIN LIMA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.41,
+    "MediaDeDesvios": 1.01,
+    "NotaMediana": 9.41
+  },
+  "MUS0067 - LABORATÓRIO DE PERFORMANCE IV": {
+    "Notas": [
+      9.28,
+      9.38,
+      9.67,
+      9.81
+    ],
+    "Desvios": [
+      0.73,
+      1.06,
+      0.82,
+      0.73
+    ],
+    "Docentes": [
+      "DURVAL DA NOBREGA CESETTI",
+      "FREDERICO ARANTES NABLE",
+      "PAULO EDUARDO DA SILVA FRANCA",
+      "RONEDILK CAVALCANTE DANTAS"
+    ],
+    "DesvioDeNotas": 0.21383404780343115,
+    "MediaDeNotas": 9.535,
+    "MediaDeDesvios": 0.835,
+    "NotaMediana": 9.67
+  },
+  "MUS5027 - PRÁTICA DE CONJUNTO VII": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      0.87
+    ],
+    "Docentes": [
+      "ERICKINSON BEZERRA DE LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 0.87,
+    "NotaMediana": 9.57
+  },
+  "MUS0099 - DIDÁTICA DO VIOLONCELO": {
+    "Notas": [
+      9.55
+    ],
+    "Desvios": [
+      0.81
+    ],
+    "Docentes": [
+      "FREDERICO ARANTES NABLE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.55,
+    "MediaDeDesvios": 0.81,
+    "NotaMediana": 9.55
+  },
+  "MUS0010 - CONTRAPONTO II": {
+    "Notas": [
+      10
+    ],
+    "Desvios": [
+      0.34
+    ],
+    "Docentes": [
+      "HEATHER DEA JENNINGS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 10,
+    "MediaDeDesvios": 0.34,
+    "NotaMediana": 10
+  },
+  "MUS2312 - ANALISE MUSICAL II": {
+    "Notas": [
+      9.8
+    ],
+    "Desvios": [
+      0.82
+    ],
+    "Docentes": [
+      "MARCUS ANDRE VARELA VASCONCELOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 0.82,
+    "NotaMediana": 9.8
+  },
+  "MUS0069 - LABORATÓRIO DE PERFORMANCE VI": {
+    "Notas": [
+      9.8
+    ],
+    "Desvios": [
+      0.41
+    ],
+    "Docentes": [
+      "NAN QI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 0.41,
+    "NotaMediana": 9.8
+  },
+  "MUS0302 - HARMONIA II": {
+    "Notas": [
+      9.77
+    ],
+    "Desvios": [
+      0.73
+    ],
+    "Docentes": [
+      "TARCISIO GOMES FILHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 0.73,
+    "NotaMediana": 9.77
+  }
+}

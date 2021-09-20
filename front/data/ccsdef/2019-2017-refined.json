@@ -1,0 +1,3342 @@
+{
+  "ANTONIO DE PADUA DOS SANTOS": {
+    "Notas": [
+      9.25,
+      9.25,
+      9.57,
+      9.62,
+      9.77,
+      9.82
+    ],
+    "Desvios": [
+      1.05,
+      1.25,
+      0.87,
+      1.3,
+      1.31,
+      1.28
+    ],
+    "Componentes": {
+      "DEF0638 - EDUCACAO FISICA NO ENSINO MEDIO": {
+        "Notas": [
+          9.25,
+          9.77
+        ],
+        "Desvios": [
+          1.05,
+          1.3
+        ],
+        "DesvioDeNotas": 0.2599999999999998,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.175,
+        "NotaMediana": 9.77
+      },
+      "DEF0734 - INTRODUÇÃO AO TRABALHO DE CONCLUSÃO DE CURO": {
+        "Notas": [
+          9.25,
+          9.57,
+          9.62,
+          9.82
+        ],
+        "Desvios": [
+          1.25,
+          0.87,
+          1.31,
+          1.28
+        ],
+        "DesvioDeNotas": 0.20451161336217566,
+        "MediaDeNotas": 9.565,
+        "MediaDeDesvios": 1.1775,
+        "NotaMediana": 9.62
+      }
+    },
+    "DesvioDeNotas": 0.22602851344219574,
+    "MediaDeNotas": 9.546666666666665,
+    "MediaDeDesvios": 1.1766666666666665,
+    "NotaMediana": 9.62
+  },
+  "ANTONIO FERNANDES DE SOUZA JUNIOR": {
+    "Notas": [
+      8.98,
+      9.63,
+      9.66,
+      9.82,
+      9.84,
+      9.91,
+      9.91,
+      9.92
+    ],
+    "Desvios": [
+      1.2,
+      1.33,
+      1.21,
+      1.42,
+      1.29,
+      0.98,
+      1.15,
+      1.28
+    ],
+    "Componentes": {
+      "DEF0071 - METODOLOGIA DA NATACAO": {
+        "Notas": [
+          9.63,
+          9.82
+        ],
+        "Desvios": [
+          1.2,
+          0.98
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.725000000000001,
+        "MediaDeDesvios": 1.0899999999999999,
+        "NotaMediana": 9.82
+      },
+      "DEF0052 - METODOLOGIA DO FUTEBOL": {
+        "Notas": [
+          8.98
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 8.98
+      },
+      "DEF0050 - METODOLOGIA DO HANDEBOL": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.84
+      },
+      "DEF0651 - ATIVIDADE FISICA, LAZER E CULTURA": {
+        "Notas": [
+          9.92
+        ],
+        "Desvios": [
+          1.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.92,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.92
+      },
+      "DEF0650 - ATIVIDADE FISICA, SAUDE E QUALIDADE DE VIDA": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.91
+      },
+      "DEF0051 - METODOLOGIA DO FUTSAL": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.91
+      },
+      "DEF0500 - METODOLOGIA DO JOGO": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.2947217967846964,
+    "MediaDeNotas": 9.70875,
+    "MediaDeDesvios": 1.2325,
+    "NotaMediana": 9.84
+  },
+  "ARNALDO LUIS MORTATTI": {
+    "Notas": [
+      9.41,
+      9.49,
+      9.52,
+      9.61,
+      9.63,
+      9.82
+    ],
+    "Desvios": [
+      1.08,
+      0.75,
+      1.44,
+      1.41,
+      1.18,
+      1.06
+    ],
+    "Componentes": {
+      "DEF0067 - CIENCIA DO TREINAMENTO ESPORTIVO": {
+        "Notas": [
+          9.41,
+          9.63
+        ],
+        "Desvios": [
+          1.08,
+          1.41
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.245,
+        "NotaMediana": 9.63
+      },
+      "DEF0082 - CINESIOLOGIA APLICADA À EDUCAÇÃO FÍSICA": {
+        "Notas": [
+          9.49,
+          9.61,
+          9.82
+        ],
+        "Desvios": [
+          0.75,
+          1.44,
+          1.18
+        ],
+        "DesvioDeNotas": 0.13638181696985865,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.1233333333333333,
+        "NotaMediana": 9.61
+      },
+      "DEF0025 - ESTÁGIO SUPERVISIONADO I": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.06,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.13012814197295433,
+    "MediaDeNotas": 9.58,
+    "MediaDeDesvios": 1.1533333333333333,
+    "NotaMediana": 9.61
+  },
+  "CARLOS ALBERTO DE CASTRO BARRETO": {
+    "Notas": [
+      8.66,
+      8.79,
+      8.99,
+      9.15,
+      9.25,
+      9.46,
+      9.51,
+      9.54,
+      9.54,
+      9.61,
+      9.61,
+      9.63,
+      9.64,
+      9.68,
+      9.8
+    ],
+    "Desvios": [
+      1,
+      0.88,
+      1.26,
+      1.25,
+      1.2,
+      0.99,
+      1.32,
+      2.1,
+      1.57,
+      1.84,
+      1.75,
+      1.47,
+      1.25,
+      1.14,
+      1.08
+    ],
+    "Componentes": {
+      "DEF0632 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1,
+        "NotaMediana": 9.54
+      },
+      "DEF0028 - ESTÁGIO SUPERVISIONADO IV": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          0.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 0.88,
+        "NotaMediana": 9.61
+      },
+      "DEF0049 - METODOLOGIA DO JUDO": {
+        "Notas": [
+          8.66,
+          9.54,
+          9.63,
+          9.64
+        ],
+        "Desvios": [
+          1.26,
+          0.99,
+          1.84,
+          1.14
+        ],
+        "DesvioDeNotas": 0.41032761301184695,
+        "MediaDeNotas": 9.3675,
+        "MediaDeDesvios": 1.3074999999999999,
+        "NotaMediana": 9.63
+      },
+      "DEF0044 - ORGANIZACAO DE EVENTOS EM EDUCACAO FISICA E ESPORTES": {
+        "Notas": [
+          9.15,
+          9.61,
+          9.68,
+          9.8
+        ],
+        "Desvios": [
+          1.25,
+          1.32,
+          1.75,
+          1.08
+        ],
+        "DesvioDeNotas": 0.24627220712049497,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.68
+      },
+      "DEF0033 - METODOLOGIA DAS LUTAS": {
+        "Notas": [
+          8.99,
+          9.46,
+          9.51
+        ],
+        "Desvios": [
+          1.2,
+          1.57,
+          1.25
+        ],
+        "DesvioDeNotas": 0.23423634787681155,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.3399999999999999,
+        "NotaMediana": 9.46
+      },
+      "DEF0027 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          8.79
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.79,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 8.79
+      },
+      "DEF0026 - ESTAGIO SUPERVISIONADO IÍ": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.25
+      }
+    },
+    "DesvioDeNotas": 0.33301584880536184,
+    "MediaDeNotas": 9.390666666666668,
+    "MediaDeDesvios": 1.34,
+    "NotaMediana": 9.54
+  },
+  "CARLOS JAERTON DUARTE": {
+    "Notas": [
+      8.16,
+      8.2,
+      8.25,
+      8.75,
+      8.83,
+      8.91,
+      8.98,
+      9.03,
+      9.1,
+      9.18,
+      9.22,
+      9.22,
+      9.44,
+      9.5,
+      9.55,
+      9.57
+    ],
+    "Desvios": [
+      2.05,
+      1.69,
+      1.95,
+      3,
+      1.34,
+      2.81,
+      2.56,
+      2.28,
+      1.95,
+      1.2,
+      2.35,
+      1.44,
+      2.02,
+      1.34,
+      1.71,
+      2.23
+    ],
+    "Componentes": {
+      "DEF0651 - ATIVIDADE FISICA, LAZER E CULTURA": {
+        "Notas": [
+          8.2,
+          8.91,
+          8.98,
+          9.03,
+          9.18,
+          9.22,
+          9.5,
+          9.55,
+          9.57
+        ],
+        "Desvios": [
+          2.05,
+          1.69,
+          2.81,
+          2.56,
+          1.2,
+          2.35,
+          2.02,
+          1.34,
+          1.71
+        ],
+        "DesvioDeNotas": 0.40320934733433206,
+        "MediaDeNotas": 9.126666666666665,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.18
+      },
+      "DEF0650 - ATIVIDADE FISICA, SAUDE E QUALIDADE DE VIDA": {
+        "Notas": [
+          8.16,
+          8.25,
+          8.75,
+          8.83,
+          9.1,
+          9.44
+        ],
+        "Desvios": [
+          1.95,
+          3,
+          2.28,
+          1.95,
+          1.44,
+          2.23
+        ],
+        "DesvioDeNotas": 0.44776295812256117,
+        "MediaDeNotas": 8.755,
+        "MediaDeDesvios": 2.1416666666666666,
+        "NotaMediana": 8.83
+      },
+      "DEF0026 - ESTAGIO SUPERVISIONADO IÍ": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0.448493572278355,
+    "MediaDeNotas": 8.993125,
+    "MediaDeDesvios": 1.995,
+    "NotaMediana": 9.1
+  },
+  "DINARA MARQUES PAIVA COSTA": {
+    "Notas": [
+      8.65,
+      9.14,
+      9.24,
+      9.25,
+      9.49,
+      9.55,
+      9.55,
+      9.59,
+      9.65,
+      9.66,
+      9.72,
+      9.79,
+      9.89,
+      9.89
+    ],
+    "Desvios": [
+      0.71,
+      1.06,
+      0.7,
+      1.47,
+      1.4,
+      1,
+      1.2,
+      0.86,
+      2.22,
+      1.5,
+      1.54,
+      1.4,
+      1.8,
+      1.56
+    ],
+    "Componentes": {
+      "DEF0600 - ATIVIDADES RITMICAS E EXPRESSIVAS": {
+        "Notas": [
+          9.14,
+          9.49,
+          9.65,
+          9.66,
+          9.79
+        ],
+        "Desvios": [
+          0.71,
+          1.47,
+          1.4,
+          0.86,
+          1.54
+        ],
+        "DesvioDeNotas": 0.22419634252146006,
+        "MediaDeNotas": 9.546000000000001,
+        "MediaDeDesvios": 1.196,
+        "NotaMediana": 9.65
+      },
+      "DEF0630 - ESTAGIO SUPERVISIONADO I": {
+        "Notas": [
+          8.65,
+          9.59,
+          9.72,
+          9.89
+        ],
+        "Desvios": [
+          1.06,
+          1,
+          2.22,
+          1.8
+        ],
+        "DesvioDeNotas": 0.4810080560655924,
+        "MediaDeNotas": 9.4625,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.72
+      },
+      "DEF0055 - METODOLOGIA DA IOGA": {
+        "Notas": [
+          9.25,
+          9.55,
+          9.55,
+          9.89
+        ],
+        "Desvios": [
+          0.7,
+          1.2,
+          1.5,
+          1.56
+        ],
+        "DesvioDeNotas": 0.22649503305812266,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.55
+      },
+      "DEF8043 - ATIVIDADES RITMICAS E EXPRESSIVAS": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          1.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 1.4,
+        "NotaMediana": 9.24
+      }
+    },
+    "DesvioDeNotas": 0.3251310567780824,
+    "MediaDeNotas": 9.504285714285714,
+    "MediaDeDesvios": 1.3157142857142856,
+    "NotaMediana": 9.59
+  },
+  "EDMILSON PINTO ALBUQUERQUE": {
+    "Notas": [
+      8.55,
+      8.58,
+      8.66,
+      8.9,
+      9.19,
+      9.2,
+      9.29,
+      9.37,
+      9.48,
+      9.5
+    ],
+    "Desvios": [
+      2.27,
+      1.58,
+      1.64,
+      1.61,
+      2.41,
+      1.69,
+      1.8,
+      1.06,
+      1.56,
+      1.41
+    ],
+    "Componentes": {
+      "DEF0062 - CONSCIENCIA CORPORAL": {
+        "Notas": [
+          8.55,
+          9.2,
+          9.29,
+          9.48,
+          9.5
+        ],
+        "Desvios": [
+          2.27,
+          1.58,
+          1.61,
+          1.69,
+          1.56
+        ],
+        "DesvioDeNotas": 0.34609825194588867,
+        "MediaDeNotas": 9.203999999999999,
+        "MediaDeDesvios": 1.7420000000000002,
+        "NotaMediana": 9.29
+      },
+      "DEF0632 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          8.58,
+          9.19
+        ],
+        "Desvios": [
+          1.64,
+          1.06
+        ],
+        "DesvioDeNotas": 0.3049999999999997,
+        "MediaDeNotas": 8.885,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.19
+      },
+      "DEF0656 - HISTORIA DA EDUCACAO FISICA": {
+        "Notas": [
+          8.9
+        ],
+        "Desvios": [
+          2.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 2.41,
+        "NotaMediana": 8.9
+      },
+      "DEF0631 - ESTAGIO SUPERVISIONADO II": {
+        "Notas": [
+          8.66,
+          9.37
+        ],
+        "Desvios": [
+          1.8,
+          1.41
+        ],
+        "DesvioDeNotas": 0.35499999999999954,
+        "MediaDeNotas": 9.015,
+        "MediaDeDesvios": 1.605,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.35073636823118276,
+    "MediaDeNotas": 9.072,
+    "MediaDeDesvios": 1.703,
+    "NotaMediana": 9.2
+  },
+  "EDUARDO CALDAS COSTA": {
+    "Notas": [
+      9.44,
+      9.52,
+      9.58,
+      9.59,
+      9.63,
+      9.66,
+      9.8
+    ],
+    "Desvios": [
+      1.1,
+      1.08,
+      1.24,
+      1.46,
+      1.32,
+      0.96,
+      1.29
+    ],
+    "Componentes": {
+      "DEF0035 - PRATICAS CORPORAIS PARA GRUPOS ESPECIAIS": {
+        "Notas": [
+          9.44,
+          9.59,
+          9.66
+        ],
+        "Desvios": [
+          1.1,
+          1.24,
+          1.29
+        ],
+        "DesvioDeNotas": 0.09177266598624162,
+        "MediaDeNotas": 9.563333333333334,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.59
+      },
+      "DEF0655 - AVALIACAO E PRESCRICAO DE ATIVIDADES FISICAS": {
+        "Notas": [
+          9.52,
+          9.8
+        ],
+        "Desvios": [
+          1.08,
+          0.96
+        ],
+        "DesvioDeNotas": 0.14000000000000057,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.02,
+        "NotaMediana": 9.8
+      },
+      "DEF0025 - ESTÁGIO SUPERVISIONADO I": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.58
+      },
+      "DEF0743 - FISIOLOGIA CLÍNICA DO EXERCÍCIO": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.1048419607537648,
+    "MediaDeNotas": 9.602857142857143,
+    "MediaDeDesvios": 1.207142857142857,
+    "NotaMediana": 9.59
+  },
+  "ELIZABETH JATOBA BEZERRA TINOCO": {
+    "Notas": [
+      7.42,
+      7.48,
+      7.57,
+      7.99,
+      8.03,
+      8.21,
+      8.29,
+      8.69,
+      8.82
+    ],
+    "Desvios": [
+      2.72,
+      2.37,
+      1.18,
+      2.2,
+      2.8,
+      2.37,
+      2.22,
+      1.57,
+      1.81
+    ],
+    "Componentes": {
+      "DEF0038 - METODOLOGIAS RECREATIVAS": {
+        "Notas": [
+          7.42,
+          7.99,
+          8.69
+        ],
+        "Desvios": [
+          2.72,
+          2.37,
+          1.81
+        ],
+        "DesvioDeNotas": 0.5193799722318482,
+        "MediaDeNotas": 8.033333333333333,
+        "MediaDeDesvios": 2.3000000000000003,
+        "NotaMediana": 7.99
+      },
+      "DEF0039 - TOPICOS ESPECIAIS EM EDUCACAO FISICA, ESPORTES E LAZER": {
+        "Notas": [
+          8.21
+        ],
+        "Desvios": [
+          2.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.21,
+        "MediaDeDesvios": 2.37,
+        "NotaMediana": 8.21
+      },
+      "DEF0631 - ESTAGIO SUPERVISIONADO II": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 8.82
+      },
+      "DEF0500 - METODOLOGIA DO JOGO": {
+        "Notas": [
+          8.03,
+          8.29
+        ],
+        "Desvios": [
+          2.2,
+          1.57
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 8.16,
+        "MediaDeDesvios": 1.8850000000000002,
+        "NotaMediana": 8.29
+      },
+      "DEF0058 - LAZER, EDUCACAO E DESENVOLVIMENTO HUMANO": {
+        "Notas": [
+          7.57
+        ],
+        "Desvios": [
+          2.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.57,
+        "MediaDeDesvios": 2.8,
+        "NotaMediana": 7.57
+      },
+      "DEF8037 - EDUCAÇÃO FÍSICA NO ENSINO FUNDAMENTAL E MÉDIO": {
+        "Notas": [
+          7.48
+        ],
+        "Desvios": [
+          2.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.48,
+        "MediaDeDesvios": 2.22,
+        "NotaMediana": 7.48
+      }
+    },
+    "DesvioDeNotas": 0.4762844880743512,
+    "MediaDeNotas": 8.055555555555557,
+    "MediaDeDesvios": 2.1377777777777776,
+    "NotaMediana": 8.03
+  },
+  "HASSAN MOHAMED ELSANGEDY": {
+    "Notas": [
+      7.86,
+      8.13,
+      9.27,
+      9.29,
+      9.33,
+      9.49,
+      9.55,
+      9.57,
+      9.7,
+      9.74,
+      9.75
+    ],
+    "Desvios": [
+      1.22,
+      2.74,
+      1.72,
+      2.86,
+      1.41,
+      1.55,
+      0.95,
+      1.78,
+      1.41,
+      1.46,
+      1.34
+    ],
+    "Componentes": {
+      "DEF0080 - BIOESTATÍSTICA APLICADA À EDUCAÇÃO FÍSICA": {
+        "Notas": [
+          9.55,
+          9.74
+        ],
+        "Desvios": [
+          1.22,
+          1.55
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.645,
+        "MediaDeDesvios": 1.385,
+        "NotaMediana": 9.74
+      },
+      "DEF0027 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          8.13
+        ],
+        "Desvios": [
+          2.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.13,
+        "MediaDeDesvios": 2.74,
+        "NotaMediana": 8.13
+      },
+      "DEF0640 - METODOLOGIA DA PESQUISA": {
+        "Notas": [
+          9.27,
+          9.49
+        ],
+        "Desvios": [
+          1.72,
+          1.46
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 9.379999999999999,
+        "MediaDeDesvios": 1.5899999999999999,
+        "NotaMediana": 9.49
+      },
+      "DEF0028 - ESTÁGIO SUPERVISIONADO IV": {
+        "Notas": [
+          7.86,
+          9.75
+        ],
+        "Desvios": [
+          2.86,
+          1.78
+        ],
+        "DesvioDeNotas": 0.9449999999999998,
+        "MediaDeNotas": 8.805,
+        "MediaDeDesvios": 2.32,
+        "NotaMediana": 9.75
+      },
+      "DEF0057 - METODOLOGIA DA MUSCULACAO": {
+        "Notas": [
+          9.29,
+          9.33
+        ],
+        "Desvios": [
+          1.41,
+          1.41
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.309999999999999,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.33
+      },
+      "DEF0025 - ESTÁGIO SUPERVISIONADO I": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          0.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 0.95,
+        "NotaMediana": 9.7
+      },
+      "DEF0081 - PSICOBIOLOGIA DA ATIVIDADE FÍSICA": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.6132665552340147,
+    "MediaDeNotas": 9.243636363636364,
+    "MediaDeDesvios": 1.676363636363636,
+    "NotaMediana": 9.49
+  },
+  "HELDER VIANA PINHEIRO": {
+    "Notas": [
+      8.26,
+      8.34,
+      8.39,
+      8.73,
+      8.84,
+      9.04,
+      9.05,
+      9.07,
+      9.25,
+      9.25,
+      9.34,
+      9.52,
+      9.54,
+      9.55,
+      9.61,
+      9.63,
+      9.64,
+      9.76,
+      9.88
+    ],
+    "Desvios": [
+      1.68,
+      0.97,
+      1.17,
+      0.88,
+      2.27,
+      1.51,
+      2.03,
+      1.51,
+      2,
+      1.87,
+      1.46,
+      1.55,
+      0.99,
+      1,
+      1.73,
+      1.16,
+      1.76,
+      1.34,
+      1.68
+    ],
+    "Componentes": {
+      "DEF0651 - ATIVIDADE FISICA, LAZER E CULTURA": {
+        "Notas": [
+          9.25,
+          9.25,
+          9.52,
+          9.55,
+          9.76
+        ],
+        "Desvios": [
+          1.68,
+          0.97,
+          1.51,
+          1.46,
+          1.16
+        ],
+        "DesvioDeNotas": 0.1947921969689751,
+        "MediaDeNotas": 9.466,
+        "MediaDeDesvios": 1.356,
+        "NotaMediana": 9.52
+      },
+      "DEF0650 - ATIVIDADE FISICA, SAUDE E QUALIDADE DE VIDA": {
+        "Notas": [
+          8.26,
+          8.73,
+          9.05,
+          9.63
+        ],
+        "Desvios": [
+          1.17,
+          2.03,
+          1.55,
+          1.76
+        ],
+        "DesvioDeNotas": 0.498165384184811,
+        "MediaDeNotas": 8.9175,
+        "MediaDeDesvios": 1.6275,
+        "NotaMediana": 9.05
+      },
+      "DEF0400 - PRIMEIROS SOCORROS APLICADOS A EDUCACAO FISICA": {
+        "Notas": [
+          9.04,
+          9.07,
+          9.54,
+          9.61,
+          9.64,
+          9.88
+        ],
+        "Desvios": [
+          0.88,
+          1.51,
+          2,
+          0.99,
+          1,
+          1.34
+        ],
+        "DesvioDeNotas": 0.30717349422688756,
+        "MediaDeNotas": 9.463333333333333,
+        "MediaDeDesvios": 1.2866666666666668,
+        "NotaMediana": 9.61
+      },
+      "DEF0206 - SOCORROS DE URGENCIA": {
+        "Notas": [
+          8.34,
+          8.39,
+          8.84,
+          9.34
+        ],
+        "Desvios": [
+          2.27,
+          1.87,
+          1.73,
+          1.68
+        ],
+        "DesvioDeNotas": 0.40369388154887836,
+        "MediaDeNotas": 8.7275,
+        "MediaDeDesvios": 1.8875000000000002,
+        "NotaMediana": 8.84
+      }
+    },
+    "DesvioDeNotas": 0.480233668885577,
+    "MediaDeNotas": 9.19421052631579,
+    "MediaDeDesvios": 1.5031578947368422,
+    "NotaMediana": 9.25
+  },
+  "JOAO BATISTA DE AMORIM": {
+    "Notas": [
+      8.3,
+      8.53,
+      9.13,
+      9.33,
+      9.38,
+      9.62
+    ],
+    "Desvios": [
+      1.58,
+      1.36,
+      1.79,
+      1.8,
+      0.93,
+      1.7
+    ],
+    "Componentes": {
+      "DEF0068 - ADMINISTRACAO E LEGISLACAO DA ED. FISICA E DOS ESPORTES": {
+        "Notas": [
+          8.3,
+          9.33,
+          9.38
+        ],
+        "Desvios": [
+          1.58,
+          1.79,
+          0.93
+        ],
+        "DesvioDeNotas": 0.49775049528408855,
+        "MediaDeNotas": 9.003333333333336,
+        "MediaDeDesvios": 1.4333333333333333,
+        "NotaMediana": 9.33
+      },
+      "DEF0637 - EDUCACAO FISICA INCLUSIVA": {
+        "Notas": [
+          8.53,
+          9.62
+        ],
+        "Desvios": [
+          1.36,
+          1.7
+        ],
+        "DesvioDeNotas": 0.5449999999999999,
+        "MediaDeNotas": 9.075,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.62
+      },
+      "DEF0650 - ATIVIDADE FISICA, SAUDE E QUALIDADE DE VIDA": {
+        "Notas": [
+          9.13
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.13,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.13
+      }
+    },
+    "DesvioDeNotas": 0.4746021725848104,
+    "MediaDeNotas": 9.048333333333334,
+    "MediaDeDesvios": 1.5266666666666666,
+    "NotaMediana": 9.33
+  },
+  "JOSE DOS SANTOS FIGUEIREDO": {
+    "Notas": [
+      9.26,
+      9.46,
+      9.51,
+      9.54,
+      9.6,
+      9.64,
+      9.68,
+      9.69,
+      9.75,
+      9.81,
+      9.87,
+      9.9,
+      9.9
+    ],
+    "Desvios": [
+      1.82,
+      1.41,
+      1.48,
+      1.15,
+      1.18,
+      0.82,
+      1.33,
+      0.84,
+      1.21,
+      1.43,
+      0.79,
+      0.78,
+      1.15
+    ],
+    "Componentes": {
+      "DEF0025 - ESTÁGIO SUPERVISIONADO I": {
+        "Notas": [
+          9.26,
+          9.64
+        ],
+        "Desvios": [
+          1.82,
+          0.79
+        ],
+        "DesvioDeNotas": 0.1900000000000004,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.3050000000000002,
+        "NotaMediana": 9.64
+      },
+      "DEF0083 - FISIOLOGIA DO EXERCÍCIO APLICADA À EDUCAÇÃO FÍSICA": {
+        "Notas": [
+          9.51,
+          9.69,
+          9.75,
+          9.9
+        ],
+        "Desvios": [
+          1.41,
+          0.82,
+          1.21,
+          0.78
+        ],
+        "DesvioDeNotas": 0.1397095200764789,
+        "MediaDeNotas": 9.7125,
+        "MediaDeDesvios": 1.055,
+        "NotaMediana": 9.75
+      },
+      "DEF0054 - METODOLOGIA DO ATLETISMO": {
+        "Notas": [
+          9.54,
+          9.68,
+          9.87,
+          9.9
+        ],
+        "Desvios": [
+          1.48,
+          1.33,
+          1.43,
+          1.15
+        ],
+        "DesvioDeNotas": 0.1465221826209263,
+        "MediaDeNotas": 9.747499999999999,
+        "MediaDeDesvios": 1.3475000000000001,
+        "NotaMediana": 9.87
+      },
+      "DEF0047 - METODOLOGIA DO TREINAMENTO ESPORTIVO": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.81
+      },
+      "DEF0026 - ESTAGIO SUPERVISIONADO IÍ": {
+        "Notas": [
+          9.46,
+          9.6
+        ],
+        "Desvios": [
+          1.18,
+          0.84
+        ],
+        "DesvioDeNotas": 0.0699999999999994,
+        "MediaDeNotas": 9.530000000000001,
+        "MediaDeDesvios": 1.01,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.18229957787848708,
+    "MediaDeNotas": 9.662307692307692,
+    "MediaDeDesvios": 1.1838461538461535,
+    "NotaMediana": 9.68
+  },
+  "JOSE PEREIRA DE MELO": {
+    "Notas": [
+      9.64
+    ],
+    "Desvios": [
+      1.3
+    ],
+    "Componentes": {
+      "DEF0091 - PRÁTICAS CURRICULARES I": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.64
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.64,
+    "MediaDeDesvios": 1.3,
+    "NotaMediana": 9.64
+  },
+  "MARCIO ROMEU RIBAS DE OLIVEIRA": {
+    "Notas": [
+      8.65,
+      8.81,
+      9.3,
+      9.5,
+      9.56,
+      9.57,
+      9.62,
+      9.65,
+      9.72,
+      9.72,
+      9.95,
+      9.97
+    ],
+    "Desvios": [
+      1.91,
+      1.99,
+      1.04,
+      1.42,
+      0.84,
+      1.31,
+      0.88,
+      1.06,
+      1.57,
+      1.21,
+      1.52,
+      1.32
+    ],
+    "Componentes": {
+      "DEF0656 - HISTORIA DA EDUCACAO FISICA": {
+        "Notas": [
+          8.81
+        ],
+        "Desvios": [
+          1.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.81,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 8.81
+      },
+      "DEF0640 - METODOLOGIA DA PESQUISA": {
+        "Notas": [
+          8.65,
+          9.3,
+          9.72
+        ],
+        "Desvios": [
+          1.99,
+          1.06,
+          1.57
+        ],
+        "DesvioDeNotas": 0.4401767321832853,
+        "MediaDeNotas": 9.223333333333334,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.3
+      },
+      "DEF0073 - MÍDIA, TECNOLOGIA E EDUCAÇÃO FÍSICA": {
+        "Notas": [
+          9.56,
+          9.62,
+          9.65
+        ],
+        "Desvios": [
+          1.04,
+          1.31,
+          1.52
+        ],
+        "DesvioDeNotas": 0.03741657386773925,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.62
+      },
+      "DEF0648 - DIDATICA DA EDUCACAO FISICA": {
+        "Notas": [
+          9.5,
+          9.97
+        ],
+        "Desvios": [
+          1.42,
+          1.21
+        ],
+        "DesvioDeNotas": 0.23500000000000032,
+        "MediaDeNotas": 9.735,
+        "MediaDeDesvios": 1.315,
+        "NotaMediana": 9.97
+      },
+      "DEF0632 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          0.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 0.84,
+        "NotaMediana": 9.95
+      },
+      "DEF0631 - ESTAGIO SUPERVISIONADO II": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          0.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 0.88,
+        "NotaMediana": 9.72
+      },
+      "DEF0039 - TOPICOS ESPECIAIS EM EDUCACAO FISICA, ESPORTES E LAZER": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.3877463374710613,
+    "MediaDeNotas": 9.501666666666667,
+    "MediaDeDesvios": 1.3391666666666666,
+    "NotaMediana": 9.62
+  },
+  "MARCOS AURELIO DE ALBUQUERQUE COSTA": {
+    "Notas": [
+      8.13,
+      8.64,
+      8.66,
+      8.79,
+      8.85,
+      8.92,
+      9.07,
+      9.22,
+      9.37,
+      9.56
+    ],
+    "Desvios": [
+      2.01,
+      1.61,
+      1.5,
+      1.31,
+      1.26,
+      2.48,
+      1.99,
+      1.55,
+      2.16,
+      1.41
+    ],
+    "Componentes": {
+      "DEF0027 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          8.13,
+          8.66,
+          9.22
+        ],
+        "Desvios": [
+          2.01,
+          1.31,
+          2.48
+        ],
+        "DesvioDeNotas": 0.4450468140169825,
+        "MediaDeNotas": 8.670000000000002,
+        "MediaDeDesvios": 1.9333333333333333,
+        "NotaMediana": 8.66
+      },
+      "DEF0734 - INTRODUÇÃO AO TRABALHO DE CONCLUSÃO DE CURO": {
+        "Notas": [
+          8.64,
+          8.92,
+          9.37,
+          9.56
+        ],
+        "Desvios": [
+          1.61,
+          1.26,
+          1.99,
+          1.41
+        ],
+        "DesvioDeNotas": 0.362792985047947,
+        "MediaDeNotas": 9.1225,
+        "MediaDeDesvios": 1.5675000000000001,
+        "NotaMediana": 9.37
+      },
+      "DEF0039 - TOPICOS ESPECIAIS EM EDUCACAO FISICA, ESPORTES E LAZER": {
+        "Notas": [
+          8.85,
+          9.07
+        ],
+        "Desvios": [
+          1.5,
+          1.55
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 1.525,
+        "NotaMediana": 9.07
+      },
+      "DEF0026 - ESTAGIO SUPERVISIONADO IÍ": {
+        "Notas": [
+          8.79
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.79,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 8.79
+      }
+    },
+    "DesvioDeNotas": 0.38942136561827206,
+    "MediaDeNotas": 8.921000000000001,
+    "MediaDeDesvios": 1.7280000000000002,
+    "NotaMediana": 8.92
+  },
+  "MARIA APARECIDA DIAS": {
+    "Notas": [
+      8.71,
+      9.65,
+      9.68,
+      9.73,
+      9.74,
+      9.75,
+      9.78,
+      9.82,
+      9.82,
+      9.86,
+      9.91,
+      9.95
+    ],
+    "Desvios": [
+      1.66,
+      0.95,
+      1.16,
+      0.41,
+      0.55,
+      1.66,
+      1.3,
+      0.77,
+      1.29,
+      1.44,
+      1.27,
+      1.11
+    ],
+    "Componentes": {
+      "DEF0651 - ATIVIDADE FISICA, LAZER E CULTURA": {
+        "Notas": [
+          9.82,
+          9.86
+        ],
+        "Desvios": [
+          1.66,
+          0.95
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.305,
+        "NotaMediana": 9.86
+      },
+      "DEF0650 - ATIVIDADE FISICA, SAUDE E QUALIDADE DE VIDA": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.16,
+        "NotaMediana": 9.74
+      },
+      "DEF0637 - EDUCACAO FISICA INCLUSIVA": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          0.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 0.41,
+        "NotaMediana": 9.95
+      },
+      "DEF0400 - PRIMEIROS SOCORROS APLICADOS A EDUCACAO FISICA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          0.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 0.55,
+        "NotaMediana": 9.82
+      },
+      "DEF0206 - SOCORROS DE URGENCIA": {
+        "Notas": [
+          8.71
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.71,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 8.71
+      },
+      "PEC1003 - ATELIÊ ARTICULADOR DE SABERES II": {
+        "Notas": [
+          9.78,
+          9.91
+        ],
+        "Desvios": [
+          1.3,
+          0.77
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.844999999999999,
+        "MediaDeDesvios": 1.0350000000000001,
+        "NotaMediana": 9.91
+      },
+      "DEF0636 - EDUCACAO FISICA NO ENSINO FUNDAMENTAL": {
+        "Notas": [
+          9.65,
+          9.68
+        ],
+        "Desvios": [
+          1.29,
+          1.11
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.665,
+        "MediaDeDesvios": 1.2000000000000002,
+        "NotaMediana": 9.68
+      },
+      "DEF0084 - PEDAGOGIA DO MOVIMENTO": {
+        "Notas": [
+          9.73,
+          9.75
+        ],
+        "Desvios": [
+          1.44,
+          1.27
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.355,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.3102955580302966,
+    "MediaDeNotas": 9.700000000000001,
+    "MediaDeDesvios": 1.1308333333333331,
+    "NotaMediana": 9.78
+  },
+  "MARIA ISABEL BRANDAO DE SOUZA MENDES": {
+    "Notas": [
+      9.47,
+      9.49,
+      9.5,
+      9.57,
+      9.62,
+      9.63,
+      9.65
+    ],
+    "Desvios": [
+      1.2,
+      1.23,
+      1.78,
+      1.01,
+      1.54,
+      1.32,
+      1.2
+    ],
+    "Componentes": {
+      "DEF0066 - CORPO E CULTURA DE MOVIMENTO": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.63
+      },
+      "DEF0063 - EPISTEMOLOGIA E EDUCACAO FISICA": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.62
+      },
+      "DEF0630 - ESTAGIO SUPERVISIONADO I": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.65
+      },
+      "DEF0631 - ESTAGIO SUPERVISIONADO II": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.01,
+        "NotaMediana": 9.57
+      },
+      "DEF0152 - CULTURA POPULAR": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.47
+      },
+      "DEF0656 - HISTORIA DA EDUCACAO FISICA": {
+        "Notas": [
+          9.49,
+          9.5
+        ],
+        "Desvios": [
+          1.32,
+          1.2
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.495000000000001,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.5
+      }
+    },
+    "DesvioDeNotas": 0.0689572479208409,
+    "MediaDeNotas": 9.561428571428573,
+    "MediaDeDesvios": 1.3257142857142856,
+    "NotaMediana": 9.57
+  },
+  "MICHELLE VASCONCELOS DE OLIVEIRA BORGES": {
+    "Notas": [
+      8.31,
+      8.88,
+      8.91,
+      9.28,
+      9.52
+    ],
+    "Desvios": [
+      1.83,
+      1.66,
+      1.96,
+      1.53,
+      1.09
+    ],
+    "Componentes": {
+      "DEF0036 - APRENDIZAGEM MOTORA": {
+        "Notas": [
+          8.91
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.91,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 8.91
+      },
+      "DEF0037 - BIOMECANICA": {
+        "Notas": [
+          8.88
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.88,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 8.88
+      },
+      "DEF0085 - COMPORTAMENTO MOTOR I": {
+        "Notas": [
+          8.31
+        ],
+        "Desvios": [
+          1.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.31,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 8.31
+      },
+      "DEF0086 - COMPORTAMENTO MOTOR II": {
+        "Notas": [
+          9.28
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.28,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.28
+      },
+      "DEF0071 - METODOLOGIA DA NATACAO": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.411193385160802,
+    "MediaDeNotas": 8.98,
+    "MediaDeDesvios": 1.614,
+    "NotaMediana": 8.91
+  },
+  "PATRICK RAMON STAFIN COQUEREL": {
+    "Notas": [
+      9.55,
+      9.57,
+      9.57,
+      9.73,
+      9.77,
+      9.78,
+      9.8,
+      9.82
+    ],
+    "Desvios": [
+      1.03,
+      1.04,
+      1.9,
+      1.28,
+      1.31,
+      1.33,
+      1.08,
+      1.38
+    ],
+    "Componentes": {
+      "DEF0068 - ADMINISTRACAO E LEGISLACAO DA ED. FISICA E DOS ESPORTES": {
+        "Notas": [
+          9.57,
+          9.57,
+          9.73,
+          9.82
+        ],
+        "Desvios": [
+          1.03,
+          1.04,
+          1.28,
+          1.31
+        ],
+        "DesvioDeNotas": 0.10732543966832843,
+        "MediaDeNotas": 9.6725,
+        "MediaDeDesvios": 1.165,
+        "NotaMediana": 9.73
+      },
+      "DEF0220 - PSICOMOTRICIDADE": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.8
+      },
+      "DEF0651 - ATIVIDADE FISICA, LAZER E CULTURA": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.78
+      },
+      "DEF0650 - ATIVIDADE FISICA, SAUDE E QUALIDADE DE VIDA": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.77
+      },
+      "DEF0640 - METODOLOGIA DA PESQUISA": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.10775406024832646,
+    "MediaDeNotas": 9.69875,
+    "MediaDeDesvios": 1.2937500000000002,
+    "NotaMediana": 9.77
+  },
+  "PAULO MOREIRA SILVA DANTAS": {
+    "Notas": [
+      8.53,
+      8.7,
+      9.06,
+      9.11,
+      9.25,
+      9.5,
+      9.5,
+      9.81,
+      9.89
+    ],
+    "Desvios": [
+      2.21,
+      1.73,
+      1.13,
+      0.89,
+      1.35,
+      1.44,
+      0.97,
+      0.98,
+      1.34
+    ],
+    "Componentes": {
+      "DEF0031 - PEDAGOGIA DOS ESPORTES": {
+        "Notas": [
+          8.53
+        ],
+        "Desvios": [
+          2.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.53,
+        "MediaDeDesvios": 2.21,
+        "NotaMediana": 8.53
+      },
+      "DEF0043 - PRATICAS CORPORAIS EM ACADEMIA": {
+        "Notas": [
+          9.06,
+          9.11,
+          9.25
+        ],
+        "Desvios": [
+          1.73,
+          1.13,
+          1.35
+        ],
+        "DesvioDeNotas": 0.0804155872120987,
+        "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 1.4033333333333333,
+        "NotaMediana": 9.11
+      },
+      "DEF0037 - BIOMECANICA": {
+        "Notas": [
+          8.7,
+          9.5
+        ],
+        "Desvios": [
+          0.89,
+          1.44
+        ],
+        "DesvioDeNotas": 0.40000000000000036,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 1.165,
+        "NotaMediana": 9.5
+      },
+      "DEF0025 - ESTÁGIO SUPERVISIONADO I": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          0.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 0.97,
+        "NotaMediana": 9.81
+      },
+      "DEF8085 - OFICINA DE DOCÊNCIA - MÓDULO II (ATIVIDADES ACADÊMICAS COMPLEMENTARES)": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.89
+      },
+      "DEF1022 - TREINAMENTO ESPORTIVO APLICADO À EDUCAÇÃO FÍSICA ESCOLAR": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.5
+      }
+    },
+    "DesvioDeNotas": 0.4376311091025423,
+    "MediaDeNotas": 9.261111111111113,
+    "MediaDeDesvios": 1.337777777777778,
+    "NotaMediana": 9.25
+  },
+  "PRISCILLA PINTO COSTA DA SILVA": {
+    "Notas": [
+      9.31,
+      9.53,
+      9.57,
+      9.66,
+      9.7,
+      9.71,
+      9.74,
+      9.77,
+      9.83
+    ],
+    "Desvios": [
+      1.59,
+      1.56,
+      1.59,
+      1.84,
+      1.24,
+      1.27,
+      1.97,
+      1.12,
+      0.71
+    ],
+    "Componentes": {
+      "DEF0058 - LAZER, EDUCACAO E DESENVOLVIMENTO HUMANO": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.71
+      },
+      "DSC0090 - SAUDE E CIDADANIA": {
+        "Notas": [
+          9.57,
+          9.66,
+          9.77,
+          9.83
+        ],
+        "Desvios": [
+          1.56,
+          1.84,
+          1.97,
+          0.71
+        ],
+        "DesvioDeNotas": 0.10009370609583786,
+        "MediaDeNotas": 9.7075,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.77
+      },
+      "DEF0064 - EDUCACAO PARA A SAUDE": {
+        "Notas": [
+          9.53,
+          9.7,
+          9.74
+        ],
+        "Desvios": [
+          1.59,
+          1.24,
+          1.12
+        ],
+        "DesvioDeNotas": 0.09104333522498467,
+        "MediaDeNotas": 9.656666666666666,
+        "MediaDeDesvios": 1.3166666666666667,
+        "NotaMediana": 9.7
+      },
+      "DEF0632 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.31
+      }
+    },
+    "DesvioDeNotas": 0.148099065943487,
+    "MediaDeNotas": 9.646666666666667,
+    "MediaDeDesvios": 1.4322222222222223,
+    "NotaMediana": 9.7
+  },
+  "RAFAEL DE GOIS TINOCO": {
+    "Notas": [
+      9.4,
+      9.49,
+      9.52,
+      9.52,
+      9.52,
+      9.53,
+      9.56,
+      9.6,
+      9.64,
+      9.66,
+      9.71,
+      9.74,
+      9.75,
+      9.78,
+      9.92,
+      9.97
+    ],
+    "Desvios": [
+      1.44,
+      1.19,
+      1.59,
+      1.23,
+      1.68,
+      1.21,
+      1.04,
+      1.25,
+      1.27,
+      1.45,
+      1.28,
+      0.75,
+      0.61,
+      0.75,
+      0.39,
+      1
+    ],
+    "Componentes": {
+      "DEF0648 - DIDATICA DA EDUCACAO FISICA": {
+        "Notas": [
+          9.52,
+          9.53
+        ],
+        "Desvios": [
+          1.44,
+          1.45
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.524999999999999,
+        "MediaDeDesvios": 1.4449999999999998,
+        "NotaMediana": 9.53
+      },
+      "DEF0700 - EDUCACAO FISICA NO ENSINO INFANTIL": {
+        "Notas": [
+          9.4,
+          9.75
+        ],
+        "Desvios": [
+          1.19,
+          1.28
+        ],
+        "DesvioDeNotas": 0.17499999999999982,
+        "MediaDeNotas": 9.575,
+        "MediaDeDesvios": 1.2349999999999999,
+        "NotaMediana": 9.75
+      },
+      "DEF0084 - PEDAGOGIA DO MOVIMENTO": {
+        "Notas": [
+          9.52,
+          9.64
+        ],
+        "Desvios": [
+          1.59,
+          1.23
+        ],
+        "DesvioDeNotas": 0.0600000000000005,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.4100000000000001,
+        "NotaMediana": 9.64
+      },
+      "DEF0633 - ESTAGIO SUPERVISIONADO IV": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.56
+      },
+      "DEF0053 - METODOLOGIA DO BASQUETEBOL": {
+        "Notas": [
+          9.6,
+          9.78
+        ],
+        "Desvios": [
+          1.21,
+          1
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.105,
+        "NotaMediana": 9.78
+      },
+      "DEF0046 - METODOLOGIA DO VOLEIBOL": {
+        "Notas": [
+          9.66,
+          9.92
+        ],
+        "Desvios": [
+          1.04,
+          0.75
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 0.895,
+        "NotaMediana": 9.92
+      },
+      "DEF0031 - PEDAGOGIA DOS ESPORTES": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.49
+      },
+      "DEF0062 - CONSCIENCIA CORPORAL": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.52
+      },
+      "DEF0069 - EDUCACAO FISICA E PROJETO PEDAGOGICO": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          0.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 0.61,
+        "NotaMediana": 9.71
+      },
+      "DEF0631 - ESTAGIO SUPERVISIONADO II": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          0.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 0.75,
+        "NotaMediana": 9.74
+      },
+      "DEF0734 - INTRODUÇÃO AO TRABALHO DE CONCLUSÃO DE CURO": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          0.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 0.39,
+        "NotaMediana": 9.97
+      }
+    },
+    "DesvioDeNotas": 0.15358095381589487,
+    "MediaDeNotas": 9.644375,
+    "MediaDeDesvios": 1.1331249999999997,
+    "NotaMediana": 9.64
+  },
+  "RAIMUNDO NONATO NUNES": {
+    "Notas": [
+      10,
+      6.53,
+      7.03,
+      7.69,
+      7.93,
+      8.1,
+      8.48,
+      8.62,
+      8.88,
+      9,
+      9.26
+    ],
+    "Desvios": [
+      3.37,
+      3.5,
+      3,
+      1.67,
+      0,
+      1.58,
+      2.55,
+      2.87,
+      1.75,
+      1.87,
+      1.9
+    ],
+    "Componentes": {
+      "DEF0651 - ATIVIDADE FISICA, LAZER E CULTURA": {
+        "Notas": [
+          6.53,
+          7.03,
+          8.48,
+          9,
+          9.26
+        ],
+        "Desvios": [
+          3.37,
+          3.5,
+          1.67,
+          2.55,
+          1.75
+        ],
+        "DesvioDeNotas": 1.0864437399147735,
+        "MediaDeNotas": 8.059999999999999,
+        "MediaDeDesvios": 2.568,
+        "NotaMediana": 8.48
+      },
+      "DEF0650 - ATIVIDADE FISICA, SAUDE E QUALIDADE DE VIDA": {
+        "Notas": [
+          10,
+          7.69,
+          7.93,
+          8.62
+        ],
+        "Desvios": [
+          3,
+          0,
+          2.87,
+          1.87
+        ],
+        "DesvioDeNotas": 0.8987491307367145,
+        "MediaDeNotas": 8.56,
+        "MediaDeDesvios": 1.935,
+        "NotaMediana": 7.93
+      },
+      "DEF0051 - METODOLOGIA DO FUTSAL": {
+        "Notas": [
+          8.1,
+          8.88
+        ],
+        "Desvios": [
+          1.58,
+          1.9
+        ],
+        "DesvioDeNotas": 0.39000000000000057,
+        "MediaDeNotas": 8.49,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 8.88
+      }
+    },
+    "DesvioDeNotas": 0.9564707855634502,
+    "MediaDeNotas": 8.32,
+    "MediaDeDesvios": 2.1872727272727275,
+    "NotaMediana": 8.1
+  },
+  "RITA LUZIA DE SOUZA SANTOS": {
+    "Notas": [
+      6.38,
+      8.67,
+      8.85,
+      9.03,
+      9.2,
+      9.23,
+      9.3,
+      9.46,
+      9.63,
+      9.88
+    ],
+    "Desvios": [
+      1.31,
+      1,
+      1.07,
+      2.01,
+      2.17,
+      1.74,
+      3.34,
+      1.69,
+      1.24,
+      1.21
+    ],
+    "Componentes": {
+      "DEF0631 - ESTAGIO SUPERVISIONADO II": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.88
+      },
+      "DEF0038 - METODOLOGIAS RECREATIVAS": {
+        "Notas": [
+          8.85,
+          9.03,
+          9.2,
+          9.3
+        ],
+        "Desvios": [
+          1,
+          2.01,
+          1.69,
+          1.21
+        ],
+        "DesvioDeNotas": 0.1712454378954374,
+        "MediaDeNotas": 9.094999999999999,
+        "MediaDeDesvios": 1.4774999999999998,
+        "NotaMediana": 9.2
+      },
+      "DEF0152 - CULTURA POPULAR": {
+        "Notas": [
+          8.67,
+          9.46,
+          9.63
+        ],
+        "Desvios": [
+          1.07,
+          2.17,
+          1.24
+        ],
+        "DesvioDeNotas": 0.4182768886223047,
+        "MediaDeNotas": 9.253333333333336,
+        "MediaDeDesvios": 1.4933333333333334,
+        "NotaMediana": 9.46
+      },
+      "DEF0630 - ESTAGIO SUPERVISIONADO I": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.23
+      },
+      "DEF0632 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          6.38
+        ],
+        "Desvios": [
+          3.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.38,
+        "MediaDeDesvios": 3.34,
+        "NotaMediana": 6.38
+      }
+    },
+    "DesvioDeNotas": 0.9245977503758056,
+    "MediaDeNotas": 8.963000000000001,
+    "MediaDeDesvios": 1.6779999999999997,
+    "NotaMediana": 9.23
+  },
+  "ROMILSON DE LIMA NUNES": {
+    "Notas": [
+      7.65,
+      7.67,
+      7.98,
+      8.19,
+      8.31,
+      8.52,
+      8.52,
+      8.66,
+      8.71,
+      8.9,
+      8.94,
+      8.95,
+      9.32,
+      9.34,
+      9.37,
+      9.38,
+      9.43,
+      9.51
+    ],
+    "Desvios": [
+      2.88,
+      2.38,
+      1.89,
+      1.97,
+      1.98,
+      2.89,
+      1.99,
+      2.07,
+      1.92,
+      1.76,
+      1.45,
+      1.56,
+      1.97,
+      1.65,
+      1.72,
+      1.7,
+      2.07,
+      1.03
+    ],
+    "Componentes": {
+      "DEF0651 - ATIVIDADE FISICA, LAZER E CULTURA": {
+        "Notas": [
+          7.65,
+          8.19,
+          8.52,
+          8.94,
+          8.95,
+          9.32,
+          9.38
+        ],
+        "Desvios": [
+          2.88,
+          2.38,
+          1.98,
+          1.92,
+          1.76,
+          1.65,
+          1.72
+        ],
+        "DesvioDeNotas": 0.580829807522068,
+        "MediaDeNotas": 8.707142857142857,
+        "MediaDeDesvios": 2.0414285714285714,
+        "NotaMediana": 8.94
+      },
+      "DEF0650 - ATIVIDADE FISICA, SAUDE E QUALIDADE DE VIDA": {
+        "Notas": [
+          7.67,
+          7.98,
+          8.71,
+          8.9,
+          9.34,
+          9.37,
+          9.43
+        ],
+        "Desvios": [
+          1.89,
+          2.89,
+          1.99,
+          1.45,
+          1.56,
+          1.7,
+          2.07
+        ],
+        "DesvioDeNotas": 0.6519296318606471,
+        "MediaDeNotas": 8.771428571428572,
+        "MediaDeDesvios": 1.9357142857142857,
+        "NotaMediana": 8.9
+      },
+      "DEF0054 - METODOLOGIA DO ATLETISMO": {
+        "Notas": [
+          8.52
+        ],
+        "Desvios": [
+          1.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.52,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 8.52
+      },
+      "DEF0025 - ESTÁGIO SUPERVISIONADO I": {
+        "Notas": [
+          8.31
+        ],
+        "Desvios": [
+          2.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.31,
+        "MediaDeDesvios": 2.07,
+        "NotaMediana": 8.31
+      },
+      "DEF0028 - ESTÁGIO SUPERVISIONADO IV": {
+        "Notas": [
+          8.66
+        ],
+        "Desvios": [
+          1.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.66,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 8.66
+      },
+      "DEF0027 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.03,
+        "NotaMediana": 9.51
+      }
+    },
+    "DesvioDeNotas": 0.5861195365376513,
+    "MediaDeNotas": 8.741666666666665,
+    "MediaDeDesvios": 1.9377777777777776,
+    "NotaMediana": 8.9
+  },
+  "ROSIE MARIE NASCIMENTO DE MEDEIROS": {
+    "Notas": [
+      9.01,
+      9.7,
+      9.7,
+      9.7,
+      9.84,
+      9.89
+    ],
+    "Desvios": [
+      0.99,
+      1.42,
+      1.2,
+      1.28,
+      1.21,
+      1.3
+    ],
+    "Componentes": {
+      "DEF0040 - TECNICAS DE DANCA": {
+        "Notas": [
+          9.7,
+          9.89
+        ],
+        "Desvios": [
+          0.99,
+          1.28
+        ],
+        "DesvioDeNotas": 0.09500000000000064,
+        "MediaDeNotas": 9.795,
+        "MediaDeDesvios": 1.135,
+        "NotaMediana": 9.89
+      },
+      "DEF0631 - ESTAGIO SUPERVISIONADO II": {
+        "Notas": [
+          9.01
+        ],
+        "Desvios": [
+          1.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.01,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.01
+      },
+      "DEF0030 - METODOLOGIA DA DANCA": {
+        "Notas": [
+          9.7,
+          9.84
+        ],
+        "Desvios": [
+          1.2,
+          1.3
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.84
+      },
+      "DEF0632 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.29160475533388236,
+    "MediaDeNotas": 9.64,
+    "MediaDeDesvios": 1.2333333333333334,
+    "NotaMediana": 9.7
+  },
+  "THAIS REIS SILVA DE PAULO": {
+    "Notas": [
+      9.52,
+      9.66,
+      9.82,
+      9.91,
+      9.97
+    ],
+    "Desvios": [
+      1.34,
+      1.06,
+      1,
+      1.33,
+      1.28
+    ],
+    "Componentes": {
+      "DEF0064 - EDUCACAO PARA A SAUDE": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.52
+      },
+      "DEF0030 - METODOLOGIA DA DANCA": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          1.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 1.06,
+        "NotaMediana": 9.97
+      },
+      "DEF0032 - METODOLOGIA DA GINASTICA": {
+        "Notas": [
+          9.66,
+          9.82,
+          9.91
+        ],
+        "Desvios": [
+          1,
+          1.33,
+          1.28
+        ],
+        "DesvioDeNotas": 0.10338708279513882,
+        "MediaDeNotas": 9.796666666666667,
+        "MediaDeDesvios": 1.2033333333333334,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.16523922052587908,
+    "MediaDeNotas": 9.776,
+    "MediaDeDesvios": 1.2020000000000002,
+    "NotaMediana": 9.82
+  },
+  "VERA LUCIA BRUCH": {
+    "Notas": [
+      9,
+      9.77,
+      9.84,
+      9.91
+    ],
+    "Desvios": [
+      1.81,
+      1.22,
+      1.67,
+      1.23
+    ],
+    "Componentes": {
+      "DEF0651 - ATIVIDADE FISICA, LAZER E CULTURA": {
+        "Notas": [
+          9,
+          9.77
+        ],
+        "Desvios": [
+          1.81,
+          1.22
+        ],
+        "DesvioDeNotas": 0.3849999999999998,
+        "MediaDeNotas": 9.385,
+        "MediaDeDesvios": 1.5150000000000001,
+        "NotaMediana": 9.77
+      },
+      "DEF0650 - ATIVIDADE FISICA, SAUDE E QUALIDADE DE VIDA": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.91
+      },
+      "DEF0050 - METODOLOGIA DO HANDEBOL": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.36708309685955304,
+    "MediaDeNotas": 9.629999999999999,
+    "MediaDeDesvios": 1.4825,
+    "NotaMediana": 9.84
+  },
+  "JÔNATAS DE FRANÇA BARROS": {
+    "Notas": [
+      8.95,
+      9.43,
+      9.64,
+      9.65,
+      9.93
+    ],
+    "Desvios": [
+      1.12,
+      1.42,
+      2.08,
+      1.08,
+      1.07
+    ],
+    "Componentes": {
+      "DEF0028 - ESTÁGIO SUPERVISIONADO IV": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          1.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.12,
+        "NotaMediana": 9.93
+      },
+      "DEF0050 - METODOLOGIA DO HANDEBOL": {
+        "Notas": [
+          9.43,
+          9.64
+        ],
+        "Desvios": [
+          1.42,
+          1.07
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.535,
+        "MediaDeDesvios": 1.245,
+        "NotaMediana": 9.64
+      },
+      "DEF0640 - METODOLOGIA DA PESQUISA": {
+        "Notas": [
+          8.95,
+          9.65
+        ],
+        "Desvios": [
+          2.08,
+          1.08
+        ],
+        "DesvioDeNotas": 0.35000000000000053,
+        "MediaDeNotas": 9.3,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.32631273343220946,
+    "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.354,
+    "NotaMediana": 9.64
+  },
+  "TEREZINHA PETRUCIA DA NOBREGA": {
+    "Notas": [
+      9.54
+    ],
+    "Desvios": [
+      1.67
+    ],
+    "Componentes": {
+      "DEF0062 - CONSCIENCIA CORPORAL": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.54
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.67,
+    "NotaMediana": 9.54
+  },
+  "AGUINALDO CESAR SURDI": {
+    "Notas": [
+      9.47,
+      9.5,
+      9.82
+    ],
+    "Desvios": [
+      1.65,
+      0.76,
+      1.34
+    ],
+    "Componentes": {
+      "DEF0500 - METODOLOGIA DO JOGO": {
+        "Notas": [
+          9.5,
+          9.82
+        ],
+        "Desvios": [
+          1.65,
+          0.76
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.205,
+        "NotaMediana": 9.82
+      },
+      "DEF8045 - METODOLOGIA DOS ESPORTES AQUATICOS": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.47
+      }
+    },
+    "DesvioDeNotas": 0.15839472494022291,
+    "MediaDeNotas": 9.596666666666666,
+    "MediaDeDesvios": 1.25,
+    "NotaMediana": 9.5
+  },
+  "CHENG HSIN NERY CHAO": {
+    "Notas": [
+      9.28,
+      9.51,
+      9.52,
+      9.91
+    ],
+    "Desvios": [
+      1.37,
+      1.12,
+      0.55,
+      1.67
+    ],
+    "Componentes": {
+      "DEF0034 - ECOTURISMO E EDUCACAO": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.52
+      },
+      "DEF0058 - LAZER, EDUCACAO E DESENVOLVIMENTO HUMANO": {
+        "Notas": [
+          9.28,
+          9.51
+        ],
+        "Desvios": [
+          1.12,
+          1.67
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.395,
+        "MediaDeDesvios": 1.395,
+        "NotaMediana": 9.51
+      },
+      "DEF0027 - ESTAGIO SUPERVISIONADO III": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          0.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 0.55,
+        "NotaMediana": 9.91
+      }
+    },
+    "DesvioDeNotas": 0.22632940595512577,
+    "MediaDeNotas": 9.555,
+    "MediaDeDesvios": 1.1775,
+    "NotaMediana": 9.52
+  },
+  "EDUARDO BODNARIUC FONTES": {
+    "Notas": [
+      8.8,
+      8.97,
+      9.04,
+      9.22,
+      9.53
+    ],
+    "Desvios": [
+      1.97,
+      1.94,
+      1.4,
+      1.57,
+      1.74
+    ],
+    "Componentes": {
+      "DEF0064 - EDUCACAO PARA A SAUDE": {
+        "Notas": [
+          8.97
+        ],
+        "Desvios": [
+          1.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.97,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 8.97
+      },
+      "DEF0031 - PEDAGOGIA DOS ESPORTES": {
+        "Notas": [
+          8.8,
+          9.22
+        ],
+        "Desvios": [
+          1.94,
+          1.74
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.010000000000002,
+        "MediaDeDesvios": 1.8399999999999999,
+        "NotaMediana": 9.22
+      },
+      "DEF0640 - METODOLOGIA DA PESQUISA": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.4,
+        "NotaMediana": 9.53
+      },
+      "DEF8085 - OFICINA DE DOCÊNCIA - MÓDULO II (ATIVIDADES ACADÊMICAS COMPLEMENTARES)": {
+        "Notas": [
+          9.04
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.04
+      }
+    },
+    "DesvioDeNotas": 0.24862823652996419,
+    "MediaDeNotas": 9.112,
+    "MediaDeDesvios": 1.7240000000000002,
+    "NotaMediana": 9.04
+  },
+  "MARGARETH DE VASCONCELOS MONTEIRO": {
+    "Notas": [
+      6.66,
+      8.07,
+      8.79,
+      8.87,
+      9.21,
+      9.29,
+      9.49
+    ],
+    "Desvios": [
+      1.68,
+      1.54,
+      2.43,
+      1.89,
+      1.47,
+      1.93,
+      2.81
+    ],
+    "Componentes": {
+      "DEF0036 - APRENDIZAGEM MOTORA": {
+        "Notas": [
+          8.87,
+          9.21
+        ],
+        "Desvios": [
+          1.68,
+          1.47
+        ],
+        "DesvioDeNotas": 0.17000000000000082,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 1.575,
+        "NotaMediana": 9.21
+      },
+      "DEF0085 - COMPORTAMENTO MOTOR I": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.29
+      },
+      "DEF0025 - ESTÁGIO SUPERVISIONADO I": {
+        "Notas": [
+          8.07
+        ],
+        "Desvios": [
+          2.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.07,
+        "MediaDeDesvios": 2.43,
+        "NotaMediana": 8.07
+      },
+      "DEF0038 - METODOLOGIAS RECREATIVAS": {
+        "Notas": [
+          8.79
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.79,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 8.79
+      },
+      "DEF0077 - CAPOEIRA": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.49
+      },
+      "DEF0151 - DESENVOLVIMENTO MOTOR": {
+        "Notas": [
+          6.66
+        ],
+        "Desvios": [
+          2.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.66,
+        "MediaDeDesvios": 2.81,
+        "NotaMediana": 6.66
+      }
+    },
+    "DesvioDeNotas": 0.909408868329267,
+    "MediaDeNotas": 8.625714285714285,
+    "MediaDeDesvios": 1.9642857142857142,
+    "NotaMediana": 8.87
+  },
+  "ALLYSON CARVALHO DE ARAUJO": {
+    "Notas": [
+      9.22,
+      9.55,
+      9.76
+    ],
+    "Desvios": [
+      1.43,
+      1.51,
+      0.84
+    ],
+    "Componentes": {
+      "DEF0631 - ESTAGIO SUPERVISIONADO II": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.22
+      },
+      "DEF0073 - MÍDIA, TECNOLOGIA E EDUCAÇÃO FÍSICA": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.55
+      },
+      "DEF0039 - TOPICOS ESPECIAIS EM EDUCACAO FISICA, ESPORTES E LAZER": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          0.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 0.84,
+        "NotaMediana": 9.76
+      }
+    },
+    "DesvioDeNotas": 0.22226110770892837,
+    "MediaDeNotas": 9.51,
+    "MediaDeDesvios": 1.26,
+    "NotaMediana": 9.55
+  },
+  "KALINA VERUSKA DA SILVA BEZERRA MASSET": {
+    "Notas": [
+      9.01,
+      9.09,
+      9.76
+    ],
+    "Desvios": [
+      1.69,
+      1.52,
+      1.51
+    ],
+    "Componentes": {
+      "DEF0026 - ESTAGIO SUPERVISIONADO IÍ": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.76
+      },
+      "DEF0032 - METODOLOGIA DA GINASTICA": {
+        "Notas": [
+          9.01,
+          9.09
+        ],
+        "Desvios": [
+          1.52,
+          1.51
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 1.5150000000000001,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 0.336286914537109,
+    "MediaDeNotas": 9.286666666666667,
+    "MediaDeDesvios": 1.5733333333333333,
+    "NotaMediana": 9.09
+  }
+}

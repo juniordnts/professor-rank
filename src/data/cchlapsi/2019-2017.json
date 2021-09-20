@@ -1,0 +1,2855 @@
+[
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0100 - PSICOLOGIA APLICADA A CIENCIAS CONTABEIS",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "47",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0100 - PSICOLOGIA APLICADA A CIENCIAS CONTABEIS",
+        "Turma": "2",
+        "Horário": "26N34",
+        "Discentes": "28",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0095 - PSICOLOGIA E PROCESSOS PSICOSSOMÁTICOS",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "50",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0095 - PSICOLOGIA E PROCESSOS PSICOSSOMÁTICOS",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "19",
+        "Média Geral": "8.56",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "ANA CAROLINA RIOS SIMONI",
+        "Componente Curricular": "PSI0270 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "1",
+        "Horário": "2M2345 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.57"
+    },
+    {
+        "Docente": "ANA CAROLINA RIOS SIMONI",
+        "Componente Curricular": "PSI0170 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "5",
+        "Horário": "2T3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "ANA CAROLINA RIOS SIMONI",
+        "Componente Curricular": "PSI7552 - INFANCIA E ADOLESCENCIA NO CONTEXTO DA SAUDE",
+        "Turma": "1",
+        "Horário": "6T123 (11/02/2019 - 21/06/2019)",
+        "Discentes": "38",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "ANA CAROLINA RIOS SIMONI",
+        "Componente Curricular": "PSI0967 - TOPICOS EM ANALISE INSTITUCIONAL I",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "44",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI0270 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "1",
+        "Horário": "2M2345 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.57"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI0107 - ESTÁGIO III DA ENFASE II",
+        "Turma": "1",
+        "Horário": "5T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.28"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI7031 - INTRODUÇÃO À PSICOPATOLOGIA",
+        "Turma": "1",
+        "Horário": "4T23456",
+        "Discentes": "47",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI0124 - SEMINÁRIO DE INTEGRAÇÃO I",
+        "Turma": "2",
+        "Horário": "2T12 (11/02/2019 - 17/06/2019)",
+        "Discentes": "20",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "ANA KARINA SILVA AZEVEDO",
+        "Componente Curricular": "PSI0106 - ESTAGIO III DA ENFASE I",
+        "Turma": "7",
+        "Horário": "4T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "6",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "ANA KARINA SILVA AZEVEDO",
+        "Componente Curricular": "PSI0170 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "2",
+        "Horário": "2T3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "ANA KARINA SILVA AZEVEDO",
+        "Componente Curricular": "PSI0174 - INTERVENÇÕES EM PSICOLOGIA CLÍNICA",
+        "Turma": "1",
+        "Horário": "3T123 (11/02/2019 - 18/06/2019)",
+        "Discentes": "33",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI0088 - PSICOLOGIA APLICADA AO SERVICO SOCIAL",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "40",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI0089 - PSICOLOGIA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI0981 - PSICOLOGIA SOCIAL E COMUNICACAO",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "47",
+        "Média Geral": "8.39",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI0981 - PSICOLOGIA SOCIAL E COMUNICACAO",
+        "Turma": "3",
+        "Horário": "2N12 4N34",
+        "Discentes": "25",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "CANDIDA MARIA BEZERRA DANTAS",
+        "Componente Curricular": "PSI7013 - HISTORIA DA PSICOLOGIA I",
+        "Turma": "1",
+        "Horário": "5T12",
+        "Discentes": "50",
+        "Média Geral": "8.14",
+        "Desvio Padrão Geral": "3.14"
+    },
+    {
+        "Docente": "CANDIDA MARIA BEZERRA DANTAS",
+        "Componente Curricular": "PSI0136 - PSICOLOGIA, GÊNERO E SEXUALIDADE",
+        "Turma": "1",
+        "Horário": "5M2345",
+        "Discentes": "19",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "CARMEM PLACIDA SOUSA CAVALCANTE",
+        "Componente Curricular": "PSI2005 - ESTÁGIO BÁSICO III",
+        "Turma": "1",
+        "Horário": "2T12 (11/02/2019 - 10/06/2019)",
+        "Discentes": "22",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "CARMEM PLACIDA SOUSA CAVALCANTE",
+        "Componente Curricular": "PSI7553 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXTO DA EDUCAÇÃO",
+        "Turma": "2",
+        "Horário": "4T1234 (11/02/2019 - 26/06/2019)",
+        "Discentes": "43",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "CARMEM PLACIDA SOUSA CAVALCANTE",
+        "Componente Curricular": "PSI7071 - PSICOLOGIA E ÉTICA",
+        "Turma": "1",
+        "Horário": "5T12",
+        "Discentes": "41",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "CARMEM PLACIDA SOUSA CAVALCANTE",
+        "Componente Curricular": "PSI0001 - PSICOLOGIA I - GERAL",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "42",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "CARMEM PLACIDA SOUSA CAVALCANTE",
+        "Componente Curricular": "PSI0981 - PSICOLOGIA SOCIAL E COMUNICACAO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "39",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI2001 - ESPAÇO INTEGRATIVO I",
+        "Turma": "1",
+        "Horário": "2T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "23",
+        "Média Geral": "7.88",
+        "Desvio Padrão Geral": "2.99"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI7037 - INTRODUÇÃO AO DESENVOLVIMENTO HUMANO",
+        "Turma": "1",
+        "Horário": "3T34 (11/02/2019 - 18/06/2019)",
+        "Discentes": "41",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI7551 - PISCOLOGIA DA INFANCIA E DA ADOLESCÊNCIA",
+        "Turma": "1",
+        "Horário": "2T56 3T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "44",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "CYNARA CARVALHO DE ABREU",
+        "Componente Curricular": "PSI0138 - PSICOLOGIA, GRUPOS E FENOMENOLOGIA",
+        "Turma": "1",
+        "Horário": "5M3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "11",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.45"
+    },
+    {
+        "Docente": "CYNARA CARVALHO DE ABREU",
+        "Componente Curricular": "PSI0126 - SEMINÁRIO DE INTEGRAÇÃO III",
+        "Turma": "2",
+        "Horário": "2T12 (11/02/2019 - 17/06/2019)",
+        "Discentes": "24",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI2003 - ESTÁGIO BÁSICO I",
+        "Turma": "1",
+        "Horário": "2T12 (11/02/2019 - 10/06/2019)",
+        "Discentes": "24",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI7033 - INTRODUÇÃO AOS PROCESSOS PSICOSSOCIOLÓGICOS E DE INTERAÇÃO SOCIAL",
+        "Turma": "1",
+        "Horário": "2T3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "46",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI3088 - TÉCNICAS DE DINÂMICA DE GRUPO",
+        "Turma": "1",
+        "Horário": "4M3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "12",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.6"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0044.0 - INICIAÇÃO AO EXAME CLÍNICO - TEÓRICA",
+        "Turma": "1",
+        "Horário": "5M5 6M345 (11/02/2019 - 29/06/2019)",
+        "Discentes": "52",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "45T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "6",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.67"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "45T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "6",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "4",
+        "Horário": "45T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "5",
+        "Horário": "45T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "6",
+        "Horário": "45T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "0.5"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "7",
+        "Horário": "45T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "8",
+        "Horário": "45T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.0 - PSIQUIATRIA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "5T34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "47",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0072.1 - SAÚDE MENTAL - PRÁTICA",
+        "Turma": "1",
+        "Horário": "5M34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "17",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "0.85"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0072.1 - SAÚDE MENTAL - PRÁTICA",
+        "Turma": "2",
+        "Horário": "5M34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "17",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0072.1 - SAÚDE MENTAL - PRÁTICA",
+        "Turma": "3",
+        "Horário": "5M34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "17",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0072.0 - SAÚDE MENTAL - TEÓRICA",
+        "Turma": "1",
+        "Horário": "5M2",
+        "Discentes": "51",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "EULALIA MARIA CHAVES MAIA",
+        "Componente Curricular": "PSI0170 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "6",
+        "Horário": "2T3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.51"
+    },
+    {
+        "Docente": "EULALIA MARIA CHAVES MAIA",
+        "Componente Curricular": "PSI3089 - PSICOLOGIA HOSPITALAR I",
+        "Turma": "1",
+        "Horário": "4M1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "13",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "PSI7014 - INTRODUÇÃO AO ESTUDO SUPERIOR",
+        "Turma": "1",
+        "Horário": "4T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "48",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "2.4"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "PSI7033 - INTRODUÇÃO AOS PROCESSOS PSICOSSOCIOLÓGICOS E DE INTERAÇÃO SOCIAL",
+        "Turma": "1",
+        "Horário": "2T3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "46",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "PSI0124 - SEMINÁRIO DE INTEGRAÇÃO I",
+        "Turma": "1",
+        "Horário": "2T12 (11/02/2019 - 17/06/2019)",
+        "Discentes": "20",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "PSI3004 - TÓPICOS DE PSICOOLOGIA ORGANIZACIONAL E DO TRABALHO I",
+        "Turma": "2",
+        "Horário": "5N12",
+        "Discentes": "21",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "GUILHERME PAIM MASCARENHAS",
+        "Componente Curricular": "PSI2005 - ESTÁGIO BÁSICO III",
+        "Turma": "2",
+        "Horário": "2T12 (11/02/2019 - 10/06/2019)",
+        "Discentes": "21",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "GUILHERME PAIM MASCARENHAS",
+        "Componente Curricular": "PSI0172 - MODALIDADES DE INTERVENÇÃO PSICOLÓGICA EM SAÚDE",
+        "Turma": "1",
+        "Horário": "3T456 (11/02/2019 - 18/06/2019)",
+        "Discentes": "35",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "GUILHERME PAIM MASCARENHAS",
+        "Componente Curricular": "PSI0086 - PSICOLOGIA APLICADA A ADMINISTRACAO I",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "35",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "GUILHERME PAIM MASCARENHAS",
+        "Componente Curricular": "PSI0098 - PSICOLOGIA E SAÚDE II",
+        "Turma": "01A",
+        "Horário": "2T45",
+        "Discentes": "17",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "GUILHERME PAIM MASCARENHAS",
+        "Componente Curricular": "PSI0003 - PSICOLOGIA III - PSICOLOGIA SOCIAL",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "29",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "GUILHERME PAIM MASCARENHAS",
+        "Componente Curricular": "PSI1273 - SAÚDE E CONTEXTOS SOCIAIS",
+        "Turma": "1",
+        "Horário": "5T345 (11/02/2019 - 29/06/2019)",
+        "Discentes": "40",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "HERCULANO RICARDO CAMPOS",
+        "Componente Curricular": "PSI7553 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXTO DA EDUCAÇÃO",
+        "Turma": "2",
+        "Horário": "4T1234 (11/02/2019 - 26/06/2019)",
+        "Discentes": "43",
+        "Média Geral": "6.89",
+        "Desvio Padrão Geral": "3.1"
+    },
+    {
+        "Docente": "ILANA LEMOS DE PAIVA",
+        "Componente Curricular": "PSI0107 - ESTÁGIO III DA ENFASE II",
+        "Turma": "1",
+        "Horário": "5T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.28"
+    },
+    {
+        "Docente": "ILANA LEMOS DE PAIVA",
+        "Componente Curricular": "PSI7057 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXO SÓCIO-COMUNITÁRIO",
+        "Turma": "1",
+        "Horário": "3T3456 (11/02/2019 - 18/06/2019)",
+        "Discentes": "42",
+        "Média Geral": "8.49",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "ILANA LEMOS DE PAIVA",
+        "Componente Curricular": "PSI0141 - PSICOLOGIA E DIREITOS HUMANOS",
+        "Turma": "1",
+        "Horário": "2N1234 (11/02/2019 - 15/04/2019)",
+        "Discentes": "32",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+        "Componente Curricular": "PSI7032 - INTRODUÇÃO AO CAMPO DA PSICOLOGIA COMO CIÊNCIA E PROFISSÃO",
+        "Turma": "1",
+        "Horário": "3T56",
+        "Discentes": "43",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "2.46"
+    },
+    {
+        "Docente": "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+        "Componente Curricular": "PSI3085 - TEMAS EM POLITICAS SOCIAIS A PRATICAS DO PSICOLOGO NOS AMBITOS DO SUS E SUAS",
+        "Turma": "1",
+        "Horário": "3N12 (11/02/2019 - 18/06/2019)",
+        "Discentes": "12",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "JADER FERREIRA LEITE",
+        "Componente Curricular": "PSI0086 - PSICOLOGIA APLICADA A ADMINISTRACAO I",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "35",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "JOAO CARLOS ALCHIERI",
+        "Componente Curricular": "PSI7052 - PROCESSOS DE AVALIAÇÃO PSICOLÓGICA NA INFÂNCIA E ADOLESCÊNCIA",
+        "Turma": "1",
+        "Horário": "5T123",
+        "Discentes": "45",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "JOAO CARLOS ALCHIERI",
+        "Componente Curricular": "PSI0097 - PSICOLOGIA E SAÚDE I",
+        "Turma": "1",
+        "Horário": "3T23",
+        "Discentes": "31",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "KATIE MORAES DE ALMONDES",
+        "Componente Curricular": "PSI0170 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "4",
+        "Horário": "2T3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "KATIE MORAES DE ALMONDES",
+        "Componente Curricular": "PSI0172 - MODALIDADES DE INTERVENÇÃO PSICOLÓGICA EM SAÚDE",
+        "Turma": "1",
+        "Horário": "3T456 (11/02/2019 - 18/06/2019)",
+        "Discentes": "35",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "KATIE MORAES DE ALMONDES",
+        "Componente Curricular": "PSI0128 - NEUROPSICOLOGIA DO ENVELHECIMENTO I",
+        "Turma": "1",
+        "Horário": "5M34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "28",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "LIETI COELHO LEAL",
+        "Componente Curricular": "PSI2001 - ESPAÇO INTEGRATIVO I",
+        "Turma": "1",
+        "Horário": "2T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "23",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "2.62"
+    },
+    {
+        "Docente": "LIETI COELHO LEAL",
+        "Componente Curricular": "PSI7037 - INTRODUÇÃO AO DESENVOLVIMENTO HUMANO",
+        "Turma": "1",
+        "Horário": "3T34 (11/02/2019 - 18/06/2019)",
+        "Discentes": "41",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "MARIA DA APRESENTACAO BARRETO",
+        "Componente Curricular": "PSI0271 - CONTEXTOS SOCIAIS DE APRENDIZAGEM",
+        "Turma": "1",
+        "Horário": "3T456 (11/02/2019 - 18/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "MARIA DA APRESENTACAO BARRETO",
+        "Componente Curricular": "PSI2001 - ESPAÇO INTEGRATIVO I",
+        "Turma": "2",
+        "Horário": "2T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "27",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "2.59"
+    },
+    {
+        "Docente": "MARLOS ALVES BEZERRA",
+        "Componente Curricular": "PSI7055 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXO DA CLÍNICA PSICOLÓGICA",
+        "Turma": "1",
+        "Horário": "5T456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "49",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "MARLOS ALVES BEZERRA",
+        "Componente Curricular": "PSI0174 - INTERVENÇÕES EM PSICOLOGIA CLÍNICA",
+        "Turma": "1",
+        "Horário": "3T123 (11/02/2019 - 18/06/2019)",
+        "Discentes": "33",
+        "Média Geral": "7.88",
+        "Desvio Padrão Geral": "2.63"
+    },
+    {
+        "Docente": "MARLOS ALVES BEZERRA",
+        "Componente Curricular": "PSI3080 - PSICOLOGIA TRANSPESSOAL II",
+        "Turma": "1",
+        "Horário": "3M2345 (11/02/2019 - 18/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "MARLOS ALVES BEZERRA",
+        "Componente Curricular": "PSI0126 - SEMINÁRIO DE INTEGRAÇÃO III",
+        "Turma": "1",
+        "Horário": "2T12 (11/02/2019 - 17/06/2019)",
+        "Discentes": "21",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "NEUCIANE GOMES DA SILVA",
+        "Componente Curricular": "PSI7031 - INTRODUÇÃO À PSICOPATOLOGIA",
+        "Turma": "1",
+        "Horário": "4T23456",
+        "Discentes": "47",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "NEUCIANE GOMES DA SILVA",
+        "Componente Curricular": "PSI3028 - TÓPICOS NA ABORDAGEM COGNITIVO-COMPORTAMENTAL I",
+        "Turma": "1",
+        "Horário": "3N12",
+        "Discentes": "17",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "PEDRO FERNANDO BENDASSOLLI",
+        "Componente Curricular": "PSI0272 - DESENVOLVIMENTO INSTITUCIONAL I",
+        "Turma": "1",
+        "Horário": "3T123 (11/02/2019 - 18/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "PEDRO FERNANDO BENDASSOLLI",
+        "Componente Curricular": "PSI0170 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "1",
+        "Horário": "4T3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.26"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI2003 - ESTÁGIO BÁSICO I",
+        "Turma": "2",
+        "Horário": "2T12 (11/02/2019 - 10/06/2019)",
+        "Discentes": "18",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "2.47"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI0986 - PSICOLOGIA APLICADA AO DIREITO",
+        "Turma": "1",
+        "Horário": "36M34",
+        "Discentes": "52",
+        "Média Geral": "7.45",
+        "Desvio Padrão Geral": "2.77"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI0986 - PSICOLOGIA APLICADA AO DIREITO",
+        "Turma": "2",
+        "Horário": "6N1234",
+        "Discentes": "30",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI0270 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "1",
+        "Horário": "2M2345 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.57"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI0107 - ESTÁGIO III DA ENFASE II",
+        "Turma": "1",
+        "Horário": "5T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.28"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI7036 - INTRODUÇÃO AOS METODOS DE PESQUISA",
+        "Turma": "1",
+        "Horário": "3T12 (11/02/2019 - 18/06/2019)",
+        "Discentes": "37",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI7058 - METODOS DE PESQUISA E ANALISE DE DADOS II",
+        "Turma": "1",
+        "Horário": "2T34 4T56",
+        "Discentes": "42",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI0142 - PSICOLOGIA E RELAÇÕES ÉTNICO-RACIAIS",
+        "Turma": "1",
+        "Horário": "2N1234 (22/04/2019 - 29/06/2019)",
+        "Discentes": "28",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI0106 - ESTAGIO III DA ENFASE I",
+        "Turma": "1",
+        "Horário": "3T3456 (11/02/2019 - 18/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.24"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI0106 - ESTAGIO III DA ENFASE I",
+        "Turma": "2",
+        "Horário": "5T3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.15"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0602 - INTRODUCAO A PSICANALISE",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "10",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI7024 - PSICANALISE",
+        "Turma": "1",
+        "Horário": "5T123 (30/07/2018 - 12/12/2018)",
+        "Discentes": "48",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0100 - PSICOLOGIA APLICADA A CIENCIAS CONTABEIS",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "47",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0089 - PSICOLOGIA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "28",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0095 - PSICOLOGIA E PROCESSOS PSICOSSOMÁTICOS",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "48",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "ANA CAROLINA RIOS SIMONI",
+        "Componente Curricular": "PSI2006 - ESTÁGIO BÁSICO IV",
+        "Turma": "2",
+        "Horário": "5T56 (30/07/2018 - 29/11/2018)",
+        "Discentes": "18",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "ANA CAROLINA RIOS SIMONI",
+        "Componente Curricular": "PSI7065 - IDADE ADULTA E ENVELHECIMENTO NO CONTEXTO DA CLÍNICA",
+        "Turma": "1",
+        "Horário": "2T234 (30/07/2018 - 26/11/2018)",
+        "Discentes": "42",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "ANA CAROLINA RIOS SIMONI",
+        "Componente Curricular": "PSI7044 - OS LUGARES DA CLÍNICA PSICOLÓGICA",
+        "Turma": "1",
+        "Horário": "4T56 6T12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "43",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "ANA CAROLINA RIOS SIMONI",
+        "Componente Curricular": "PSI0086 - PSICOLOGIA APLICADA A ADMINISTRACAO I",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "47",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI7070 - PERSPECTIVAS DOS PROCESSOS SAÚDE-DOENÇA",
+        "Turma": "1",
+        "Horário": "5T3456 (30/07/2018 - 06/12/2018)",
+        "Discentes": "44",
+        "Média Geral": "8.34",
+        "Desvio Padrão Geral": "2.38"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI0183 - SAÚDE MENTAL E A REFORMA PSIQUIÁTRICA NO BRASIL",
+        "Turma": "1",
+        "Horário": "2T123 (30/07/2018 - 26/11/2018)",
+        "Discentes": "35",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI3032 - TÓPICOS EM PSICOLOGIA E SAÚDE III",
+        "Turma": "2",
+        "Horário": "4M34",
+        "Discentes": "24",
+        "Média Geral": "8.81",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "ANA KARINA SILVA AZEVEDO",
+        "Componente Curricular": "PSI0180 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "3",
+        "Horário": "4T3456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.11"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI0086 - PSICOLOGIA APLICADA A ADMINISTRACAO I",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "50",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI0100 - PSICOLOGIA APLICADA A CIENCIAS CONTABEIS",
+        "Turma": "2",
+        "Horário": "26N34",
+        "Discentes": "29",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "2.69"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI0088 - PSICOLOGIA APLICADA AO SERVICO SOCIAL",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "42",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "CARMEM PLACIDA SOUSA CAVALCANTE",
+        "Componente Curricular": "PSI7084 - PERSPECTIVAS ATUAIS DA PSICOLOGIA",
+        "Turma": "1",
+        "Horário": "5T45 (30/07/2018 - 06/12/2018)",
+        "Discentes": "45",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "CARMEM PLACIDA SOUSA CAVALCANTE",
+        "Componente Curricular": "PSI0097 - PSICOLOGIA E SAÚDE I",
+        "Turma": "1",
+        "Horário": "3T23",
+        "Discentes": "22",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "CARMEM PLACIDA SOUSA CAVALCANTE",
+        "Componente Curricular": "PSI0098 - PSICOLOGIA E SAÚDE II",
+        "Turma": "01A",
+        "Horário": "2T45",
+        "Discentes": "20",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "CARMEM PLACIDA SOUSA CAVALCANTE",
+        "Componente Curricular": "PSI0981 - PSICOLOGIA SOCIAL E COMUNICACAO",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "41",
+        "Média Geral": "9.01",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI2004 - ESTÁGIO BÁSICO II",
+        "Turma": "1",
+        "Horário": "3T12 (30/07/2018 - 20/11/2018)",
+        "Discentes": "25",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI7023 - PSICOLOGIA COGNITIVA",
+        "Turma": "1",
+        "Horário": "3T456 (30/07/2018 - 27/11/2018)",
+        "Discentes": "43",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI0902 - TOPICOS EM PSICOLOGIA DO DESENVOLVIMENTO I",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "43",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI0902 - TOPICOS EM PSICOLOGIA DO DESENVOLVIMENTO I",
+        "Turma": "2",
+        "Horário": "7M1234",
+        "Discentes": "35",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "CYNARA CARVALHO DE ABREU",
+        "Componente Curricular": "PSI2002 - ESPAÇO INTEGRATIVO II",
+        "Turma": "2",
+        "Horário": "3T123 (30/07/2018 - 27/11/2018)",
+        "Discentes": "24",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI0283 - DESENVOLVIMENTO INSTITUCIONAL II",
+        "Turma": "1",
+        "Horário": "2T456 (30/07/2018 - 26/11/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI7663 - DINAMICA DE GRUPO",
+        "Turma": "1",
+        "Horário": "5T234 (30/07/2018 - 06/12/2018)",
+        "Discentes": "37",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0044.0 - INICIAÇÃO AO EXAME CLÍNICO - TEÓRICA",
+        "Turma": "1",
+        "Horário": "5M5 6M345 (30/07/2018 - 22/12/2018)",
+        "Discentes": "56",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0059 - INTERNATO EM CLÍNICA MÉDICA III",
+        "Turma": "3",
+        "Horário": "23456M123456 23456T1234 (20/08/2018 - 09/09/2018)",
+        "Discentes": "5",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "45T12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "45T12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "45T12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "4",
+        "Horário": "45T12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.15"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "5",
+        "Horário": "45T12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.29"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "6",
+        "Horário": "45T12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "7",
+        "Horário": "45T12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "8",
+        "Horário": "45T12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.1 - PSIQUIATRIA - PRÁTICA",
+        "Turma": "9",
+        "Horário": "45T12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.14"
+    },
+    {
+        "Docente": "EMERSON ARCOVERDE NUNES",
+        "Componente Curricular": "MCL0040.0 - PSIQUIATRIA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "5T34 (30/07/2018 - 22/12/2018)",
+        "Discentes": "52",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "EULALIA MARIA CHAVES MAIA",
+        "Componente Curricular": "PSI0182 - PSICOLOGIA DA SAÚDE E HOSPITALIZAÇÃO",
+        "Turma": "1",
+        "Horário": "2T456 (30/07/2018 - 26/11/2018)",
+        "Discentes": "34",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "PSI7662 - CONTEXTO DE TRABALHO",
+        "Turma": "1",
+        "Horário": "4T56 6T12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "41",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "PSI7048 - PROCESSOS PSICOSSOCIOLOGICOS NAS ORGANIZAÇÕES",
+        "Turma": "1",
+        "Horário": "46T34 (30/07/2018 - 21/12/2018)",
+        "Discentes": "44",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "PSI0125 - SEMINÁRIO DE INTEGRAÇÃO II",
+        "Turma": "2",
+        "Horário": "4T12 (30/07/2018 - 12/12/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "0.92"
+    },
+    {
+        "Docente": "GEORGIA SIBELE NOGUEIRA DA SILVA",
+        "Componente Curricular": "PSI0180 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "2",
+        "Horário": "4T3456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.59"
+    },
+    {
+        "Docente": "GEORGIA SIBELE NOGUEIRA DA SILVA",
+        "Componente Curricular": "MCL0026.0 - INTRODUÇÃO A MEDICINA E BIOÉTICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "2T1",
+        "Discentes": "53",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "GEORGIA SIBELE NOGUEIRA DA SILVA",
+        "Componente Curricular": "PSI7070 - PERSPECTIVAS DOS PROCESSOS SAÚDE-DOENÇA",
+        "Turma": "1",
+        "Horário": "5T3456 (30/07/2018 - 06/12/2018)",
+        "Discentes": "44",
+        "Média Geral": "8.5",
+        "Desvio Padrão Geral": "2.37"
+    },
+    {
+        "Docente": "HERCULANO RICARDO CAMPOS",
+        "Componente Curricular": "PSI0280 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "3",
+        "Horário": "4T3456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "5",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.11"
+    },
+    {
+        "Docente": "HERCULANO RICARDO CAMPOS",
+        "Componente Curricular": "PSI7029 - HISTORIA DA PSICOLOGIA II",
+        "Turma": "1",
+        "Horário": "2T34 (30/07/2018 - 06/12/2018)",
+        "Discentes": "42",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "2.45"
+    },
+    {
+        "Docente": "ILANA LEMOS DE PAIVA",
+        "Componente Curricular": "PSI7067 - IDADE ADULTA E ENVELHECIMENTO NO CONTEXTO SÓCIO-COMUNITÁRIO E EDUCACIONAL",
+        "Turma": "1",
+        "Horário": "6T345 (30/07/2018 - 22/12/2018)",
+        "Discentes": "42",
+        "Média Geral": "8.36",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "ILANA LEMOS DE PAIVA",
+        "Componente Curricular": "PSI3065 - TÓPICOS EM PSICOLOGIA E EDUCAÇÃO III",
+        "Turma": "1",
+        "Horário": "4N12",
+        "Discentes": "14",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+        "Componente Curricular": "PSI7068 - METODOS DE PESQUISA E ANALISE DE DADOS III",
+        "Turma": "1",
+        "Horário": "2T56 4T34",
+        "Discentes": "41",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+        "Componente Curricular": "PSI3065 - TÓPICOS EM PSICOLOGIA E EDUCAÇÃO III",
+        "Turma": "1",
+        "Horário": "4N12",
+        "Discentes": "14",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "JADER FERREIRA LEITE",
+        "Componente Curricular": "PSI2002 - ESPAÇO INTEGRATIVO II",
+        "Turma": "1",
+        "Horário": "3T123 (30/07/2018 - 27/11/2018)",
+        "Discentes": "17",
+        "Média Geral": "8.14",
+        "Desvio Padrão Geral": "2.34"
+    },
+    {
+        "Docente": "JADER FERREIRA LEITE",
+        "Componente Curricular": "PSI7026 - INTRODUCAO AO PARADIGMA SOCIAL",
+        "Turma": "1",
+        "Horário": "6T234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "45",
+        "Média Geral": "8.11",
+        "Desvio Padrão Geral": "2.35"
+    },
+    {
+        "Docente": "JOAO CARLOS ALCHIERI",
+        "Componente Curricular": "PSI7041 - INTRODUÇÃO AOS PROCESSOS DE AVALIAÇÃO PSICOLÓGICA",
+        "Turma": "1",
+        "Horário": "2T234",
+        "Discentes": "45",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "JOAO CARLOS ALCHIERI",
+        "Componente Curricular": "PSI7063 - PROCESSOS DE AVALIAÇÃO PSICOLÓGICA NA IDADE ADULTA E ENVELHECIMENTO",
+        "Turma": "1",
+        "Horário": "3T123",
+        "Discentes": "41",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "JOAO CARLOS ALCHIERI",
+        "Componente Curricular": "PSI0470 - TECNICAS PROJETIVAS",
+        "Turma": "1",
+        "Horário": "3M2345",
+        "Discentes": "11",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "KATIE MORAES DE ALMONDES",
+        "Componente Curricular": "PSI7661 - IDADE ADULTA E ENVELHECIMENTO NO CONTEXTO DA SAÚDE",
+        "Turma": "1",
+        "Horário": "3T456 (30/07/2018 - 27/11/2018)",
+        "Discentes": "38",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "KATIE MORAES DE ALMONDES",
+        "Componente Curricular": "PSI0118 - NEUROPSICOLOGIA DO ENVELHECIMENTO II",
+        "Turma": "1",
+        "Horário": "5M345 (30/07/2018 - 06/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "KATIE MORAES DE ALMONDES",
+        "Componente Curricular": "PSI0137 - PSICOLOGIA DO SONO",
+        "Turma": "1",
+        "Horário": "3M345 (30/07/2018 - 27/11/2018)",
+        "Discentes": "30",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "KATIE MORAES DE ALMONDES",
+        "Componente Curricular": "PSI0095 - PSICOLOGIA E PROCESSOS PSICOSSOMÁTICOS",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "48",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "MARIA DA APRESENTACAO BARRETO",
+        "Componente Curricular": "PSI2004 - ESTÁGIO BÁSICO II",
+        "Turma": "2",
+        "Horário": "3T12 (30/07/2018 - 20/11/2018)",
+        "Discentes": "18",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "MARIA DA APRESENTACAO BARRETO",
+        "Componente Curricular": "PSI0282 - ORIENTAÇÃO PROFISSIONAL E OCUPACIONAL",
+        "Turma": "1",
+        "Horário": "2T123 (30/07/2018 - 26/11/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "MARIA DA APRESENTACAO BARRETO",
+        "Componente Curricular": "PSI7045 - PSICOLOGIA, ESCOLA E SOCIEDADE",
+        "Turma": "1",
+        "Horário": "23T56 (30/07/2018 - 27/11/2018)",
+        "Discentes": "44",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "MARLOS ALVES BEZERRA",
+        "Componente Curricular": "PSI0181 - PRÁTICAS CLÍNICAS EM INSTITUIÇÃO",
+        "Turma": "1",
+        "Horário": "5T123 (30/07/2018 - 06/12/2018)",
+        "Discentes": "45",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "MARLOS ALVES BEZERRA",
+        "Componente Curricular": "PSI7025 - PSICOLOGIA HUMANISTA-EXISTENCIAL",
+        "Turma": "1",
+        "Horário": "5T456 (30/07/2018 - 06/12/2018)",
+        "Discentes": "45",
+        "Média Geral": "8.06",
+        "Desvio Padrão Geral": "2.7"
+    },
+    {
+        "Docente": "MARLOS ALVES BEZERRA",
+        "Componente Curricular": "PSI3079 - PSICOLOGIA TRANSPESSOAL I",
+        "Turma": "1",
+        "Horário": "5M3456 (30/07/2018 - 12/12/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "NEUCIANE GOMES DA SILVA",
+        "Componente Curricular": "PSI7021 - COMPORTAMENTALISMO",
+        "Turma": "1",
+        "Horário": "4T234 (30/07/2018 - 12/12/2018)",
+        "Discentes": "47",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "NEUCIANE GOMES DA SILVA",
+        "Componente Curricular": "PSI7044 - OS LUGARES DA CLÍNICA PSICOLÓGICA",
+        "Turma": "1",
+        "Horário": "4T56 6T12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "43",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "NEUCIANE GOMES DA SILVA",
+        "Componente Curricular": "PSI3028 - TÓPICOS NA ABORDAGEM COGNITIVO-COMPORTAMENTAL I",
+        "Turma": "1",
+        "Horário": "5M45",
+        "Discentes": "11",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "PEDRO FERNANDO BENDASSOLLI",
+        "Componente Curricular": "PSI0283 - DESENVOLVIMENTO INSTITUCIONAL II",
+        "Turma": "1",
+        "Horário": "2T456 (30/07/2018 - 26/11/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.43"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI2006 - ESTÁGIO BÁSICO IV",
+        "Turma": "1",
+        "Horário": "5T56 (30/07/2018 - 29/11/2018)",
+        "Discentes": "22",
+        "Média Geral": "8.54",
+        "Desvio Padrão Geral": "2.93"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI0986 - PSICOLOGIA APLICADA AO DIREITO",
+        "Turma": "1",
+        "Horário": "36M34",
+        "Discentes": "55",
+        "Média Geral": "8.4",
+        "Desvio Padrão Geral": "2.54"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI0986 - PSICOLOGIA APLICADA AO DIREITO",
+        "Turma": "2",
+        "Horário": "6N1234",
+        "Discentes": "34",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI7074 - MÉTODOS DE PESQUISA E ANÁLISE DE DADOS I",
+        "Turma": "1",
+        "Horário": "3T34 5T12",
+        "Discentes": "43",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI0125 - SEMINÁRIO DE INTEGRAÇÃO II",
+        "Turma": "1",
+        "Horário": "4T12 (30/07/2018 - 12/12/2018)",
+        "Discentes": "25",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI0180 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "6",
+        "Horário": "6T1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.35"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI7025 - PSICOLOGIA HUMANISTA-EXISTENCIAL",
+        "Turma": "1",
+        "Horário": "5T456 (30/07/2018 - 06/12/2018)",
+        "Discentes": "45",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0086 - PSICOLOGIA APLICADA A ADMINISTRACAO I",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "53",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0089 - PSICOLOGIA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "24",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0001 - PSICOLOGIA I - GERAL",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "48",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI0106 - ESTAGIO III DA ENFASE I",
+        "Turma": "6",
+        "Horário": "4T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI7031 - INTRODUÇÃO À PSICOPATOLOGIA",
+        "Turma": "2",
+        "Horário": "4T345 5T12",
+        "Discentes": "47",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI7071 - PSICOLOGIA E ÉTICA",
+        "Turma": "2",
+        "Horário": "5T45",
+        "Discentes": "46",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI0124 - SEMINÁRIO DE INTEGRAÇÃO I",
+        "Turma": "2",
+        "Horário": "3T56 (19/02/2018 - 26/06/2018)",
+        "Discentes": "21",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "ANA KARINA SILVA AZEVEDO",
+        "Componente Curricular": "PSI0106 - ESTAGIO III DA ENFASE I",
+        "Turma": "1",
+        "Horário": "5T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.24"
+    },
+    {
+        "Docente": "ANA KARINA SILVA AZEVEDO",
+        "Componente Curricular": "PSI0170 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "5",
+        "Horário": "6T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "0.77"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI0271 - CONTEXTOS SOCIAIS DE APRENDIZAGEM",
+        "Turma": "1",
+        "Horário": "2T123 (19/02/2018 - 18/06/2018)",
+        "Discentes": "14",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI7553 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXTO DA EDUCAÇÃO",
+        "Turma": "1",
+        "Horário": "2T56 6T45 (19/02/2018 - 29/06/2018)",
+        "Discentes": "42",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI0088 - PSICOLOGIA APLICADA AO SERVICO SOCIAL",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "41",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "ANDRE LUIZ DOS SANTOS PAIVA",
+        "Componente Curricular": "PSI0003 - PSICOLOGIA III - PSICOLOGIA SOCIAL",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "38",
+        "Média Geral": "8.51",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI2003 - ESTÁGIO BÁSICO I",
+        "Turma": "2",
+        "Horário": "2T56 (19/02/2018 - 11/06/2018)",
+        "Discentes": "25",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI2005 - ESTÁGIO BÁSICO III",
+        "Turma": "1",
+        "Horário": "3T56 (19/02/2018 - 19/06/2018)",
+        "Discentes": "23",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI7037 - INTRODUÇÃO AO DESENVOLVIMENTO HUMANO",
+        "Turma": "1",
+        "Horário": "3T12 (19/02/2018 - 26/06/2018)",
+        "Discentes": "49",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI7551 - PISCOLOGIA DA INFANCIA E DA ADOLESCÊNCIA",
+        "Turma": "1",
+        "Horário": "23T34 (19/02/2018 - 26/06/2018)",
+        "Discentes": "43",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI2001 - ESPAÇO INTEGRATIVO I",
+        "Turma": "1",
+        "Horário": "2T234 (19/02/2018 - 18/06/2018)",
+        "Discentes": "26",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "2.79"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI2003 - ESTÁGIO BÁSICO I",
+        "Turma": "1",
+        "Horário": "2T56 (19/02/2018 - 11/06/2018)",
+        "Discentes": "17",
+        "Média Geral": "8.76",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI7033 - INTRODUÇÃO AOS PROCESSOS PSICOSSOCIOLÓGICOS E DE INTERAÇÃO SOCIAL",
+        "Turma": "1",
+        "Horário": "3T3456 (19/02/2018 - 26/06/2018)",
+        "Discentes": "48",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI3088 - TÉCNICAS DE DINÂMICA DE GRUPO",
+        "Turma": "1",
+        "Horário": "4N1234 (19/02/2018 - 20/06/2018)",
+        "Discentes": "8",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "EULALIA MARIA CHAVES MAIA",
+        "Componente Curricular": "PSI0937 - TOPICOS EM PSICOSSOMATICA",
+        "Turma": "1",
+        "Horário": "3M2345",
+        "Discentes": "17",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "CST5072 - CONSULTORIA ORGANIZACIONAL",
+        "Turma": "2",
+        "Horário": "6M234",
+        "Discentes": "28",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "CST5083 - FUNDAMENTOS DA PSICOLOGIA ORGANIZACIONAL E DO TRABALHO",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "32",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "GEORGIA SIBELE NOGUEIRA DA SILVA",
+        "Componente Curricular": "PSI0106 - ESTAGIO III DA ENFASE I",
+        "Turma": "7",
+        "Horário": "5T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "GEORGIA SIBELE NOGUEIRA DA SILVA",
+        "Componente Curricular": "PSI0170 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "3",
+        "Horário": "3T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.7"
+    },
+    {
+        "Docente": "GEORGIA SIBELE NOGUEIRA DA SILVA",
+        "Componente Curricular": "MCL0026.0 - INTRODUÇÃO A MEDICINA E BIOÉTICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "2T1",
+        "Discentes": "53",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "HERCULANO RICARDO CAMPOS",
+        "Componente Curricular": "PSI7013 - HISTORIA DA PSICOLOGIA I",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "48",
+        "Média Geral": "8.11",
+        "Desvio Padrão Geral": "2.9"
+    },
+    {
+        "Docente": "ILANA LEMOS DE PAIVA",
+        "Componente Curricular": "PSI0270 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "1",
+        "Horário": "3T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "ILANA LEMOS DE PAIVA",
+        "Componente Curricular": "PSI7057 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXO SÓCIO-COMUNITÁRIO",
+        "Turma": "1",
+        "Horário": "5T3456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "49",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "ILANA LEMOS DE PAIVA",
+        "Componente Curricular": "PSI3085 - TEMAS EM POLITICAS SOCIAIS A PRATICAS DO PSICOLOGO NOS AMBITOS DO SUS E SUAS",
+        "Turma": "1",
+        "Horário": "5N123 (19/02/2018 - 17/05/2018)",
+        "Discentes": "23",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+        "Componente Curricular": "PSI0270 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "1",
+        "Horário": "3T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+        "Componente Curricular": "PSI7032 - INTRODUÇÃO AO CAMPO DA PSICOLOGIA COMO CIÊNCIA E PROFISSÃO",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "44",
+        "Média Geral": "8.81",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+        "Componente Curricular": "PSI3085 - TEMAS EM POLITICAS SOCIAIS A PRATICAS DO PSICOLOGO NOS AMBITOS DO SUS E SUAS",
+        "Turma": "1",
+        "Horário": "5N123 (19/02/2018 - 17/05/2018)",
+        "Discentes": "23",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "JADER FERREIRA LEITE",
+        "Componente Curricular": "PSI7033 - INTRODUÇÃO AOS PROCESSOS PSICOSSOCIOLÓGICOS E DE INTERAÇÃO SOCIAL",
+        "Turma": "1",
+        "Horário": "3T3456 (19/02/2018 - 26/06/2018)",
+        "Discentes": "48",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "2.28"
+    },
+    {
+        "Docente": "JADER FERREIRA LEITE",
+        "Componente Curricular": "PSI0136 - PSICOLOGIA, GÊNERO E SEXUALIDADE",
+        "Turma": "1",
+        "Horário": "5M2345",
+        "Discentes": "38",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "JAMILE LUZ MORAIS MONTEIRO",
+        "Componente Curricular": "PSI2001 - ESPAÇO INTEGRATIVO I",
+        "Turma": "2",
+        "Horário": "2T234 (19/02/2018 - 18/06/2018)",
+        "Discentes": "25",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "2.41"
+    },
+    {
+        "Docente": "JAMILE LUZ MORAIS MONTEIRO",
+        "Componente Curricular": "PSI2005 - ESTÁGIO BÁSICO III",
+        "Turma": "2",
+        "Horário": "3T56 (19/02/2018 - 19/06/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "JAMILE LUZ MORAIS MONTEIRO",
+        "Componente Curricular": "PSI7552 - INFANCIA E ADOLESCENCIA NO CONTEXTO DA SAUDE",
+        "Turma": "1",
+        "Horário": "6T123 (19/02/2018 - 29/06/2018)",
+        "Discentes": "51",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "JAMILE LUZ MORAIS MONTEIRO",
+        "Componente Curricular": "PSI7055 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXO DA CLÍNICA PSICOLÓGICA",
+        "Turma": "1",
+        "Horário": "4T456 (19/02/2018 - 20/06/2018)",
+        "Discentes": "44",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "JAMILE LUZ MORAIS MONTEIRO",
+        "Componente Curricular": "PSI1273 - SAÚDE E CONTEXTOS SOCIAIS",
+        "Turma": "2",
+        "Horário": "5T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "43",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "JOAO CARLOS ALCHIERI",
+        "Componente Curricular": "PSI7052 - PROCESSOS DE AVALIAÇÃO PSICOLÓGICA NA INFÂNCIA E ADOLESCÊNCIA",
+        "Turma": "1",
+        "Horário": "4T123",
+        "Discentes": "41",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "JOAO CARLOS ALCHIERI",
+        "Componente Curricular": "PSI0928 - TOPICOS EM TECNICAS DE EXAMES PSICOLOGICOS II",
+        "Turma": "1",
+        "Horário": "3M2345",
+        "Discentes": "7",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.59"
+    },
+    {
+        "Docente": "KAMILLA STHEFANY ANDRADE DE OLIVEIRA",
+        "Componente Curricular": "PSI0086 - PSICOLOGIA APLICADA A ADMINISTRACAO I",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "48",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "KAMILLA STHEFANY ANDRADE DE OLIVEIRA",
+        "Componente Curricular": "PSI0095 - PSICOLOGIA E PROCESSOS PSICOSSOMÁTICOS",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "53",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "KAMILLA STHEFANY ANDRADE DE OLIVEIRA",
+        "Componente Curricular": "PSI0097 - PSICOLOGIA E SAÚDE I",
+        "Turma": "1",
+        "Horário": "3T23",
+        "Discentes": "26",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "KAMILLA STHEFANY ANDRADE DE OLIVEIRA",
+        "Componente Curricular": "PSI0003 - PSICOLOGIA III - PSICOLOGIA SOCIAL",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "38",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "KAMILLA STHEFANY ANDRADE DE OLIVEIRA",
+        "Componente Curricular": "PSI0981 - PSICOLOGIA SOCIAL E COMUNICACAO",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "45",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "KATIE MORAES DE ALMONDES",
+        "Componente Curricular": "PSI0172 - MODALIDADES DE INTERVENÇÃO PSICOLÓGICA EM SAÚDE",
+        "Turma": "1",
+        "Horário": "2T456 (19/02/2018 - 18/06/2018)",
+        "Discentes": "34",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "KATIE MORAES DE ALMONDES",
+        "Componente Curricular": "PSI0128 - NEUROPSICOLOGIA DO ENVELHECIMENTO I",
+        "Turma": "1",
+        "Horário": "5M34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "KEYLA MAFALDA DE OLIVEIRA AMORIM",
+        "Componente Curricular": "PSI7014 - INTRODUÇÃO AO ESTUDO SUPERIOR",
+        "Turma": "1",
+        "Horário": "4T12 (19/02/2018 - 20/06/2018)",
+        "Discentes": "48",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "2.54"
+    },
+    {
+        "Docente": "KEYLA MAFALDA DE OLIVEIRA AMORIM",
+        "Componente Curricular": "PSI0172 - MODALIDADES DE INTERVENÇÃO PSICOLÓGICA EM SAÚDE",
+        "Turma": "1",
+        "Horário": "2T456 (19/02/2018 - 18/06/2018)",
+        "Discentes": "34",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "KEYLA MAFALDA DE OLIVEIRA AMORIM",
+        "Componente Curricular": "PSI0100 - PSICOLOGIA APLICADA A CIENCIAS CONTABEIS",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "43",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "KEYLA MAFALDA DE OLIVEIRA AMORIM",
+        "Componente Curricular": "PSI0100 - PSICOLOGIA APLICADA A CIENCIAS CONTABEIS",
+        "Turma": "2",
+        "Horário": "26N34",
+        "Discentes": "25",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "2.64"
+    },
+    {
+        "Docente": "KEYLA MAFALDA DE OLIVEIRA AMORIM",
+        "Componente Curricular": "PSI0126 - SEMINÁRIO DE INTEGRAÇÃO III",
+        "Turma": "2",
+        "Horário": "5T56 (19/02/2018 - 05/07/2018)",
+        "Discentes": "13",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "MARIA TERESA LISBOA NOBRE PEREIRA",
+        "Componente Curricular": "PSI0124 - SEMINÁRIO DE INTEGRAÇÃO I",
+        "Turma": "1",
+        "Horário": "3T56 (19/02/2018 - 26/06/2018)",
+        "Discentes": "25",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "MARIA TERESA LISBOA NOBRE PEREIRA",
+        "Componente Curricular": "PSI0967 - TOPICOS EM ANALISE INSTITUCIONAL I",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "32",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "MARLOS ALVES BEZERRA",
+        "Componente Curricular": "PSI0174 - INTERVENÇÕES EM PSICOLOGIA CLÍNICA",
+        "Turma": "1",
+        "Horário": "2T123 (19/02/2018 - 18/06/2018)",
+        "Discentes": "35",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "MARLOS ALVES BEZERRA",
+        "Componente Curricular": "PSI0098 - PSICOLOGIA E SAÚDE II",
+        "Turma": "01A",
+        "Horário": "2T45",
+        "Discentes": "27",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "MARLOS ALVES BEZERRA",
+        "Componente Curricular": "PSI0981 - PSICOLOGIA SOCIAL E COMUNICACAO",
+        "Turma": "6",
+        "Horário": "35T56",
+        "Discentes": "46",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "NEUCIANE GOMES DA SILVA",
+        "Componente Curricular": "PSI7031 - INTRODUÇÃO À PSICOPATOLOGIA",
+        "Turma": "2",
+        "Horário": "4T345 5T12",
+        "Discentes": "47",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "NEUCIANE GOMES DA SILVA",
+        "Componente Curricular": "PSI3028 - TÓPICOS NA ABORDAGEM COGNITIVO-COMPORTAMENTAL I",
+        "Turma": "1",
+        "Horário": "5M45",
+        "Discentes": "23",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "PEDRO FERNANDO BENDASSOLLI",
+        "Componente Curricular": "PSI0272 - DESENVOLVIMENTO INSTITUCIONAL I",
+        "Turma": "1",
+        "Horário": "2T456 (19/02/2018 - 18/06/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "0.7"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI0986 - PSICOLOGIA APLICADA AO DIREITO",
+        "Turma": "1",
+        "Horário": "36M34",
+        "Discentes": "56",
+        "Média Geral": "7.89",
+        "Desvio Padrão Geral": "2.98"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI0986 - PSICOLOGIA APLICADA AO DIREITO",
+        "Turma": "2",
+        "Horário": "6N1234",
+        "Discentes": "40",
+        "Média Geral": "8.81",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI3056 - PSICOLOGIA DAS EMERGÊNCIAS E DO DESASTRE",
+        "Turma": "1",
+        "Horário": "6M56",
+        "Discentes": "8",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.88"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI7036 - INTRODUÇÃO AOS METODOS DE PESQUISA",
+        "Turma": "2",
+        "Horário": "5T34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "43",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI7058 - METODOS DE PESQUISA E ANALISE DE DADOS II",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "44",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI0126 - SEMINÁRIO DE INTEGRAÇÃO III",
+        "Turma": "1",
+        "Horário": "5T56 (19/02/2018 - 05/07/2018)",
+        "Discentes": "23",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI0106 - ESTAGIO III DA ENFASE I",
+        "Turma": "4",
+        "Horário": "2T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.4"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI0170 - ESTÁGIO DE ÊNFASE I",
+        "Turma": "1",
+        "Horário": "3T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.11"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI7055 - INFÂNCIA E ADOLESCÊNCIA NO CONTEXO DA CLÍNICA PSICOLÓGICA",
+        "Turma": "1",
+        "Horário": "4T456 (19/02/2018 - 20/06/2018)",
+        "Discentes": "44",
+        "Média Geral": "9.92",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "ADRIANA AZEVEDO GERMANO RODRIGUES",
+        "Componente Curricular": "PSI2002 - ESPAÇO INTEGRATIVO II",
+        "Turma": "1",
+        "Horário": "3T456 (24/07/2017 - 05/12/2017)",
+        "Discentes": "21",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "ADRIANA AZEVEDO GERMANO RODRIGUES",
+        "Componente Curricular": "PSI0981 - PSICOLOGIA SOCIAL E COMUNICACAO",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "49",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "ADRIANA AZEVEDO GERMANO RODRIGUES",
+        "Componente Curricular": "PSI0981 - PSICOLOGIA SOCIAL E COMUNICACAO",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "34",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0602 - INTRODUCAO A PSICANALISE",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "24",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI7024 - PSICANALISE",
+        "Turma": "1",
+        "Horário": "6T234 (24/07/2017 - 24/11/2017)",
+        "Discentes": "47",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0085 - PSICOLOGIA APLICADA A EDUCACAO FISICA",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "14",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "ALVARO LUIS DOS SANTOS GOMES RIBEIRO",
+        "Componente Curricular": "PSI0089 - PSICOLOGIA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "25",
+        "Média Geral": "8.92",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI0180 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "4",
+        "Horário": "6T1234 (24/07/2017 - 24/11/2017)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI0183 - SAÚDE MENTAL E A REFORMA PSIQUIÁTRICA NO BRASIL",
+        "Turma": "1",
+        "Horário": "4T456 (24/07/2017 - 06/12/2017)",
+        "Discentes": "35",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "0.85"
+    },
+    {
+        "Docente": "ANA KARENINA DE MELO ARRAES AMORIM",
+        "Componente Curricular": "PSI0967 - TOPICOS EM ANALISE INSTITUCIONAL I",
+        "Turma": "1",
+        "Horário": "4M3456",
+        "Discentes": "28",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "ANA KARINA SILVA AZEVEDO",
+        "Componente Curricular": "PSI0180 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "2",
+        "Horário": "6T1234 (24/07/2017 - 24/11/2017)",
+        "Discentes": "6",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "ANA KARINA SILVA AZEVEDO",
+        "Componente Curricular": "PSI0095 - PSICOLOGIA E PROCESSOS PSICOSSOMÁTICOS",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "34",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.61"
+    },
+    {
+        "Docente": "CANDIDA MARIA BEZERRA DANTAS",
+        "Componente Curricular": "PSI7029 - HISTORIA DA PSICOLOGIA II",
+        "Turma": "1",
+        "Horário": "2T34 (24/07/2017 - 20/11/2017)",
+        "Discentes": "46",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "CANDIDA MARIA BEZERRA DANTAS",
+        "Componente Curricular": "PSI7026 - INTRODUCAO AO PARADIGMA SOCIAL",
+        "Turma": "1",
+        "Horário": "5T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "46",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "CLARA MARIA MELO DOS SANTOS",
+        "Componente Curricular": "PSI0134 - TÓPICOS EM PSICOLOGIA DO DESENVOLVIMENTO I",
+        "Turma": "1",
+        "Horário": "4M1234 2T12345 7T34 (24/07/2017 - 06/09/2017)",
+        "Discentes": "38",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI7663 - DINAMICA DE GRUPO",
+        "Turma": "1",
+        "Horário": "5T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "45",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "DENISE PEREIRA DO REGO",
+        "Componente Curricular": "PSI2006 - ESTÁGIO BÁSICO IV",
+        "Turma": "1",
+        "Horário": "3T23 (24/07/2017 - 28/11/2017)",
+        "Discentes": "22",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "EULALIA MARIA CHAVES MAIA",
+        "Componente Curricular": "PSI0180 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "6",
+        "Horário": "2M5432 (24/07/2017 - 20/11/2017)",
+        "Discentes": "6",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "CST5094 - ATIVIDADE TEÓRICO-PRÁTICA EM PSICOLOGIA II (PROCESSOS DE TRABALHO)",
+        "Turma": "2",
+        "Horário": "2M45 (24/07/2017 - 16/12/2017)",
+        "Discentes": "23",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "CST5094 - ATIVIDADE TEÓRICO-PRÁTICA EM PSICOLOGIA II (PROCESSOS DE TRABALHO)",
+        "Turma": "3",
+        "Horário": "3T23 (24/07/2017 - 16/12/2017)",
+        "Discentes": "11",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "CST5092 - PSICOLOGIA SOCIAL DO TRABALHO",
+        "Turma": "1",
+        "Horário": "23M23",
+        "Discentes": "31",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "FELLIPE COELHO LIMA",
+        "Componente Curricular": "CST5069 - TÓPICOS ESPECIAIS EM PSICOLOGIA NA EDUCAÇÃO III",
+        "Turma": "1",
+        "Horário": "6M234",
+        "Discentes": "20",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.6"
+    },
+    {
+        "Docente": "GEORGIA SIBELE NOGUEIRA DA SILVA",
+        "Componente Curricular": "MCL0026.0 - INTRODUÇÃO A MEDICINA E BIOÉTICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "2T1",
+        "Discentes": "53",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.76"
+    },
+    {
+        "Docente": "GEORGIA SIBELE NOGUEIRA DA SILVA",
+        "Componente Curricular": "PSI7070 - PERSPECTIVAS DOS PROCESSOS SAÚDE-DOENÇA",
+        "Turma": "1",
+        "Horário": "5T3456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "39",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "GEORGIA SIBELE NOGUEIRA DA SILVA",
+        "Componente Curricular": "PSI0135 - TÓPICOS ESPECIAIS EM PSICOLOGIA EXISTENCIAL - PSICOLOGIA DO LUTO",
+        "Turma": "1",
+        "Horário": "4N1234 (24/07/2017 - 20/09/2017)",
+        "Discentes": "14",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "HERCULANO RICARDO CAMPOS",
+        "Componente Curricular": "PSI7045 - PSICOLOGIA, ESCOLA E SOCIEDADE",
+        "Turma": "1",
+        "Horário": "46T56 (24/07/2017 - 01/12/2017)",
+        "Discentes": "40",
+        "Média Geral": "8.29",
+        "Desvio Padrão Geral": "2.57"
+    },
+    {
+        "Docente": "IANNY FELINTO MEDEIROS DE AZEVEDO",
+        "Componente Curricular": "PSI7067 - IDADE ADULTA E ENVELHECIMENTO NO CONTEXTO SÓCIO-COMUNITÁRIO E EDUCACIONAL",
+        "Turma": "1",
+        "Horário": "2T456 (24/07/2017 - 20/11/2017)",
+        "Discentes": "49",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "IANNY FELINTO MEDEIROS DE AZEVEDO",
+        "Componente Curricular": "PSI0182 - PSICOLOGIA DA SAÚDE E HOSPITALIZAÇÃO",
+        "Turma": "1",
+        "Horário": "4T123 (24/07/2017 - 06/12/2017)",
+        "Discentes": "34",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "0.83"
+    },
+    {
+        "Docente": "IANNY FELINTO MEDEIROS DE AZEVEDO",
+        "Componente Curricular": "PSI0097 - PSICOLOGIA E SAÚDE I",
+        "Turma": "1",
+        "Horário": "3T23",
+        "Discentes": "11",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "IANNY FELINTO MEDEIROS DE AZEVEDO",
+        "Componente Curricular": "PSI0098 - PSICOLOGIA E SAÚDE II",
+        "Turma": "01A",
+        "Horário": "2T23",
+        "Discentes": "32",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "IANNY FELINTO MEDEIROS DE AZEVEDO",
+        "Componente Curricular": "PSI0125 - SEMINÁRIO DE INTEGRAÇÃO II",
+        "Turma": "1",
+        "Horário": "3T56 (24/07/2017 - 06/12/2017)",
+        "Discentes": "20",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "ILANA LEMOS DE PAIVA",
+        "Componente Curricular": "PSI7067 - IDADE ADULTA E ENVELHECIMENTO NO CONTEXTO SÓCIO-COMUNITÁRIO E EDUCACIONAL",
+        "Turma": "1",
+        "Horário": "2T456 (24/07/2017 - 20/11/2017)",
+        "Discentes": "49",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "ILANA LEMOS DE PAIVA",
+        "Componente Curricular": "PSI7084 - PERSPECTIVAS ATUAIS DA PSICOLOGIA",
+        "Turma": "1",
+        "Horário": "5T56 (24/07/2017 - 16/12/2017)",
+        "Discentes": "37",
+        "Média Geral": "8.5",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+        "Componente Curricular": "PSI7068 - METODOS DE PESQUISA E ANALISE DE DADOS III",
+        "Turma": "1",
+        "Horário": "4T34 6T12",
+        "Discentes": "42",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "0.85"
+    },
+    {
+        "Docente": "ISABEL MARIA FARIAS FERNANDES DE OLIVEIRA",
+        "Componente Curricular": "PSI7074 - MÉTODOS DE PESQUISA E ANÁLISE DE DADOS I",
+        "Turma": "1",
+        "Horário": "4T12 6T34",
+        "Discentes": "41",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "IZABEL AUGUSTA HAZIN PIRES",
+        "Componente Curricular": "PSI7023 - PSICOLOGIA COGNITIVA",
+        "Turma": "1",
+        "Horário": "3T123 (24/07/2017 - 05/12/2017)",
+        "Discentes": "50",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "JADER FERREIRA LEITE",
+        "Componente Curricular": "PSI7026 - INTRODUCAO AO PARADIGMA SOCIAL",
+        "Turma": "1",
+        "Horário": "5T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "46",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "JADER FERREIRA LEITE",
+        "Componente Curricular": "PSI7084 - PERSPECTIVAS ATUAIS DA PSICOLOGIA",
+        "Turma": "1",
+        "Horário": "5T56 (24/07/2017 - 16/12/2017)",
+        "Discentes": "37",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "JAMILE LUZ MORAIS MONTEIRO",
+        "Componente Curricular": "PSI7065 - IDADE ADULTA E ENVELHECIMENTO NO CONTEXTO DA CLÍNICA",
+        "Turma": "1",
+        "Horário": "6T345 (24/07/2017 - 24/11/2017)",
+        "Discentes": "45",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "JAMILE LUZ MORAIS MONTEIRO",
+        "Componente Curricular": "PSI7044 - OS LUGARES DA CLÍNICA PSICOLÓGICA",
+        "Turma": "1",
+        "Horário": "2T34 6T12 (24/07/2017 - 24/11/2017)",
+        "Discentes": "42",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "JAMILE LUZ MORAIS MONTEIRO",
+        "Componente Curricular": "PSI7070 - PERSPECTIVAS DOS PROCESSOS SAÚDE-DOENÇA",
+        "Turma": "1",
+        "Horário": "5T3456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "39",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "JAMILE LUZ MORAIS MONTEIRO",
+        "Componente Curricular": "PSI0100 - PSICOLOGIA APLICADA A CIENCIAS CONTABEIS",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "38",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JOAO CARLOS ALCHIERI",
+        "Componente Curricular": "PSI7041 - INTRODUÇÃO AOS PROCESSOS DE AVALIAÇÃO PSICOLÓGICA",
+        "Turma": "1",
+        "Horário": "3T123",
+        "Discentes": "39",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "JOAO CARLOS ALCHIERI",
+        "Componente Curricular": "PSI7063 - PROCESSOS DE AVALIAÇÃO PSICOLÓGICA NA IDADE ADULTA E ENVELHECIMENTO",
+        "Turma": "1",
+        "Horário": "3T456",
+        "Discentes": "47",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "KATIE MORAES DE ALMONDES",
+        "Componente Curricular": "PSI0180 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "6",
+        "Horário": "2M5432 (24/07/2017 - 20/11/2017)",
+        "Discentes": "6",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "LUCILA MOURA RAMOS VASCONCELOS",
+        "Componente Curricular": "PSI2004 - ESTÁGIO BÁSICO II",
+        "Turma": "2",
+        "Horário": "3T45 (24/07/2017 - 28/11/2017)",
+        "Discentes": "16",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "LUCILA MOURA RAMOS VASCONCELOS",
+        "Componente Curricular": "PSI2006 - ESTÁGIO BÁSICO IV",
+        "Turma": "2",
+        "Horário": "3T23 (24/07/2017 - 28/11/2017)",
+        "Discentes": "22",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "LUCILA MOURA RAMOS VASCONCELOS",
+        "Componente Curricular": "PSI0100 - PSICOLOGIA APLICADA A CIENCIAS CONTABEIS",
+        "Turma": "2",
+        "Horário": "26N34",
+        "Discentes": "18",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "LUCILA MOURA RAMOS VASCONCELOS",
+        "Componente Curricular": "PSI0088 - PSICOLOGIA APLICADA AO SERVICO SOCIAL",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "44",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "MARIA TERESA LISBOA NOBRE PEREIRA",
+        "Componente Curricular": "PSI0180 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "4",
+        "Horário": "6T1234 (24/07/2017 - 24/11/2017)",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "MARIA TERESA LISBOA NOBRE PEREIRA",
+        "Componente Curricular": "PSI0183 - SAÚDE MENTAL E A REFORMA PSIQUIÁTRICA NO BRASIL",
+        "Turma": "1",
+        "Horário": "4T456 (24/07/2017 - 06/12/2017)",
+        "Discentes": "35",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "0.84"
+    },
+    {
+        "Docente": "MARIA TERESA LISBOA NOBRE PEREIRA",
+        "Componente Curricular": "PSI0967 - TOPICOS EM ANALISE INSTITUCIONAL I",
+        "Turma": "1",
+        "Horário": "4M3456",
+        "Discentes": "28",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "NEUCIANE GOMES DA SILVA",
+        "Componente Curricular": "PSI7021 - COMPORTAMENTALISMO",
+        "Turma": "1",
+        "Horário": "4T234 (24/07/2017 - 29/11/2017)",
+        "Discentes": "49",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "NEUCIANE GOMES DA SILVA",
+        "Componente Curricular": "PSI0180 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "6",
+        "Horário": "2M5432 (24/07/2017 - 20/11/2017)",
+        "Discentes": "6",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "0.76"
+    },
+    {
+        "Docente": "NEUCIANE GOMES DA SILVA",
+        "Componente Curricular": "PSI7044 - OS LUGARES DA CLÍNICA PSICOLÓGICA",
+        "Turma": "1",
+        "Horário": "2T34 6T12 (24/07/2017 - 24/11/2017)",
+        "Discentes": "42",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "PEDRO FERNANDO BENDASSOLLI",
+        "Componente Curricular": "PSI7662 - CONTEXTO DE TRABALHO",
+        "Turma": "1",
+        "Horário": "2T23 4T56 (24/07/2017 - 27/11/2017)",
+        "Discentes": "45",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.71"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI0986 - PSICOLOGIA APLICADA AO DIREITO",
+        "Turma": "1",
+        "Horário": "36M34",
+        "Discentes": "56",
+        "Média Geral": "7.57",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI0986 - PSICOLOGIA APLICADA AO DIREITO",
+        "Turma": "2",
+        "Horário": "6N1234",
+        "Discentes": "51",
+        "Média Geral": "8.73",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "PITAGORAS JOSE BINDE",
+        "Componente Curricular": "PSI3056 - PSICOLOGIA DAS EMERGÊNCIAS E DO DESASTRE",
+        "Turma": "1",
+        "Horário": "6M56",
+        "Discentes": "7",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI3068 - INTRODUÇÃO A PSICOLOGIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "4M2345",
+        "Discentes": "18",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI7068 - METODOS DE PESQUISA E ANALISE DE DADOS III",
+        "Turma": "1",
+        "Horário": "4T34 6T12",
+        "Discentes": "42",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.82"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI7074 - MÉTODOS DE PESQUISA E ANÁLISE DE DADOS I",
+        "Turma": "1",
+        "Horário": "4T12 6T34",
+        "Discentes": "41",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "RAQUEL FARIAS DINIZ",
+        "Componente Curricular": "PSI0125 - SEMINÁRIO DE INTEGRAÇÃO II",
+        "Turma": "2",
+        "Horário": "3T56 (24/07/2017 - 06/12/2017)",
+        "Discentes": "17",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "SUELY ALENCAR ROCHA DE HOLANDA",
+        "Componente Curricular": "PSI0181 - PRÁTICAS CLÍNICAS EM INSTITUIÇÃO",
+        "Turma": "1",
+        "Horário": "5T234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "37",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "SUELY ALENCAR ROCHA DE HOLANDA",
+        "Componente Curricular": "PSI3008 - TÓPICOS EM TEORIA PSICANALÍTICA FREUDIANA I",
+        "Turma": "1",
+        "Horário": "5N12",
+        "Discentes": "34",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.88"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI2002 - ESPAÇO INTEGRATIVO II",
+        "Turma": "2",
+        "Horário": "3T456 (24/07/2017 - 05/12/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI0180 - ESTÁGIO DE ÊNFASE II",
+        "Turma": "3",
+        "Horário": "2T1234 (24/07/2017 - 20/11/2017)",
+        "Discentes": "7",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.72"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI7025 - PSICOLOGIA HUMANISTA-EXISTENCIAL",
+        "Turma": "1",
+        "Horário": "5T456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "47",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "SYMONE FERNANDES DE MELO",
+        "Componente Curricular": "PSI0133 - TÓPICOS EM PSICOLOGIA JURÍDICA",
+        "Turma": "1",
+        "Horário": "4M234 (24/07/2017 - 29/11/2017)",
+        "Discentes": "26",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "YASMIN MAKHAMID MAKHAMED",
+        "Componente Curricular": "PSI7662 - CONTEXTO DE TRABALHO",
+        "Turma": "1",
+        "Horário": "2T23 4T56 (24/07/2017 - 27/11/2017)",
+        "Discentes": "45",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "YASMIN MAKHAMID MAKHAMED",
+        "Componente Curricular": "PSI2004 - ESTÁGIO BÁSICO II",
+        "Turma": "1",
+        "Horário": "3T45 (24/07/2017 - 28/11/2017)",
+        "Discentes": "25",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "YASMIN MAKHAMID MAKHAMED",
+        "Componente Curricular": "PSI7048 - PROCESSOS PSICOSSOCIOLOGICOS NAS ORGANIZAÇÕES",
+        "Turma": "1",
+        "Horário": "2T56 4T34 (24/07/2017 - 29/11/2017)",
+        "Discentes": "43",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "YASMIN MAKHAMID MAKHAMED",
+        "Componente Curricular": "PSI0086 - PSICOLOGIA APLICADA A ADMINISTRACAO I",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "51",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "YASMIN MAKHAMID MAKHAMED",
+        "Componente Curricular": "PSI0086 - PSICOLOGIA APLICADA A ADMINISTRACAO I",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "50",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.58"
+    }
+]

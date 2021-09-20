@@ -1,0 +1,3238 @@
+{
+  "ALINE MEDEIROS CAVALCANTI DA FONSECA": {
+    "Notas": [
+      9.59
+    ],
+    "Desvios": [
+      0.91
+    ],
+    "Componentes": {
+      "FST0052 - PRÁTICA TERAPÊUTICA SUPERVISIONADA I": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          0.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 0.91,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 0.91,
+    "NotaMediana": 9.59
+  },
+  "ALVARO CAMPOS CAVALCANTI MACIEL": {
+    "Notas": [
+      9.13,
+      9.46,
+      9.47,
+      9.56,
+      9.59
+    ],
+    "Desvios": [
+      1.43,
+      1.2,
+      1.17,
+      1.82,
+      1.31
+    ],
+    "Componentes": {
+      "FST0306 - CINESIOTERAPIA": {
+        "Notas": [
+          9.13,
+          9.47,
+          9.56,
+          9.59
+        ],
+        "Desvios": [
+          1.43,
+          1.2,
+          1.82,
+          1.31
+        ],
+        "DesvioDeNotas": 0.18294466376475677,
+        "MediaDeNotas": 9.4375,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.56
+      },
+      "FST0304 - METODOS E TECNICAS DE AVALIACAO": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.46
+      }
+    },
+    "DesvioDeNotas": 0.16387800340497174,
+    "MediaDeNotas": 9.442,
+    "MediaDeDesvios": 1.386,
+    "NotaMediana": 9.47
+  },
+  "ANA RAQUEL RODRIGUES LINDQUIST": {
+    "Notas": [
+      9.2,
+      9.57,
+      9.59,
+      9.65,
+      9.84,
+      9.85
+    ],
+    "Desvios": [
+      1.64,
+      0.67,
+      1.19,
+      1.08,
+      0.87,
+      1.59
+    ],
+    "Componentes": {
+      "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA": {
+        "Notas": [
+          9.2,
+          9.57,
+          9.65,
+          9.84
+        ],
+        "Desvios": [
+          1.64,
+          0.67,
+          1.08,
+          1.59
+        ],
+        "DesvioDeNotas": 0.23243278598338946,
+        "MediaDeNotas": 9.565000000000001,
+        "MediaDeDesvios": 1.245,
+        "NotaMediana": 9.65
+      },
+      "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA": {
+        "Notas": [
+          9.59,
+          9.85
+        ],
+        "Desvios": [
+          1.19,
+          0.87
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.719999999999999,
+        "MediaDeDesvios": 1.03,
+        "NotaMediana": 9.85
+      }
+    },
+    "DesvioDeNotas": 0.21676920650518827,
+    "MediaDeNotas": 9.616666666666667,
+    "MediaDeDesvios": 1.1733333333333333,
+    "NotaMediana": 9.65
+  },
+  "CAROLINA DANIEL DE LIMA ALVAREZ": {
+    "Notas": [
+      8.78,
+      9.13,
+      9.16,
+      9.18,
+      9.34,
+      9.43,
+      9.43,
+      9.46,
+      9.52,
+      9.67
+    ],
+    "Desvios": [
+      1.71,
+      1.92,
+      1.18,
+      0.94,
+      1.21,
+      1.12,
+      1.24,
+      1.4,
+      1.57,
+      1.79
+    ],
+    "Componentes": {
+      "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA": {
+        "Notas": [
+          9.18,
+          9.34,
+          9.52
+        ],
+        "Desvios": [
+          1.71,
+          1.18,
+          1.12
+        ],
+        "DesvioDeNotas": 0.138884444373331,
+        "MediaDeNotas": 9.346666666666666,
+        "MediaDeDesvios": 1.3366666666666667,
+        "NotaMediana": 9.34
+      },
+      "FST0326 - FISIOTERAPIA DERMATO - FUNCIONAL": {
+        "Notas": [
+          9.13,
+          9.43
+        ],
+        "Desvios": [
+          1.92,
+          1.21
+        ],
+        "DesvioDeNotas": 0.14999999999999947,
+        "MediaDeNotas": 9.280000000000001,
+        "MediaDeDesvios": 1.565,
+        "NotaMediana": 9.43
+      },
+      "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA": {
+        "Notas": [
+          9.16,
+          9.46,
+          9.67
+        ],
+        "Desvios": [
+          0.94,
+          1.24,
+          1.57
+        ],
+        "DesvioDeNotas": 0.20928449536456345,
+        "MediaDeNotas": 9.430000000000001,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.46
+      },
+      "DSC0063 - ATIVIDADE INTERATIVA INTERDISCIPLINAR II: SAÚDE E CIDADANIA (SACI II)": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.4,
+        "NotaMediana": 9.43
+      },
+      "FST0325 - PSICOMOTRICIDADE": {
+        "Notas": [
+          8.78
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.78,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 8.78
+      }
+    },
+    "DesvioDeNotas": 0.24054105678657028,
+    "MediaDeNotas": 9.309999999999999,
+    "MediaDeDesvios": 1.4080000000000001,
+    "NotaMediana": 9.43
+  },
+  "CATARINA DE OLIVEIRA SOUSA": {
+    "Notas": [
+      9.54,
+      9.54,
+      9.56,
+      9.66,
+      9.86,
+      9.86,
+      9.86,
+      9.86
+    ],
+    "Desvios": [
+      1.13,
+      1.2,
+      1.28,
+      1.1,
+      0.97,
+      0.98,
+      0.94,
+      1.03
+    ],
+    "Componentes": {
+      "FST0015 - FISIOTERAPIA AQUÁTICA": {
+        "Notas": [
+          9.66,
+          9.86
+        ],
+        "Desvios": [
+          1.13,
+          0.97
+        ],
+        "DesvioDeNotas": 0.09999999999999964,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.0499999999999998,
+        "NotaMediana": 9.86
+      },
+      "FST0035.0 - RECURSOS TERAPÊUTICOS MANUAIS": {
+        "Notas": [
+          9.54,
+          9.86
+        ],
+        "Desvios": [
+          1.2,
+          0.98
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.0899999999999999,
+        "NotaMediana": 9.86
+      },
+      "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA": {
+        "Notas": [
+          9.54,
+          9.56,
+          9.86,
+          9.86
+        ],
+        "Desvios": [
+          1.28,
+          1.1,
+          0.94,
+          1.03
+        ],
+        "DesvioDeNotas": 0.15516120649182882,
+        "MediaDeNotas": 9.705,
+        "MediaDeDesvios": 1.0875,
+        "NotaMediana": 9.86
+      }
+    },
+    "DesvioDeNotas": 0.14677789343085687,
+    "MediaDeNotas": 9.7175,
+    "MediaDeDesvios": 1.0787499999999999,
+    "NotaMediana": 9.86
+  },
+  "ELIZABEL DE SOUZA RAMALHO VIANA": {
+    "Notas": [
+      8.28,
+      8.55,
+      9.31,
+      9.33,
+      9.46,
+      9.48,
+      9.57,
+      9.68,
+      9.7,
+      9.7,
+      9.77,
+      9.81
+    ],
+    "Desvios": [
+      1.6,
+      1.51,
+      1.28,
+      1.16,
+      1.45,
+      1.06,
+      1.04,
+      1.01,
+      2.53,
+      2.73,
+      1.12,
+      1.12
+    ],
+    "Componentes": {
+      "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA": {
+        "Notas": [
+          9.46,
+          9.68,
+          9.77,
+          9.81
+        ],
+        "Desvios": [
+          1.6,
+          1.28,
+          1.04,
+          1.12
+        ],
+        "DesvioDeNotas": 0.13546217184144035,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.77
+      },
+      "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA": {
+        "Notas": [
+          9.48,
+          9.57,
+          9.7,
+          9.7
+        ],
+        "Desvios": [
+          1.51,
+          1.16,
+          1.01,
+          1.12
+        ],
+        "DesvioDeNotas": 0.09310612224767983,
+        "MediaDeNotas": 9.6125,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.7
+      },
+      "FST0035.0 - RECURSOS TERAPÊUTICOS MANUAIS": {
+        "Notas": [
+          8.28,
+          9.31
+        ],
+        "Desvios": [
+          1.45,
+          2.53
+        ],
+        "DesvioDeNotas": 0.5150000000000006,
+        "MediaDeNotas": 8.795,
+        "MediaDeDesvios": 1.9899999999999998,
+        "NotaMediana": 9.31
+      },
+      "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA": {
+        "Notas": [
+          8.55,
+          9.33
+        ],
+        "Desvios": [
+          1.06,
+          2.73
+        ],
+        "DesvioDeNotas": 0.3899999999999997,
+        "MediaDeNotas": 8.940000000000001,
+        "MediaDeDesvios": 1.895,
+        "NotaMediana": 9.33
+      }
+    },
+    "DesvioDeNotas": 0.4645846412537643,
+    "MediaDeNotas": 9.386666666666667,
+    "MediaDeDesvios": 1.4675000000000002,
+    "NotaMediana": 9.57
+  },
+  "FABIOLA RODRIGUES DE FRANCA CAMPOS": {
+    "Notas": [
+      9.35,
+      9.79
+    ],
+    "Desvios": [
+      1.16,
+      1.65
+    ],
+    "Componentes": {
+      "FST0306 - CINESIOTERAPIA": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.16,
+        "NotaMediana": 9.79
+      },
+      "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA": {
+        "Notas": [
+          9.35
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.35
+      }
+    },
+    "DesvioDeNotas": 0.21999999999999975,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.4049999999999998,
+    "NotaMediana": 9.79
+  },
+  "GERSON FONSECA DE SOUZA": {
+    "Notas": [
+      8.59,
+      8.74,
+      9,
+      9.06,
+      9.18,
+      9.28,
+      9.41,
+      9.46,
+      9.56,
+      9.61,
+      9.84,
+      9.9
+    ],
+    "Desvios": [
+      2.41,
+      2.25,
+      2.19,
+      1.5,
+      1.6,
+      1.48,
+      1.45,
+      1.69,
+      1.53,
+      1.55,
+      1.48,
+      1.36
+    ],
+    "Componentes": {
+      "FST0013 - FISIOLOGIA DO EXERCÍCIO": {
+        "Notas": [
+          8.74,
+          9.06,
+          9.28,
+          9.56
+        ],
+        "Desvios": [
+          2.41,
+          1.6,
+          1.69,
+          1.48
+        ],
+        "DesvioDeNotas": 0.3003331483536241,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.795,
+        "NotaMediana": 9.28
+      },
+      "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA": {
+        "Notas": [
+          9.18,
+          9.41,
+          9.61,
+          9.9
+        ],
+        "Desvios": [
+          2.25,
+          1.48,
+          1.53,
+          1.36
+        ],
+        "DesvioDeNotas": 0.264622372447985,
+        "MediaDeNotas": 9.524999999999999,
+        "MediaDeDesvios": 1.655,
+        "NotaMediana": 9.61
+      },
+      "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA": {
+        "Notas": [
+          8.59,
+          9.46,
+          9.84
+        ],
+        "Desvios": [
+          2.19,
+          1.45,
+          1.55
+        ],
+        "DesvioDeNotas": 0.5232165474787238,
+        "MediaDeNotas": 9.296666666666667,
+        "MediaDeDesvios": 1.7299999999999998,
+        "NotaMediana": 9.46
+      },
+      "FST0052 - PRÁTICA TERAPÊUTICA SUPERVISIONADA I": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9
+      }
+    },
+    "DesvioDeNotas": 0.3908351101594294,
+    "MediaDeNotas": 9.3025,
+    "MediaDeDesvios": 1.7074999999999998,
+    "NotaMediana": 9.41
+  },
+  "GILDASIO LUCAS DE LUCENA": {
+    "Notas": [
+      9,
+      9.27,
+      9.3,
+      9.45,
+      9.57,
+      9.58,
+      9.66,
+      9.69,
+      9.73
+    ],
+    "Desvios": [
+      1.47,
+      1.67,
+      1.3,
+      1.6,
+      1.74,
+      1.37,
+      0.96,
+      1.4,
+      1.39
+    ],
+    "Componentes": {
+      "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA": {
+        "Notas": [
+          9.3,
+          9.45,
+          9.57,
+          9.73
+        ],
+        "Desvios": [
+          1.47,
+          1.3,
+          1.74,
+          0.96
+        ],
+        "DesvioDeNotas": 0.15785673884886892,
+        "MediaDeNotas": 9.5125,
+        "MediaDeDesvios": 1.3675,
+        "NotaMediana": 9.57
+      },
+      "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA": {
+        "Notas": [
+          9,
+          9.27,
+          9.66,
+          9.69
+        ],
+        "Desvios": [
+          1.67,
+          1.6,
+          1.37,
+          1.4
+        ],
+        "DesvioDeNotas": 0.28657459761814197,
+        "MediaDeNotas": 9.405,
+        "MediaDeDesvios": 1.5100000000000002,
+        "NotaMediana": 9.66
+      },
+      "FST0016 - INTRODUÇÃO A TECNOLOGIA ASSISTIVA": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.58
+      }
+    },
+    "DesvioDeNotas": 0.2271454638076558,
+    "MediaDeNotas": 9.472222222222221,
+    "MediaDeDesvios": 1.4333333333333333,
+    "NotaMediana": 9.57
+  },
+  "GUILHERME AUGUSTO DE FREITAS FREGONEZI": {
+    "Notas": [
+      8.95,
+      9.18,
+      9.39,
+      9.55,
+      9.7,
+      9.72
+    ],
+    "Desvios": [
+      1.1,
+      1.53,
+      1.5,
+      2.03,
+      1.29,
+      1.28
+    ],
+    "Componentes": {
+      "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA": {
+        "Notas": [
+          9.18,
+          9.7,
+          9.72
+        ],
+        "Desvios": [
+          1.1,
+          1.5,
+          1.29
+        ],
+        "DesvioDeNotas": 0.2499777767900358,
+        "MediaDeNotas": 9.533333333333333,
+        "MediaDeDesvios": 1.2966666666666666,
+        "NotaMediana": 9.7
+      },
+      "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA": {
+        "Notas": [
+          8.95,
+          9.39,
+          9.55
+        ],
+        "Desvios": [
+          1.53,
+          2.03,
+          1.28
+        ],
+        "DesvioDeNotas": 0.25368396787253994,
+        "MediaDeNotas": 9.296666666666667,
+        "MediaDeDesvios": 1.6133333333333333,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.27825348155953084,
+    "MediaDeNotas": 9.415,
+    "MediaDeDesvios": 1.455,
+    "NotaMediana": 9.55
+  },
+  "IVAN DANIEL BEZERRA NOGUEIRA": {
+    "Notas": [
+      10,
+      9.77,
+      9.88,
+      9.91,
+      9.94,
+      9.96,
+      9.98
+    ],
+    "Desvios": [
+      0.99,
+      0.73,
+      1.54,
+      1.31,
+      0.89,
+      0.93,
+      0.95
+    ],
+    "Componentes": {
+      "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA": {
+        "Notas": [
+          9.77,
+          9.94,
+          9.96
+        ],
+        "Desvios": [
+          0.99,
+          1.54,
+          0.93
+        ],
+        "DesvioDeNotas": 0.08524474568362982,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.1533333333333335,
+        "NotaMediana": 9.94
+      },
+      "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA": {
+        "Notas": [
+          9.88,
+          9.91,
+          9.98
+        ],
+        "Desvios": [
+          0.73,
+          1.31,
+          0.95
+        ],
+        "DesvioDeNotas": 0.041899350299921694,
+        "MediaDeNotas": 9.923333333333334,
+        "MediaDeDesvios": 0.9966666666666667,
+        "NotaMediana": 9.91
+      },
+      "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          0.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 0.89,
+        "NotaMediana": 10
+      }
+    },
+    "DesvioDeNotas": 0.07191264542087569,
+    "MediaDeNotas": 9.92,
+    "MediaDeDesvios": 1.0485714285714285,
+    "NotaMediana": 9.91
+  },
+  "JAMILSON SIMOES BRASILEIRO": {
+    "Notas": [
+      9.62,
+      9.86,
+      9.9
+    ],
+    "Desvios": [
+      1.41,
+      0.86,
+      1.13
+    ],
+    "Componentes": {
+      "FST0303 - CINESIOLOGIA": {
+        "Notas": [
+          9.62,
+          9.86,
+          9.9
+        ],
+        "Desvios": [
+          1.41,
+          0.86,
+          1.13
+        ],
+        "DesvioDeNotas": 0.12364824660660975,
+        "MediaDeNotas": 9.793333333333333,
+        "MediaDeDesvios": 1.1333333333333333,
+        "NotaMediana": 9.86
+      }
+    },
+    "DesvioDeNotas": 0.12364824660660975,
+    "MediaDeNotas": 9.793333333333333,
+    "MediaDeDesvios": 1.1333333333333333,
+    "NotaMediana": 9.86
+  },
+  "JAQUELINE FERNANDES PONTES": {
+    "Notas": [
+      8.46,
+      8.47,
+      8.54,
+      8.68,
+      8.88,
+      8.91,
+      9.02,
+      9.32,
+      9.41
+    ],
+    "Desvios": [
+      1.84,
+      1,
+      2.13,
+      2.16,
+      2.45,
+      2.8,
+      1.43,
+      1.71,
+      1.87
+    ],
+    "Componentes": {
+      "DSC0063 - ATIVIDADE INTERATIVA INTERDISCIPLINAR II: SAÚDE E CIDADANIA (SACI II)": {
+        "Notas": [
+          8.54
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.54,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 8.54
+      },
+      "FST0055 - PRÁTICA TERAPÊUTICA SUPERVISIONADA IV": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1,
+        "NotaMediana": 9.32
+      },
+      "DSC0090 - SAUDE E CIDADANIA": {
+        "Notas": [
+          8.88,
+          8.91,
+          9.02,
+          9.41
+        ],
+        "Desvios": [
+          2.13,
+          2.45,
+          1.43,
+          1.87
+        ],
+        "DesvioDeNotas": 0.2114828598255659,
+        "MediaDeNotas": 9.055,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.02
+      },
+      "FST0327 - DEFICIENCIA NO CONTEXTO DA SOCIEDADE": {
+        "Notas": [
+          8.46,
+          8.47,
+          8.68
+        ],
+        "Desvios": [
+          2.16,
+          2.8,
+          1.71
+        ],
+        "DesvioDeNotas": 0.10143416036468576,
+        "MediaDeNotas": 8.536666666666667,
+        "MediaDeDesvios": 2.223333333333333,
+        "NotaMediana": 8.47
+      }
+    },
+    "DesvioDeNotas": 0.33153217075709795,
+    "MediaDeNotas": 8.854444444444447,
+    "MediaDeDesvios": 1.9322222222222223,
+    "NotaMediana": 8.88
+  },
+  "JOCELINE CASSIA FEREZINI DE SA": {
+    "Notas": [
+      8.56,
+      8.67,
+      9.22,
+      9.25,
+      9.39,
+      9.64,
+      9.69,
+      9.74,
+      9.82,
+      9.84,
+      9.87
+    ],
+    "Desvios": [
+      1.33,
+      0.87,
+      1.51,
+      1.43,
+      1.8,
+      1.64,
+      1.65,
+      1.08,
+      1.74,
+      1.96,
+      1.35
+    ],
+    "Componentes": {
+      "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA": {
+        "Notas": [
+          8.56,
+          9.39,
+          9.64,
+          9.82
+        ],
+        "Desvios": [
+          1.33,
+          1.43,
+          1.65,
+          1.96
+        ],
+        "DesvioDeNotas": 0.48235749190823185,
+        "MediaDeNotas": 9.352500000000001,
+        "MediaDeDesvios": 1.5925,
+        "NotaMediana": 9.64
+      },
+      "FST0052 - PRÁTICA TERAPÊUTICA SUPERVISIONADA I": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          0.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 0.87,
+        "NotaMediana": 9.74
+      },
+      "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA": {
+        "Notas": [
+          8.67,
+          9.25,
+          9.87
+        ],
+        "Desvios": [
+          1.51,
+          1.64,
+          1.74
+        ],
+        "DesvioDeNotas": 0.4899886620003453,
+        "MediaDeNotas": 9.263333333333334,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.25
+      },
+      "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA": {
+        "Notas": [
+          9.22,
+          9.69,
+          9.84
+        ],
+        "Desvios": [
+          1.8,
+          1.08,
+          1.35
+        ],
+        "DesvioDeNotas": 0.26411277052720367,
+        "MediaDeNotas": 9.583333333333334,
+        "MediaDeDesvios": 1.4100000000000001,
+        "NotaMediana": 9.69
+      }
+    },
+    "DesvioDeNotas": 0.44045993992380944,
+    "MediaDeNotas": 9.426363636363636,
+    "MediaDeDesvios": 1.4872727272727275,
+    "NotaMediana": 9.64
+  },
+  "JULIANA MARIA GAZZOLA": {
+    "Notas": [
+      8.85,
+      9.06,
+      9.11,
+      9.37,
+      9.59,
+      9.65
+    ],
+    "Desvios": [
+      1.96,
+      1.76,
+      2.2,
+      2.02,
+      1.09,
+      1.47
+    ],
+    "Componentes": {
+      "FST0016 - INTRODUÇÃO A TECNOLOGIA ASSISTIVA": {
+        "Notas": [
+          9.06,
+          9.11,
+          9.37,
+          9.59
+        ],
+        "Desvios": [
+          1.96,
+          1.76,
+          2.02,
+          1.47
+        ],
+        "DesvioDeNotas": 0.21299941314473134,
+        "MediaDeNotas": 9.2825,
+        "MediaDeDesvios": 1.8025,
+        "NotaMediana": 9.37
+      },
+      "FST0033 - GERONTOLOGIA": {
+        "Notas": [
+          8.85,
+          9.65
+        ],
+        "Desvios": [
+          2.2,
+          1.09
+        ],
+        "DesvioDeNotas": 0.40000000000000036,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.645,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.2895062847139746,
+    "MediaDeNotas": 9.271666666666667,
+    "MediaDeDesvios": 1.75,
+    "NotaMediana": 9.37
+  },
+  "KARLA MORGANNA PEREIRA PINTO DE MENDONCA": {
+    "Notas": [
+      9.47,
+      9.56,
+      9.74,
+      9.82,
+      9.89,
+      9.96
+    ],
+    "Desvios": [
+      0.63,
+      1.57,
+      1.41,
+      1.04,
+      1.25,
+      1.67
+    ],
+    "Componentes": {
+      "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA": {
+        "Notas": [
+          9.47,
+          9.74,
+          9.82,
+          9.96
+        ],
+        "Desvios": [
+          0.63,
+          1.57,
+          1.04,
+          1.25
+        ],
+        "DesvioDeNotas": 0.17851820635442203,
+        "MediaDeNotas": 9.7475,
+        "MediaDeDesvios": 1.1225,
+        "NotaMediana": 9.82
+      },
+      "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA": {
+        "Notas": [
+          9.56,
+          9.89
+        ],
+        "Desvios": [
+          1.41,
+          1.67
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.725000000000001,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.89
+      }
+    },
+    "DesvioDeNotas": 0.17445152144172701,
+    "MediaDeNotas": 9.74,
+    "MediaDeDesvios": 1.2616666666666667,
+    "NotaMediana": 9.82
+  },
+  "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO": {
+    "Notas": [
+      9.47,
+      9.48,
+      9.53,
+      9.57,
+      9.66,
+      9.7,
+      9.7,
+      9.72,
+      9.79,
+      9.86,
+      9.91,
+      9.95
+    ],
+    "Desvios": [
+      1.36,
+      2.4,
+      1.12,
+      1.67,
+      0.81,
+      1.01,
+      1.35,
+      0.83,
+      1.04,
+      0.97,
+      1.3,
+      1.04
+    ],
+    "Componentes": {
+      "FST0303 - CINESIOLOGIA": {
+        "Notas": [
+          9.57,
+          9.95
+        ],
+        "Desvios": [
+          1.36,
+          0.81
+        ],
+        "DesvioDeNotas": 0.1899999999999995,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.085,
+        "NotaMediana": 9.95
+      },
+      "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III": {
+        "Notas": [
+          9.53,
+          9.7,
+          9.7,
+          9.79
+        ],
+        "Desvios": [
+          2.4,
+          1.12,
+          1.67,
+          1.3
+        ],
+        "DesvioDeNotas": 0.09407443861113382,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.6224999999999998,
+        "NotaMediana": 9.7
+      },
+      "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II": {
+        "Notas": [
+          9.47,
+          9.48,
+          9.86
+        ],
+        "Desvios": [
+          1.01,
+          1.35,
+          0.97
+        ],
+        "DesvioDeNotas": 0.18153665072253417,
+        "MediaDeNotas": 9.603333333333333,
+        "MediaDeDesvios": 1.11,
+        "NotaMediana": 9.48
+      },
+      "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA": {
+        "Notas": [
+          9.72,
+          9.91
+        ],
+        "Desvios": [
+          0.83,
+          1.04
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.815000000000001,
+        "MediaDeDesvios": 0.935,
+        "NotaMediana": 9.91
+      },
+      "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.1552149047825839,
+    "MediaDeNotas": 9.695,
+    "MediaDeDesvios": 1.241666666666667,
+    "NotaMediana": 9.7
+  },
+  "LARISSA BASTOS TAVARES": {
+    "Notas": [
+      8.88,
+      9.74
+    ],
+    "Desvios": [
+      1.19,
+      2.4
+    ],
+    "Componentes": {
+      "FST0303 - CINESIOLOGIA": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.74
+      },
+      "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA": {
+        "Notas": [
+          8.88
+        ],
+        "Desvios": [
+          2.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.88,
+        "MediaDeDesvios": 2.4,
+        "NotaMediana": 8.88
+      }
+    },
+    "DesvioDeNotas": 0.4299999999999997,
+    "MediaDeNotas": 9.31,
+    "MediaDeDesvios": 1.795,
+    "NotaMediana": 9.74
+  },
+  "LILIAN LIRA LISBOA": {
+    "Notas": [
+      9.94,
+      9.97,
+      9.97,
+      9.99
+    ],
+    "Desvios": [
+      0.72,
+      0.36,
+      0.41,
+      0.29
+    ],
+    "Componentes": {
+      "MGO0009 - COMPETENCIA CULTURAL NA ATENÇÃO A SAUDE DA MULHER QUILOMBOLA": {
+        "Notas": [
+          9.94,
+          9.97,
+          9.99
+        ],
+        "Desvios": [
+          0.72,
+          0.41,
+          0.29
+        ],
+        "DesvioDeNotas": 0.020548046676563587,
+        "MediaDeNotas": 9.966666666666667,
+        "MediaDeDesvios": 0.47333333333333333,
+        "NotaMediana": 9.97
+      },
+      "FST0054 - PRÁTICA TERAPÊUTICA SUPERVISIONADA III": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          0.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 0.36,
+        "NotaMediana": 9.97
+      }
+    },
+    "DesvioDeNotas": 0.01785357107135743,
+    "MediaDeNotas": 9.9675,
+    "MediaDeDesvios": 0.445,
+    "NotaMediana": 9.97
+  },
+  "LUCIANA PROTASIO DE MELO": {
+    "Notas": [
+      9.14,
+      9.55,
+      9.69,
+      9.84,
+      9.86,
+      9.9,
+      9.91,
+      9.93,
+      9.99,
+      9.99
+    ],
+    "Desvios": [
+      1.35,
+      1.13,
+      1.1,
+      1.09,
+      1.95,
+      1.47,
+      1.12,
+      1.68,
+      0.94,
+      0.85
+    ],
+    "Componentes": {
+      "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA": {
+        "Notas": [
+          9.69,
+          9.84,
+          9.86,
+          9.93
+        ],
+        "Desvios": [
+          1.35,
+          1.09,
+          1.12,
+          0.85
+        ],
+        "DesvioDeNotas": 0.08746427842267956,
+        "MediaDeNotas": 9.829999999999998,
+        "MediaDeDesvios": 1.1025,
+        "NotaMediana": 9.86
+      },
+      "FST0325 - PSICOMOTRICIDADE": {
+        "Notas": [
+          9.14,
+          9.91,
+          9.99
+        ],
+        "Desvios": [
+          1.13,
+          1.95,
+          1.68
+        ],
+        "DesvioDeNotas": 0.3832318706301272,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.5866666666666667,
+        "NotaMediana": 9.91
+      },
+      "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA": {
+        "Notas": [
+          9.55,
+          9.9,
+          9.99
+        ],
+        "Desvios": [
+          1.1,
+          1.47,
+          0.94
+        ],
+        "DesvioDeNotas": 0.18979521127315657,
+        "MediaDeNotas": 9.813333333333333,
+        "MediaDeDesvios": 1.1700000000000002,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.24951953831313473,
+    "MediaDeNotas": 9.780000000000001,
+    "MediaDeDesvios": 1.268,
+    "NotaMediana": 9.9
+  },
+  "MARCELLO BARBOSA OTONI GONCALVES GUEDES": {
+    "Notas": [
+      8.05,
+      9.7
+    ],
+    "Desvios": [
+      1.02,
+      1.98
+    ],
+    "Componentes": {
+      "DSC0063 - ATIVIDADE INTERATIVA INTERDISCIPLINAR II: SAÚDE E CIDADANIA (SACI II)": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.02,
+        "NotaMediana": 9.7
+      },
+      "FST0055 - PRÁTICA TERAPÊUTICA SUPERVISIONADA IV": {
+        "Notas": [
+          8.05
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.05,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 8.05
+      }
+    },
+    "DesvioDeNotas": 0.8249999999999993,
+    "MediaDeNotas": 8.875,
+    "MediaDeDesvios": 1.5,
+    "NotaMediana": 9.7
+  },
+  "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI": {
+    "Notas": [
+      8.55,
+      8.64,
+      9.47,
+      9.49,
+      9.62,
+      9.62,
+      9.66,
+      9.67,
+      9.74,
+      9.77,
+      9.81
+    ],
+    "Desvios": [
+      1.62,
+      1.18,
+      1.39,
+      0.75,
+      1.13,
+      0.94,
+      1.04,
+      2.66,
+      2.24,
+      0.93,
+      1.1
+    ],
+    "Componentes": {
+      "FST0326 - FISIOTERAPIA DERMATO - FUNCIONAL": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.62
+      },
+      "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA": {
+        "Notas": [
+          9.49,
+          9.66,
+          9.67,
+          9.77
+        ],
+        "Desvios": [
+          1.18,
+          0.75,
+          0.94,
+          0.93
+        ],
+        "DesvioDeNotas": 0.10059199769365333,
+        "MediaDeNotas": 9.647499999999999,
+        "MediaDeDesvios": 0.9500000000000001,
+        "NotaMediana": 9.67
+      },
+      "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA": {
+        "Notas": [
+          9.47,
+          9.62,
+          9.74,
+          9.81
+        ],
+        "Desvios": [
+          1.39,
+          1.13,
+          1.04,
+          1.1
+        ],
+        "DesvioDeNotas": 0.1290348790056394,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.165,
+        "NotaMediana": 9.74
+      },
+      "FST0035.0 - RECURSOS TERAPÊUTICOS MANUAIS": {
+        "Notas": [
+          8.55
+        ],
+        "Desvios": [
+          2.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.55,
+        "MediaDeDesvios": 2.66,
+        "NotaMediana": 8.55
+      },
+      "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA": {
+        "Notas": [
+          8.64
+        ],
+        "Desvios": [
+          2.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.64,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 8.64
+      }
+    },
+    "DesvioDeNotas": 0.4192811636776399,
+    "MediaDeNotas": 9.458181818181819,
+    "MediaDeDesvios": 1.3618181818181818,
+    "NotaMediana": 9.62
+  },
+  "PATRICIA ANGELICA DE MIRANDA SILVA NOGUEIRA": {
+    "Notas": [
+      9.06,
+      9.49,
+      9.74,
+      9.74,
+      9.77,
+      9.87,
+      9.99
+    ],
+    "Desvios": [
+      0.98,
+      0.85,
+      1.41,
+      1.34,
+      1.05,
+      1.94,
+      1.65
+    ],
+    "Componentes": {
+      "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA": {
+        "Notas": [
+          9.49,
+          9.74,
+          9.77,
+          9.87
+        ],
+        "Desvios": [
+          0.98,
+          1.41,
+          1.05,
+          1.65
+        ],
+        "DesvioDeNotas": 0.13988834833537747,
+        "MediaDeNotas": 9.717500000000001,
+        "MediaDeDesvios": 1.2725,
+        "NotaMediana": 9.77
+      },
+      "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA": {
+        "Notas": [
+          9.06,
+          9.74,
+          9.99
+        ],
+        "Desvios": [
+          0.85,
+          1.34,
+          1.94
+        ],
+        "DesvioDeNotas": 0.3929659301036441,
+        "MediaDeNotas": 9.596666666666666,
+        "MediaDeDesvios": 1.3766666666666667,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.28449740861773054,
+    "MediaDeNotas": 9.665714285714285,
+    "MediaDeDesvios": 1.3171428571428572,
+    "NotaMediana": 9.74
+  },
+  "RAYSA VANESSA DE MEDEIROS FREITAS": {
+    "Notas": [
+      9.41,
+      9.71,
+      9.81
+    ],
+    "Desvios": [
+      1.28,
+      1.06,
+      0.59
+    ],
+    "Componentes": {
+      "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA": {
+        "Notas": [
+          9.41,
+          9.81
+        ],
+        "Desvios": [
+          1.28,
+          0.59
+        ],
+        "DesvioDeNotas": 0.20000000000000018,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 0.935,
+        "NotaMediana": 9.81
+      },
+      "FST0015 - FISIOTERAPIA AQUÁTICA": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.06,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0.1699673171197597,
+    "MediaDeNotas": 9.643333333333333,
+    "MediaDeDesvios": 0.9766666666666666,
+    "NotaMediana": 9.71
+  },
+  "RICARDO OLIVEIRA GUERRA": {
+    "Notas": [
+      9.19,
+      9.36,
+      9.54,
+      9.57,
+      9.59,
+      9.79,
+      9.79,
+      9.8
+    ],
+    "Desvios": [
+      2.16,
+      1.74,
+      1.34,
+      1.77,
+      1.71,
+      1.74,
+      1.26,
+      1.04
+    ],
+    "Componentes": {
+      "FST0302 - FUNDAMENTOS DE EPIDEMIOLOGIA E SAUDE PUBLICA": {
+        "Notas": [
+          9.54,
+          9.59,
+          9.79,
+          9.8
+        ],
+        "Desvios": [
+          2.16,
+          1.34,
+          1.71,
+          1.26
+        ],
+        "DesvioDeNotas": 0.11640446726822842,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.6175,
+        "NotaMediana": 9.79
+      },
+      "FST0026 - METODOLOGIA DA PESQUISA CIENTIFICA": {
+        "Notas": [
+          9.19,
+          9.36,
+          9.57,
+          9.79
+        ],
+        "Desvios": [
+          1.74,
+          1.77,
+          1.74,
+          1.04
+        ],
+        "DesvioDeNotas": 0.22509720122649235,
+        "MediaDeNotas": 9.4775,
+        "MediaDeDesvios": 1.5725,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.20581772882820382,
+    "MediaDeNotas": 9.57875,
+    "MediaDeDesvios": 1.5949999999999998,
+    "NotaMediana": 9.59
+  },
+  "ROSELENE FERREIRA DE ALENCAR": {
+    "Notas": [
+      9.07,
+      9.15,
+      9.83
+    ],
+    "Desvios": [
+      2.1,
+      2.12,
+      0.36
+    ],
+    "Componentes": {
+      "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.15
+      },
+      "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 9.07
+      },
+      "FST0054 - PRÁTICA TERAPÊUTICA SUPERVISIONADA III": {
+        "Notas": [
+          9.83
+        ],
+        "Desvios": [
+          0.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 0.36,
+        "NotaMediana": 9.83
+      }
+    },
+    "DesvioDeNotas": 0.3409789827345178,
+    "MediaDeNotas": 9.35,
+    "MediaDeDesvios": 1.526666666666667,
+    "NotaMediana": 9.15
+  },
+  "ROSEMARY ARAUJO MONTEIRO": {
+    "Notas": [
+      8.16,
+      8.87,
+      8.96,
+      9.03,
+      9.13,
+      9.21,
+      9.22,
+      9.37,
+      9.44,
+      9.5,
+      9.55,
+      9.57,
+      9.71
+    ],
+    "Desvios": [
+      2.15,
+      1.97,
+      1.94,
+      1.66,
+      1.7,
+      1.31,
+      1.63,
+      1.44,
+      1.23,
+      1.15,
+      1.26,
+      1.23,
+      1.4
+    ],
+    "Componentes": {
+      "DSC0063 - ATIVIDADE INTERATIVA INTERDISCIPLINAR II: SAÚDE E CIDADANIA (SACI II)": {
+        "Notas": [
+          8.16,
+          9.57,
+          9.71
+        ],
+        "Desvios": [
+          2.15,
+          1.66,
+          1.44
+        ],
+        "DesvioDeNotas": 0.7000158728359112,
+        "MediaDeNotas": 9.146666666666667,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 9.57
+      },
+      "FST0326 - FISIOTERAPIA DERMATO - FUNCIONAL": {
+        "Notas": [
+          8.96,
+          9.03,
+          9.44
+        ],
+        "Desvios": [
+          1.97,
+          1.7,
+          1.26
+        ],
+        "DesvioDeNotas": 0.21171259344267188,
+        "MediaDeNotas": 9.143333333333333,
+        "MediaDeDesvios": 1.6433333333333333,
+        "NotaMediana": 9.03
+      },
+      "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA": {
+        "Notas": [
+          8.87,
+          9.21,
+          9.37
+        ],
+        "Desvios": [
+          1.94,
+          1.31,
+          1.23
+        ],
+        "DesvioDeNotas": 0.208486610281492,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.4933333333333334,
+        "NotaMediana": 9.21
+      },
+      "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA": {
+        "Notas": [
+          9.13,
+          9.22,
+          9.5
+        ],
+        "Desvios": [
+          1.63,
+          1.15,
+          1.23
+        ],
+        "DesvioDeNotas": 0.15755069730795263,
+        "MediaDeNotas": 9.283333333333333,
+        "MediaDeDesvios": 1.3366666666666667,
+        "NotaMediana": 9.22
+      },
+      "DSC0090 - SAUDE E CIDADANIA": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.4,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.38999924138903624,
+    "MediaDeNotas": 9.209230769230768,
+    "MediaDeDesvios": 1.5438461538461539,
+    "NotaMediana": 9.22
+  },
+  "SANDRA CRISTINA DE ANDRADE": {
+    "Notas": [
+      10,
+      10,
+      10,
+      9.16,
+      9.18,
+      9.4,
+      9.42,
+      9.42,
+      9.49,
+      9.5,
+      9.51,
+      9.57,
+      9.57,
+      9.59,
+      9.64,
+      9.66,
+      9.67,
+      9.68,
+      9.68,
+      9.72,
+      9.75,
+      9.77,
+      9.79,
+      9.8,
+      9.81,
+      9.82,
+      9.89,
+      9.9,
+      9.91,
+      9.98
+    ],
+    "Desvios": [
+      1.55,
+      2.19,
+      2.39,
+      1.99,
+      1.12,
+      0.73,
+      1.05,
+      0.91,
+      1.54,
+      1.04,
+      0.5,
+      0.8,
+      0.45,
+      1.47,
+      1.38,
+      1.5,
+      1.73,
+      1.45,
+      0.77,
+      0.08,
+      0,
+      0.31,
+      1.17,
+      1.06,
+      0.91,
+      1.06,
+      0.15,
+      0.58,
+      0.89,
+      0.87
+    ],
+    "Componentes": {
+      "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II": {
+        "Notas": [
+          9.4,
+          9.42,
+          9.49,
+          9.51,
+          9.57
+        ],
+        "Desvios": [
+          1.55,
+          2.19,
+          2.39,
+          1.5,
+          1.06
+        ],
+        "DesvioDeNotas": 0.06177378084592199,
+        "MediaDeNotas": 9.478,
+        "MediaDeDesvios": 1.7380000000000002,
+        "NotaMediana": 9.49
+      },
+      "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA": {
+        "Notas": [
+          9.5,
+          9.67,
+          9.68,
+          9.79
+        ],
+        "Desvios": [
+          1.99,
+          1.04,
+          1.45,
+          1.06
+        ],
+        "DesvioDeNotas": 0.10368220676663832,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.3850000000000002,
+        "NotaMediana": 9.68
+      },
+      "MCL0031.1 - REUMATOLOGIA - PRÁTICA": {
+        "Notas": [
+          10,
+          10,
+          10,
+          9.16,
+          9.42,
+          9.68,
+          9.72,
+          9.75,
+          9.77,
+          9.8,
+          9.82,
+          9.89,
+          9.91,
+          9.98
+        ],
+        "Desvios": [
+          1.12,
+          0.73,
+          0.5,
+          0.8,
+          0.45,
+          1.47,
+          0.77,
+          0.08,
+          0,
+          0.31,
+          0.15,
+          0.58,
+          0.89,
+          0.87
+        ],
+        "DesvioDeNotas": 0.2306468278205306,
+        "MediaDeNotas": 9.778571428571428,
+        "MediaDeDesvios": 0.6228571428571428,
+        "NotaMediana": 9.75
+      },
+      "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I": {
+        "Notas": [
+          9.18,
+          9.57,
+          9.59,
+          9.81,
+          9.9
+        ],
+        "Desvios": [
+          1.05,
+          0.91,
+          1.54,
+          1.38,
+          1.17
+        ],
+        "DesvioDeNotas": 0.24939927826679878,
+        "MediaDeNotas": 9.610000000000001,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.59
+      },
+      "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III": {
+        "Notas": [
+          9.64,
+          9.66
+        ],
+        "Desvios": [
+          1.73,
+          0.91
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.22252490497320376,
+    "MediaDeNotas": 9.675999999999998,
+    "MediaDeDesvios": 1.0546666666666664,
+    "NotaMediana": 9.66
+  },
+  "SELMA SOUSA BRUNO": {
+    "Notas": [
+      8.15,
+      8.36,
+      8.65,
+      8.89,
+      9.22,
+      9.24,
+      9.26,
+      9.27,
+      9.37,
+      9.49,
+      9.79
+    ],
+    "Desvios": [
+      2.7,
+      1.33,
+      1.5,
+      1.53,
+      1.54,
+      1.72,
+      1.38,
+      1.67,
+      1.54,
+      1.92,
+      1.95
+    ],
+    "Componentes": {
+      "FST0013 - FISIOLOGIA DO EXERCÍCIO": {
+        "Notas": [
+          8.15,
+          8.89,
+          9.26,
+          9.27
+        ],
+        "Desvios": [
+          2.7,
+          1.53,
+          1.72,
+          1.54
+        ],
+        "DesvioDeNotas": 0.45521286229631047,
+        "MediaDeNotas": 8.8925,
+        "MediaDeDesvios": 1.8725,
+        "NotaMediana": 9.26
+      },
+      "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA": {
+        "Notas": [
+          8.65,
+          9.24,
+          9.49
+        ],
+        "Desvios": [
+          1.33,
+          1.38,
+          1.92
+        ],
+        "DesvioDeNotas": 0.35216788925485837,
+        "MediaDeNotas": 9.126666666666667,
+        "MediaDeDesvios": 1.5433333333333332,
+        "NotaMediana": 9.24
+      },
+      "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA": {
+        "Notas": [
+          8.36,
+          9.22,
+          9.37,
+          9.79
+        ],
+        "Desvios": [
+          1.5,
+          1.54,
+          1.67,
+          1.95
+        ],
+        "DesvioDeNotas": 0.5201201784203339,
+        "MediaDeNotas": 9.184999999999999,
+        "MediaDeDesvios": 1.665,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.47395993135382813,
+    "MediaDeNotas": 9.062727272727274,
+    "MediaDeDesvios": 1.7072727272727277,
+    "NotaMediana": 9.24
+  },
+  "SILVANA ALVES PEREIRA": {
+    "Notas": [
+      7.99,
+      9.22,
+      9.46,
+      9.62,
+      9.67,
+      9.7,
+      9.71,
+      9.77,
+      9.8,
+      9.86,
+      9.88,
+      9.9
+    ],
+    "Desvios": [
+      1.2,
+      1.57,
+      2.59,
+      1.06,
+      0.62,
+      2.01,
+      1.22,
+      1.05,
+      0.9,
+      0.6,
+      1.11,
+      1.14
+    ],
+    "Componentes": {
+      "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA": {
+        "Notas": [
+          9.22,
+          9.77,
+          9.8
+        ],
+        "Desvios": [
+          1.2,
+          1.06,
+          1.22
+        ],
+        "DesvioDeNotas": 0.2666249967442827,
+        "MediaDeNotas": 9.596666666666666,
+        "MediaDeDesvios": 1.16,
+        "NotaMediana": 9.77
+      },
+      "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA": {
+        "Notas": [
+          9.62,
+          9.7,
+          9.86
+        ],
+        "Desvios": [
+          1.57,
+          0.62,
+          1.05
+        ],
+        "DesvioDeNotas": 0.09977753031397187,
+        "MediaDeNotas": 9.726666666666665,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.7
+      },
+      "FST0015 - FISIOTERAPIA AQUÁTICA": {
+        "Notas": [
+          7.99,
+          9.46
+        ],
+        "Desvios": [
+          2.59,
+          2.01
+        ],
+        "DesvioDeNotas": 0.7350000000000003,
+        "MediaDeNotas": 8.725000000000001,
+        "MediaDeDesvios": 2.3,
+        "NotaMediana": 9.46
+      },
+      "CST2194.1 - ATENÇÃO FISIOTERAPÊUTICA NA SAÚDE DA CRIANÇA - ALTA COMPLEXIDADE - TEÓRICA II": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          0.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 0.9,
+        "NotaMediana": 9.71
+      },
+      "CST2194.3 - ATENÇÃO FISIOTERAPÊUTICA NA SAÚDE DA CRIANÇA - ALTA COMPLEXIDADE ENFERMARIA E UTI - PRÁTICA II": {
+        "Notas": [
+          9.88,
+          9.9
+        ],
+        "Desvios": [
+          0.6,
+          1.11
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 0.855,
+        "NotaMediana": 9.9
+      },
+      "CST2194.0 - ATENÇÃO FISIOTERAPÊUTICA NA SAÚDE DA CRIANÇA - ATENÇÃO BÁSICA E MÉDIA COMPLEXIDADE - TEÓRICA I": {
+        "Notas": [
+          9.67
+        ],
+        "Desvios": [
+          1.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.14,
+        "NotaMediana": 9.67
+      }
+    },
+    "DesvioDeNotas": 0.5046753632011595,
+    "MediaDeNotas": 9.548333333333336,
+    "MediaDeDesvios": 1.2558333333333336,
+    "NotaMediana": 9.71
+  },
+  "TANIA FERNANDES CAMPOS": {
+    "Notas": [
+      9.64,
+      9.68,
+      9.73,
+      9.75,
+      9.76,
+      9.77,
+      9.77,
+      9.87
+    ],
+    "Desvios": [
+      1.55,
+      1.24,
+      1.6,
+      0.91,
+      1.57,
+      1.87,
+      1.05,
+      0.98
+    ],
+    "Componentes": {
+      "FST0324 - APRENDIZAGEM E CONTROLE MOTOR": {
+        "Notas": [
+          9.64,
+          9.68,
+          9.77,
+          9.87
+        ],
+        "Desvios": [
+          1.55,
+          1.6,
+          1.57,
+          1.05
+        ],
+        "DesvioDeNotas": 0.08860022573334632,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.4425000000000001,
+        "NotaMediana": 9.77
+      },
+      "FST0306 - CINESIOTERAPIA": {
+        "Notas": [
+          9.73,
+          9.75,
+          9.76,
+          9.77
+        ],
+        "Desvios": [
+          1.24,
+          0.91,
+          1.87,
+          0.98
+        ],
+        "DesvioDeNotas": 0.014790199457748725,
+        "MediaDeNotas": 9.7525,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.76
+      }
+    },
+    "DesvioDeNotas": 0.06382348705609837,
+    "MediaDeNotas": 9.746250000000002,
+    "MediaDeDesvios": 1.3462500000000004,
+    "NotaMediana": 9.76
+  },
+  "TANIA REGINA BARBOSA DE OLIVEIRA": {
+    "Notas": [
+      8.36,
+      8.4,
+      9.03,
+      9.15,
+      9.18,
+      9.3,
+      9.41,
+      9.43,
+      9.51,
+      9.54,
+      9.62,
+      9.7,
+      9.72,
+      9.73,
+      9.85
+    ],
+    "Desvios": [
+      2.55,
+      2.83,
+      1.79,
+      2.51,
+      1.27,
+      2.08,
+      1.62,
+      1.45,
+      1.39,
+      1.1,
+      1.39,
+      1.1,
+      1.34,
+      1.09,
+      1.16
+    ],
+    "Componentes": {
+      "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I": {
+        "Notas": [
+          8.36,
+          9.15,
+          9.3,
+          9.43,
+          9.73
+        ],
+        "Desvios": [
+          2.55,
+          2.83,
+          1.79,
+          1.45,
+          1.1
+        ],
+        "DesvioDeNotas": 0.4586327506840307,
+        "MediaDeNotas": 9.193999999999999,
+        "MediaDeDesvios": 1.9439999999999997,
+        "NotaMediana": 9.3
+      },
+      "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA": {
+        "Notas": [
+          9.03,
+          9.18,
+          9.41,
+          9.72
+        ],
+        "Desvios": [
+          2.51,
+          1.62,
+          1.39,
+          1.16
+        ],
+        "DesvioDeNotas": 0.2602402735934626,
+        "MediaDeNotas": 9.335,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.41
+      },
+      "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III": {
+        "Notas": [
+          8.4,
+          9.51,
+          9.62,
+          9.85
+        ],
+        "Desvios": [
+          1.27,
+          2.08,
+          1.1,
+          1.09
+        ],
+        "DesvioDeNotas": 0.5592182042816557,
+        "MediaDeNotas": 9.344999999999999,
+        "MediaDeDesvios": 1.385,
+        "NotaMediana": 9.62
+      },
+      "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II": {
+        "Notas": [
+          9.54,
+          9.7
+        ],
+        "Desvios": [
+          1.39,
+          1.34
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.365,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.435734883718172,
+    "MediaDeNotas": 9.328666666666665,
+    "MediaDeDesvios": 1.6446666666666667,
+    "NotaMediana": 9.43
+  },
+  "TATIANA SOUZA RIBEIRO": {
+    "Notas": [
+      9.57,
+      9.68,
+      9.75,
+      9.75,
+      9.79,
+      9.82,
+      9.83,
+      9.84,
+      9.84,
+      9.9,
+      9.94,
+      9.96
+    ],
+    "Desvios": [
+      1.25,
+      1.36,
+      1.57,
+      1.25,
+      1.08,
+      0.86,
+      1.05,
+      1.06,
+      0.92,
+      0.92,
+      0.89,
+      1.12
+    ],
+    "Componentes": {
+      "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA": {
+        "Notas": [
+          9.75,
+          9.83,
+          9.9,
+          9.94
+        ],
+        "Desvios": [
+          1.25,
+          1.25,
+          1.05,
+          0.92
+        ],
+        "DesvioDeNotas": 0.0722841614740047,
+        "MediaDeNotas": 9.855,
+        "MediaDeDesvios": 1.1175,
+        "NotaMediana": 9.9
+      },
+      "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA": {
+        "Notas": [
+          9.68,
+          9.75,
+          9.79,
+          9.96
+        ],
+        "Desvios": [
+          1.36,
+          1.08,
+          1.06,
+          0.89
+        ],
+        "DesvioDeNotas": 0.10307764064044195,
+        "MediaDeNotas": 9.795,
+        "MediaDeDesvios": 1.0975000000000001,
+        "NotaMediana": 9.79
+      },
+      "FST0304 - METODOS E TECNICAS DE AVALIACAO": {
+        "Notas": [
+          9.57,
+          9.82,
+          9.84,
+          9.84
+        ],
+        "Desvios": [
+          1.57,
+          0.86,
+          0.92,
+          1.12
+        ],
+        "DesvioDeNotas": 0.11431863365173663,
+        "MediaDeNotas": 9.7675,
+        "MediaDeDesvios": 1.1175000000000002,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.10475831974385409,
+    "MediaDeNotas": 9.805833333333332,
+    "MediaDeDesvios": 1.1108333333333336,
+    "NotaMediana": 9.83
+  },
+  "TULIO OLIVEIRA DE SOUZA": {
+    "Notas": [
+      8.02,
+      8.55,
+      8.86,
+      9.54
+    ],
+    "Desvios": [
+      2.58,
+      2.42,
+      1.78,
+      1.69
+    ],
+    "Componentes": {
+      "FST0307 - ELETROTERMOFOTOTERAPIA": {
+        "Notas": [
+          8.02,
+          8.55,
+          8.86,
+          9.54
+        ],
+        "Desvios": [
+          2.58,
+          2.42,
+          1.78,
+          1.69
+        ],
+        "DesvioDeNotas": 0.5497442587239996,
+        "MediaDeNotas": 8.7425,
+        "MediaDeDesvios": 2.1175,
+        "NotaMediana": 8.86
+      }
+    },
+    "DesvioDeNotas": 0.5497442587239996,
+    "MediaDeNotas": 8.7425,
+    "MediaDeDesvios": 2.1175,
+    "NotaMediana": 8.86
+  },
+  "TÁCITO ZAILDO DE MORAIS SANTOS": {
+    "Notas": [
+      9.19,
+      9.52,
+      9.66,
+      9.7,
+      9.77,
+      9.82,
+      9.89
+    ],
+    "Desvios": [
+      2.05,
+      1.72,
+      1.88,
+      1.49,
+      1.52,
+      1.45,
+      1.3
+    ],
+    "Componentes": {
+      "FST0101 - ETICA E DEONTOLOGIA": {
+        "Notas": [
+          9.52,
+          9.66
+        ],
+        "Desvios": [
+          2.05,
+          1.49
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.66
+      },
+      "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA": {
+        "Notas": [
+          9.19,
+          9.89
+        ],
+        "Desvios": [
+          1.72,
+          1.45
+        ],
+        "DesvioDeNotas": 0.35000000000000053,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.585,
+        "NotaMediana": 9.89
+      },
+      "FST0027 - HISTORIA E FUNDAMENTOS DA FISIOTERAPIA": {
+        "Notas": [
+          9.7,
+          9.77
+        ],
+        "Desvios": [
+          1.88,
+          1.3
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.735,
+        "MediaDeDesvios": 1.5899999999999999,
+        "NotaMediana": 9.77
+      },
+      "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.2177810171446803,
+    "MediaDeNotas": 9.65,
+    "MediaDeDesvios": 1.6300000000000001,
+    "NotaMediana": 9.7
+  },
+  "VANESSA REGIANE RESQUETI FREGONEZI": {
+    "Notas": [
+      9.63,
+      9.64,
+      9.75,
+      9.77,
+      9.77,
+      9.77,
+      9.83,
+      9.84,
+      9.86,
+      9.88,
+      9.93,
+      9.93
+    ],
+    "Desvios": [
+      1.96,
+      1.68,
+      1.06,
+      1.87,
+      1.59,
+      1.47,
+      1.23,
+      1.86,
+      0.89,
+      0.96,
+      1.08,
+      1.02
+    ],
+    "Componentes": {
+      "FST0101 - ETICA E DEONTOLOGIA": {
+        "Notas": [
+          9.77,
+          9.77,
+          9.88
+        ],
+        "Desvios": [
+          1.96,
+          1.59,
+          0.89
+        ],
+        "DesvioDeNotas": 0.05185449728701406,
+        "MediaDeNotas": 9.806666666666667,
+        "MediaDeDesvios": 1.4799999999999998,
+        "NotaMediana": 9.77
+      },
+      "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA": {
+        "Notas": [
+          9.63,
+          9.64,
+          9.93
+        ],
+        "Desvios": [
+          1.68,
+          1.47,
+          0.96
+        ],
+        "DesvioDeNotas": 0.13912424503139426,
+        "MediaDeNotas": 9.733333333333334,
+        "MediaDeDesvios": 1.3699999999999999,
+        "NotaMediana": 9.64
+      },
+      "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA": {
+        "Notas": [
+          9.83,
+          9.84,
+          9.86
+        ],
+        "Desvios": [
+          1.06,
+          1.23,
+          1.08
+        ],
+        "DesvioDeNotas": 0.012472191289246206,
+        "MediaDeNotas": 9.843333333333332,
+        "MediaDeDesvios": 1.1233333333333333,
+        "NotaMediana": 9.84
+      },
+      "FST0027 - HISTORIA E FUNDAMENTOS DA FISIOTERAPIA": {
+        "Notas": [
+          9.75,
+          9.77,
+          9.93
+        ],
+        "Desvios": [
+          1.87,
+          1.86,
+          1.02
+        ],
+        "DesvioDeNotas": 0.08055363982396377,
+        "MediaDeNotas": 9.816666666666666,
+        "MediaDeDesvios": 1.5833333333333333,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.09398581453247769,
+    "MediaDeNotas": 9.799999999999999,
+    "MediaDeDesvios": 1.3891666666666669,
+    "NotaMediana": 9.83
+  },
+  "VESCIA VIEIRA DE ALENCAR CALDAS": {
+    "Notas": [
+      9.47,
+      9.78
+    ],
+    "Desvios": [
+      0.95,
+      1.22
+    ],
+    "Componentes": {
+      "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          0.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 0.95,
+        "NotaMediana": 9.47
+      },
+      "FST0325 - PSICOMOTRICIDADE": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.78
+      }
+    },
+    "DesvioDeNotas": 0.15499999999999936,
+    "MediaDeNotas": 9.625,
+    "MediaDeDesvios": 1.085,
+    "NotaMediana": 9.78
+  },
+  "VINÍCIUS VIEIRA DE ALENCAR CALDAS": {
+    "Notas": [
+      9.52
+    ],
+    "Desvios": [
+      1.49
+    ],
+    "Componentes": {
+      "FST0304 - METODOS E TECNICAS DE AVALIACAO": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.52
+  },
+  "WOUBER HÉRICKSON DE BRITO VIEIRA": {
+    "Notas": [
+      8.98,
+      9.05,
+      9.33,
+      9.54,
+      9.57,
+      9.59,
+      9.74,
+      9.75
+    ],
+    "Desvios": [
+      2.56,
+      1.76,
+      1.88,
+      1.56,
+      0.95,
+      1.39,
+      1.31,
+      1.19
+    ],
+    "Componentes": {
+      "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA": {
+        "Notas": [
+          8.98,
+          9.33,
+          9.59,
+          9.75
+        ],
+        "Desvios": [
+          2.56,
+          1.88,
+          0.95,
+          1.31
+        ],
+        "DesvioDeNotas": 0.29123658767400756,
+        "MediaDeNotas": 9.4125,
+        "MediaDeDesvios": 1.6749999999999998,
+        "NotaMediana": 9.59
+      },
+      "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA": {
+        "Notas": [
+          9.05,
+          9.54,
+          9.57,
+          9.74
+        ],
+        "Desvios": [
+          1.76,
+          1.56,
+          1.39,
+          1.19
+        ],
+        "DesvioDeNotas": 0.25695330315059167,
+        "MediaDeNotas": 9.475,
+        "MediaDeDesvios": 1.475,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.27640267274395136,
+    "MediaDeNotas": 9.443750000000001,
+    "MediaDeDesvios": 1.575,
+    "NotaMediana": 9.57
+  },
+  "CLECIO GABRIEL DE SOUZA": {
+    "Notas": [
+      9.45,
+      9.52
+    ],
+    "Desvios": [
+      1.2,
+      0.97
+    ],
+    "Componentes": {
+      "FST0055 - PRÁTICA TERAPÊUTICA SUPERVISIONADA IV": {
+        "Notas": [
+          9.45,
+          9.52
+        ],
+        "Desvios": [
+          1.2,
+          0.97
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.485,
+        "MediaDeDesvios": 1.085,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.03500000000000014,
+    "MediaDeNotas": 9.485,
+    "MediaDeDesvios": 1.085,
+    "NotaMediana": 9.52
+  },
+  "FABRICIA AZEVEDO DA COSTA CAVALCANTI": {
+    "Notas": [
+      7.86,
+      8.11,
+      9.62,
+      9.73,
+      9.8,
+      9.88,
+      9.88,
+      9.96
+    ],
+    "Desvios": [
+      1.13,
+      1.08,
+      2.52,
+      1.18,
+      0.92,
+      1,
+      0.84,
+      2.04
+    ],
+    "Componentes": {
+      "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA": {
+        "Notas": [
+          9.62,
+          9.73,
+          9.88
+        ],
+        "Desvios": [
+          1.13,
+          1.18,
+          1
+        ],
+        "DesvioDeNotas": 0.10656244908763916,
+        "MediaDeNotas": 9.743333333333334,
+        "MediaDeDesvios": 1.1033333333333333,
+        "NotaMediana": 9.73
+      },
+      "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA": {
+        "Notas": [
+          9.8,
+          9.88,
+          9.96
+        ],
+        "Desvios": [
+          1.08,
+          0.92,
+          0.84
+        ],
+        "DesvioDeNotas": 0.06531972647421815,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 0.9466666666666667,
+        "NotaMediana": 9.88
+      },
+      "DIM0122 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE": {
+        "Notas": [
+          7.86
+        ],
+        "Desvios": [
+          2.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.86,
+        "MediaDeDesvios": 2.52,
+        "NotaMediana": 7.86
+      },
+      "DEB0512 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE": {
+        "Notas": [
+          8.11
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.11,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 8.11
+      }
+    },
+    "DesvioDeNotas": 0.7993122043357029,
+    "MediaDeNotas": 9.355,
+    "MediaDeDesvios": 1.33875,
+    "NotaMediana": 9.8
+  },
+  "RAFAEL LIMEIRA CAVALCANTI": {
+    "Notas": [
+      9.18,
+      9.73,
+      9.76,
+      9.79
+    ],
+    "Desvios": [
+      0.99,
+      1.51,
+      0.99,
+      1.53
+    ],
+    "Componentes": {
+      "FST0015 - FISIOTERAPIA AQUÁTICA": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          0.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 0.99,
+        "NotaMediana": 9.73
+      },
+      "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.18
+      },
+      "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          0.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 0.99,
+        "NotaMediana": 9.79
+      },
+      "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.76
+      }
+    },
+    "DesvioDeNotas": 0.2520416632225712,
+    "MediaDeNotas": 9.615,
+    "MediaDeDesvios": 1.2550000000000001,
+    "NotaMediana": 9.76
+  },
+  "DANIEL GERMANO MACIEL": {
+    "Notas": [
+      9.59,
+      9.73,
+      9.76,
+      9.91
+    ],
+    "Desvios": [
+      0.62,
+      1.35,
+      0.99,
+      1.14
+    ],
+    "Componentes": {
+      "FST0304 - METODOS E TECNICAS DE AVALIACAO": {
+        "Notas": [
+          9.76,
+          9.91
+        ],
+        "Desvios": [
+          0.62,
+          1.14
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.835,
+        "MediaDeDesvios": 0.8799999999999999,
+        "NotaMediana": 9.91
+      },
+      "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.59
+      },
+      "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          0.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 0.99,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.11366067921669314,
+    "MediaDeNotas": 9.7475,
+    "MediaDeDesvios": 1.025,
+    "NotaMediana": 9.76
+  },
+  "LIANE DE BRITO MACEDO": {
+    "Notas": [
+      9.94
+    ],
+    "Desvios": [
+      0.7
+    ],
+    "Componentes": {
+      "FST0303 - CINESIOLOGIA": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          0.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 0.7,
+        "NotaMediana": 9.94
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.94,
+    "MediaDeDesvios": 0.7,
+    "NotaMediana": 9.94
+  },
+  "LIDIANE CRISTINA CORREIA BULHOES": {
+    "Notas": [
+      9.36,
+      9.55,
+      9.71,
+      9.77,
+      9.78
+    ],
+    "Desvios": [
+      2.11,
+      1.53,
+      1.58,
+      1.13,
+      1.37
+    ],
+    "Componentes": {
+      "FST0015 - FISIOTERAPIA AQUÁTICA": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 9.36
+      },
+      "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.55
+      },
+      "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.71
+      },
+      "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.78
+      },
+      "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.1598249041920564,
+    "MediaDeNotas": 9.634,
+    "MediaDeDesvios": 1.544,
+    "NotaMediana": 9.71
+  },
+  "IVANIZIA SOARES DA SILVA": {
+    "Notas": [
+      9.56,
+      9.78
+    ],
+    "Desvios": [
+      1.04,
+      1.66
+    ],
+    "Componentes": {
+      "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.78
+      },
+      "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.56
+      }
+    },
+    "DesvioDeNotas": 0.10999999999999943,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.35,
+    "NotaMediana": 9.78
+  }
+}

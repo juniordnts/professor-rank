@@ -1,0 +1,1901 @@
+[
+  {
+    "Docente": "ADELARDO ADELINO DANTAS DE MEDEIROS",
+    "Componente Curricular": "DCA0803 - PROGRAMACAO AVANCADA",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "28",
+    "Média Geral": "8.77",
+    "Desvio Padrão Geral": "3.06"
+  },
+  {
+    "Docente": "ADELARDO ADELINO DANTAS DE MEDEIROS",
+    "Componente Curricular": "DCA1202 - PROGRAMAÇAO AVANÇADA",
+    "Turma": "02A",
+    "Horário": "345T56",
+    "Discentes": "32",
+    "Média Geral": "9.28",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "ADELARDO ADELINO DANTAS DE MEDEIROS",
+    "Componente Curricular": "MCA0004 - PROJETO INTEGRADO DE MECATRÔNICA",
+    "Turma": "01A",
+    "Horário": "6M3456 (11/02/2019 - 29/06/2019)",
+    "Discentes": "11",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "0.57"
+  },
+  {
+    "Docente": "ADRIAO DUARTE DORIA NETO",
+    "Componente Curricular": "DCA0133 - APRENDIZAGEM DE MÁQUINA E MINERAÇÃO DE DADOS",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "11",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "2",
+    "Horário": "46M56",
+    "Discentes": "24",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA0445 - PROCESSAMENTO DIGITAL DE IMAGENS",
+    "Turma": "1",
+    "Horário": "46M34",
+    "Discentes": "23",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.24"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA1202 - PROGRAMAÇAO AVANÇADA",
+    "Turma": "01A",
+    "Horário": "246M12",
+    "Discentes": "41",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "ANDERSON LUIZ DE OLIVEIRA CAVALCANTI",
+    "Componente Curricular": "DCA0110 - MODELAGEM E ANALISE DE SISTEMAS DINAMICOS",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "27",
+    "Média Geral": "7.7",
+    "Desvio Padrão Geral": "2.67"
+  },
+  {
+    "Docente": "ANDERSON LUIZ DE OLIVEIRA CAVALCANTI",
+    "Componente Curricular": "DCA0216.0 - SISTEMAS DE CONTROLE - TEORIA",
+    "Turma": "2",
+    "Horário": "24T56",
+    "Discentes": "11",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "ANDRES ORTIZ SALAZAR",
+    "Componente Curricular": "DCA0203 - ELETRÔNICA",
+    "Turma": "01A",
+    "Horário": "35M34 6T56",
+    "Discentes": "27",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.24"
+  },
+  {
+    "Docente": "CARLOS EDUARDO TRABUCO DOREA",
+    "Componente Curricular": "DCA0110 - MODELAGEM E ANALISE DE SISTEMAS DINAMICOS",
+    "Turma": "2",
+    "Horário": "35M34",
+    "Discentes": "37",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "CARLOS MANUEL DIAS VIEGAS",
+    "Componente Curricular": "DCA0132 - ENGENHARIA DE DADOS",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "15",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.82"
+  },
+  {
+    "Docente": "CARLOS MANUEL DIAS VIEGAS",
+    "Componente Curricular": "DCA0130 - REDES DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "24M34",
+    "Discentes": "45",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "DIOGO PINHEIRO FERNANDES PEDROSA",
+    "Componente Curricular": "DCA0104 - ARQUITETURA DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "42",
+    "Média Geral": "7.87",
+    "Desvio Padrão Geral": "2.88"
+  },
+  {
+    "Docente": "DIOGO PINHEIRO FERNANDES PEDROSA",
+    "Componente Curricular": "ECT1405 - MODELAGEM INTEGRADA",
+    "Turma": "01A",
+    "Horário": "24T34 (11/02/2019 - 29/06/2019)",
+    "Discentes": "38",
+    "Média Geral": "8.03",
+    "Desvio Padrão Geral": "2.91"
+  },
+  {
+    "Docente": "DIOGO PINHEIRO FERNANDES PEDROSA",
+    "Componente Curricular": "DCA0108 - SISTEMAS OPERACIONAIS",
+    "Turma": "1",
+    "Horário": "6M1234",
+    "Discentes": "37",
+    "Média Geral": "6.8",
+    "Desvio Padrão Geral": "3.01"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "14",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "2",
+    "Horário": "35M56",
+    "Discentes": "10",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "1.64"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0212.0 - CIRCUITOS DIGITAIS - TEORIA",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "35",
+    "Média Geral": "8.96",
+    "Desvio Padrão Geral": "2.37"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0216.1 - SISTEMAS DE CONTROLE - LABORATÓRIO",
+    "Turma": "3",
+    "Horário": "6T34",
+    "Discentes": "10",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "0.69"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0413 - CONTROLE INTELIGENTE",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "6",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "0.97"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0216.1 - SISTEMAS DE CONTROLE - LABORATÓRIO",
+    "Turma": "1",
+    "Horário": "6M12",
+    "Discentes": "10",
+    "Média Geral": "9.92",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0216.1 - SISTEMAS DE CONTROLE - LABORATÓRIO",
+    "Turma": "2",
+    "Horário": "6M34",
+    "Discentes": "10",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0216.0 - SISTEMAS DE CONTROLE - TEORIA",
+    "Turma": "1",
+    "Horário": "24M34",
+    "Discentes": "23",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "FRANCISCO DAS CHAGAS MOTA",
+    "Componente Curricular": "DCA0103 - ANALISE DE SINAIS E SISTEMAS",
+    "Turma": "2",
+    "Horário": "246T56",
+    "Discentes": "37",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "FRANCISCO DAS CHAGAS MOTA",
+    "Componente Curricular": "DCA0100 - MATEMATICA DISCRETA",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "44",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "ISLAME FELIPE DA COSTA FERNANDES",
+    "Componente Curricular": "DCA0214.1 - ESTRUTURAS DE DADOS - LABORATÓRIO",
+    "Turma": "1",
+    "Horário": "6M34",
+    "Discentes": "21",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "ISLAME FELIPE DA COSTA FERNANDES",
+    "Componente Curricular": "DCA0214.1 - ESTRUTURAS DE DADOS - LABORATÓRIO",
+    "Turma": "2",
+    "Horário": "6M56",
+    "Discentes": "15",
+    "Média Geral": "9.01",
+    "Desvio Padrão Geral": "2.3"
+  },
+  {
+    "Docente": "ISLAME FELIPE DA COSTA FERNANDES",
+    "Componente Curricular": "DCA0214.0 - ESTRUTURAS DE DADOS - TEORIA",
+    "Turma": "1",
+    "Horário": "24M34",
+    "Discentes": "36",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "ISLAME FELIPE DA COSTA FERNANDES",
+    "Componente Curricular": "DCA0120 - PROJETO E DESENVOLVIMENTO DE SOFTWARE",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "43",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0212.1 - CIRCUITOS DIGITAIS - LABORATÓRIO",
+    "Turma": "2",
+    "Horário": "6T34",
+    "Discentes": "14",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0212.1 - CIRCUITOS DIGITAIS - LABORATÓRIO",
+    "Turma": "3",
+    "Horário": "6T56",
+    "Discentes": "7",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "2.47"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0803 - PROGRAMACAO AVANCADA",
+    "Turma": "2",
+    "Horário": "35T56",
+    "Discentes": "13",
+    "Média Geral": "7.89",
+    "Desvio Padrão Geral": "2.81"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0105 - TEORIA DE CIRCUITOS",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "24",
+    "Média Geral": "9.24",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "LUIZ AFFONSO HENDERSON GUEDES DE OLIVEIRA",
+    "Componente Curricular": "DCA0125 - SISTEMAS DE TEMPO REAL",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "16",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "LUIZ FELIPE DE QUEIROZ SILVEIRA",
+    "Componente Curricular": "DCA0118 - PROCESSAMENTO DIGITAL DE SINAIS",
+    "Turma": "2",
+    "Horário": "24T34",
+    "Discentes": "35",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "LUIZ MARCOS GARCIA GONCALVES",
+    "Componente Curricular": "DCA0114 - COMPUTACAO GRAFICA",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "24",
+    "Média Geral": "8.95",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "MANOEL FIRMINO DE MEDEIROS JUNIOR",
+    "Componente Curricular": "DCA0115 - OTIMIZACAO DE SISTEMAS",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "20",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "MARCELO AUGUSTO COSTA FERNANDES",
+    "Componente Curricular": "DCA0107 - SISTEMAS DE TRANSMISSAO DE DADOS",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "39",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "PABLO JAVIER ALSINA",
+    "Componente Curricular": "DCA0414 - INTRODUCAO A ROBOTICA",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "31",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "2.07"
+  },
+  {
+    "Docente": "PABLO JAVIER ALSINA",
+    "Componente Curricular": "MCA0004 - PROJETO INTEGRADO DE MECATRÔNICA",
+    "Turma": "01A",
+    "Horário": "6M3456 (11/02/2019 - 29/06/2019)",
+    "Discentes": "11",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "0.57"
+  },
+  {
+    "Docente": "PAULO SERGIO DA MOTTA PIRES",
+    "Componente Curricular": "DCA0103 - ANALISE DE SINAIS E SISTEMAS",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "50",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "PAULO SERGIO DA MOTTA PIRES",
+    "Componente Curricular": "DCA0304 - METODOS COMPUTACIONAIS EM ENGENHARIA",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "27",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "PEDRO YOCHINORI GUSHIKEN",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "1",
+    "Horário": "35N12",
+    "Discentes": "26",
+    "Média Geral": "7.88",
+    "Desvio Padrão Geral": "2.49"
+  },
+  {
+    "Docente": "PEDRO YOCHINORI GUSHIKEN",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "3",
+    "Horário": "25M56",
+    "Discentes": "24",
+    "Média Geral": "4.99",
+    "Desvio Padrão Geral": "3.4"
+  },
+  {
+    "Docente": "PEDRO YOCHINORI GUSHIKEN",
+    "Componente Curricular": "DCA0118 - PROCESSAMENTO DIGITAL DE SINAIS",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "31",
+    "Média Geral": "7.43",
+    "Desvio Padrão Geral": "2.5"
+  },
+  {
+    "Docente": "RICARDO FERREIRA PINHEIRO",
+    "Componente Curricular": "DCA0105 - TEORIA DE CIRCUITOS",
+    "Turma": "2",
+    "Horário": "35M56",
+    "Discentes": "18",
+    "Média Geral": "9.67",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "SAMUEL XAVIER DE SOUZA",
+    "Componente Curricular": "DCA0123 - PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "39",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "SEBASTIAN YURI CAVALCANTI CATUNDA",
+    "Componente Curricular": "DCA0122 - INSTRUMENTAÇÃO",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "35",
+    "Média Geral": "7.11",
+    "Desvio Padrão Geral": "3.07"
+  },
+  {
+    "Docente": "SERGIO NATAN SILVA",
+    "Componente Curricular": "DCA0212.1 - CIRCUITOS DIGITAIS - LABORATÓRIO",
+    "Turma": "1",
+    "Horário": "6T12",
+    "Discentes": "14",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.63"
+  },
+  {
+    "Docente": "SERGIO NATAN SILVA",
+    "Componente Curricular": "DCA0121 - INTELIGENCIA ARTIFICIAL APLICADA",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "33",
+    "Média Geral": "8.76",
+    "Desvio Padrão Geral": "2.15"
+  },
+  {
+    "Docente": "SERGIO NATAN SILVA",
+    "Componente Curricular": "DCA0119 - SISTEMAS DIGITAIS",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "37",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "ADELARDO ADELINO DANTAS DE MEDEIROS",
+    "Componente Curricular": "DCA0803 - PROGRAMACAO AVANCADA",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "15",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "2.19"
+  },
+  {
+    "Docente": "ADELARDO ADELINO DANTAS DE MEDEIROS",
+    "Componente Curricular": "DCA1202 - PROGRAMAÇAO AVANÇADA",
+    "Turma": "02A",
+    "Horário": "345T56",
+    "Discentes": "36",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "2.03"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "2",
+    "Horário": "46M56",
+    "Discentes": "25",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "17",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "2",
+    "Horário": "35M56",
+    "Discentes": "21",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "ADRIAO DUARTE DORIA NETO",
+    "Componente Curricular": "DCA0133 - APRENDIZAGEM DE MÁQUINA E MINERAÇÃO DE DADOS",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "9",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "2.36"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA0445 - PROCESSAMENTO DIGITAL DE IMAGENS",
+    "Turma": "1",
+    "Horário": "46M34",
+    "Discentes": "28",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "2.27"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA1202 - PROGRAMAÇAO AVANÇADA",
+    "Turma": "01A",
+    "Horário": "246M12",
+    "Discentes": "41",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA0455 - TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO E AUTOMAÇÃO I",
+    "Turma": "1",
+    "Horário": "3T34",
+    "Discentes": "8",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "1.11"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0214.1 - ESTRUTURAS DE DADOS - LABORATÓRIO",
+    "Turma": "1",
+    "Horário": "6M56",
+    "Discentes": "20",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0214.1 - ESTRUTURAS DE DADOS - LABORATÓRIO",
+    "Turma": "2",
+    "Horário": "6M34",
+    "Discentes": "22",
+    "Média Geral": "9.3",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0214.0 - ESTRUTURAS DE DADOS - TEORIA",
+    "Turma": "1",
+    "Horário": "24M34",
+    "Discentes": "42",
+    "Média Geral": "9.67",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0803 - PROGRAMACAO AVANCADA",
+    "Turma": "2",
+    "Horário": "35T56",
+    "Discentes": "32",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0120 - PROJETO E DESENVOLVIMENTO DE SOFTWARE",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "41",
+    "Média Geral": "8.98",
+    "Desvio Padrão Geral": "2.15"
+  },
+  {
+    "Docente": "ANDERSON LUIZ DE OLIVEIRA CAVALCANTI",
+    "Componente Curricular": "DCA0428 - CONTROLE PREDITIVO",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "11",
+    "Média Geral": "7.37",
+    "Desvio Padrão Geral": "2.84"
+  },
+  {
+    "Docente": "ANDERSON LUIZ DE OLIVEIRA CAVALCANTI",
+    "Componente Curricular": "DCA0110 - MODELAGEM E ANALISE DE SISTEMAS DINAMICOS",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "31",
+    "Média Geral": "9.21",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "ANDRES ORTIZ SALAZAR",
+    "Componente Curricular": "DCA0203 - ELETRÔNICA",
+    "Turma": "01A",
+    "Horário": "35M34 6T56",
+    "Discentes": "24",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "CARLOS EDUARDO TRABUCO DOREA",
+    "Componente Curricular": "DCA0110 - MODELAGEM E ANALISE DE SISTEMAS DINAMICOS",
+    "Turma": "2",
+    "Horário": "35M34",
+    "Discentes": "26",
+    "Média Geral": "9.95",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "CARLOS MANUEL DIAS VIEGAS",
+    "Componente Curricular": "DCA0130 - REDES DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "24M34",
+    "Discentes": "25",
+    "Média Geral": "9.58",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "CARLOS MANUEL DIAS VIEGAS",
+    "Componente Curricular": "DCA0402 - SEGURANCA DE REDES DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "25",
+    "Média Geral": "9.85",
+    "Desvio Padrão Geral": "1.04"
+  },
+  {
+    "Docente": "DIOGO PINHEIRO FERNANDES PEDROSA",
+    "Componente Curricular": "DCA0104 - ARQUITETURA DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "46M12",
+    "Discentes": "46",
+    "Média Geral": "8.34",
+    "Desvio Padrão Geral": "2.5"
+  },
+  {
+    "Docente": "DIOGO PINHEIRO FERNANDES PEDROSA",
+    "Componente Curricular": "DCA0108 - SISTEMAS OPERACIONAIS",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "37",
+    "Média Geral": "7.11",
+    "Desvio Padrão Geral": "2.88"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0212.1 - CIRCUITOS DIGITAIS - LABORATÓRIO",
+    "Turma": "1",
+    "Horário": "6T12",
+    "Discentes": "16",
+    "Média Geral": "8.86",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0212.0 - CIRCUITOS DIGITAIS - TEORIA",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "38",
+    "Média Geral": "9.06",
+    "Desvio Padrão Geral": "2.27"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0216.1 - SISTEMAS DE CONTROLE - LABORATÓRIO",
+    "Turma": "1",
+    "Horário": "6T34",
+    "Discentes": "11",
+    "Média Geral": "9.42",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0216.0 - SISTEMAS DE CONTROLE - TEORIA",
+    "Turma": "1",
+    "Horário": "24T56",
+    "Discentes": "15",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0216.1 - SISTEMAS DE CONTROLE - LABORATÓRIO",
+    "Turma": "3",
+    "Horário": "6M12",
+    "Discentes": "10",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0216.1 - SISTEMAS DE CONTROLE - LABORATÓRIO",
+    "Turma": "4",
+    "Horário": "6M34",
+    "Discentes": "8",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0216.0 - SISTEMAS DE CONTROLE - TEORIA",
+    "Turma": "2",
+    "Horário": "24M34",
+    "Discentes": "15",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0455 - TÓPICOS ESPECIAIS EM ENGENHARIA DE COMPUTAÇÃO E AUTOMAÇÃO I",
+    "Turma": "1",
+    "Horário": "3T34",
+    "Discentes": "8",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "1.16"
+  },
+  {
+    "Docente": "FRANCISCO DAS CHAGAS MOTA",
+    "Componente Curricular": "DCA0103 - ANALISE DE SINAIS E SISTEMAS",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "54",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "FRANCISCO DAS CHAGAS MOTA",
+    "Componente Curricular": "DCA0100 - MATEMATICA DISCRETA",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "43",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0212.1 - CIRCUITOS DIGITAIS - LABORATÓRIO",
+    "Turma": "2",
+    "Horário": "6T34",
+    "Discentes": "14",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0212.1 - CIRCUITOS DIGITAIS - LABORATÓRIO",
+    "Turma": "3",
+    "Horário": "6T56",
+    "Discentes": "8",
+    "Média Geral": "9.01",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0105 - TEORIA DE CIRCUITOS",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "37",
+    "Média Geral": "8.7",
+    "Desvio Padrão Geral": "2.47"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0105 - TEORIA DE CIRCUITOS",
+    "Turma": "2",
+    "Horário": "35T34",
+    "Discentes": "39",
+    "Média Geral": "9.03",
+    "Desvio Padrão Geral": "2.22"
+  },
+  {
+    "Docente": "LUIZ AFFONSO HENDERSON GUEDES DE OLIVEIRA",
+    "Componente Curricular": "DCA0131 - CIÊNCIA DE DADOS",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "29",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "LUIZ AFFONSO HENDERSON GUEDES DE OLIVEIRA",
+    "Componente Curricular": "DCA0125 - SISTEMAS DE TEMPO REAL",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "24",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "LUIZ FELIPE DE QUEIROZ SILVEIRA",
+    "Componente Curricular": "DCA0118 - PROCESSAMENTO DIGITAL DE SINAIS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "49",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "MANOEL FIRMINO DE MEDEIROS JUNIOR",
+    "Componente Curricular": "DCA0115 - OTIMIZACAO DE SISTEMAS",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "8",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "PABLO JAVIER ALSINA",
+    "Componente Curricular": "DCA0414 - INTRODUCAO A ROBOTICA",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "36",
+    "Média Geral": "9.87",
+    "Desvio Padrão Geral": "1.44"
+  },
+  {
+    "Docente": "PAULO SERGIO DA MOTTA PIRES",
+    "Componente Curricular": "DCA0103 - ANALISE DE SINAIS E SISTEMAS",
+    "Turma": "2",
+    "Horário": "246M34",
+    "Discentes": "51",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.51"
+  },
+  {
+    "Docente": "PAULO SERGIO DA MOTTA PIRES",
+    "Componente Curricular": "DCA0304 - METODOS COMPUTACIONAIS EM ENGENHARIA",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "36",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "PEDRO YOCHINORI GUSHIKEN",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "3",
+    "Horário": "25M56",
+    "Discentes": "20",
+    "Média Geral": "6.26",
+    "Desvio Padrão Geral": "2.82"
+  },
+  {
+    "Docente": "PEDRO YOCHINORI GUSHIKEN",
+    "Componente Curricular": "DCA0118 - PROCESSAMENTO DIGITAL DE SINAIS",
+    "Turma": "2",
+    "Horário": "24M12",
+    "Discentes": "50",
+    "Média Geral": "7.91",
+    "Desvio Padrão Geral": "2.44"
+  },
+  {
+    "Docente": "PEDRO YOCHINORI GUSHIKEN",
+    "Componente Curricular": "DCA0107 - SISTEMAS DE TRANSMISSAO DE DADOS",
+    "Turma": "1",
+    "Horário": "35T12",
+    "Discentes": "46",
+    "Média Geral": "7.8",
+    "Desvio Padrão Geral": "2.46"
+  },
+  {
+    "Docente": "SAMUEL XAVIER DE SOUZA",
+    "Componente Curricular": "DCA0123 - PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "22",
+    "Média Geral": "8.86",
+    "Desvio Padrão Geral": "2.18"
+  },
+  {
+    "Docente": "SAMUEL XAVIER DE SOUZA",
+    "Componente Curricular": "DCA0123 - PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA",
+    "Turma": "2",
+    "Horário": "6M3456",
+    "Discentes": "8",
+    "Média Geral": "8.98",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "SEBASTIAN YURI CAVALCANTI CATUNDA",
+    "Componente Curricular": "DCA0122 - INSTRUMENTAÇÃO",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "18",
+    "Média Geral": "8.5",
+    "Desvio Padrão Geral": "2.74"
+  },
+  {
+    "Docente": "SERGIO NATAN SILVA",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "1",
+    "Horário": "35N12",
+    "Discentes": "22",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "SERGIO NATAN SILVA",
+    "Componente Curricular": "DCA0121 - INTELIGENCIA ARTIFICIAL APLICADA",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "48",
+    "Média Geral": "8.02",
+    "Desvio Padrão Geral": "2.33"
+  },
+  {
+    "Docente": "SERGIO NATAN SILVA",
+    "Componente Curricular": "DCA0119 - SISTEMAS DIGITAIS",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "31",
+    "Média Geral": "7.51",
+    "Desvio Padrão Geral": "2.73"
+  },
+  {
+    "Docente": "ADELARDO ADELINO DANTAS DE MEDEIROS",
+    "Componente Curricular": "DCA0803 - PROGRAMACAO AVANCADA",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "8",
+    "Média Geral": "9.03",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "ADELARDO ADELINO DANTAS DE MEDEIROS",
+    "Componente Curricular": "DCA1202 - PROGRAMAÇAO AVANÇADA",
+    "Turma": "01A",
+    "Horário": "345T56",
+    "Discentes": "35",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "19",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "2",
+    "Horário": "35M12",
+    "Discentes": "14",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01C",
+    "Horário": "35T12 6T34",
+    "Discentes": "13",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01D",
+    "Horário": "345T12",
+    "Discentes": "12",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "2.51"
+  },
+  {
+    "Docente": "ADRIAO DUARTE DORIA NETO",
+    "Componente Curricular": "DCA0133 - APRENDIZAGEM DE MÁQUINA E MINERAÇÃO DE DADOS",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "21",
+    "Média Geral": "9.67",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "4",
+    "Horário": "46M56",
+    "Discentes": "27",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA0445 - PROCESSAMENTO DIGITAL DE IMAGENS",
+    "Turma": "1",
+    "Horário": "46M34",
+    "Discentes": "41",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA1202 - PROGRAMAÇAO AVANÇADA",
+    "Turma": "02A",
+    "Horário": "246M12",
+    "Discentes": "39",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0204 - ESTRUTURAS DE DADOS",
+    "Turma": "01A",
+    "Horário": "246M34",
+    "Discentes": "31",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0204 - ESTRUTURAS DE DADOS",
+    "Turma": "01B",
+    "Horário": "24M34 6M56",
+    "Discentes": "10",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0803 - PROGRAMACAO AVANCADA",
+    "Turma": "2",
+    "Horário": "35T56",
+    "Discentes": "33",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "ANDERSON LUIZ DE OLIVEIRA CAVALCANTI",
+    "Componente Curricular": "DCA0110 - MODELAGEM E ANALISE DE SISTEMAS DINAMICOS",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "33",
+    "Média Geral": "8.97",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "ANDERSON LUIZ DE OLIVEIRA CAVALCANTI",
+    "Componente Curricular": "DCA0110 - MODELAGEM E ANALISE DE SISTEMAS DINAMICOS",
+    "Turma": "2",
+    "Horário": "35T56",
+    "Discentes": "21",
+    "Média Geral": "8.91",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "CARLOS MANUEL DIAS VIEGAS",
+    "Componente Curricular": "DCA0132 - ENGENHARIA DE DADOS",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "27",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.31"
+  },
+  {
+    "Docente": "CARLOS MANUEL DIAS VIEGAS",
+    "Componente Curricular": "DCA0130 - REDES DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "24M34",
+    "Discentes": "22",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "DANIELE MONTENEGRO DA SILVA BARROS",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "1",
+    "Horário": "25M56",
+    "Discentes": "19",
+    "Média Geral": "6.18",
+    "Desvio Padrão Geral": "2.78"
+  },
+  {
+    "Docente": "DANIELE MONTENEGRO DA SILVA BARROS",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "38",
+    "Média Geral": "8.73",
+    "Desvio Padrão Geral": "2.27"
+  },
+  {
+    "Docente": "DANIELE MONTENEGRO DA SILVA BARROS",
+    "Componente Curricular": "DCA0120 - PROJETO E DESENVOLVIMENTO DE SOFTWARE",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "43",
+    "Média Geral": "7.92",
+    "Desvio Padrão Geral": "2.28"
+  },
+  {
+    "Docente": "DIOGO PINHEIRO FERNANDES PEDROSA",
+    "Componente Curricular": "DCA0104 - ARQUITETURA DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "46M12",
+    "Discentes": "39",
+    "Média Geral": "7.12",
+    "Desvio Padrão Geral": "3.16"
+  },
+  {
+    "Docente": "DIOGO PINHEIRO FERNANDES PEDROSA",
+    "Componente Curricular": "DCA0108 - SISTEMAS OPERACIONAIS",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "32",
+    "Média Geral": "8.1",
+    "Desvio Padrão Geral": "2.34"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01A",
+    "Horário": "3T12 5T1234",
+    "Discentes": "18",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01B",
+    "Horário": "356T12",
+    "Discentes": "14",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01D",
+    "Horário": "345T12",
+    "Discentes": "12",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "2.46"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0206 - SISTEMAS DE CONTROLE",
+    "Turma": "02D",
+    "Horário": "246T56",
+    "Discentes": "8",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0206 - SISTEMAS DE CONTROLE",
+    "Turma": "02E",
+    "Horário": "24T56 6T34",
+    "Discentes": "7",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0413 - CONTROLE INTELIGENTE",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "12",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0206 - SISTEMAS DE CONTROLE",
+    "Turma": "01A",
+    "Horário": "24M34 6M12",
+    "Discentes": "10",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0206 - SISTEMAS DE CONTROLE",
+    "Turma": "01B",
+    "Horário": "246M34",
+    "Discentes": "10",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.75"
+  },
+  {
+    "Docente": "FRANCISCO DAS CHAGAS MOTA",
+    "Componente Curricular": "DCA0103 - ANALISE DE SINAIS E SISTEMAS",
+    "Turma": "2",
+    "Horário": "246T56",
+    "Discentes": "52",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "FRANCISCO DAS CHAGAS MOTA",
+    "Componente Curricular": "DCA0100 - MATEMATICA DISCRETA",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "49",
+    "Média Geral": "9.67",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01A",
+    "Horário": "3T12 5T1234",
+    "Discentes": "18",
+    "Média Geral": "9.26",
+    "Desvio Padrão Geral": "1.66"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01C",
+    "Horário": "35T12 6T34",
+    "Discentes": "13",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.4"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0105 - TEORIA DE CIRCUITOS",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "31",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "2.04"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0105 - TEORIA DE CIRCUITOS",
+    "Turma": "2",
+    "Horário": "35T34",
+    "Discentes": "34",
+    "Média Geral": "8.74",
+    "Desvio Padrão Geral": "2.5"
+  },
+  {
+    "Docente": "LUIZ AFFONSO HENDERSON GUEDES DE OLIVEIRA",
+    "Componente Curricular": "DCA0125 - SISTEMAS DE TEMPO REAL",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "20",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "LUIZ FELIPE DE QUEIROZ SILVEIRA",
+    "Componente Curricular": "DCA0118 - PROCESSAMENTO DIGITAL DE SINAIS",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "38",
+    "Média Geral": "8.98",
+    "Desvio Padrão Geral": "2.27"
+  },
+  {
+    "Docente": "LUIZ FELIPE DE QUEIROZ SILVEIRA",
+    "Componente Curricular": "DCA0118 - PROCESSAMENTO DIGITAL DE SINAIS",
+    "Turma": "2",
+    "Horário": "24T34",
+    "Discentes": "46",
+    "Média Geral": "8.93",
+    "Desvio Padrão Geral": "2.6"
+  },
+  {
+    "Docente": "MANOEL FIRMINO DE MEDEIROS JUNIOR",
+    "Componente Curricular": "DCA0115 - OTIMIZACAO DE SISTEMAS",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "22",
+    "Média Geral": "7.91",
+    "Desvio Padrão Geral": "2.69"
+  },
+  {
+    "Docente": "MARCELO AUGUSTO COSTA FERNANDES",
+    "Componente Curricular": "DCA0121 - INTELIGENCIA ARTIFICIAL APLICADA",
+    "Turma": "1",
+    "Horário": "24T56",
+    "Discentes": "39",
+    "Média Geral": "9.04",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "MARCELO AUGUSTO COSTA FERNANDES",
+    "Componente Curricular": "DCA0119 - SISTEMAS DIGITAIS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "26",
+    "Média Geral": "8.41",
+    "Desvio Padrão Geral": "2.62"
+  },
+  {
+    "Docente": "PABLO JAVIER ALSINA",
+    "Componente Curricular": "DCA0414 - INTRODUCAO A ROBOTICA",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "41",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "2.07"
+  },
+  {
+    "Docente": "PAULO SERGIO DA MOTTA PIRES",
+    "Componente Curricular": "DCA0103 - ANALISE DE SINAIS E SISTEMAS",
+    "Turma": "1",
+    "Horário": "246M34",
+    "Discentes": "55",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "PAULO SERGIO DA MOTTA PIRES",
+    "Componente Curricular": "DCA0304 - METODOS COMPUTACIONAIS EM ENGENHARIA",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "24",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "SAMUEL XAVIER DE SOUZA",
+    "Componente Curricular": "DCA0123 - PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "26",
+    "Média Geral": "9.04",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "SEBASTIAN YURI CAVALCANTI CATUNDA",
+    "Componente Curricular": "DCA0122 - INSTRUMENTAÇÃO",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "29",
+    "Média Geral": "8.64",
+    "Desvio Padrão Geral": "2.29"
+  },
+  {
+    "Docente": "SERGIO NATAN SILVA",
+    "Componente Curricular": "DCA0121 - INTELIGENCIA ARTIFICIAL APLICADA",
+    "Turma": "1",
+    "Horário": "24T56",
+    "Discentes": "39",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.54"
+  },
+  {
+    "Docente": "SERGIO NATAN SILVA",
+    "Componente Curricular": "DCA0119 - SISTEMAS DIGITAIS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "26",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "ADELARDO ADELINO DANTAS DE MEDEIROS",
+    "Componente Curricular": "DCA0803 - PROGRAMACAO AVANCADA",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "13",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "0.95"
+  },
+  {
+    "Docente": "ADELARDO ADELINO DANTAS DE MEDEIROS",
+    "Componente Curricular": "DCA1202 - PROGRAMAÇAO AVANÇADA",
+    "Turma": "01A",
+    "Horário": "345T56",
+    "Discentes": "28",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "6",
+    "Média Geral": "9.13",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "4",
+    "Horário": "35M56",
+    "Discentes": "14",
+    "Média Geral": "8.22",
+    "Desvio Padrão Geral": "1.97"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "5",
+    "Horário": "35M12",
+    "Discentes": "8",
+    "Média Geral": "8.47",
+    "Desvio Padrão Geral": "1.8"
+  },
+  {
+    "Docente": "ADERSON JAMIER SANTOS REIS",
+    "Componente Curricular": "DCA0110 - MODELAGEM E ANALISE DE SISTEMAS DINAMICOS",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "35",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "ADRIAO DUARTE DORIA NETO",
+    "Componente Curricular": "DCA0301 - TOPICOS ESPECIAIS EM ENGENHARIA DE COMPUTACAO",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "20",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "2",
+    "Horário": "46M56",
+    "Discentes": "30",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA0445 - PROCESSAMENTO DIGITAL DE IMAGENS",
+    "Turma": "1",
+    "Horário": "46M34",
+    "Discentes": "35",
+    "Média Geral": "9.93",
+    "Desvio Padrão Geral": "1.01"
+  },
+  {
+    "Docente": "AGOSTINHO DE MEDEIROS BRITO JUNIOR",
+    "Componente Curricular": "DCA1202 - PROGRAMAÇAO AVANÇADA",
+    "Turma": "02A",
+    "Horário": "246M12",
+    "Discentes": "32",
+    "Média Geral": "9.96",
+    "Desvio Padrão Geral": "1.02"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "3",
+    "Horário": "35N12",
+    "Discentes": "30",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0204 - ESTRUTURAS DE DADOS",
+    "Turma": "01A",
+    "Horário": "246M34",
+    "Discentes": "18",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "1.16"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0204 - ESTRUTURAS DE DADOS",
+    "Turma": "01B",
+    "Horário": "24M34 6M56",
+    "Discentes": "15",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "ALLAN ROBSON SILVA VENCESLAU",
+    "Componente Curricular": "DCA0803 - PROGRAMACAO AVANCADA",
+    "Turma": "2",
+    "Horário": "35T56",
+    "Discentes": "24",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "ANDERSON LUIZ DE OLIVEIRA CAVALCANTI",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "6",
+    "Média Geral": "9.19",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "ANDERSON LUIZ DE OLIVEIRA CAVALCANTI",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "4",
+    "Horário": "35M56",
+    "Discentes": "14",
+    "Média Geral": "8.04",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "ANDRES ORTIZ SALAZAR",
+    "Componente Curricular": "DCA0203 - ELETRÔNICA",
+    "Turma": "01A",
+    "Horário": "3T3456 5T56",
+    "Discentes": "18",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "0.79"
+  },
+  {
+    "Docente": "CARLOS EDUARDO TRABUCO DOREA",
+    "Componente Curricular": "DCA0110 - MODELAGEM E ANALISE DE SISTEMAS DINAMICOS",
+    "Turma": "2",
+    "Horário": "35M34",
+    "Discentes": "26",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "CARLOS MANUEL DIAS VIEGAS",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01C",
+    "Horário": "35T12 6T34",
+    "Discentes": "13",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "CARLOS MANUEL DIAS VIEGAS",
+    "Componente Curricular": "DCA0113 - REDES DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "246T12",
+    "Discentes": "31",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "DANIELE MONTENEGRO DA SILVA BARROS",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "1",
+    "Horário": "25M56",
+    "Discentes": "17",
+    "Média Geral": "8.79",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "DANIELE MONTENEGRO DA SILVA BARROS",
+    "Componente Curricular": "DCA0800 - ALGORITMOS E LOGICA DE PROGRAMACAO",
+    "Turma": "4",
+    "Horário": "35N12",
+    "Discentes": "14",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "DANIELE MONTENEGRO DA SILVA BARROS",
+    "Componente Curricular": "DCA0120 - PROJETO E DESENVOLVIMENTO DE SOFTWARE",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "38",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "DIOGO PINHEIRO FERNANDES PEDROSA",
+    "Componente Curricular": "DCA0104 - ARQUITETURA DE COMPUTADORES",
+    "Turma": "1",
+    "Horário": "46M12",
+    "Discentes": "39",
+    "Média Geral": "8.35",
+    "Desvio Padrão Geral": "1.78"
+  },
+  {
+    "Docente": "DIOGO PINHEIRO FERNANDES PEDROSA",
+    "Componente Curricular": "DCA0108 - SISTEMAS OPERACIONAIS",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "33",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "1.63"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01A",
+    "Horário": "3T12 5T1234",
+    "Discentes": "14",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0443 - CONTROLADORES LOGICOS PROGRAMAVEIS",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "15",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0443 - CONTROLADORES LOGICOS PROGRAMAVEIS",
+    "Turma": "2",
+    "Horário": "24T12",
+    "Discentes": "10",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.05"
+  },
+  {
+    "Docente": "EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR",
+    "Componente Curricular": "DCA0206 - SISTEMAS DE CONTROLE",
+    "Turma": "02A",
+    "Horário": "246T56",
+    "Discentes": "15",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.06"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0206 - SISTEMAS DE CONTROLE",
+    "Turma": "01A",
+    "Horário": "246M34",
+    "Discentes": "15",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "FABIO MENEGHETTI UGULINO DE ARAUJO",
+    "Componente Curricular": "DCA0206 - SISTEMAS DE CONTROLE",
+    "Turma": "01B",
+    "Horário": "24M34 6M12",
+    "Discentes": "15",
+    "Média Geral": "9.78",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "FRANCISCO DAS CHAGAS MOTA",
+    "Componente Curricular": "DCA0103 - ANALISE DE SINAIS E SISTEMAS",
+    "Turma": "1",
+    "Horário": "246T56",
+    "Discentes": "26",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "FRANCISCO DAS CHAGAS MOTA",
+    "Componente Curricular": "DCA0100 - MATEMATICA DISCRETA",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "48",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0124 - AUTOMAÇÃO INDUSTRIAL",
+    "Turma": "3",
+    "Horário": "35M56",
+    "Discentes": "15",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01B",
+    "Horário": "356T12",
+    "Discentes": "9",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.21"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01D",
+    "Horário": "345T12",
+    "Discentes": "13",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "KENNEDY REURISON LOPES",
+    "Componente Curricular": "DCA0105 - TEORIA DE CIRCUITOS",
+    "Turma": "2",
+    "Horário": "35T34",
+    "Discentes": "18",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "1.71"
+  },
+  {
+    "Docente": "LUCAS COSTA PEREIRA CAVALCANTE",
+    "Componente Curricular": "DCA0118 - PROCESSAMENTO DIGITAL DE SINAIS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "44",
+    "Média Geral": "9.26",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "LUCAS COSTA PEREIRA CAVALCANTE",
+    "Componente Curricular": "DCA0107 - SISTEMAS DE TRANSMISSAO DE DADOS",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "14",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "1.94"
+  },
+  {
+    "Docente": "LUCAS COSTA PEREIRA CAVALCANTE",
+    "Componente Curricular": "DCA0107 - SISTEMAS DE TRANSMISSAO DE DADOS",
+    "Turma": "2",
+    "Horário": "35T12",
+    "Discentes": "19",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "LUIZ AFFONSO HENDERSON GUEDES DE OLIVEIRA",
+    "Componente Curricular": "DCA0125 - SISTEMAS DE TEMPO REAL",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "31",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "LUIZ AFFONSO HENDERSON GUEDES DE OLIVEIRA",
+    "Componente Curricular": "DCA0446 - TOPICOS ESPECIAIS EM PROCESSAMENTO DA INFORMACAO",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "30",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.12"
+  },
+  {
+    "Docente": "LUIZ FELIPE DE QUEIROZ SILVEIRA",
+    "Componente Curricular": "DCA0118 - PROCESSAMENTO DIGITAL DE SINAIS",
+    "Turma": "2",
+    "Horário": "24M12",
+    "Discentes": "44",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "1.93"
+  },
+  {
+    "Docente": "LUIZ FELIPE DE QUEIROZ SILVEIRA",
+    "Componente Curricular": "DCA0118 - PROCESSAMENTO DIGITAL DE SINAIS",
+    "Turma": "3",
+    "Horário": "24T34",
+    "Discentes": "37",
+    "Média Geral": "8.9",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "LUIZ MARCOS GARCIA GONCALVES",
+    "Componente Curricular": "DCA0114 - COMPUTACAO GRAFICA",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "25",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.41"
+  },
+  {
+    "Docente": "MANOEL FIRMINO DE MEDEIROS JUNIOR",
+    "Componente Curricular": "DCA0115 - OTIMIZACAO DE SISTEMAS",
+    "Turma": "1",
+    "Horário": "24T12",
+    "Discentes": "13",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "2.16"
+  },
+  {
+    "Docente": "MARCELO AUGUSTO COSTA FERNANDES",
+    "Componente Curricular": "DCA0121 - INTELIGENCIA ARTIFICIAL APLICADA",
+    "Turma": "1",
+    "Horário": "24T56",
+    "Discentes": "36",
+    "Média Geral": "9.52",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "MARCELO AUGUSTO COSTA FERNANDES",
+    "Componente Curricular": "DCA0119 - SISTEMAS DIGITAIS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "36",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "PABLO JAVIER ALSINA",
+    "Componente Curricular": "DCA0414 - INTRODUCAO A ROBOTICA",
+    "Turma": "1",
+    "Horário": "35M12",
+    "Discentes": "43",
+    "Média Geral": "9.7",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "PAULO SERGIO DA MOTTA PIRES",
+    "Componente Curricular": "DCA0103 - ANALISE DE SINAIS E SISTEMAS",
+    "Turma": "2",
+    "Horário": "246M34",
+    "Discentes": "47",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.59"
+  },
+  {
+    "Docente": "PAULO SERGIO DA MOTTA PIRES",
+    "Componente Curricular": "DCA0304 - METODOS COMPUTACIONAIS EM ENGENHARIA",
+    "Turma": "1",
+    "Horário": "24M12",
+    "Discentes": "38",
+    "Média Geral": "9.3",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "RICARDO FERREIRA PINHEIRO",
+    "Componente Curricular": "DCA0105 - TEORIA DE CIRCUITOS",
+    "Turma": "1",
+    "Horário": "35M34",
+    "Discentes": "44",
+    "Média Geral": "9.63",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "SAMUEL XAVIER DE SOUZA",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01A",
+    "Horário": "3T12 5T1234",
+    "Discentes": "14",
+    "Média Geral": "8.63",
+    "Desvio Padrão Geral": "2.35"
+  },
+  {
+    "Docente": "SAMUEL XAVIER DE SOUZA",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01B",
+    "Horário": "356T12",
+    "Discentes": "9",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "SAMUEL XAVIER DE SOUZA",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01C",
+    "Horário": "35T12 6T34",
+    "Discentes": "13",
+    "Média Geral": "8.16",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "SAMUEL XAVIER DE SOUZA",
+    "Componente Curricular": "DCA0202 - CIRCUITOS DIGITAIS",
+    "Turma": "01D",
+    "Horário": "345T12",
+    "Discentes": "13",
+    "Média Geral": "7.81",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "SAMUEL XAVIER DE SOUZA",
+    "Componente Curricular": "DCA0123 - PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "35",
+    "Média Geral": "8.86",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "SEBASTIAN YURI CAVALCANTI CATUNDA",
+    "Componente Curricular": "DCA0122 - INSTRUMENTAÇÃO",
+    "Turma": "1",
+    "Horário": "24M56",
+    "Discentes": "29",
+    "Média Geral": "9.13",
+    "Desvio Padrão Geral": "1.93"
+  }
+]

@@ -1,0 +1,1302 @@
+{
+  "HIS0015 - HISTORIA DO BRASIL COLONIA": {
+    "Notas": [
+      9.33,
+      9.59,
+      9.66,
+      9.78
+    ],
+    "Desvios": [
+      1.4,
+      1.53,
+      1.8,
+      1.99
+    ],
+    "Docentes": [
+      "CARMEN MARGARIDA OLIVEIRA ALVEAL"
+    ],
+    "DesvioDeNotas": 0.1647725705328406,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.68,
+    "NotaMediana": 9.66
+  },
+  "HIS0048 - CULTURA VISUAL, HISTÓRIA E IMAGEM": {
+    "Notas": [
+      9.55,
+      9.57,
+      9.7,
+      9.72
+    ],
+    "Desvios": [
+      1.26,
+      1.9,
+      1.18,
+      1.7
+    ],
+    "Docentes": [
+      "FLAVIA DE SA PEDREIRA",
+      "SUSANA ISABEL MARCELINO GUERRA DOMINGOS",
+      "MARIA EMILIA MONTEIRO PORTO"
+    ],
+    "DesvioDeNotas": 0.07566372975210754,
+    "MediaDeNotas": 9.635,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.7
+  },
+  "HIS0032 - HISTORIA DA CULTURA": {
+    "Notas": [
+      8.13,
+      8.38,
+      8.4,
+      8.63,
+      9.14
+    ],
+    "Desvios": [
+      2.78,
+      2.81,
+      2.33,
+      2.15,
+      1.92
+    ],
+    "Docentes": [
+      "FLAVIA DE SA PEDREIRA"
+    ],
+    "DesvioDeNotas": 0.3409750724026611,
+    "MediaDeNotas": 8.536000000000001,
+    "MediaDeDesvios": 2.398,
+    "NotaMediana": 8.4
+  },
+  "HST1102 - HISTORIOGRAFIA BRASILEIRA": {
+    "Notas": [
+      8.32,
+      8.85
+    ],
+    "Desvios": [
+      2.75,
+      2.37
+    ],
+    "Docentes": [
+      "FLAVIA DE SA PEDREIRA",
+      "RAIMUNDO PEREIRA ALENCAR ARRAIS"
+    ],
+    "DesvioDeNotas": 0.2649999999999997,
+    "MediaDeNotas": 8.585,
+    "MediaDeDesvios": 2.56,
+    "NotaMediana": 8.85
+  },
+  "HST1103 - MÉTODOS E TÉCNICAS DE PESQUISA": {
+    "Notas": [
+      9.32,
+      9.69
+    ],
+    "Desvios": [
+      1.99,
+      1.87
+    ],
+    "Docentes": [
+      "FRANCISCA AURINETE GIRAO BARRETO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.1849999999999996,
+    "MediaDeNotas": 9.504999999999999,
+    "MediaDeDesvios": 1.9300000000000002,
+    "NotaMediana": 9.69
+  },
+  "HIS0052 - HISTÓRIA, CINEMA E AUDIOVISUAL": {
+    "Notas": [
+      9.64
+    ],
+    "Desvios": [
+      1.69
+    ],
+    "Docentes": [
+      "FRANCISCO DAS CHAGAS FERNANDES SANTIAGO JUNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.64,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.64
+  },
+  "HIS0011 - HISTORIA CONTEMPORANEA I": {
+    "Notas": [
+      8.84,
+      8.88,
+      9.22,
+      9.48
+    ],
+    "Desvios": [
+      1.81,
+      2.69,
+      2.27,
+      2.59
+    ],
+    "Docentes": [
+      "HELDER DO NASCIMENTO VIANA"
+    ],
+    "DesvioDeNotas": 0.26205915362757326,
+    "MediaDeNotas": 9.105,
+    "MediaDeDesvios": 2.34,
+    "NotaMediana": 9.22
+  },
+  "HIS0020 - HISTORIA DO RIO GRANDE DO NORTE II": {
+    "Notas": [
+      8.57,
+      9.18,
+      9.49,
+      9.53
+    ],
+    "Desvios": [
+      2.1,
+      2.08,
+      1.82,
+      2.08
+    ],
+    "Docentes": [
+      "HENRIQUE ALONSO DE ALBUQUERQUE RODRIGUES PEREIRA",
+      "MARIA DA CONCEICAO FRAGA",
+      "RENATO AMADO PEIXOTO"
+    ],
+    "DesvioDeNotas": 0.3840816970385335,
+    "MediaDeNotas": 9.1925,
+    "MediaDeDesvios": 2.02,
+    "NotaMediana": 9.49
+  },
+  "HST1101 - INTRODUÇÃO AOS ESTUDOS HISTÓRICOS": {
+    "Notas": [
+      9.54,
+      9.76
+    ],
+    "Desvios": [
+      1.79,
+      1.7
+    ],
+    "Docentes": [
+      "JOSE EVANGELISTA FAGUNDES",
+      "MAGNO FRANCISCO DE JESUS SANTOS"
+    ],
+    "DesvioDeNotas": 0.11000000000000032,
+    "MediaDeNotas": 9.649999999999999,
+    "MediaDeDesvios": 1.745,
+    "NotaMediana": 9.76
+  },
+  "HIS0017 - HISTORIA DO BRASIL REPUBLICA I": {
+    "Notas": [
+      9.28,
+      9.38,
+      9.46,
+      9.66,
+      9.75,
+      9.82
+    ],
+    "Desvios": [
+      1.77,
+      1.73,
+      2.01,
+      1.75,
+      1.43,
+      1.3
+    ],
+    "Docentes": [
+      "JULIANA TEIXEIRA SOUZA",
+      "RAIMUNDO NONATO ARAUJO DA ROCHA"
+    ],
+    "DesvioDeNotas": 0.1976880258274526,
+    "MediaDeNotas": 9.558333333333334,
+    "MediaDeDesvios": 1.665,
+    "NotaMediana": 9.66
+  },
+  "HIS0009 - HISTORIA MODERNA I": {
+    "Notas": [
+      8.89,
+      9.07,
+      9.66,
+      9.68,
+      9.69,
+      9.8
+    ],
+    "Desvios": [
+      1.69,
+      1.28,
+      1.95,
+      2.15,
+      1.85,
+      2.09
+    ],
+    "Docentes": [
+      "LIGIO JOSE DE OLIVEIRA MAIA",
+      "MARIA EMILIA MONTEIRO PORTO",
+      "RONALDO VAINFAS"
+    ],
+    "DesvioDeNotas": 0.3497022543059546,
+    "MediaDeNotas": 9.465,
+    "MediaDeDesvios": 1.835,
+    "NotaMediana": 9.68
+  },
+  "HIS0086 - HISTÓRIA, ETNOHISTÓRIA E CONSTRUÇÕES IDENTITÁRIAS": {
+    "Notas": [
+      9.77,
+      9.8,
+      9.84
+    ],
+    "Desvios": [
+      1.27,
+      1.02,
+      1.14
+    ],
+    "Docentes": [
+      "LIGIO JOSE DE OLIVEIRA MAIA",
+      "SUSANA ISABEL MARCELINO GUERRA DOMINGOS"
+    ],
+    "DesvioDeNotas": 0.028674417556808832,
+    "MediaDeNotas": 9.803333333333333,
+    "MediaDeDesvios": 1.1433333333333333,
+    "NotaMediana": 9.8
+  },
+  "HIS0040 - HISTORIA ANTIGA I": {
+    "Notas": [
+      9.4,
+      9.41,
+      9.72
+    ],
+    "Desvios": [
+      1.5,
+      1.92,
+      1.84
+    ],
+    "Docentes": [
+      "MARCIA SEVERINA VASQUES"
+    ],
+    "DesvioDeNotas": 0.14854853303438148,
+    "MediaDeNotas": 9.51,
+    "MediaDeDesvios": 1.7533333333333332,
+    "NotaMediana": 9.41
+  },
+  "HIS0061 - O ENSINO DE HISTÓRIA DO RIO GRANDE DO NORTE": {
+    "Notas": [
+      9.4
+    ],
+    "Desvios": [
+      1.63
+    ],
+    "Docentes": [
+      "MARGARIDA MARIA DIAS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.4,
+    "MediaDeDesvios": 1.63,
+    "NotaMediana": 9.4
+  },
+  "HST1104 - PRÁTICA COMO COMPONENTE CURRICULAR I (A TEORIA DA HISTÓRIA NA ESCOLA BÁSICA)": {
+    "Notas": [
+      9.5,
+      9.73
+    ],
+    "Desvios": [
+      1.69,
+      1.7
+    ],
+    "Docentes": [
+      "MARGARIDA MARIA DIAS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.11500000000000021,
+    "MediaDeNotas": 9.615,
+    "MediaDeDesvios": 1.6949999999999998,
+    "NotaMediana": 9.73
+  },
+  "HIS0100 - TURISMO E PATRIMÔNIO HISTÓRICO, ARTÍSTICO E CULTURAL BRASILEIRO": {
+    "Notas": [
+      8.73,
+      8.91,
+      9.1,
+      9.59,
+      9.82
+    ],
+    "Desvios": [
+      2.34,
+      2.82,
+      1.96,
+      2,
+      0.88
+    ],
+    "Docentes": [
+      "MARGARIDA MARIA DIAS DE OLIVEIRA",
+      "ROBERTO AIRON SILVA",
+      "CAIO RODRIGO CARVALHO LIMA"
+    ],
+    "DesvioDeNotas": 0.4115823125451335,
+    "MediaDeNotas": 9.23,
+    "MediaDeDesvios": 2.0000000000000004,
+    "NotaMediana": 9.1
+  },
+  "HIS0022 - HISTORIA ORAL": {
+    "Notas": [
+      9.36,
+      9.77
+    ],
+    "Desvios": [
+      1.64,
+      1.48
+    ],
+    "Docentes": [
+      "MARIA DA CONCEICAO FRAGA",
+      "MAGNO FRANCISCO DE JESUS SANTOS"
+    ],
+    "DesvioDeNotas": 0.20500000000000007,
+    "MediaDeNotas": 9.565,
+    "MediaDeDesvios": 1.56,
+    "NotaMediana": 9.77
+  },
+  "HIS0101 - HISTÓRIA, CATOLICISMO E POLÍTICA NO BRASIL REPUBLICANO": {
+    "Notas": [
+      9.2,
+      9.84
+    ],
+    "Desvios": [
+      2.09,
+      1.5
+    ],
+    "Docentes": [
+      "MARIA DA CONCEICAO FRAGA"
+    ],
+    "DesvioDeNotas": 0.3200000000000003,
+    "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.795,
+    "NotaMediana": 9.84
+  },
+  "HIS0025 - ARQUIVISTICA HISTORICA": {
+    "Notas": [
+      8.38,
+      9.71
+    ],
+    "Desvios": [
+      2.7,
+      1.56
+    ],
+    "Docentes": [
+      "MARIA DA CONCEICAO GUILHERME COELHO",
+      "MARGARIDA MARIA DIAS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.665,
+    "MediaDeNotas": 9.045000000000002,
+    "MediaDeDesvios": 2.13,
+    "NotaMediana": 9.71
+  },
+  "HIS0034 - HISTORIA GERAL DA ARTE": {
+    "Notas": [
+      9.29
+    ],
+    "Desvios": [
+      2.17
+    ],
+    "Docentes": [
+      "MARIA DA CONCEICAO GUILHERME COELHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.29,
+    "MediaDeDesvios": 2.17,
+    "NotaMediana": 9.29
+  },
+  "HIS0096 - HISTÓRIA MARÍTIMA": {
+    "Notas": [
+      8.76
+    ],
+    "Desvios": [
+      2.46
+    ],
+    "Docentes": [
+      "RAIMUNDO PEREIRA ALENCAR ARRAIS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.76,
+    "MediaDeDesvios": 2.46,
+    "NotaMediana": 8.76
+  },
+  "HIS0006 - PRE-HISTORIA": {
+    "Notas": [
+      7.07,
+      8.46,
+      8.73,
+      9.21
+    ],
+    "Desvios": [
+      2.36,
+      2.24,
+      2.87,
+      2.22
+    ],
+    "Docentes": [
+      "ROBERTO AIRON SILVA",
+      "TULIO AUGUSTO PAZ E ALBUQUERQUE"
+    ],
+    "DesvioDeNotas": 0.7958132632722329,
+    "MediaDeNotas": 8.3675,
+    "MediaDeDesvios": 2.4225,
+    "NotaMediana": 8.73
+  },
+  "HIS0070 - PRÉ-HISTÓRIA BRASILEIRA": {
+    "Notas": [
+      9.52,
+      9.55,
+      9.74
+    ],
+    "Desvios": [
+      1.38,
+      1.44,
+      1.13
+    ],
+    "Docentes": [
+      "ROBERTO AIRON SILVA",
+      "TULIO AUGUSTO PAZ E ALBUQUERQUE"
+    ],
+    "DesvioDeNotas": 0.09741092797468313,
+    "MediaDeNotas": 9.603333333333333,
+    "MediaDeDesvios": 1.3166666666666667,
+    "NotaMediana": 9.55
+  },
+  "HIS0083 - HISTORIOGRAFIA DA EXPANSÃO TERRITORIAL NA AMÉRICA PORTUGUESA": {
+    "Notas": [
+      9.43
+    ],
+    "Desvios": [
+      1.81
+    ],
+    "Docentes": [
+      "RONALDO VAINFAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.43,
+    "MediaDeDesvios": 1.81,
+    "NotaMediana": 9.43
+  },
+  "HIS0013 - HISTORIA DA AMERICA I": {
+    "Notas": [
+      8.87,
+      9.57,
+      9.81,
+      9.84
+    ],
+    "Desvios": [
+      2.62,
+      1.54,
+      1.29,
+      1.67
+    ],
+    "Docentes": [
+      "SEBASTIAO LEAL FERREIRA VARGAS NETTO",
+      "YURI SIMONINI SOUZA"
+    ],
+    "DesvioDeNotas": 0.39098433472455174,
+    "MediaDeNotas": 9.5225,
+    "MediaDeDesvios": 1.78,
+    "NotaMediana": 9.81
+  },
+  "HIS0044 - HISTORIA DA ÁFRICA": {
+    "Notas": [
+      9.04,
+      9.57,
+      9.58,
+      9.59,
+      9.8,
+      9.91
+    ],
+    "Desvios": [
+      1.79,
+      1.67,
+      2.01,
+      1.59,
+      1.61,
+      1.26
+    ],
+    "Docentes": [
+      "SUSANA ISABEL MARCELINO GUERRA DOMINGOS"
+    ],
+    "DesvioDeNotas": 0.27358220377470177,
+    "MediaDeNotas": 9.581666666666665,
+    "MediaDeDesvios": 1.655,
+    "NotaMediana": 9.59
+  },
+  "HIS0041 - HISTORIA ANTIGA II": {
+    "Notas": [
+      9.29,
+      9.54,
+      9.72
+    ],
+    "Desvios": [
+      2.11,
+      1.65,
+      1.45
+    ],
+    "Docentes": [
+      "TULIO AUGUSTO PAZ E ALBUQUERQUE",
+      "CAIO RODRIGO CARVALHO LIMA"
+    ],
+    "DesvioDeNotas": 0.17632041540584317,
+    "MediaDeNotas": 9.516666666666666,
+    "MediaDeDesvios": 1.7366666666666666,
+    "NotaMediana": 9.54
+  },
+  "DEH0019 - HISTORIA DA ARTE I": {
+    "Notas": [
+      9.28,
+      9.59,
+      9.8,
+      9.83
+    ],
+    "Desvios": [
+      1.41,
+      1.73,
+      2.09,
+      1.61
+    ],
+    "Docentes": [
+      "TULIO AUGUSTO PAZ E ALBUQUERQUE",
+      "MARIA DA CONCEICAO GUILHERME COELHO",
+      "YURI SIMONINI SOUZA"
+    ],
+    "DesvioDeNotas": 0.2196019125599779,
+    "MediaDeNotas": 9.625,
+    "MediaDeDesvios": 1.71,
+    "NotaMediana": 9.8
+  },
+  "HIS0005 - TEORIA DA HISTORIA": {
+    "Notas": [
+      8.97,
+      9.39,
+      9.55,
+      9.62
+    ],
+    "Desvios": [
+      1.58,
+      2.02,
+      2.1,
+      2.74
+    ],
+    "Docentes": [
+      "WICLIFFE DE ANDRADE COSTA"
+    ],
+    "DesvioDeNotas": 0.2523266731837913,
+    "MediaDeNotas": 9.3825,
+    "MediaDeDesvios": 2.1100000000000003,
+    "NotaMediana": 9.55
+  },
+  "HIS0050 - DIDÁTICA DA HISTÓRIA": {
+    "Notas": [
+      9.6,
+      9.91
+    ],
+    "Desvios": [
+      1.75,
+      0.84
+    ],
+    "Docentes": [
+      "CAIO RODRIGO CARVALHO LIMA"
+    ],
+    "DesvioDeNotas": 0.15500000000000025,
+    "MediaDeNotas": 9.754999999999999,
+    "MediaDeDesvios": 1.295,
+    "NotaMediana": 9.91
+  },
+  "HIS0003 - METODOLOGIA DA PESQUISA HISTORICA": {
+    "Notas": [
+      8.79,
+      9.55,
+      9.57,
+      9.65,
+      9.81
+    ],
+    "Desvios": [
+      1.68,
+      2.65,
+      1.32,
+      1.36,
+      1.56
+    ],
+    "Docentes": [
+      "CAIO RODRIGO CARVALHO LIMA",
+      "RAIMUNDO PEREIRA ALENCAR ARRAIS",
+      "MAGNO FRANCISCO DE JESUS SANTOS"
+    ],
+    "DesvioDeNotas": 0.35403954581374153,
+    "MediaDeNotas": 9.474,
+    "MediaDeDesvios": 1.714,
+    "NotaMediana": 9.57
+  },
+  "HIS0033 - HISTORIA DAS IDEIAS POLITICAS E SOCIAIS": {
+    "Notas": [
+      9.77
+    ],
+    "Desvios": [
+      1.45
+    ],
+    "Docentes": [
+      "CARMEN MARGARIDA OLIVEIRA ALVEAL"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.45,
+    "NotaMediana": 9.77
+  },
+  "HIS0004 - HISTORIOGRAFIA BRASILEIRA": {
+    "Notas": [
+      8.93,
+      9.06,
+      9.2,
+      9.82
+    ],
+    "Desvios": [
+      1.63,
+      1.6,
+      1.74,
+      1.79
+    ],
+    "Docentes": [
+      "FLAVIA DE SA PEDREIRA",
+      "MAGNO FRANCISCO DE JESUS SANTOS",
+      "RAIMUNDO NONATO ARAUJO DA ROCHA"
+    ],
+    "DesvioDeNotas": 0.3412751822210342,
+    "MediaDeNotas": 9.2525,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.2
+  },
+  "HIS0021 - PALEOGRAFIA": {
+    "Notas": [
+      9.69,
+      9.76,
+      9.81
+    ],
+    "Desvios": [
+      1.47,
+      1.7,
+      1.42
+    ],
+    "Docentes": [
+      "FRANCISCA AURINETE GIRAO BARRETO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.049216076867445065,
+    "MediaDeNotas": 9.753333333333332,
+    "MediaDeDesvios": 1.53,
+    "NotaMediana": 9.76
+  },
+  "HIS0049 - CULTURA HISTÓRICA E MEMÓRIA CULTURAL": {
+    "Notas": [
+      9.55
+    ],
+    "Desvios": [
+      1.74
+    ],
+    "Docentes": [
+      "FRANCISCO DAS CHAGAS FERNANDES SANTIAGO JUNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.55,
+    "MediaDeDesvios": 1.74,
+    "NotaMediana": 9.55
+  },
+  "HIS0024 - MEMORIA E PATRIMONIO HISTORICO": {
+    "Notas": [
+      9.22,
+      9.52,
+      9.57,
+      9.65,
+      9.85
+    ],
+    "Desvios": [
+      1.5,
+      1.74,
+      1.48,
+      1.68,
+      1.46
+    ],
+    "Docentes": [
+      "FRANCISCO DAS CHAGAS FERNANDES SANTIAGO JUNIOR",
+      "MARGARIDA MARIA DIAS DE OLIVEIRA",
+      "CAIO RODRIGO CARVALHO LIMA"
+    ],
+    "DesvioDeNotas": 0.2046851240320114,
+    "MediaDeNotas": 9.562000000000001,
+    "MediaDeDesvios": 1.572,
+    "NotaMediana": 9.57
+  },
+  "HIS0065 - HISTÓRIA DO BRASIL CONTEMPORÂNEO": {
+    "Notas": [
+      8.65,
+      9.12,
+      9.25,
+      9.34,
+      9.57,
+      9.59
+    ],
+    "Desvios": [
+      1.49,
+      1.67,
+      1.37,
+      1.16,
+      1.93,
+      1.35
+    ],
+    "Docentes": [
+      "HAROLDO LOGUERCIO CARVALHO",
+      "SUSANA ISABEL MARCELINO GUERRA DOMINGOS",
+      "MARIA DA CONCEICAO FRAGA"
+    ],
+    "DesvioDeNotas": 0.31699982474583305,
+    "MediaDeNotas": 9.253333333333334,
+    "MediaDeDesvios": 1.495,
+    "NotaMediana": 9.34
+  },
+  "HIS0012 - HISTORIA CONTEMPORANEA II": {
+    "Notas": [
+      8.66,
+      9.23,
+      9.25,
+      9.32,
+      9.36,
+      9.63
+    ],
+    "Desvios": [
+      2.1,
+      2.48,
+      1.64,
+      2.31,
+      1.81,
+      1.97
+    ],
+    "Docentes": [
+      "HELDER DO NASCIMENTO VIANA",
+      "SUSANA ISABEL MARCELINO GUERRA DOMINGOS"
+    ],
+    "DesvioDeNotas": 0.29139987798365485,
+    "MediaDeNotas": 9.241666666666667,
+    "MediaDeDesvios": 2.0516666666666667,
+    "NotaMediana": 9.32
+  },
+  "HIS0018 - HISTORIA DO BRASIL REPUBLICA II": {
+    "Notas": [
+      8.72,
+      8.87,
+      9.13,
+      9.17
+    ],
+    "Desvios": [
+      1.93,
+      2.28,
+      1.84,
+      1.89
+    ],
+    "Docentes": [
+      "HENRIQUE ALONSO DE ALBUQUERQUE RODRIGUES PEREIRA",
+      "RAIMUNDO NONATO ARAUJO DA ROCHA",
+      "HAROLDO LOGUERCIO CARVALHO"
+    ],
+    "DesvioDeNotas": 0.1857922226574622,
+    "MediaDeNotas": 8.9725,
+    "MediaDeDesvios": 1.9849999999999999,
+    "NotaMediana": 9.13
+  },
+  "HIS0019 - HISTORIA DO RIO GRANDE DO NORTE I": {
+    "Notas": [
+      9.11,
+      9.3,
+      9.44,
+      9.75
+    ],
+    "Desvios": [
+      1.71,
+      1.83,
+      1.36,
+      1.92
+    ],
+    "Docentes": [
+      "JOSE EVANGELISTA FAGUNDES"
+    ],
+    "DesvioDeNotas": 0.23355941428253332,
+    "MediaDeNotas": 9.4,
+    "MediaDeDesvios": 1.705,
+    "NotaMediana": 9.44
+  },
+  "HIS0016 - HISTORIA DO BRASIL IMPERIO": {
+    "Notas": [
+      9.21,
+      9.56,
+      9.79,
+      9.84
+    ],
+    "Desvios": [
+      1.71,
+      1.8,
+      1.6,
+      1.26
+    ],
+    "Docentes": [
+      "JULIANA TEIXEIRA SOUZA"
+    ],
+    "DesvioDeNotas": 0.24869660230891721,
+    "MediaDeNotas": 9.600000000000001,
+    "MediaDeDesvios": 1.5924999999999998,
+    "NotaMediana": 9.79
+  },
+  "HIS0093 - OS “EXCLUÍDOS” DA HISTÓRIA DO BRASIL REPUBLICANO": {
+    "Notas": [
+      9.7
+    ],
+    "Desvios": [
+      1.44
+    ],
+    "Docentes": [
+      "JULIANA TEIXEIRA SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.7,
+    "MediaDeDesvios": 1.44,
+    "NotaMediana": 9.7
+  },
+  "HIS0037 - HISTORIA INDIGENA NO BRASIL": {
+    "Notas": [
+      9.71,
+      9.81,
+      9.86,
+      9.91
+    ],
+    "Desvios": [
+      1.14,
+      1.66,
+      1.1,
+      1.27
+    ],
+    "Docentes": [
+      "LIGIO JOSE DE OLIVEIRA MAIA"
+    ],
+    "DesvioDeNotas": 0.07395099728874482,
+    "MediaDeNotas": 9.8225,
+    "MediaDeDesvios": 1.2925,
+    "NotaMediana": 9.86
+  },
+  "HIS0073 - EGIPTOLOGIA": {
+    "Notas": [
+      9.73,
+      9.74
+    ],
+    "Desvios": [
+      1.62,
+      1.64
+    ],
+    "Docentes": [
+      "MARCIA SEVERINA VASQUES"
+    ],
+    "DesvioDeNotas": 0.004999999999999893,
+    "MediaDeNotas": 9.735,
+    "MediaDeDesvios": 1.63,
+    "NotaMediana": 9.74
+  },
+  "HIS0042 - HISTORIA MEDIEVAL I": {
+    "Notas": [
+      8.55,
+      9.3,
+      9.6,
+      9.7
+    ],
+    "Desvios": [
+      2.77,
+      1.54,
+      1.54,
+      1.6
+    ],
+    "Docentes": [
+      "MARIA DA CONCEICAO GUILHERME COELHO",
+      "YURI SIMONINI SOUZA"
+    ],
+    "DesvioDeNotas": 0.45052053227350203,
+    "MediaDeNotas": 9.2875,
+    "MediaDeDesvios": 1.8625000000000003,
+    "NotaMediana": 9.6
+  },
+  "HIS0010 - HISTORIA MODERNA II": {
+    "Notas": [
+      9.13,
+      9.61,
+      9.7
+    ],
+    "Desvios": [
+      1.55,
+      2.1,
+      1.35
+    ],
+    "Docentes": [
+      "MARIA EMILIA MONTEIRO PORTO",
+      "RONALDO VAINFAS"
+    ],
+    "DesvioDeNotas": 0.25019992006393543,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 1.6666666666666667,
+    "NotaMediana": 9.61
+  },
+  "HIS0023 - HISTORIA REGIONAL E LOCAL": {
+    "Notas": [
+      9.21,
+      9.4,
+      9.77
+    ],
+    "Desvios": [
+      2.38,
+      1.68,
+      1.05
+    ],
+    "Docentes": [
+      "RAIMUNDO PEREIRA ALENCAR ARRAIS",
+      "RENATO AMADO PEIXOTO"
+    ],
+    "DesvioDeNotas": 0.23252240035460328,
+    "MediaDeNotas": 9.459999999999999,
+    "MediaDeDesvios": 1.7033333333333331,
+    "NotaMediana": 9.4
+  },
+  "HIS0029 - ARQUEOLOGIA": {
+    "Notas": [
+      9.29,
+      9.71
+    ],
+    "Desvios": [
+      2.17,
+      1.45
+    ],
+    "Docentes": [
+      "ROBERTO AIRON SILVA"
+    ],
+    "DesvioDeNotas": 0.21000000000000085,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.81,
+    "NotaMediana": 9.71
+  },
+  "HIS0069 - ARQUEOLOGIA DO NORDESTE DO BRASIL": {
+    "Notas": [
+      9.22
+    ],
+    "Desvios": [
+      1.99
+    ],
+    "Docentes": [
+      "ROBERTO AIRON SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.22,
+    "MediaDeDesvios": 1.99,
+    "NotaMediana": 9.22
+  },
+  "HIS0014 - HISTORIA DA AMERICA II": {
+    "Notas": [
+      9.41,
+      9.41,
+      9.64,
+      9.65
+    ],
+    "Desvios": [
+      1.72,
+      1.73,
+      1.45,
+      1.46
+    ],
+    "Docentes": [
+      "SEBASTIAO LEAL FERREIRA VARGAS NETTO",
+      "YURI SIMONINI SOUZA"
+    ],
+    "DesvioDeNotas": 0.11755317945508763,
+    "MediaDeNotas": 9.5275,
+    "MediaDeDesvios": 1.59,
+    "NotaMediana": 9.64
+  },
+  "HIS0043 - HISTORIA MEDIEVAL II": {
+    "Notas": [
+      8.8,
+      9.27,
+      9.46,
+      9.65
+    ],
+    "Desvios": [
+      2.29,
+      2.7,
+      1.58,
+      1.85
+    ],
+    "Docentes": [
+      "WICLIFFE DE ANDRADE COSTA"
+    ],
+    "DesvioDeNotas": 0.3157926534927625,
+    "MediaDeNotas": 9.295,
+    "MediaDeDesvios": 2.105,
+    "NotaMediana": 9.46
+  },
+  "HIS0085 - HISTÓRIA DA IGREJA NO BRASIL": {
+    "Notas": [
+      9.74
+    ],
+    "Desvios": [
+      1.23
+    ],
+    "Docentes": [
+      "WICLIFFE DE ANDRADE COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.74,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.74
+  },
+  "DEH0047 - SEMINARIO DE HISTORIA ANTIGA E MEDIEVAL I": {
+    "Notas": [
+      9.76
+    ],
+    "Desvios": [
+      1.59
+    ],
+    "Docentes": [
+      "YURI SIMONINI SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.76,
+    "MediaDeDesvios": 1.59,
+    "NotaMediana": 9.76
+  },
+  "HIS0002 - METODOS E TECNICAS DE PESQUISA": {
+    "Notas": [
+      9.33,
+      9.5
+    ],
+    "Desvios": [
+      1.96,
+      1.75
+    ],
+    "Docentes": [
+      "FRANCISCA AURINETE GIRAO BARRETO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.08499999999999996,
+    "MediaDeNotas": 9.415,
+    "MediaDeDesvios": 1.855,
+    "NotaMediana": 9.5
+  },
+  "HIS0095 - HISTÓRIA DA POLÍTICA EXTERIOR DO BRASIL REPUBLICANO": {
+    "Notas": [
+      9.11,
+      9.48
+    ],
+    "Desvios": [
+      1.78,
+      2.15
+    ],
+    "Docentes": [
+      "HAROLDO LOGUERCIO CARVALHO"
+    ],
+    "DesvioDeNotas": 0.1850000000000005,
+    "MediaDeNotas": 9.295,
+    "MediaDeDesvios": 1.9649999999999999,
+    "NotaMediana": 9.48
+  },
+  "HIS0030 - MUSEOLOGIA": {
+    "Notas": [
+      9.41
+    ],
+    "Desvios": [
+      1.64
+    ],
+    "Docentes": [
+      "HELDER DO NASCIMENTO VIANA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.41,
+    "MediaDeDesvios": 1.64,
+    "NotaMediana": 9.41
+  },
+  "DEH0064 - FORMACAO HISTORICA DO RIO GRANDE DO NORTE": {
+    "Notas": [
+      8.94,
+      9.39
+    ],
+    "Desvios": [
+      1.93,
+      1.36
+    ],
+    "Docentes": [
+      "JOSE EVANGELISTA FAGUNDES",
+      "HENRIQUE ALONSO DE ALBUQUERQUE RODRIGUES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.22500000000000053,
+    "MediaDeNotas": 9.165,
+    "MediaDeDesvios": 1.645,
+    "NotaMediana": 9.39
+  },
+  "HIS0001 - INTRODUCAO AO ESTUDO DA HISTORIA": {
+    "Notas": [
+      9.45
+    ],
+    "Desvios": [
+      1.62
+    ],
+    "Docentes": [
+      "JOSE EVANGELISTA FAGUNDES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.45,
+    "MediaDeDesvios": 1.62,
+    "NotaMediana": 9.45
+  },
+  "HIS0056 - HISTORIOGRAFIA E PESQUISA DO ENSINO DE HISTÓRIA": {
+    "Notas": [
+      9.89,
+      9.9
+    ],
+    "Desvios": [
+      1.12,
+      0.68
+    ],
+    "Docentes": [
+      "MAGNO FRANCISCO DE JESUS SANTOS"
+    ],
+    "DesvioDeNotas": 0.004999999999999893,
+    "MediaDeNotas": 9.895,
+    "MediaDeDesvios": 0.9000000000000001,
+    "NotaMediana": 9.9
+  },
+  "HIS0053 - ENSINO DE HISTÓRIA E MATERIAIS DIDÁTICOS": {
+    "Notas": [
+      9.82,
+      9.95
+    ],
+    "Desvios": [
+      1.74,
+      1.26
+    ],
+    "Docentes": [
+      "MARGARIDA MARIA DIAS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.0649999999999995,
+    "MediaDeNotas": 9.885,
+    "MediaDeDesvios": 1.5,
+    "NotaMediana": 9.95
+  },
+  "HIS0028 - CONSERVACAO DE DOCUMENTOS": {
+    "Notas": [
+      8.73
+    ],
+    "Desvios": [
+      2.36
+    ],
+    "Docentes": [
+      "MARIA DA CONCEICAO GUILHERME COELHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.73,
+    "MediaDeDesvios": 2.36,
+    "NotaMediana": 8.73
+  },
+  "HIS0035 - HISTORIA DA ARTE BRASILEIRA": {
+    "Notas": [
+      9.34,
+      9.57
+    ],
+    "Desvios": [
+      2.02,
+      1.73
+    ],
+    "Docentes": [
+      "MARIA DA CONCEICAO GUILHERME COELHO"
+    ],
+    "DesvioDeNotas": 0.11500000000000021,
+    "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 1.875,
+    "NotaMediana": 9.57
+  },
+  "HIS0039 - HISTORIA URBANA": {
+    "Notas": [
+      8.81,
+      9.48
+    ],
+    "Desvios": [
+      2.35,
+      2.01
+    ],
+    "Docentes": [
+      "RAIMUNDO PEREIRA ALENCAR ARRAIS"
+    ],
+    "DesvioDeNotas": 0.33499999999999996,
+    "MediaDeNotas": 9.145,
+    "MediaDeDesvios": 2.1799999999999997,
+    "NotaMediana": 9.48
+  },
+  "HIS0079 - CRÔNICAS DA CONQUISTA AMERICANA": {
+    "Notas": [
+      9.38,
+      9.71
+    ],
+    "Desvios": [
+      1.48,
+      0.82
+    ],
+    "Docentes": [
+      "CARMEN MARGARIDA OLIVEIRA ALVEAL"
+    ],
+    "DesvioDeNotas": 0.16500000000000004,
+    "MediaDeNotas": 9.545000000000002,
+    "MediaDeDesvios": 1.15,
+    "NotaMediana": 9.71
+  },
+  "HIS0051 - HISTÓRIA DO ENSINO DE HISTÓRIA": {
+    "Notas": [
+      9.46,
+      9.71
+    ],
+    "Desvios": [
+      1.75,
+      1.44
+    ],
+    "Docentes": [
+      "MARGARIDA MARIA DIAS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.125,
+    "MediaDeNotas": 9.585,
+    "MediaDeDesvios": 1.595,
+    "NotaMediana": 9.71
+  },
+  "DCS1010 - HISTÓRIA DA ÁFRICA": {
+    "Notas": [
+      9.26
+    ],
+    "Desvios": [
+      1.13
+    ],
+    "Docentes": [
+      "SEBASTIAO LEAL FERREIRA VARGAS NETTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.26,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.26
+  },
+  "HIS0076 - A IGREJA NA IDADE MÉDIA": {
+    "Notas": [
+      9.82
+    ],
+    "Desvios": [
+      1.47
+    ],
+    "Docentes": [
+      "WICLIFFE DE ANDRADE COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 1.47,
+    "NotaMediana": 9.82
+  },
+  "HIS0081 - NATUREZA E MUNDO AMERICANO": {
+    "Notas": [
+      9.76
+    ],
+    "Desvios": [
+      1.32
+    ],
+    "Docentes": [
+      "YURI SIMONINI SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.76,
+    "MediaDeDesvios": 1.32,
+    "NotaMediana": 9.76
+  }
+}

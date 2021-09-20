@@ -1,0 +1,1490 @@
+{
+  "ADRIANA MONTEIRO DE ALMEIDA": {
+    "Notas": [
+      8.69,
+      8.77,
+      8.97,
+      9.24,
+      9.38,
+      9.39,
+      9.4,
+      9.56,
+      9.59,
+      9.71,
+      9.72,
+      9.89
+    ],
+    "Desvios": [
+      2.57,
+      1.95,
+      2.75,
+      1.56,
+      1.62,
+      1.17,
+      1.82,
+      2.19,
+      2.53,
+      1.39,
+      1.7,
+      1.35
+    ],
+    "Componentes": {
+      "ECL0026 - CONSERVAÇÃO E GESTÃO AMBIENTAL": {
+        "Notas": [
+          8.69,
+          9.4,
+          9.56
+        ],
+        "Desvios": [
+          2.57,
+          1.82,
+          1.7
+        ],
+        "DesvioDeNotas": 0.37809463835864676,
+        "MediaDeNotas": 9.216666666666667,
+        "MediaDeDesvios": 2.03,
+        "NotaMediana": 9.4
+      },
+      "ECL0035 - ECOLOGIA GERAL": {
+        "Notas": [
+          8.77,
+          8.97,
+          9.24,
+          9.38
+        ],
+        "Desvios": [
+          1.95,
+          2.75,
+          2.19,
+          2.53
+        ],
+        "DesvioDeNotas": 0.2363260459619298,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 2.355,
+        "NotaMediana": 9.24
+      },
+      "ECL0031 - ELEMENTOS DE AGROECOLOGIA": {
+        "Notas": [
+          9.39,
+          9.72
+        ],
+        "Desvios": [
+          1.56,
+          1.39
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.475,
+        "NotaMediana": 9.72
+      },
+      "ECL0002 - ECOLOGIA DA CONSERVAÇÃO": {
+        "Notas": [
+          9.59,
+          9.71,
+          9.89
+        ],
+        "Desvios": [
+          1.62,
+          1.17,
+          1.35
+        ],
+        "DesvioDeNotas": 0.12328828005937979,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.3800000000000001,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0.3642677205328828,
+    "MediaDeNotas": 9.359166666666667,
+    "MediaDeDesvios": 1.8833333333333335,
+    "NotaMediana": 9.4
+  },
+  "ADRIANA ROSA CARVALHO": {
+    "Notas": [
+      9.53,
+      9.7,
+      9.74,
+      9.87
+    ],
+    "Desvios": [
+      1.81,
+      1.17,
+      1.45,
+      1.21
+    ],
+    "Componentes": {
+      "ECL0013 - ECONOMIA ECOLOGICA": {
+        "Notas": [
+          9.53,
+          9.7,
+          9.74,
+          9.87
+        ],
+        "Desvios": [
+          1.81,
+          1.17,
+          1.45,
+          1.21
+        ],
+        "DesvioDeNotas": 0.1214495780149112,
+        "MediaDeNotas": 9.709999999999999,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.1214495780149112,
+    "MediaDeNotas": 9.709999999999999,
+    "MediaDeDesvios": 1.41,
+    "NotaMediana": 9.74
+  },
+  "ADRIANO CALIMAN FERREIRA DA SILVA": {
+    "Notas": [
+      8.22,
+      8.3,
+      8.4,
+      8.7,
+      8.88,
+      8.95,
+      9.01,
+      9.08,
+      9.09,
+      9.25,
+      9.31,
+      9.42,
+      9.52,
+      9.61
+    ],
+    "Desvios": [
+      2.19,
+      2.49,
+      2.42,
+      2.39,
+      1.8,
+      1.82,
+      2.19,
+      1.81,
+      2.33,
+      1.6,
+      1.9,
+      1.66,
+      1.94,
+      1.77
+    ],
+    "Componentes": {
+      "ECL0006 - ECOLOGIA DE ECOSSISTEMAS": {
+        "Notas": [
+          9.01,
+          9.61
+        ],
+        "Desvios": [
+          2.19,
+          2.49
+        ],
+        "DesvioDeNotas": 0.2999999999999998,
+        "MediaDeNotas": 9.309999999999999,
+        "MediaDeDesvios": 2.34,
+        "NotaMediana": 9.61
+      },
+      "ECL0028 - ECOLOGIA II": {
+        "Notas": [
+          8.22,
+          8.3,
+          8.4,
+          8.7,
+          9.08,
+          9.31
+        ],
+        "Desvios": [
+          2.42,
+          2.39,
+          2.33,
+          1.6,
+          1.94,
+          1.77
+        ],
+        "DesvioDeNotas": 0.4063830978549946,
+        "MediaDeNotas": 8.668333333333333,
+        "MediaDeDesvios": 2.0749999999999997,
+        "NotaMediana": 8.7
+      },
+      "ECL0005 - ECOLOGIA DE COMUNIDADES": {
+        "Notas": [
+          8.95,
+          9.09,
+          9.42,
+          9.52
+        ],
+        "Desvios": [
+          1.8,
+          1.82,
+          1.9,
+          1.66
+        ],
+        "DesvioDeNotas": 0.23307724041613342,
+        "MediaDeNotas": 9.245,
+        "MediaDeDesvios": 1.795,
+        "NotaMediana": 9.42
+      },
+      "ECL0027 - ECOLOGIA I": {
+        "Notas": [
+          8.88,
+          9.25
+        ],
+        "Desvios": [
+          2.19,
+          1.81
+        ],
+        "DesvioDeNotas": 0.1849999999999996,
+        "MediaDeNotas": 9.065000000000001,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 9.25
+      }
+    },
+    "DesvioDeNotas": 0.42699710843546074,
+    "MediaDeNotas": 8.981428571428573,
+    "MediaDeDesvios": 2.0221428571428572,
+    "NotaMediana": 9.08
+  },
+  "ALEXANDRE FADIGAS DE SOUZA": {
+    "Notas": [
+      9.22,
+      9.53,
+      9.69,
+      9.74,
+      9.75
+    ],
+    "Desvios": [
+      1.75,
+      2.03,
+      1.89,
+      1.84,
+      1.1
+    ],
+    "Componentes": {
+      "ECL0014 - ECOLOGIA MATEMATICA": {
+        "Notas": [
+          9.53,
+          9.69,
+          9.75
+        ],
+        "Desvios": [
+          1.75,
+          1.89,
+          1.84
+        ],
+        "DesvioDeNotas": 0.09285592184789436,
+        "MediaDeNotas": 9.656666666666666,
+        "MediaDeDesvios": 1.8266666666666664,
+        "NotaMediana": 9.69
+      },
+      "ECL0026 - CONSERVAÇÃO E GESTÃO AMBIENTAL": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          2.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 2.03,
+        "NotaMediana": 9.22
+      },
+      "ECL0002 - ECOLOGIA DA CONSERVAÇÃO": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.19925862591115073,
+    "MediaDeNotas": 9.586,
+    "MediaDeDesvios": 1.722,
+    "NotaMediana": 9.69
+  },
+  "ANDROS TAROUCO GIANUCA": {
+    "Notas": [
+      9.06,
+      9.34,
+      9.4,
+      9.62,
+      9.7,
+      9.76
+    ],
+    "Desvios": [
+      1.91,
+      2.12,
+      1.47,
+      1.26,
+      1.61,
+      1.96
+    ],
+    "Componentes": {
+      "ECL0012 - ECOLOGIA GLOBAL": {
+        "Notas": [
+          9.06,
+          9.4
+        ],
+        "Desvios": [
+          1.91,
+          2.12
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 2.015,
+        "NotaMediana": 9.4
+      },
+      "ECL0001 - ECOLOGIA DA PAISAGEM": {
+        "Notas": [
+          9.62,
+          9.7
+        ],
+        "Desvios": [
+          1.47,
+          1.26
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.365,
+        "NotaMediana": 9.7
+      },
+      "ECL0005 - ECOLOGIA DE COMUNIDADES": {
+        "Notas": [
+          9.34,
+          9.76
+        ],
+        "Desvios": [
+          1.61,
+          1.96
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.7850000000000001,
+        "NotaMediana": 9.76
+      }
+    },
+    "DesvioDeNotas": 0.24110855093366795,
+    "MediaDeNotas": 9.479999999999999,
+    "MediaDeDesvios": 1.7216666666666665,
+    "NotaMediana": 9.62
+  },
+  "EDUARDO MARTINS VENTICINQUE": {
+    "Notas": [
+      9.05,
+      9.18,
+      9.22,
+      9.35,
+      9.48,
+      9.55,
+      9.56,
+      9.59,
+      9.62,
+      9.87,
+      9.89,
+      9.99
+    ],
+    "Desvios": [
+      1.91,
+      1.46,
+      1.68,
+      1.71,
+      1.55,
+      1.47,
+      0.93,
+      1.74,
+      1.37,
+      1.49,
+      0.9,
+      0.94
+    ],
+    "Componentes": {
+      "ECL0017 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO": {
+        "Notas": [
+          9.18,
+          9.55,
+          9.59,
+          9.62
+        ],
+        "Desvios": [
+          1.91,
+          1.46,
+          1.74,
+          1.37
+        ],
+        "DesvioDeNotas": 0.17783419243778742,
+        "MediaDeNotas": 9.485,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.59
+      },
+      "ECL0018 - GESTÃO AMBIENTAL": {
+        "Notas": [
+          9.05,
+          9.22
+        ],
+        "Desvios": [
+          1.68,
+          1.71
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.135000000000002,
+        "MediaDeDesvios": 1.6949999999999998,
+        "NotaMediana": 9.22
+      },
+      "ECL0001 - ECOLOGIA DA PAISAGEM": {
+        "Notas": [
+          9.35,
+          9.48,
+          9.56,
+          9.87
+        ],
+        "Desvios": [
+          1.55,
+          1.47,
+          1.49,
+          0.9
+        ],
+        "DesvioDeNotas": 0.19137659209004612,
+        "MediaDeNotas": 9.565,
+        "MediaDeDesvios": 1.3525,
+        "NotaMediana": 9.56
+      },
+      "ECL0041 - ECOLOGIA DE CAMPO II": {
+        "Notas": [
+          9.89,
+          9.99
+        ],
+        "Desvios": [
+          0.93,
+          0.94
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.940000000000001,
+        "MediaDeDesvios": 0.935,
+        "NotaMediana": 9.99
+      }
+    },
+    "DesvioDeNotas": 0.28191187551352903,
+    "MediaDeNotas": 9.529166666666667,
+    "MediaDeDesvios": 1.429166666666667,
+    "NotaMediana": 9.56
+  },
+  "EVERTON GIACHINI TOSETTO": {
+    "Notas": [
+      9.28,
+      9.34,
+      9.49,
+      9.61
+    ],
+    "Desvios": [
+      1.93,
+      1.66,
+      1.59,
+      1.69
+    ],
+    "Componentes": {
+      "ECL0006 - ECOLOGIA DE ECOSSISTEMAS": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.61
+      },
+      "ECL0013 - ECONOMIA ECOLOGICA": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.49
+      },
+      "ECL0018 - GESTÃO AMBIENTAL": {
+        "Notas": [
+          9.28,
+          9.34
+        ],
+        "Desvios": [
+          1.59,
+          1.69
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.309999999999999,
+        "MediaDeDesvios": 1.6400000000000001,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.12903487900563945,
+    "MediaDeNotas": 9.43,
+    "MediaDeDesvios": 1.7174999999999998,
+    "NotaMediana": 9.49
+  },
+  "FELIPE PEREIRA MARINHO": {
+    "Notas": [
+      9.48,
+      9.6,
+      9.61,
+      9.67,
+      9.75,
+      9.8
+    ],
+    "Desvios": [
+      1.29,
+      1.84,
+      1.17,
+      1.19,
+      1.37,
+      1.11
+    ],
+    "Componentes": {
+      "ECL0025 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS": {
+        "Notas": [
+          9.67
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.67
+      },
+      "ECL0003 - ECOLOGIA DA RESTAURAÇÃO": {
+        "Notas": [
+          9.48,
+          9.75
+        ],
+        "Desvios": [
+          1.84,
+          1.17
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.615,
+        "MediaDeDesvios": 1.505,
+        "NotaMediana": 9.75
+      },
+      "ECL0013 - ECONOMIA ECOLOGICA": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.6
+      },
+      "ECL0019 - MANEJO DE RECURSOS NATURAIS": {
+        "Notas": [
+          9.61,
+          9.8
+        ],
+        "Desvios": [
+          1.37,
+          1.11
+        ],
+        "DesvioDeNotas": 0.09500000000000064,
+        "MediaDeNotas": 9.705,
+        "MediaDeDesvios": 1.2400000000000002,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.10478814606412111,
+    "MediaDeNotas": 9.651666666666666,
+    "MediaDeDesvios": 1.3283333333333334,
+    "NotaMediana": 9.67
+  },
+  "JOSE LUIZ DE ATTAYDE": {
+    "Notas": [
+      8.12,
+      8.49,
+      8.86,
+      8.89,
+      8.96,
+      9.06,
+      9.09,
+      9.12,
+      9.3,
+      9.53,
+      9.53,
+      9.64,
+      9.65
+    ],
+    "Desvios": [
+      3.13,
+      2.52,
+      2.79,
+      2.05,
+      1.99,
+      2.22,
+      1.58,
+      2.32,
+      1.23,
+      2.46,
+      1.32,
+      2.16,
+      1.09
+    ],
+    "Componentes": {
+      "ECL0006 - ECOLOGIA DE ECOSSISTEMAS": {
+        "Notas": [
+          8.49,
+          9.06,
+          9.64
+        ],
+        "Desvios": [
+          3.13,
+          2.32,
+          1.23
+        ],
+        "DesvioDeNotas": 0.4694914506380519,
+        "MediaDeNotas": 9.063333333333334,
+        "MediaDeDesvios": 2.2266666666666666,
+        "NotaMediana": 9.06
+      },
+      "ECL0010 - ECOLOGIA GERAL": {
+        "Notas": [
+          8.12
+        ],
+        "Desvios": [
+          2.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.12,
+        "MediaDeDesvios": 2.52,
+        "NotaMediana": 8.12
+      },
+      "ECL0021 - SOCIEDADE E DESENVOLVIMENTO": {
+        "Notas": [
+          8.86,
+          8.96,
+          9.12,
+          9.65
+        ],
+        "Desvios": [
+          2.79,
+          2.05,
+          2.46,
+          1.32
+        ],
+        "DesvioDeNotas": 0.3045796283404392,
+        "MediaDeNotas": 9.147499999999999,
+        "MediaDeDesvios": 2.155,
+        "NotaMediana": 9.12
+      },
+      "ECO2554 - ECONOMIA DO MEIO AMBIENTE": {
+        "Notas": [
+          8.89
+        ],
+        "Desvios": [
+          1.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.89,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 8.89
+      },
+      "ECL0015 - FILOSOFIA E METODOLOGIA DA ECOLOGIA": {
+        "Notas": [
+          9.09,
+          9.3,
+          9.53,
+          9.53
+        ],
+        "Desvios": [
+          2.22,
+          1.58,
+          2.16,
+          1.09
+        ],
+        "DesvioDeNotas": 0.1832177666057522,
+        "MediaDeNotas": 9.362499999999999,
+        "MediaDeDesvios": 1.7625000000000002,
+        "NotaMediana": 9.53
+      }
+    },
+    "DesvioDeNotas": 0.43496446158305485,
+    "MediaDeNotas": 9.095384615384615,
+    "MediaDeDesvios": 2.0661538461538465,
+    "NotaMediana": 9.09
+  },
+  "LIANA DE FIGUEIREDO MENDES": {
+    "Notas": [
+      9.57,
+      9.63
+    ],
+    "Desvios": [
+      1.31,
+      1.58
+    ],
+    "Componentes": {
+      "ECL0025 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS": {
+        "Notas": [
+          9.57,
+          9.63
+        ],
+        "Desvios": [
+          1.31,
+          1.58
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.600000000000001,
+        "MediaDeDesvios": 1.445,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.03000000000000025,
+    "MediaDeNotas": 9.600000000000001,
+    "MediaDeDesvios": 1.445,
+    "NotaMediana": 9.63
+  },
+  "LUCIANA SILVA CARNEIRO": {
+    "Notas": [
+      8.09,
+      8.09,
+      8.79,
+      9.05,
+      9.43,
+      9.52,
+      9.59,
+      9.6,
+      9.65,
+      9.67
+    ],
+    "Desvios": [
+      2.57,
+      2.48,
+      2.11,
+      1.5,
+      1.75,
+      1.22,
+      1.75,
+      1.53,
+      1.92,
+      1.47
+    ],
+    "Componentes": {
+      "ECL0028 - ECOLOGIA II": {
+        "Notas": [
+          8.09,
+          8.09,
+          8.79,
+          9.05,
+          9.43,
+          9.52,
+          9.59,
+          9.67
+        ],
+        "Desvios": [
+          2.57,
+          2.48,
+          2.11,
+          1.5,
+          1.75,
+          1.53,
+          1.92,
+          1.47
+        ],
+        "DesvioDeNotas": 0.6070921985168316,
+        "MediaDeNotas": 9.028749999999999,
+        "MediaDeDesvios": 1.91625,
+        "NotaMediana": 9.43
+      },
+      "ECL0006 - ECOLOGIA DE ECOSSISTEMAS": {
+        "Notas": [
+          9.6,
+          9.65
+        ],
+        "Desvios": [
+          1.75,
+          1.22
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.625,
+        "MediaDeDesvios": 1.4849999999999999,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.5931745105784638,
+    "MediaDeNotas": 9.147999999999998,
+    "MediaDeDesvios": 1.8299999999999996,
+    "NotaMediana": 9.52
+  },
+  "MARCIO ZIKAN CARDOSO": {
+    "Notas": [
+      8.24,
+      8.65,
+      8.75,
+      8.82,
+      9.12,
+      9.15,
+      9.18,
+      9.18,
+      9.29,
+      9.43,
+      9.46,
+      9.99
+    ],
+    "Desvios": [
+      2.16,
+      1.43,
+      2.13,
+      0.94,
+      1.92,
+      2.23,
+      2.01,
+      2.21,
+      2.18,
+      1.82,
+      1.88,
+      1.79
+    ],
+    "Componentes": {
+      "ECL0027 - ECOLOGIA I": {
+        "Notas": [
+          8.75,
+          9.15,
+          9.18,
+          9.18,
+          9.29,
+          9.46
+        ],
+        "Desvios": [
+          2.16,
+          1.43,
+          1.92,
+          2.23,
+          2.18,
+          1.82
+        ],
+        "DesvioDeNotas": 0.2142752642954593,
+        "MediaDeNotas": 9.168333333333333,
+        "MediaDeDesvios": 1.9566666666666668,
+        "NotaMediana": 9.18
+      },
+      "ECL0014 - ECOLOGIA MATEMATICA": {
+        "Notas": [
+          8.65
+        ],
+        "Desvios": [
+          2.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 2.13,
+        "NotaMediana": 8.65
+      },
+      "ECL0041 - ECOLOGIA DE CAMPO II": {
+        "Notas": [
+          9.99
+        ],
+        "Desvios": [
+          0.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.99,
+        "MediaDeDesvios": 0.94,
+        "NotaMediana": 9.99
+      },
+      "ECL0009 - ECOLOGIA DE POPULAÇÕES": {
+        "Notas": [
+          9.12,
+          9.43
+        ],
+        "Desvios": [
+          2.01,
+          2.21
+        ],
+        "DesvioDeNotas": 0.15500000000000025,
+        "MediaDeNotas": 9.274999999999999,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 9.43
+      },
+      "ECL0005 - ECOLOGIA DE COMUNIDADES": {
+        "Notas": [
+          8.24
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.24,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 8.24
+      },
+      "ECL0007 - ECOLOGIA EVOLUTIVA": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 8.82
+      }
+    },
+    "DesvioDeNotas": 0.43061003239590223,
+    "MediaDeNotas": 9.105000000000002,
+    "MediaDeDesvios": 1.8916666666666666,
+    "NotaMediana": 9.18
+  },
+  "MIRIAM PLAZA PINTO": {
+    "Notas": [
+      9.23,
+      9.71,
+      9.72,
+      9.82,
+      9.86,
+      9.91,
+      9.94
+    ],
+    "Desvios": [
+      1.48,
+      2.28,
+      1.52,
+      0.9,
+      1.8,
+      1.55,
+      0.98
+    ],
+    "Componentes": {
+      "ECL0009 - ECOLOGIA DE POPULAÇÕES": {
+        "Notas": [
+          9.23,
+          9.71,
+          9.72,
+          9.82
+        ],
+        "Desvios": [
+          1.48,
+          2.28,
+          1.8,
+          1.55
+        ],
+        "DesvioDeNotas": 0.22923786772695304,
+        "MediaDeNotas": 9.620000000000001,
+        "MediaDeDesvios": 1.7774999999999999,
+        "NotaMediana": 9.72
+      },
+      "ECL0022 - ECOLOGIA ESTATISTICA": {
+        "Notas": [
+          9.86,
+          9.91,
+          9.94
+        ],
+        "Desvios": [
+          1.52,
+          0.9,
+          0.98
+        ],
+        "DesvioDeNotas": 0.032998316455372295,
+        "MediaDeNotas": 9.903333333333334,
+        "MediaDeDesvios": 1.1333333333333333,
+        "NotaMediana": 9.91
+      }
+    },
+    "DesvioDeNotas": 0.22395334791160462,
+    "MediaDeNotas": 9.741428571428571,
+    "MediaDeDesvios": 1.5014285714285713,
+    "NotaMediana": 9.82
+  },
+  "VANESSA GRAZIELE STAGGEMEIER": {
+    "Notas": [
+      9.29,
+      9.39,
+      9.81,
+      9.93
+    ],
+    "Desvios": [
+      2.23,
+      1.89,
+      1.36,
+      1.21
+    ],
+    "Componentes": {
+      "ECL0004 - ECOLOGIA DE CAMPO": {
+        "Notas": [
+          9.29,
+          9.39
+        ],
+        "Desvios": [
+          2.23,
+          1.89
+        ],
+        "DesvioDeNotas": 0.05000000000000071,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 2.06,
+        "NotaMediana": 9.39
+      },
+      "ECL0022 - ECOLOGIA ESTATISTICA": {
+        "Notas": [
+          9.81,
+          9.93
+        ],
+        "Desvios": [
+          1.36,
+          1.21
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.870000000000001,
+        "MediaDeDesvios": 1.2850000000000001,
+        "NotaMediana": 9.93
+      }
+    },
+    "DesvioDeNotas": 0.2706935536727834,
+    "MediaDeNotas": 9.605,
+    "MediaDeDesvios": 1.6725,
+    "NotaMediana": 9.81
+  },
+  "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA": {
+    "Notas": [
+      9.19,
+      9.2,
+      9.49,
+      9.58,
+      9.63,
+      9.65,
+      9.79
+    ],
+    "Desvios": [
+      1.45,
+      1.64,
+      2.1,
+      1.81,
+      1.61,
+      1.37,
+      1.82
+    ],
+    "Componentes": {
+      "ECL0007 - ECOLOGIA EVOLUTIVA": {
+        "Notas": [
+          9.19,
+          9.63,
+          9.79
+        ],
+        "Desvios": [
+          1.45,
+          1.64,
+          1.82
+        ],
+        "DesvioDeNotas": 0.2536839678725394,
+        "MediaDeNotas": 9.536666666666667,
+        "MediaDeDesvios": 1.6366666666666667,
+        "NotaMediana": 9.63
+      },
+      "ECL0004 - ECOLOGIA DE CAMPO": {
+        "Notas": [
+          9.49,
+          9.58
+        ],
+        "Desvios": [
+          2.1,
+          1.81
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.535,
+        "MediaDeDesvios": 1.955,
+        "NotaMediana": 9.58
+      },
+      "ECL0023 - ECOLOGIA ESTATÍSTICA II": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.65
+      },
+      "ECL0022 - ECOLOGIA ESTATISTICA": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.2
+      }
+    },
+    "DesvioDeNotas": 0.21245887957485834,
+    "MediaDeNotas": 9.504285714285714,
+    "MediaDeDesvios": 1.6857142857142857,
+    "NotaMediana": 9.58
+  },
+  "GISLENE MARIA DA SILVA GANADE": {
+    "Notas": [
+      8.83,
+      9.22,
+      9.22,
+      9.23,
+      9.32,
+      9.47,
+      9.5
+    ],
+    "Desvios": [
+      2.3,
+      1.69,
+      1.61,
+      1.6,
+      1.77,
+      1.61,
+      1.57
+    ],
+    "Componentes": {
+      "ECL0038 - ECOFISIOLOGIA VEGETAL": {
+        "Notas": [
+          8.83,
+          9.22,
+          9.22,
+          9.23
+        ],
+        "Desvios": [
+          2.3,
+          1.69,
+          1.77,
+          1.61
+        ],
+        "DesvioDeNotas": 0.1703672503740084,
+        "MediaDeNotas": 9.125,
+        "MediaDeDesvios": 1.8425,
+        "NotaMediana": 9.22
+      },
+      "ECL0003 - ECOLOGIA DA RESTAURAÇÃO": {
+        "Notas": [
+          9.32,
+          9.5
+        ],
+        "Desvios": [
+          1.61,
+          1.6
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.605,
+        "NotaMediana": 9.5
+      },
+      "ECL0022 - ECOLOGIA ESTATISTICA": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.47
+      }
+    },
+    "DesvioDeNotas": 0.204998755596024,
+    "MediaDeNotas": 9.255714285714287,
+    "MediaDeDesvios": 1.7357142857142855,
+    "NotaMediana": 9.23
+  },
+  "PRISCILA FABIANA MACEDO LOPES": {
+    "Notas": [
+      9.63,
+      9.72,
+      9.81,
+      9.83,
+      9.9,
+      9.96
+    ],
+    "Desvios": [
+      1.19,
+      1.08,
+      1.66,
+      1.28,
+      1.42,
+      0.89
+    ],
+    "Componentes": {
+      "ECL0011 - ECOLOGIA HUMANA": {
+        "Notas": [
+          9.81,
+          9.83,
+          9.9,
+          9.96
+        ],
+        "Desvios": [
+          1.19,
+          1.08,
+          1.42,
+          0.89
+        ],
+        "DesvioDeNotas": 0.05937171043518978,
+        "MediaDeNotas": 9.875,
+        "MediaDeDesvios": 1.145,
+        "NotaMediana": 9.9
+      },
+      "ECL0021 - SOCIEDADE E DESENVOLVIMENTO": {
+        "Notas": [
+          9.63,
+          9.72
+        ],
+        "Desvios": [
+          1.66,
+          1.28
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.675,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.72
+      }
+    },
+    "DesvioDeNotas": 0.10915076220021956,
+    "MediaDeNotas": 9.808333333333334,
+    "MediaDeDesvios": 1.2533333333333332,
+    "NotaMediana": 9.83
+  },
+  "RAFAEL CAMILO LAIA": {
+    "Notas": [
+      8.43,
+      9.17,
+      9.22,
+      9.24,
+      9.37,
+      9.37,
+      9.4,
+      9.64,
+      9.66,
+      9.66,
+      9.72,
+      9.75,
+      9.75,
+      9.82,
+      9.91,
+      9.91
+    ],
+    "Desvios": [
+      1.51,
+      1.6,
+      1.49,
+      2.17,
+      1.58,
+      1.28,
+      2.61,
+      2.32,
+      1.18,
+      1.51,
+      1.52,
+      0.88,
+      1.49,
+      1.53,
+      1.2,
+      1.18
+    ],
+    "Componentes": {
+      "ECL0007 - ECOLOGIA EVOLUTIVA": {
+        "Notas": [
+          9.64,
+          9.75
+        ],
+        "Desvios": [
+          1.51,
+          1.6
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.695,
+        "MediaDeDesvios": 1.5550000000000002,
+        "NotaMediana": 9.75
+      },
+      "ECL0027 - ECOLOGIA I": {
+        "Notas": [
+          9.4,
+          9.72
+        ],
+        "Desvios": [
+          1.49,
+          2.17
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.72
+      },
+      "ECL0036 - EDUCAÇÃO AMBIENTAL": {
+        "Notas": [
+          9.22,
+          9.24,
+          9.66,
+          9.66
+        ],
+        "Desvios": [
+          1.58,
+          1.28,
+          1.49,
+          1.53
+        ],
+        "DesvioDeNotas": 0.2151162476429894,
+        "MediaDeNotas": 9.445,
+        "MediaDeDesvios": 1.4700000000000002,
+        "NotaMediana": 9.66
+      },
+      "ECL0029 - ECOLOGIA APLICADA À ZOOTECNIA": {
+        "Notas": [
+          8.43
+        ],
+        "Desvios": [
+          2.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.43,
+        "MediaDeDesvios": 2.61,
+        "NotaMediana": 8.43
+      },
+      "ECL0010 - ECOLOGIA GERAL": {
+        "Notas": [
+          9.17
+        ],
+        "Desvios": [
+          2.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 2.32,
+        "NotaMediana": 9.17
+      },
+      "ECL0019 - MANEJO DE RECURSOS NATURAIS": {
+        "Notas": [
+          9.37,
+          9.82,
+          9.91
+        ],
+        "Desvios": [
+          1.18,
+          1.51,
+          1.18
+        ],
+        "DesvioDeNotas": 0.23622023622035482,
+        "MediaDeNotas": 9.700000000000001,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.82
+      },
+      "ECL0011 - ECOLOGIA HUMANA": {
+        "Notas": [
+          9.75,
+          9.91
+        ],
+        "Desvios": [
+          1.52,
+          0.88
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.91
+      },
+      "ECL0015 - FILOSOFIA E METODOLOGIA DA ECOLOGIA": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.3645523796383725,
+    "MediaDeNotas": 9.501249999999999,
+    "MediaDeDesvios": 1.5656249999999998,
+    "NotaMediana": 9.66
+  },
+  "HELOISA DANTAS BRUM": {
+    "Notas": [
+      9.59,
+      9.66,
+      9.93
+    ],
+    "Desvios": [
+      1.59,
+      1.61,
+      0.89
+    ],
+    "Componentes": {
+      "ECL0018 - GESTÃO AMBIENTAL": {
+        "Notas": [
+          9.59,
+          9.66
+        ],
+        "Desvios": [
+          1.59,
+          1.61
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.625,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.66
+      },
+      "ECL0037 - SEMINÁRIOS EM ECOLOGIA": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          0.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 0.89,
+        "NotaMediana": 9.93
+      }
+    },
+    "DesvioDeNotas": 0.1465908895153067,
+    "MediaDeNotas": 9.726666666666667,
+    "MediaDeDesvios": 1.3633333333333333,
+    "NotaMediana": 9.66
+  },
+  "MARÍLIA BRUZZI LION": {
+    "Notas": [
+      9.63,
+      9.77
+    ],
+    "Desvios": [
+      1.41,
+      0.9
+    ],
+    "Componentes": {
+      "ECL0001 - ECOLOGIA DA PAISAGEM": {
+        "Notas": [
+          9.63,
+          9.77
+        ],
+        "Desvios": [
+          1.41,
+          0.9
+        ],
+        "DesvioDeNotas": 0.0699999999999994,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.155,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.0699999999999994,
+    "MediaDeNotas": 9.7,
+    "MediaDeDesvios": 1.155,
+    "NotaMediana": 9.77
+  }
+}

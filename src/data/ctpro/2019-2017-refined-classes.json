@@ -1,0 +1,1088 @@
+{
+  "PRO1702 - GESTÃO DE RESÍDUOS": {
+    "Notas": [
+      8.62,
+      8.91,
+      9.13,
+      9.65
+    ],
+    "Desvios": [
+      2.11,
+      1.68,
+      1.94,
+      1.96
+    ],
+    "Docentes": [
+      "CILIANA REGINA COLOMBO",
+      "PRISCILLA CAVALCANTE DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.37678740690208884,
+    "MediaDeNotas": 9.0775,
+    "MediaDeDesvios": 1.9225,
+    "NotaMediana": 9.13
+  },
+  "PRO1703 - TECNOLOGIAS AMBIENTAIS": {
+    "Notas": [
+      8.68,
+      8.86,
+      9.23,
+      9.32,
+      9.7
+    ],
+    "Desvios": [
+      1.69,
+      1.4,
+      1.74,
+      2.19,
+      1.59
+    ],
+    "Docentes": [
+      "CILIANA REGINA COLOMBO",
+      "PRISCILLA CAVALCANTE DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.3584633872517527,
+    "MediaDeNotas": 9.158000000000001,
+    "MediaDeDesvios": 1.722,
+    "NotaMediana": 9.23
+  },
+  "PRO1806 - ANÁLISE DE DESEMPENHO - ANÁLISE ENVOLTÓRIA DE DADOS": {
+    "Notas": [
+      9.91,
+      9.98
+    ],
+    "Desvios": [
+      1.17,
+      0.9
+    ],
+    "Docentes": [
+      "CLAUDIA APARECIDA CAVALHEIRO FRANCISCO",
+      "MARIANA RODRIGUES DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.03500000000000014,
+    "MediaDeNotas": 9.945,
+    "MediaDeDesvios": 1.035,
+    "NotaMediana": 9.98
+  },
+  "PRO1801 - PESQUISA OPERACIONAL I": {
+    "Notas": [
+      10,
+      9.02,
+      9.62,
+      9.64,
+      9.64,
+      9.78,
+      9.88
+    ],
+    "Desvios": [
+      1.45,
+      1.87,
+      1.02,
+      0.83,
+      1.16,
+      1.26,
+      1.36
+    ],
+    "Docentes": [
+      "CLAUDIA APARECIDA CAVALHEIRO FRANCISCO",
+      "JOAO AGRA NETO"
+    ],
+    "DesvioDeNotas": 0.2903621946494288,
+    "MediaDeNotas": 9.654285714285717,
+    "MediaDeDesvios": 1.2785714285714285,
+    "NotaMediana": 9.64
+  },
+  "PRO1803 - TEORIA DAS FILAS E SIMULAÇÃO": {
+    "Notas": [
+      8.64,
+      8.92,
+      8.99,
+      9.4,
+      9.75,
+      9.78,
+      9.81,
+      9.84
+    ],
+    "Desvios": [
+      1.11,
+      2.18,
+      1.51,
+      1.33,
+      2.01,
+      1.18,
+      1.21,
+      1.26
+    ],
+    "Docentes": [
+      "CLAUDIA APARECIDA CAVALHEIRO FRANCISCO",
+      "WERNER KLEYSON DA SILVA SOARES"
+    ],
+    "DesvioDeNotas": 0.44778447661793713,
+    "MediaDeNotas": 9.391250000000001,
+    "MediaDeDesvios": 1.4737500000000001,
+    "NotaMediana": 9.75
+  },
+  "PRO1102 - GESTÃO ESTRATÉGICA E PLANEJAMENTO EMPRESARIAL": {
+    "Notas": [
+      8.83,
+      8.98,
+      9.03,
+      9.22
+    ],
+    "Desvios": [
+      2.02,
+      1.92,
+      1.54,
+      1.72
+    ],
+    "Docentes": [
+      "FABRICIA GONCALVES DE CARVALHO",
+      "ADRIANA CAVALCANTE MARQUES"
+    ],
+    "DesvioDeNotas": 0.13937359864766372,
+    "MediaDeNotas": 9.014999999999999,
+    "MediaDeDesvios": 1.8,
+    "NotaMediana": 9.03
+  },
+  "PRO1006 - METODOLOGIA DO TRABALHO CIENTÍFICO": {
+    "Notas": [
+      8.85,
+      9.27,
+      9.38,
+      9.52
+    ],
+    "Desvios": [
+      1.72,
+      2.03,
+      1.54,
+      1.77
+    ],
+    "Docentes": [
+      "FABRICIA GONCALVES DE CARVALHO",
+      "ADRIANA CAVALCANTE MARQUES"
+    ],
+    "DesvioDeNotas": 0.2500499950009999,
+    "MediaDeNotas": 9.254999999999999,
+    "MediaDeDesvios": 1.7650000000000001,
+    "NotaMediana": 9.38
+  },
+  "PRO1998 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO": {
+    "Notas": [
+      8.5,
+      8.95,
+      9.16,
+      9.23,
+      9.31
+    ],
+    "Desvios": [
+      1.5,
+      1.54,
+      1.63,
+      2.11,
+      1.85
+    ],
+    "Docentes": [
+      "FABRICIA GONCALVES DE CARVALHO",
+      "CILIANA REGINA COLOMBO"
+    ],
+    "DesvioDeNotas": 0.2907232360854566,
+    "MediaDeNotas": 9.030000000000001,
+    "MediaDeDesvios": 1.7259999999999998,
+    "NotaMediana": 9.16
+  },
+  "PRO1405 - LOGÍSTICA EMPRESARIAL": {
+    "Notas": [
+      8.61,
+      9.23,
+      9.47,
+      9.67,
+      9.82
+    ],
+    "Desvios": [
+      1.26,
+      1.59,
+      1.81,
+      1.67,
+      1.88
+    ],
+    "Docentes": [
+      "FERNANDA BARRETO DE ALMEIDA ROCHA MARIZ",
+      "MARCO ANTONIO LEANDRO CABRAL",
+      "WATTSON JOSE SAENZ PERALES"
+    ],
+    "DesvioDeNotas": 0.42407546498235454,
+    "MediaDeNotas": 9.36,
+    "MediaDeDesvios": 1.6420000000000001,
+    "NotaMediana": 9.47
+  },
+  "PRO1902 - ENGENHARIA DA QUALIDADE": {
+    "Notas": [
+      9.08,
+      9.09,
+      9.2,
+      9.29,
+      9.62
+    ],
+    "Desvios": [
+      1.65,
+      1.14,
+      1.07,
+      1.73,
+      1.39
+    ],
+    "Docentes": [
+      "FERNANDA CRISTINA BARBOSA PEREIRA QUEIROZ"
+    ],
+    "DesvioDeNotas": 0.1976461484572869,
+    "MediaDeNotas": 9.256,
+    "MediaDeDesvios": 1.396,
+    "NotaMediana": 9.2
+  },
+  "PRO1901 - GESTÃO DE QUALIDADE": {
+    "Notas": [
+      8.43,
+      9.19,
+      9.5,
+      9.54
+    ],
+    "Desvios": [
+      1.58,
+      1.51,
+      2.02,
+      1.06
+    ],
+    "Docentes": [
+      "FERNANDA CRISTINA BARBOSA PEREIRA QUEIROZ",
+      "PRISCILLA CAVALCANTE DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.44544921147084765,
+    "MediaDeNotas": 9.165,
+    "MediaDeDesvios": 1.5425,
+    "NotaMediana": 9.5
+  },
+  "PRO1406 - GESTÃO DE MANUTENÇÃO": {
+    "Notas": [
+      8.86,
+      9.32,
+      9.5,
+      9.57,
+      9.66
+    ],
+    "Desvios": [
+      1.6,
+      1.68,
+      1.32,
+      1.27,
+      1.1
+    ],
+    "Docentes": [
+      "HERBERT RICARDO GARCIA VIANA"
+    ],
+    "DesvioDeNotas": 0.283859119987363,
+    "MediaDeNotas": 9.382000000000001,
+    "MediaDeDesvios": 1.3940000000000001,
+    "NotaMediana": 9.5
+  },
+  "PRO1104 - EMPREENDEDORISMO E LIDERANÇA": {
+    "Notas": [
+      8.47,
+      8.55,
+      8.95
+    ],
+    "Desvios": [
+      1.76,
+      2.27,
+      1.71
+    ],
+    "Docentes": [
+      "JAMERSON VIEGAS QUEIROZ"
+    ],
+    "DesvioDeNotas": 0.20997354330698098,
+    "MediaDeNotas": 8.656666666666666,
+    "MediaDeDesvios": 1.9133333333333333,
+    "NotaMediana": 8.55
+  },
+  "PRO1204 - GESTÃO DO CONHECIMENTO": {
+    "Notas": [
+      8.95,
+      9.17
+    ],
+    "Desvios": [
+      1.47,
+      1.99
+    ],
+    "Docentes": [
+      "JAMERSON VIEGAS QUEIROZ"
+    ],
+    "DesvioDeNotas": 0.11000000000000032,
+    "MediaDeNotas": 9.059999999999999,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.17
+  },
+  "PRO1304 - CONTABILIDADE DE CUSTOS I": {
+    "Notas": [
+      9.31,
+      9.49,
+      9.49,
+      9.56,
+      9.76
+    ],
+    "Desvios": [
+      1.29,
+      1.28,
+      1.77,
+      1.31,
+      1.46
+    ],
+    "Docentes": [
+      "JESUS LEODALY SALAZAR ARAMAYO",
+      "JOAO AGRA NETO"
+    ],
+    "DesvioDeNotas": 0.14496896219536076,
+    "MediaDeNotas": 9.522,
+    "MediaDeDesvios": 1.4220000000000002,
+    "NotaMediana": 9.49
+  },
+  "PRO1305 - ENGENHARIA ECONÔMICA": {
+    "Notas": [
+      7.83,
+      8.88,
+      9.36,
+      9.39,
+      9.7
+    ],
+    "Desvios": [
+      1.54,
+      1.59,
+      1.91,
+      2.87,
+      1.3
+    ],
+    "Docentes": [
+      "JESUS LEODALY SALAZAR ARAMAYO",
+      "MARIANA RODRIGUES DE ALMEIDA",
+      "JOAO AGRA NETO"
+    ],
+    "DesvioDeNotas": 0.6557255523464064,
+    "MediaDeNotas": 9.032,
+    "MediaDeDesvios": 1.842,
+    "NotaMediana": 9.36
+  },
+  "PRO1303 - CONTABILIDADE EMPRESARIAL": {
+    "Notas": [
+      9.13,
+      9.29,
+      9.4,
+      9.53,
+      9.73
+    ],
+    "Desvios": [
+      1.8,
+      1.85,
+      1.52,
+      1.71,
+      0.9
+    ],
+    "Docentes": [
+      "JOAO AGRA NETO",
+      "JESUS LEODALY SALAZAR ARAMAYO"
+    ],
+    "DesvioDeNotas": 0.2047046653107837,
+    "MediaDeNotas": 9.416,
+    "MediaDeDesvios": 1.556,
+    "NotaMediana": 9.4
+  },
+  "PRO1004 - MÉTODOS NUMÉRICOS PARA ENGENHARIA DE PRODUÇÃO": {
+    "Notas": [
+      8.31,
+      8.59,
+      8.73
+    ],
+    "Desvios": [
+      2.17,
+      2.04,
+      2.01
+    ],
+    "Docentes": [
+      "JOAO AGRA NETO",
+      "WERNER KLEYSON DA SILVA SOARES"
+    ],
+    "DesvioDeNotas": 0.17461067804945052,
+    "MediaDeNotas": 8.543333333333335,
+    "MediaDeDesvios": 2.0733333333333333,
+    "NotaMediana": 8.59
+  },
+  "PRO1504 - HIGIENE E SEGURANÇA DO TRABALHO": {
+    "Notas": [
+      6.42,
+      8.91,
+      8.95,
+      8.96,
+      8.98,
+      9.06,
+      9.07,
+      9.14,
+      9.21,
+      9.22,
+      9.32,
+      9.32,
+      9.52,
+      9.55,
+      9.56,
+      9.68
+    ],
+    "Desvios": [
+      1.59,
+      1.73,
+      1.55,
+      2,
+      1.52,
+      1.57,
+      1.45,
+      2.1,
+      1.83,
+      1.89,
+      1.95,
+      1.37,
+      2.02,
+      2.57,
+      1.48,
+      1.46
+    ],
+    "Docentes": [
+      "MARCO ANTONIO DANTAS DE SOUZA",
+      "VEDER RALFH FERNANDES DE MEDEIROS",
+      "RICARDO JOSE MATOS DE CARVALHO",
+      "VIVIANNE SANTIAGO MARINHO"
+    ],
+    "DesvioDeNotas": 0.7200691698545356,
+    "MediaDeNotas": 9.054375,
+    "MediaDeDesvios": 1.7550000000000001,
+    "NotaMediana": 9.21
+  },
+  "PRO1507 - SISTEMA DE GESTÃO DE RISCOS": {
+    "Notas": [
+      8.41,
+      8.59
+    ],
+    "Desvios": [
+      2.05,
+      1.32
+    ],
+    "Docentes": [
+      "MARCO ANTONIO DANTAS DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.08999999999999986,
+    "MediaDeNotas": 8.5,
+    "MediaDeDesvios": 1.685,
+    "NotaMediana": 8.59
+  },
+  "PRO1404 - GESTÃO DE SISTEMAS DE PRODUÇÃO III": {
+    "Notas": [
+      9.5,
+      9.57,
+      9.6,
+      9.71,
+      9.89
+    ],
+    "Desvios": [
+      0.78,
+      1.54,
+      1.24,
+      1.63,
+      1.05
+    ],
+    "Docentes": [
+      "MARCO ANTONIO LEANDRO CABRAL",
+      "SANDRA RUFINO SANTOS"
+    ],
+    "DesvioDeNotas": 0.13602940858505586,
+    "MediaDeNotas": 9.654,
+    "MediaDeDesvios": 1.248,
+    "NotaMediana": 9.6
+  },
+  "PRO1301 - ECONOMIA PARA ENGENHARIA DE PRODUÇÃO": {
+    "Notas": [
+      8.94,
+      9.52,
+      9.53,
+      9.63,
+      9.64
+    ],
+    "Desvios": [
+      1.86,
+      1.7,
+      1.43,
+      1.3,
+      1.19
+    ],
+    "Docentes": [
+      "MARIANA RODRIGUES DE ALMEIDA",
+      "JOAO AGRA NETO"
+    ],
+    "DesvioDeNotas": 0.26072207424765587,
+    "MediaDeNotas": 9.452000000000002,
+    "MediaDeDesvios": 1.496,
+    "NotaMediana": 9.53
+  },
+  "PRO1302 - MATEMÁTICA FINANCEIRA": {
+    "Notas": [
+      8.79,
+      9.09,
+      9.15,
+      9.7
+    ],
+    "Desvios": [
+      1.9,
+      2.36,
+      1.33,
+      1.65
+    ],
+    "Docentes": [
+      "MARIANA RODRIGUES DE ALMEIDA",
+      "JOAO AGRA NETO",
+      "JESUS LEODALY SALAZAR ARAMAYO"
+    ],
+    "DesvioDeNotas": 0.3284337832805876,
+    "MediaDeNotas": 9.1825,
+    "MediaDeDesvios": 1.81,
+    "NotaMediana": 9.15
+  },
+  "PRO1306 - PROJETOS DE EMPREENDIMENTO": {
+    "Notas": [
+      8.97,
+      9,
+      9.31,
+      9.4
+    ],
+    "Desvios": [
+      2.08,
+      1.58,
+      1.66,
+      1.36
+    ],
+    "Docentes": [
+      "MARIANA RODRIGUES DE ALMEIDA",
+      "ADRIANA CAVALCANTE MARQUES",
+      "MARCO ANTONIO LEANDRO CABRAL",
+      "JESUS LEODALY SALAZAR ARAMAYO"
+    ],
+    "DesvioDeNotas": 0.18801595676963168,
+    "MediaDeNotas": 9.17,
+    "MediaDeDesvios": 1.6700000000000002,
+    "NotaMediana": 9.31
+  },
+  "PRO1603 - LABORATÓRIO DE ENGENHARIA DO PRODUTO": {
+    "Notas": [
+      9.09
+    ],
+    "Desvios": [
+      2.24
+    ],
+    "Docentes": [
+      "MARIO ORESTES AGUIRRE GONZALEZ"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.09,
+    "MediaDeDesvios": 2.24,
+    "NotaMediana": 9.09
+  },
+  "PRO1701 - GESTÃO AMBIENTAL": {
+    "Notas": [
+      9.34,
+      9.56,
+      9.76,
+      9.77
+    ],
+    "Desvios": [
+      1.51,
+      1.12,
+      0.89,
+      1.7
+    ],
+    "Docentes": [
+      "PRISCILLA CAVALCANTE DE ARAUJO",
+      "RICARDO PIRES DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.17569504830814087,
+    "MediaDeNotas": 9.607499999999998,
+    "MediaDeDesvios": 1.305,
+    "NotaMediana": 9.76
+  },
+  "PRO1101 - INTRODUÇÃO Á ENGENHARIA DE PRODUÇÃO": {
+    "Notas": [
+      8.03,
+      8.33,
+      8.43,
+      8.66
+    ],
+    "Desvios": [
+      2.75,
+      2.27,
+      2.31,
+      1.87
+    ],
+    "Docentes": [
+      "REIDSON PEREIRA GOUVINHAS"
+    ],
+    "DesvioDeNotas": 0.2262051060431663,
+    "MediaDeNotas": 8.3625,
+    "MediaDeDesvios": 2.3,
+    "NotaMediana": 8.43
+  },
+  "PRO1601 - MARKETING PARA ENGENHARIA DE PRODUÇÃO": {
+    "Notas": [
+      7.49,
+      8,
+      8.16,
+      8.2
+    ],
+    "Desvios": [
+      2.45,
+      2.06,
+      2.2,
+      2.24
+    ],
+    "Docentes": [
+      "REIDSON PEREIRA GOUVINHAS"
+    ],
+    "DesvioDeNotas": 0.2828758561630877,
+    "MediaDeNotas": 7.9625,
+    "MediaDeDesvios": 2.2375,
+    "NotaMediana": 8.16
+  },
+  "PRO1503 - ERGONOMIA": {
+    "Notas": [
+      8.38,
+      8.61,
+      9.32
+    ],
+    "Desvios": [
+      2.3,
+      2.43,
+      1.61
+    ],
+    "Docentes": [
+      "RICARDO JOSE MATOS DE CARVALHO",
+      "MARCO ANTONIO DANTAS DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.40008332465458574,
+    "MediaDeNotas": 8.770000000000001,
+    "MediaDeDesvios": 2.1133333333333337,
+    "NotaMediana": 8.61
+  },
+  "PRO1408 - GESTÃO DE PROJETOS": {
+    "Notas": [
+      7.94,
+      9.04,
+      9.61
+    ],
+    "Desvios": [
+      2.24,
+      1.57,
+      1.04
+    ],
+    "Docentes": [
+      "RICARDO PIRES DE SOUZA",
+      "MARIO ORESTES AGUIRRE GONZALEZ"
+    ],
+    "DesvioDeNotas": 0.6931249686905108,
+    "MediaDeNotas": 8.863333333333333,
+    "MediaDeDesvios": 1.616666666666667,
+    "NotaMediana": 9.04
+  },
+  "PRO1402 - GESTÃO DE SISTEMAS DE PRODUÇÃO I": {
+    "Notas": [
+      8.53,
+      9.04,
+      9.3,
+      9.4,
+      9.6,
+      9.6
+    ],
+    "Desvios": [
+      1.29,
+      1.28,
+      1.83,
+      1.27,
+      1.08,
+      1.9
+    ],
+    "Docentes": [
+      "SANDRA RUFINO SANTOS",
+      "WATTSON JOSE SAENZ PERALES",
+      "PRISCILLA CAVALCANTE DE ARAUJO",
+      "RICARDO PIRES DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.37245805132927406,
+    "MediaDeNotas": 9.245000000000001,
+    "MediaDeDesvios": 1.4416666666666667,
+    "NotaMediana": 9.4
+  },
+  "PRO0201 - PLANEJAMENTO E CONTROLE DA PRODUCAO": {
+    "Notas": [
+      8.31,
+      9.5,
+      9.56,
+      9.57,
+      9.68,
+      9.8
+    ],
+    "Desvios": [
+      1.18,
+      2.48,
+      1.6,
+      2.18,
+      1.12,
+      1.3
+    ],
+    "Docentes": [
+      "SANDRA RUFINO SANTOS",
+      "ADRIANA CAVALCANTE MARQUES",
+      "MARCO ANTONIO LEANDRO CABRAL"
+    ],
+    "DesvioDeNotas": 0.49848659850480315,
+    "MediaDeNotas": 9.403333333333334,
+    "MediaDeDesvios": 1.6433333333333333,
+    "NotaMediana": 9.57
+  },
+  "PRO1401 - PLANEJAMENTO E GESTÃO DOS PROCESSOS PRODUTIVOS": {
+    "Notas": [
+      8.34,
+      8.36,
+      8.74,
+      8.94,
+      9.39,
+      9.49,
+      9.49,
+      9.61,
+      9.79
+    ],
+    "Desvios": [
+      1.4,
+      1.4,
+      1.18,
+      2.71,
+      2.57,
+      1.54,
+      1.52,
+      1.85,
+      1.83
+    ],
+    "Docentes": [
+      "SANDRA RUFINO SANTOS",
+      "WATTSON JOSE SAENZ PERALES",
+      "MARCO ANTONIO LEANDRO CABRAL"
+    ],
+    "DesvioDeNotas": 0.5161777854313758,
+    "MediaDeNotas": 9.127777777777776,
+    "MediaDeDesvios": 1.7777777777777777,
+    "NotaMediana": 9.39
+  },
+  "PRO1802 - PESQUISA OPERACIONAL II": {
+    "Notas": [
+      8.43,
+      9.2,
+      9.23,
+      9.35,
+      9.47
+    ],
+    "Desvios": [
+      1.64,
+      1.58,
+      1.65,
+      2.25,
+      1.46
+    ],
+    "Docentes": [
+      "WERNER KLEYSON DA SILVA SOARES"
+    ],
+    "DesvioDeNotas": 0.36571026783507204,
+    "MediaDeNotas": 9.136000000000001,
+    "MediaDeDesvios": 1.7159999999999997,
+    "NotaMediana": 9.23
+  },
+  "PRO1403 - GESTÃO DE SISTEMAS DE PRODUÇÃO II": {
+    "Notas": [
+      9.27,
+      9.63,
+      9.64,
+      9.65,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.66,
+      1,
+      1.37,
+      0.88,
+      1.18,
+      1.46
+    ],
+    "Docentes": [
+      "ADRIANA CAVALCANTE MARQUES",
+      "MARCO ANTONIO LEANDRO CABRAL",
+      "SANDRA RUFINO SANTOS"
+    ],
+    "DesvioDeNotas": 0.18685258598394872,
+    "MediaDeNotas": 9.641666666666667,
+    "MediaDeDesvios": 1.2583333333333333,
+    "NotaMediana": 9.65
+  },
+  "PRO1203 - SISTEMA DE INFORMAÇÃO GERENCIAL": {
+    "Notas": [
+      9,
+      9.19,
+      9.63
+    ],
+    "Desvios": [
+      1.44,
+      1.21,
+      1.55
+    ],
+    "Docentes": [
+      "ADRIANA CAVALCANTE MARQUES"
+    ],
+    "DesvioDeNotas": 0.26386023236217776,
+    "MediaDeNotas": 9.273333333333333,
+    "MediaDeDesvios": 1.4000000000000001,
+    "NotaMediana": 9.19
+  },
+  "PRO1103 - ESTRATÉGIA DE PRODUÇÃO": {
+    "Notas": [
+      8.65,
+      8.78,
+      8.82
+    ],
+    "Desvios": [
+      1.74,
+      1.82,
+      1.88
+    ],
+    "Docentes": [
+      "JAMERSON VIEGAS QUEIROZ",
+      "FABRICIA GONCALVES DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0.07257180352359065,
+    "MediaDeNotas": 8.75,
+    "MediaDeDesvios": 1.8133333333333332,
+    "NotaMediana": 8.78
+  },
+  "PRO0331 - MATEMATICA FINANCEIRA": {
+    "Notas": [
+      9.22,
+      9.57,
+      9.71
+    ],
+    "Desvios": [
+      1.89,
+      1.7,
+      1.12
+    ],
+    "Docentes": [
+      "JOAO AGRA NETO"
+    ],
+    "DesvioDeNotas": 0.20607442021431646,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.57,
+    "NotaMediana": 9.57
+  },
+  "PRO1602 - ENGENHARIA DO PRODUTO": {
+    "Notas": [
+      7.08,
+      9.09,
+      9.32
+    ],
+    "Desvios": [
+      1.32,
+      2.88,
+      1.63
+    ],
+    "Docentes": [
+      "MARIO ORESTES AGUIRRE GONZALEZ"
+    ],
+    "DesvioDeNotas": 1.006125682451695,
+    "MediaDeNotas": 8.496666666666666,
+    "MediaDeDesvios": 1.9433333333333334,
+    "NotaMediana": 9.09
+  },
+  "PRO1005 - ESTATÍSTICA PARA ENGENHARIA DE PRODUÇÃO": {
+    "Notas": [
+      7.95,
+      8.53
+    ],
+    "Desvios": [
+      2.03,
+      1.66
+    ],
+    "Docentes": [
+      "RICARDO PIRES DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.2899999999999996,
+    "MediaDeNotas": 8.24,
+    "MediaDeDesvios": 1.8449999999999998,
+    "NotaMediana": 8.53
+  },
+  "PRO1202 - GESTÃO DE INFORMAÇÃO": {
+    "Notas": [
+      7.05,
+      9.36,
+      9.7
+    ],
+    "Desvios": [
+      1.68,
+      1.34,
+      2.92
+    ],
+    "Docentes": [
+      "ADRIANA CAVALCANTE MARQUES",
+      "FERNANDA CRISTINA BARBOSA PEREIRA QUEIROZ"
+    ],
+    "DesvioDeNotas": 1.1772944500940372,
+    "MediaDeNotas": 8.703333333333333,
+    "MediaDeDesvios": 1.9799999999999998,
+    "NotaMediana": 9.36
+  },
+  "PRO1407 - LOGÍSTICA APLICADA": {
+    "Notas": [
+      9.41,
+      9.61
+    ],
+    "Desvios": [
+      1.08,
+      1.07
+    ],
+    "Docentes": [
+      "HERBERT RICARDO GARCIA VIANA"
+    ],
+    "DesvioDeNotas": 0.09999999999999964,
+    "MediaDeNotas": 9.51,
+    "MediaDeDesvios": 1.0750000000000002,
+    "NotaMediana": 9.61
+  },
+  "PRO1307 - CONTABILIDADE DE CUSTOS II": {
+    "Notas": [
+      9.43
+    ],
+    "Desvios": [
+      1.04
+    ],
+    "Docentes": [
+      "JESUS LEODALY SALAZAR ARAMAYO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.43,
+    "MediaDeDesvios": 1.04,
+    "NotaMediana": 9.43
+  },
+  "PRO1501 - ORGANIZAÇÃO DO TRABALHO": {
+    "Notas": [
+      6.57,
+      8.96,
+      9.06,
+      9.15
+    ],
+    "Desvios": [
+      1.64,
+      1.54,
+      1.62,
+      2.89
+    ],
+    "Docentes": [
+      "MARCO ANTONIO DANTAS DE SOUZA",
+      "RICARDO JOSE MATOS DE CARVALHO",
+      "VEDER RALFH FERNANDES DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 1.0788535581810907,
+    "MediaDeNotas": 8.435,
+    "MediaDeDesvios": 1.9224999999999999,
+    "NotaMediana": 9.06
+  },
+  "PRO0208 - GESTAO DE MATERIAIS": {
+    "Notas": [
+      10,
+      9.48,
+      9.82
+    ],
+    "Desvios": [
+      1.07,
+      0.65,
+      1.27
+    ],
+    "Docentes": [
+      "MARCO ANTONIO LEANDRO CABRAL",
+      "PRISCILLA CAVALCANTE DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.21561282171728288,
+    "MediaDeNotas": 9.766666666666667,
+    "MediaDeDesvios": 0.9966666666666667,
+    "NotaMediana": 9.48
+  },
+  "PRO1505 - TÓPICOS AVANÇADOS EM ERGONOMIA": {
+    "Notas": [
+      9.05,
+      9.3
+    ],
+    "Desvios": [
+      1.21,
+      1.35
+    ],
+    "Docentes": [
+      "RICARDO JOSE MATOS DE CARVALHO",
+      "VEDER RALFH FERNANDES DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.125,
+    "MediaDeNotas": 9.175,
+    "MediaDeDesvios": 1.28,
+    "NotaMediana": 9.3
+  },
+  "PRO1410 - GESTÃO DE PROJETOS SOLIDÁRIOS": {
+    "Notas": [
+      8.75,
+      9.75
+    ],
+    "Desvios": [
+      1.47,
+      1.24
+    ],
+    "Docentes": [
+      "SANDRA RUFINO SANTOS"
+    ],
+    "DesvioDeNotas": 0.5,
+    "MediaDeNotas": 9.25,
+    "MediaDeDesvios": 1.355,
+    "NotaMediana": 9.75
+  },
+  "PRO1409 - TÓPICOS ESPECIAIS EM GESTÃO DA PRODUÇÃO": {
+    "Notas": [
+      9.9
+    ],
+    "Desvios": [
+      0.95
+    ],
+    "Docentes": [
+      "MARCO ANTONIO LEANDRO CABRAL"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.9,
+    "MediaDeDesvios": 0.95,
+    "NotaMediana": 9.9
+  },
+  "PRO1502 - ANÁLISE ERGONÔMICA DO TRABALHO": {
+    "Notas": [
+      8.63,
+      8.92
+    ],
+    "Desvios": [
+      1.91,
+      1.81
+    ],
+    "Docentes": [
+      "RICARDO JOSE MATOS DE CARVALHO",
+      "VEDER RALFH FERNANDES DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.14499999999999957,
+    "MediaDeNotas": 8.775,
+    "MediaDeDesvios": 1.8599999999999999,
+    "NotaMediana": 8.92
+  }
+}

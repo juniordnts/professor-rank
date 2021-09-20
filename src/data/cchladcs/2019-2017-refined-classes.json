@@ -1,0 +1,790 @@
+{
+  "DCS0121 - INTRODUCAO A SOCIOLOGIA": {
+    "Notas": [
+      9.11,
+      9.2,
+      9.27,
+      9.72
+    ],
+    "Desvios": [
+      1.83,
+      2.14,
+      2.15,
+      1.65
+    ],
+    "Docentes": [
+      "ANA PATRICIA DIAS SALES",
+      "CESAR SANSON",
+      "GILMAR SANTANA",
+      "RODRIGO FIGUEIREDO SUASSUNA"
+    ],
+    "DesvioDeNotas": 0.23500000000000051,
+    "MediaDeNotas": 9.325,
+    "MediaDeDesvios": 1.9425,
+    "NotaMediana": 9.27
+  },
+  "PEC4010 - RESIDÊNCIA PEDAGÓGICA I": {
+    "Notas": [
+      9.74
+    ],
+    "Desvios": [
+      0.74
+    ],
+    "Docentes": [
+      "ANA PATRICIA DIAS SALES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.74,
+    "MediaDeDesvios": 0.74,
+    "NotaMediana": 9.74
+  },
+  "PEC4020 - RESIDÊNCIA PEDAGÓGICA II": {
+    "Notas": [
+      9.71
+    ],
+    "Desvios": [
+      0.85
+    ],
+    "Docentes": [
+      "ANA PATRICIA DIAS SALES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.71,
+    "MediaDeDesvios": 0.85,
+    "NotaMediana": 9.71
+  },
+  "DCS0341 - SOCIOLOGIA DAS ORGANIZACOES": {
+    "Notas": [
+      8.44,
+      9,
+      9.07,
+      9.2,
+      9.38,
+      9.39,
+      9.44,
+      9.68
+    ],
+    "Desvios": [
+      2.09,
+      2.54,
+      2.13,
+      2.38,
+      2.03,
+      2.04,
+      1.55,
+      1.15
+    ],
+    "Docentes": [
+      "ANA PATRICIA DIAS SALES",
+      "FRANCISCA DE PAULA DE OLIVEIRA",
+      "BRUNO FERREIRA FREIRE ANDRADE LIRA",
+      "JUCILENE DE SOUZA SILVA"
+    ],
+    "DesvioDeNotas": 0.3519588044075614,
+    "MediaDeNotas": 9.2,
+    "MediaDeDesvios": 1.9887500000000002,
+    "NotaMediana": 9.38
+  },
+  "DCS0025 - OFICINA I DE MÉTODOS QUALITATIVOS": {
+    "Notas": [
+      8.18,
+      8.94,
+      9.5,
+      9.64
+    ],
+    "Desvios": [
+      1.19,
+      2.77,
+      2.17,
+      1.68
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO FREITAS",
+      "MARIA LUCIA BASTOS ALVES",
+      "ANA LAUDELINA FERREIRA GOMES"
+    ],
+    "DesvioDeNotas": 0.5741733187810109,
+    "MediaDeNotas": 9.065,
+    "MediaDeDesvios": 1.9525,
+    "NotaMediana": 9.5
+  },
+  "DCS0041 - SEMINARIO TEMATICO DE POLITICA I": {
+    "Notas": [
+      9.74
+    ],
+    "Desvios": [
+      1.08
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO FREITAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.74,
+    "MediaDeDesvios": 1.08,
+    "NotaMediana": 9.74
+  },
+  "DCS0030 - SOCIOLOGIA II": {
+    "Notas": [
+      8.56,
+      9.54,
+      9.58,
+      9.79
+    ],
+    "Desvios": [
+      1.86,
+      1.49,
+      2.28,
+      1.42
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO FREITAS",
+      "BRUNO FERREIRA FREIRE ANDRADE LIRA",
+      "IRENE ALVES DE PAIVA"
+    ],
+    "DesvioDeNotas": 0.4757822506147109,
+    "MediaDeNotas": 9.3675,
+    "MediaDeDesvios": 1.7625,
+    "NotaMediana": 9.58
+  },
+  "DCS0019 - SOCIOLOGIA DO BRASIL": {
+    "Notas": [
+      7.48,
+      8.53,
+      8.92,
+      9.24
+    ],
+    "Desvios": [
+      1.96,
+      1.91,
+      2.59,
+      1.81
+    ],
+    "Docentes": [
+      "CESAR SANSON"
+    ],
+    "DesvioDeNotas": 0.6629621029893035,
+    "MediaDeNotas": 8.5425,
+    "MediaDeDesvios": 2.0675,
+    "NotaMediana": 8.92
+  },
+  "DCS0506 - SOCIOLOGIA DA EDUCACAO": {
+    "Notas": [
+      9.01,
+      9.21
+    ],
+    "Desvios": [
+      1.99,
+      1.75
+    ],
+    "Docentes": [
+      "FRANCISCA DE PAULA DE OLIVEIRA",
+      "IRENE ALVES DE PAIVA"
+    ],
+    "DesvioDeNotas": 0.10000000000000053,
+    "MediaDeNotas": 9.11,
+    "MediaDeDesvios": 1.87,
+    "NotaMediana": 9.21
+  },
+  "DCS0029 - SOCIOLOGIA I": {
+    "Notas": [
+      6.41,
+      6.64,
+      7.74,
+      7.75,
+      8.04,
+      8.21,
+      8.39,
+      8.6,
+      9.12,
+      9.15,
+      9.18,
+      9.32,
+      9.39,
+      9.42,
+      9.48,
+      9.5,
+      9.5
+    ],
+    "Desvios": [
+      2.88,
+      2.63,
+      2.87,
+      2.49,
+      1.85,
+      1.91,
+      1.99,
+      2.9,
+      2.33,
+      1.93,
+      2.05,
+      2.63,
+      1.76,
+      2.78,
+      1.53,
+      1.1,
+      1.63
+    ],
+    "Docentes": [
+      "FRANCISCA DE PAULA DE OLIVEIRA",
+      "IRENE ALVES DE PAIVA",
+      "LUCAS FORTUNATO REGO DE MEDEIROS",
+      "BRUNO FERREIRA FREIRE ANDRADE LIRA",
+      "CIMONE ROZENDO DE SOUZA",
+      "GILMAR SANTANA",
+      "MARIA LUCIA BASTOS ALVES",
+      "JUCILENE DE SOUZA SILVA"
+    ],
+    "DesvioDeNotas": 0.9616339180725394,
+    "MediaDeNotas": 8.578823529411766,
+    "MediaDeDesvios": 2.1917647058823526,
+    "NotaMediana": 9.12
+  },
+  "DCS0047 - SEMINARIO TEMATICO DE SOCIOLOGIA III": {
+    "Notas": [
+      9.53
+    ],
+    "Desvios": [
+      1.42
+    ],
+    "Docentes": [
+      "GILMAR SANTANA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.53,
+    "MediaDeDesvios": 1.42,
+    "NotaMediana": 9.53
+  },
+  "DCS0347 - TEORIA SOCIOLOGICA II": {
+    "Notas": [
+      7.96,
+      8.47,
+      8.91,
+      9.31
+    ],
+    "Desvios": [
+      2.59,
+      1.83,
+      1.82,
+      2.79
+    ],
+    "Docentes": [
+      "GILMAR SANTANA",
+      "MARIA LUCIA BASTOS ALVES"
+    ],
+    "DesvioDeNotas": 0.5027611261822061,
+    "MediaDeNotas": 8.6625,
+    "MediaDeDesvios": 2.2575000000000003,
+    "NotaMediana": 8.91
+  },
+  "DCS0014 - INTRODUCAO AS CIENCIAS SOCIAIS": {
+    "Notas": [
+      7.44,
+      8.14,
+      9.78
+    ],
+    "Desvios": [
+      3.1,
+      1.02,
+      1.68
+    ],
+    "Docentes": [
+      "IRENE ALVES DE PAIVA",
+      "LUCAS FORTUNATO REGO DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.9806573758907277,
+    "MediaDeNotas": 8.453333333333333,
+    "MediaDeDesvios": 1.9333333333333333,
+    "NotaMediana": 8.14
+  },
+  "DCS0346 - TEORIA POLITICA II": {
+    "Notas": [
+      6.83,
+      7.97,
+      9.49,
+      9.5
+    ],
+    "Desvios": [
+      2.49,
+      2.4,
+      1.84,
+      1.32
+    ],
+    "Docentes": [
+      "JOSE ANTONIO SPINELI LINDOZO",
+      "GABRIEL EDUARDO VITULLO"
+    ],
+    "DesvioDeNotas": 1.1223719303332564,
+    "MediaDeNotas": 8.4475,
+    "MediaDeDesvios": 2.0125,
+    "NotaMediana": 9.49
+  },
+  "DCS0345 - SOCIOLOGIA DA SAUDE": {
+    "Notas": [
+      8.48,
+      8.97,
+      9.07,
+      9.07,
+      9.21,
+      9.32
+    ],
+    "Desvios": [
+      2.69,
+      1.59,
+      2.22,
+      1.86,
+      2.15,
+      1.74
+    ],
+    "Docentes": [
+      "LORE FORTES",
+      "ANA PATRICIA DIAS SALES",
+      "LUCAS FORTUNATO REGO DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.2662079387746854,
+    "MediaDeNotas": 9.02,
+    "MediaDeDesvios": 2.0416666666666665,
+    "NotaMediana": 9.07
+  },
+  "DCS0085 - SOCIOLOGIA DA SAÚDE": {
+    "Notas": [
+      8.85
+    ],
+    "Desvios": [
+      2.39
+    ],
+    "Docentes": [
+      "LORE FORTES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.85,
+    "MediaDeDesvios": 2.39,
+    "NotaMediana": 8.85
+  },
+  "DCS0322 - SOCIOLOGIA DO TRABALHO": {
+    "Notas": [
+      9.09,
+      9.33,
+      9.34,
+      9.38,
+      9.68
+    ],
+    "Desvios": [
+      2.51,
+      1.85,
+      1.75,
+      1.57,
+      1.31
+    ],
+    "Docentes": [
+      "LUCAS FORTUNATO REGO DE MEDEIROS",
+      "CESAR SANSON",
+      "ANA PATRICIA DIAS SALES"
+    ],
+    "DesvioDeNotas": 0.1881063528964399,
+    "MediaDeNotas": 9.364,
+    "MediaDeDesvios": 1.798,
+    "NotaMediana": 9.34
+  },
+  "DCS0005 - CIENCIA POLITICA I": {
+    "Notas": [
+      6.04,
+      8.81,
+      9.19,
+      9.64,
+      9.68,
+      9.78
+    ],
+    "Desvios": [
+      2.33,
+      1.88,
+      3.09,
+      1.5,
+      1.34,
+      1.34
+    ],
+    "Docentes": [
+      "RENATO KLEIBSON DA SILVA",
+      "FRANCISCA DE PAULA DE OLIVEIRA",
+      "RODRIGO FIGUEIREDO SUASSUNA"
+    ],
+    "DesvioDeNotas": 1.303260867550656,
+    "MediaDeNotas": 8.856666666666667,
+    "MediaDeDesvios": 1.9133333333333333,
+    "NotaMediana": 9.64
+  },
+  "DCS0120 - INTRODUCAO A CIENCIA POLITICA": {
+    "Notas": [
+      9.22,
+      9.36,
+      9.68,
+      9.73
+    ],
+    "Desvios": [
+      2.12,
+      1.97,
+      1.46,
+      1.73
+    ],
+    "Docentes": [
+      "RENATO KLEIBSON DA SILVA",
+      "RODRIGO FIGUEIREDO SUASSUNA"
+    ],
+    "DesvioDeNotas": 0.2140531476059158,
+    "MediaDeNotas": 9.497499999999999,
+    "MediaDeDesvios": 1.8199999999999998,
+    "NotaMediana": 9.68
+  },
+  "DCS0053 - IMAGINÁRIO, IMAGEM E COMUNICAÇÃO NA SOCIEDADE CONTEMPORÂNEA": {
+    "Notas": [
+      9.71
+    ],
+    "Desvios": [
+      1.06
+    ],
+    "Docentes": [
+      "ANA LAUDELINA FERREIRA GOMES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.71,
+    "MediaDeDesvios": 1.06,
+    "NotaMediana": 9.71
+  },
+  "DCS0604 - PARTICIPACAO POLITICA E EDUCACAO": {
+    "Notas": [
+      9.31,
+      9.79
+    ],
+    "Desvios": [
+      1.14,
+      0.98
+    ],
+    "Docentes": [
+      "BRUNO FERREIRA FREIRE ANDRADE LIRA"
+    ],
+    "DesvioDeNotas": 0.23999999999999932,
+    "MediaDeNotas": 9.55,
+    "MediaDeDesvios": 1.06,
+    "NotaMediana": 9.79
+  },
+  "DCS0244 - TEORIA SOCIOLOGICA I": {
+    "Notas": [
+      8.24,
+      8.31,
+      9.32,
+      9.41,
+      9.74,
+      9.77
+    ],
+    "Desvios": [
+      1.7,
+      1.55,
+      1.49,
+      1.83,
+      1.81,
+      1.51
+    ],
+    "Docentes": [
+      "CIMONE ROZENDO DE SOUZA",
+      "GILMAR SANTANA",
+      "MARIA LUCIA BASTOS ALVES",
+      "IRENE ALVES DE PAIVA"
+    ],
+    "DesvioDeNotas": 0.6272537143949185,
+    "MediaDeNotas": 9.131666666666668,
+    "MediaDeDesvios": 1.6483333333333334,
+    "NotaMediana": 9.41
+  },
+  "DCS0404 - TEORIA POLITICA III": {
+    "Notas": [
+      9.58,
+      9.61,
+      9.79,
+      9.8
+    ],
+    "Desvios": [
+      1.94,
+      1.11,
+      1.23,
+      1.45
+    ],
+    "Docentes": [
+      "GABRIEL EDUARDO VITULLO"
+    ],
+    "DesvioDeNotas": 0.10062305898749062,
+    "MediaDeNotas": 9.695,
+    "MediaDeDesvios": 1.4324999999999999,
+    "NotaMediana": 9.79
+  },
+  "DCS0205 - PARTIDOS POL.E REG.ELEITORAIS": {
+    "Notas": [
+      9.05
+    ],
+    "Desvios": [
+      1.64
+    ],
+    "Docentes": [
+      "HOMERO DE OLIVEIRA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.05,
+    "MediaDeDesvios": 1.64,
+    "NotaMediana": 9.05
+  },
+  "DCS0243 - TEORIA POLITICA I": {
+    "Notas": [
+      7.39,
+      8.23,
+      8.73,
+      8.96
+    ],
+    "Desvios": [
+      1.8,
+      2.93,
+      1.81,
+      1.7
+    ],
+    "Docentes": [
+      "JOSE ANTONIO SPINELI LINDOZO",
+      "HOMERO DE OLIVEIRA COSTA"
+    ],
+    "DesvioDeNotas": 0.6021783373719122,
+    "MediaDeNotas": 8.3275,
+    "MediaDeDesvios": 2.06,
+    "NotaMediana": 8.73
+  },
+  "DCS0042 - SEMINARIO TEMATICO DE POLITICA II": {
+    "Notas": [
+      9.14
+    ],
+    "Desvios": [
+      2.33
+    ],
+    "Docentes": [
+      "LINCOLN MORAES DE SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.14,
+    "MediaDeDesvios": 2.33,
+    "NotaMediana": 9.14
+  },
+  "DCS0405 - TEORIA SOCIOLOGICA III": {
+    "Notas": [
+      9.59,
+      9.79
+    ],
+    "Desvios": [
+      1.32,
+      1.35
+    ],
+    "Docentes": [
+      "LUCAS FORTUNATO REGO DE MEDEIROS",
+      "EDMILSON LOPES JUNIOR"
+    ],
+    "DesvioDeNotas": 0.09999999999999964,
+    "MediaDeNotas": 9.69,
+    "MediaDeDesvios": 1.335,
+    "NotaMediana": 9.79
+  },
+  "DCS0304 - METODOS DE ANALISE SOCIOLOGICA": {
+    "Notas": [
+      8.45
+    ],
+    "Desvios": [
+      2.09
+    ],
+    "Docentes": [
+      "MARIA LUCIA BASTOS ALVES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.45,
+    "MediaDeDesvios": 2.09,
+    "NotaMediana": 8.45
+  },
+  "DCS0227 - TOPICOS TEORICOS DE POLITICA I": {
+    "Notas": [
+      9.82
+    ],
+    "Desvios": [
+      1.48
+    ],
+    "Docentes": [
+      "RODRIGO FIGUEIREDO SUASSUNA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 1.48,
+    "NotaMediana": 9.82
+  },
+  "DCS0325 - SOCIOLOGIA RURAL I": {
+    "Notas": [
+      8.36
+    ],
+    "Desvios": [
+      2.88
+    ],
+    "Docentes": [
+      "CIMONE ROZENDO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.36,
+    "MediaDeDesvios": 2.88,
+    "NotaMediana": 8.36
+  },
+  "DCS1033 - PARTIDOS POLÍTICOS E REGIMES ELEITORAIS": {
+    "Notas": [
+      8.11
+    ],
+    "Desvios": [
+      2.6
+    ],
+    "Docentes": [
+      "HOMERO DE OLIVEIRA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.11,
+    "MediaDeDesvios": 2.6,
+    "NotaMediana": 8.11
+  },
+  "DCS0044 - SEMINARIO TEMATICO DE POLITICA IV": {
+    "Notas": [
+      9.77
+    ],
+    "Desvios": [
+      1.97
+    ],
+    "Docentes": [
+      "HOMERO DE OLIVEIRA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.97,
+    "NotaMediana": 9.77
+  },
+  "DCS0502 - TEORIA POLITICA IV": {
+    "Notas": [
+      8.8
+    ],
+    "Desvios": [
+      2.03
+    ],
+    "Docentes": [
+      "HOMERO DE OLIVEIRA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.8,
+    "MediaDeDesvios": 2.03,
+    "NotaMediana": 8.8
+  },
+  "DCS0233 - PENSAMENTO POLITICO BRASILEIRO": {
+    "Notas": [
+      9.25
+    ],
+    "Desvios": [
+      1.33
+    ],
+    "Docentes": [
+      "JOSE ANTONIO SPINELI LINDOZO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.25,
+    "MediaDeDesvios": 1.33,
+    "NotaMediana": 9.25
+  },
+  "DCS0230 - ESTADO E POLITICAS PUBLICAS": {
+    "Notas": [
+      8.99,
+      9.69
+    ],
+    "Desvios": [
+      2.21,
+      0.76
+    ],
+    "Docentes": [
+      "LINCOLN MORAES DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.34999999999999964,
+    "MediaDeNotas": 9.34,
+    "MediaDeDesvios": 1.4849999999999999,
+    "NotaMediana": 9.69
+  },
+  "DCS0002 - SOCIOLOGIA DA SAUDE": {
+    "Notas": [
+      9.16,
+      9.2,
+      9.39
+    ],
+    "Desvios": [
+      2.28,
+      2.29,
+      1.52
+    ],
+    "Docentes": [
+      "LORE FORTES",
+      "LUCAS FORTUNATO REGO DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.10033277962194975,
+    "MediaDeNotas": 9.25,
+    "MediaDeDesvios": 2.03,
+    "NotaMediana": 9.2
+  },
+  "DCS1040 - CULTURA BRASILEIRA": {
+    "Notas": [
+      9.22
+    ],
+    "Desvios": [
+      1.18
+    ],
+    "Docentes": [
+      "GILMAR SANTANA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.22,
+    "MediaDeDesvios": 1.18,
+    "NotaMediana": 9.22
+  },
+  "DCS0228 - TOPICOS TEORICOS DE POLITICA II": {
+    "Notas": [
+      8.05
+    ],
+    "Desvios": [
+      2.16
+    ],
+    "Docentes": [
+      "HOMERO DE OLIVEIRA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.05,
+    "MediaDeDesvios": 2.16,
+    "NotaMediana": 8.05
+  },
+  "DCS1014 - TEORIA DOS MOVIMENTOS SOCIAIS": {
+    "Notas": [
+      9.29
+    ],
+    "Desvios": [
+      1.13
+    ],
+    "Docentes": [
+      "IRENE ALVES DE PAIVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.29,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.29
+  },
+  "DCS0601 - POLITICAS E PLANEJAMENTO NA SOCIEDADE CONTEMPORANEA": {
+    "Notas": [
+      9.72
+    ],
+    "Desvios": [
+      0.77
+    ],
+    "Docentes": [
+      "RODRIGO FIGUEIREDO SUASSUNA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.72,
+    "MediaDeDesvios": 0.77,
+    "NotaMediana": 9.72
+  }
+}

@@ -1,0 +1,1681 @@
+{
+  "DIM0320 - ALGORITMO E PROGRAMACAO DE COMPUTADORES": {
+    "Notas": [
+      8.88,
+      9.05,
+      9.08,
+      9.09,
+      9.13,
+      9.15,
+      9.21,
+      9.25,
+      9.28,
+      9.3,
+      9.38,
+      9.43,
+      9.49,
+      9.49,
+      9.5,
+      9.55,
+      9.57,
+      9.65,
+      9.65,
+      9.69,
+      9.73
+    ],
+    "Desvios": [
+      2.39,
+      2.4,
+      2.4,
+      2.41,
+      2.28,
+      1.49,
+      1.99,
+      1.96,
+      1.27,
+      1.55,
+      1.42,
+      1.87,
+      2.32,
+      1.8,
+      1.73,
+      2.24,
+      2.01,
+      1.54,
+      1.42,
+      1.56,
+      1.51
+    ],
+    "Docentes": [
+      "ADILSON BARBOZA LOPES",
+      "EDSON ALYPPYO GOMES COUTINHO",
+      "EDUARDO HENRIQUE DA SILVA ARANHA",
+      "UMBERTO SOUZA DA COSTA",
+      "SILVIA MARIA DINIZ MONTEIRO MAIA"
+    ],
+    "DesvioDeNotas": 0.23627014785291828,
+    "MediaDeNotas": 9.359523809523811,
+    "MediaDeDesvios": 1.8838095238095238,
+    "NotaMediana": 9.38
+  },
+  "DIM0104 - SOFTWARES APLICATIVOS": {
+    "Notas": [
+      8.16,
+      8.22,
+      8.53,
+      9.7
+    ],
+    "Desvios": [
+      2.68,
+      2.27,
+      2.36,
+      1.25
+    ],
+    "Docentes": [
+      "ADILSON BARBOZA LOPES",
+      "EDSON ALYPPYO GOMES COUTINHO"
+    ],
+    "DesvioDeNotas": 0.6208612969093817,
+    "MediaDeNotas": 8.6525,
+    "MediaDeDesvios": 2.14,
+    "NotaMediana": 8.53
+  },
+  "DIM0133 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+    "Notas": [
+      9.34,
+      9.74
+    ],
+    "Desvios": [
+      1.74,
+      1.69
+    ],
+    "Docentes": [
+      "ANDRE MAURICIO CUNHA CAMPOS",
+      "MARJORY CRISTIANY DA COSTA ABREU"
+    ],
+    "DesvioDeNotas": 0.20000000000000018,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.7149999999999999,
+    "NotaMediana": 9.74
+  },
+  "IMD1004 - PENSAMENTO COMPUTACIONAL": {
+    "Notas": [
+      9.27
+    ],
+    "Desvios": [
+      2.42
+    ],
+    "Docentes": [
+      "ANDRE MAURICIO CUNHA CAMPOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.27,
+    "MediaDeDesvios": 2.42,
+    "NotaMediana": 9.27
+  },
+  "IMD1101 - APRENDIZADO DE MÁQUINA": {
+    "Notas": [
+      8.85
+    ],
+    "Desvios": [
+      2.86
+    ],
+    "Docentes": [
+      "ANNE MAGALY DE PAULA CANUTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.85,
+    "MediaDeDesvios": 2.86,
+    "NotaMediana": 8.85
+  },
+  "DIM0132 - PROBABILIDADE": {
+    "Notas": [
+      9.53
+    ],
+    "Desvios": [
+      2.24
+    ],
+    "Docentes": [
+      "ANNE MAGALY DE PAULA CANUTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.53,
+    "MediaDeDesvios": 2.24,
+    "NotaMediana": 9.53
+  },
+  "DIM0615.1 - LABORATORIO DE PROJETO DE SISTEMAS OPERACIONAIS": {
+    "Notas": [
+      7.21,
+      8.65,
+      8.82
+    ],
+    "Desvios": [
+      2.76,
+      1.94,
+      1.96
+    ],
+    "Docentes": [
+      "EDGARD DE FARIA CORREA"
+    ],
+    "DesvioDeNotas": 0.7222341879350648,
+    "MediaDeNotas": 8.226666666666667,
+    "MediaDeDesvios": 2.2199999999999998,
+    "NotaMediana": 8.65
+  },
+  "DIM0615.0 - PROJETO DE SISTEMAS OPERACIONAIS": {
+    "Notas": [
+      7.2,
+      7.89,
+      8.75
+    ],
+    "Desvios": [
+      2.78,
+      1.94,
+      2.6
+    ],
+    "Docentes": [
+      "EDGARD DE FARIA CORREA"
+    ],
+    "DesvioDeNotas": 0.6340522235764355,
+    "MediaDeNotas": 7.946666666666666,
+    "MediaDeDesvios": 2.44,
+    "NotaMediana": 7.89
+  },
+  "DIM0590 - PROPOSTA DE TRABALHO DE CONCLUSÃO DE CURSO": {
+    "Notas": [
+      9.43,
+      9.8,
+      9.9
+    ],
+    "Desvios": [
+      1.41,
+      0.55,
+      1.49
+    ],
+    "Docentes": [
+      "EDGARD DE FARIA CORREA",
+      "MARTIN ALEJANDRO MUSICANTE"
+    ],
+    "DesvioDeNotas": 0.2021550560007511,
+    "MediaDeNotas": 9.71,
+    "MediaDeDesvios": 1.1500000000000001,
+    "NotaMediana": 9.8
+  },
+  "DIM0321 - LINGUAGENS DE PROGRAMAÇÃO": {
+    "Notas": [
+      8.23,
+      8.39,
+      9.07,
+      9.07,
+      9.15,
+      9.32,
+      9.49
+    ],
+    "Desvios": [
+      2.07,
+      2.4,
+      2.09,
+      2.93,
+      2.44,
+      1.86,
+      1.79
+    ],
+    "Docentes": [
+      "EDSON ALYPPYO GOMES COUTINHO",
+      "EDUARDO HENRIQUE DA SILVA ARANHA",
+      "LYRENE FERNANDES DA SILVA",
+      "ADILSON BARBOZA LOPES",
+      "AUGUSTO JOSE VENANCIO NETO"
+    ],
+    "DesvioDeNotas": 0.4356604182158392,
+    "MediaDeNotas": 8.96,
+    "MediaDeDesvios": 2.2257142857142855,
+    "NotaMediana": 9.07
+  },
+  "DIM0517 - GERÊNCIA DE CONFIGURAÇÃO E MUDANÇAS": {
+    "Notas": [
+      7.87,
+      8.43,
+      9.46
+    ],
+    "Desvios": [
+      2.34,
+      2.48,
+      2.05
+    ],
+    "Docentes": [
+      "EDUARDO HENRIQUE DA SILVA ARANHA",
+      "FERNANDO MARQUES FIGUEIRA FILHO"
+    ],
+    "DesvioDeNotas": 0.6584999789082933,
+    "MediaDeNotas": 8.586666666666668,
+    "MediaDeDesvios": 2.29,
+    "NotaMediana": 8.43
+  },
+  "DIM0123 - PENSAMENTO COMPUTACIONAL": {
+    "Notas": [
+      9.12,
+      9.28,
+      9.38,
+      9.65
+    ],
+    "Desvios": [
+      2.32,
+      1.98,
+      1.89,
+      2.14
+    ],
+    "Docentes": [
+      "EDUARDO HENRIQUE DA SILVA ARANHA",
+      "ANDRE MAURICIO CUNHA CAMPOS",
+      "MARJORY CRISTIANY DA COSTA ABREU"
+    ],
+    "DesvioDeNotas": 0.19266226926931018,
+    "MediaDeNotas": 9.3575,
+    "MediaDeDesvios": 2.0825,
+    "NotaMediana": 9.38
+  },
+  "DIM0510 - PROCESSOS DE SOFTWARE": {
+    "Notas": [
+      6.53,
+      8.14,
+      8.8
+    ],
+    "Desvios": [
+      2.25,
+      2.25,
+      3.01
+    ],
+    "Docentes": [
+      "EDUARDO HENRIQUE DA SILVA ARANHA",
+      "FERNANDO MARQUES FIGUEIRA FILHO"
+    ],
+    "DesvioDeNotas": 0.9533916066106078,
+    "MediaDeNotas": 7.823333333333334,
+    "MediaDeDesvios": 2.5033333333333334,
+    "NotaMediana": 8.14
+  },
+  "DIM0535 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE V": {
+    "Notas": [
+      8.34
+    ],
+    "Desvios": [
+      2.41
+    ],
+    "Docentes": [
+      "EDUARDO HENRIQUE DA SILVA ARANHA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.34,
+    "MediaDeDesvios": 2.41,
+    "NotaMediana": 8.34
+  },
+  "DIM0549 - GRAFOS": {
+    "Notas": [
+      9.18,
+      9.5,
+      9.52,
+      9.6,
+      9.94
+    ],
+    "Desvios": [
+      1.14,
+      1.63,
+      1.73,
+      2.02,
+      1.94
+    ],
+    "Docentes": [
+      "ELIZABETH FERREIRA GOUVEA GOLDBARG",
+      "SILVIA MARIA DINIZ MONTEIRO MAIA",
+      "CARLOS PROLO"
+    ],
+    "DesvioDeNotas": 0.24284974778656856,
+    "MediaDeNotas": 9.548,
+    "MediaDeDesvios": 1.6919999999999997,
+    "NotaMediana": 9.52
+  },
+  "DIM0550 - MÉTODOS EXPERIMENTAIS EM ENGENHARIA DE SOFTWARE": {
+    "Notas": [
+      9.07,
+      9.27
+    ],
+    "Desvios": [
+      2.22,
+      2.25
+    ],
+    "Docentes": [
+      "EVERTON RANIELLY DE SOUSA CAVALCANTE",
+      "THAIS VASCONCELOS BATISTA"
+    ],
+    "DesvioDeNotas": 0.09999999999999964,
+    "MediaDeNotas": 9.17,
+    "MediaDeDesvios": 2.2350000000000003,
+    "NotaMediana": 9.27
+  },
+  "DIM0546 - DESENVOLVIMENTO DE SISTEMAS WEB I": {
+    "Notas": [
+      8.93,
+      9.38
+    ],
+    "Desvios": [
+      2.52,
+      1.97
+    ],
+    "Docentes": [
+      "JAIR CAVALCANTI LEITE"
+    ],
+    "DesvioDeNotas": 0.22500000000000053,
+    "MediaDeNotas": 9.155000000000001,
+    "MediaDeDesvios": 2.245,
+    "NotaMediana": 9.38
+  },
+  "DIM0601 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO III": {
+    "Notas": [
+      9.27,
+      9.31,
+      9.41,
+      9.45,
+      9.54,
+      9.73,
+      9.94
+    ],
+    "Desvios": [
+      1.97,
+      2.42,
+      2.01,
+      1.77,
+      1.33,
+      1.84,
+      1.79
+    ],
+    "Docentes": [
+      "JOAO MARCOS DE ALMEIDA",
+      "UMBERTO RIVIECCIO",
+      "REGIVAN HUGO NUNES SANTIAGO"
+    ],
+    "DesvioDeNotas": 0.22183833054267055,
+    "MediaDeNotas": 9.52142857142857,
+    "MediaDeDesvios": 1.8757142857142857,
+    "NotaMediana": 9.45
+  },
+  "DIM0443 - INTERACAO HUMANO-COMPUTADOR": {
+    "Notas": [
+      8.49,
+      8.52
+    ],
+    "Desvios": [
+      2.98,
+      2.34
+    ],
+    "Docentes": [
+      "LEONARDO CUNHA DE MIRANDA"
+    ],
+    "DesvioDeNotas": 0.01499999999999968,
+    "MediaDeNotas": 8.504999999999999,
+    "MediaDeDesvios": 2.66,
+    "NotaMediana": 8.52
+  },
+  "DIM0504 - ANÁLISE E PROJETO ORIENTADO A OBJETOS": {
+    "Notas": [
+      7.57,
+      9.35,
+      9.49,
+      9.6
+    ],
+    "Desvios": [
+      3.02,
+      1.88,
+      1.46,
+      1.53
+    ],
+    "Docentes": [
+      "LYRENE FERNANDES DA SILVA",
+      "LEONARDO CUNHA DE MIRANDA"
+    ],
+    "DesvioDeNotas": 0.8317864810154104,
+    "MediaDeNotas": 9.002500000000001,
+    "MediaDeDesvios": 1.9725000000000001,
+    "NotaMediana": 9.49
+  },
+  "DIM0125 - BANCO DE DADOS": {
+    "Notas": [
+      9.09
+    ],
+    "Desvios": [
+      2.61
+    ],
+    "Docentes": [
+      "MARCEL VINICIUS MEDEIROS OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.09,
+    "MediaDeDesvios": 2.61,
+    "NotaMediana": 9.09
+  },
+  "DIM0516 - MÉTODOS FORMAIS DE ENGENHARIA DE SOFTWARE": {
+    "Notas": [
+      9.53,
+      9.64
+    ],
+    "Desvios": [
+      1.91,
+      1.74
+    ],
+    "Docentes": [
+      "MARCEL VINICIUS MEDEIROS OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.055000000000000604,
+    "MediaDeNotas": 9.585,
+    "MediaDeDesvios": 1.825,
+    "NotaMediana": 9.64
+  },
+  "DIM0511 - ENGENHARIA DE REQUISITOS": {
+    "Notas": [
+      8.14,
+      8.78
+    ],
+    "Desvios": [
+      2.37,
+      2.53
+    ],
+    "Docentes": [
+      "MARCIA JACYNTHA NUNES RODRIGUES LUCENA",
+      "LYRENE FERNANDES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.3199999999999994,
+    "MediaDeNotas": 8.46,
+    "MediaDeDesvios": 2.45,
+    "NotaMediana": 8.78
+  },
+  "DIM0518 - PLANEJAMENTO E GERENCIAMENTO DE PROJETOS": {
+    "Notas": [
+      8.11,
+      8.72
+    ],
+    "Desvios": [
+      2.9,
+      2.4
+    ],
+    "Docentes": [
+      "MARCIA JACYNTHA NUNES RODRIGUES LUCENA"
+    ],
+    "DesvioDeNotas": 0.3050000000000006,
+    "MediaDeNotas": 8.415,
+    "MediaDeDesvios": 2.65,
+    "NotaMediana": 8.72
+  },
+  "DIM0127 - ARQUITETURA DE COMPUTADORES": {
+    "Notas": [
+      8.96,
+      9.87
+    ],
+    "Desvios": [
+      2.53,
+      1.67
+    ],
+    "Docentes": [
+      "MARCIO EDUARDO KREUTZ",
+      "MONICA MAGALHAES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.4549999999999992,
+    "MediaDeNotas": 9.415,
+    "MediaDeDesvios": 2.0999999999999996,
+    "NotaMediana": 9.87
+  },
+  "DIM0529 - DESENVOLVIMENTO EM TIMES": {
+    "Notas": [
+      9.29,
+      9.73
+    ],
+    "Desvios": [
+      1.73,
+      1.86
+    ],
+    "Docentes": [
+      "MARCO CESAR GOLDBARG"
+    ],
+    "DesvioDeNotas": 0.22000000000000064,
+    "MediaDeNotas": 9.51,
+    "MediaDeDesvios": 1.795,
+    "NotaMediana": 9.73
+  },
+  "DIM0438 - REDES DE COMPUTADORES": {
+    "Notas": [
+      6.73,
+      9.04,
+      9.71
+    ],
+    "Desvios": [
+      1.79,
+      2.29,
+      3.26
+    ],
+    "Docentes": [
+      "MARCOS CESAR MADRUGA ALVES PINHEIRO",
+      "AUGUSTO JOSE VENANCIO NETO"
+    ],
+    "DesvioDeNotas": 1.2765143512271566,
+    "MediaDeNotas": 8.493333333333334,
+    "MediaDeDesvios": 2.4466666666666668,
+    "NotaMediana": 9.04
+  },
+  "DIM0439 - TEORIA DA COMPUTACAO": {
+    "Notas": [
+      7.95,
+      9.22,
+      9.27,
+      9.41
+    ],
+    "Desvios": [
+      2.39,
+      3.05,
+      2.11,
+      1.44
+    ],
+    "Docentes": [
+      "MARTIN ALEJANDRO MUSICANTE",
+      "REGIVAN HUGO NUNES SANTIAGO",
+      "BENJAMIN RENE CALLEJAS BEDREGAL"
+    ],
+    "DesvioDeNotas": 0.5887009002880834,
+    "MediaDeNotas": 8.962499999999999,
+    "MediaDeDesvios": 2.2474999999999996,
+    "NotaMediana": 9.27
+  },
+  "DIM0616 - SISTEMAS EMBARCADOS": {
+    "Notas": [
+      9.53,
+      9.7
+    ],
+    "Desvios": [
+      1.71,
+      1.49
+    ],
+    "Docentes": [
+      "MONICA MAGALHAES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.08499999999999996,
+    "MediaDeNotas": 9.614999999999998,
+    "MediaDeDesvios": 1.6,
+    "NotaMediana": 9.7
+  },
+  "DIM0404 - CALCULO NUMERICO PARA CIENCIA DA COMPUTACAO": {
+    "Notas": [
+      9.55,
+      9.75
+    ],
+    "Desvios": [
+      2.14,
+      1.82
+    ],
+    "Docentes": [
+      "RAFAEL BESERRA GOMES"
+    ],
+    "DesvioDeNotas": 0.09999999999999964,
+    "MediaDeNotas": 9.65,
+    "MediaDeDesvios": 1.98,
+    "NotaMediana": 9.75
+  },
+  "DIM0410 - TREINAMENTO PARA COMPETICOES DE PROGRAMACAO": {
+    "Notas": [
+      9.68,
+      9.7,
+      9.7,
+      9.78,
+      9.95
+    ],
+    "Desvios": [
+      1.56,
+      1.41,
+      1.19,
+      1.74,
+      1.52
+    ],
+    "Docentes": [
+      "RAFAEL BESERRA GOMES",
+      "CARLOS PROLO"
+    ],
+    "DesvioDeNotas": 0.10007996802557435,
+    "MediaDeNotas": 9.761999999999999,
+    "MediaDeDesvios": 1.484,
+    "NotaMediana": 9.7
+  },
+  "DIM0491 - TÓPICOS ESPECIAIS EM COMPUTAÇÃO XII": {
+    "Notas": [
+      9.34
+    ],
+    "Desvios": [
+      2.22
+    ],
+    "Docentes": [
+      "RAFAEL BESERRA GOMES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.34,
+    "MediaDeDesvios": 2.22,
+    "NotaMediana": 9.34
+  },
+  "DIM0610 - LÓGICA COMPUTACIONAL": {
+    "Notas": [
+      6.24
+    ],
+    "Desvios": [
+      3.1
+    ],
+    "Docentes": [
+      "REGIVAN HUGO NUNES SANTIAGO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 6.24,
+    "MediaDeDesvios": 3.1,
+    "NotaMediana": 6.24
+  },
+  "DIM0507 - TESTE DE SOFTWARE I": {
+    "Notas": [
+      8.95,
+      9.31
+    ],
+    "Desvios": [
+      2.39,
+      1.87
+    ],
+    "Docentes": [
+      "ROBERTA DE SOUZA COELHO"
+    ],
+    "DesvioDeNotas": 0.1800000000000006,
+    "MediaDeNotas": 9.129999999999999,
+    "MediaDeDesvios": 2.13,
+    "NotaMediana": 9.31
+  },
+  "DIM0451 - COMPUTAÇÃO GRÁFICA I": {
+    "Notas": [
+      9.61,
+      9.66,
+      9.81
+    ],
+    "Desvios": [
+      1.71,
+      1.86,
+      1.4
+    ],
+    "Docentes": [
+      "SELAN RODRIGUES DOS SANTOS",
+      "RAFAEL BESERRA GOMES"
+    ],
+    "DesvioDeNotas": 0.08498365855988015,
+    "MediaDeNotas": 9.693333333333333,
+    "MediaDeDesvios": 1.656666666666667,
+    "NotaMediana": 9.66
+  },
+  "DIM0119 - ESTRUTURA DE DADOS BÁSICAS I": {
+    "Notas": [
+      9.5,
+      9.74,
+      9.79
+    ],
+    "Desvios": [
+      2,
+      2.28,
+      1.48
+    ],
+    "Docentes": [
+      "SELAN RODRIGUES DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.12657891697364995,
+    "MediaDeNotas": 9.676666666666668,
+    "MediaDeDesvios": 1.92,
+    "NotaMediana": 9.74
+  },
+  "DIM0120 - LINGUAGEM DE PROGRAMAÇÃO I": {
+    "Notas": [
+      9.32,
+      9.62,
+      9.64,
+      9.7
+    ],
+    "Desvios": [
+      1.96,
+      2.61,
+      1.76,
+      1.92
+    ],
+    "Docentes": [
+      "SELAN RODRIGUES DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.14730919862656208,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 2.0625,
+    "NotaMediana": 9.64
+  },
+  "DIM0117 - ESTRUTURAS DE DADOS BÁSICAS II": {
+    "Notas": [
+      9.21,
+      9.56,
+      9.63
+    ],
+    "Desvios": [
+      1.81,
+      1.71,
+      1.9
+    ],
+    "Docentes": [
+      "SILVIA MARIA DINIZ MONTEIRO MAIA"
+    ],
+    "DesvioDeNotas": 0.18372685039360884,
+    "MediaDeNotas": 9.466666666666667,
+    "MediaDeDesvios": 1.8066666666666666,
+    "NotaMediana": 9.56
+  },
+  "DIM0614 - PROGRAMAÇÃO DISTRIBUÍDA": {
+    "Notas": [
+      8.38,
+      8.77,
+      8.85,
+      8.85
+    ],
+    "Desvios": [
+      2.11,
+      2.38,
+      2.85,
+      2.46
+    ],
+    "Docentes": [
+      "THAIS VASCONCELOS BATISTA",
+      "EVERTON RANIELLY DE SOUSA CAVALCANTE",
+      "NELIO ALESSANDRO AZEVEDO CACHO"
+    ],
+    "DesvioDeNotas": 0.19472737352514105,
+    "MediaDeNotas": 8.7125,
+    "MediaDeDesvios": 2.45,
+    "NotaMediana": 8.85
+  },
+  "DIM0138 - PROJETO DETALHADO DE SOFTWARE": {
+    "Notas": [
+      8.37
+    ],
+    "Desvios": [
+      2.34
+    ],
+    "Docentes": [
+      "UIRA KULESZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.37,
+    "MediaDeDesvios": 2.34,
+    "NotaMediana": 8.37
+  },
+  "DIM0121 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II": {
+    "Notas": [
+      8.74,
+      8.85,
+      8.95
+    ],
+    "Desvios": [
+      2.57,
+      2.66,
+      2.45
+    ],
+    "Docentes": [
+      "UMBERTO RIVIECCIO"
+    ],
+    "DesvioDeNotas": 0.08576453553512367,
+    "MediaDeNotas": 8.846666666666666,
+    "MediaDeDesvios": 2.56,
+    "NotaMediana": 8.85
+  },
+  "DIM0548 - ENGENHARIA DE LINGUAGENS": {
+    "Notas": [
+      9.51,
+      9.8
+    ],
+    "Desvios": [
+      2.28,
+      1.42
+    ],
+    "Docentes": [
+      "UMBERTO SOUZA DA COSTA"
+    ],
+    "DesvioDeNotas": 0.14500000000000046,
+    "MediaDeNotas": 9.655000000000001,
+    "MediaDeDesvios": 1.8499999999999999,
+    "NotaMediana": 9.8
+  },
+  "DIM0437 - LINGUAGENS DE PROGRAMACAO: CONCEITOS E PARADIGMAS": {
+    "Notas": [
+      9.74,
+      9.98
+    ],
+    "Desvios": [
+      1.33,
+      1.51
+    ],
+    "Docentes": [
+      "UMBERTO SOUZA DA COSTA"
+    ],
+    "DesvioDeNotas": 0.1200000000000001,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 1.42,
+    "NotaMediana": 9.98
+  },
+  "DIM0103 - INTRODUCAO A INFORMATICA": {
+    "Notas": [
+      9.04,
+      9.19,
+      9.27
+    ],
+    "Desvios": [
+      2.07,
+      2.31,
+      1.53
+    ],
+    "Docentes": [
+      "ADILSON BARBOZA LOPES"
+    ],
+    "DesvioDeNotas": 0.09533566430716746,
+    "MediaDeNotas": 9.166666666666666,
+    "MediaDeDesvios": 1.97,
+    "NotaMediana": 9.19
+  },
+  "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+    "Notas": [
+      9.23,
+      9.48,
+      9.63,
+      9.65,
+      9.68,
+      9.73
+    ],
+    "Desvios": [
+      2.19,
+      1.66,
+      1.92,
+      1.64,
+      1.46,
+      1.49
+    ],
+    "Docentes": [
+      "ADILSON BARBOZA LOPES",
+      "ANDRE MAURICIO CUNHA CAMPOS",
+      "MARJORY CRISTIANY DA COSTA ABREU",
+      "RAFAEL BESERRA GOMES"
+    ],
+    "DesvioDeNotas": 0.16898389140848763,
+    "MediaDeNotas": 9.566666666666668,
+    "MediaDeDesvios": 1.7266666666666666,
+    "NotaMediana": 9.65
+  },
+  "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO": {
+    "Notas": [
+      9.18,
+      9.52,
+      9.53,
+      9.64,
+      9.71,
+      9.74
+    ],
+    "Desvios": [
+      2.19,
+      1.79,
+      1.94,
+      1.62,
+      1.37,
+      1.4
+    ],
+    "Docentes": [
+      "ADILSON BARBOZA LOPES",
+      "ANDRE MAURICIO CUNHA CAMPOS",
+      "MARJORY CRISTIANY DA COSTA ABREU",
+      "RAFAEL BESERRA GOMES"
+    ],
+    "DesvioDeNotas": 0.186160026739243,
+    "MediaDeNotas": 9.553333333333333,
+    "MediaDeDesvios": 1.7183333333333335,
+    "NotaMediana": 9.64
+  },
+  "DIM0126 - INTELIGÊNCIA ARTIFICIAL PARA JOGOS I": {
+    "Notas": [
+      8.57
+    ],
+    "Desvios": [
+      2.93
+    ],
+    "Docentes": [
+      "ANDRE MAURICIO CUNHA CAMPOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.57,
+    "MediaDeDesvios": 2.93,
+    "NotaMediana": 8.57
+  },
+  "IMD0522 - JOGOS DIGITAIS COMO FERRAMENTA PEDAGÓGICA": {
+    "Notas": [
+      8.99
+    ],
+    "Desvios": [
+      2.31
+    ],
+    "Docentes": [
+      "ANDRE MAURICIO CUNHA CAMPOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.99,
+    "MediaDeDesvios": 2.31,
+    "NotaMediana": 8.99
+  },
+  "DIM0613 - INTELIGENCIA ARTIFICIAL": {
+    "Notas": [
+      7.37,
+      9.73
+    ],
+    "Desvios": [
+      3.32,
+      1.77
+    ],
+    "Docentes": [
+      "ANNE MAGALY DE PAULA CANUTO",
+      "MARJORY CRISTIANY DA COSTA ABREU"
+    ],
+    "DesvioDeNotas": 1.1800000000000002,
+    "MediaDeNotas": 8.55,
+    "MediaDeDesvios": 2.545,
+    "NotaMediana": 9.73
+  },
+  "IMD0033 - PROBABILIDADE": {
+    "Notas": [
+      8.98
+    ],
+    "Desvios": [
+      2.47
+    ],
+    "Docentes": [
+      "ANNE MAGALY DE PAULA CANUTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.98,
+    "MediaDeDesvios": 2.47,
+    "NotaMediana": 8.98
+  },
+  "DIM0606 - LINGUAGENS FORMAIS E AUTÔMATOS": {
+    "Notas": [
+      9.11,
+      9.37
+    ],
+    "Desvios": [
+      2.13,
+      1.58
+    ],
+    "Docentes": [
+      "CARLOS PROLO",
+      "BENJAMIN RENE CALLEJAS BEDREGAL"
+    ],
+    "DesvioDeNotas": 0.1299999999999999,
+    "MediaDeNotas": 9.239999999999998,
+    "MediaDeDesvios": 1.855,
+    "NotaMediana": 9.37
+  },
+  "DIM0122 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE": {
+    "Notas": [
+      8.84
+    ],
+    "Desvios": [
+      2.5
+    ],
+    "Docentes": [
+      "EDGARD DE FARIA CORREA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.84,
+    "MediaDeDesvios": 2.5,
+    "NotaMediana": 8.84
+  },
+  "DIM0605 - PROJETO E ANÁLISE DE ALGORITMOS": {
+    "Notas": [
+      9.89,
+      9.97
+    ],
+    "Desvios": [
+      1.75,
+      1.07
+    ],
+    "Docentes": [
+      "ELIZABETH FERREIRA GOUVEA GOLDBARG"
+    ],
+    "DesvioDeNotas": 0.040000000000000036,
+    "MediaDeNotas": 9.93,
+    "MediaDeDesvios": 1.4100000000000001,
+    "NotaMediana": 9.97
+  },
+  "DIM0514 - ARQUITETURA DE SOFTWARE": {
+    "Notas": [
+      7.8,
+      9.09,
+      9.27,
+      9.77
+    ],
+    "Desvios": [
+      1.3,
+      2.47,
+      1.62,
+      1.54
+    ],
+    "Docentes": [
+      "EVERTON RANIELLY DE SOUSA CAVALCANTE",
+      "THAIS VASCONCELOS BATISTA",
+      "JAIR CAVALCANTI LEITE"
+    ],
+    "DesvioDeNotas": 0.7267521929791474,
+    "MediaDeNotas": 8.9825,
+    "MediaDeDesvios": 1.7325000000000002,
+    "NotaMediana": 9.27
+  },
+  "DIM0547 - DESENVOLVIMENTO DE SISTEMAS WEB II": {
+    "Notas": [
+      7.15,
+      7.61,
+      9.32
+    ],
+    "Desvios": [
+      2.76,
+      1.86,
+      2.14
+    ],
+    "Docentes": [
+      "FERNANDO MARQUES FIGUEIRA FILHO",
+      "UIRA KULESZA"
+    ],
+    "DesvioDeNotas": 0.9336071027055343,
+    "MediaDeNotas": 8.026666666666666,
+    "MediaDeDesvios": 2.2533333333333334,
+    "NotaMediana": 7.61
+  },
+  "DIM0532 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE II": {
+    "Notas": [
+      7.31
+    ],
+    "Desvios": [
+      2.57
+    ],
+    "Docentes": [
+      "FERNANDO MARQUES FIGUEIRA FILHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 7.31,
+    "MediaDeDesvios": 2.57,
+    "NotaMediana": 7.31
+  },
+  "DIM0508 - PROJETO DE INTERFACES DE USUÁRIO": {
+    "Notas": [
+      9.35,
+      9.37
+    ],
+    "Desvios": [
+      2.21,
+      1.51
+    ],
+    "Docentes": [
+      "JAIR CAVALCANTI LEITE"
+    ],
+    "DesvioDeNotas": 0.009999999999999787,
+    "MediaDeNotas": 9.36,
+    "MediaDeDesvios": 1.8599999999999999,
+    "NotaMediana": 9.37
+  },
+  "DIM0505 - LÓGICA APLICADA A ENGENHARIA DE SOFTWARE": {
+    "Notas": [
+      9.65,
+      9.69
+    ],
+    "Desvios": [
+      1.6,
+      1.08
+    ],
+    "Docentes": [
+      "MARCEL VINICIUS MEDEIROS OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.019999999999999574,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.34,
+    "NotaMediana": 9.69
+  },
+  "DIM0114 - BANCO DE DADOS": {
+    "Notas": [
+      8.28
+    ],
+    "Desvios": [
+      2.35
+    ],
+    "Docentes": [
+      "MARCIA JACYNTHA NUNES RODRIGUES LUCENA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.28,
+    "MediaDeDesvios": 2.35,
+    "NotaMediana": 8.28
+  },
+  "DIM0431 - ORGANIZACAO E ARQUITETURA DE COMPUTADORES": {
+    "Notas": [
+      9.51,
+      9.6,
+      9.82
+    ],
+    "Desvios": [
+      2.01,
+      1.88,
+      1.79
+    ],
+    "Docentes": [
+      "MARCIO EDUARDO KREUTZ",
+      "MONICA MAGALHAES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.13021349989749764,
+    "MediaDeNotas": 9.643333333333333,
+    "MediaDeDesvios": 1.8933333333333333,
+    "NotaMediana": 9.6
+  },
+  "DIM0346 - GERENCIAMENTO E SEGURANCA EM REDES DE COMPUTADORES": {
+    "Notas": [
+      9.55
+    ],
+    "Desvios": [
+      2.94
+    ],
+    "Docentes": [
+      "MARCOS CESAR MADRUGA ALVES PINHEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.55,
+    "MediaDeDesvios": 2.94,
+    "NotaMediana": 9.55
+  },
+  "DIM0611 - COMPILADORES": {
+    "Notas": [
+      9.72,
+      9.78
+    ],
+    "Desvios": [
+      1.93,
+      1.53
+    ],
+    "Docentes": [
+      "MARTIN ALEJANDRO MUSICANTE"
+    ],
+    "DesvioDeNotas": 0.02999999999999936,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.78
+  },
+  "DIM0436 - ESPECIFICACAO E VERIFICACAO DE PROGRAMAS": {
+    "Notas": [
+      9.88,
+      9.9
+    ],
+    "Desvios": [
+      1.99,
+      1.99
+    ],
+    "Docentes": [
+      "MARTIN ALEJANDRO MUSICANTE",
+      "ROBERTA DE SOUZA COELHO"
+    ],
+    "DesvioDeNotas": 0.009999999999999787,
+    "MediaDeNotas": 9.89,
+    "MediaDeDesvios": 1.99,
+    "NotaMediana": 9.9
+  },
+  "DIM0124 - PROGRAMAÇÃO CONCORRENTE": {
+    "Notas": [
+      8.81
+    ],
+    "Desvios": [
+      2.18
+    ],
+    "Docentes": [
+      "NELIO ALESSANDRO AZEVEDO CACHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.81,
+    "MediaDeDesvios": 2.18,
+    "NotaMediana": 8.81
+  },
+  "DIM0512 - TESTE DE SOFTWARE II": {
+    "Notas": [
+      9.82,
+      9.97
+    ],
+    "Desvios": [
+      1.67,
+      1.06
+    ],
+    "Docentes": [
+      "ROBERTA DE SOUZA COELHO"
+    ],
+    "DesvioDeNotas": 0.07500000000000018,
+    "MediaDeNotas": 9.895,
+    "MediaDeDesvios": 1.365,
+    "NotaMediana": 9.97
+  },
+  "DIM0600 - PROJETO DE SOFTWARE": {
+    "Notas": [
+      9.02,
+      9.16
+    ],
+    "Desvios": [
+      2.01,
+      1.67
+    ],
+    "Docentes": [
+      "UIRA KULESZA"
+    ],
+    "DesvioDeNotas": 0.07000000000000028,
+    "MediaDeNotas": 9.09,
+    "MediaDeDesvios": 1.8399999999999999,
+    "NotaMediana": 9.16
+  },
+  "DIM0501 - BOAS PRÁTICAS DE PROGRAMAÇÃO": {
+    "Notas": [
+      8.47,
+      9.73
+    ],
+    "Desvios": [
+      2.74,
+      1.24
+    ],
+    "Docentes": [
+      "ANDRE MAURICIO CUNHA CAMPOS",
+      "EVERTON RANIELLY DE SOUSA CAVALCANTE"
+    ],
+    "DesvioDeNotas": 0.6299999999999999,
+    "MediaDeNotas": 9.100000000000001,
+    "MediaDeDesvios": 1.9900000000000002,
+    "NotaMediana": 9.73
+  },
+  "DIM0534 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE IV": {
+    "Notas": [
+      8.75
+    ],
+    "Desvios": [
+      2.91
+    ],
+    "Docentes": [
+      "ANDRE MAURICIO CUNHA CAMPOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.75,
+    "MediaDeDesvios": 2.91,
+    "NotaMediana": 8.75
+  },
+  "DIM0097 - TOPICOS ESPECIAIS EM COMPUTACAO VIII": {
+    "Notas": [
+      9.68
+    ],
+    "Desvios": [
+      1.54
+    ],
+    "Docentes": [
+      "ANTONIO CARLOS GAY THOME"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.68,
+    "MediaDeDesvios": 1.54,
+    "NotaMediana": 9.68
+  },
+  "IMD0236 - TÓPICOS ESPECIAIS EM SISTEMAS EMBARCADOS \"G\"": {
+    "Notas": [
+      9.73
+    ],
+    "Desvios": [
+      1.49
+    ],
+    "Docentes": [
+      "EDGARD DE FARIA CORREA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.73
+  },
+  "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I": {
+    "Notas": [
+      9.6,
+      9.6
+    ],
+    "Desvios": [
+      2.05,
+      1.65
+    ],
+    "Docentes": [
+      "EDSON ALYPPYO GOMES COUTINHO",
+      "SELAN RODRIGUES DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.6,
+    "MediaDeDesvios": 1.8499999999999999,
+    "NotaMediana": 9.6
+  },
+  "DIM0612 - PROGRAMAÇÃO CONCORRENTE": {
+    "Notas": [
+      9.66,
+      9.9
+    ],
+    "Desvios": [
+      1.42,
+      1.35
+    ],
+    "Docentes": [
+      "EVERTON RANIELLY DE SOUSA CAVALCANTE"
+    ],
+    "DesvioDeNotas": 0.1200000000000001,
+    "MediaDeNotas": 9.780000000000001,
+    "MediaDeDesvios": 1.385,
+    "NotaMediana": 9.9
+  },
+  "DIM0541.0 - BANCO DE DADOS": {
+    "Notas": [
+      9.69
+    ],
+    "Desvios": [
+      1.82
+    ],
+    "Docentes": [
+      "MARCEL VINICIUS MEDEIROS OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.69,
+    "MediaDeDesvios": 1.82,
+    "NotaMediana": 9.69
+  },
+  "DIM0541.1 - PRATICA DE BANCO DE DADOS": {
+    "Notas": [
+      9.7
+    ],
+    "Desvios": [
+      1.85
+    ],
+    "Docentes": [
+      "MARCEL VINICIUS MEDEIROS OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.7,
+    "MediaDeDesvios": 1.85,
+    "NotaMediana": 9.7
+  },
+  "DIM0536 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VI": {
+    "Notas": [
+      7.67
+    ],
+    "Desvios": [
+      2.97
+    ],
+    "Docentes": [
+      "MARCIA JACYNTHA NUNES RODRIGUES LUCENA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 7.67,
+    "MediaDeDesvios": 2.97,
+    "NotaMediana": 7.67
+  },
+  "DIM0109.0 - CIRCUITOS LÓGICOS": {
+    "Notas": [
+      9,
+      9.42
+    ],
+    "Desvios": [
+      2.37,
+      2.01
+    ],
+    "Docentes": [
+      "MARCIO EDUARDO KREUTZ",
+      "EDGARD DE FARIA CORREA"
+    ],
+    "DesvioDeNotas": 0.20999999999999996,
+    "MediaDeNotas": 9.21,
+    "MediaDeDesvios": 2.19,
+    "NotaMediana": 9.42
+  },
+  "DIM0109.1 - LABORATÓRIO DE CIRCUITOS LÓGICOS": {
+    "Notas": [
+      9.05,
+      9.36
+    ],
+    "Desvios": [
+      2.37,
+      1.97
+    ],
+    "Docentes": [
+      "MARCIO EDUARDO KREUTZ",
+      "EDGARD DE FARIA CORREA"
+    ],
+    "DesvioDeNotas": 0.15499999999999936,
+    "MediaDeNotas": 9.205,
+    "MediaDeDesvios": 2.17,
+    "NotaMediana": 9.36
+  },
+  "DIM0118.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+    "Notas": [
+      9.81
+    ],
+    "Desvios": [
+      1.83
+    ],
+    "Docentes": [
+      "RAFAEL BESERRA GOMES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.81,
+    "MediaDeDesvios": 1.83,
+    "NotaMediana": 9.81
+  },
+  "DIM0118.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO": {
+    "Notas": [
+      9.84
+    ],
+    "Desvios": [
+      1.67
+    ],
+    "Docentes": [
+      "RAFAEL BESERRA GOMES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.84,
+    "MediaDeDesvios": 1.67,
+    "NotaMediana": 9.84
+  },
+  "DIM0537 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VII": {
+    "Notas": [
+      9.61
+    ],
+    "Desvios": [
+      1.69
+    ],
+    "Docentes": [
+      "ROBERTA DE SOUZA COELHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.61
+  },
+  "DIM0096 - TOPICOS ESPECIAIS EM COMPUTACAO VII": {
+    "Notas": [
+      9.82
+    ],
+    "Desvios": [
+      1.83
+    ],
+    "Docentes": [
+      "SELAN RODRIGUES DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 1.83,
+    "NotaMediana": 9.82
+  },
+  "DIM0506 - PROJETO DETALHADO DE SOFTWARE": {
+    "Notas": [
+      9.02
+    ],
+    "Desvios": [
+      2.12
+    ],
+    "Docentes": [
+      "UIRA KULESZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.02,
+    "MediaDeDesvios": 2.12,
+    "NotaMediana": 9.02
+  },
+  "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.79
+    ],
+    "Docentes": [
+      "CARLOS PROLO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.79,
+    "NotaMediana": 9.66
+  },
+  "DIM0520 - MODELAGEM DE PROCESSOS DE NEGÓCIO": {
+    "Notas": [
+      8.9
+    ],
+    "Desvios": [
+      1.74
+    ],
+    "Docentes": [
+      "EDUARDO HENRIQUE DA SILVA ARANHA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.9,
+    "MediaDeDesvios": 1.74,
+    "NotaMediana": 8.9
+  },
+  "DIM0533 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE III": {
+    "Notas": [
+      8.68
+    ],
+    "Desvios": [
+      1.86
+    ],
+    "Docentes": [
+      "FERNANDO MARQUES FIGUEIRA FILHO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.68,
+    "MediaDeDesvios": 1.86,
+    "NotaMediana": 8.68
+  },
+  "DIM0524 - DESENVOLVIMENTO DE SISTEMAS PARA DISPOSITIVOS MÓVEIS": {
+    "Notas": [
+      9.43
+    ],
+    "Desvios": [
+      1.21
+    ],
+    "Docentes": [
+      "GIBEON SOARES DE AQUINO JUNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.43,
+    "MediaDeDesvios": 1.21,
+    "NotaMediana": 9.43
+  },
+  "IMD0401 - BANCO DE DADOS": {
+    "Notas": [
+      7.5
+    ],
+    "Desvios": [
+      2.44
+    ],
+    "Docentes": [
+      "MARCIA JACYNTHA NUNES RODRIGUES LUCENA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 7.5,
+    "MediaDeDesvios": 2.44,
+    "NotaMediana": 7.5
+  },
+  "DIM0538 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE VIII": {
+    "Notas": [
+      9.03
+    ],
+    "Desvios": [
+      1.55
+    ],
+    "Docentes": [
+      "MARCIA JACYNTHA NUNES RODRIGUES LUCENA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.03,
+    "MediaDeDesvios": 1.55,
+    "NotaMediana": 9.03
+  },
+  "DIM0448 - QUALIDADE DE SOFTWARE": {
+    "Notas": [
+      9.82
+    ],
+    "Desvios": [
+      1.45
+    ],
+    "Docentes": [
+      "MARCO CESAR GOLDBARG"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 1.45,
+    "NotaMediana": 9.82
+  },
+  "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II": {
+    "Notas": [
+      8.88
+    ],
+    "Desvios": [
+      1.86
+    ],
+    "Docentes": [
+      "REGIVAN HUGO NUNES SANTIAGO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.88,
+    "MediaDeDesvios": 1.86,
+    "NotaMediana": 8.88
+  },
+  "IMD0039 - ESTRUTURAS DE DADOS BÁSICAS II": {
+    "Notas": [
+      9.61
+    ],
+    "Desvios": [
+      1.26
+    ],
+    "Docentes": [
+      "SILVIA MARIA DINIZ MONTEIRO MAIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.26,
+    "NotaMediana": 9.61
+  },
+  "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I": {
+    "Notas": [
+      9.38,
+      9.45
+    ],
+    "Desvios": [
+      1.65,
+      1.71
+    ],
+    "Docentes": [
+      "UMBERTO SOUZA DA COSTA"
+    ],
+    "DesvioDeNotas": 0.034999999999999254,
+    "MediaDeNotas": 9.415,
+    "MediaDeDesvios": 1.68,
+    "NotaMediana": 9.45
+  }
+}

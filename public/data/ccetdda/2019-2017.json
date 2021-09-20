@@ -1,0 +1,785 @@
+[
+    {
+        "Docente": "CRISTIANE SILVA CORREA",
+        "Componente Curricular": "DDA0017 - GERENCIAMENTO ATUARIAL",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "11",
+        "Média Geral": "8.78",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "CRISTIANE SILVA CORREA",
+        "Componente Curricular": "DDA0010 - PRÁTICAS ATUARIAIS EM PENSÕES",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "7",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+        "Componente Curricular": "DDA0303 - ESTATISTICA APLICADA A ARQUITETURA E URBANISMO",
+        "Turma": "1",
+        "Horário": "4M123",
+        "Discentes": "21",
+        "Média Geral": "8.43",
+        "Desvio Padrão Geral": "2.77"
+    },
+    {
+        "Docente": "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+        "Componente Curricular": "DDA0301 - ESTATISTICA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "31",
+        "Média Geral": "8.61",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "FLAVIO HENRIQUE MIRANDA DE ARAUJO FREIRE",
+        "Componente Curricular": "DDA0304 - ESTATÍSTICA APLICADA À GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "4N12",
+        "Discentes": "16",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "FLAVIO HENRIQUE MIRANDA DE ARAUJO FREIRE",
+        "Componente Curricular": "DDA0001 - TÉCNICAS DEMOGRÁFICAS I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "46",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "JORDANA CRISTINA DE JESUS",
+        "Componente Curricular": "DDA0304 - ESTATÍSTICA APLICADA À GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "25",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "JORDANA CRISTINA DE JESUS",
+        "Componente Curricular": "DDA0205 - FORÇA DE TRABALHO, EMPREGO E PEA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "18",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "JORDANA CRISTINA DE JESUS",
+        "Componente Curricular": "DDA0017 - GERENCIAMENTO ATUARIAL",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "11",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.68"
+    },
+    {
+        "Docente": "JORDANA CRISTINA DE JESUS",
+        "Componente Curricular": "DDA0006 - MATEMÁTICA ATUARIAL I",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "17",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "JOSE VILTON COSTA",
+        "Componente Curricular": "DDA0102 - ANÁLISE DE REGRESSÃO PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "22",
+        "Média Geral": "7.76",
+        "Desvio Padrão Geral": "2.99"
+    },
+    {
+        "Docente": "JOSE VILTON COSTA",
+        "Componente Curricular": "DDA0016 - PRÁTICAS ATUARIAIS EM SEGUROS",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "9",
+        "Média Geral": "7.78",
+        "Desvio Padrão Geral": "2.95"
+    },
+    {
+        "Docente": "JÁRVIS CAMPOS",
+        "Componente Curricular": "DDA0309 - DEMOGRAFIA E POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "4N1234",
+        "Discentes": "7",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "JÁRVIS CAMPOS",
+        "Componente Curricular": "DDA0305 - ELEMENTOS DE ESTATISTICA APLICADA A BIBLIOTECONOMIA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "33",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "JÁRVIS CAMPOS",
+        "Componente Curricular": "DDA0303 - ESTATISTICA APLICADA A ARQUITETURA E URBANISMO",
+        "Turma": "1",
+        "Horário": "4M123",
+        "Discentes": "21",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "2.46"
+    },
+    {
+        "Docente": "LUANA JUNQUEIRA DIAS MYRRHA",
+        "Componente Curricular": "DDA0002 - INTRODUÇÃO AO SEGURO E PREVIDÊNCIA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "42",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "LUANA JUNQUEIRA DIAS MYRRHA",
+        "Componente Curricular": "DDA0006 - MATEMÁTICA ATUARIAL I",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "17",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "LUANA JUNQUEIRA DIAS MYRRHA",
+        "Componente Curricular": "DDA0010 - PRÁTICAS ATUARIAIS EM PENSÕES",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "7",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "LUCIANA CONCEICAO DE LIMA",
+        "Componente Curricular": "DDA0308 - INTRODUÇÃO À DEMOGRAFIA PARA ECONOMIA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "10",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "LUCIANA CONCEICAO DE LIMA",
+        "Componente Curricular": "DDA0020 - TÓPICOS DE ECONOMIA PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "21",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "MARCOS ROBERTO GONZAGA",
+        "Componente Curricular": "DDA0101 - FUNDAMENTOS DE ESTATÍSTICA PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "42",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "MOISES ALBERTO CALLE AGUIRRE",
+        "Componente Curricular": "DDA0301 - ESTATISTICA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "31",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "MOISES ALBERTO CALLE AGUIRRE",
+        "Componente Curricular": "DDA0019 - SEMINÁRIO DE MONOGRAFIA",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "8",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "RICARDO OJIMA",
+        "Componente Curricular": "DDA0309 - DEMOGRAFIA E POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "4T1234",
+        "Discentes": "6",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "RICARDO OJIMA",
+        "Componente Curricular": "DDA0204 - METODOLOGIA DE PESQUISA",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "43",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "CRISTIANE SILVA CORREA",
+        "Componente Curricular": "DDA0007 - MATEMÁTICA ATUARIAL II",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "13",
+        "Média Geral": "8.94",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "CRISTIANE SILVA CORREA",
+        "Componente Curricular": "DDA0004 - MÉTODOS DE TABELAS DE SOBREVIVÊNCIA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "24",
+        "Média Geral": "8.81",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+        "Componente Curricular": "DDA0303 - ESTATISTICA APLICADA A ARQUITETURA E URBANISMO",
+        "Turma": "1",
+        "Horário": "4M456",
+        "Discentes": "18",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+        "Componente Curricular": "DDA0301 - ESTATISTICA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "28",
+        "Média Geral": "8.19",
+        "Desvio Padrão Geral": "2.71"
+    },
+    {
+        "Docente": "FLAVIO HENRIQUE MIRANDA DE ARAUJO FREIRE",
+        "Componente Curricular": "DDA0005 - ALGORÍTMO PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "25",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "JORDANA CRISTINA DE JESUS",
+        "Componente Curricular": "DDA0008 - LEGISLAÇÃO DE SEGURO E PREVIDÊNCIA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "23",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "JORDANA CRISTINA DE JESUS",
+        "Componente Curricular": "DDA0013 - TARIFAÇÃO DE SEGUROS",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "7",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "JOSE VILTON COSTA",
+        "Componente Curricular": "DDA0003 - MATEMÁTICA FINANCEIRA PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "17",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "JÁRVIS CAMPOS",
+        "Componente Curricular": "DDA0005 - ALGORÍTMO PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "25",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "JÁRVIS CAMPOS",
+        "Componente Curricular": "DDA0009 - DINÂMICA DEMOGRÁFICA E POLÍTICAS SOCIAIS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "13",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.76"
+    },
+    {
+        "Docente": "JÁRVIS CAMPOS",
+        "Componente Curricular": "DDA0014 - PROJEÇÕES POPULACIONAIS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "15",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "LUANA JUNQUEIRA DIAS MYRRHA",
+        "Componente Curricular": "DDA0004 - MÉTODOS DE TABELAS DE SOBREVIVÊNCIA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "24",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "LUCIANA CONCEICAO DE LIMA",
+        "Componente Curricular": "DDA0011 - GERENCIAMENTO DE BANCO DE DADOS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "27",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "LUCIANA CONCEICAO DE LIMA",
+        "Componente Curricular": "DDA0011 - GERENCIAMENTO DE BANCO DE DADOS",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "16",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.86"
+    },
+    {
+        "Docente": "MARCOS ROBERTO GONZAGA",
+        "Componente Curricular": "DDA0014 - PROJEÇÕES POPULACIONAIS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "15",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "MOISES ALBERTO CALLE AGUIRRE",
+        "Componente Curricular": "DDA0302 - MÉTODOS QUANTITATIVOS APLICADOS ÀS CIÊNCIAS SOCIAIS",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "19",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "MOISES ALBERTO CALLE AGUIRRE",
+        "Componente Curricular": "DDA0302 - MÉTODOS QUANTITATIVOS APLICADOS ÀS CIÊNCIAS SOCIAIS",
+        "Turma": "2",
+        "Horário": "24N34",
+        "Discentes": "12",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "RICARDO OJIMA",
+        "Componente Curricular": "DDA0009 - DINÂMICA DEMOGRÁFICA E POLÍTICAS SOCIAIS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "13",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.89"
+    },
+    {
+        "Docente": "CRISTIANE SILVA CORREA",
+        "Componente Curricular": "DDA0017 - GERENCIAMENTO ATUARIAL",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "8",
+        "Média Geral": "7.82",
+        "Desvio Padrão Geral": "2.64"
+    },
+    {
+        "Docente": "CRISTIANE SILVA CORREA",
+        "Componente Curricular": "DDA0010 - PRÁTICAS ATUARIAIS EM PENSÕES",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "14",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+        "Componente Curricular": "DDA0305 - ELEMENTOS DE ESTATISTICA APLICADA A BIBLIOTECONOMIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "27",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.58"
+    },
+    {
+        "Docente": "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+        "Componente Curricular": "DDA0301 - ESTATISTICA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "24",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "FLAVIO HENRIQUE MIRANDA DE ARAUJO FREIRE",
+        "Componente Curricular": "DDA0001 - TÉCNICAS DEMOGRÁFICAS I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "52",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0304 - ESTATÍSTICA APLICADA À GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Turma": "2",
+        "Horário": "6N12",
+        "Discentes": "8",
+        "Média Geral": "8.74",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0006 - MATEMÁTICA ATUARIAL I",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "9",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0018 - TEORIA DE RISCO E CREDIBILIDADE",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "5",
+        "Média Geral": "7.22",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0001 - TÉCNICAS DEMOGRÁFICAS I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "52",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0207 - TÓPICOS ESPECIAIS EM ATUÁRIA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "8",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "JOSE VILTON COSTA",
+        "Componente Curricular": "DDA0102 - ANÁLISE DE REGRESSÃO PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "14",
+        "Média Geral": "8.45",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "JOSE VILTON COSTA",
+        "Componente Curricular": "DDA0016 - PRÁTICAS ATUARIAIS EM SEGUROS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "13",
+        "Média Geral": "8.3",
+        "Desvio Padrão Geral": "2.45"
+    },
+    {
+        "Docente": "LUANA JUNQUEIRA DIAS MYRRHA",
+        "Componente Curricular": "DDA0002 - INTRODUÇÃO AO SEGURO E PREVIDÊNCIA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "41",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "LUCIANA CONCEICAO DE LIMA",
+        "Componente Curricular": "DDA0308 - INTRODUÇÃO À DEMOGRAFIA PARA ECONOMIA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "23",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "LUCIANA CONCEICAO DE LIMA",
+        "Componente Curricular": "DDA0020 - TÓPICOS DE ECONOMIA PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "13",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "LUCIANA SILVA DE SOUSA",
+        "Componente Curricular": "DDA0202 - AMOSTRAGEM PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "13",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "LUCIANA SILVA DE SOUSA",
+        "Componente Curricular": "DDA0305 - ELEMENTOS DE ESTATISTICA APLICADA A BIBLIOTECONOMIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "27",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "LUCIANA SILVA DE SOUSA",
+        "Componente Curricular": "DDA0303 - ESTATISTICA APLICADA A ARQUITETURA E URBANISMO",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "23",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "LUCIANA SILVA DE SOUSA",
+        "Componente Curricular": "DDA0301 - ESTATISTICA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "24",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "LUCIANA SILVA DE SOUSA",
+        "Componente Curricular": "DDA0304 - ESTATÍSTICA APLICADA À GESTÃO DE POLÍTICAS PÚBLICAS",
+        "Turma": "1",
+        "Horário": "6T12",
+        "Discentes": "8",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "MARCOS ROBERTO GONZAGA",
+        "Componente Curricular": "DDA0101 - FUNDAMENTOS DE ESTATÍSTICA PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "45",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "MARCOS ROBERTO GONZAGA",
+        "Componente Curricular": "DDA0103 - SÉRIES TEMPORAIS PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "16",
+        "Média Geral": "8.85",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "MOISES ALBERTO CALLE AGUIRRE",
+        "Componente Curricular": "DDA0019 - SEMINÁRIO DE MONOGRAFIA",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "9",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "RICARDO OJIMA",
+        "Componente Curricular": "DDA0204 - METODOLOGIA DE PESQUISA",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "41",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "CRISTIANE SILVA CORREA",
+        "Componente Curricular": "DDA0007 - MATEMÁTICA ATUARIAL II",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "16",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "CRISTIANE SILVA CORREA",
+        "Componente Curricular": "DDA0004 - MÉTODOS DE TABELAS DE SOBREVIVÊNCIA",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "12",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+        "Componente Curricular": "DDA0305 - ELEMENTOS DE ESTATISTICA APLICADA A BIBLIOTECONOMIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "30",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+        "Componente Curricular": "DDA0303 - ESTATISTICA APLICADA A ARQUITETURA E URBANISMO",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "20",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0005 - ALGORÍTMO PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "19",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0301 - ESTATISTICA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "15",
+        "Média Geral": "8.53",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0008 - LEGISLAÇÃO DE SEGURO E PREVIDÊNCIA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "17",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0302 - MÉTODOS QUANTITATIVOS APLICADOS ÀS CIÊNCIAS SOCIAIS",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "20",
+        "Média Geral": "8.75",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0014 - PROJEÇÕES POPULACIONAIS",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "12",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "HERICK CIDARTA GOMES DE OLIVEIRA",
+        "Componente Curricular": "DDA0013 - TARIFAÇÃO DE SEGUROS",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "7",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "0.8"
+    },
+    {
+        "Docente": "JOSE VILTON COSTA",
+        "Componente Curricular": "DDA0003 - MATEMÁTICA FINANCEIRA PARA CIÊNCIAS ATUARIAIS",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "24",
+        "Média Geral": "8.48",
+        "Desvio Padrão Geral": "2.37"
+    },
+    {
+        "Docente": "LUCIANA CONCEICAO DE LIMA",
+        "Componente Curricular": "DDA0011 - GERENCIAMENTO DE BANCO DE DADOS",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "23",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "LUCIANA SILVA DE SOUSA",
+        "Componente Curricular": "DDA0009 - DINÂMICA DEMOGRÁFICA E POLÍTICAS SOCIAIS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "22",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "LUCIANA SILVA DE SOUSA",
+        "Componente Curricular": "DDA0301 - ESTATISTICA APLICADA AO TURISMO",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "15",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "LUCIANA SILVA DE SOUSA",
+        "Componente Curricular": "DDA0008 - LEGISLAÇÃO DE SEGURO E PREVIDÊNCIA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "17",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "LUCIANA SILVA DE SOUSA",
+        "Componente Curricular": "DDA0302 - MÉTODOS QUANTITATIVOS APLICADOS ÀS CIÊNCIAS SOCIAIS",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "20",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "0.53"
+    },
+    {
+        "Docente": "MARCOS ROBERTO GONZAGA",
+        "Componente Curricular": "DDA0014 - PROJEÇÕES POPULACIONAIS",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "12",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "MARCOS ROBERTO GONZAGA",
+        "Componente Curricular": "DDA0018 - TEORIA DE RISCO E CREDIBILIDADE",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "6",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "MOISES ALBERTO CALLE AGUIRRE",
+        "Componente Curricular": "DDA0302 - MÉTODOS QUANTITATIVOS APLICADOS ÀS CIÊNCIAS SOCIAIS",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "20",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "RICARDO OJIMA",
+        "Componente Curricular": "DDA0009 - DINÂMICA DEMOGRÁFICA E POLÍTICAS SOCIAIS",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "22",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.25"
+    }
+]

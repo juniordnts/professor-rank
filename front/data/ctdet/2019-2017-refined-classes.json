@@ -1,0 +1,781 @@
+{
+  "DET0144 - ENGENHARIA E CIÊNCIA DAS CORES": {
+    "Notas": [
+      8.53,
+      9.06,
+      9.61,
+      9.64
+    ],
+    "Desvios": [
+      1.79,
+      1.54,
+      1.85,
+      1.28
+    ],
+    "Docentes": [
+      "CLOVIS DE MEDEIROS BEZERRA",
+      "BRENNO HENRIQUE SILVA FELIPE"
+    ],
+    "DesvioDeNotas": 0.4554667935206695,
+    "MediaDeNotas": 9.21,
+    "MediaDeDesvios": 1.615,
+    "NotaMediana": 9.61
+  },
+  "DET0106 - QUÍMICA ORGÂNICA TÊXTIL": {
+    "Notas": [
+      8.86,
+      9.03,
+      9.39,
+      9.98
+    ],
+    "Desvios": [
+      2.04,
+      2.07,
+      1.12,
+      1.18
+    ],
+    "Docentes": [
+      "CLOVIS DE MEDEIROS BEZERRA",
+      "IRIS OLIVEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.4289813515760334,
+    "MediaDeNotas": 9.315000000000001,
+    "MediaDeDesvios": 1.6024999999999998,
+    "NotaMediana": 9.39
+  },
+  "DET0166 - HIGIENE E SEGURANÇA DO TRABALHO NA ENGENHARIA TÊXTIL": {
+    "Notas": [
+      7.86,
+      9.24
+    ],
+    "Desvios": [
+      2.43,
+      1.15
+    ],
+    "Docentes": [
+      "IRAN MARQUES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.69,
+    "MediaDeNotas": 8.55,
+    "MediaDeDesvios": 1.79,
+    "NotaMediana": 9.24
+  },
+  "DET0111 - ENGENHARIA DO FIO II": {
+    "Notas": [
+      9.25,
+      9.57,
+      9.75,
+      9.81
+    ],
+    "Desvios": [
+      1.33,
+      0.81,
+      1.1,
+      1.3
+    ],
+    "Docentes": [
+      "IRIS OLIVEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.21788758569500935,
+    "MediaDeNotas": 9.595,
+    "MediaDeDesvios": 1.135,
+    "NotaMediana": 9.75
+  },
+  "DET0100 - INTRODUÇÃO À ENGENHARIA TÊXTIL": {
+    "Notas": [
+      9.03,
+      9.61,
+      9.65,
+      9.7
+    ],
+    "Desvios": [
+      1.56,
+      1.24,
+      1.68,
+      1.7
+    ],
+    "Docentes": [
+      "IRIS OLIVEIRA DA SILVA",
+      "MARCOS SILVA DE AQUINO"
+    ],
+    "DesvioDeNotas": 0.2717880608120969,
+    "MediaDeNotas": 9.4975,
+    "MediaDeDesvios": 1.545,
+    "NotaMediana": 9.65
+  },
+  "DET0122 - TÊXTEIS TÉCNICOS": {
+    "Notas": [
+      9.28,
+      9.52,
+      9.57,
+      9.72
+    ],
+    "Desvios": [
+      1.3,
+      0.81,
+      1.15,
+      1.35
+    ],
+    "Docentes": [
+      "IRIS OLIVEIRA DA SILVA",
+      "JOSE IVAN DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.15817316460133227,
+    "MediaDeNotas": 9.522499999999999,
+    "MediaDeDesvios": 1.1525,
+    "NotaMediana": 9.57
+  },
+  "DET0115 - ENGENHARIA DO TECIDO I": {
+    "Notas": [
+      8.8,
+      9.18,
+      9.79,
+      9.94
+    ],
+    "Desvios": [
+      1.18,
+      1.07,
+      1.55,
+      1.32
+    ],
+    "Docentes": [
+      "IÊDA LETÍCIA DE SOUZA FERREIRA",
+      "MICHELLE CEQUEIRA FEITOR",
+      "JOSE IVAN DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.460726328746252,
+    "MediaDeNotas": 9.427499999999998,
+    "MediaDeDesvios": 1.28,
+    "NotaMediana": 9.79
+  },
+  "DET0121 - NANOTECNOLOGIA": {
+    "Notas": [
+      8.74,
+      9.4,
+      9.59,
+      9.83
+    ],
+    "Desvios": [
+      1.19,
+      1.39,
+      2.28,
+      1.24
+    ],
+    "Docentes": [
+      "JOSE HERIBERTO OLIVEIRA DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.4050308630215726,
+    "MediaDeNotas": 9.39,
+    "MediaDeDesvios": 1.525,
+    "NotaMediana": 9.59
+  },
+  "DET0139 - PROCESSOS QUÍMICOS TÊXTEIS II": {
+    "Notas": [
+      7.52,
+      9.22,
+      9.23,
+      9.55,
+      9.71,
+      9.73
+    ],
+    "Desvios": [
+      1.2,
+      1.17,
+      1.38,
+      1.27,
+      2.3,
+      1.59
+    ],
+    "Docentes": [
+      "JOSE HERIBERTO OLIVEIRA DO NASCIMENTO",
+      "SILVAGNER ADOLPHO VERISSIMO"
+    ],
+    "DesvioDeNotas": 0.7613146524269717,
+    "MediaDeNotas": 9.159999999999998,
+    "MediaDeDesvios": 1.485,
+    "NotaMediana": 9.55
+  },
+  "DET0116 - ENGENHARIA DO TECIDO II": {
+    "Notas": [
+      7.53,
+      8.54,
+      8.65
+    ],
+    "Desvios": [
+      1.64,
+      1.68,
+      2.36
+    ],
+    "Docentes": [
+      "JOSE IVAN DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.5040502620440411,
+    "MediaDeNotas": 8.24,
+    "MediaDeDesvios": 1.8933333333333333,
+    "NotaMediana": 8.54
+  },
+  "DET0145 - ECOLOGIA E TRATAMENTO DE EFLUENTES TÊXTEIS": {
+    "Notas": [
+      9.5,
+      9.63,
+      9.65,
+      9.75,
+      9.76,
+      9.76,
+      9.78
+    ],
+    "Desvios": [
+      1.38,
+      1.54,
+      1.46,
+      1.4,
+      0.73,
+      0.76,
+      0.78
+    ],
+    "Docentes": [
+      "KESIA KARINA DE OLIVEIRA SOUTO SILVA",
+      "LUCIANI PAOLA ROCHA CRUZ BARROS",
+      "JOSE HERIBERTO OLIVEIRA DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.09471762545286136,
+    "MediaDeNotas": 9.69,
+    "MediaDeDesvios": 1.15,
+    "NotaMediana": 9.75
+  },
+  "DET0156 - LOGÍSTICA": {
+    "Notas": [
+      9.61,
+      9.87
+    ],
+    "Desvios": [
+      1.95,
+      1.11
+    ],
+    "Docentes": [
+      "LUCIANI PAOLA ROCHA CRUZ BARROS"
+    ],
+    "DesvioDeNotas": 0.1299999999999999,
+    "MediaDeNotas": 9.739999999999998,
+    "MediaDeDesvios": 1.53,
+    "NotaMediana": 9.87
+  },
+  "DET0142 - PROCESSOS QUÍMICOS TÊXTEIS III": {
+    "Notas": [
+      8.07,
+      9.52,
+      9.53,
+      9.64,
+      9.73,
+      9.84,
+      9.85
+    ],
+    "Desvios": [
+      1.19,
+      2.23,
+      1.39,
+      1.68,
+      1.83,
+      1.12,
+      1.15
+    ],
+    "Docentes": [
+      "LUCIANI PAOLA ROCHA CRUZ BARROS",
+      "SILVAGNER ADOLPHO VERISSIMO",
+      "BRENNO HENRIQUE SILVA FELIPE"
+    ],
+    "DesvioDeNotas": 0.5784426664478916,
+    "MediaDeNotas": 9.454285714285716,
+    "MediaDeDesvios": 1.5128571428571431,
+    "NotaMediana": 9.64
+  },
+  "DET0124 - ENGENHARIA DA MALHA I": {
+    "Notas": [
+      7.62,
+      8.16,
+      8.55,
+      8.78
+    ],
+    "Desvios": [
+      1.94,
+      2.47,
+      1.51,
+      1.14
+    ],
+    "Docentes": [
+      "MARCOS SILVA DE AQUINO"
+    ],
+    "DesvioDeNotas": 0.439566547862778,
+    "MediaDeNotas": 8.2775,
+    "MediaDeDesvios": 1.765,
+    "NotaMediana": 8.55
+  },
+  "DET0126 - ENGENHARIA DA MALHA II": {
+    "Notas": [
+      7.26,
+      7.7,
+      8.14,
+      8.38
+    ],
+    "Desvios": [
+      2.65,
+      1.79,
+      1.82,
+      2.01
+    ],
+    "Docentes": [
+      "MARCOS SILVA DE AQUINO"
+    ],
+    "DesvioDeNotas": 0.42836899981207827,
+    "MediaDeNotas": 7.87,
+    "MediaDeDesvios": 2.0675,
+    "NotaMediana": 8.14
+  },
+  "DET0150 - ENGENHARIA DO VESTUÁRIO I": {
+    "Notas": [
+      8.6,
+      9.61,
+      9.8,
+      9.98
+    ],
+    "Desvios": [
+      1.1,
+      1.36,
+      1.94,
+      0.91
+    ],
+    "Docentes": [
+      "MARIA GORETE FELIPE"
+    ],
+    "DesvioDeNotas": 0.53443311087544,
+    "MediaDeNotas": 9.497499999999999,
+    "MediaDeDesvios": 1.3275000000000001,
+    "NotaMediana": 9.8
+  },
+  "DET0151 - ENGENHARIA DO VESTUÁRIO II": {
+    "Notas": [
+      9.3,
+      9.57,
+      9.69
+    ],
+    "Desvios": [
+      1.13,
+      1.96,
+      1.14
+    ],
+    "Docentes": [
+      "MARIA GORETE FELIPE"
+    ],
+    "DesvioDeNotas": 0.16309506430300044,
+    "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.41,
+    "NotaMediana": 9.57
+  },
+  "DET0131 - CONTROLE DE QUALIDADE APLIC. À ENG. TÊXTIL I": {
+    "Notas": [
+      7.73,
+      8.45,
+      8.75
+    ],
+    "Desvios": [
+      2.18,
+      2.61,
+      1.32
+    ],
+    "Docentes": [
+      "MOISES VIEIRA DE MELO"
+    ],
+    "DesvioDeNotas": 0.42801869118065367,
+    "MediaDeNotas": 8.31,
+    "MediaDeDesvios": 2.0366666666666666,
+    "NotaMediana": 8.45
+  },
+  "DET0147 - INTRODUÇÃO AO DESIGN E MODA": {
+    "Notas": [
+      7.95,
+      8.97,
+      9.48,
+      9.73
+    ],
+    "Desvios": [
+      2.5,
+      2.26,
+      2.21,
+      1.5
+    ],
+    "Docentes": [
+      "NEIL DE OLIVEIRA LIMA FILHO"
+    ],
+    "DesvioDeNotas": 0.682362623536782,
+    "MediaDeNotas": 9.0325,
+    "MediaDeDesvios": 2.1174999999999997,
+    "NotaMediana": 9.48
+  },
+  "DET0153 - LABORATÓRIO DE CAD/CAM APLICADO À ENGENHARIA DO VESTUÁRIO": {
+    "Notas": [
+      6.37,
+      7.59,
+      9.09,
+      9.34
+    ],
+    "Desvios": [
+      3.08,
+      3.03,
+      1.93,
+      1.08
+    ],
+    "Docentes": [
+      "NEIL DE OLIVEIRA LIMA FILHO"
+    ],
+    "DesvioDeNotas": 1.2011114644361696,
+    "MediaDeNotas": 8.0975,
+    "MediaDeDesvios": 2.28,
+    "NotaMediana": 9.09
+  },
+  "DET0149 - LABORATÓRIO DE CRIAÇÃO DE COLEÇÕES": {
+    "Notas": [
+      6.39,
+      7.67,
+      8.97
+    ],
+    "Desvios": [
+      3,
+      2.96,
+      1.96
+    ],
+    "Docentes": [
+      "NEIL DE OLIVEIRA LIMA FILHO"
+    ],
+    "DesvioDeNotas": 1.053291138395374,
+    "MediaDeNotas": 7.676666666666667,
+    "MediaDeDesvios": 2.64,
+    "NotaMediana": 7.67
+  },
+  "DET0157 - HISTÓRIA DA INDUMENTÁRIA": {
+    "Notas": [
+      8.47,
+      9.24,
+      9.59,
+      9.84
+    ],
+    "Desvios": [
+      1.52,
+      1.57,
+      0.74,
+      1.33
+    ],
+    "Docentes": [
+      "PAULO HONORIO DA COSTA FONSECA",
+      "DEBORA FONTES PINTO"
+    ],
+    "DesvioDeNotas": 0.5165510623355639,
+    "MediaDeNotas": 9.285,
+    "MediaDeDesvios": 1.29,
+    "NotaMediana": 9.59
+  },
+  "DET0110 - ENGENHARIA DO FIO I": {
+    "Notas": [
+      9.22,
+      9.61,
+      9.7,
+      9.8
+    ],
+    "Desvios": [
+      0.89,
+      1.61,
+      1.04,
+      1.16
+    ],
+    "Docentes": [
+      "ROGERSON RODRIGUES FREIRE RAMOS"
+    ],
+    "DesvioDeNotas": 0.21981526334629248,
+    "MediaDeNotas": 9.5825,
+    "MediaDeDesvios": 1.175,
+    "NotaMediana": 9.7
+  },
+  "DET0114 - ENGENHARIA DO FIO III": {
+    "Notas": [
+      9.02,
+      9.31,
+      9.58
+    ],
+    "Desvios": [
+      1.27,
+      1.48,
+      1.13
+    ],
+    "Docentes": [
+      "ROGERSON RODRIGUES FREIRE RAMOS"
+    ],
+    "DesvioDeNotas": 0.22866763848190014,
+    "MediaDeNotas": 9.303333333333333,
+    "MediaDeDesvios": 1.2933333333333332,
+    "NotaMediana": 9.31
+  },
+  "DET0140 - PROCESSOS QUÍMICOS TÊXTEIS I": {
+    "Notas": [
+      8.25,
+      8.89,
+      9.49,
+      9.71
+    ],
+    "Desvios": [
+      2.78,
+      1.1,
+      1.15,
+      1.52
+    ],
+    "Docentes": [
+      "SILVAGNER ADOLPHO VERISSIMO",
+      "BRENNO HENRIQUE SILVA FELIPE"
+    ],
+    "DesvioDeNotas": 0.5678688228807779,
+    "MediaDeNotas": 9.085,
+    "MediaDeDesvios": 1.6374999999999997,
+    "NotaMediana": 9.49
+  },
+  "DET0101 - CIÊNCIA DOS MATERIAIS TÊXTEIS": {
+    "Notas": [
+      10,
+      8.81,
+      9.23,
+      9.36,
+      9.46
+    ],
+    "Desvios": [
+      1.4,
+      2.24,
+      0,
+      1.75,
+      1.13
+    ],
+    "Docentes": [
+      "VIVIANE MUNIZ FONSECA",
+      "CLOVIS DE MEDEIROS BEZERRA",
+      "MICHELLE CEQUEIRA FEITOR"
+    ],
+    "DesvioDeNotas": 0.3842603284233228,
+    "MediaDeNotas": 9.372,
+    "MediaDeDesvios": 1.304,
+    "NotaMediana": 9.23
+  },
+  "DET0103 - ENGENHARIA DOS POLÍMEROS E DAS FIBRAS I": {
+    "Notas": [
+      9.25,
+      9.27,
+      9.45,
+      9.59,
+      9.65
+    ],
+    "Desvios": [
+      1.73,
+      1.42,
+      1.67,
+      1.76,
+      1.38
+    ],
+    "Docentes": [
+      "VIVIANE MUNIZ FONSECA",
+      "CLOVIS DE MEDEIROS BEZERRA"
+    ],
+    "DesvioDeNotas": 0.1622837022008065,
+    "MediaDeNotas": 9.441999999999998,
+    "MediaDeDesvios": 1.592,
+    "NotaMediana": 9.45
+  },
+  "DET0104 - ENGENHARIA DOS POLÍMEROS E DAS FIBRAS II": {
+    "Notas": [
+      7.71,
+      8.47,
+      8.98,
+      9.29,
+      9.52
+    ],
+    "Desvios": [
+      1.31,
+      1.87,
+      1.83,
+      1.85,
+      2.18
+    ],
+    "Docentes": [
+      "VIVIANE MUNIZ FONSECA",
+      "CLOVIS DE MEDEIROS BEZERRA"
+    ],
+    "DesvioDeNotas": 0.6461764464912039,
+    "MediaDeNotas": 8.794,
+    "MediaDeDesvios": 1.8079999999999998,
+    "NotaMediana": 8.98
+  },
+  "DET0135 - ANÁLISE DE CUSTOS INDUSTRIAIS": {
+    "Notas": [
+      8.13,
+      9.09
+    ],
+    "Desvios": [
+      1.65,
+      2.02
+    ],
+    "Docentes": [
+      "IRAN MARQUES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.47999999999999954,
+    "MediaDeNotas": 8.61,
+    "MediaDeDesvios": 1.835,
+    "NotaMediana": 9.09
+  },
+  "DET0137 - PLANEJAMENTO E CONTROLE DA PRODUÇÃO TÊXTIL": {
+    "Notas": [
+      8.06,
+      8.81,
+      9.85
+    ],
+    "Desvios": [
+      2.07,
+      0.99,
+      1.41
+    ],
+    "Docentes": [
+      "IRAN MARQUES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.7339542825604932,
+    "MediaDeNotas": 8.906666666666666,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 8.81
+  },
+  "DET0138 - GESTÃO AMBIENTAL": {
+    "Notas": [
+      10,
+      9.99
+    ],
+    "Desvios": [
+      0.87,
+      0.7
+    ],
+    "Docentes": [
+      "LUCIANI PAOLA ROCHA CRUZ BARROS"
+    ],
+    "DesvioDeNotas": 0.004999999999999893,
+    "MediaDeNotas": 9.995000000000001,
+    "MediaDeDesvios": 0.7849999999999999,
+    "NotaMediana": 9.99
+  },
+  "DET0129 - CONTROLE DE QUALIDADE APLICADO À ENGENHARIA TÊXTIL II": {
+    "Notas": [
+      6.02,
+      8.88,
+      8.97
+    ],
+    "Desvios": [
+      2.85,
+      1.8,
+      1.42
+    ],
+    "Docentes": [
+      "MOISES VIEIRA DE MELO"
+    ],
+    "DesvioDeNotas": 1.3699229499825494,
+    "MediaDeNotas": 7.956666666666667,
+    "MediaDeDesvios": 2.0233333333333334,
+    "NotaMediana": 8.88
+  },
+  "DET0128 - TRIBOLOGIA TÊXTIL": {
+    "Notas": [
+      9.38
+    ],
+    "Desvios": [
+      0.95
+    ],
+    "Docentes": [
+      "MOISES VIEIRA DE MELO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.38,
+    "MediaDeDesvios": 0.95,
+    "NotaMediana": 9.38
+  },
+  "DET0154 - DESENHO DE MODA I": {
+    "Notas": [
+      9.41,
+      9.58
+    ],
+    "Desvios": [
+      1.57,
+      1.89
+    ],
+    "Docentes": [
+      "PAULO HONORIO DA COSTA FONSECA"
+    ],
+    "DesvioDeNotas": 0.08499999999999996,
+    "MediaDeNotas": 9.495000000000001,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.58
+  },
+  "DET0134 - GESTÃO DA PRODUÇÃO E PROJETOS": {
+    "Notas": [
+      9.18,
+      9.34,
+      9.55
+    ],
+    "Desvios": [
+      1.55,
+      1.78,
+      1.15
+    ],
+    "Docentes": [
+      "ROGERSON RODRIGUES FREIRE RAMOS"
+    ],
+    "DesvioDeNotas": 0.1515109090315139,
+    "MediaDeNotas": 9.356666666666667,
+    "MediaDeDesvios": 1.4933333333333334,
+    "NotaMediana": 9.34
+  },
+  "DET0171 - MODA": {
+    "Notas": [
+      9.74,
+      9.75
+    ],
+    "Desvios": [
+      1.74,
+      0.97
+    ],
+    "Docentes": [
+      "DEBORA FONTES PINTO"
+    ],
+    "DesvioDeNotas": 0.004999999999999893,
+    "MediaDeNotas": 9.745000000000001,
+    "MediaDeDesvios": 1.355,
+    "NotaMediana": 9.75
+  },
+  "DET0118 - TEMPOS E MOVIMENTOS EM PROCESSOS TÊXTEIS": {
+    "Notas": [
+      8.47
+    ],
+    "Desvios": [
+      1.55
+    ],
+    "Docentes": [
+      "CHRISTIANE SIQUEIRA DE AZEVEDO SA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.47,
+    "MediaDeDesvios": 1.55,
+    "NotaMediana": 8.47
+  },
+  "DEM0404 - TRANSMISSAO DE CALOR": {
+    "Notas": [
+      8.86
+    ],
+    "Desvios": [
+      1.51
+    ],
+    "Docentes": [
+      "MARCOS SILVA DE AQUINO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.86,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 8.86
+  }
+}

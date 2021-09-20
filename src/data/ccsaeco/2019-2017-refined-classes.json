@@ -1,0 +1,1131 @@
+{
+  "ECO2535 - ECONOMIA EMPRESARIAL II: ELABORAÇÃO E ANÁLISE DE PROJETOS": {
+    "Notas": [
+      9.09
+    ],
+    "Desvios": [
+      1.75
+    ],
+    "Docentes": [
+      "ALICE ALOISIA DA CRUZ"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.09,
+    "MediaDeDesvios": 1.75,
+    "NotaMediana": 9.09
+  },
+  "ECO1102 - INTRODUÇÃO A MICROECONOMIA": {
+    "Notas": [
+      9.02,
+      9.16,
+      9.52,
+      9.66,
+      9.68,
+      9.75
+    ],
+    "Desvios": [
+      1.81,
+      1.83,
+      2,
+      2.27,
+      1.37,
+      1.61
+    ],
+    "Docentes": [
+      "ALICE ALOISIA DA CRUZ",
+      "LUZIENE DANTAS DE MACEDO"
+    ],
+    "DesvioDeNotas": 0.27675199487387026,
+    "MediaDeNotas": 9.464999999999998,
+    "MediaDeDesvios": 1.8150000000000002,
+    "NotaMediana": 9.66
+  },
+  "ECO1010 - INTRODUÇÃO À PESQUISA EM ECONOMIA": {
+    "Notas": [
+      8.83,
+      9.69,
+      9.74
+    ],
+    "Desvios": [
+      1.8,
+      1.86,
+      2.37
+    ],
+    "Docentes": [
+      "ALICE ALOISIA DA CRUZ",
+      "JULIA ROCHA ARAUJO",
+      "VALERIA RODRIGUES LEITE"
+    ],
+    "DesvioDeNotas": 0.4176920715870324,
+    "MediaDeNotas": 9.42,
+    "MediaDeDesvios": 2.0100000000000002,
+    "NotaMediana": 9.69
+  },
+  "ECO1114 - MACROECONOMIA III": {
+    "Notas": [
+      9.53,
+      9.7,
+      9.7,
+      9.83
+    ],
+    "Desvios": [
+      1.16,
+      1.68,
+      1.68,
+      1.98
+    ],
+    "Docentes": [
+      "ANDRE LUIS CABRAL DE LOURENCO"
+    ],
+    "DesvioDeNotas": 0.10653637876331282,
+    "MediaDeNotas": 9.69,
+    "MediaDeDesvios": 1.625,
+    "NotaMediana": 9.7
+  },
+  "ECO0046 - ECONOMIA DO TURISMO": {
+    "Notas": [
+      6.83,
+      8.21,
+      8.84,
+      9.07
+    ],
+    "Desvios": [
+      2.66,
+      3.54,
+      2.96,
+      2.09
+    ],
+    "Docentes": [
+      "ANTONIO ALBERTO CORTEZ",
+      "MARIA DA LUZ GOIS CAMPOS"
+    ],
+    "DesvioDeNotas": 0.8714750426719058,
+    "MediaDeNotas": 8.2375,
+    "MediaDeDesvios": 2.8125,
+    "NotaMediana": 8.84
+  },
+  "ECO0004 - ECONOMIA PARA NUTRIÇAO": {
+    "Notas": [
+      7.56,
+      8.65,
+      9.59,
+      9.94
+    ],
+    "Desvios": [
+      3.41,
+      1.44,
+      1.99,
+      0.84
+    ],
+    "Docentes": [
+      "ANTONIO ALBERTO CORTEZ",
+      "VALERIA RODRIGUES LEITE",
+      "SYLVIA FERREIRA MARQUES"
+    ],
+    "DesvioDeNotas": 0.9234311019236897,
+    "MediaDeNotas": 8.934999999999999,
+    "MediaDeDesvios": 1.92,
+    "NotaMediana": 9.59
+  },
+  "ECO1101 - INTRODUÇÃO A MACROECONOMIA": {
+    "Notas": [
+      9.3,
+      9.38,
+      9.49,
+      9.57,
+      9.58
+    ],
+    "Desvios": [
+      1.88,
+      1.93,
+      1.81,
+      2.09,
+      1.65
+    ],
+    "Docentes": [
+      "CASSIANO JOSE BEZERRA MARQUES TROVAO",
+      "ELIVANIA BEZERRA DE MELO"
+    ],
+    "DesvioDeNotas": 0.10892199043352056,
+    "MediaDeNotas": 9.464,
+    "MediaDeDesvios": 1.8719999999999999,
+    "NotaMediana": 9.49
+  },
+  "ECO0003 - MACROECONOMIA PARA ADMINISTRAÇÃO": {
+    "Notas": [
+      7.78,
+      9.17,
+      9.23,
+      9.43,
+      9.48
+    ],
+    "Desvios": [
+      2.2,
+      2.05,
+      2.92,
+      1.43,
+      1.69
+    ],
+    "Docentes": [
+      "CASSIANO JOSE BEZERRA MARQUES TROVAO",
+      "DANIELLA MEDEIROS CAVALCANTI",
+      "ZIVANILSON TEIXEIRA E SILVA"
+    ],
+    "DesvioDeNotas": 0.6299015796138314,
+    "MediaDeNotas": 9.018,
+    "MediaDeDesvios": 2.058,
+    "NotaMediana": 9.23
+  },
+  "ECO1327 - ECONOMIA INTERNACIONAL II": {
+    "Notas": [
+      9.15,
+      9.54,
+      9.58,
+      9.71
+    ],
+    "Desvios": [
+      1.5,
+      1.71,
+      1.92,
+      1.36
+    ],
+    "Docentes": [
+      "DENILSON DA SILVA ARAUJO"
+    ],
+    "DesvioDeNotas": 0.20886598574205426,
+    "MediaDeNotas": 9.495,
+    "MediaDeDesvios": 1.6225,
+    "NotaMediana": 9.58
+  },
+  "ECO1221 - FORMAÇÃO ECONOMICA DO BRASIL I": {
+    "Notas": [
+      8.77,
+      9.29,
+      9.63,
+      9.78
+    ],
+    "Desvios": [
+      1.57,
+      1.55,
+      2.07,
+      1.97
+    ],
+    "Docentes": [
+      "DENILSON DA SILVA ARAUJO"
+    ],
+    "DesvioDeNotas": 0.38796745997570486,
+    "MediaDeNotas": 9.3675,
+    "MediaDeDesvios": 1.7899999999999998,
+    "NotaMediana": 9.63
+  },
+  "ECO1413 - ESTATISTICA ECONOMICA I": {
+    "Notas": [
+      8.64,
+      9.37,
+      9.58,
+      9.8
+    ],
+    "Desvios": [
+      1.81,
+      1.92,
+      1.45,
+      2.27
+    ],
+    "Docentes": [
+      "DIEGO DE MARIA ANDRE",
+      "JORGE LUIZ MARIANO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.43585404667158933,
+    "MediaDeNotas": 9.3475,
+    "MediaDeDesvios": 1.8624999999999998,
+    "NotaMediana": 9.58
+  },
+  "ECO1410 - INTRODUÇÃO À ECONOMIA MATEMÁTICA": {
+    "Notas": [
+      9.31,
+      9.57,
+      9.65,
+      9.82
+    ],
+    "Desvios": [
+      2.04,
+      1.59,
+      1.36,
+      1.37
+    ],
+    "Docentes": [
+      "DIEGO DE MARIA ANDRE"
+    ],
+    "DesvioDeNotas": 0.1838987493160298,
+    "MediaDeNotas": 9.5875,
+    "MediaDeDesvios": 1.59,
+    "NotaMediana": 9.65
+  },
+  "ECO1108 - ECONOMIA CLASSICA": {
+    "Notas": [
+      8.08,
+      8.67,
+      9.12
+    ],
+    "Desvios": [
+      2.18,
+      2.06,
+      2.45
+    ],
+    "Docentes": [
+      "ELIVANIA BEZERRA DE MELO",
+      "ESTHER MAJEROWICZ GOUVEIA"
+    ],
+    "DesvioDeNotas": 0.4258586098173375,
+    "MediaDeNotas": 8.623333333333333,
+    "MediaDeDesvios": 2.23,
+    "NotaMediana": 8.67
+  },
+  "ECO0312 - ECONOMIA PARA ADMINISTRACAO": {
+    "Notas": [
+      8.21,
+      8.73,
+      9.06,
+      9.12,
+      9.23,
+      9.48
+    ],
+    "Desvios": [
+      1.8,
+      2.13,
+      1.92,
+      1.75,
+      2.42,
+      1.45
+    ],
+    "Docentes": [
+      "ELIVANIA BEZERRA DE MELO",
+      "VALERIA RODRIGUES LEITE",
+      "MARIA DA LUZ GOIS CAMPOS",
+      "SYLVIA FERREIRA MARQUES"
+    ],
+    "DesvioDeNotas": 0.40691590722845355,
+    "MediaDeNotas": 8.971666666666666,
+    "MediaDeDesvios": 1.9116666666666664,
+    "NotaMediana": 9.12
+  },
+  "ECO0120 - ECONOMIA POLITICA": {
+    "Notas": [
+      6.89,
+      6.95,
+      7.31,
+      7.9,
+      7.91,
+      8.94,
+      9.49,
+      9.64
+    ],
+    "Desvios": [
+      1.91,
+      3.38,
+      3.44,
+      3.51,
+      2.84,
+      3.13,
+      1.27,
+      1.44
+    ],
+    "Docentes": [
+      "ELIVANIA BEZERRA DE MELO",
+      "ZIVANILSON TEIXEIRA E SILVA",
+      "FRANCISCO NABUCO DE ALMEIDA BARRETO NETO",
+      "MARIA DO SOCORRO GONDIM TEIXEIRA",
+      "DANIELLA MEDEIROS CAVALCANTI",
+      "SYLVIA FERREIRA MARQUES"
+    ],
+    "DesvioDeNotas": 1.030138795260134,
+    "MediaDeNotas": 8.128749999999998,
+    "MediaDeDesvios": 2.615,
+    "NotaMediana": 7.91
+  },
+  "ECO1324 - ECONOMIA INTERNACIONAL I": {
+    "Notas": [
+      7.24,
+      8.24,
+      8.32
+    ],
+    "Desvios": [
+      2.46,
+      2.5,
+      3.33
+    ],
+    "Docentes": [
+      "ESTHER MAJEROWICZ GOUVEIA"
+    ],
+    "DesvioDeNotas": 0.4913473539383541,
+    "MediaDeNotas": 7.9333333333333345,
+    "MediaDeDesvios": 2.763333333333333,
+    "NotaMediana": 8.24
+  },
+  "ECO1123 - CONTABILIDADE SOCIAL": {
+    "Notas": [
+      9.39,
+      9.59,
+      9.66,
+      9.75
+    ],
+    "Desvios": [
+      1.8,
+      1.39,
+      2.04,
+      1.27
+    ],
+    "Docentes": [
+      "FABRICIO PITOMBO LEITE"
+    ],
+    "DesvioDeNotas": 0.13254716141811543,
+    "MediaDeNotas": 9.5975,
+    "MediaDeDesvios": 1.625,
+    "NotaMediana": 9.66
+  },
+  "ECO1106 - MACROECONOMIA I": {
+    "Notas": [
+      9.52,
+      9.57,
+      9.7,
+      9.82
+    ],
+    "Desvios": [
+      1.99,
+      1.82,
+      1.36,
+      1.72
+    ],
+    "Docentes": [
+      "FABRICIO PITOMBO LEITE"
+    ],
+    "DesvioDeNotas": 0.11691342951089932,
+    "MediaDeNotas": 9.6525,
+    "MediaDeDesvios": 1.7225,
+    "NotaMediana": 9.7
+  },
+  "ECO0311 - ECONOMIA PARA ENGENHARIA": {
+    "Notas": [
+      5.33,
+      5.6,
+      6.11,
+      6.13,
+      6.22,
+      6.27,
+      6.3,
+      6.57,
+      7.09,
+      7.64,
+      7.99,
+      8.41,
+      8.53,
+      8.88
+    ],
+    "Desvios": [
+      3.03,
+      3.24,
+      2.91,
+      2.09,
+      3.46,
+      3.32,
+      3.15,
+      3.27,
+      3.28,
+      3.34,
+      3.65,
+      3.75,
+      1.35,
+      2.17
+    ],
+    "Docentes": [
+      "FRANCISCO NABUCO DE ALMEIDA BARRETO NETO",
+      "LUCIA HELENA ALVES DA COSTA",
+      "ZIVANILSON TEIXEIRA E SILVA"
+    ],
+    "DesvioDeNotas": 1.1120611952769581,
+    "MediaDeNotas": 6.933571428571428,
+    "MediaDeDesvios": 3.000714285714286,
+    "NotaMediana": 6.57
+  },
+  "ECO0001 - INTRODUCAO A ECONOMIA I": {
+    "Notas": [
+      7.33,
+      7.93,
+      8.23,
+      8.48,
+      8.54,
+      8.65,
+      8.75,
+      9.5
+    ],
+    "Desvios": [
+      3.45,
+      2.85,
+      2.02,
+      2.72,
+      2.41,
+      2.58,
+      1.58,
+      2.2
+    ],
+    "Docentes": [
+      "FRANCISCO NABUCO DE ALMEIDA BARRETO NETO",
+      "MARIA DA LUZ GOIS CAMPOS",
+      "ELIVANIA BEZERRA DE MELO",
+      "DANIELLA MEDEIROS CAVALCANTI",
+      "SYLVIA FERREIRA MARQUES",
+      "ZIVANILSON TEIXEIRA E SILVA"
+    ],
+    "DesvioDeNotas": 0.5926832522519934,
+    "MediaDeNotas": 8.42625,
+    "MediaDeDesvios": 2.47625,
+    "NotaMediana": 8.54
+  },
+  "ECO1229 - ECONOMIA BRASILEIRA CONTEMPORANEA I": {
+    "Notas": [
+      8.03,
+      8.36,
+      8.81,
+      9.34
+    ],
+    "Desvios": [
+      2.28,
+      2.09,
+      1.75,
+      1.18
+    ],
+    "Docentes": [
+      "FRANCISCO WELLINGTON DUARTE",
+      "MARCONI GOMES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.49226517244265844,
+    "MediaDeNotas": 8.635000000000002,
+    "MediaDeDesvios": 1.8249999999999997,
+    "NotaMediana": 8.81
+  },
+  "ECO1112 - ECONOMIA POLITICA I": {
+    "Notas": [
+      7.65,
+      8.5,
+      8.67,
+      9.4
+    ],
+    "Desvios": [
+      2.03,
+      2.29,
+      1.86,
+      1.97
+    ],
+    "Docentes": [
+      "FRANCISCO WELLINGTON DUARTE",
+      "WILLIAM EUFRASIO NUNES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.6223544006432348,
+    "MediaDeNotas": 8.555,
+    "MediaDeDesvios": 2.0375,
+    "NotaMediana": 8.67
+  },
+  "ECO1105 - MICROECONOMIA I": {
+    "Notas": [
+      9.41,
+      9.52,
+      9.54,
+      9.77
+    ],
+    "Desvios": [
+      2.05,
+      2,
+      1.39,
+      1.34
+    ],
+    "Docentes": [
+      "IGOR EZIO MACIEL SILVA"
+    ],
+    "DesvioDeNotas": 0.1309580085370878,
+    "MediaDeNotas": 9.559999999999999,
+    "MediaDeDesvios": 1.6949999999999998,
+    "NotaMediana": 9.54
+  },
+  "ECO1418 - ESTATISTICA ECONOMICA II": {
+    "Notas": [
+      9.31,
+      9.4,
+      9.57,
+      9.86
+    ],
+    "Desvios": [
+      1.42,
+      1.23,
+      1.65,
+      1.41
+    ],
+    "Docentes": [
+      "JANAINA DA SILVA ALVES"
+    ],
+    "DesvioDeNotas": 0.20958291915134647,
+    "MediaDeNotas": 9.535,
+    "MediaDeDesvios": 1.4275,
+    "NotaMediana": 9.57
+  },
+  "ECO1422 - INTRODUÇÃO À ECONOMETRIA": {
+    "Notas": [
+      9.12,
+      9.66,
+      9.75
+    ],
+    "Desvios": [
+      1.55,
+      1.87,
+      1.19
+    ],
+    "Docentes": [
+      "JANAINA DA SILVA ALVES",
+      "JULIA ROCHA ARAUJO"
+    ],
+    "DesvioDeNotas": 0.2782085548648715,
+    "MediaDeNotas": 9.51,
+    "MediaDeDesvios": 1.5366666666666664,
+    "NotaMediana": 9.66
+  },
+  "ECO1525 - GESTÃO DE POLITICAS PUBLICAS I": {
+    "Notas": [
+      9.26,
+      9.38,
+      9.45,
+      9.5
+    ],
+    "Desvios": [
+      1.73,
+      1.59,
+      1.88,
+      1.6
+    ],
+    "Docentes": [
+      "JOAO MATOS FILHO"
+    ],
+    "DesvioDeNotas": 0.09010410645470043,
+    "MediaDeNotas": 9.397499999999999,
+    "MediaDeDesvios": 1.7000000000000002,
+    "NotaMediana": 9.45
+  },
+  "ECO1411 - ECONOMIA MATEMATICA I": {
+    "Notas": [
+      9.71,
+      9.71,
+      9.75,
+      9.93
+    ],
+    "Desvios": [
+      1.73,
+      1.4,
+      1.44,
+      1.07
+    ],
+    "Docentes": [
+      "JOAO PAULO MARTINS GUEDES"
+    ],
+    "DesvioDeNotas": 0.09096702699330082,
+    "MediaDeNotas": 9.775,
+    "MediaDeDesvios": 1.4100000000000001,
+    "NotaMediana": 9.75
+  },
+  "ECO1409 - MÉTODOS QUANTITATIVOS EM ECONOMIA": {
+    "Notas": [
+      9.6,
+      9.69,
+      9.73,
+      9.75
+    ],
+    "Desvios": [
+      1.89,
+      2.14,
+      2.03,
+      1.29
+    ],
+    "Docentes": [
+      "JOAO PAULO MARTINS GUEDES"
+    ],
+    "DesvioDeNotas": 0.05760859310901478,
+    "MediaDeNotas": 9.692499999999999,
+    "MediaDeDesvios": 1.8375000000000001,
+    "NotaMediana": 9.73
+  },
+  "ECO1528 - ECONOMIA EMPRESARIAL I": {
+    "Notas": [
+      8.29,
+      9.07,
+      9.45,
+      9.86
+    ],
+    "Desvios": [
+      1.18,
+      1.88,
+      2.24,
+      1.15
+    ],
+    "Docentes": [
+      "JULIA ROCHA ARAUJO",
+      "VALERIA RODRIGUES LEITE",
+      "THALES AUGUSTO MEDEIROS PENHA"
+    ],
+    "DesvioDeNotas": 0.5785488311283673,
+    "MediaDeNotas": 9.1675,
+    "MediaDeDesvios": 1.6124999999999998,
+    "NotaMediana": 9.45
+  },
+  "ECO1530 - METODOS E TECNICAS DE PESQUISA I": {
+    "Notas": [
+      7.85,
+      9.18,
+      9.4,
+      9.7
+    ],
+    "Desvios": [
+      1.24,
+      1.73,
+      1.48,
+      2.32
+    ],
+    "Docentes": [
+      "JULIA ROCHA ARAUJO",
+      "THALES AUGUSTO MEDEIROS PENHA",
+      "JORGE LUIZ MARIANO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.7072260953895861,
+    "MediaDeNotas": 9.0325,
+    "MediaDeDesvios": 1.6925,
+    "NotaMediana": 9.4
+  },
+  "ECO1332 - DESENVOLVIMENTO ECONÔMICO REGIONAL": {
+    "Notas": [
+      9.32,
+      9.43,
+      9.57,
+      9.75
+    ],
+    "Desvios": [
+      1.98,
+      1.34,
+      1.78,
+      1.5
+    ],
+    "Docentes": [
+      "JULIANA BACELAR DE ARAUJO",
+      "DENILSON DA SILVA ARAUJO"
+    ],
+    "DesvioDeNotas": 0.16083765106466827,
+    "MediaDeNotas": 9.5175,
+    "MediaDeDesvios": 1.6500000000000001,
+    "NotaMediana": 9.57
+  },
+  "ECO1011 - HISTÓRIA ECONÔMICA GERAL I": {
+    "Notas": [
+      8.08,
+      8.62,
+      9.03,
+      9.41
+    ],
+    "Desvios": [
+      2,
+      2.03,
+      2.58,
+      2.1
+    ],
+    "Docentes": [
+      "JULIANA BACELAR DE ARAUJO",
+      "WILLIAM EUFRASIO NUNES PEREIRA",
+      "MARIA DO SOCORRO GONDIM TEIXEIRA"
+    ],
+    "DesvioDeNotas": 0.4936851223198852,
+    "MediaDeNotas": 8.784999999999998,
+    "MediaDeDesvios": 2.1774999999999998,
+    "NotaMediana": 9.03
+  },
+  "ECO0419 - ECONOMIA PARA PROJETOS AQUICOLAS": {
+    "Notas": [
+      5.2,
+      8.9
+    ],
+    "Desvios": [
+      3.77,
+      2.28
+    ],
+    "Docentes": [
+      "LUCIA HELENA ALVES DA COSTA",
+      "ELIVANIA BEZERRA DE MELO"
+    ],
+    "DesvioDeNotas": 1.85,
+    "MediaDeNotas": 7.050000000000001,
+    "MediaDeDesvios": 3.025,
+    "NotaMediana": 8.9
+  },
+  "ECO1110 - MICROECONOMIA II": {
+    "Notas": [
+      8.49,
+      8.9,
+      8.91,
+      9.39
+    ],
+    "Desvios": [
+      1.93,
+      2.07,
+      2.12,
+      1.48
+    ],
+    "Docentes": [
+      "LUZIENE DANTAS DE MACEDO"
+    ],
+    "DesvioDeNotas": 0.31869852525545217,
+    "MediaDeNotas": 8.9225,
+    "MediaDeDesvios": 1.9,
+    "NotaMediana": 8.91
+  },
+  "ECO1116 - ECONOMIA MONETARIA E FINANCEIRA": {
+    "Notas": [
+      6.86,
+      8.39,
+      8.43,
+      8.46
+    ],
+    "Desvios": [
+      2.63,
+      2.76,
+      2.08,
+      2.27
+    ],
+    "Docentes": [
+      "MARCIA MARIA DE OLIVEIRA BEZERRA"
+    ],
+    "DesvioDeNotas": 0.6788409239284268,
+    "MediaDeNotas": 8.035,
+    "MediaDeDesvios": 2.435,
+    "NotaMediana": 8.43
+  },
+  "ECO1109 - MACROECONOMIA II": {
+    "Notas": [
+      8.6,
+      8.64,
+      9.46,
+      9.88
+    ],
+    "Desvios": [
+      2.38,
+      1.22,
+      2.48,
+      1.76
+    ],
+    "Docentes": [
+      "MARCIA MARIA DE OLIVEIRA BEZERRA",
+      "ANDRE LUIS CABRAL DE LOURENCO"
+    ],
+    "DesvioDeNotas": 0.5457792594080507,
+    "MediaDeNotas": 9.145,
+    "MediaDeDesvios": 1.96,
+    "NotaMediana": 9.46
+  },
+  "ECO1331 - DESENVOLVIMENTO ECONÔMICO": {
+    "Notas": [
+      9.2,
+      9.27,
+      9.47
+    ],
+    "Desvios": [
+      1.46,
+      2.09,
+      1.43
+    ],
+    "Docentes": [
+      "MARCONI GOMES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.11440668201153735,
+    "MediaDeNotas": 9.313333333333334,
+    "MediaDeDesvios": 1.66,
+    "NotaMediana": 9.27
+  },
+  "ECO1226 - FORMAÇÃO ECONOMICA DO BRASIL II": {
+    "Notas": [
+      8.44,
+      8.5,
+      8.85,
+      9.06
+    ],
+    "Desvios": [
+      2.29,
+      2.24,
+      2.48,
+      1.92
+    ],
+    "Docentes": [
+      "MARCONI GOMES DA SILVA",
+      "FRANCISCO WELLINGTON DUARTE"
+    ],
+    "DesvioDeNotas": 0.2544970530281247,
+    "MediaDeNotas": 8.7125,
+    "MediaDeDesvios": 2.2325,
+    "NotaMediana": 8.85
+  },
+  "ECO0506 - FUNDAMENTOS DE ECONOMIA POLITICA": {
+    "Notas": [
+      7.65,
+      7.67,
+      8.09,
+      9.01
+    ],
+    "Desvios": [
+      3.04,
+      3.04,
+      2.82,
+      2.09
+    ],
+    "Docentes": [
+      "MARIA DA LUZ GOIS CAMPOS"
+    ],
+    "DesvioDeNotas": 0.551248582764618,
+    "MediaDeNotas": 8.105,
+    "MediaDeDesvios": 2.7475,
+    "NotaMediana": 8.09
+  },
+  "ECO1115 - MICROECONOMIA III": {
+    "Notas": [
+      6.84,
+      8.5,
+      8.86,
+      9.04
+    ],
+    "Desvios": [
+      2.35,
+      2.06,
+      3.35,
+      2.1
+    ],
+    "Docentes": [
+      "MARIA LUSSIEU DA SILVA"
+    ],
+    "DesvioDeNotas": 0.8706893820416094,
+    "MediaDeNotas": 8.309999999999999,
+    "MediaDeDesvios": 2.465,
+    "NotaMediana": 8.86
+  },
+  "ECO1120 - MICROECONOMIA IV": {
+    "Notas": [
+      7.65,
+      8.76,
+      9.41,
+      9.44
+    ],
+    "Desvios": [
+      1.93,
+      2.95,
+      2.43,
+      1.65
+    ],
+    "Docentes": [
+      "MARIA LUSSIEU DA SILVA"
+    ],
+    "DesvioDeNotas": 0.7254136750847752,
+    "MediaDeNotas": 8.815,
+    "MediaDeDesvios": 2.24,
+    "NotaMediana": 9.41
+  },
+  "ECO1519 - ECONOMIA DO SETOR PUBLICO": {
+    "Notas": [
+      9.23,
+      9.28,
+      9.39,
+      9.69
+    ],
+    "Desvios": [
+      1.62,
+      1.48,
+      2.1,
+      1.88
+    ],
+    "Docentes": [
+      "THALES AUGUSTO MEDEIROS PENHA"
+    ],
+    "DesvioDeNotas": 0.1785182063544218,
+    "MediaDeNotas": 9.3975,
+    "MediaDeDesvios": 1.77,
+    "NotaMediana": 9.39
+  },
+  "ECO0099 - ECONOMIA DO SETOR PÚBLICO": {
+    "Notas": [
+      8.31,
+      9.05,
+      9.18,
+      9.3
+    ],
+    "Desvios": [
+      1.98,
+      1.55,
+      2.13,
+      1.8
+    ],
+    "Docentes": [
+      "THALES AUGUSTO MEDEIROS PENHA",
+      "DANIELLA MEDEIROS CAVALCANTI",
+      "ELIVANIA BEZERRA DE MELO"
+    ],
+    "DesvioDeNotas": 0.38555155297314,
+    "MediaDeNotas": 8.96,
+    "MediaDeDesvios": 1.865,
+    "NotaMediana": 9.18
+  },
+  "ECO2547 - ECONOMIA DO TRABALHO II": {
+    "Notas": [
+      9.07,
+      9.55,
+      9.81
+    ],
+    "Desvios": [
+      1.61,
+      1.25,
+      1.4
+    ],
+    "Docentes": [
+      "VALDENIA APOLINARIO"
+    ],
+    "DesvioDeNotas": 0.3065217048686041,
+    "MediaDeNotas": 9.476666666666667,
+    "MediaDeDesvios": 1.42,
+    "NotaMediana": 9.55
+  },
+  "ECO1117 - ECONOMIA POLITICA II": {
+    "Notas": [
+      8.83,
+      8.96,
+      9.57,
+      9.66
+    ],
+    "Desvios": [
+      1.97,
+      1.67,
+      1.59,
+      1.82
+    ],
+    "Docentes": [
+      "VALDENIA APOLINARIO"
+    ],
+    "DesvioDeNotas": 0.3643144246389373,
+    "MediaDeNotas": 9.255,
+    "MediaDeDesvios": 1.7625,
+    "NotaMediana": 9.57
+  },
+  "ECO1207 - HISTORIA ECONOMICA GERAL II": {
+    "Notas": [
+      9.11,
+      9.32,
+      9.47,
+      9.66
+    ],
+    "Desvios": [
+      2.13,
+      1.79,
+      1.66,
+      1.44
+    ],
+    "Docentes": [
+      "VALDENIA APOLINARIO"
+    ],
+    "DesvioDeNotas": 0.2016184515365598,
+    "MediaDeNotas": 9.39,
+    "MediaDeDesvios": 1.755,
+    "NotaMediana": 9.47
+  },
+  "ECO2555 - ECONOMIA AGRÍCOLA I": {
+    "Notas": [
+      8.8,
+      9.09,
+      9.4
+    ],
+    "Desvios": [
+      2.14,
+      1.86,
+      1.98
+    ],
+    "Docentes": [
+      "JOAO MATOS FILHO"
+    ],
+    "DesvioDeNotas": 0.24499433100017265,
+    "MediaDeNotas": 9.096666666666668,
+    "MediaDeDesvios": 1.9933333333333334,
+    "NotaMediana": 9.09
+  },
+  "ECO2554 - ECONOMIA DO MEIO AMBIENTE": {
+    "Notas": [
+      9.21
+    ],
+    "Desvios": [
+      1.51
+    ],
+    "Docentes": [
+      "LUZIENE DANTAS DE MACEDO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.21,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.21
+  },
+  "ECO2104 - INTRODUÇÃO À TEORIA DA ESPECULAÇÃO": {
+    "Notas": [
+      8.52
+    ],
+    "Desvios": [
+      2.92
+    ],
+    "Docentes": [
+      "MARCIA MARIA DE OLIVEIRA BEZERRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.52,
+    "MediaDeDesvios": 2.92,
+    "NotaMediana": 8.52
+  },
+  "ICE1028 - NEUROECONOMIA": {
+    "Notas": [
+      9.06,
+      9.91
+    ],
+    "Desvios": [
+      1.78,
+      0.6
+    ],
+    "Docentes": [
+      "ZIVANILSON TEIXEIRA E SILVA"
+    ],
+    "DesvioDeNotas": 0.4249999999999998,
+    "MediaDeNotas": 9.485,
+    "MediaDeDesvios": 1.19,
+    "NotaMediana": 9.91
+  },
+  "ECO2557 - ECONOMIA DA ENERGIA": {
+    "Notas": [
+      9.35
+    ],
+    "Desvios": [
+      1.69
+    ],
+    "Docentes": [
+      "LUZIENE DANTAS DE MACEDO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.35,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.35
+  },
+  "ECO2538 - GESTÃO DE POLITICAS PUBLICAS II": {
+    "Notas": [
+      9.88
+    ],
+    "Desvios": [
+      1.16
+    ],
+    "Docentes": [
+      "THALES AUGUSTO MEDEIROS PENHA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.88,
+    "MediaDeDesvios": 1.16,
+    "NotaMediana": 9.88
+  }
+}

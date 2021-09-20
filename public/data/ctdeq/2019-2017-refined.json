@@ -1,0 +1,2084 @@
+{
+  "ANDRE LUIS LOPES MORIYAMA": {
+    "Notas": [
+      8.85,
+      8.88,
+      9.11,
+      9.11,
+      9.17,
+      9.2,
+      9.25,
+      9.34,
+      9.47,
+      9.61
+    ],
+    "Desvios": [
+      1.95,
+      1.76,
+      1.38,
+      1.07,
+      2.12,
+      1.83,
+      2.05,
+      1.75,
+      1.46,
+      1.55
+    ],
+    "Componentes": {
+      "DEQ0502 - INTRODUÇÃO A COMPUTAÇÃO PARA ENGENHARIA QUÍMICA/ALIMENTOS": {
+        "Notas": [
+          9.17,
+          9.47
+        ],
+        "Desvios": [
+          1.95,
+          1.38
+        ],
+        "DesvioDeNotas": 0.15000000000000036,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.665,
+        "NotaMediana": 9.47
+      },
+      "DEQ0631 - TERMODINAMICA APLICADA A ENGENHARIA DE ALIMENTOS": {
+        "Notas": [
+          8.85,
+          8.88
+        ],
+        "Desvios": [
+          1.76,
+          2.12
+        ],
+        "DesvioDeNotas": 0.015000000000000568,
+        "MediaDeNotas": 8.865,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 8.88
+      },
+      "DEQ0625 - TERMODINAMICA EXPERIMENTAL": {
+        "Notas": [
+          9.34,
+          9.61
+        ],
+        "Desvios": [
+          1.07,
+          1.46
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.475,
+        "MediaDeDesvios": 1.2650000000000001,
+        "NotaMediana": 9.61
+      },
+      "DEQ0510 - TERMODINÂMICA EXPERIMENTAL I": {
+        "Notas": [
+          9.11,
+          9.11,
+          9.2
+        ],
+        "Desvios": [
+          1.83,
+          2.05,
+          1.55
+        ],
+        "DesvioDeNotas": 0.042426406871192784,
+        "MediaDeNotas": 9.139999999999999,
+        "MediaDeDesvios": 1.8099999999999998,
+        "NotaMediana": 9.11
+      },
+      "DEQ0521 - CINÉTICA E REATORES QUÍMICOS": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 9.25
+      }
+    },
+    "DesvioDeNotas": 0.22474207438750754,
+    "MediaDeNotas": 9.199000000000002,
+    "MediaDeDesvios": 1.6920000000000002,
+    "NotaMediana": 9.2
+  },
+  "ANDREA OLIVEIRA NUNES": {
+    "Notas": [
+      9.57,
+      9.65,
+      9.76,
+      9.76,
+      9.86,
+      9.9,
+      9.93,
+      9.93
+    ],
+    "Desvios": [
+      1.52,
+      0.53,
+      1.69,
+      1.29,
+      1.39,
+      1.44,
+      0.88,
+      1.2
+    ],
+    "Componentes": {
+      "DEQ0521 - CINÉTICA E REATORES QUÍMICOS": {
+        "Notas": [
+          9.57,
+          9.65
+        ],
+        "Desvios": [
+          1.52,
+          1.69
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.605,
+        "NotaMediana": 9.65
+      },
+      "DEQ0614 - FENOMENOS DE TRANSPORTES I": {
+        "Notas": [
+          9.86,
+          9.93
+        ],
+        "Desvios": [
+          0.53,
+          1.39
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.895,
+        "MediaDeDesvios": 0.96,
+        "NotaMediana": 9.93
+      },
+      "DEQ0624 - FENOMENO DOS TRANSPORTES II": {
+        "Notas": [
+          9.76,
+          9.9
+        ],
+        "Desvios": [
+          1.29,
+          0.88
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 1.085,
+        "NotaMediana": 9.9
+      },
+      "DEQ0504 - TRANSPORTE DE QUANTIDADE DE MOVIMENTO": {
+        "Notas": [
+          9.76,
+          9.93
+        ],
+        "Desvios": [
+          1.44,
+          1.2
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.844999999999999,
+        "MediaDeDesvios": 1.3199999999999998,
+        "NotaMediana": 9.93
+      }
+    },
+    "DesvioDeNotas": 0.12539936203984434,
+    "MediaDeNotas": 9.794999999999998,
+    "MediaDeDesvios": 1.2425,
+    "NotaMediana": 9.86
+  },
+  "BEATRIZ DE CASSIA MARTINS SALOMAO": {
+    "Notas": [
+      9.39,
+      9.5,
+      9.6,
+      9.67,
+      9.75,
+      9.76,
+      9.82,
+      9.85,
+      9.91,
+      9.98
+    ],
+    "Desvios": [
+      0.75,
+      1.04,
+      1.6,
+      0.81,
+      0.86,
+      1.06,
+      1.3,
+      1.46,
+      1.1,
+      1.02
+    ],
+    "Componentes": {
+      "DEQ0602 - MICROBIOLOGIA DOS ALIMENTOS": {
+        "Notas": [
+          9.75,
+          9.91
+        ],
+        "Desvios": [
+          0.75,
+          1.06
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 0.905,
+        "NotaMediana": 9.91
+      },
+      "DEQ0621 - TECNOLOGIA DE CARNES E DERIVADOS": {
+        "Notas": [
+          9.85,
+          9.98
+        ],
+        "Desvios": [
+          1.04,
+          1.3
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.915,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.98
+      },
+      "DEQ0331 - CIENCIAS DO AMBIENTE": {
+        "Notas": [
+          9.5,
+          9.6
+        ],
+        "Desvios": [
+          1.6,
+          1.46
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.6
+      },
+      "DEQ0608 - HIGIENE INDUSTRIAL E LEGISLACAO": {
+        "Notas": [
+          9.39,
+          9.76
+        ],
+        "Desvios": [
+          0.81,
+          1.1
+        ],
+        "DesvioDeNotas": 0.1849999999999996,
+        "MediaDeNotas": 9.575,
+        "MediaDeDesvios": 0.9550000000000001,
+        "NotaMediana": 9.76
+      },
+      "DEQ0606 - PROCESSOS NA INDUSTRIA DE ALIMENTOS": {
+        "Notas": [
+          9.67,
+          9.82
+        ],
+        "Desvios": [
+          0.86,
+          1.02
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.745000000000001,
+        "MediaDeDesvios": 0.94,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.17527407110009166,
+    "MediaDeNotas": 9.723,
+    "MediaDeDesvios": 1.1,
+    "NotaMediana": 9.76
+  },
+  "CAMILA GAMBINI PEREIRA": {
+    "Notas": [
+      7.48,
+      7.87,
+      8.41,
+      9.01,
+      9.04,
+      9.07,
+      9.16,
+      9.25,
+      9.59
+    ],
+    "Desvios": [
+      1.52,
+      2.81,
+      2.27,
+      1.93,
+      2.03,
+      3.26,
+      2.95,
+      1.7,
+      1.7
+    ],
+    "Componentes": {
+      "DEQ0620 - OPERAÇÕES UNITÁRIAS III": {
+        "Notas": [
+          7.48,
+          9.25
+        ],
+        "Desvios": [
+          1.52,
+          3.26
+        ],
+        "DesvioDeNotas": 0.8849999999999998,
+        "MediaDeNotas": 8.365,
+        "MediaDeDesvios": 2.3899999999999997,
+        "NotaMediana": 9.25
+      },
+      "DEQ0509 - TERMODINAMICA DO EQUILIBRIO": {
+        "Notas": [
+          7.87,
+          8.41,
+          9.01,
+          9.04
+        ],
+        "Desvios": [
+          2.81,
+          2.03,
+          2.95,
+          1.7
+        ],
+        "DesvioDeNotas": 0.4820464189266421,
+        "MediaDeNotas": 8.5825,
+        "MediaDeDesvios": 2.3725,
+        "NotaMediana": 9.01
+      },
+      "DEQ0600 - INTRODUCAO A ENGENHARIA DE ALIMENTOS": {
+        "Notas": [
+          9.07,
+          9.16
+        ],
+        "Desvios": [
+          2.27,
+          1.7
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.115,
+        "MediaDeDesvios": 1.9849999999999999,
+        "NotaMediana": 9.16
+      },
+      "DEQ0370 - REFINO DE PETROLEO E PETROQUIMICA": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.6564908582102115,
+    "MediaDeNotas": 8.764444444444443,
+    "MediaDeDesvios": 2.241111111111111,
+    "NotaMediana": 9.04
+  },
+  "CARLSON PEREIRA DE SOUZA": {
+    "Notas": [
+      3.53,
+      4.69,
+      5.94,
+      6.01,
+      6.95,
+      6.99,
+      7.51,
+      8.1,
+      8.75,
+      8.75,
+      8.85
+    ],
+    "Desvios": [
+      3.21,
+      3.72,
+      1.85,
+      3.29,
+      2.53,
+      2.69,
+      1.6,
+      3.11,
+      3.62,
+      1.52,
+      2.75
+    ],
+    "Componentes": {
+      "DEQ0510 - TERMODINÂMICA EXPERIMENTAL I": {
+        "Notas": [
+          3.53,
+          5.94,
+          7.51,
+          8.1,
+          8.85
+        ],
+        "Desvios": [
+          3.21,
+          3.72,
+          2.53,
+          2.69,
+          1.52
+        ],
+        "DesvioDeNotas": 1.8882859952877902,
+        "MediaDeNotas": 6.786,
+        "MediaDeDesvios": 2.7339999999999995,
+        "NotaMediana": 7.51
+      },
+      "DEQ0519 - TERMODINÂMICA EXPERIMENTAL II": {
+        "Notas": [
+          4.69,
+          6.01,
+          6.95,
+          6.99,
+          8.75,
+          8.75
+        ],
+        "Desvios": [
+          1.85,
+          3.29,
+          1.6,
+          3.11,
+          3.62,
+          2.75
+        ],
+        "DesvioDeNotas": 1.4399382702818277,
+        "MediaDeNotas": 7.023333333333333,
+        "MediaDeDesvios": 2.703333333333333,
+        "NotaMediana": 6.99
+      }
+    },
+    "DesvioDeNotas": 1.6630277078343563,
+    "MediaDeNotas": 6.915454545454545,
+    "MediaDeDesvios": 2.7172727272727273,
+    "NotaMediana": 6.99
+  },
+  "DOMINGOS FABIANO DE SANTANA SOUZA": {
+    "Notas": [
+      8.73,
+      8.91,
+      8.97,
+      9.15,
+      9.44,
+      9.45,
+      9.55,
+      9.65,
+      9.7,
+      9.74,
+      9.84
+    ],
+    "Desvios": [
+      2.2,
+      1.94,
+      1.74,
+      1.88,
+      1.56,
+      1.45,
+      1.75,
+      2.44,
+      1.24,
+      1.42,
+      1.26
+    ],
+    "Componentes": {
+      "DEQ0305 - FENOMENOS DE TRANSPORTE EXPERIMENTAL": {
+        "Notas": [
+          8.91,
+          8.97,
+          9.15,
+          9.45,
+          9.7,
+          9.84
+        ],
+        "Desvios": [
+          2.2,
+          1.56,
+          1.75,
+          2.44,
+          1.42,
+          1.26
+        ],
+        "DesvioDeNotas": 0.3534433790895254,
+        "MediaDeNotas": 9.336666666666668,
+        "MediaDeDesvios": 1.7716666666666665,
+        "NotaMediana": 9.45
+      },
+      "DEQ0633 - INTRODUÇÃO A COMPUTAÇÃO PARA ENGENHARIA QUÍMICA/ALIMENTOS": {
+        "Notas": [
+          9.65,
+          9.74
+        ],
+        "Desvios": [
+          1.94,
+          1.24
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.695,
+        "MediaDeDesvios": 1.5899999999999999,
+        "NotaMediana": 9.74
+      },
+      "DEQ0504 - TRANSPORTE DE QUANTIDADE DE MOVIMENTO": {
+        "Notas": [
+          9.44,
+          9.55
+        ],
+        "Desvios": [
+          1.74,
+          1.45
+        ],
+        "DesvioDeNotas": 0.055000000000000604,
+        "MediaDeNotas": 9.495000000000001,
+        "MediaDeDesvios": 1.595,
+        "NotaMediana": 9.55
+      },
+      "DEQ0626 - FENOMENOS DE TRANSPORTE EXPERIMENTAL": {
+        "Notas": [
+          8.73
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.73,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 8.73
+      }
+    },
+    "DesvioDeNotas": 0.35904832889088717,
+    "MediaDeNotas": 9.375454545454547,
+    "MediaDeDesvios": 1.7163636363636363,
+    "NotaMediana": 9.45
+  },
+  "EDUARDO LINS DE BARROS NETO": {
+    "Notas": [
+      8.11,
+      8.75,
+      8.79,
+      8.92,
+      9.24,
+      9.25,
+      9.4,
+      9.48,
+      9.63,
+      9.66,
+      9.76,
+      9.79
+    ],
+    "Desvios": [
+      2.38,
+      2.37,
+      1.65,
+      1.18,
+      1.52,
+      2.46,
+      2.44,
+      2.47,
+      1.55,
+      1.17,
+      1.44,
+      1.16
+    ],
+    "Componentes": {
+      "DEQ0518 - LABORATÓRIO DE OPERAÇÕES UNITÁRIAS II": {
+        "Notas": [
+          8.75,
+          8.79,
+          8.92,
+          9.24,
+          9.25,
+          9.48
+        ],
+        "Desvios": [
+          2.38,
+          2.37,
+          1.65,
+          2.46,
+          2.44,
+          1.55
+        ],
+        "DesvioDeNotas": 0.26854029285917047,
+        "MediaDeNotas": 9.071666666666667,
+        "MediaDeDesvios": 2.1416666666666666,
+        "NotaMediana": 9.24
+      },
+      "DEQ0516 - LABORATÓRIO DE OPERAÇÕES UNITÁRIAS I": {
+        "Notas": [
+          8.11,
+          9.4,
+          9.63,
+          9.66,
+          9.76
+        ],
+        "Desvios": [
+          1.18,
+          1.52,
+          2.47,
+          1.17,
+          1.44
+        ],
+        "DesvioDeNotas": 0.6124508143516509,
+        "MediaDeNotas": 9.312000000000001,
+        "MediaDeDesvios": 1.5559999999999998,
+        "NotaMediana": 9.63
+      },
+      "DEQ0312 - OPERACOES UNITARIAS II": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.16,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.48354305794715846,
+    "MediaDeNotas": 9.231666666666667,
+    "MediaDeDesvios": 1.8158333333333332,
+    "NotaMediana": 9.4
+  },
+  "EVERALDO SILVINO DOS SANTOS": {
+    "Notas": [
+      6.86,
+      7.86,
+      8.04,
+      8.18,
+      8.27,
+      8.44,
+      8.5,
+      8.75
+    ],
+    "Desvios": [
+      3.01,
+      3.26,
+      3.09,
+      2.64,
+      3.2,
+      3.04,
+      1.9,
+      2.58
+    ],
+    "Componentes": {
+      "DEQ0524 - ENGENHARIA BIOQUIMICA": {
+        "Notas": [
+          6.86,
+          8.04,
+          8.27,
+          8.75
+        ],
+        "Desvios": [
+          3.01,
+          3.09,
+          3.2,
+          1.9
+        ],
+        "DesvioDeNotas": 0.6955213871621776,
+        "MediaDeNotas": 7.9799999999999995,
+        "MediaDeDesvios": 2.8000000000000003,
+        "NotaMediana": 8.27
+      },
+      "DEQ0523 - INTRODUÇÃO AOS BIOCATALISADORES": {
+        "Notas": [
+          7.86,
+          8.18,
+          8.44,
+          8.5
+        ],
+        "Desvios": [
+          3.26,
+          2.64,
+          3.04,
+          2.58
+        ],
+        "DesvioDeNotas": 0.25273503912200207,
+        "MediaDeNotas": 8.245,
+        "MediaDeDesvios": 2.8800000000000003,
+        "NotaMediana": 8.44
+      }
+    },
+    "DesvioDeNotas": 0.5397858371613689,
+    "MediaDeNotas": 8.112499999999999,
+    "MediaDeDesvios": 2.84,
+    "NotaMediana": 8.27
+  },
+  "FRANCISCO WENDELL BEZERRA LOPES": {
+    "Notas": [
+      10,
+      5.18,
+      7.53,
+      7.86,
+      8.46,
+      8.74,
+      9.07,
+      9.09,
+      9.1,
+      9.38,
+      9.72
+    ],
+    "Desvios": [
+      0.85,
+      2.37,
+      1.93,
+      3.72,
+      1.85,
+      3.08,
+      1.25,
+      1.6,
+      1.65,
+      3.33,
+      2.4
+    ],
+    "Componentes": {
+      "DEQ0314 - OPERACOES UNITARIAS - EXPERIMENTAL": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          0.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 0.85,
+        "NotaMediana": 9.72
+      },
+      "DEQ0514 - PROCESSOS DAS INDUSTRIAS QUIMICAS": {
+        "Notas": [
+          8.46
+        ],
+        "Desvios": [
+          2.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.46,
+        "MediaDeDesvios": 2.37,
+        "NotaMediana": 8.46
+      },
+      "DEQ0370 - REFINO DE PETROLEO E PETROQUIMICA": {
+        "Notas": [
+          9.1
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.1
+      },
+      "DEQ0524 - ENGENHARIA BIOQUIMICA": {
+        "Notas": [
+          5.18,
+          7.86
+        ],
+        "Desvios": [
+          3.72,
+          3.33
+        ],
+        "DesvioDeNotas": 1.3400000000000003,
+        "MediaDeNotas": 6.52,
+        "MediaDeDesvios": 3.5250000000000004,
+        "NotaMediana": 7.86
+      },
+      "DEQ0523 - INTRODUÇÃO AOS BIOCATALISADORES": {
+        "Notas": [
+          10,
+          8.74
+        ],
+        "Desvios": [
+          1.85,
+          2.4
+        ],
+        "DesvioDeNotas": 0.6299999999999999,
+        "MediaDeNotas": 9.370000000000001,
+        "MediaDeDesvios": 2.125,
+        "NotaMediana": 8.74
+      },
+      "DEQ0518 - LABORATÓRIO DE OPERAÇÕES UNITÁRIAS II": {
+        "Notas": [
+          7.53
+        ],
+        "Desvios": [
+          3.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.53,
+        "MediaDeDesvios": 3.08,
+        "NotaMediana": 7.53
+      },
+      "DEQ0516 - LABORATÓRIO DE OPERAÇÕES UNITÁRIAS I": {
+        "Notas": [
+          9.07,
+          9.38
+        ],
+        "Desvios": [
+          1.25,
+          1.6
+        ],
+        "DesvioDeNotas": 0.15500000000000025,
+        "MediaDeNotas": 9.225000000000001,
+        "MediaDeDesvios": 1.425,
+        "NotaMediana": 9.38
+      },
+      "DEQ0521 - CINÉTICA E REATORES QUÍMICOS": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 1.2771352239153415,
+    "MediaDeNotas": 8.557272727272728,
+    "MediaDeDesvios": 2.1845454545454546,
+    "NotaMediana": 8.74
+  },
+  "GILSON GOMES DE MEDEIROS": {
+    "Notas": [
+      9.05,
+      9.21,
+      9.29,
+      9.36,
+      9.48,
+      9.59,
+      9.62,
+      9.62,
+      9.63,
+      9.72,
+      9.74,
+      9.8
+    ],
+    "Desvios": [
+      2.12,
+      2.29,
+      1.71,
+      2.14,
+      1.55,
+      1.62,
+      2.45,
+      1.58,
+      1.6,
+      1.53,
+      1.4,
+      2.29
+    ],
+    "Componentes": {
+      "DEQ0529 - INSTRUMENTAÇÃO NA INDÚSTRIA QUÍMICA": {
+        "Notas": [
+          9.29,
+          9.48,
+          9.62,
+          9.72
+        ],
+        "Desvios": [
+          2.12,
+          2.14,
+          2.45,
+          1.53
+        ],
+        "DesvioDeNotas": 0.16145819892467558,
+        "MediaDeNotas": 9.5275,
+        "MediaDeDesvios": 2.06,
+        "NotaMediana": 9.62
+      },
+      "DEQ0511 - TERMODINAMICA DE PROCESSOS": {
+        "Notas": [
+          9.05,
+          9.59,
+          9.62
+        ],
+        "Desvios": [
+          2.29,
+          1.55,
+          1.4
+        ],
+        "DesvioDeNotas": 0.26191601707417533,
+        "MediaDeNotas": 9.42,
+        "MediaDeDesvios": 1.7466666666666668,
+        "NotaMediana": 9.59
+      },
+      "DEQ0503 - TERMODINÂMICA QUÍMICA": {
+        "Notas": [
+          9.21,
+          9.36,
+          9.63,
+          9.74
+        ],
+        "Desvios": [
+          1.71,
+          1.62,
+          1.6,
+          2.29
+        ],
+        "DesvioDeNotas": 0.210535032714273,
+        "MediaDeNotas": 9.485,
+        "MediaDeDesvios": 1.805,
+        "NotaMediana": 9.63
+      },
+      "DEQ0552 - INTRODUÇÃO AO PROCESSAMENTO DE GÁS NATURAL": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.22351205535471433,
+    "MediaDeNotas": 9.509166666666667,
+    "MediaDeDesvios": 1.8566666666666665,
+    "NotaMediana": 9.62
+  },
+  "HUMBERTO NEVES MAIA DE OLIVEIRA": {
+    "Notas": [
+      8.81,
+      9.03,
+      9.22,
+      9.33,
+      9.53,
+      9.57,
+      9.85,
+      9.89
+    ],
+    "Desvios": [
+      1.45,
+      0.87,
+      1.88,
+      1.66,
+      1.63,
+      2.24,
+      1.22,
+      1.96
+    ],
+    "Componentes": {
+      "DEQ0312 - OPERACOES UNITARIAS II": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.57
+      },
+      "DEQ0313 - OPERACOES UNITARIAS III": {
+        "Notas": [
+          9.22,
+          9.33,
+          9.85,
+          9.89
+        ],
+        "Desvios": [
+          0.87,
+          1.88,
+          1.63,
+          1.22
+        ],
+        "DesvioDeNotas": 0.3003643620671399,
+        "MediaDeNotas": 9.5725,
+        "MediaDeDesvios": 1.4,
+        "NotaMediana": 9.85
+      },
+      "DEQ0365 - TECNOLOGIA DO ACUCAR": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.53
+      },
+      "DEQ0515 - OPERAÇÕES UNITÁRIAS COM SISTEMAS SÓLIDO-FLUIDO": {
+        "Notas": [
+          8.81,
+          9.03
+        ],
+        "Desvios": [
+          2.24,
+          1.96
+        ],
+        "DesvioDeNotas": 0.10999999999999943,
+        "MediaDeNotas": 8.92,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.03
+      }
+    },
+    "DesvioDeNotas": 0.3554200859546348,
+    "MediaDeNotas": 9.40375,
+    "MediaDeDesvios": 1.61375,
+    "NotaMediana": 9.53
+  },
+  "JACKSON ARAUJO DE OLIVEIRA": {
+    "Notas": [
+      8.28,
+      8.83,
+      9.25,
+      9.3,
+      9.3,
+      9.35,
+      9.38,
+      9.38,
+      9.62,
+      9.73
+    ],
+    "Desvios": [
+      1.99,
+      1.74,
+      2.26,
+      1.53,
+      1.6,
+      1.36,
+      2.69,
+      1.97,
+      1.51,
+      1.67
+    ],
+    "Componentes": {
+      "DEQ0527 - CONTROLE DE PROCESSOS": {
+        "Notas": [
+          9.3,
+          9.35,
+          9.38,
+          9.73
+        ],
+        "Desvios": [
+          1.99,
+          1.53,
+          1.36,
+          1.51
+        ],
+        "DesvioDeNotas": 0.16985287751463032,
+        "MediaDeNotas": 9.440000000000001,
+        "MediaDeDesvios": 1.5975,
+        "NotaMediana": 9.38
+      },
+      "DEQ0609 - INST., SIMUL. E CONTR. DE PROC. NA IND. DE ALIMENTOS": {
+        "Notas": [
+          8.28,
+          9.38
+        ],
+        "Desvios": [
+          1.74,
+          2.69
+        ],
+        "DesvioDeNotas": 0.5500000000000007,
+        "MediaDeNotas": 8.83,
+        "MediaDeDesvios": 2.215,
+        "NotaMediana": 9.38
+      },
+      "DEQ0513 - MÉTODOS COMPUTACIONAIS APLICADOS À ENGENHARIA QUÍMICA": {
+        "Notas": [
+          8.83,
+          9.25,
+          9.3,
+          9.62
+        ],
+        "Desvios": [
+          2.26,
+          1.6,
+          1.97,
+          1.67
+        ],
+        "DesvioDeNotas": 0.28098042636454207,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.875,
+        "NotaMediana": 9.3
+      }
+    },
+    "DesvioDeNotas": 0.3915047892427373,
+    "MediaDeNotas": 9.242,
+    "MediaDeDesvios": 1.832,
+    "NotaMediana": 9.35
+  },
+  "JOAO FERNANDES DE SOUSA": {
+    "Notas": [
+      8.91,
+      9.15,
+      9.25,
+      9.37,
+      9.46,
+      9.79
+    ],
+    "Desvios": [
+      1.84,
+      2.3,
+      0.84,
+      1.78,
+      2.36,
+      1.66
+    ],
+    "Componentes": {
+      "DEQ0522 - CÁLCULO DE REATORES": {
+        "Notas": [
+          9.46,
+          9.79
+        ],
+        "Desvios": [
+          1.84,
+          0.84
+        ],
+        "DesvioDeNotas": 0.16499999999999915,
+        "MediaDeNotas": 9.625,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.79
+      },
+      "DEQ0507 - TRANSFERÊNCIA DE MASSA": {
+        "Notas": [
+          8.91,
+          9.15,
+          9.25,
+          9.37
+        ],
+        "Desvios": [
+          2.3,
+          1.78,
+          2.36,
+          1.66
+        ],
+        "DesvioDeNotas": 0.16911534525287733,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 2.025,
+        "NotaMediana": 9.25
+      }
+    },
+    "DesvioDeNotas": 0.2722998755457337,
+    "MediaDeNotas": 9.321666666666665,
+    "MediaDeDesvios": 1.7966666666666666,
+    "NotaMediana": 9.37
+  },
+  "KATHERINE CARRILHO DE OLIVEIRA": {
+    "Notas": [
+      9.45,
+      9.66,
+      9.68,
+      9.71,
+      9.72,
+      9.77,
+      9.82,
+      9.86,
+      9.9
+    ],
+    "Desvios": [
+      1.64,
+      1.6,
+      1.42,
+      1.74,
+      1.24,
+      0.85,
+      1.64,
+      1.07,
+      1.5
+    ],
+    "Componentes": {
+      "DEQ0516 - LABORATÓRIO DE OPERAÇÕES UNITÁRIAS I": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.72
+      },
+      "DEQ0515 - OPERAÇÕES UNITÁRIAS COM SISTEMAS SÓLIDO-FLUIDO": {
+        "Notas": [
+          9.66,
+          9.68,
+          9.71
+        ],
+        "Desvios": [
+          1.6,
+          1.24,
+          1.5
+        ],
+        "DesvioDeNotas": 0.020548046676563587,
+        "MediaDeNotas": 9.683333333333334,
+        "MediaDeDesvios": 1.4466666666666665,
+        "NotaMediana": 9.68
+      },
+      "DEQ0619 - METODOS COMPUTACIONAIS APLICADOS A ENGENHARIA DE ALIMENTOS": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.45
+      },
+      "DEQ0312 - OPERACOES UNITARIAS II": {
+        "Notas": [
+          9.77,
+          9.82,
+          9.86
+        ],
+        "Desvios": [
+          1.74,
+          1.64,
+          1.07
+        ],
+        "DesvioDeNotas": 0.036817870057290834,
+        "MediaDeNotas": 9.816666666666666,
+        "MediaDeDesvios": 1.4833333333333334,
+        "NotaMediana": 9.82
+      },
+      "DEQ0314 - OPERACOES UNITARIAS - EXPERIMENTAL": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          0.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.85,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.12552113589175168,
+    "MediaDeNotas": 9.729999999999999,
+    "MediaDeDesvios": 1.4111111111111112,
+    "NotaMediana": 9.72
+  },
+  "KATIA CRISTINA BORGES": {
+    "Notas": [
+      9.34,
+      9.59
+    ],
+    "Desvios": [
+      1.61,
+      1.11
+    ],
+    "Componentes": {
+      "DEQ0622 - ANALISE SENSORIAL DE ALIMENTOS": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.59
+      },
+      "DEQ0629 - TECNOLOGIA DO LEITE E DERIVADOS": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.11,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.125,
+    "MediaDeNotas": 9.465,
+    "MediaDeDesvios": 1.36,
+    "NotaMediana": 9.59
+  },
+  "KATIA NICOLAU MATSUI": {
+    "Notas": [
+      9.63,
+      9.69,
+      9.74,
+      9.78,
+      9.8,
+      9.82,
+      9.95
+    ],
+    "Desvios": [
+      0.74,
+      1.38,
+      0.77,
+      1.23,
+      1.31,
+      0.9,
+      1.09
+    ],
+    "Componentes": {
+      "DEQ0610 - CONTROLE DE QUALIDADE NA INDÚSTRIA DE ALIMENTOS": {
+        "Notas": [
+          9.63,
+          9.8
+        ],
+        "Desvios": [
+          0.74,
+          1.23
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 0.985,
+        "NotaMediana": 9.8
+      },
+      "DEQ0312 - OPERACOES UNITARIAS II": {
+        "Notas": [
+          9.74,
+          9.78
+        ],
+        "Desvios": [
+          1.38,
+          1.31
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.345,
+        "NotaMediana": 9.78
+      },
+      "DEQ0005 - PRINCÍPIOS DOS PROCESSOS QUÍMICOS PARA A INDÚSTRIA DOS ALIMENTOS": {
+        "Notas": [
+          9.82,
+          9.95
+        ],
+        "Desvios": [
+          0.77,
+          0.9
+        ],
+        "DesvioDeNotas": 0.0649999999999995,
+        "MediaDeNotas": 9.885,
+        "MediaDeDesvios": 0.835,
+        "NotaMediana": 9.95
+      },
+      "DEQ0023 - TECNOLOGIA DE EMBALAGENS": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.69
+      }
+    },
+    "DesvioDeNotas": 0.09467452300446197,
+    "MediaDeNotas": 9.772857142857143,
+    "MediaDeDesvios": 1.06,
+    "NotaMediana": 9.78
+  },
+  "MAGNA ANGELICA DOS SANTOS BEZERRA SOUSA": {
+    "Notas": [
+      8.93,
+      9.18,
+      9.24,
+      9.36,
+      9.44,
+      9.52,
+      9.56,
+      9.57,
+      9.57,
+      9.61,
+      9.84,
+      9.91
+    ],
+    "Desvios": [
+      1.88,
+      1.8,
+      1.31,
+      1.57,
+      1.49,
+      1.57,
+      1.56,
+      1.11,
+      1.91,
+      1.32,
+      1.18,
+      1.33
+    ],
+    "Componentes": {
+      "DEQ0531 - ENGENHARIA AMBIENTAL": {
+        "Notas": [
+          9.24,
+          9.56,
+          9.57,
+          9.61
+        ],
+        "Desvios": [
+          1.88,
+          1.57,
+          1.56,
+          1.32
+        ],
+        "DesvioDeNotas": 0.1484082207965582,
+        "MediaDeNotas": 9.495000000000001,
+        "MediaDeDesvios": 1.5825,
+        "NotaMediana": 9.57
+      },
+      "DEQ0323 - PROJETO DE PROCESSOS NA INDUSTRIA QUIMICA": {
+        "Notas": [
+          8.93,
+          9.36
+        ],
+        "Desvios": [
+          1.8,
+          1.49
+        ],
+        "DesvioDeNotas": 0.21499999999999986,
+        "MediaDeNotas": 9.145,
+        "MediaDeDesvios": 1.645,
+        "NotaMediana": 9.36
+      },
+      "DEQ0353 - TRATAMENTO DE EFLUENTES": {
+        "Notas": [
+          9.57,
+          9.84
+        ],
+        "Desvios": [
+          1.31,
+          1.91
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.705,
+        "MediaDeDesvios": 1.6099999999999999,
+        "NotaMediana": 9.84
+      },
+      "DEQ0352 - TRATAMENTO DE AGUAS INDUSTRIAIS E DE ABASTECIMENTO": {
+        "Notas": [
+          9.18,
+          9.44
+        ],
+        "Desvios": [
+          1.57,
+          1.33
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.309999999999999,
+        "MediaDeDesvios": 1.4500000000000002,
+        "NotaMediana": 9.44
+      },
+      "DEQ0534 - INTRODUÇÃO AO PROJETO DE PROCESSOS": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.11,
+        "NotaMediana": 9.91
+      },
+      "DEQ0624 - FENOMENO DOS TRANSPORTES II": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.26166533969939554,
+    "MediaDeNotas": 9.477499999999997,
+    "MediaDeDesvios": 1.5025000000000002,
+    "NotaMediana": 9.56
+  },
+  "MARCIA REGINA DA SILVA PEDRINI": {
+    "Notas": [
+      10,
+      7.13,
+      8.17,
+      8.47,
+      8.52,
+      8.9,
+      9.02,
+      9.7,
+      9.91
+    ],
+    "Desvios": [
+      2.11,
+      2.76,
+      1.45,
+      0.74,
+      1.76,
+      2.65,
+      0.7,
+      1.71,
+      0.57
+    ],
+    "Componentes": {
+      "DEQ0311 - OPERACOES UNITARIAS I": {
+        "Notas": [
+          8.17,
+          8.52
+        ],
+        "Desvios": [
+          2.11,
+          2.65
+        ],
+        "DesvioDeNotas": 0.17499999999999982,
+        "MediaDeNotas": 8.344999999999999,
+        "MediaDeDesvios": 2.38,
+        "NotaMediana": 8.52
+      },
+      "DEQ0366 - TECNOLOGIA DAS FERMENTACOES": {
+        "Notas": [
+          8.47
+        ],
+        "Desvios": [
+          2.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.47,
+        "MediaDeDesvios": 2.76,
+        "NotaMediana": 8.47
+      },
+      "DEQ0328 - ENGENHARIA BIOQUIMICA": {
+        "Notas": [
+          8.9,
+          9.02
+        ],
+        "Desvios": [
+          1.45,
+          1.71
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.02
+      },
+      "DEQ0020 - TECNOLOGIA DE ALIMENTOS DE ORIGEM VEGETAL": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          0.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 0.74,
+        "NotaMediana": 9.7
+      },
+      "DEQ0630 - TECNOLOGIA DE BEBIDAS": {
+        "Notas": [
+          10,
+          7.13,
+          9.91
+        ],
+        "Desvios": [
+          1.76,
+          0.7,
+          0.57
+        ],
+        "DesvioDeNotas": 1.3322245389656437,
+        "MediaDeNotas": 9.013333333333334,
+        "MediaDeDesvios": 1.01,
+        "NotaMediana": 7.13
+      }
+    },
+    "DesvioDeNotas": 0.8737460150212029,
+    "MediaDeNotas": 8.86888888888889,
+    "MediaDeDesvios": 1.6055555555555554,
+    "NotaMediana": 8.52
+  },
+  "MARCUS ANTONIO DE FREITAS MELO": {
+    "Notas": [
+      7,
+      7.08,
+      7.37,
+      7.84,
+      7.94,
+      8.3,
+      8.65,
+      8.67,
+      9.23,
+      9.24
+    ],
+    "Desvios": [
+      2.23,
+      2.06,
+      2.53,
+      2.42,
+      3.23,
+      2.16,
+      3.14,
+      3.14,
+      1.21,
+      1.55
+    ],
+    "Componentes": {
+      "DEQ0525 - CIENCIA E ENGENHARIA DOS MATERIAIS": {
+        "Notas": [
+          7.08,
+          8.3,
+          9.23,
+          9.24
+        ],
+        "Desvios": [
+          2.23,
+          2.42,
+          3.14,
+          1.21
+        ],
+        "DesvioDeNotas": 0.8847704504559362,
+        "MediaDeNotas": 8.462499999999999,
+        "MediaDeDesvios": 2.25,
+        "NotaMediana": 9.23
+      },
+      "DEQ0210 - POLUICAO AMBIENTAL": {
+        "Notas": [
+          7,
+          7.84
+        ],
+        "Desvios": [
+          2.06,
+          3.23
+        ],
+        "DesvioDeNotas": 0.41999999999999993,
+        "MediaDeNotas": 7.42,
+        "MediaDeDesvios": 2.645,
+        "NotaMediana": 7.84
+      },
+      "DEQ0481 - QUALIDADE E SEGURANCA NA INDUSTRIA QUIMICA": {
+        "Notas": [
+          7.37,
+          7.94,
+          8.65,
+          8.67
+        ],
+        "Desvios": [
+          2.53,
+          2.16,
+          3.14,
+          1.55
+        ],
+        "DesvioDeNotas": 0.5414505979311501,
+        "MediaDeNotas": 8.1575,
+        "MediaDeDesvios": 2.345,
+        "NotaMediana": 8.65
+      }
+    },
+    "DesvioDeNotas": 0.7816751243323534,
+    "MediaDeNotas": 8.132000000000001,
+    "MediaDeDesvios": 2.367,
+    "NotaMediana": 8.3
+  },
+  "MARIA DE FATIMA DANTAS DE MEDEIROS": {
+    "Notas": [
+      8.5,
+      8.81,
+      8.95,
+      8.96,
+      8.97,
+      9.07,
+      9.09,
+      9.53
+    ],
+    "Desvios": [
+      2.54,
+      2.22,
+      2.05,
+      1.45,
+      2.31,
+      2.1,
+      1.79,
+      1.73
+    ],
+    "Componentes": {
+      "DEQ0501 - INTRODUÇÃO À ENGENHARIA QUÌMICA": {
+        "Notas": [
+          8.81,
+          8.95,
+          8.97,
+          9.07
+        ],
+        "Desvios": [
+          2.54,
+          2.05,
+          2.31,
+          1.79
+        ],
+        "DesvioDeNotas": 0.09273618495495699,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 2.1725000000000003,
+        "NotaMediana": 8.97
+      },
+      "DEQ0512 - PRINCIPIOS DOS PROCESSOS QUIMICOS": {
+        "Notas": [
+          8.5,
+          8.96,
+          9.09,
+          9.53
+        ],
+        "Desvios": [
+          2.22,
+          1.45,
+          2.1,
+          1.73
+        ],
+        "DesvioDeNotas": 0.36708309685955276,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 1.875,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 0.2699999999999998,
+    "MediaDeNotas": 8.985,
+    "MediaDeDesvios": 2.02375,
+    "NotaMediana": 8.97
+  },
+  "SEBASTIAO RIBEIRO FERREIRA": {
+    "Notas": [
+      6.71,
+      7.54,
+      7.63,
+      8.02,
+      8.07,
+      8.5,
+      8.84,
+      8.88
+    ],
+    "Desvios": [
+      1.91,
+      2.48,
+      2.24,
+      3.07,
+      3.6,
+      2.8,
+      2.23,
+      2.85
+    ],
+    "Componentes": {
+      "DEQ0305 - FENOMENOS DE TRANSPORTE EXPERIMENTAL": {
+        "Notas": [
+          8.84,
+          8.88
+        ],
+        "Desvios": [
+          1.91,
+          2.24
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 8.86,
+        "MediaDeDesvios": 2.075,
+        "NotaMediana": 8.88
+      },
+      "DEQ0506 - TRANSFERÊNCIA DE CALOR": {
+        "Notas": [
+          7.63,
+          8.02,
+          8.07,
+          8.5
+        ],
+        "Desvios": [
+          2.48,
+          3.07,
+          2.8,
+          2.85
+        ],
+        "DesvioDeNotas": 0.3082612528359671,
+        "MediaDeNotas": 8.055,
+        "MediaDeDesvios": 2.8,
+        "NotaMediana": 8.07
+      },
+      "DEQ0522 - CÁLCULO DE REATORES": {
+        "Notas": [
+          6.71,
+          7.54
+        ],
+        "Desvios": [
+          3.6,
+          2.23
+        ],
+        "DesvioDeNotas": 0.41500000000000004,
+        "MediaDeNotas": 7.125,
+        "MediaDeDesvios": 2.915,
+        "NotaMediana": 7.54
+      }
+    },
+    "DesvioDeNotas": 0.6840492946418409,
+    "MediaDeNotas": 8.02375,
+    "MediaDeDesvios": 2.6475,
+    "NotaMediana": 8.07
+  },
+  "VANJA MARIA DE FRANCA BEZERRA": {
+    "Notas": [
+      4.25,
+      4.95,
+      6.17,
+      6.5,
+      7.22,
+      7.25,
+      7.43,
+      7.99,
+      8.22
+    ],
+    "Desvios": [
+      3.47,
+      3.54,
+      3.7,
+      3.64,
+      3.39,
+      3.87,
+      2.76,
+      2.38,
+      2.82
+    ],
+    "Componentes": {
+      "DEQ0528 - ENGENHARIA DE PROCESSOS": {
+        "Notas": [
+          4.25,
+          7.22,
+          7.43,
+          8.22
+        ],
+        "Desvios": [
+          3.47,
+          3.7,
+          3.39,
+          2.76
+        ],
+        "DesvioDeNotas": 1.5075310942066833,
+        "MediaDeNotas": 6.779999999999999,
+        "MediaDeDesvios": 3.33,
+        "NotaMediana": 7.43
+      },
+      "DEQ0526 - MODELAGEM E SIMULACAO DE PROCESSOS QUIMICOS": {
+        "Notas": [
+          4.95,
+          6.17,
+          6.5,
+          7.25
+        ],
+        "Desvios": [
+          3.54,
+          3.64,
+          3.87,
+          2.82
+        ],
+        "DesvioDeNotas": 0.8298606810784566,
+        "MediaDeNotas": 6.217499999999999,
+        "MediaDeDesvios": 3.4675000000000002,
+        "NotaMediana": 6.5
+      },
+      "DEQ0534 - INTRODUÇÃO AO PROJETO DE PROCESSOS": {
+        "Notas": [
+          7.99
+        ],
+        "Desvios": [
+          2.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.99,
+        "MediaDeDesvios": 2.38,
+        "NotaMediana": 7.99
+      }
+    },
+    "DesvioDeNotas": 1.267316597391785,
+    "MediaDeNotas": 6.664444444444445,
+    "MediaDeDesvios": 3.285555555555556,
+    "NotaMediana": 7.22
+  },
+  "OSVALDO CHIAVONE FILHO": {
+    "Notas": [
+      8.12,
+      8.88,
+      8.98,
+      9.8
+    ],
+    "Desvios": [
+      2.21,
+      1.86,
+      2.29,
+      0.61
+    ],
+    "Componentes": {
+      "DEQ0370 - REFINO DE PETROLEO E PETROQUIMICA": {
+        "Notas": [
+          8.12
+        ],
+        "Desvios": [
+          2.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.12,
+        "MediaDeDesvios": 2.21,
+        "NotaMediana": 8.12
+      },
+      "DEQ0323 - PROJETO DE PROCESSOS NA INDUSTRIA QUIMICA": {
+        "Notas": [
+          8.98
+        ],
+        "Desvios": [
+          1.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 1.86,
+        "NotaMediana": 8.98
+      },
+      "DEQ0375 - SEMINARIOS DE PETROLEO E GAS NATURAL": {
+        "Notas": [
+          8.88
+        ],
+        "Desvios": [
+          2.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.88,
+        "MediaDeDesvios": 2.29,
+        "NotaMediana": 8.88
+      },
+      "DEQ0619 - METODOS COMPUTACIONAIS APLICADOS A ENGENHARIA DE ALIMENTOS": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.61,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.5952100469582151,
+    "MediaDeNotas": 8.945,
+    "MediaDeDesvios": 1.7425000000000002,
+    "NotaMediana": 8.98
+  },
+  "ROBERTA TARGINO HOSKIN": {
+    "Notas": [
+      9.17,
+      9.27,
+      9.4,
+      9.55,
+      9.59,
+      9.66,
+      9.87
+    ],
+    "Desvios": [
+      1.94,
+      1.36,
+      1.33,
+      1.26,
+      1.14,
+      1.18,
+      1.05
+    ],
+    "Componentes": {
+      "DEQ0603 - BIOQUIMICA DE ALIMENTOS": {
+        "Notas": [
+          9.17,
+          9.59
+        ],
+        "Desvios": [
+          1.94,
+          1.18
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.379999999999999,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.59
+      },
+      "DEQ0601 - QUIMICA DOS ALIMENTOS": {
+        "Notas": [
+          9.55,
+          9.66
+        ],
+        "Desvios": [
+          1.36,
+          1.05
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.605,
+        "MediaDeDesvios": 1.205,
+        "NotaMediana": 9.66
+      },
+      "DEQ0622 - ANALISE SENSORIAL DE ALIMENTOS": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.87
+      },
+      "DEQ0632 - COMPOSTOS BIOATIVOS EM ALIMENTOS": {
+        "Notas": [
+          9.27
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.27
+      },
+      "DEQ0019 - TECNOLOGIA DE ALIMENTOS DE ORIGEM ANIMAL": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.14,
+        "NotaMediana": 9.4
+      }
+    },
+    "DesvioDeNotas": 0.22196708709874535,
+    "MediaDeNotas": 9.501428571428571,
+    "MediaDeDesvios": 1.3228571428571427,
+    "NotaMediana": 9.55
+  },
+  "PAGANDAI VAITHIANATHAN PANNIR SELVAM": {
+    "Notas": [
+      5.33,
+      8.69
+    ],
+    "Desvios": [
+      4.1,
+      2.6
+    ],
+    "Componentes": {
+      "DEQ0532 - GESTÃO TECNOLÓGICA E ECONÔMICA": {
+        "Notas": [
+          5.33,
+          8.69
+        ],
+        "Desvios": [
+          4.1,
+          2.6
+        ],
+        "DesvioDeNotas": 1.6799999999999997,
+        "MediaDeNotas": 7.01,
+        "MediaDeDesvios": 3.3499999999999996,
+        "NotaMediana": 8.69
+      }
+    },
+    "DesvioDeNotas": 1.6799999999999997,
+    "MediaDeNotas": 7.01,
+    "MediaDeDesvios": 3.3499999999999996,
+    "NotaMediana": 8.69
+  }
+}

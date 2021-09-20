@@ -1,0 +1,3026 @@
+[
+    {
+        "Docente": "ALINE MEDEIROS CAVALCANTI DA FONSECA",
+        "Componente Curricular": "FST0052 - PRÁTICA TERAPÊUTICA SUPERVISIONADA I",
+        "Turma": "3",
+        "Horário": "4M123456 56M12345 (11/02/2019 - 19/04/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "ALVARO CAMPOS CAVALCANTI MACIEL",
+        "Componente Curricular": "FST0306 - CINESIOTERAPIA",
+        "Turma": "1",
+        "Horário": "23M234 4M23",
+        "Discentes": "26",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "ANA RAQUEL RODRIGUES LINDQUIST",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M123456 (11/02/2019 - 08/04/2019)",
+        "Discentes": "29",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "CAROLINA DANIEL DE LIMA ALVAREZ",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "6",
+        "Horário": "24M23456 (10/04/2019 - 12/06/2019), 35T1234 (25/06/2019 - 25/06/2019)",
+        "Discentes": "10",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "CATARINA DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FST0015 - FISIOTERAPIA AQUÁTICA",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "23",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "CATARINA DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FST0035.0 - RECURSOS TERAPÊUTICOS MANUAIS",
+        "Turma": "1",
+        "Horário": "6M34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "27",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "CATARINA DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA",
+        "Turma": "1",
+        "Horário": "6M5 (11/02/2019 - 29/06/2019)",
+        "Discentes": "13",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "CATARINA DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA",
+        "Turma": "2",
+        "Horário": "6M6 (11/02/2019 - 29/06/2019)",
+        "Discentes": "14",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "6M45 (05/04/2019 - 05/04/2019), 35M2345 (06/04/2019 - 27/06/2019)",
+        "Discentes": "10",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "356M2345 (11/02/2019 - 04/04/2019), 6M23 (05/04/2019 - 05/04/2019)",
+        "Discentes": "31",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "FABIOLA RODRIGUES DE FRANCA CAMPOS",
+        "Componente Curricular": "FST0306 - CINESIOTERAPIA",
+        "Turma": "1",
+        "Horário": "23M234 4M23",
+        "Discentes": "26",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "FABIOLA RODRIGUES DE FRANCA CAMPOS",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "35T2345 (09/04/2019 - 20/06/2019), 35T2345 4T45 (25/06/2019 - 27/06/2019)",
+        "Discentes": "6",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0013 - FISIOLOGIA DO EXERCÍCIO",
+        "Turma": "1",
+        "Horário": "3T2345",
+        "Discentes": "21",
+        "Média Geral": "8.74",
+        "Desvio Padrão Geral": "2.41"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "25M456 (22/04/2019 - 27/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (11/02/2019 - 18/04/2019)",
+        "Discentes": "20",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0052 - PRÁTICA TERAPÊUTICA SUPERVISIONADA I",
+        "Turma": "3",
+        "Horário": "4M123456 56M12345 (11/02/2019 - 19/04/2019)",
+        "Discentes": "7",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "GILDASIO LUCAS DE LUCENA",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "3",
+        "Horário": "24M23 35M234 (08/04/2019 - 27/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "GILDASIO LUCAS DE LUCENA",
+        "Componente Curricular": "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (11/02/2019 - 04/04/2019)",
+        "Discentes": "25",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "GUILHERME AUGUSTO DE FREITAS FREGONEZI",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (23/04/2019 - 25/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "GUILHERME AUGUSTO DE FREITAS FREGONEZI",
+        "Componente Curricular": "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (11/02/2019 - 18/04/2019)",
+        "Discentes": "18",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "IVAN DANIEL BEZERRA NOGUEIRA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "2M23 467M2345 (08/04/2019 - 19/04/2019), 2M23 467M2345 (22/04/2019 - 03/05/2019), 2M23 46M2345 (06/05/2019 - 21/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "IVAN DANIEL BEZERRA NOGUEIRA",
+        "Componente Curricular": "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "2M23 46M2345 (11/02/2019 - 05/04/2019)",
+        "Discentes": "19",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.73"
+    },
+    {
+        "Docente": "JAMILSON SIMOES BRASILEIRO",
+        "Componente Curricular": "FST0303 - CINESIOLOGIA",
+        "Turma": "1",
+        "Horário": "35M345 4M34",
+        "Discentes": "24",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "JAQUELINE FERNANDES PONTES",
+        "Componente Curricular": "DSC0063 - ATIVIDADE INTERATIVA INTERDISCIPLINAR II: SAÚDE E CIDADANIA (SACI II)",
+        "Turma": "3",
+        "Horário": "3T2345",
+        "Discentes": "16",
+        "Média Geral": "8.54",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "JAQUELINE FERNANDES PONTES",
+        "Componente Curricular": "FST0055 - PRÁTICA TERAPÊUTICA SUPERVISIONADA IV",
+        "Turma": "8",
+        "Horário": "36M123 4M23 (22/04/2019 - 26/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "JAQUELINE FERNANDES PONTES",
+        "Componente Curricular": "DSC0090 - SAUDE E CIDADANIA",
+        "Turma": "12",
+        "Horário": "5M2345 (11/02/2019 - 29/06/2019)",
+        "Discentes": "14",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (11/02/2019 - 18/04/2019)",
+        "Discentes": "20",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0052 - PRÁTICA TERAPÊUTICA SUPERVISIONADA I",
+        "Turma": "3",
+        "Horário": "4M123456 56M12345 (11/02/2019 - 19/04/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "JULIANA MARIA GAZZOLA",
+        "Componente Curricular": "FST0016 - INTRODUÇÃO A TECNOLOGIA ASSISTIVA",
+        "Turma": "1",
+        "Horário": "24T45",
+        "Discentes": "26",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "KARLA MORGANNA PEREIRA PINTO DE MENDONCA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "2M23 467M2345 (08/04/2019 - 19/04/2019), 2M23 467M2345 (22/04/2019 - 03/05/2019), 2M23 46M2345 (06/05/2019 - 21/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "0.63"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0303 - CINESIOLOGIA",
+        "Turma": "1",
+        "Horário": "35M345 4M34",
+        "Discentes": "24",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "4",
+        "Horário": "6M45 24T2345 (08/04/2019 - 06/05/2019)",
+        "Discentes": "8",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "2.4"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "5",
+        "Horário": "6M45 24T2345 (08/05/2019 - 31/05/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "6",
+        "Horário": "6M45 24T2345 (03/06/2019 - 28/06/2019)",
+        "Discentes": "9",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "LARISSA BASTOS TAVARES",
+        "Componente Curricular": "FST0303 - CINESIOLOGIA",
+        "Turma": "1",
+        "Horário": "35M345 4M34",
+        "Discentes": "24",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "LARISSA BASTOS TAVARES",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (08/04/2019 - 27/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "2.4"
+    },
+    {
+        "Docente": "LILIAN LIRA LISBOA",
+        "Componente Curricular": "MGO0009 - COMPETENCIA CULTURAL NA ATENÇÃO A SAUDE DA MULHER QUILOMBOLA",
+        "Turma": "01A",
+        "Horário": "6T2346",
+        "Discentes": "8",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.72"
+    },
+    {
+        "Docente": "LILIAN LIRA LISBOA",
+        "Componente Curricular": "FST0054 - PRÁTICA TERAPÊUTICA SUPERVISIONADA III",
+        "Turma": "2",
+        "Horário": "35M123456 6M2345 (11/02/2019 - 20/04/2019)",
+        "Discentes": "6",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.36"
+    },
+    {
+        "Docente": "LUCIANA PROTASIO DE MELO",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "35T2345 4T45 (11/02/2019 - 04/04/2019), 4T45 (10/04/2019 - 19/06/2019)",
+        "Discentes": "18",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "LUCIANA PROTASIO DE MELO",
+        "Componente Curricular": "FST0325 - PSICOMOTRICIDADE",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "10",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "MARCELLO BARBOSA OTONI GONCALVES GUEDES",
+        "Componente Curricular": "DSC0063 - ATIVIDADE INTERATIVA INTERDISCIPLINAR II: SAÚDE E CIDADANIA (SACI II)",
+        "Turma": "1",
+        "Horário": "3T2345",
+        "Discentes": "12",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "MARCELLO BARBOSA OTONI GONCALVES GUEDES",
+        "Componente Curricular": "FST0055 - PRÁTICA TERAPÊUTICA SUPERVISIONADA IV",
+        "Turma": "8",
+        "Horário": "36M123 4M23 (22/04/2019 - 26/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "8.05",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0326 - FISIOTERAPIA DERMATO - FUNCIONAL",
+        "Turma": "1",
+        "Horário": "4T2345",
+        "Discentes": "26",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "6M45 (05/04/2019 - 05/04/2019), 35M2345 (06/04/2019 - 27/06/2019)",
+        "Discentes": "10",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "356M2345 (11/02/2019 - 04/04/2019), 6M23 (05/04/2019 - 05/04/2019)",
+        "Discentes": "31",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "PATRICIA ANGELICA DE MIRANDA SILVA NOGUEIRA",
+        "Componente Curricular": "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "2M23 46M2345 (11/02/2019 - 05/04/2019)",
+        "Discentes": "19",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "RAYSA VANESSA DE MEDEIROS FREITAS",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "5",
+        "Horário": "35T1234 (12/03/2019 - 28/05/2019), 35T1234 (25/06/2019 - 25/06/2019)",
+        "Discentes": "9",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "RICARDO OLIVEIRA GUERRA",
+        "Componente Curricular": "FST0302 - FUNDAMENTOS DE EPIDEMIOLOGIA E SAUDE PUBLICA",
+        "Turma": "1",
+        "Horário": "3M123",
+        "Discentes": "30",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "RICARDO OLIVEIRA GUERRA",
+        "Componente Curricular": "FST0026 - METODOLOGIA DA PESQUISA CIENTIFICA",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "26",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "ROSELENE FERREIRA DE ALENCAR",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "6",
+        "Horário": "24M23456 (10/04/2019 - 12/06/2019), 35T1234 (25/06/2019 - 25/06/2019)",
+        "Discentes": "10",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "ROSELENE FERREIRA DE ALENCAR",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M123456 (11/02/2019 - 08/04/2019)",
+        "Discentes": "29",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "ROSELENE FERREIRA DE ALENCAR",
+        "Componente Curricular": "FST0054 - PRÁTICA TERAPÊUTICA SUPERVISIONADA III",
+        "Turma": "2",
+        "Horário": "35M123456 6M2345 (11/02/2019 - 20/04/2019)",
+        "Discentes": "6",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "0.36"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "DSC0063 - ATIVIDADE INTERATIVA INTERDISCIPLINAR II: SAÚDE E CIDADANIA (SACI II)",
+        "Turma": "3",
+        "Horário": "3T2345",
+        "Discentes": "16",
+        "Média Geral": "8.16",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "FST0326 - FISIOTERAPIA DERMATO - FUNCIONAL",
+        "Turma": "1",
+        "Horário": "4T2345",
+        "Discentes": "26",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "6M45 (05/04/2019 - 05/04/2019), 35M2345 (06/04/2019 - 27/06/2019)",
+        "Discentes": "11",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "4",
+        "Horário": "6M45 24T2345 (08/04/2019 - 06/05/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "5",
+        "Horário": "6M45 24T2345 (08/05/2019 - 31/05/2019)",
+        "Discentes": "9",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "6",
+        "Horário": "6M45 24T2345 (03/06/2019 - 28/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (11/02/2019 - 06/04/2019)",
+        "Discentes": "24",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "3M34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "13",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "4",
+        "Horário": "3M34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "13",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "0.73"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0013 - FISIOLOGIA DO EXERCÍCIO",
+        "Turma": "1",
+        "Horário": "3T2345",
+        "Discentes": "21",
+        "Média Geral": "8.15",
+        "Desvio Padrão Geral": "2.7"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "25M456 (22/04/2019 - 27/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (11/02/2019 - 18/04/2019)",
+        "Discentes": "20",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "4",
+        "Horário": "35T1234 (12/03/2019 - 28/05/2019), 35T1234 (25/06/2019 - 25/06/2019)",
+        "Discentes": "10",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M123456 (11/02/2019 - 08/04/2019)",
+        "Discentes": "29",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "TANIA FERNANDES CAMPOS",
+        "Componente Curricular": "FST0324 - APRENDIZAGEM E CONTROLE MOTOR",
+        "Turma": "1",
+        "Horário": "6M234",
+        "Discentes": "28",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "TANIA FERNANDES CAMPOS",
+        "Componente Curricular": "FST0306 - CINESIOTERAPIA",
+        "Turma": "1",
+        "Horário": "23M234 4M23",
+        "Discentes": "26",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "4",
+        "Horário": "6M45 24T2345 (08/04/2019 - 06/05/2019)",
+        "Discentes": "9",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "2.55"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "5",
+        "Horário": "6M45 24T2345 (08/05/2019 - 31/05/2019)",
+        "Discentes": "8",
+        "Média Geral": "8.36",
+        "Desvio Padrão Geral": "2.83"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "6",
+        "Horário": "6M45 24T2345 (03/06/2019 - 28/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (11/02/2019 - 06/04/2019)",
+        "Discentes": "24",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "2.51"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "35T2345 (09/04/2019 - 20/06/2019), 35T2345 4T45 (25/06/2019 - 27/06/2019)",
+        "Discentes": "6",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "35T2345 4T45 (11/02/2019 - 04/04/2019), 4T45 (10/04/2019 - 19/06/2019)",
+        "Discentes": "18",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0304 - METODOS E TECNICAS DE AVALIACAO",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "23",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "TULIO OLIVEIRA DE SOUZA",
+        "Componente Curricular": "FST0307 - ELETROTERMOFOTOTERAPIA",
+        "Turma": "2",
+        "Horário": "4M45 4T23 5T2345",
+        "Discentes": "27",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "TÁCITO ZAILDO DE MORAIS SANTOS",
+        "Componente Curricular": "FST0101 - ETICA E DEONTOLOGIA",
+        "Turma": "1",
+        "Horário": "5M45",
+        "Discentes": "29",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "TÁCITO ZAILDO DE MORAIS SANTOS",
+        "Componente Curricular": "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (11/02/2019 - 18/04/2019)",
+        "Discentes": "18",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "TÁCITO ZAILDO DE MORAIS SANTOS",
+        "Componente Curricular": "FST0027 - HISTORIA E FUNDAMENTOS DA FISIOTERAPIA",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "33",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0101 - ETICA E DEONTOLOGIA",
+        "Turma": "1",
+        "Horário": "5M45",
+        "Discentes": "29",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "3M2345 5M23 (23/04/2019 - 25/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (11/02/2019 - 18/04/2019)",
+        "Discentes": "18",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0027 - HISTORIA E FUNDAMENTOS DA FISIOTERAPIA",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "33",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "VESCIA VIEIRA DE ALENCAR CALDAS",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "35T2345 (09/04/2019 - 20/06/2019), 35T2345 4T45 (25/06/2019 - 27/06/2019)",
+        "Discentes": "6",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "VESCIA VIEIRA DE ALENCAR CALDAS",
+        "Componente Curricular": "FST0325 - PSICOMOTRICIDADE",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "10",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "VINÍCIUS VIEIRA DE ALENCAR CALDAS",
+        "Componente Curricular": "FST0304 - METODOS E TECNICAS DE AVALIACAO",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "23",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "WOUBER HÉRICKSON DE BRITO VIEIRA",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "2",
+        "Horário": "24M23 35M234 (08/04/2019 - 27/06/2019)",
+        "Discentes": "9",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "2.56"
+    },
+    {
+        "Docente": "WOUBER HÉRICKSON DE BRITO VIEIRA",
+        "Componente Curricular": "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (11/02/2019 - 04/04/2019)",
+        "Discentes": "25",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "ALVARO CAMPOS CAVALCANTI MACIEL",
+        "Componente Curricular": "FST0306 - CINESIOTERAPIA",
+        "Turma": "1",
+        "Horário": "23M234 4M23",
+        "Discentes": "23",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "ALVARO CAMPOS CAVALCANTI MACIEL",
+        "Componente Curricular": "FST0304 - METODOS E TECNICAS DE AVALIACAO",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "27",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "ANA RAQUEL RODRIGUES LINDQUIST",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M2345 5T2345 (30/07/2018 - 19/09/2018)",
+        "Discentes": "21",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.67"
+    },
+    {
+        "Docente": "CAROLINA DANIEL DE LIMA ALVAREZ",
+        "Componente Curricular": "FST0326 - FISIOTERAPIA DERMATO - FUNCIONAL",
+        "Turma": "1",
+        "Horário": "4T2345",
+        "Discentes": "24",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "CAROLINA DANIEL DE LIMA ALVAREZ",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "24M2345 (24/09/2018 - 17/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "CAROLINA DANIEL DE LIMA ALVAREZ",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M2345 5T2345 (30/07/2018 - 19/09/2018)",
+        "Discentes": "21",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "CLECIO GABRIEL DE SOUZA",
+        "Componente Curricular": "FST0055 - PRÁTICA TERAPÊUTICA SUPERVISIONADA IV",
+        "Turma": "2",
+        "Horário": "35M123 4M23 (08/10/2018 - 14/12/2018)",
+        "Discentes": "5",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "CLECIO GABRIEL DE SOUZA",
+        "Componente Curricular": "FST0055 - PRÁTICA TERAPÊUTICA SUPERVISIONADA IV",
+        "Turma": "4",
+        "Horário": "35M123 4M12 (30/07/2018 - 06/10/2018)",
+        "Discentes": "5",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "35M2345 (25/09/2018 - 13/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "356M2345 (30/07/2018 - 21/09/2018)",
+        "Discentes": "21",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0035.0 - RECURSOS TERAPÊUTICOS MANUAIS",
+        "Turma": "1",
+        "Horário": "2M56 (30/07/2018 - 07/12/2018)",
+        "Discentes": "21",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA",
+        "Turma": "1",
+        "Horário": "4M4 (30/07/2018 - 14/12/2018)",
+        "Discentes": "13",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "FABRICIA AZEVEDO DA COSTA CAVALCANTI",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "35T2345 (18/09/2018 - 06/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "FABRICIA AZEVEDO DA COSTA CAVALCANTI",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "4M56 35T2345 (30/07/2018 - 13/09/2018), 4M56 (19/09/2018 - 12/12/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "FABRICIA AZEVEDO DA COSTA CAVALCANTI",
+        "Componente Curricular": "DIM0122 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "7",
+        "Média Geral": "7.86",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0013 - FISIOLOGIA DO EXERCÍCIO",
+        "Turma": "1",
+        "Horário": "3T2345",
+        "Discentes": "25",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "25M456 (01/10/2018 - 03/12/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (30/07/2018 - 27/09/2018)",
+        "Discentes": "27",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "GILDASIO LUCAS DE LUCENA",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (19/09/2018 - 07/12/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "GILDASIO LUCAS DE LUCENA",
+        "Componente Curricular": "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (30/07/2018 - 18/09/2018)",
+        "Discentes": "20",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "IVAN DANIEL BEZERRA NOGUEIRA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "2M23 (06/08/2018 - 08/10/2018), 2M23 4M23456 6M2345 (10/10/2018 - 07/12/2018), 4M23456 (12/12/2018 - 12/12/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "IVAN DANIEL BEZERRA NOGUEIRA",
+        "Componente Curricular": "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "46M2345 (08/08/2018 - 17/08/2018), 7M2 (18/08/2018 - 18/08/2018), 46M2345 7M3 (22/08/2018 - 31/08/2018), 7M2345 (01/09/2018 - 01/09/2018), 46M2345 (05/09/2018 - 14/09/2018), 7M2345 (15/09/2018 - 15/09/2018), 46M2345 (19/09/2018 - 08/10/2018)",
+        "Discentes": "28",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "IVAN DANIEL BEZERRA NOGUEIRA",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "3M2345 5M23 (02/10/2018 - 04/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.89"
+    },
+    {
+        "Docente": "JAMILSON SIMOES BRASILEIRO",
+        "Componente Curricular": "FST0303 - CINESIOLOGIA",
+        "Turma": "1",
+        "Horário": "35M345 4M34",
+        "Discentes": "27",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.86"
+    },
+    {
+        "Docente": "JAQUELINE FERNANDES PONTES",
+        "Componente Curricular": "FST0327 - DEFICIENCIA NO CONTEXTO DA SOCIEDADE",
+        "Turma": "1",
+        "Horário": "6M2345 (30/07/2018 - 22/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "8.47",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "JAQUELINE FERNANDES PONTES",
+        "Componente Curricular": "DSC0090 - SAUDE E CIDADANIA",
+        "Turma": "12",
+        "Horário": "5M2345 (30/07/2018 - 22/12/2018)",
+        "Discentes": "14",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "2.45"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "25M456 (01/10/2018 - 03/12/2018)",
+        "Discentes": "13",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (30/07/2018 - 27/09/2018)",
+        "Discentes": "27",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (02/10/2018 - 04/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "JULIANA MARIA GAZZOLA",
+        "Componente Curricular": "FST0016 - INTRODUÇÃO A TECNOLOGIA ASSISTIVA",
+        "Turma": "1",
+        "Horário": "24T45",
+        "Discentes": "26",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "KARLA MORGANNA PEREIRA PINTO DE MENDONCA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "2M23 (06/08/2018 - 08/10/2018), 2M23 4M23456 6M2345 (10/10/2018 - 07/12/2018), 4M23456 (12/12/2018 - 12/12/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "KARLA MORGANNA PEREIRA PINTO DE MENDONCA",
+        "Componente Curricular": "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "46M2345 (08/08/2018 - 17/08/2018), 7M2 (18/08/2018 - 18/08/2018), 46M2345 7M3 (22/08/2018 - 31/08/2018), 7M2345 (01/09/2018 - 01/09/2018), 46M2345 (05/09/2018 - 14/09/2018), 7M2345 (15/09/2018 - 15/09/2018), 46M2345 (19/09/2018 - 08/10/2018)",
+        "Discentes": "28",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0303 - CINESIOLOGIA",
+        "Turma": "1",
+        "Horário": "35M345 4M34",
+        "Discentes": "27",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.81"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "2",
+        "Horário": "6M45 24T2345 (19/10/2018 - 14/11/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "4",
+        "Horário": "6M45 24T2345 (19/09/2018 - 17/10/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (30/07/2018 - 17/09/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.83"
+    },
+    {
+        "Docente": "LILIAN LIRA LISBOA",
+        "Componente Curricular": "MGO0009 - COMPETENCIA CULTURAL NA ATENÇÃO A SAUDE DA MULHER QUILOMBOLA",
+        "Turma": "01A",
+        "Horário": "6T2346",
+        "Discentes": "6",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "0.41"
+    },
+    {
+        "Docente": "LUCIANA PROTASIO DE MELO",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "35T2345 (18/09/2018 - 06/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "LUCIANA PROTASIO DE MELO",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "4M56 35T2345 (30/07/2018 - 13/09/2018), 4M56 (19/09/2018 - 12/12/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "LUCIANA PROTASIO DE MELO",
+        "Componente Curricular": "FST0325 - PSICOMOTRICIDADE",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "10",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "35M2345 (25/09/2018 - 13/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "0.75"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "356M2345 (30/07/2018 - 21/09/2018)",
+        "Discentes": "21",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "PATRICIA ANGELICA DE MIRANDA SILVA NOGUEIRA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "2M23 (06/08/2018 - 08/10/2018), 2M23 4M23456 6M2345 (10/10/2018 - 07/12/2018), 4M23456 (12/12/2018 - 12/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.85"
+    },
+    {
+        "Docente": "PATRICIA ANGELICA DE MIRANDA SILVA NOGUEIRA",
+        "Componente Curricular": "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "46M2345 (08/08/2018 - 17/08/2018), 7M2 (18/08/2018 - 18/08/2018), 46M2345 7M3 (22/08/2018 - 31/08/2018), 7M2345 (01/09/2018 - 01/09/2018), 46M2345 (05/09/2018 - 14/09/2018), 7M2345 (15/09/2018 - 15/09/2018), 46M2345 (19/09/2018 - 08/10/2018)",
+        "Discentes": "28",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "RAFAEL LIMEIRA CAVALCANTI",
+        "Componente Curricular": "FST0015 - FISIOTERAPIA AQUÁTICA",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "20",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "RAFAEL LIMEIRA CAVALCANTI",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "3",
+        "Horário": "24M23 35M234 (19/09/2018 - 07/12/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "RAFAEL LIMEIRA CAVALCANTI",
+        "Componente Curricular": "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (30/07/2018 - 18/09/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "RAFAEL LIMEIRA CAVALCANTI",
+        "Componente Curricular": "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA",
+        "Turma": "2",
+        "Horário": "4M5 (30/07/2018 - 14/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "RAYSA VANESSA DE MEDEIROS FREITAS",
+        "Componente Curricular": "FST0015 - FISIOTERAPIA AQUÁTICA",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "20",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "RAYSA VANESSA DE MEDEIROS FREITAS",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "24M2345 (24/09/2018 - 17/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "0.59"
+    },
+    {
+        "Docente": "RICARDO OLIVEIRA GUERRA",
+        "Componente Curricular": "FST0302 - FUNDAMENTOS DE EPIDEMIOLOGIA E SAUDE PUBLICA",
+        "Turma": "1",
+        "Horário": "3M123",
+        "Discentes": "31",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "RICARDO OLIVEIRA GUERRA",
+        "Componente Curricular": "FST0026 - METODOLOGIA DA PESQUISA CIENTIFICA",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "23",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "DSC0063 - ATIVIDADE INTERATIVA INTERDISCIPLINAR II: SAÚDE E CIDADANIA (SACI II)",
+        "Turma": "3",
+        "Horário": "3T2345",
+        "Discentes": "11",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "FST0326 - FISIOTERAPIA DERMATO - FUNCIONAL",
+        "Turma": "1",
+        "Horário": "4T2345",
+        "Discentes": "24",
+        "Média Geral": "8.96",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "35M2345 (25/09/2018 - 13/12/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "356M2345 (30/07/2018 - 21/09/2018)",
+        "Discentes": "21",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (19/09/2018 - 17/10/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "4",
+        "Horário": "6M45 24T2345 (19/10/2018 - 14/11/2018)",
+        "Discentes": "5",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "5",
+        "Horário": "6M45 24T2345 (16/11/2018 - 14/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (30/07/2018 - 17/09/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "3M34 (30/07/2018 - 15/12/2018)",
+        "Discentes": "12",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.5"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "3M34 (30/07/2018 - 15/12/2018)",
+        "Discentes": "13",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.8"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "3M34 (30/07/2018 - 15/12/2018)",
+        "Discentes": "13",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.45"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "4",
+        "Horário": "3M34 (30/07/2018 - 15/12/2018)",
+        "Discentes": "12",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0013 - FISIOLOGIA DO EXERCÍCIO",
+        "Turma": "1",
+        "Horário": "3T2345",
+        "Discentes": "25",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (30/07/2018 - 27/09/2018)",
+        "Discentes": "27",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "FST0015 - FISIOTERAPIA AQUÁTICA",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "20",
+        "Média Geral": "7.99",
+        "Desvio Padrão Geral": "2.59"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "24M2345 (24/09/2018 - 17/12/2018)",
+        "Discentes": "11",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M2345 5T2345 (30/07/2018 - 19/09/2018)",
+        "Discentes": "21",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.62"
+    },
+    {
+        "Docente": "TANIA FERNANDES CAMPOS",
+        "Componente Curricular": "FST0324 - APRENDIZAGEM E CONTROLE MOTOR",
+        "Turma": "1",
+        "Horário": "6M234",
+        "Discentes": "20",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "TANIA FERNANDES CAMPOS",
+        "Componente Curricular": "FST0306 - CINESIOTERAPIA",
+        "Turma": "1",
+        "Horário": "23M234 4M23",
+        "Discentes": "23",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "3",
+        "Horário": "6M45 24T2345 (16/11/2018 - 14/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "5",
+        "Horário": "6M45 24T2345 (19/10/2018 - 14/11/2018)",
+        "Discentes": "8",
+        "Média Geral": "8.4",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (30/07/2018 - 17/09/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "35T2345 (18/09/2018 - 06/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "4M56 35T2345 (30/07/2018 - 13/09/2018), 4M56 (19/09/2018 - 12/12/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0304 - METODOS E TECNICAS DE AVALIACAO",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "27",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.86"
+    },
+    {
+        "Docente": "TULIO OLIVEIRA DE SOUZA",
+        "Componente Curricular": "FST0307 - ELETROTERMOFOTOTERAPIA",
+        "Turma": "1",
+        "Horário": "34T23 5T2345",
+        "Discentes": "22",
+        "Média Geral": "8.02",
+        "Desvio Padrão Geral": "2.42"
+    },
+    {
+        "Docente": "TÁCITO ZAILDO DE MORAIS SANTOS",
+        "Componente Curricular": "FST0101 - ETICA E DEONTOLOGIA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "29",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "TÁCITO ZAILDO DE MORAIS SANTOS",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "3M2345 5M23 (02/10/2018 - 04/12/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "TÁCITO ZAILDO DE MORAIS SANTOS",
+        "Componente Curricular": "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (30/07/2018 - 27/09/2018)",
+        "Discentes": "27",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "TÁCITO ZAILDO DE MORAIS SANTOS",
+        "Componente Curricular": "FST0027 - HISTORIA E FUNDAMENTOS DA FISIOTERAPIA",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "33",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "WOUBER HÉRICKSON DE BRITO VIEIRA",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "2",
+        "Horário": "24M23 35M234 (19/09/2018 - 07/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "WOUBER HÉRICKSON DE BRITO VIEIRA",
+        "Componente Curricular": "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (30/07/2018 - 18/09/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "ALVARO CAMPOS CAVALCANTI MACIEL",
+        "Componente Curricular": "FST0306 - CINESIOTERAPIA",
+        "Turma": "1",
+        "Horário": "23M234 4M23",
+        "Discentes": "28",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "ANA RAQUEL RODRIGUES LINDQUIST",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "24M2345 (16/04/2018 - 02/07/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "ANA RAQUEL RODRIGUES LINDQUIST",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "246M2345 (19/02/2018 - 13/04/2018)",
+        "Discentes": "27",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "CAROLINA DANIEL DE LIMA ALVAREZ",
+        "Componente Curricular": "FST0326 - FISIOTERAPIA DERMATO - FUNCIONAL",
+        "Turma": "1",
+        "Horário": "4T2345",
+        "Discentes": "26",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "CAROLINA DANIEL DE LIMA ALVAREZ",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "24M2345 (16/04/2018 - 02/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "CAROLINA DANIEL DE LIMA ALVAREZ",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "246M2345 (19/02/2018 - 13/04/2018)",
+        "Discentes": "27",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "DANIEL GERMANO MACIEL",
+        "Componente Curricular": "FST0304 - METODOS E TECNICAS DE AVALIACAO",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "20",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.62"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "35M2345 (10/04/2018 - 03/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "35M2345 (20/02/2018 - 05/04/2018), 6M2345 (20/04/2018 - 29/06/2018)",
+        "Discentes": "26",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0035.0 - RECURSOS TERAPÊUTICOS MANUAIS",
+        "Turma": "1",
+        "Horário": "2M56 (19/02/2018 - 18/06/2018)",
+        "Discentes": "27",
+        "Média Geral": "8.28",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA",
+        "Turma": "2",
+        "Horário": "4M5 (21/02/2018 - 20/06/2018)",
+        "Discentes": "12",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.73"
+    },
+    {
+        "Docente": "FABRICIA AZEVEDO DA COSTA CAVALCANTI",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "35T2345 (10/04/2018 - 03/07/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "FABRICIA AZEVEDO DA COSTA CAVALCANTI",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "35T2345 4T45 (19/02/2018 - 07/04/2018), 4T45 (08/04/2018 - 05/07/2018)",
+        "Discentes": "26",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.92"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0013 - FISIOLOGIA DO EXERCÍCIO",
+        "Turma": "1",
+        "Horário": "3T2345",
+        "Discentes": "17",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "25M456 (30/04/2018 - 05/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (19/02/2018 - 26/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "GILDASIO LUCAS DE LUCENA",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (11/04/2018 - 28/06/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "GILDASIO LUCAS DE LUCENA",
+        "Componente Curricular": "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (19/02/2018 - 10/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "GUILHERME AUGUSTO DE FREITAS FREGONEZI",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (26/04/2018 - 05/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "GUILHERME AUGUSTO DE FREITAS FREGONEZI",
+        "Componente Curricular": "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (20/02/2018 - 24/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "IVAN DANIEL BEZERRA NOGUEIRA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "2M23 (19/02/2018 - 23/04/2018), 2M23 46M2345 (27/04/2018 - 27/06/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "IVAN DANIEL BEZERRA NOGUEIRA",
+        "Componente Curricular": "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "46M2345 (21/02/2018 - 25/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "JAQUELINE FERNANDES PONTES",
+        "Componente Curricular": "FST0327 - DEFICIENCIA NO CONTEXTO DA SOCIEDADE",
+        "Turma": "1",
+        "Horário": "6M2345 (19/02/2018 - 07/07/2018)",
+        "Discentes": "20",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2.8"
+    },
+    {
+        "Docente": "JAQUELINE FERNANDES PONTES",
+        "Componente Curricular": "DSC0090 - SAUDE E CIDADANIA",
+        "Turma": "4",
+        "Horário": "5M2345 (19/02/2018 - 07/07/2018)",
+        "Discentes": "16",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "25M456 (30/04/2018 - 05/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (19/02/2018 - 26/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "3M2345 5M23 (26/04/2018 - 05/07/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "JULIANA MARIA GAZZOLA",
+        "Componente Curricular": "FST0033 - GERONTOLOGIA",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "17",
+        "Média Geral": "8.85",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "JULIANA MARIA GAZZOLA",
+        "Componente Curricular": "FST0016 - INTRODUÇÃO A TECNOLOGIA ASSISTIVA",
+        "Turma": "1",
+        "Horário": "24T45",
+        "Discentes": "34",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "KARLA MORGANNA PEREIRA PINTO DE MENDONCA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "2M23 (19/02/2018 - 23/04/2018), 2M23 46M2345 (27/04/2018 - 27/06/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "LIANE DE BRITO MACEDO",
+        "Componente Curricular": "FST0303 - CINESIOLOGIA",
+        "Turma": "1",
+        "Horário": "35M345 4M34",
+        "Discentes": "21",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "0.7"
+    },
+    {
+        "Docente": "LIDIANE CRISTINA CORREIA BULHOES",
+        "Componente Curricular": "FST0015 - FISIOTERAPIA AQUÁTICA",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "33",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "LIDIANE CRISTINA CORREIA BULHOES",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "3",
+        "Horário": "6M45 24T2345 (11/04/2018 - 04/05/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "LIDIANE CRISTINA CORREIA BULHOES",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (07/05/2018 - 30/05/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "LIDIANE CRISTINA CORREIA BULHOES",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "2",
+        "Horário": "6M45 24T2345 (01/06/2018 - 25/06/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "LIDIANE CRISTINA CORREIA BULHOES",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (19/02/2018 - 09/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "LILIAN LIRA LISBOA",
+        "Componente Curricular": "MGO0009 - COMPETENCIA CULTURAL NA ATENÇÃO A SAUDE DA MULHER QUILOMBOLA",
+        "Turma": "01A",
+        "Horário": "7M56 6T56",
+        "Discentes": "7",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.29"
+    },
+    {
+        "Docente": "LUCIANA PROTASIO DE MELO",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "35T2345 (10/04/2018 - 03/07/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "LUCIANA PROTASIO DE MELO",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "35T2345 4T45 (19/02/2018 - 07/04/2018), 4T45 (08/04/2018 - 05/07/2018)",
+        "Discentes": "26",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "LUCIANA PROTASIO DE MELO",
+        "Componente Curricular": "FST0325 - PSICOMOTRICIDADE",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "8",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "35M2345 (10/04/2018 - 03/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "35M2345 (20/02/2018 - 05/04/2018), 6M2345 (20/04/2018 - 29/06/2018)",
+        "Discentes": "26",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0035.0 - RECURSOS TERAPÊUTICOS MANUAIS",
+        "Turma": "1",
+        "Horário": "2M56 (19/02/2018 - 18/06/2018)",
+        "Discentes": "27",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.66"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA",
+        "Turma": "1",
+        "Horário": "4M4 (21/02/2018 - 20/06/2018)",
+        "Discentes": "15",
+        "Média Geral": "8.64",
+        "Desvio Padrão Geral": "2.24"
+    },
+    {
+        "Docente": "PATRICIA ANGELICA DE MIRANDA SILVA NOGUEIRA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "2M23 (19/02/2018 - 23/04/2018), 2M23 46M2345 (27/04/2018 - 27/06/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "PATRICIA ANGELICA DE MIRANDA SILVA NOGUEIRA",
+        "Componente Curricular": "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "46M2345 (21/02/2018 - 25/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "RICARDO OLIVEIRA GUERRA",
+        "Componente Curricular": "FST0302 - FUNDAMENTOS DE EPIDEMIOLOGIA E SAUDE PUBLICA",
+        "Turma": "1",
+        "Horário": "3M123",
+        "Discentes": "25",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "RICARDO OLIVEIRA GUERRA",
+        "Componente Curricular": "FST0026 - METODOLOGIA DA PESQUISA CIENTIFICA",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "31",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "DSC0063 - ATIVIDADE INTERATIVA INTERDISCIPLINAR II: SAÚDE E CIDADANIA (SACI II)",
+        "Turma": "3",
+        "Horário": "3T2345",
+        "Discentes": "15",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "35M2345 (10/04/2018 - 03/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "35M2345 (20/02/2018 - 05/04/2018), 6M2345 (20/04/2018 - 29/06/2018)",
+        "Discentes": "26",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "2",
+        "Horário": "6M45 24T2345 (11/04/2018 - 04/05/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "3",
+        "Horário": "6M45 24T2345 (07/05/2018 - 30/05/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (01/06/2018 - 25/06/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (19/02/2018 - 09/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "3M34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "13",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.77"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "3M34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "13",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.08"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "3M34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "13",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "4",
+        "Horário": "3M34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.31"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0013 - FISIOLOGIA DO EXERCÍCIO",
+        "Turma": "1",
+        "Horário": "3T2345",
+        "Discentes": "17",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "25M456 (30/04/2018 - 05/07/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (19/02/2018 - 26/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "FST0015 - FISIOTERAPIA AQUÁTICA",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "33",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "24M2345 (16/04/2018 - 02/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "246M2345 (19/02/2018 - 13/04/2018)",
+        "Discentes": "27",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "TANIA FERNANDES CAMPOS",
+        "Componente Curricular": "FST0324 - APRENDIZAGEM E CONTROLE MOTOR",
+        "Turma": "1",
+        "Horário": "6M234",
+        "Discentes": "18",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "TANIA FERNANDES CAMPOS",
+        "Componente Curricular": "FST0306 - CINESIOTERAPIA",
+        "Turma": "1",
+        "Horário": "23M234 4M23",
+        "Discentes": "28",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (11/04/2018 - 04/05/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "2",
+        "Horário": "6M45 24T2345 (07/05/2018 - 30/05/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "3",
+        "Horário": "6M45 24T2345 (01/06/2018 - 25/06/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (19/02/2018 - 09/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "35T2345 (10/04/2018 - 03/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "35T2345 4T45 (19/02/2018 - 07/04/2018), 4T45 (08/04/2018 - 05/07/2018)",
+        "Discentes": "26",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0304 - METODOS E TECNICAS DE AVALIACAO",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "20",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.92"
+    },
+    {
+        "Docente": "TULIO OLIVEIRA DE SOUZA",
+        "Componente Curricular": "FST0307 - ELETROTERMOFOTOTERAPIA",
+        "Turma": "1",
+        "Horário": "34T23 5T2345",
+        "Discentes": "27",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0101 - ETICA E DEONTOLOGIA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "33",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "3M2345 5M23 (26/04/2018 - 05/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (20/02/2018 - 24/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0027 - HISTORIA E FUNDAMENTOS DA FISIOTERAPIA",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "29",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "WOUBER HÉRICKSON DE BRITO VIEIRA",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "2",
+        "Horário": "24M23 35M234 (11/04/2018 - 28/06/2018)",
+        "Discentes": "12",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "WOUBER HÉRICKSON DE BRITO VIEIRA",
+        "Componente Curricular": "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (19/02/2018 - 10/04/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "ALVARO CAMPOS CAVALCANTI MACIEL",
+        "Componente Curricular": "FST0306 - CINESIOTERAPIA",
+        "Turma": "1",
+        "Horário": "23M234 4M23",
+        "Discentes": "24",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "ANA RAQUEL RODRIGUES LINDQUIST",
+        "Componente Curricular": "FST0045.1 - FISIOTERAPIA PEDIATRICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "24M2345 (11/09/2017 - 29/11/2017)",
+        "Discentes": "6",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "ANA RAQUEL RODRIGUES LINDQUIST",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "246M2345 (24/07/2017 - 06/09/2017), 6M2345 (08/09/2017 - 22/09/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "CAROLINA DANIEL DE LIMA ALVAREZ",
+        "Componente Curricular": "DSC0063 - ATIVIDADE INTERATIVA INTERDISCIPLINAR II: SAÚDE E CIDADANIA (SACI II)",
+        "Turma": "8",
+        "Horário": "3T2345",
+        "Discentes": "8",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "CAROLINA DANIEL DE LIMA ALVAREZ",
+        "Componente Curricular": "FST0045.0 - FISIOTERAPIA PEDIATRICA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "246M2345 (24/07/2017 - 06/09/2017), 6M2345 (08/09/2017 - 22/09/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "CAROLINA DANIEL DE LIMA ALVAREZ",
+        "Componente Curricular": "FST0325 - PSICOMOTRICIDADE",
+        "Turma": "1",
+        "Horário": "4T234",
+        "Discentes": "17",
+        "Média Geral": "8.78",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "CATARINA DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FST0015 - FISIOTERAPIA AQUÁTICA",
+        "Turma": "1",
+        "Horário": "5M3456",
+        "Discentes": "25",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "CATARINA DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FST0035.0 - RECURSOS TERAPÊUTICOS MANUAIS",
+        "Turma": "1",
+        "Horário": "6M34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "22",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "CATARINA DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA",
+        "Turma": "1",
+        "Horário": "6M6 (24/07/2017 - 16/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "CATARINA DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FST0035.1 - RECURSOS TERAPÊUTICOS MANUAIS-PRÁTICA",
+        "Turma": "2",
+        "Horário": "6M5 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "DANIEL GERMANO MACIEL",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "3",
+        "Horário": "24M23 35M234 (13/09/2017 - 07/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "DANIEL GERMANO MACIEL",
+        "Componente Curricular": "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (24/07/2017 - 12/09/2017)",
+        "Discentes": "25",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "DANIEL GERMANO MACIEL",
+        "Componente Curricular": "FST0304 - METODOS E TECNICAS DE AVALIACAO",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "29",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "35M2345 (12/09/2017 - 12/12/2017)",
+        "Discentes": "5",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "ELIZABEL DE SOUZA RAMALHO VIANA",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "35M2345 (25/07/2017 - 07/09/2017), 6M2345 (29/09/2017 - 01/12/2017)",
+        "Discentes": "11",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "FABRICIA AZEVEDO DA COSTA CAVALCANTI",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "35M2345 (12/09/2017 - 12/12/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "FABRICIA AZEVEDO DA COSTA CAVALCANTI",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "35M2345 4M23 (25/07/2017 - 07/09/2017), 4M23 (13/09/2017 - 07/12/2017)",
+        "Discentes": "27",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "0.84"
+    },
+    {
+        "Docente": "FABRICIA AZEVEDO DA COSTA CAVALCANTI",
+        "Componente Curricular": "DEB0512 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "11",
+        "Média Geral": "8.11",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0013 - FISIOLOGIA DO EXERCÍCIO",
+        "Turma": "1",
+        "Horário": "3T2345",
+        "Discentes": "28",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "GERSON FONSECA DE SOUZA",
+        "Componente Curricular": "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "25M456 (28/09/2017 - 04/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "GILDASIO LUCAS DE LUCENA",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (13/09/2017 - 07/12/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "GILDASIO LUCAS DE LUCENA",
+        "Componente Curricular": "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (24/07/2017 - 12/09/2017)",
+        "Discentes": "25",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "GILDASIO LUCAS DE LUCENA",
+        "Componente Curricular": "FST0016 - INTRODUÇÃO A TECNOLOGIA ASSISTIVA",
+        "Turma": "1",
+        "Horário": "24T45",
+        "Discentes": "30",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "GUILHERME AUGUSTO DE FREITAS FREGONEZI",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (28/09/2017 - 12/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "GUILHERME AUGUSTO DE FREITAS FREGONEZI",
+        "Componente Curricular": "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (24/07/2017 - 26/09/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "IVANIZIA SOARES DA SILVA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "2M23 (24/07/2017 - 22/09/2017), 2M23 46M2345 (25/09/2017 - 01/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "IVANIZIA SOARES DA SILVA",
+        "Componente Curricular": "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "46M2345 (24/07/2017 - 22/09/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "JAMILSON SIMOES BRASILEIRO",
+        "Componente Curricular": "FST0303 - CINESIOLOGIA",
+        "Turma": "1",
+        "Horário": "35M345 4M34",
+        "Discentes": "30",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "JAQUELINE FERNANDES PONTES",
+        "Componente Curricular": "FST0327 - DEFICIENCIA NO CONTEXTO DA SOCIEDADE",
+        "Turma": "1",
+        "Horário": "2T23 3T45 (24/07/2017 - 16/12/2017)",
+        "Discentes": "22",
+        "Média Geral": "8.46",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "JAQUELINE FERNANDES PONTES",
+        "Componente Curricular": "DSC0090 - SAUDE E CIDADANIA",
+        "Turma": "4",
+        "Horário": "5M2345 (24/07/2017 - 16/12/2017)",
+        "Discentes": "11",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "25M456 (28/09/2017 - 04/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "8.67",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (24/07/2017 - 25/09/2017)",
+        "Discentes": "25",
+        "Média Geral": "8.56",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "JOCELINE CASSIA FEREZINI DE SA",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "3M2345 5M23 (28/09/2017 - 12/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "JULIANA MARIA GAZZOLA",
+        "Componente Curricular": "FST0033 - GERONTOLOGIA",
+        "Turma": "1",
+        "Horário": "3T2345",
+        "Discentes": "18",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "JULIANA MARIA GAZZOLA",
+        "Componente Curricular": "FST0016 - INTRODUÇÃO A TECNOLOGIA ASSISTIVA",
+        "Turma": "1",
+        "Horário": "24T45",
+        "Discentes": "30",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "KARLA MORGANNA PEREIRA PINTO DE MENDONCA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "2M23 (24/07/2017 - 22/09/2017), 2M23 46M2345 (25/09/2017 - 01/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "KARLA MORGANNA PEREIRA PINTO DE MENDONCA",
+        "Componente Curricular": "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "46M2345 (24/07/2017 - 22/09/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "2",
+        "Horário": "6M45 24T2345 (13/09/2017 - 06/10/2017)",
+        "Discentes": "7",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (09/10/2017 - 01/11/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "3",
+        "Horário": "6M45 24T2345 (03/11/2017 - 29/11/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "KARYNA MYRELLY OLIVEIRA BEZERRA DE FIGUEIREDO RIBEIRO",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (24/07/2017 - 11/09/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "LUCIANA PROTASIO DE MELO",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "35M2345 (12/09/2017 - 12/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "LUCIANA PROTASIO DE MELO",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "35M2345 4M23 (25/07/2017 - 07/09/2017), 4M23 (13/09/2017 - 07/12/2017)",
+        "Discentes": "27",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.85"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0044.1 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "35M2345 (12/09/2017 - 12/12/2017)",
+        "Discentes": "6",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "MARIA THEREZA ALBUQUERQUE BARBOSA CABRAL MICUSSI",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "35M2345 (25/07/2017 - 07/09/2017), 6M2345 (29/09/2017 - 01/12/2017)",
+        "Discentes": "11",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "PATRICIA ANGELICA DE MIRANDA SILVA NOGUEIRA",
+        "Componente Curricular": "FST0047.1 - FISIOTERAPIA RESPIRATÓRIA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "2M23 (24/07/2017 - 22/09/2017), 2M23 46M2345 (25/09/2017 - 01/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "PATRICIA ANGELICA DE MIRANDA SILVA NOGUEIRA",
+        "Componente Curricular": "FST0047.0 - FISIOTERAPIA RESPIRATÓRIA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "46M2345 (24/07/2017 - 22/09/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "RICARDO OLIVEIRA GUERRA",
+        "Componente Curricular": "FST0302 - FUNDAMENTOS DE EPIDEMIOLOGIA E SAUDE PUBLICA",
+        "Turma": "1",
+        "Horário": "3M123",
+        "Discentes": "30",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "RICARDO OLIVEIRA GUERRA",
+        "Componente Curricular": "FST0026 - METODOLOGIA DA PESQUISA CIENTIFICA",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "21",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "FST0326 - FISIOTERAPIA DERMATO - FUNCIONAL",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "12",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "FST0044.0 - FISIOTERAPIA UROGINECOLÓGICA E OBSTÉTRICA- TEÓRICA",
+        "Turma": "1",
+        "Horário": "35M2345 (25/07/2017 - 07/09/2017), 6M2345 (29/09/2017 - 01/12/2017)",
+        "Discentes": "11",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "ROSEMARY ARAUJO MONTEIRO",
+        "Componente Curricular": "DSC0090 - SAUDE E CIDADANIA",
+        "Turma": "12",
+        "Horário": "5M2345 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "3",
+        "Horário": "6M45 24T2345 (13/09/2017 - 06/10/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "2",
+        "Horário": "6M45 24T2345 (09/10/2017 - 01/11/2017)",
+        "Discentes": "7",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (03/11/2017 - 29/11/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (24/07/2017 - 11/09/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "3M34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "13",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "0.15"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "3M34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.58"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "3M34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "13",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "0.89"
+    },
+    {
+        "Docente": "SANDRA CRISTINA DE ANDRADE",
+        "Componente Curricular": "MCL0031.1 - REUMATOLOGIA - PRÁTICA",
+        "Turma": "4",
+        "Horário": "3M34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0013 - FISIOLOGIA DO EXERCÍCIO",
+        "Turma": "1",
+        "Horário": "3T2345",
+        "Discentes": "28",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0048.1 - FISIOTERAPIA CARDIOLÓGICA - PRÁTICA",
+        "Turma": "1",
+        "Horário": "25M456 (28/09/2017 - 04/12/2017)",
+        "Discentes": "9",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "SELMA SOUSA BRUNO",
+        "Componente Curricular": "FST0048.0 - FISIOTERAPIA CARDIOLÓGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "25M456 (24/07/2017 - 25/09/2017)",
+        "Discentes": "25",
+        "Média Geral": "8.36",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "CST2194.1 - ATENÇÃO FISIOTERAPÊUTICA NA SAÚDE DA CRIANÇA - ALTA COMPLEXIDADE - TEÓRICA II",
+        "Turma": "1",
+        "Horário": "246T123456 (25/08/2017 - 01/09/2017)",
+        "Discentes": "23",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "CST2194.3 - ATENÇÃO FISIOTERAPÊUTICA NA SAÚDE DA CRIANÇA - ALTA COMPLEXIDADE ENFERMARIA E UTI - PRÁTICA II",
+        "Turma": "3",
+        "Horário": "246T123456 (04/09/2017 - 11/09/2017)",
+        "Discentes": "5",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.6"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "CST2194.3 - ATENÇÃO FISIOTERAPÊUTICA NA SAÚDE DA CRIANÇA - ALTA COMPLEXIDADE ENFERMARIA E UTI - PRÁTICA II",
+        "Turma": "5",
+        "Horário": "246T123456 (22/09/2017 - 29/09/2017)",
+        "Discentes": "5",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "SILVANA ALVES PEREIRA",
+        "Componente Curricular": "CST2194.0 - ATENÇÃO FISIOTERAPÊUTICA NA SAÚDE DA CRIANÇA - ATENÇÃO BÁSICA E MÉDIA COMPLEXIDADE - TEÓRICA I",
+        "Turma": "1",
+        "Horário": "246T123456 (24/07/2017 - 23/08/2017)",
+        "Discentes": "23",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "TANIA FERNANDES CAMPOS",
+        "Componente Curricular": "FST0324 - APRENDIZAGEM E CONTROLE MOTOR",
+        "Turma": "1",
+        "Horário": "6M234",
+        "Discentes": "17",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "TANIA FERNANDES CAMPOS",
+        "Componente Curricular": "FST0306 - CINESIOTERAPIA",
+        "Turma": "1",
+        "Horário": "23M234 4M23",
+        "Discentes": "24",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.1 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA I",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (13/09/2017 - 06/10/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.2 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA II",
+        "Turma": "3",
+        "Horário": "6M45 24T2345 (09/10/2017 - 01/11/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.3 - FISIOTERAPIA EM REUMATOLOGIA - PRÁTICA III",
+        "Turma": "2",
+        "Horário": "6M45 24T2345 (03/11/2017 - 29/11/2017)",
+        "Discentes": "7",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "TANIA REGINA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FST0051.0 - FISIOTERAPIA EM REUMATOLOGIA -TEÓRICA",
+        "Turma": "1",
+        "Horário": "6M45 24T2345 (24/07/2017 - 11/09/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0046.1 - FISIOTERAPIA NEUROLOGICA - PRÁTICA",
+        "Turma": "2",
+        "Horário": "35M2345 (12/09/2017 - 12/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "0.92"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0046.0 - FISIOTERAPIA NEUROLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "35M2345 4M23 (25/07/2017 - 07/09/2017), 4M23 (13/09/2017 - 07/12/2017)",
+        "Discentes": "27",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "0.89"
+    },
+    {
+        "Docente": "TATIANA SOUZA RIBEIRO",
+        "Componente Curricular": "FST0304 - METODOS E TECNICAS DE AVALIACAO",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "29",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "TULIO OLIVEIRA DE SOUZA",
+        "Componente Curricular": "FST0307 - ELETROTERMOFOTOTERAPIA",
+        "Turma": "1",
+        "Horário": "34T23 5T2345",
+        "Discentes": "26",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0101 - ETICA E DEONTOLOGIA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "21",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "0.89"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0049.1 - FISIOTERAPIA VASCULAR PERIFERICA - PRÁTICA",
+        "Turma": "3",
+        "Horário": "3M2345 5M23 (28/09/2017 - 12/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0049.0 - FISIOTERAPIA VASCULAR PERIFERICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "3M2345 5M23 (24/07/2017 - 26/09/2017)",
+        "Discentes": "24",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "VANESSA REGIANE RESQUETI FREGONEZI",
+        "Componente Curricular": "FST0027 - HISTORIA E FUNDAMENTOS DA FISIOTERAPIA",
+        "Turma": "1",
+        "Horário": "2T34",
+        "Discentes": "28",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "WOUBER HÉRICKSON DE BRITO VIEIRA",
+        "Componente Curricular": "FST0050.1 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - PRATICA",
+        "Turma": "2",
+        "Horário": "24M23 35M234 (13/09/2017 - 07/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "WOUBER HÉRICKSON DE BRITO VIEIRA",
+        "Componente Curricular": "FST0050.0 - FISIOTERAPIA ORTOPEDICA E TRAUMATOLOGICA - TEÓRICA",
+        "Turma": "1",
+        "Horário": "24M23 35M234 (24/07/2017 - 12/09/2017)",
+        "Discentes": "25",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.19"
+    }
+]

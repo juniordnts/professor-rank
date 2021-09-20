@@ -1,0 +1,1547 @@
+{
+  "DMP0118 - HELMINTOLOGIA": {
+    "Notas": [
+      8.99,
+      9.34,
+      9.6,
+      9.66,
+      9.69,
+      9.77,
+      9.82,
+      9.87,
+      9.93
+    ],
+    "Desvios": [
+      1.19,
+      1.64,
+      1.76,
+      2.4,
+      1.19,
+      1.86,
+      1.59,
+      1.06,
+      1.23
+    ],
+    "Docentes": [
+      "CECILIA MARIA DE CARVALHO XAVIER HOLANDA",
+      "LOUISIANNY GUERRA DA ROCHA"
+    ],
+    "DesvioDeNotas": 0.279364357863426,
+    "MediaDeNotas": 9.629999999999999,
+    "MediaDeDesvios": 1.5466666666666666,
+    "NotaMediana": 9.69
+  },
+  "DMP0049 - INTRODUÇÃO AO LABORATÓRIO CLÍNICO II": {
+    "Notas": [
+      8.19,
+      8.68,
+      8.78,
+      8.9,
+      9.26,
+      9.28,
+      9.68,
+      9.74,
+      9.8,
+      9.83,
+      9.9,
+      9.95
+    ],
+    "Desvios": [
+      1.06,
+      1.52,
+      1.05,
+      1.28,
+      2.25,
+      1.74,
+      1.41,
+      0.67,
+      0.79,
+      1.89,
+      2.56,
+      2.28
+    ],
+    "Docentes": [
+      "CECILIA MARIA DE CARVALHO XAVIER HOLANDA",
+      "RENATO MOTTA NETO"
+    ],
+    "DesvioDeNotas": 0.5543483411478143,
+    "MediaDeNotas": 9.332500000000001,
+    "MediaDeDesvios": 1.5416666666666667,
+    "NotaMediana": 9.68
+  },
+  "DMP0303 - PARASITOLOGIA": {
+    "Notas": [
+      10,
+      9.91,
+      9.94
+    ],
+    "Desvios": [
+      0.95,
+      0.89,
+      1.98
+    ],
+    "Docentes": [
+      "CECILIA MARIA DE CARVALHO XAVIER HOLANDA",
+      "LOUISIANNY GUERRA DA ROCHA"
+    ],
+    "DesvioDeNotas": 0.03741657386773941,
+    "MediaDeNotas": 9.950000000000001,
+    "MediaDeDesvios": 1.2733333333333332,
+    "NotaMediana": 9.91
+  },
+  "DMP0113 - PARASITOLOGIA": {
+    "Notas": [
+      7.73,
+      9.27,
+      9.49,
+      9.49,
+      9.5,
+      9.57,
+      9.61,
+      9.64,
+      9.65,
+      9.65,
+      9.65,
+      9.75,
+      9.81,
+      9.91
+    ],
+    "Desvios": [
+      1.31,
+      1.29,
+      1.3,
+      1.27,
+      1.18,
+      1.27,
+      1.85,
+      1.61,
+      1.78,
+      1.75,
+      1.41,
+      2.37,
+      1.07,
+      1.15
+    ],
+    "Docentes": [
+      "CECILIA MARIA DE CARVALHO XAVIER HOLANDA",
+      "LOUISIANNY GUERRA DA ROCHA",
+      "PAULO MARCOS DA MATTA GUEDES",
+      "VALTER FERREIRA DE ANDRADE NETO",
+      "MARIA DE FATIMA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.5078807509079835,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 1.4721428571428568,
+    "NotaMediana": 9.64
+  },
+  "DMP0086 - UROANÁLISE": {
+    "Notas": [
+      8.4,
+      9.47,
+      9.7,
+      9.7,
+      9.77,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.61,
+      0.84,
+      1.7,
+      1.91,
+      1.5,
+      1.2,
+      2.1
+    ],
+    "Docentes": [
+      "CECILIA MARIA DE CARVALHO XAVIER HOLANDA",
+      "ERMETON DUARTE DO NASCIMENTO",
+      "RENATO MOTTA NETO"
+    ],
+    "DesvioDeNotas": 0.4745051127657279,
+    "MediaDeNotas": 9.528571428571428,
+    "MediaDeDesvios": 1.5514285714285714,
+    "NotaMediana": 9.7
+  },
+  "DMP0046 - FUNDAMENTOS DE HEMATOLOGIA": {
+    "Notas": [
+      9.73,
+      9.82,
+      9.84,
+      9.9,
+      9.91,
+      9.92
+    ],
+    "Desvios": [
+      1.68,
+      1.53,
+      1.25,
+      1.18,
+      1.18,
+      1.16
+    ],
+    "Docentes": [
+      "CHRISTIANE MEDEIROS BEZERRA"
+    ],
+    "DesvioDeNotas": 0.06624868971450587,
+    "MediaDeNotas": 9.853333333333333,
+    "MediaDeDesvios": 1.3299999999999998,
+    "NotaMediana": 9.9
+  },
+  "DMP0059 - IMUNOHEMATOLOGIA": {
+    "Notas": [
+      9.87,
+      9.88
+    ],
+    "Desvios": [
+      1.02,
+      1.16
+    ],
+    "Docentes": [
+      "CHRISTIANE MEDEIROS BEZERRA"
+    ],
+    "DesvioDeNotas": 0.005000000000000782,
+    "MediaDeNotas": 9.875,
+    "MediaDeDesvios": 1.0899999999999999,
+    "NotaMediana": 9.88
+  },
+  "DMP0050 - INTRODUÇÃO AO LABORATÓRIO CLÍNICO I": {
+    "Notas": [
+      9.59,
+      9.8,
+      9.8,
+      9.81,
+      9.88
+    ],
+    "Desvios": [
+      1.28,
+      1.22,
+      1.28,
+      1.33,
+      0.95
+    ],
+    "Docentes": [
+      "ERMETON DUARTE DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.09769339793455882,
+    "MediaDeNotas": 9.776,
+    "MediaDeDesvios": 1.2120000000000002,
+    "NotaMediana": 9.8
+  },
+  "DMP0023 - IMUNOLOGIA BASICA II": {
+    "Notas": [
+      9.51,
+      9.68,
+      9.68,
+      9.78,
+      9.79,
+      9.8,
+      9.86,
+      9.91
+    ],
+    "Desvios": [
+      1.71,
+      1.34,
+      1.65,
+      1.26,
+      1.51,
+      1.33,
+      1.68,
+      1.2
+    ],
+    "Docentes": [
+      "FABIANA LIMA BEZERRA",
+      "JANEUSA TRINDADE DE SOUTO"
+    ],
+    "DesvioDeNotas": 0.11730702238144147,
+    "MediaDeNotas": 9.751249999999999,
+    "MediaDeDesvios": 1.4599999999999997,
+    "NotaMediana": 9.79
+  },
+  "DMP0090 - IMUNOLOGIA BÁSICA": {
+    "Notas": [
+      8.97,
+      9.23,
+      9.55,
+      9.57,
+      9.58,
+      9.62,
+      9.62,
+      9.65,
+      9.66,
+      9.72,
+      9.74,
+      9.75,
+      9.77,
+      9.8,
+      9.81,
+      9.81,
+      9.82,
+      9.82,
+      9.9
+    ],
+    "Desvios": [
+      1.32,
+      1.65,
+      1.04,
+      1.26,
+      0.95,
+      1.08,
+      1.24,
+      1.42,
+      0.87,
+      1.16,
+      1.59,
+      1.42,
+      1.34,
+      1.29,
+      0.63,
+      0.95,
+      0.87,
+      0.73,
+      2.01
+    ],
+    "Docentes": [
+      "FABIANA LIMA BEZERRA",
+      "MARIA JOSE DE BRITTO COSTA FERNANDES",
+      "REGINA DE FATIMA DOS SANTOS BRAZ",
+      "ANA CARLA IORIO PETROVICH",
+      "JOSELIO MARIA GALVAO DE ARAUJO",
+      "JANEUSA TRINDADE DE SOUTO",
+      "ROSELY DE VASCONCELLOS MEISSNER"
+    ],
+    "DesvioDeNotas": 0.21683316282020823,
+    "MediaDeNotas": 9.652105263157896,
+    "MediaDeDesvios": 1.2010526315789474,
+    "NotaMediana": 9.72
+  },
+  "DMP0114 - ENTOMOLOGIA GERAL": {
+    "Notas": [
+      7.55,
+      7.98,
+      8.09,
+      8.25,
+      8.38,
+      8.49,
+      8.93,
+      8.96
+    ],
+    "Desvios": [
+      2.25,
+      2.31,
+      2.37,
+      2.03,
+      2.47,
+      1.95,
+      2.07,
+      1.42
+    ],
+    "Docentes": [
+      "HERBET TADEU DE ALMEIDA ANDRADE",
+      "RENATA ANTONACI GAMA"
+    ],
+    "DesvioDeNotas": 0.44439389903552917,
+    "MediaDeNotas": 8.32875,
+    "MediaDeDesvios": 2.10875,
+    "NotaMediana": 8.38
+  },
+  "DMP0063 - INSTRUMENTAÇÃO PARA O ENSINO DE CIÊNCIAS E BIOLOGIA II": {
+    "Notas": [
+      8.8,
+      8.93,
+      8.96,
+      9.05,
+      9.38,
+      9.4,
+      9.43,
+      9.44,
+      9.52,
+      9.57,
+      9.57,
+      9.84,
+      9.85,
+      9.86,
+      9.86,
+      9.87
+    ],
+    "Desvios": [
+      1.81,
+      2.07,
+      1.48,
+      1.38,
+      1.27,
+      0.77,
+      1.68,
+      1.76,
+      1.18,
+      1.44,
+      1.41,
+      1.7,
+      1.37,
+      1.54,
+      1.75,
+      1.59
+    ],
+    "Docentes": [
+      "IVANEIDE ALVES SOARES DA COSTA",
+      "MARIA LUISA QUININO DE MEDEIROS",
+      "ANA CARLA IORIO PETROVICH"
+    ],
+    "DesvioDeNotas": 0.34984315682173883,
+    "MediaDeNotas": 9.458125,
+    "MediaDeDesvios": 1.5124999999999997,
+    "NotaMediana": 9.52
+  },
+  "DMP0120 - MICROBIOL.E PARASIT.DE ORGANISMOS AQUAT.CULTIVAVEI": {
+    "Notas": [
+      7.46,
+      8.27,
+      8.82,
+      9.44,
+      9.49,
+      9.69,
+      9.74,
+      9.77,
+      9.81
+    ],
+    "Desvios": [
+      2.63,
+      2.28,
+      1.45,
+      1.4,
+      1.41,
+      1.53,
+      2.51,
+      1.55,
+      1
+    ],
+    "Docentes": [
+      "IVANEIDE ALVES SOARES DA COSTA",
+      "JOSELIO MARIA GALVAO DE ARAUJO",
+      "MARIA DE FATIMA DE SOUZA",
+      "MARIA LUISA QUININO DE MEDEIROS",
+      "MARIA TEREZA BARRETO DE OLIVEIRA",
+      "ANA CARLA IORIO PETROVICH"
+    ],
+    "DesvioDeNotas": 0.7743543706585667,
+    "MediaDeNotas": 9.165555555555555,
+    "MediaDeDesvios": 1.751111111111111,
+    "NotaMediana": 9.49
+  },
+  "DOL0058 - PATOLOGIA DE ORGANISMOS AQUATICOS CULTIVAVEIS": {
+    "Notas": [
+      6.52,
+      8.84
+    ],
+    "Desvios": [
+      3.21,
+      2.04
+    ],
+    "Docentes": [
+      "IVANEIDE ALVES SOARES DA COSTA",
+      "VANIA SOUSA ANDRADE"
+    ],
+    "DesvioDeNotas": 1.1600000000000001,
+    "MediaDeNotas": 7.68,
+    "MediaDeDesvios": 2.625,
+    "NotaMediana": 8.84
+  },
+  "INF0005.5 - IMUNOLOGIA": {
+    "Notas": [
+      9.68,
+      9.72,
+      9.73,
+      9.76
+    ],
+    "Desvios": [
+      1.21,
+      1.06,
+      1.55,
+      0.97
+    ],
+    "Docentes": [
+      "JANEUSA TRINDADE DE SOUTO"
+    ],
+    "DesvioDeNotas": 0.028613807855649043,
+    "MediaDeNotas": 9.7225,
+    "MediaDeDesvios": 1.1975,
+    "NotaMediana": 9.73
+  },
+  "DMP0405 - MICROBIOLOGIA GERAL PARA ENGENHARIA": {
+    "Notas": [
+      9.43,
+      9.61,
+      9.63,
+      9.82,
+      9.82,
+      9.85
+    ],
+    "Desvios": [
+      2.02,
+      1.9,
+      2.04,
+      1.4,
+      1.4,
+      1.47
+    ],
+    "Docentes": [
+      "JOSE VERISSIMO FERNANDES",
+      "MARIA JOSE DE BRITTO COSTA FERNANDES",
+      "VANIA SOUSA ANDRADE",
+      "JOSELIO MARIA GALVAO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.15107025591499557,
+    "MediaDeNotas": 9.693333333333333,
+    "MediaDeDesvios": 1.705,
+    "NotaMediana": 9.82
+  },
+  "DMP0029 - MICROBIOLOGIA PARA ENFERMAGEM": {
+    "Notas": [
+      7.47,
+      7.58,
+      8.72,
+      8.74,
+      8.79,
+      8.86,
+      8.95,
+      9.01,
+      9.13,
+      9.17,
+      9.22,
+      9.24,
+      9.3,
+      9.37,
+      9.38,
+      9.45,
+      9.46,
+      9.46,
+      9.58,
+      9.62,
+      9.81,
+      9.82,
+      9.93,
+      9.94
+    ],
+    "Desvios": [
+      2.67,
+      1.76,
+      2.75,
+      2.23,
+      3.46,
+      3.12,
+      1.96,
+      1.59,
+      1.76,
+      1.52,
+      2.19,
+      1.76,
+      1.37,
+      1.34,
+      1.9,
+      1.68,
+      2.38,
+      2.36,
+      0.81,
+      0.93,
+      1.53,
+      1.44,
+      1.86,
+      1.48
+    ],
+    "Docentes": [
+      "JOSE VERISSIMO FERNANDES",
+      "MARIA TEREZA BARRETO DE OLIVEIRA",
+      "ROSELY DE VASCONCELLOS MEISSNER",
+      "JOSELIO MARIA GALVAO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.6072318795613052,
+    "MediaDeNotas": 9.166666666666666,
+    "MediaDeDesvios": 1.910416666666667,
+    "NotaMediana": 9.3
+  },
+  "DMP0042 - VIROLOGIA HUMANA": {
+    "Notas": [
+      8.5,
+      8.74,
+      9.25,
+      9.3,
+      9.47
+    ],
+    "Desvios": [
+      2.25,
+      1.43,
+      2.78,
+      2.61,
+      1.56
+    ],
+    "Docentes": [
+      "JOSE VERISSIMO FERNANDES",
+      "JOSELIO MARIA GALVAO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.3680978130877718,
+    "MediaDeNotas": 9.052000000000001,
+    "MediaDeDesvios": 2.126,
+    "NotaMediana": 9.25
+  },
+  "INF0005.4 - VIROLOGIA MÉDICA": {
+    "Notas": [
+      9.47,
+      9.5,
+      9.61,
+      9.71
+    ],
+    "Desvios": [
+      1.7,
+      1.48,
+      1.61,
+      1.03
+    ],
+    "Docentes": [
+      "JOSE VERISSIMO FERNANDES"
+    ],
+    "DesvioDeNotas": 0.09496709956611298,
+    "MediaDeNotas": 9.5725,
+    "MediaDeDesvios": 1.455,
+    "NotaMediana": 9.61
+  },
+  "DOD0200 - MECANISMOS BIOLÓGICOS DE DOENÇAS INFECCIOSAS BUCAIS": {
+    "Notas": [
+      7.78,
+      8.26,
+      8.4,
+      8.69,
+      8.69,
+      8.72,
+      8.79,
+      8.86,
+      8.88,
+      8.93,
+      8.93,
+      8.95,
+      8.99,
+      9.02,
+      9.09,
+      9.09,
+      9.13,
+      9.14,
+      9.2,
+      9.23,
+      9.23,
+      9.25,
+      9.34,
+      9.34,
+      9.38,
+      9.38,
+      9.41,
+      9.46,
+      9.48,
+      9.57,
+      9.58,
+      9.61,
+      9.65,
+      9.66,
+      9.67,
+      9.75
+    ],
+    "Desvios": [
+      1.58,
+      1.33,
+      2.07,
+      2.68,
+      1.66,
+      2.45,
+      2.54,
+      1.59,
+      2.15,
+      2.91,
+      2.05,
+      2.41,
+      2.57,
+      2.78,
+      1.96,
+      2.33,
+      2.48,
+      2.46,
+      1.8,
+      1.96,
+      2.64,
+      3.35,
+      2.18,
+      2.54,
+      1.7,
+      1.32,
+      1.16,
+      1.42,
+      1.38,
+      1.43,
+      1.34,
+      1.57,
+      1.97,
+      1.54,
+      1.51,
+      2.38
+    ],
+    "Docentes": [
+      "JOSELIO MARIA GALVAO DE ARAUJO",
+      "MARIA CELESTE NUNES DE MELO",
+      "MARIA TEREZA BARRETO DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.4243123521914279,
+    "MediaDeNotas": 9.125833333333334,
+    "MediaDeDesvios": 2.0330555555555554,
+    "NotaMediana": 9.2
+  },
+  "DMP0060 - MICROBIOLOGIA AMBIENTAL": {
+    "Notas": [
+      7.62,
+      8.9,
+      9.14,
+      9.17,
+      9.21,
+      9.32,
+      9.49,
+      9.5,
+      9.55,
+      9.56,
+      9.59,
+      9.62,
+      9.64,
+      9.77
+    ],
+    "Desvios": [
+      1.94,
+      2.18,
+      1.92,
+      2.92,
+      1.64,
+      1.76,
+      2.04,
+      1.56,
+      2.06,
+      1.4,
+      2.27,
+      1.92,
+      1.55,
+      1.69
+    ],
+    "Docentes": [
+      "JOSELIO MARIA GALVAO DE ARAUJO",
+      "MARIA TEREZA BARRETO DE OLIVEIRA",
+      "RENATA DE FÁTIMA PANOSSO",
+      "ANA CARLA IORIO PETROVICH",
+      "VANIA SOUSA ANDRADE"
+    ],
+    "DesvioDeNotas": 0.5183470588991391,
+    "MediaDeNotas": 9.29142857142857,
+    "MediaDeDesvios": 1.917857142857143,
+    "NotaMediana": 9.5
+  },
+  "DMP0091 - MICROBIOLOGIA BÁSICA": {
+    "Notas": [
+      5.95,
+      6.72,
+      8.43,
+      8.59,
+      8.67,
+      8.69,
+      8.72,
+      8.79,
+      8.97,
+      8.99,
+      9.01,
+      9.04,
+      9.11,
+      9.14,
+      9.14,
+      9.19,
+      9.2,
+      9.32,
+      9.33,
+      9.35,
+      9.35,
+      9.37,
+      9.42,
+      9.43,
+      9.46,
+      9.47,
+      9.5,
+      9.54,
+      9.6,
+      9.65,
+      9.65,
+      9.66,
+      9.68,
+      9.73,
+      9.75,
+      9.79,
+      9.8,
+      9.82,
+      9.84,
+      9.86,
+      9.91,
+      9.91
+    ],
+    "Desvios": [
+      1.54,
+      1.4,
+      1.91,
+      1.43,
+      2,
+      1.41,
+      1.43,
+      1.57,
+      1.93,
+      1.8,
+      1.94,
+      1.6,
+      1.6,
+      1.45,
+      0.57,
+      1.48,
+      1.5,
+      0.77,
+      2.2,
+      1.98,
+      1.86,
+      2.24,
+      2.33,
+      1.76,
+      2.07,
+      1.63,
+      1.41,
+      2.48,
+      1.76,
+      1.28,
+      1.68,
+      3.06,
+      2.99,
+      1.63,
+      0.48,
+      1.29,
+      0.6,
+      0.99,
+      0.59,
+      1.82,
+      0.63,
+      1.48
+    ],
+    "Docentes": [
+      "JOSELIO MARIA GALVAO DE ARAUJO",
+      "MARIA JOSE DE BRITTO COSTA FERNANDES",
+      "MARIA LUISA QUININO DE MEDEIROS",
+      "MARIA TEREZA BARRETO DE OLIVEIRA",
+      "RENATA DE FÁTIMA PANOSSO",
+      "ANA CARLA IORIO PETROVICH",
+      "IVANEIDE ALVES SOARES DA COSTA"
+    ],
+    "DesvioDeNotas": 0.7540357029145511,
+    "MediaDeNotas": 9.203333333333337,
+    "MediaDeDesvios": 1.608809523809524,
+    "NotaMediana": 9.37
+  },
+  "DMP0041 - MICROBIOLOGIA PARA NUTRICAO": {
+    "Notas": [
+      6.42,
+      7.84,
+      8.05,
+      8.25,
+      8.44,
+      8.64,
+      8.66,
+      8.82,
+      8.82,
+      8.91,
+      9.05,
+      9.09,
+      9.15,
+      9.18,
+      9.23,
+      9.26,
+      9.27,
+      9.38,
+      9.43,
+      9.5,
+      9.6,
+      9.66,
+      9.66,
+      9.76
+    ],
+    "Desvios": [
+      2.3,
+      1.99,
+      2.72,
+      2.25,
+      2.4,
+      2.19,
+      1.67,
+      2.09,
+      1.69,
+      2.14,
+      2.77,
+      2.63,
+      1.84,
+      1.51,
+      2.81,
+      2.94,
+      2.83,
+      1.93,
+      1.31,
+      1.03,
+      1.72,
+      1.08,
+      1.72,
+      2.29
+    ],
+    "Docentes": [
+      "JOSELIO MARIA GALVAO DE ARAUJO",
+      "MARIA TEREZA BARRETO DE OLIVEIRA",
+      "ROSELY DE VASCONCELLOS MEISSNER"
+    ],
+    "DesvioDeNotas": 0.724295515004446,
+    "MediaDeNotas": 8.919583333333334,
+    "MediaDeDesvios": 2.077083333333333,
+    "NotaMediana": 9.15
+  },
+  "DMP0039 - PARASITOLOGIA PARA NUTRIÇÃO": {
+    "Notas": [
+      9.24,
+      9.3,
+      9.45,
+      9.68
+    ],
+    "Desvios": [
+      1.86,
+      1.74,
+      1.35,
+      1.3
+    ],
+    "Docentes": [
+      "LOUISIANNY GUERRA DA ROCHA"
+    ],
+    "DesvioDeNotas": 0.16976086121364928,
+    "MediaDeNotas": 9.4175,
+    "MediaDeDesvios": 1.5625,
+    "NotaMediana": 9.45
+  },
+  "INF0005.3 - BACTERIOLOGIA MÉDICA PRÁTICA": {
+    "Notas": [
+      9.58,
+      9.66,
+      9.66,
+      9.66,
+      9.68,
+      9.72,
+      9.73,
+      9.8
+    ],
+    "Desvios": [
+      1.09,
+      1.29,
+      0.81,
+      0.95,
+      1.35,
+      1.74,
+      0.86,
+      1.01
+    ],
+    "Docentes": [
+      "MARIA CELESTE NUNES DE MELO",
+      "RENATO MOTTA NETO"
+    ],
+    "DesvioDeNotas": 0.06060888961200351,
+    "MediaDeNotas": 9.68625,
+    "MediaDeDesvios": 1.1375,
+    "NotaMediana": 9.68
+  },
+  "INF0005.2 - BACTERIOLOGIA MÉDICA TEÓRICA": {
+    "Notas": [
+      9.64,
+      9.66,
+      9.7,
+      9.71,
+      9.71,
+      9.73,
+      9.74,
+      9.82
+    ],
+    "Desvios": [
+      1.2,
+      1.23,
+      0.81,
+      0.97,
+      1.39,
+      1.49,
+      0.86,
+      0.99
+    ],
+    "Docentes": [
+      "MARIA CELESTE NUNES DE MELO",
+      "RENATO MOTTA NETO"
+    ],
+    "DesvioDeNotas": 0.0509748712602592,
+    "MediaDeNotas": 9.71375,
+    "MediaDeDesvios": 1.1175,
+    "NotaMediana": 9.71
+  },
+  "INF0005.7 - PARASITOLOGIA MÉDICA PRÁTICA": {
+    "Notas": [
+      9.3,
+      9.32,
+      9.41,
+      9.49,
+      9.53,
+      9.55,
+      9.57,
+      9.63,
+      9.63,
+      9.67,
+      9.67,
+      9.68,
+      9.69,
+      9.75,
+      9.78
+    ],
+    "Desvios": [
+      1.35,
+      1.06,
+      1.04,
+      1.31,
+      1.26,
+      1.08,
+      0.86,
+      1.86,
+      1.46,
+      1.53,
+      2.01,
+      0.93,
+      1.19,
+      0.96,
+      1.34
+    ],
+    "Docentes": [
+      "MARIA DE FATIMA DE SOUZA",
+      "RENATA ANTONACI GAMA",
+      "VALTER FERREIRA DE ANDRADE NETO"
+    ],
+    "DesvioDeNotas": 0.14110043704160974,
+    "MediaDeNotas": 9.578,
+    "MediaDeDesvios": 1.2826666666666668,
+    "NotaMediana": 9.63
+  },
+  "INF0005.6 - PARASITOLOGIA MÉDICA TEÓRICA": {
+    "Notas": [
+      9.38,
+      9.48,
+      9.59,
+      9.62,
+      9.64,
+      9.65,
+      9.65,
+      9.66,
+      9.67,
+      9.68,
+      9.68,
+      9.69
+    ],
+    "Desvios": [
+      1.3,
+      1.26,
+      1.3,
+      1.23,
+      1.21,
+      0.93,
+      1.58,
+      1.73,
+      1.75,
+      0.98,
+      1.02,
+      1.07
+    ],
+    "Docentes": [
+      "MARIA DE FATIMA DE SOUZA",
+      "RENATA ANTONACI GAMA",
+      "VALTER FERREIRA DE ANDRADE NETO"
+    ],
+    "DesvioDeNotas": 0.08957848824106995,
+    "MediaDeNotas": 9.615833333333335,
+    "MediaDeDesvios": 1.28,
+    "NotaMediana": 9.65
+  },
+  "DMP0037 - PARASITOLOGIA PARA ENFERMAGEM": {
+    "Notas": [
+      9.64,
+      9.7,
+      9.79,
+      9.87
+    ],
+    "Desvios": [
+      1.85,
+      1.36,
+      1.19,
+      1.04
+    ],
+    "Docentes": [
+      "MARIA DE FATIMA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.08746427842267906,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.36,
+    "NotaMediana": 9.79
+  },
+  "DMP0119 - PROTOZOOLOGIA": {
+    "Notas": [
+      7.4,
+      9.14,
+      9.21,
+      9.43,
+      9.47,
+      9.82
+    ],
+    "Desvios": [
+      2.06,
+      1.61,
+      1.42,
+      3.02,
+      1.41,
+      1.08
+    ],
+    "Docentes": [
+      "MARIA DE FATIMA DE SOUZA",
+      "PAULO MARCOS DA MATTA GUEDES",
+      "VALTER FERREIRA DE ANDRADE NETO"
+    ],
+    "DesvioDeNotas": 0.781567157845199,
+    "MediaDeNotas": 9.078333333333333,
+    "MediaDeDesvios": 1.7666666666666666,
+    "NotaMediana": 9.43
+  },
+  "DMP0084 - BACTERIOLOGIA MÉDICA": {
+    "Notas": [
+      6.44,
+      7.98,
+      8.86,
+      8.88,
+      8.91,
+      9.18
+    ],
+    "Desvios": [
+      2.21,
+      1.59,
+      2.08,
+      2,
+      2.73,
+      3.75
+    ],
+    "Docentes": [
+      "MARIA JOSE DE BRITTO COSTA FERNANDES",
+      "RENATO MOTTA NETO",
+      "ROSELY DE VASCONCELLOS MEISSNER"
+    ],
+    "DesvioDeNotas": 0.9420500694407559,
+    "MediaDeNotas": 8.375,
+    "MediaDeDesvios": 2.393333333333333,
+    "NotaMediana": 8.88
+  },
+  "DMP0083 - BACTERIOLOGIA BÁSICA": {
+    "Notas": [
+      5.64,
+      8.87,
+      9.09,
+      9.12,
+      9.27,
+      9.29,
+      9.33,
+      9.36,
+      9.48,
+      9.6,
+      9.65,
+      9.66,
+      9.67,
+      9.67,
+      9.68,
+      9.8,
+      9.85,
+      9.86
+    ],
+    "Desvios": [
+      2.07,
+      1.27,
+      3.57,
+      2.47,
+      2.22,
+      1.5,
+      1.56,
+      1.49,
+      1.71,
+      1.7,
+      1.52,
+      2.22,
+      1.3,
+      1.49,
+      1.87,
+      1.77,
+      1.57,
+      1.55
+    ],
+    "Docentes": [
+      "MARIA LUISA QUININO DE MEDEIROS",
+      "MARIA TEREZA BARRETO DE OLIVEIRA",
+      "VANIA SOUSA ANDRADE",
+      "ANA CARLA IORIO PETROVICH",
+      "MARIA JOSE DE BRITTO COSTA FERNANDES"
+    ],
+    "DesvioDeNotas": 0.9221608078613813,
+    "MediaDeNotas": 9.271666666666668,
+    "MediaDeDesvios": 1.8250000000000002,
+    "NotaMediana": 9.6
+  },
+  "DMP0043 - MICOLOGIA MÉDICA": {
+    "Notas": [
+      7.27,
+      7.81,
+      8.02,
+      8.45,
+      8.55
+    ],
+    "Desvios": [
+      2.79,
+      2.08,
+      3.34,
+      2.91,
+      2.07
+    ],
+    "Docentes": [
+      "MARIA TEREZA BARRETO DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.46311985489719637,
+    "MediaDeNotas": 8.02,
+    "MediaDeDesvios": 2.6380000000000003,
+    "NotaMediana": 8.02
+  },
+  "DMP0011 - IMUNOLOGIA": {
+    "Notas": [
+      9.28,
+      9.49,
+      9.6,
+      9.62
+    ],
+    "Desvios": [
+      2.25,
+      1.56,
+      1.64,
+      1.24
+    ],
+    "Docentes": [
+      "REGINA DE FATIMA DOS SANTOS BRAZ"
+    ],
+    "DesvioDeNotas": 0.1349768498669309,
+    "MediaDeNotas": 9.4975,
+    "MediaDeDesvios": 1.6725,
+    "NotaMediana": 9.6
+  },
+  "DMP0040 - IMUNOLOGIA PARA NUTRIÇÃO": {
+    "Notas": [
+      9.13,
+      9.31,
+      9.36,
+      9.83
+    ],
+    "Desvios": [
+      2.13,
+      1.38,
+      1.9,
+      1.51
+    ],
+    "Docentes": [
+      "REGINA DE FATIMA DOS SANTOS BRAZ",
+      "FABIANA LIMA BEZERRA"
+    ],
+    "DesvioDeNotas": 0.2584932300854317,
+    "MediaDeNotas": 9.4075,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.36
+  },
+  "DMP0045 - ENTOMOLOGIA MEDICA PARA BIOMEDICINA": {
+    "Notas": [
+      9.45,
+      9.59,
+      9.63,
+      9.66,
+      9.77,
+      9.77
+    ],
+    "Desvios": [
+      1.28,
+      1.53,
+      1.82,
+      1.29,
+      2.04,
+      1.09
+    ],
+    "Docentes": [
+      "RENATA ANTONACI GAMA"
+    ],
+    "DesvioDeNotas": 0.11011357772772624,
+    "MediaDeNotas": 9.644999999999998,
+    "MediaDeDesvios": 1.5083333333333335,
+    "NotaMediana": 9.66
+  },
+  "DMP0087 - MÉTODOS E TÉCNICAS EM PARASITOLOGIA CLÍNICA": {
+    "Notas": [
+      9.56,
+      9.69,
+      9.7,
+      9.77
+    ],
+    "Desvios": [
+      1.54,
+      1.03,
+      0.7,
+      1.07
+    ],
+    "Docentes": [
+      "CECILIA MARIA DE CARVALHO XAVIER HOLANDA"
+    ],
+    "DesvioDeNotas": 0.07582875444051512,
+    "MediaDeNotas": 9.68,
+    "MediaDeDesvios": 1.0850000000000002,
+    "NotaMediana": 9.7
+  },
+  "DMP0109 - INTERPRETAÇÃO DE EXAMES LABORATORIAIS": {
+    "Notas": [
+      9.38,
+      9.72
+    ],
+    "Desvios": [
+      0.77,
+      1.41
+    ],
+    "Docentes": [
+      "CHRISTIANE MEDEIROS BEZERRA",
+      "RENATO MOTTA NETO"
+    ],
+    "DesvioDeNotas": 0.16999999999999993,
+    "MediaDeNotas": 9.55,
+    "MediaDeDesvios": 1.0899999999999999,
+    "NotaMediana": 9.72
+  },
+  "DMP0062 - POLUIÇAO E TOXICOLOGIA": {
+    "Notas": [
+      9.16,
+      9.38,
+      9.43,
+      9.5,
+      9.57,
+      9.68,
+      9.68,
+      9.74,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.62,
+      1.78,
+      1.39,
+      1.66,
+      1.08,
+      0.7,
+      1.19,
+      1.38,
+      1.19,
+      0.83
+    ],
+    "Docentes": [
+      "IVANEIDE ALVES SOARES DA COSTA",
+      "RENATA DE FÁTIMA PANOSSO",
+      "ANA CARLA IORIO PETROVICH"
+    ],
+    "DesvioDeNotas": 0.2040098036859993,
+    "MediaDeNotas": 9.580000000000002,
+    "MediaDeDesvios": 1.282,
+    "NotaMediana": 9.68
+  },
+  "DMP0048 - IMUNOLOGIA APLICADA PARA BIOMEDICINA": {
+    "Notas": [
+      9.21,
+      9.82,
+      9.83
+    ],
+    "Desvios": [
+      2.3,
+      1,
+      1.17
+    ],
+    "Docentes": [
+      "JANEUSA TRINDADE DE SOUTO"
+    ],
+    "DesvioDeNotas": 0.28994252303976814,
+    "MediaDeNotas": 9.62,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.82
+  },
+  "DMP0027 - SEMINÁRIOS EM MICROBIOLOGIA MÉDICA I": {
+    "Notas": [
+      8.88,
+      9.27,
+      9.3
+    ],
+    "Desvios": [
+      1.67,
+      1.65,
+      1.72
+    ],
+    "Docentes": [
+      "JOSE VERISSIMO FERNANDES",
+      "MARIA TEREZA BARRETO DE OLIVEIRA",
+      "ROSELY DE VASCONCELLOS MEISSNER"
+    ],
+    "DesvioDeNotas": 0.19131126469708964,
+    "MediaDeNotas": 9.15,
+    "MediaDeDesvios": 1.68,
+    "NotaMediana": 9.27
+  },
+  "DMP0088 - TÓPICOS EM ENTOMOLOGIA FORENSE": {
+    "Notas": [
+      9.38
+    ],
+    "Desvios": [
+      1.62
+    ],
+    "Docentes": [
+      "RENATA ANTONACI GAMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.38,
+    "MediaDeDesvios": 1.62,
+    "NotaMediana": 9.38
+  },
+  "DMP0025 - MICROBIOLOGIA": {
+    "Notas": [
+      9.78,
+      9.85,
+      9.88,
+      9.89
+    ],
+    "Desvios": [
+      1.24,
+      1.25,
+      1.57,
+      1.28
+    ],
+    "Docentes": [
+      "ANA CARLA IORIO PETROVICH",
+      "JOSELIO MARIA GALVAO DE ARAUJO",
+      "MARIA JOSE DE BRITTO COSTA FERNANDES",
+      "MARIA TEREZA BARRETO DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.04301162633521366,
+    "MediaDeNotas": 9.85,
+    "MediaDeDesvios": 1.3350000000000002,
+    "NotaMediana": 9.88
+  },
+  "DMP0055 - INSETOS BIOINDICADORES": {
+    "Notas": [
+      9.21
+    ],
+    "Desvios": [
+      1.29
+    ],
+    "Docentes": [
+      "HERBET TADEU DE ALMEIDA ANDRADE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.21,
+    "MediaDeDesvios": 1.29,
+    "NotaMediana": 9.21
+  },
+  "DMP0005 - MICROBIOLOGIA VII": {
+    "Notas": [
+      8.99,
+      9.54,
+      9.6
+    ],
+    "Desvios": [
+      1.57,
+      1.64,
+      1.98
+    ],
+    "Docentes": [
+      "JOSELIO MARIA GALVAO DE ARAUJO",
+      "REGINA DE FATIMA DOS SANTOS BRAZ",
+      "VANIA SOUSA ANDRADE"
+    ],
+    "DesvioDeNotas": 0.2745096638655101,
+    "MediaDeNotas": 9.376666666666667,
+    "MediaDeDesvios": 1.7299999999999998,
+    "NotaMediana": 9.54
+  },
+  "ZOO0312 - PARASITOLOGIA, HIGIENE E PROFILAXIA ZOOTÉCNICA": {
+    "Notas": [
+      9.14
+    ],
+    "Desvios": [
+      2.26
+    ],
+    "Docentes": [
+      "RENATA ANTONACI GAMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.14,
+    "MediaDeDesvios": 2.26,
+    "NotaMediana": 9.14
+  },
+  "DMP0044 - BACTERIOLOGIA PARA BIOMEDICINA": {
+    "Notas": [
+      8.91,
+      9.95,
+      9.98
+    ],
+    "Desvios": [
+      0.85,
+      0.89,
+      1.74
+    ],
+    "Docentes": [
+      "ANA CARLA IORIO PETROVICH",
+      "MARIA JOSE DE BRITTO COSTA FERNANDES",
+      "VANIA SOUSA ANDRADE"
+    ],
+    "DesvioDeNotas": 0.4974825513411388,
+    "MediaDeNotas": 9.613333333333333,
+    "MediaDeDesvios": 1.16,
+    "NotaMediana": 9.95
+  },
+  "DMP0047 - UROANALISE": {
+    "Notas": [
+      9.73,
+      9.82
+    ],
+    "Desvios": [
+      1.02,
+      1.51
+    ],
+    "Docentes": [
+      "ERMETON DUARTE DO NASCIMENTO",
+      "RENATO MOTTA NETO"
+    ],
+    "DesvioDeNotas": 0.04499999999999993,
+    "MediaDeNotas": 9.775,
+    "MediaDeDesvios": 1.2650000000000001,
+    "NotaMediana": 9.82
+  },
+  "DMP0110 - ENTOMOLOGIA MEDICA": {
+    "Notas": [
+      10
+    ],
+    "Desvios": [
+      0.24
+    ],
+    "Docentes": [
+      "RENATA ANTONACI GAMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 10,
+    "MediaDeDesvios": 0.24,
+    "NotaMediana": 10
+  }
+}

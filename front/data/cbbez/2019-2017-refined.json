@@ -1,0 +1,1508 @@
+{
+  "ALICE DE MORAES CALVENTE VERSIEUX": {
+    "Notas": [
+      9.37,
+      9.38,
+      9.42,
+      9.65,
+      9.68,
+      9.72,
+      9.79,
+      9.81,
+      9.82,
+      9.89
+    ],
+    "Desvios": [
+      1.39,
+      1.95,
+      1.5,
+      1.87,
+      1.15,
+      1.86,
+      1.87,
+      2.21,
+      1.3,
+      0.97
+    ],
+    "Componentes": {
+      "BEZ0064 - BOTÂNICA III": {
+        "Notas": [
+          9.37,
+          9.72,
+          9.79,
+          9.81,
+          9.89
+        ],
+        "Desvios": [
+          1.39,
+          1.87,
+          1.15,
+          1.3,
+          0.97
+        ],
+        "DesvioDeNotas": 0.18128430709799495,
+        "MediaDeNotas": 9.716,
+        "MediaDeDesvios": 1.3359999999999999,
+        "NotaMediana": 9.79
+      },
+      "BEZ0037 - FILOGENIA VEGETAL": {
+        "Notas": [
+          9.42,
+          9.68,
+          9.82
+        ],
+        "Desvios": [
+          1.95,
+          1.5,
+          2.21
+        ],
+        "DesvioDeNotas": 0.16573070526208084,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.8866666666666667,
+        "NotaMediana": 9.68
+      },
+      "BEZ0073 - FILOGENIA": {
+        "Notas": [
+          9.38,
+          9.65
+        ],
+        "Desvios": [
+          1.86,
+          1.87
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.515,
+        "MediaDeDesvios": 1.8650000000000002,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.18482694608741454,
+    "MediaDeNotas": 9.653,
+    "MediaDeDesvios": 1.607,
+    "NotaMediana": 9.72
+  },
+  "BRUNO CAVALCANTE BELLINI": {
+    "Notas": [
+      9.5,
+      9.61,
+      9.66,
+      9.66,
+      9.74,
+      9.8,
+      9.8,
+      9.82,
+      9.9
+    ],
+    "Desvios": [
+      1.43,
+      1.67,
+      1.48,
+      0.98,
+      1.62,
+      1.72,
+      1.56,
+      1.32,
+      1.34
+    ],
+    "Componentes": {
+      "BEZ0070 - ZOOLOGIA II": {
+        "Notas": [
+          9.5,
+          9.61,
+          9.66,
+          9.74,
+          9.8,
+          9.8,
+          9.82,
+          9.9
+        ],
+        "Desvios": [
+          1.43,
+          1.67,
+          1.48,
+          0.98,
+          1.72,
+          1.56,
+          1.32,
+          1.34
+        ],
+        "DesvioDeNotas": 0.12200794031537482,
+        "MediaDeNotas": 9.728750000000002,
+        "MediaDeDesvios": 1.4375,
+        "NotaMediana": 9.8
+      },
+      "BEZ0013 - ZOOLOGIA GERAL": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.11704172517567751,
+    "MediaDeNotas": 9.721111111111112,
+    "MediaDeDesvios": 1.4577777777777778,
+    "NotaMediana": 9.74
+  },
+  "BRUNO TOMIO GOTO": {
+    "Notas": [
+      7.59,
+      8.02,
+      8.09,
+      8.23,
+      8.96,
+      9.13,
+      9.16,
+      9.33
+    ],
+    "Desvios": [
+      1.9,
+      1.73,
+      2.75,
+      2.68,
+      3.23,
+      3.29,
+      1.65,
+      1.55
+    ],
+    "Componentes": {
+      "BEZ0062 - BOTÂNICA I": {
+        "Notas": [
+          7.59,
+          8.02,
+          8.09,
+          8.23,
+          8.96,
+          9.13,
+          9.16,
+          9.33
+        ],
+        "Desvios": [
+          1.9,
+          1.73,
+          2.75,
+          2.68,
+          3.23,
+          3.29,
+          1.65,
+          1.55
+        ],
+        "DesvioDeNotas": 0.6123711599185582,
+        "MediaDeNotas": 8.56375,
+        "MediaDeDesvios": 2.3475,
+        "NotaMediana": 8.96
+      }
+    },
+    "DesvioDeNotas": 0.6123711599185582,
+    "MediaDeNotas": 8.56375,
+    "MediaDeDesvios": 2.3475,
+    "NotaMediana": 8.96
+  },
+  "ELINEI ARAUJO DE ALMEIDA": {
+    "Notas": [
+      8.66,
+      8.66,
+      8.67,
+      8.84,
+      9.04,
+      9.11,
+      9.12,
+      9.15,
+      9.34,
+      9.48,
+      9.49,
+      9.49,
+      9.64,
+      9.84
+    ],
+    "Desvios": [
+      2.09,
+      1.24,
+      2.42,
+      1.46,
+      2.38,
+      2,
+      1.95,
+      2.05,
+      2.46,
+      2.06,
+      2.13,
+      1.63,
+      2.08,
+      1.49
+    ],
+    "Componentes": {
+      "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS": {
+        "Notas": [
+          9.15,
+          9.49,
+          9.64,
+          9.84
+        ],
+        "Desvios": [
+          2.09,
+          1.24,
+          1.95,
+          2.05
+        ],
+        "DesvioDeNotas": 0.2520912533191105,
+        "MediaDeNotas": 9.530000000000001,
+        "MediaDeDesvios": 1.8325,
+        "NotaMediana": 9.64
+      },
+      "BEZ0073 - FILOGENIA": {
+        "Notas": [
+          8.67,
+          8.84,
+          9.34,
+          9.49
+        ],
+        "Desvios": [
+          2.42,
+          1.46,
+          2.13,
+          1.63
+        ],
+        "DesvioDeNotas": 0.33959534743573866,
+        "MediaDeNotas": 9.085,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 9.34
+      },
+      "BEZ0069 - ZOOLOGIA I": {
+        "Notas": [
+          8.66,
+          8.66,
+          9.04,
+          9.11,
+          9.12,
+          9.48
+        ],
+        "Desvios": [
+          2.38,
+          2,
+          2.46,
+          2.06,
+          2.08,
+          1.49
+        ],
+        "DesvioDeNotas": 0.2854479909818171,
+        "MediaDeNotas": 9.011666666666668,
+        "MediaDeDesvios": 2.0783333333333336,
+        "NotaMediana": 9.11
+      }
+    },
+    "DesvioDeNotas": 0.36844197615895835,
+    "MediaDeNotas": 9.180714285714286,
+    "MediaDeDesvios": 1.9599999999999995,
+    "NotaMediana": 9.15
+  },
+  "ELIZA MARIA XAVIER FREIRE": {
+    "Notas": [
+      7.46,
+      9.18,
+      9.2,
+      9.23,
+      9.27,
+      9.51,
+      9.56,
+      9.61
+    ],
+    "Desvios": [
+      1.76,
+      1.38,
+      1.95,
+      2.11,
+      2.68,
+      1.76,
+      1.45,
+      1.29
+    ],
+    "Componentes": {
+      "BEZ0072 - ZOOLOGIA III": {
+        "Notas": [
+          7.46,
+          9.18,
+          9.2,
+          9.23,
+          9.27,
+          9.51,
+          9.56,
+          9.61
+        ],
+        "Desvios": [
+          1.76,
+          1.38,
+          1.95,
+          2.11,
+          2.68,
+          1.76,
+          1.45,
+          1.29
+        ],
+        "DesvioDeNotas": 0.6505334349593417,
+        "MediaDeNotas": 9.127500000000001,
+        "MediaDeDesvios": 1.7974999999999999,
+        "NotaMediana": 9.27
+      }
+    },
+    "DesvioDeNotas": 0.6505334349593417,
+    "MediaDeNotas": 9.127500000000001,
+    "MediaDeDesvios": 1.7974999999999999,
+    "NotaMediana": 9.27
+  },
+  "FULVIO AURELIO DE MORAIS FREIRE": {
+    "Notas": [
+      7.74,
+      8.42,
+      8.59,
+      8.66,
+      8.71,
+      8.93,
+      9.06,
+      9.09,
+      9.16,
+      9.25,
+      9.29,
+      9.49,
+      9.57
+    ],
+    "Desvios": [
+      1.47,
+      1.67,
+      1.6,
+      1.6,
+      1.77,
+      2.4,
+      2.24,
+      1.65,
+      2.12,
+      2.41,
+      2.12,
+      1.67,
+      0.88
+    ],
+    "Componentes": {
+      "BEZ0085 - PRÁTICAS DE ESTATÍSTICA APLICADA À BIOLOGIA": {
+        "Notas": [
+          8.59,
+          9.06,
+          9.25
+        ],
+        "Desvios": [
+          1.47,
+          1.6,
+          2.12
+        ],
+        "DesvioDeNotas": 0.27740864362084255,
+        "MediaDeNotas": 8.966666666666667,
+        "MediaDeDesvios": 1.7300000000000002,
+        "NotaMediana": 9.06
+      },
+      "BEZ0070 - ZOOLOGIA II": {
+        "Notas": [
+          8.71,
+          9.16,
+          9.29,
+          9.49
+        ],
+        "Desvios": [
+          1.67,
+          1.6,
+          2.12,
+          2.41
+        ],
+        "DesvioDeNotas": 0.2864764388217638,
+        "MediaDeNotas": 9.162500000000001,
+        "MediaDeDesvios": 1.9500000000000002,
+        "NotaMediana": 9.29
+      },
+      "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE": {
+        "Notas": [
+          7.74,
+          8.42,
+          8.66,
+          8.93,
+          9.09,
+          9.57
+        ],
+        "Desvios": [
+          1.77,
+          2.4,
+          2.24,
+          1.65,
+          1.67,
+          0.88
+        ],
+        "DesvioDeNotas": 0.5709859893202284,
+        "MediaDeNotas": 8.735000000000001,
+        "MediaDeDesvios": 1.7683333333333335,
+        "NotaMediana": 8.93
+      }
+    },
+    "DesvioDeNotas": 0.47736455992974913,
+    "MediaDeNotas": 8.92,
+    "MediaDeDesvios": 1.8153846153846152,
+    "NotaMediana": 9.06
+  },
+  "GUILHERME SANTOS TOLEDO DE LIMA": {
+    "Notas": [
+      9.39,
+      9.43,
+      9.49,
+      9.55,
+      9.66,
+      9.71,
+      9.75,
+      9.77,
+      9.91
+    ],
+    "Desvios": [
+      1.79,
+      1.65,
+      2.11,
+      1.83,
+      1.2,
+      1.3,
+      1.84,
+      1.48,
+      1.47
+    ],
+    "Componentes": {
+      "BEZ0034 - BIOLOGIA DE ANFÍBIOS": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.91
+      },
+      "BEZ0088 - PRINCÍPIOS DE SISTEMÁTICA E EVOLUÇÃO": {
+        "Notas": [
+          9.39,
+          9.43
+        ],
+        "Desvios": [
+          1.65,
+          2.11
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 9.43
+      },
+      "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE": {
+        "Notas": [
+          9.55,
+          9.71
+        ],
+        "Desvios": [
+          1.83,
+          1.2
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.5150000000000001,
+        "NotaMediana": 9.71
+      },
+      "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS": {
+        "Notas": [
+          9.49,
+          9.66
+        ],
+        "Desvios": [
+          1.3,
+          1.84
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.575,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.66
+      },
+      "BEZ0072 - ZOOLOGIA III": {
+        "Notas": [
+          9.75,
+          9.77
+        ],
+        "Desvios": [
+          1.48,
+          1.47
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.475,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.16441441167194581,
+    "MediaDeNotas": 9.628888888888888,
+    "MediaDeDesvios": 1.6300000000000001,
+    "NotaMediana": 9.66
+  },
+  "IURI GOULART BASEIA": {
+    "Notas": [
+      9.4,
+      9.43,
+      9.46,
+      9.47,
+      9.59,
+      9.66,
+      9.75,
+      9.84
+    ],
+    "Desvios": [
+      1.57,
+      1.17,
+      1.79,
+      1.45,
+      2.1,
+      1.37,
+      1.43,
+      1.55
+    ],
+    "Componentes": {
+      "BEZ0062 - BOTÂNICA I": {
+        "Notas": [
+          9.4,
+          9.43,
+          9.46,
+          9.47,
+          9.59,
+          9.66,
+          9.75,
+          9.84
+        ],
+        "Desvios": [
+          1.57,
+          1.17,
+          1.79,
+          1.45,
+          2.1,
+          1.37,
+          1.43,
+          1.55
+        ],
+        "DesvioDeNotas": 0.151739909054935,
+        "MediaDeNotas": 9.575,
+        "MediaDeDesvios": 1.55375,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.151739909054935,
+    "MediaDeNotas": 9.575,
+    "MediaDeDesvios": 1.55375,
+    "NotaMediana": 9.59
+  },
+  "JULIANA ESPADA LICHSTON": {
+    "Notas": [
+      9.48,
+      9.71
+    ],
+    "Desvios": [
+      1.38,
+      1.5
+    ],
+    "Componentes": {
+      "BEZ0063 - BOTÂNICA II": {
+        "Notas": [
+          9.48,
+          9.71
+        ],
+        "Desvios": [
+          1.38,
+          1.5
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.595,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0.11500000000000021,
+    "MediaDeNotas": 9.595,
+    "MediaDeDesvios": 1.44,
+    "NotaMediana": 9.71
+  },
+  "LAMARCK DO NASCIMENTO GALDINO DA ROCHA": {
+    "Notas": [
+      9.36,
+      9.57,
+      9.57,
+      9.64,
+      9.69,
+      9.91
+    ],
+    "Desvios": [
+      1.26,
+      1.33,
+      1.91,
+      1.52,
+      1.5,
+      2.2
+    ],
+    "Componentes": {
+      "BEZ0064 - BOTÂNICA III": {
+        "Notas": [
+          9.57,
+          9.91
+        ],
+        "Desvios": [
+          1.26,
+          1.33
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.295,
+        "NotaMediana": 9.91
+      },
+      "BEZ0037 - FILOGENIA VEGETAL": {
+        "Notas": [
+          9.64,
+          9.69
+        ],
+        "Desvios": [
+          1.91,
+          1.52
+        ],
+        "DesvioDeNotas": 0.02499999999999947,
+        "MediaDeNotas": 9.665,
+        "MediaDeDesvios": 1.7149999999999999,
+        "NotaMediana": 9.69
+      },
+      "BEZ0088 - PRINCÍPIOS DE SISTEMÁTICA E EVOLUÇÃO": {
+        "Notas": [
+          9.36,
+          9.57
+        ],
+        "Desvios": [
+          1.5,
+          2.2
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.465,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.16428295373802157,
+    "MediaDeNotas": 9.623333333333333,
+    "MediaDeDesvios": 1.6199999999999999,
+    "NotaMediana": 9.64
+  },
+  "LEONARDO DE MELO VERSIEUX": {
+    "Notas": [
+      7.95,
+      9.21,
+      9.27,
+      9.45,
+      9.46,
+      9.55,
+      9.57,
+      9.62,
+      9.74
+    ],
+    "Desvios": [
+      1.73,
+      1.79,
+      1.35,
+      1.85,
+      3.1,
+      1.85,
+      1.3,
+      1.52,
+      0.8
+    ],
+    "Componentes": {
+      "BEZ0064 - BOTÂNICA III": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.55
+      },
+      "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE": {
+        "Notas": [
+          9.21,
+          9.27,
+          9.46,
+          9.57,
+          9.62,
+          9.74
+        ],
+        "Desvios": [
+          1.79,
+          1.35,
+          1.85,
+          1.3,
+          1.52,
+          0.8
+        ],
+        "DesvioDeNotas": 0.188274327039621,
+        "MediaDeNotas": 9.478333333333333,
+        "MediaDeDesvios": 1.4350000000000003,
+        "NotaMediana": 9.57
+      },
+      "BEZ0023 - MORFOLOGIA E SISTEMATICA VEGETAL": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.45
+      },
+      "BEZ0037 - FILOGENIA VEGETAL": {
+        "Notas": [
+          7.95
+        ],
+        "Desvios": [
+          3.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.95,
+        "MediaDeDesvios": 3.1,
+        "NotaMediana": 7.95
+      }
+    },
+    "DesvioDeNotas": 0.5065570056765575,
+    "MediaDeNotas": 9.313333333333333,
+    "MediaDeDesvios": 1.698888888888889,
+    "NotaMediana": 9.46
+  },
+  "MAGDI AHMED IBRAHIM ALOUFA": {
+    "Notas": [
+      6.74,
+      6.97,
+      7.01,
+      7.15,
+      7.32,
+      7.38,
+      7.68,
+      7.75
+    ],
+    "Desvios": [
+      2.93,
+      3.65,
+      2.58,
+      3.11,
+      2.8,
+      2.79,
+      2.52,
+      1.96
+    ],
+    "Componentes": {
+      "BEZ2005 - FISIOLOGIA VEGETAL": {
+        "Notas": [
+          6.74,
+          6.97,
+          7.01,
+          7.15,
+          7.32,
+          7.38,
+          7.68,
+          7.75
+        ],
+        "Desvios": [
+          2.93,
+          3.65,
+          2.58,
+          3.11,
+          2.8,
+          2.79,
+          2.52,
+          1.96
+        ],
+        "DesvioDeNotas": 0.3284052374734605,
+        "MediaDeNotas": 7.250000000000001,
+        "MediaDeDesvios": 2.7925,
+        "NotaMediana": 7.32
+      }
+    },
+    "DesvioDeNotas": 0.3284052374734605,
+    "MediaDeNotas": 7.250000000000001,
+    "MediaDeDesvios": 2.7925,
+    "NotaMediana": 7.32
+  },
+  "MAURO PICHORIM": {
+    "Notas": [
+      8.36,
+      9.29,
+      9.34,
+      9.39,
+      9.41,
+      9.41,
+      9.61,
+      9.62,
+      9.62,
+      9.66,
+      9.74,
+      9.77,
+      9.82,
+      9.86,
+      9.88
+    ],
+    "Desvios": [
+      1.76,
+      1.52,
+      1.34,
+      1.92,
+      1.36,
+      0.92,
+      1.7,
+      2.31,
+      2.01,
+      1.1,
+      1.09,
+      1.98,
+      1.47,
+      1.1,
+      1.43
+    ],
+    "Componentes": {
+      "BEZ0060 - COLETA E TAXIDERMIA DE AVES E CURADORIA DE COLEÇÕES BIOLÓGICAS": {
+        "Notas": [
+          9.34,
+          9.41,
+          9.86,
+          9.88
+        ],
+        "Desvios": [
+          1.76,
+          1.92,
+          1.7,
+          1.09
+        ],
+        "DesvioDeNotas": 0.24883478454589109,
+        "MediaDeNotas": 9.622499999999999,
+        "MediaDeDesvios": 1.6175,
+        "NotaMediana": 9.86
+      },
+      "BEZ0072 - ZOOLOGIA III": {
+        "Notas": [
+          9.29,
+          9.61,
+          9.62,
+          9.66,
+          9.74,
+          9.82
+        ],
+        "Desvios": [
+          1.52,
+          1.34,
+          2.01,
+          1.1,
+          1.1,
+          1.43
+        ],
+        "DesvioDeNotas": 0.1657977348726122,
+        "MediaDeNotas": 9.623333333333333,
+        "MediaDeDesvios": 1.4166666666666667,
+        "NotaMediana": 9.66
+      },
+      "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE": {
+        "Notas": [
+          9.62,
+          9.77
+        ],
+        "Desvios": [
+          1.36,
+          0.92
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.695,
+        "MediaDeDesvios": 1.1400000000000001,
+        "NotaMediana": 9.77
+      },
+      "BEZ0013 - ZOOLOGIA GERAL": {
+        "Notas": [
+          8.36
+        ],
+        "Desvios": [
+          2.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.36,
+        "MediaDeDesvios": 2.31,
+        "NotaMediana": 8.36
+      },
+      "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS": {
+        "Notas": [
+          9.39,
+          9.41
+        ],
+        "Desvios": [
+          1.98,
+          1.47
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.725,
+        "NotaMediana": 9.41
+      }
+    },
+    "DesvioDeNotas": 0.36201043569979535,
+    "MediaDeNotas": 9.518666666666665,
+    "MediaDeDesvios": 1.534,
+    "NotaMediana": 9.62
+  },
+  "ROSANGELA GONDIM D OLIVEIRA": {
+    "Notas": [
+      8.19,
+      8.97,
+      9.02,
+      9.06,
+      9.07,
+      9.32,
+      9.44,
+      9.49,
+      9.49,
+      9.5,
+      9.56,
+      9.57,
+      9.64,
+      9.65,
+      9.74,
+      9.82,
+      9.83
+    ],
+    "Desvios": [
+      2.6,
+      1.3,
+      1.35,
+      1.85,
+      1.42,
+      1.92,
+      1.35,
+      1.9,
+      1.99,
+      1.88,
+      1.25,
+      1.44,
+      0.85,
+      1.36,
+      1.3,
+      1.89,
+      1.55
+    ],
+    "Componentes": {
+      "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS": {
+        "Notas": [
+          8.19,
+          9.49,
+          9.74,
+          9.83
+        ],
+        "Desvios": [
+          2.6,
+          1.3,
+          1.9,
+          1.99
+        ],
+        "DesvioDeNotas": 0.659938444099145,
+        "MediaDeNotas": 9.3125,
+        "MediaDeDesvios": 1.9475000000000002,
+        "NotaMediana": 9.74
+      },
+      "BEZ0216 - EDUCACAO AMBIENTAL": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.82
+      },
+      "BEZ0069 - ZOOLOGIA I": {
+        "Notas": [
+          9.07,
+          9.44,
+          9.49,
+          9.56,
+          9.57,
+          9.65
+        ],
+        "Desvios": [
+          1.85,
+          1.42,
+          1.88,
+          1.25,
+          1.36,
+          1.3
+        ],
+        "DesvioDeNotas": 0.18776462807343552,
+        "MediaDeNotas": 9.463333333333333,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.56
+      },
+      "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE": {
+        "Notas": [
+          9.02,
+          9.06,
+          9.32,
+          9.64
+        ],
+        "Desvios": [
+          1.92,
+          1.35,
+          1.44,
+          0.85
+        ],
+        "DesvioDeNotas": 0.24779023386727758,
+        "MediaDeNotas": 9.26,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.32
+      },
+      "BEZ0070 - ZOOLOGIA II": {
+        "Notas": [
+          8.97,
+          9.5
+        ],
+        "Desvios": [
+          1.89,
+          1.55
+        ],
+        "DesvioDeNotas": 0.2649999999999997,
+        "MediaDeNotas": 9.235,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.5
+      }
+    },
+    "DesvioDeNotas": 0.3979515019746446,
+    "MediaDeNotas": 9.374117647058824,
+    "MediaDeDesvios": 1.6,
+    "NotaMediana": 9.49
+  },
+  "SERGIO MAIA QUEIROZ LIMA": {
+    "Notas": [
+      9.36,
+      9.46,
+      9.54,
+      9.57,
+      9.59,
+      9.59,
+      9.59,
+      9.59,
+      9.62,
+      9.64,
+      9.64,
+      9.71,
+      9.8,
+      9.8,
+      9.82,
+      9.84,
+      9.88,
+      9.91,
+      9.95,
+      9.98
+    ],
+    "Desvios": [
+      1.58,
+      1.48,
+      1.68,
+      1.34,
+      1.17,
+      1.73,
+      1.09,
+      1.49,
+      1.38,
+      1.88,
+      1.73,
+      1.63,
+      1.76,
+      0.88,
+      1.91,
+      1.57,
+      1.44,
+      1.45,
+      0.99,
+      0.45
+    ],
+    "Componentes": {
+      "BEZ0078 - ICTIOLOGIA": {
+        "Notas": [
+          9.59,
+          9.62
+        ],
+        "Desvios": [
+          1.58,
+          1.88
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.605,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.62
+      },
+      "BEZ0070 - ZOOLOGIA II": {
+        "Notas": [
+          9.46,
+          9.54,
+          9.59,
+          9.59,
+          9.64,
+          9.64,
+          9.71,
+          9.88
+        ],
+        "Desvios": [
+          1.48,
+          1.68,
+          1.73,
+          1.09,
+          1.73,
+          1.63,
+          1.44,
+          1.45
+        ],
+        "DesvioDeNotas": 0.11688001326146423,
+        "MediaDeNotas": 9.631250000000001,
+        "MediaDeDesvios": 1.5287499999999998,
+        "NotaMediana": 9.64
+      },
+      "BEZ0072 - ZOOLOGIA III": {
+        "Notas": [
+          9.57,
+          9.8,
+          9.8,
+          9.82,
+          9.84,
+          9.91,
+          9.95,
+          9.98
+        ],
+        "Desvios": [
+          1.34,
+          1.17,
+          1.49,
+          1.38,
+          1.76,
+          0.88,
+          0.99,
+          0.45
+        ],
+        "DesvioDeNotas": 0.11873684137621299,
+        "MediaDeNotas": 9.833750000000002,
+        "MediaDeDesvios": 1.1824999999999999,
+        "NotaMediana": 9.84
+      },
+      "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS": {
+        "Notas": [
+          9.36,
+          9.59
+        ],
+        "Desvios": [
+          1.91,
+          1.57
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.475,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.16560193235587575,
+    "MediaDeNotas": 9.693999999999999,
+    "MediaDeDesvios": 1.4315,
+    "NotaMediana": 9.64
+  },
+  "FERNANDA ANTUNES CARVALHO": {
+    "Notas": [
+      8.82,
+      8.87,
+      8.94,
+      9.05,
+      9.14,
+      9.15,
+      9.2,
+      9.35
+    ],
+    "Desvios": [
+      1.81,
+      2.23,
+      1.77,
+      2.17,
+      2.14,
+      1.62,
+      1.9,
+      1.68
+    ],
+    "Componentes": {
+      "BEZ0041 - BOTÂNICA DE CAMPO": {
+        "Notas": [
+          9.15,
+          9.35
+        ],
+        "Desvios": [
+          1.81,
+          1.62
+        ],
+        "DesvioDeNotas": 0.09999999999999964,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.715,
+        "NotaMediana": 9.35
+      },
+      "BEZ0073 - FILOGENIA": {
+        "Notas": [
+          8.87,
+          8.94,
+          9.14,
+          9.2
+        ],
+        "Desvios": [
+          2.23,
+          1.77,
+          1.9,
+          1.68
+        ],
+        "DesvioDeNotas": 0.13645054048995212,
+        "MediaDeNotas": 9.037499999999998,
+        "MediaDeDesvios": 1.895,
+        "NotaMediana": 9.14
+      },
+      "BEZ0063 - BOTÂNICA II": {
+        "Notas": [
+          9.05
+        ],
+        "Desvios": [
+          2.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 2.17,
+        "NotaMediana": 9.05
+      },
+      "BEZ0064 - BOTÂNICA III": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          2.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 2.14,
+        "NotaMediana": 8.82
+      }
+    },
+    "DesvioDeNotas": 0.16815171720800237,
+    "MediaDeNotas": 9.065,
+    "MediaDeDesvios": 1.9150000000000003,
+    "NotaMediana": 9.14
+  },
+  "GUILHERME GERHARDT MAZZOCHINI": {
+    "Notas": [
+      8.95,
+      9.16,
+      9.28,
+      9.34,
+      9.38,
+      9.41,
+      9.45,
+      9.47,
+      9.6,
+      9.6,
+      9.64,
+      9.73,
+      9.76,
+      9.79,
+      9.86,
+      9.86
+    ],
+    "Desvios": [
+      1.79,
+      1.76,
+      1.22,
+      1.28,
+      2.12,
+      1.08,
+      0.96,
+      1.79,
+      1.32,
+      1.44,
+      1.85,
+      1.23,
+      1.47,
+      1.37,
+      0.96,
+      1.6
+    ],
+    "Componentes": {
+      "BEZ0041 - BOTÂNICA DE CAMPO": {
+        "Notas": [
+          9.41,
+          9.6
+        ],
+        "Desvios": [
+          1.79,
+          1.23
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.504999999999999,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.6
+      },
+      "BEZ0063 - BOTÂNICA II": {
+        "Notas": [
+          9.34,
+          9.38,
+          9.45,
+          9.47,
+          9.64,
+          9.86
+        ],
+        "Desvios": [
+          1.76,
+          1.22,
+          1.79,
+          1.32,
+          1.47,
+          1.37
+        ],
+        "DesvioDeNotas": 0.17763883459298951,
+        "MediaDeNotas": 9.523333333333333,
+        "MediaDeDesvios": 1.4883333333333333,
+        "NotaMediana": 9.47
+      },
+      "BEZ0064 - BOTÂNICA III": {
+        "Notas": [
+          9.28,
+          9.76,
+          9.86
+        ],
+        "Desvios": [
+          1.28,
+          1.44,
+          0.96
+        ],
+        "DesvioDeNotas": 0.25315783394730046,
+        "MediaDeNotas": 9.633333333333333,
+        "MediaDeDesvios": 1.2266666666666666,
+        "NotaMediana": 9.76
+      },
+      "BEZ0023 - MORFOLOGIA E SISTEMATICA VEGETAL": {
+        "Notas": [
+          8.95,
+          9.16
+        ],
+        "Desvios": [
+          2.12,
+          1.6
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.055,
+        "MediaDeDesvios": 1.86,
+        "NotaMediana": 9.16
+      },
+      "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE": {
+        "Notas": [
+          9.73,
+          9.79
+        ],
+        "Desvios": [
+          1.08,
+          0.96
+        ],
+        "DesvioDeNotas": 0.02999999999999936,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.02,
+        "NotaMediana": 9.79
+      },
+      "BEZ0037 - FILOGENIA VEGETAL": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.25205406166138244,
+    "MediaDeNotas": 9.517499999999998,
+    "MediaDeDesvios": 1.4525000000000001,
+    "NotaMediana": 9.6
+  },
+  "ADRIAN ANTONIO GARDA": {
+    "Notas": [
+      8.99,
+      9.08,
+      9.09,
+      9.22,
+      9.34
+    ],
+    "Desvios": [
+      1.61,
+      2.24,
+      1.96,
+      1.83,
+      1.62
+    ],
+    "Componentes": {
+      "BEZ0034 - BIOLOGIA DE ANFÍBIOS": {
+        "Notas": [
+          8.99
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.99,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 8.99
+      },
+      "BEZ0073 - FILOGENIA": {
+        "Notas": [
+          9.22,
+          9.34
+        ],
+        "Desvios": [
+          2.24,
+          1.96
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.280000000000001,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.34
+      },
+      "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS": {
+        "Notas": [
+          9.08,
+          9.09
+        ],
+        "Desvios": [
+          1.83,
+          1.62
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.085,
+        "MediaDeDesvios": 1.725,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 0.12240914998479482,
+    "MediaDeNotas": 9.144,
+    "MediaDeDesvios": 1.8520000000000003,
+    "NotaMediana": 9.09
+  }
+}

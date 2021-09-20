@@ -1,0 +1,1926 @@
+{
+  "ABMAEL BEZERRA DE OLIVEIRA": {
+    "Notas": [
+      8.9,
+      9.02,
+      9.21,
+      9.23,
+      9.24,
+      9.44,
+      9.49,
+      9.54,
+      9.59,
+      9.6,
+      9.61,
+      9.61
+    ],
+    "Desvios": [
+      1.71,
+      1.9,
+      2.52,
+      2.02,
+      1.74,
+      2.54,
+      1.82,
+      1.86,
+      2.37,
+      1.52,
+      1.3,
+      1.45
+    ],
+    "Componentes": {
+      "ELE0642 - DISTRIBUICAO DE ENERGIA ELETRICA": {
+        "Notas": [
+          9.23,
+          9.24,
+          9.61,
+          9.61
+        ],
+        "Desvios": [
+          1.71,
+          2.02,
+          1.82,
+          1.52
+        ],
+        "DesvioDeNotas": 0.18753333037089656,
+        "MediaDeNotas": 9.4225,
+        "MediaDeDesvios": 1.7675,
+        "NotaMediana": 9.61
+      },
+      "ELE0390 - ELETROTECNICA BASICA": {
+        "Notas": [
+          9.21,
+          9.49,
+          9.59,
+          9.6
+        ],
+        "Desvios": [
+          1.9,
+          1.74,
+          1.86,
+          1.3
+        ],
+        "DesvioDeNotas": 0.15753967754188106,
+        "MediaDeNotas": 9.4725,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.59
+      },
+      "ELE0500 - INTRODUCAO A ENGENHARIA ELETRICA": {
+        "Notas": [
+          8.9,
+          9.02,
+          9.44,
+          9.54
+        ],
+        "Desvios": [
+          2.52,
+          2.54,
+          2.37,
+          1.45
+        ],
+        "DesvioDeNotas": 0.2706935536727829,
+        "MediaDeNotas": 9.225,
+        "MediaDeDesvios": 2.22,
+        "NotaMediana": 9.44
+      }
+    },
+    "DesvioDeNotas": 0.23630253678047713,
+    "MediaDeNotas": 9.373333333333333,
+    "MediaDeDesvios": 1.8958333333333333,
+    "NotaMediana": 9.49
+  },
+  "ARRHENIUS VINICIUS DA COSTA OLIVEIRA": {
+    "Notas": [
+      9.42,
+      9.59,
+      9.68,
+      9.77,
+      9.82,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.38,
+      1.69,
+      1.6,
+      1.65,
+      1.57,
+      1.4,
+      1.14
+    ],
+    "Componentes": {
+      "ELE0513 - ANALISE DE SISTEMAS DE POTENCIA I": {
+        "Notas": [
+          9.68,
+          9.82,
+          9.82,
+          9.84
+        ],
+        "Desvios": [
+          1.38,
+          1.6,
+          1.57,
+          1.14
+        ],
+        "DesvioDeNotas": 0.06403124237432864,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.4224999999999999,
+        "NotaMediana": 9.82
+      },
+      "ELE0390 - ELETROTECNICA BASICA": {
+        "Notas": [
+          9.42,
+          9.59,
+          9.77
+        ],
+        "Desvios": [
+          1.69,
+          1.65,
+          1.4
+        ],
+        "DesvioDeNotas": 0.14290634073483996,
+        "MediaDeNotas": 9.593333333333332,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.14341320350224218,
+    "MediaDeNotas": 9.705714285714285,
+    "MediaDeDesvios": 1.4900000000000002,
+    "NotaMediana": 9.77
+  },
+  "CAIO DORNELES CUNHA": {
+    "Notas": [
+      9.02,
+      9.23,
+      9.25,
+      9.56,
+      9.66,
+      9.79,
+      9.82
+    ],
+    "Desvios": [
+      1.81,
+      0.78,
+      2.19,
+      2.17,
+      2.26,
+      1.48,
+      1.39
+    ],
+    "Componentes": {
+      "ELE0520 - MAQUINAS ELETRICAS I": {
+        "Notas": [
+          9.02,
+          9.23,
+          9.56,
+          9.66
+        ],
+        "Desvios": [
+          1.81,
+          2.19,
+          2.26,
+          1.39
+        ],
+        "DesvioDeNotas": 0.256063956854533,
+        "MediaDeNotas": 9.3675,
+        "MediaDeDesvios": 1.9124999999999999,
+        "NotaMediana": 9.56
+      },
+      "ELE0644 - MAQUINAS ELETRICAS II": {
+        "Notas": [
+          9.25,
+          9.79,
+          9.82
+        ],
+        "Desvios": [
+          0.78,
+          2.17,
+          1.48
+        ],
+        "DesvioDeNotas": 0.2619160170741758,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.4766666666666666,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.2871961571000929,
+    "MediaDeNotas": 9.475714285714286,
+    "MediaDeDesvios": 1.7257142857142858,
+    "NotaMediana": 9.56
+  },
+  "CARLOS YURI FERREIRA SILVA": {
+    "Notas": [
+      9.39,
+      9.5,
+      9.7,
+      9.75
+    ],
+    "Desvios": [
+      2.01,
+      0.74,
+      1.62,
+      1.7
+    ],
+    "Componentes": {
+      "ELE1622 - INSTRUMENTAÇÃO INDUSTRIAL": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          2.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 2.01,
+        "NotaMediana": 9.5
+      },
+      "ELE0518 - LABORATORIO DE SISTEMAS DIGITAIS": {
+        "Notas": [
+          9.39,
+          9.7
+        ],
+        "Desvios": [
+          0.74,
+          1.62
+        ],
+        "DesvioDeNotas": 0.15499999999999936,
+        "MediaDeNotas": 9.545,
+        "MediaDeDesvios": 1.1800000000000002,
+        "NotaMediana": 9.7
+      },
+      "ELE0517 - SISTEMAS DIGITAIS": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.14637281168304414,
+    "MediaDeNotas": 9.585,
+    "MediaDeDesvios": 1.5175,
+    "NotaMediana": 9.7
+  },
+  "CRISLUCI KARINA SOUZA SANTOS CANDIDO": {
+    "Notas": [
+      9.75,
+      9.77,
+      9.8,
+      9.87,
+      9.87,
+      9.9
+    ],
+    "Desvios": [
+      1.34,
+      1.29,
+      1.49,
+      1.2,
+      1.35,
+      1.35
+    ],
+    "Componentes": {
+      "ELE0506 - CIRCUITOS ELETRICOS": {
+        "Notas": [
+          9.77,
+          9.8,
+          9.87,
+          9.9
+        ],
+        "Desvios": [
+          1.34,
+          1.49,
+          1.2,
+          1.35
+        ],
+        "DesvioDeNotas": 0.052201532544552745,
+        "MediaDeNotas": 9.835,
+        "MediaDeDesvios": 1.3450000000000002,
+        "NotaMediana": 9.87
+      },
+      "ELE0390 - ELETROTECNICA BASICA": {
+        "Notas": [
+          9.75,
+          9.87
+        ],
+        "Desvios": [
+          1.29,
+          1.35
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.809999999999999,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.87
+      }
+    },
+    "DesvioDeNotas": 0.056174331821175615,
+    "MediaDeNotas": 9.826666666666666,
+    "MediaDeDesvios": 1.3366666666666667,
+    "NotaMediana": 9.87
+  },
+  "DIOMADSON RODRIGUES BELFORT": {
+    "Notas": [
+      7.54,
+      7.78,
+      8.32,
+      8.61,
+      8.79,
+      8.82,
+      8.84,
+      8.94,
+      9.18
+    ],
+    "Desvios": [
+      3.07,
+      1.83,
+      2.49,
+      2.46,
+      2.54,
+      2.5,
+      2.65,
+      2.03,
+      1.75
+    ],
+    "Componentes": {
+      "ELE0582 - FUNDAMENTOS DE ELETRONICA": {
+        "Notas": [
+          7.78,
+          8.32,
+          8.61,
+          8.79,
+          8.82,
+          8.84,
+          8.94,
+          9.18
+        ],
+        "Desvios": [
+          3.07,
+          1.83,
+          2.49,
+          2.46,
+          2.54,
+          2.5,
+          2.03,
+          1.75
+        ],
+        "DesvioDeNotas": 0.40561681424714113,
+        "MediaDeNotas": 8.66,
+        "MediaDeDesvios": 2.33375,
+        "NotaMediana": 8.82
+      },
+      "ELE0586 - TOPICOS ESPECIAIS EM SOFTWARES APLICADOS A ENG ELETRICAI": {
+        "Notas": [
+          7.54
+        ],
+        "Desvios": [
+          2.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.54,
+        "MediaDeDesvios": 2.65,
+        "NotaMediana": 7.54
+      }
+    },
+    "DesvioDeNotas": 0.5197459018300535,
+    "MediaDeNotas": 8.535555555555554,
+    "MediaDeDesvios": 2.368888888888889,
+    "NotaMediana": 8.79
+  },
+  "FELIPE DE SOUZA PINHEIRO": {
+    "Notas": [
+      8.02,
+      8.45,
+      8.57,
+      8.73,
+      8.9,
+      8.96,
+      9.21,
+      9.23,
+      9.3,
+      9.45,
+      9.48,
+      9.54,
+      9.92
+    ],
+    "Desvios": [
+      2.51,
+      2.29,
+      1.95,
+      1.96,
+      1.83,
+      2.19,
+      2.07,
+      1.66,
+      1.58,
+      1.96,
+      0.86,
+      2.26,
+      2.39
+    ],
+    "Componentes": {
+      "ELE0605 - CONTROLADORES LOGICOS PROGRAMAVEIS": {
+        "Notas": [
+          8.9,
+          9.3,
+          9.92
+        ],
+        "Desvios": [
+          2.51,
+          2.19,
+          0.86
+        ],
+        "DesvioDeNotas": 0.41962946618283214,
+        "MediaDeNotas": 9.373333333333335,
+        "MediaDeDesvios": 1.8533333333333333,
+        "NotaMediana": 9.3
+      },
+      "ELE0531 - CONTROLE DIGITAL": {
+        "Notas": [
+          8.45,
+          8.57,
+          9.23
+        ],
+        "Desvios": [
+          2.29,
+          2.07,
+          2.26
+        ],
+        "DesvioDeNotas": 0.3429285639896453,
+        "MediaDeNotas": 8.75,
+        "MediaDeDesvios": 2.2066666666666666,
+        "NotaMediana": 8.57
+      },
+      "ELE0701 - ELETRÔNICA": {
+        "Notas": [
+          9.21,
+          9.48
+        ],
+        "Desvios": [
+          1.95,
+          1.66
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.345,
+        "MediaDeDesvios": 1.805,
+        "NotaMediana": 9.48
+      },
+      "ELE1622 - INSTRUMENTAÇÃO INDUSTRIAL": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 9.45
+      },
+      "ELE0521 - SISTEMAS DE CONTROLE I": {
+        "Notas": [
+          8.02,
+          8.73,
+          8.96
+        ],
+        "Desvios": [
+          1.83,
+          1.96,
+          2.39
+        ],
+        "DesvioDeNotas": 0.4000833246545863,
+        "MediaDeNotas": 8.57,
+        "MediaDeDesvios": 2.06,
+        "NotaMediana": 8.73
+      },
+      "ELE0519 - LABORATORIO DE CIRCUITOS ELETRONICOS": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.54
+      }
+    },
+    "DesvioDeNotas": 0.4996744502303653,
+    "MediaDeNotas": 9.05846153846154,
+    "MediaDeDesvios": 1.962307692307692,
+    "NotaMediana": 9.21
+  },
+  "FERNANDO JOSE OLIVEIRA DE AMORIM": {
+    "Notas": [
+      9.42,
+      9.57,
+      9.66
+    ],
+    "Desvios": [
+      1.19,
+      1.8,
+      2.13
+    ],
+    "Componentes": {
+      "ELE0515 - CIRCUITOS LOGICOS": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.57
+      },
+      "ELE0519 - LABORATORIO DE CIRCUITOS ELETRONICOS": {
+        "Notas": [
+          9.42,
+          9.66
+        ],
+        "Desvios": [
+          1.8,
+          2.13
+        ],
+        "DesvioDeNotas": 0.1200000000000001,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.9649999999999999,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.09899494936611676,
+    "MediaDeNotas": 9.55,
+    "MediaDeDesvios": 1.7066666666666668,
+    "NotaMediana": 9.57
+  },
+  "HENRIQUE ADLER MEDEIROS SILVA": {
+    "Notas": [
+      7.26,
+      7.87,
+      8.07,
+      8.09,
+      8.45,
+      8.54,
+      8.55,
+      8.73,
+      8.93,
+      8.98,
+      8.98,
+      9.16
+    ],
+    "Desvios": [
+      2.48,
+      1.47,
+      2.04,
+      2.46,
+      2.24,
+      1.9,
+      2.49,
+      2.01,
+      2.11,
+      1.49,
+      1.62,
+      1.74
+    ],
+    "Componentes": {
+      "ELE0555 - ANTENAS E PROPAGACAO": {
+        "Notas": [
+          7.26,
+          7.87,
+          8.09,
+          8.98
+        ],
+        "Desvios": [
+          2.48,
+          2.46,
+          2.49,
+          1.49
+        ],
+        "DesvioDeNotas": 0.6170494307589954,
+        "MediaDeNotas": 8.05,
+        "MediaDeDesvios": 2.23,
+        "NotaMediana": 8.09
+      },
+      "ELE0549 - COMUNICACOES DIGITAIS": {
+        "Notas": [
+          8.45,
+          8.93,
+          8.98,
+          9.16
+        ],
+        "Desvios": [
+          1.47,
+          2.24,
+          2.01,
+          1.62
+        ],
+        "DesvioDeNotas": 0.262583320110018,
+        "MediaDeNotas": 8.879999999999999,
+        "MediaDeDesvios": 1.835,
+        "NotaMediana": 8.98
+      },
+      "ELE0527 - SISTEMAS DE TELECOMUNICACOES I": {
+        "Notas": [
+          8.07,
+          8.54,
+          8.55,
+          8.73
+        ],
+        "Desvios": [
+          2.04,
+          1.9,
+          2.11,
+          1.74
+        ],
+        "DesvioDeNotas": 0.24437420076595648,
+        "MediaDeNotas": 8.4725,
+        "MediaDeDesvios": 1.9475,
+        "NotaMediana": 8.55
+      }
+    },
+    "DesvioDeNotas": 0.5335123397510751,
+    "MediaDeNotas": 8.4675,
+    "MediaDeDesvios": 2.0041666666666664,
+    "NotaMediana": 8.55
+  },
+  "JOSE ALBERTO NICOLAU DE OLIVEIRA": {
+    "Notas": [
+      9.14,
+      9.25,
+      9.38,
+      9.43,
+      9.45,
+      9.45,
+      9.46,
+      9.49,
+      9.53,
+      9.6,
+      9.65,
+      9.88
+    ],
+    "Desvios": [
+      1.7,
+      1.91,
+      1.98,
+      2.13,
+      1.6,
+      1.88,
+      1.97,
+      1.9,
+      1.5,
+      1.24,
+      1.18,
+      1.2
+    ],
+    "Componentes": {
+      "ELE0621 - ARQUITETURA E PROGRAMACAO DE MICROCOMPUTADORES": {
+        "Notas": [
+          9.43,
+          9.88
+        ],
+        "Desvios": [
+          1.7,
+          1.24
+        ],
+        "DesvioDeNotas": 0.22500000000000053,
+        "MediaDeNotas": 9.655000000000001,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.88
+      },
+      "ELE0517 - SISTEMAS DIGITAIS": {
+        "Notas": [
+          9.14,
+          9.25,
+          9.38,
+          9.45,
+          9.46,
+          9.53,
+          9.6,
+          9.65
+        ],
+        "Desvios": [
+          1.91,
+          1.98,
+          2.13,
+          1.6,
+          1.97,
+          1.9,
+          1.18,
+          1.2
+        ],
+        "DesvioDeNotas": 0.16107063667844596,
+        "MediaDeNotas": 9.4325,
+        "MediaDeDesvios": 1.73375,
+        "NotaMediana": 9.46
+      },
+      "ELE0629 - TOPICOS ESPECIAIS EM SISTEMAS EMBARCADOS": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 9.45
+      },
+      "ELE0625 - TOPICOS ESPECIAIS EM SISTEMAS DIGITAIS": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.49
+      }
+    },
+    "DesvioDeNotas": 0.1800212178852507,
+    "MediaDeNotas": 9.475833333333332,
+    "MediaDeDesvios": 1.6824999999999999,
+    "NotaMediana": 9.46
+  },
+  "JOSE ALFREDO FERREIRA COSTA": {
+    "Notas": [
+      5.16,
+      6.39,
+      6.94,
+      7.07,
+      7.21,
+      7.73,
+      8.02,
+      8.72
+    ],
+    "Desvios": [
+      2.29,
+      3.28,
+      3.66,
+      2.57,
+      2.81,
+      2.29,
+      2.42,
+      2.35
+    ],
+    "Componentes": {
+      "ELE0515 - CIRCUITOS LOGICOS": {
+        "Notas": [
+          6.94,
+          7.07,
+          7.73,
+          8.72
+        ],
+        "Desvios": [
+          2.29,
+          3.28,
+          2.57,
+          2.42
+        ],
+        "DesvioDeNotas": 0.7047872019269363,
+        "MediaDeNotas": 7.615,
+        "MediaDeDesvios": 2.64,
+        "NotaMediana": 7.73
+      },
+      "ELE0518 - LABORATORIO DE SISTEMAS DIGITAIS": {
+        "Notas": [
+          5.16,
+          6.39,
+          7.21
+        ],
+        "Desvios": [
+          3.66,
+          2.81,
+          2.35
+        ],
+        "DesvioDeNotas": 0.8424699137390934,
+        "MediaDeNotas": 6.253333333333334,
+        "MediaDeDesvios": 2.94,
+        "NotaMediana": 6.39
+      },
+      "ELE0606 - TOPICOS ESPECIAIS EM INTELIGENCIA ARTIFICIAL": {
+        "Notas": [
+          8.02
+        ],
+        "Desvios": [
+          2.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.02,
+        "MediaDeDesvios": 2.29,
+        "NotaMediana": 8.02
+      }
+    },
+    "DesvioDeNotas": 1.009319077398223,
+    "MediaDeNotas": 7.154999999999999,
+    "MediaDeDesvios": 2.70875,
+    "NotaMediana": 7.21
+  },
+  "JOSE LUIZ DA SILVA JUNIOR": {
+    "Notas": [
+      8.79,
+      9.31,
+      9.38,
+      9.47,
+      9.57,
+      9.57
+    ],
+    "Desvios": [
+      2.03,
+      1.51,
+      1.1,
+      2.24,
+      1.09,
+      1.34
+    ],
+    "Componentes": {
+      "ELE0523 - INSTALACOES ELETRICAS": {
+        "Notas": [
+          8.79,
+          9.31,
+          9.38,
+          9.47
+        ],
+        "Desvios": [
+          2.03,
+          1.51,
+          2.24,
+          1.34
+        ],
+        "DesvioDeNotas": 0.26451606756490303,
+        "MediaDeNotas": 9.2375,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.38
+      },
+      "ELE0390 - ELETROTECNICA BASICA": {
+        "Notas": [
+          9.57,
+          9.57
+        ],
+        "Desvios": [
+          1.1,
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.0950000000000002,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.2668593054193335,
+    "MediaDeNotas": 9.348333333333333,
+    "MediaDeDesvios": 1.5516666666666667,
+    "NotaMediana": 9.47
+  },
+  "JOSE PATROCINIO DA SILVA": {
+    "Notas": [
+      9.06,
+      9.22,
+      9.34,
+      9.43,
+      9.46,
+      9.48,
+      9.56,
+      9.65
+    ],
+    "Desvios": [
+      2.24,
+      2.4,
+      1.89,
+      1.91,
+      1.88,
+      1.76,
+      1.5,
+      1.56
+    ],
+    "Componentes": {
+      "ELE0509 - LINHAS DE TRANSMISSAO E ONDAS": {
+        "Notas": [
+          9.06,
+          9.34,
+          9.46,
+          9.56
+        ],
+        "Desvios": [
+          2.24,
+          1.89,
+          1.88,
+          1.5
+        ],
+        "DesvioDeNotas": 0.1872832080032805,
+        "MediaDeNotas": 9.355,
+        "MediaDeDesvios": 1.8775,
+        "NotaMediana": 9.46
+      },
+      "ELE0508 - TEORIA ELETROMAGNETICA": {
+        "Notas": [
+          9.22,
+          9.43,
+          9.48,
+          9.65
+        ],
+        "Desvios": [
+          2.4,
+          1.91,
+          1.76,
+          1.56
+        ],
+        "DesvioDeNotas": 0.15337861650177959,
+        "MediaDeNotas": 9.445,
+        "MediaDeDesvios": 1.9074999999999998,
+        "NotaMediana": 9.48
+      }
+    },
+    "DesvioDeNotas": 0.17698870020427857,
+    "MediaDeNotas": 9.400000000000002,
+    "MediaDeDesvios": 1.8925,
+    "NotaMediana": 9.46
+  },
+  "JOSE TAVARES DE OLIVEIRA": {
+    "Notas": [
+      8.63,
+      8.72,
+      8.75,
+      8.76,
+      8.99,
+      9.08,
+      9.2,
+      9.63
+    ],
+    "Desvios": [
+      1.67,
+      2.25,
+      2.04,
+      2.37,
+      1.69,
+      2.15,
+      1.72,
+      1.8
+    ],
+    "Componentes": {
+      "ELE0647 - TOPICOS ESP. EM SISTEMAS DE POTENCIA I": {
+        "Notas": [
+          8.76,
+          9.08,
+          9.2,
+          9.63
+        ],
+        "Desvios": [
+          1.67,
+          2.04,
+          1.69,
+          1.72
+        ],
+        "DesvioDeNotas": 0.3117190241226868,
+        "MediaDeNotas": 9.1675,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.2
+      },
+      "ELE0648 - TOPICOS ESPECIAIS EM TRANSMISSAO DE ENERGIA ELETRICA": {
+        "Notas": [
+          8.63,
+          8.72,
+          8.75,
+          8.99
+        ],
+        "Desvios": [
+          2.25,
+          2.37,
+          2.15,
+          1.8
+        ],
+        "DesvioDeNotas": 0.13311179511974117,
+        "MediaDeNotas": 8.7725,
+        "MediaDeDesvios": 2.1425,
+        "NotaMediana": 8.75
+      }
+    },
+    "DesvioDeNotas": 0.31056400306539067,
+    "MediaDeNotas": 8.97,
+    "MediaDeDesvios": 1.9612500000000002,
+    "NotaMediana": 8.99
+  },
+  "KURIOS IURI PINHEIRO DE MELO QUEIROZ": {
+    "Notas": [
+      8.57,
+      8.98,
+      9.44,
+      9.49,
+      9.6,
+      9.64,
+      9.69,
+      9.72
+    ],
+    "Desvios": [
+      1.4,
+      1.54,
+      1.67,
+      1.86,
+      2.28,
+      1.93,
+      2.57,
+      1.5
+    ],
+    "Componentes": {
+      "ELE0581 - SINAIS E SISTEMAS LINEARES": {
+        "Notas": [
+          8.57,
+          8.98,
+          9.64,
+          9.72
+        ],
+        "Desvios": [
+          1.4,
+          1.67,
+          2.28,
+          2.57
+        ],
+        "DesvioDeNotas": 0.4759923843928599,
+        "MediaDeNotas": 9.2275,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.64
+      },
+      "ELE0522 - SISTEMAS DE CONTROLE II": {
+        "Notas": [
+          9.44,
+          9.49,
+          9.6,
+          9.69
+        ],
+        "Desvios": [
+          1.54,
+          1.86,
+          1.93,
+          1.5
+        ],
+        "DesvioDeNotas": 0.0970824391947379,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.7075,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.3805403230933615,
+    "MediaDeNotas": 9.39125,
+    "MediaDeDesvios": 1.84375,
+    "NotaMediana": 9.6
+  },
+  "LUCIANO SALES BARROS": {
+    "Notas": [
+      8.13,
+      8.16,
+      8.64,
+      8.65,
+      8.73,
+      8.95,
+      9.06,
+      9.25,
+      9.39
+    ],
+    "Desvios": [
+      2.2,
+      1.47,
+      1.98,
+      2.15,
+      2.66,
+      2.23,
+      1.45,
+      1.79,
+      2.15
+    ],
+    "Componentes": {
+      "ELE0530 - ANALISE DE SISTEMAS DE POTENCIA II": {
+        "Notas": [
+          8.13,
+          8.95,
+          9.06,
+          9.39
+        ],
+        "Desvios": [
+          2.2,
+          1.98,
+          2.66,
+          1.45
+        ],
+        "DesvioDeNotas": 0.4636472258085881,
+        "MediaDeNotas": 8.8825,
+        "MediaDeDesvios": 2.0725,
+        "NotaMediana": 9.06
+      },
+      "ELE0585 - TECNICAS DE ACIONAMENTO DE MAQUINAS ELETRICAS": {
+        "Notas": [
+          8.16,
+          8.64,
+          8.65,
+          8.73,
+          9.25
+        ],
+        "Desvios": [
+          1.47,
+          2.15,
+          2.23,
+          1.79,
+          2.15
+        ],
+        "DesvioDeNotas": 0.3464448007980491,
+        "MediaDeNotas": 8.685999999999998,
+        "MediaDeDesvios": 1.9579999999999997,
+        "NotaMediana": 8.65
+      }
+    },
+    "DesvioDeNotas": 0.4144340183377271,
+    "MediaDeNotas": 8.773333333333333,
+    "MediaDeDesvios": 2.0088888888888885,
+    "NotaMediana": 8.73
+  },
+  "MARCOS ANTONIO DIAS DE ALMEIDA": {
+    "Notas": [
+      9.3,
+      9.37,
+      9.44,
+      9.49,
+      9.55,
+      9.63,
+      9.73,
+      9.84
+    ],
+    "Desvios": [
+      1.77,
+      1.78,
+      1.33,
+      1.84,
+      1.57,
+      1.66,
+      1.29,
+      1.04
+    ],
+    "Componentes": {
+      "ELE0641 - PROTECAO DE SISTEMAS ELETRICOS DE POTENCIA": {
+        "Notas": [
+          9.37,
+          9.55,
+          9.63,
+          9.73
+        ],
+        "Desvios": [
+          1.77,
+          1.33,
+          1.57,
+          1.29
+        ],
+        "DesvioDeNotas": 0.13190905958272967,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.63
+      },
+      "ELE0646 - SUBESTACOES DE ENERGIA ELETRICA": {
+        "Notas": [
+          9.3,
+          9.44,
+          9.49,
+          9.84
+        ],
+        "Desvios": [
+          1.78,
+          1.84,
+          1.66,
+          1.04
+        ],
+        "DesvioDeNotas": 0.19879323429131063,
+        "MediaDeNotas": 9.517500000000002,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.49
+      }
+    },
+    "DesvioDeNotas": 0.17072913488915717,
+    "MediaDeNotas": 9.543750000000001,
+    "MediaDeDesvios": 1.5349999999999997,
+    "NotaMediana": 9.55
+  },
+  "MAX CHIANCA PIMENTEL FILHO": {
+    "Notas": [
+      8.04,
+      8.18,
+      8.56,
+      9.06,
+      9.29,
+      9.36,
+      9.49,
+      9.57
+    ],
+    "Desvios": [
+      1.74,
+      2.19,
+      2.03,
+      1.92,
+      1.99,
+      2.48,
+      1.56,
+      2.17
+    ],
+    "Componentes": {
+      "ELE0390 - ELETROTECNICA BASICA": {
+        "Notas": [
+          9.29,
+          9.36,
+          9.49,
+          9.57
+        ],
+        "Desvios": [
+          1.74,
+          2.03,
+          1.99,
+          1.56
+        ],
+        "DesvioDeNotas": 0.10917302780449073,
+        "MediaDeNotas": 9.4275,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.49
+      },
+      "ELE0649 - TOPICOS ESP. EM SISTEMAS DE POTENCIA II": {
+        "Notas": [
+          8.04,
+          8.18,
+          8.56,
+          9.06
+        ],
+        "Desvios": [
+          2.19,
+          1.92,
+          2.48,
+          2.17
+        ],
+        "DesvioDeNotas": 0.3952214569073906,
+        "MediaDeNotas": 8.46,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 8.56
+      }
+    },
+    "DesvioDeNotas": 0.563979997428987,
+    "MediaDeNotas": 8.94375,
+    "MediaDeDesvios": 2.01,
+    "NotaMediana": 9.29
+  },
+  "RICARDO LUCIO DE ARAUJO RIBEIRO": {
+    "Notas": [
+      7.33,
+      7.57,
+      7.69,
+      7.74,
+      7.85,
+      8.72,
+      9.03,
+      9.14
+    ],
+    "Desvios": [
+      2.57,
+      3.16,
+      2.46,
+      2.87,
+      1.96,
+      2.67,
+      2.07,
+      2.33
+    ],
+    "Componentes": {
+      "ELE1524 - ACIONAMENTOS ELETRÔNICOS DE POTÊNCIA": {
+        "Notas": [
+          7.33,
+          7.69,
+          9.03,
+          9.14
+        ],
+        "Desvios": [
+          2.57,
+          2.46,
+          1.96,
+          2.07
+        ],
+        "DesvioDeNotas": 0.7986668579576843,
+        "MediaDeNotas": 8.2975,
+        "MediaDeDesvios": 2.2649999999999997,
+        "NotaMediana": 9.03
+      },
+      "ELE0524 - ELETRONICA DE POTENCIA": {
+        "Notas": [
+          7.57,
+          7.74,
+          7.85,
+          8.72
+        ],
+        "Desvios": [
+          3.16,
+          2.87,
+          2.67,
+          2.33
+        ],
+        "DesvioDeNotas": 0.4443534629098778,
+        "MediaDeNotas": 7.970000000000001,
+        "MediaDeDesvios": 2.7575,
+        "NotaMediana": 7.85
+      }
+    },
+    "DesvioDeNotas": 0.666688411103718,
+    "MediaDeNotas": 8.13375,
+    "MediaDeDesvios": 2.5112500000000004,
+    "NotaMediana": 7.85
+  },
+  "SAMAHERNI MORAIS DIAS": {
+    "Notas": [
+      9.29,
+      9.29,
+      9.29,
+      9.38,
+      9.4,
+      9.41,
+      9.52,
+      9.53,
+      9.65,
+      9.74,
+      9.75,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.82,
+      1.44,
+      1.86,
+      0.61,
+      0.93,
+      1.09,
+      1.51,
+      1.36,
+      1.38,
+      1.39,
+      1.48,
+      1.65,
+      1.2
+    ],
+    "Componentes": {
+      "ELE2715.1 - CIRCUITOS DIGITAIS - LABORATÓRIO": {
+        "Notas": [
+          9.38,
+          9.4,
+          9.52,
+          9.65,
+          9.84
+        ],
+        "Desvios": [
+          1.82,
+          1.44,
+          1.09,
+          1.51,
+          1.38
+        ],
+        "DesvioDeNotas": 0.17092688495377176,
+        "MediaDeNotas": 9.558000000000002,
+        "MediaDeDesvios": 1.448,
+        "NotaMediana": 9.52
+      },
+      "ELE2715.0 - CIRCUITOS DIGITAIS - TEORIA": {
+        "Notas": [
+          9.29,
+          9.53,
+          9.74
+        ],
+        "Desvios": [
+          1.86,
+          1.36,
+          1.39
+        ],
+        "DesvioDeNotas": 0.1838477631085028,
+        "MediaDeNotas": 9.520000000000001,
+        "MediaDeDesvios": 1.5366666666666668,
+        "NotaMediana": 9.53
+      },
+      "MCA0004 - PROJETO INTEGRADO DE MECATRÔNICA": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          0.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 0.61,
+        "NotaMediana": 9.75
+      },
+      "ELE1717 - SISTEMAS DIGITAIS": {
+        "Notas": [
+          9.29,
+          9.29,
+          9.82
+        ],
+        "Desvios": [
+          0.93,
+          1.48,
+          1.2
+        ],
+        "DesvioDeNotas": 0.24984439601924732,
+        "MediaDeNotas": 9.466666666666667,
+        "MediaDeDesvios": 1.2033333333333334,
+        "NotaMediana": 9.29
+      },
+      "ELE1715 - CIRCUITOS DIGITAIS": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.41
+      }
+    },
+    "DesvioDeNotas": 0.1987981641242486,
+    "MediaDeNotas": 9.531538461538462,
+    "MediaDeDesvios": 1.363076923076923,
+    "NotaMediana": 9.52
+  },
+  "THIAGO DE OLIVEIRA ALVES ROCHA": {
+    "Notas": [
+      8.81,
+      8.89,
+      9.2,
+      9.21,
+      9.46,
+      9.49,
+      9.56,
+      9.7,
+      9.93
+    ],
+    "Desvios": [
+      2.36,
+      1.37,
+      1.82,
+      1.82,
+      1.7,
+      2.32,
+      2.23,
+      1.94,
+      1.07
+    ],
+    "Componentes": {
+      "ELE0645 - GERACAO DE ENERGIA ELETRICA": {
+        "Notas": [
+          9.2,
+          9.49,
+          9.7,
+          9.93
+        ],
+        "Desvios": [
+          2.36,
+          1.82,
+          2.32,
+          1.07
+        ],
+        "DesvioDeNotas": 0.2689795531262554,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.8925,
+        "NotaMediana": 9.7
+      },
+      "ELE0390 - ELETROTECNICA BASICA": {
+        "Notas": [
+          8.81,
+          8.89,
+          9.21,
+          9.46,
+          9.56
+        ],
+        "Desvios": [
+          1.37,
+          1.82,
+          1.7,
+          2.23,
+          1.94
+        ],
+        "DesvioDeNotas": 0.29816773802676916,
+        "MediaDeNotas": 9.186000000000002,
+        "MediaDeDesvios": 1.812,
+        "NotaMediana": 9.21
+      }
+    },
+    "DesvioDeNotas": 0.3462319211307305,
+    "MediaDeNotas": 9.361111111111112,
+    "MediaDeDesvios": 1.8477777777777777,
+    "NotaMediana": 9.46
+  },
+  "VALENTIN OBAC RODA": {
+    "Notas": [
+      8.09,
+      8.21,
+      8.27,
+      8.53,
+      8.66,
+      8.93,
+      9.25,
+      9.34,
+      9.45,
+      9.55,
+      9.71
+    ],
+    "Desvios": [
+      2.91,
+      1.61,
+      1.26,
+      2.8,
+      1.78,
+      2.01,
+      2.81,
+      1.48,
+      2.14,
+      1.85,
+      1.39
+    ],
+    "Componentes": {
+      "ELE0511 - CIRCUITOS ELETRONICOS I": {
+        "Notas": [
+          8.09,
+          8.21,
+          8.27,
+          8.53
+        ],
+        "Desvios": [
+          2.91,
+          2.8,
+          2.81,
+          2.14
+        ],
+        "DesvioDeNotas": 0.16085707942145383,
+        "MediaDeNotas": 8.275,
+        "MediaDeDesvios": 2.665,
+        "NotaMediana": 8.27
+      },
+      "ELE0622 - INSTRUMENTACAO ELETRONICA": {
+        "Notas": [
+          8.66,
+          9.34,
+          9.45,
+          9.55
+        ],
+        "Desvios": [
+          1.61,
+          1.78,
+          1.48,
+          1.85
+        ],
+        "DesvioDeNotas": 0.3486402156952063,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.6800000000000002,
+        "NotaMediana": 9.45
+      },
+      "ELE0519 - LABORATORIO DE CIRCUITOS ELETRONICOS": {
+        "Notas": [
+          8.93,
+          9.25,
+          9.71
+        ],
+        "Desvios": [
+          1.26,
+          2.01,
+          1.39
+        ],
+        "DesvioDeNotas": 0.3201388587611463,
+        "MediaDeNotas": 9.296666666666667,
+        "MediaDeDesvios": 1.553333333333333,
+        "NotaMediana": 9.25
+      }
+    },
+    "DesvioDeNotas": 0.5576707758300378,
+    "MediaDeNotas": 8.908181818181818,
+    "MediaDeDesvios": 2.003636363636364,
+    "NotaMediana": 8.93
+  },
+  "VINCENT PATRICK MARIE BOURGUET": {
+    "Notas": [
+      9.19,
+      9.38,
+      9.62,
+      9.66,
+      9.68,
+      9.74,
+      9.78,
+      9.82,
+      9.82,
+      9.84,
+      9.84,
+      9.85
+    ],
+    "Desvios": [
+      1.41,
+      1.38,
+      1.8,
+      1.92,
+      1.45,
+      2.07,
+      1.72,
+      1.43,
+      2.08,
+      1.04,
+      1.7,
+      0.89
+    ],
+    "Componentes": {
+      "ELE0514 - CIRCUITOS ELETRONICOS II": {
+        "Notas": [
+          9.66,
+          9.74,
+          9.82,
+          9.82
+        ],
+        "Desvios": [
+          1.41,
+          1.92,
+          1.72,
+          1.04
+        ],
+        "DesvioDeNotas": 0.06633249580710805,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.5225,
+        "NotaMediana": 9.82
+      },
+      "ELE0519 - LABORATORIO DE CIRCUITOS ELETRONICOS": {
+        "Notas": [
+          9.62,
+          9.68,
+          9.84,
+          9.84
+        ],
+        "Desvios": [
+          1.38,
+          2.07,
+          1.43,
+          0.89
+        ],
+        "DesvioDeNotas": 0.09733961166965915,
+        "MediaDeNotas": 9.745,
+        "MediaDeDesvios": 1.4425,
+        "NotaMediana": 9.84
+      },
+      "ELE0624 - MICROELETRONICA": {
+        "Notas": [
+          9.19,
+          9.85
+        ],
+        "Desvios": [
+          1.8,
+          2.08
+        ],
+        "DesvioDeNotas": 0.33000000000000007,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.85
+      },
+      "ELE0623 - CIRCUITOS PARA COMUNICACAO": {
+        "Notas": [
+          9.38,
+          9.78
+        ],
+        "Desvios": [
+          1.45,
+          1.7
+        ],
+        "DesvioDeNotas": 0.1999999999999993,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.575,
+        "NotaMediana": 9.78
+      }
+    },
+    "DesvioDeNotas": 0.19720970226301407,
+    "MediaDeNotas": 9.685,
+    "MediaDeDesvios": 1.5741666666666667,
+    "NotaMediana": 9.78
+  },
+  "BRUNO DE MELO PINHEIRO": {
+    "Notas": [
+      8.78,
+      9.01,
+      9.3,
+      9.36,
+      9.48,
+      9.54,
+      9.57,
+      9.59,
+      9.75,
+      9.82,
+      9.88
+    ],
+    "Desvios": [
+      1.47,
+      1.61,
+      1.56,
+      2.04,
+      1.21,
+      1.63,
+      1.55,
+      1.63,
+      1.06,
+      1.56,
+      1.63
+    ],
+    "Componentes": {
+      "ELE0515 - CIRCUITOS LOGICOS": {
+        "Notas": [
+          9.01,
+          9.48,
+          9.88
+        ],
+        "Desvios": [
+          1.47,
+          2.04,
+          1.63
+        ],
+        "DesvioDeNotas": 0.35555902776082415,
+        "MediaDeNotas": 9.456666666666665,
+        "MediaDeDesvios": 1.7133333333333332,
+        "NotaMediana": 9.48
+      },
+      "ELE0518 - LABORATORIO DE SISTEMAS DIGITAIS": {
+        "Notas": [
+          8.78,
+          9.3,
+          9.36,
+          9.54,
+          9.57,
+          9.59
+        ],
+        "Desvios": [
+          1.61,
+          1.56,
+          1.63,
+          1.55,
+          1.56,
+          1.63
+        ],
+        "DesvioDeNotas": 0.2796823595120405,
+        "MediaDeNotas": 9.356666666666667,
+        "MediaDeDesvios": 1.5899999999999999,
+        "NotaMediana": 9.54
+      },
+      "ELE0519 - LABORATORIO DE CIRCUITOS ELETRONICOS": {
+        "Notas": [
+          9.75,
+          9.82
+        ],
+        "Desvios": [
+          1.21,
+          1.06
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.785,
+        "MediaDeDesvios": 1.135,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.31999483466905554,
+    "MediaDeNotas": 9.461818181818181,
+    "MediaDeDesvios": 1.5409090909090908,
+    "NotaMediana": 9.54
+  },
+  "BRUNNA SANTANA DE VASCONCELLOS": {
+    "Notas": [
+      9.49,
+      9.55,
+      9.65,
+      9.68,
+      9.7,
+      9.86,
+      9.88
+    ],
+    "Desvios": [
+      0.88,
+      1.68,
+      1.89,
+      1.16,
+      1.7,
+      1.58,
+      1.19
+    ],
+    "Componentes": {
+      "ELE0605 - CONTROLADORES LOGICOS PROGRAMAVEIS": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          0.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 0.88,
+        "NotaMediana": 9.86
+      },
+      "ELE0531 - CONTROLE DIGITAL": {
+        "Notas": [
+          9.65,
+          9.88
+        ],
+        "Desvios": [
+          1.68,
+          1.16
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.765,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.88
+      },
+      "ELE0521 - SISTEMAS DE CONTROLE I": {
+        "Notas": [
+          9.55,
+          9.68
+        ],
+        "Desvios": [
+          1.89,
+          1.19
+        ],
+        "DesvioDeNotas": 0.0649999999999995,
+        "MediaDeNotas": 9.615,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.68
+      },
+      "ELE0390 - ELETROTECNICA BASICA": {
+        "Notas": [
+          9.49,
+          9.7
+        ],
+        "Desvios": [
+          1.7,
+          1.58
+        ],
+        "DesvioDeNotas": 0.10499999999999954,
+        "MediaDeNotas": 9.594999999999999,
+        "MediaDeDesvios": 1.6400000000000001,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.13434649080581415,
+    "MediaDeNotas": 9.687142857142858,
+    "MediaDeDesvios": 1.44,
+    "NotaMediana": 9.68
+  },
+  "RAFAEL CARDOSO PEREIRA": {
+    "Notas": [
+      9.52,
+      9.6,
+      9.79,
+      9.82
+    ],
+    "Desvios": [
+      1.79,
+      1.29,
+      1.21,
+      1.51
+    ],
+    "Componentes": {
+      "ELE0701 - ELETRÔNICA": {
+        "Notas": [
+          9.52,
+          9.6
+        ],
+        "Desvios": [
+          1.79,
+          1.51
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.559999999999999,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.6
+      },
+      "ELE1622 - INSTRUMENTAÇÃO INDUSTRIAL": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.82
+      },
+      "ELE0519 - LABORATORIO DE CIRCUITOS ELETRONICOS": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.1261695288094555,
+    "MediaDeNotas": 9.6825,
+    "MediaDeDesvios": 1.45,
+    "NotaMediana": 9.79
+  }
+}

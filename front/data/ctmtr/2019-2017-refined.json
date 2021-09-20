@@ -1,0 +1,1054 @@
+{
+  "ANA PAULA CYSNE BARBOSA": {
+    "Notas": [
+      8.73,
+      8.81,
+      8.97,
+      9.15,
+      9.54
+    ],
+    "Desvios": [
+      1.6,
+      1.45,
+      1.74,
+      1.6,
+      1.88
+    ],
+    "Componentes": {
+      "MTR0404 - MATERIAIS COMPÓSITOS": {
+        "Notas": [
+          8.81,
+          8.97,
+          9.15,
+          9.54
+        ],
+        "Desvios": [
+          1.6,
+          1.45,
+          1.6,
+          1.88
+        ],
+        "DesvioDeNotas": 0.2719719654670306,
+        "MediaDeNotas": 9.1175,
+        "MediaDeDesvios": 1.6325,
+        "NotaMediana": 9.15
+      },
+      "MTR0451 - QUÍMICA E SÍNTESE DE POLÍMEROS": {
+        "Notas": [
+          8.73
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.73,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 8.73
+      }
+    },
+    "DesvioDeNotas": 0.2884441020371187,
+    "MediaDeNotas": 9.040000000000001,
+    "MediaDeDesvios": 1.654,
+    "NotaMediana": 8.97
+  },
+  "ANTONIO EDUARDO MARTINELLI": {
+    "Notas": [
+      9.09,
+      9.32,
+      9.37,
+      9.55,
+      9.62,
+      9.81
+    ],
+    "Desvios": [
+      1.42,
+      1.96,
+      1.23,
+      1.73,
+      1.36,
+      1.23
+    ],
+    "Componentes": {
+      "MTR0305 - PROPRIEDADES FÍSICAS DOS MATERIAIS": {
+        "Notas": [
+          9.32,
+          9.55,
+          9.62,
+          9.81
+        ],
+        "Desvios": [
+          1.42,
+          1.23,
+          1.73,
+          1.23
+        ],
+        "DesvioDeNotas": 0.17528548142958103,
+        "MediaDeNotas": 9.575,
+        "MediaDeDesvios": 1.4024999999999999,
+        "NotaMediana": 9.62
+      },
+      "MTR0923 - INTRODUÇÃO AOS MATERIAIS DE ENGENHARIA APLICADOS NA INDÚSTRIA DO PETRÓLEO E GÁS NATURAL": {
+        "Notas": [
+          9.09,
+          9.37
+        ],
+        "Desvios": [
+          1.96,
+          1.36
+        ],
+        "DesvioDeNotas": 0.13999999999999968,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 1.6600000000000001,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.23122860261366182,
+    "MediaDeNotas": 9.46,
+    "MediaDeDesvios": 1.4883333333333333,
+    "NotaMediana": 9.55
+  },
+  "BISMARCK LUIZ SILVA": {
+    "Notas": [
+      8.8,
+      9.05,
+      9.4,
+      9.6,
+      9.63,
+      9.75,
+      9.82,
+      9.95
+    ],
+    "Desvios": [
+      2.03,
+      0.89,
+      0.79,
+      1.3,
+      1.32,
+      1.34,
+      1.21,
+      1.67
+    ],
+    "Componentes": {
+      "MTR0454 - COMPORTAMENTO MECÂNICO DOS MATERIAIS": {
+        "Notas": [
+          8.8,
+          9.4,
+          9.75,
+          9.95
+        ],
+        "Desvios": [
+          2.03,
+          0.79,
+          1.32,
+          1.21
+        ],
+        "DesvioDeNotas": 0.436606229914324,
+        "MediaDeNotas": 9.475,
+        "MediaDeDesvios": 1.3375,
+        "NotaMediana": 9.75
+      },
+      "MTR0455 - MECANISMOS DE FRATURA E ANÁLISE DE FALHA": {
+        "Notas": [
+          9.05,
+          9.6,
+          9.63,
+          9.82
+        ],
+        "Desvios": [
+          0.89,
+          1.3,
+          1.34,
+          1.67
+        ],
+        "DesvioDeNotas": 0.2869233347080713,
+        "MediaDeNotas": 9.525000000000002,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.37027017163147197,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.3187499999999999,
+    "NotaMediana": 9.63
+  },
+  "CARLOS ALBERTO PASKOCIMAS": {
+    "Notas": [
+      8.74,
+      9.19,
+      9.35,
+      9.36,
+      9.42,
+      9.48,
+      9.57,
+      9.74
+    ],
+    "Desvios": [
+      1.71,
+      1.43,
+      1.04,
+      1.64,
+      1.91,
+      1.74,
+      1.85,
+      1.58
+    ],
+    "Componentes": {
+      "MTR0356 - CERÂMICA FÍSICA": {
+        "Notas": [
+          9.19,
+          9.35,
+          9.36,
+          9.42
+        ],
+        "Desvios": [
+          1.71,
+          1.64,
+          1.74,
+          1.58
+        ],
+        "DesvioDeNotas": 0.08514693182963212,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.6675,
+        "NotaMediana": 9.36
+      },
+      "MTR0302 - ENGENHARIA DOS MATERIAIS EXPERIMENTAL": {
+        "Notas": [
+          9.57,
+          9.74
+        ],
+        "Desvios": [
+          1.43,
+          1.91
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.655000000000001,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.74
+      },
+      "MTR0402 - PROCESSAMENTO CERÂMICO": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.48
+      },
+      "MTR0908 - CERÂMICAS AVANÇADAS": {
+        "Notas": [
+          8.74
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.74,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 8.74
+      }
+    },
+    "DesvioDeNotas": 0.2783405063945958,
+    "MediaDeNotas": 9.35625,
+    "MediaDeDesvios": 1.6124999999999998,
+    "NotaMediana": 9.42
+  },
+  "EDSON NORIYUKI ITO": {
+    "Notas": [
+      8.86,
+      8.9,
+      8.99,
+      9.25,
+      9.32,
+      9.49,
+      9.65,
+      9.66,
+      9.88
+    ],
+    "Desvios": [
+      1.79,
+      1.54,
+      1.65,
+      1.98,
+      1.51,
+      1.85,
+      1.96,
+      1.1,
+      1.39
+    ],
+    "Componentes": {
+      "MTR0302 - ENGENHARIA DOS MATERIAIS EXPERIMENTAL": {
+        "Notas": [
+          9.49,
+          9.65,
+          9.66,
+          9.88
+        ],
+        "Desvios": [
+          1.79,
+          1.65,
+          1.85,
+          1.1
+        ],
+        "DesvioDeNotas": 0.1387443692551163,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.5975000000000001,
+        "NotaMediana": 9.66
+      },
+      "MTR0401 - REOLOGIA E PROCESSAMENTO DE POLÍMEROS": {
+        "Notas": [
+          8.86,
+          8.9,
+          8.99,
+          9.25
+        ],
+        "Desvios": [
+          1.54,
+          1.98,
+          1.96,
+          1.39
+        ],
+        "DesvioDeNotas": 0.15182226450688982,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 1.7175,
+        "NotaMediana": 8.99
+      },
+      "MTR0901 - BLENDAS POLIMÉRICAS": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.32
+      }
+    },
+    "DesvioDeNotas": 0.3443512418705324,
+    "MediaDeNotas": 9.333333333333336,
+    "MediaDeDesvios": 1.6411111111111112,
+    "NotaMediana": 9.32
+  },
+  "MARCIANO FURUKAVA": {
+    "Notas": [
+      8.32,
+      8.91,
+      8.93,
+      9.19,
+      9.25,
+      9.29,
+      9.39,
+      9.72
+    ],
+    "Desvios": [
+      1.63,
+      2.49,
+      1.79,
+      2.67,
+      1.38,
+      2.38,
+      1.34,
+      0.97
+    ],
+    "Componentes": {
+      "MTR0909 - PROCESSAMENTO DE RESÍDUOS SÓLIDOS": {
+        "Notas": [
+          9.19,
+          9.25,
+          9.29
+        ],
+        "Desvios": [
+          1.63,
+          1.79,
+          1.34
+        ],
+        "DesvioDeNotas": 0.0410960933531264,
+        "MediaDeNotas": 9.243333333333332,
+        "MediaDeDesvios": 1.5866666666666667,
+        "NotaMediana": 9.25
+      },
+      "CIV1814 - RECURSOS NATURAIS E ENERGIAS ALTERNATIVAS": {
+        "Notas": [
+          8.32,
+          8.91,
+          8.93,
+          9.72
+        ],
+        "Desvios": [
+          2.49,
+          2.67,
+          2.38,
+          0.97
+        ],
+        "DesvioDeNotas": 0.49754396790635513,
+        "MediaDeNotas": 8.97,
+        "MediaDeDesvios": 2.1275,
+        "NotaMediana": 8.93
+      },
+      "MTR0913 - METALURGIA DO PÓ": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.38787884706438946,
+    "MediaDeNotas": 9.125,
+    "MediaDeDesvios": 1.83125,
+    "NotaMediana": 9.25
+  },
+  "MARIA CAROLINA BURGOS COSTA DO NASCIMENTO": {
+    "Notas": [
+      9.04,
+      9.14,
+      9.14,
+      9.58,
+      9.76,
+      9.82,
+      9.84,
+      9.96
+    ],
+    "Desvios": [
+      0.99,
+      1.02,
+      1.28,
+      0.46,
+      1.58,
+      2.01,
+      1.54,
+      1.52
+    ],
+    "Componentes": {
+      "MTR0351 - FÍSICA DE POLÍMEROS": {
+        "Notas": [
+          9.04,
+          9.58,
+          9.76,
+          9.84
+        ],
+        "Desvios": [
+          0.99,
+          1.28,
+          1.58,
+          1.54
+        ],
+        "DesvioDeNotas": 0.31188940347501415,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.3475000000000001,
+        "NotaMediana": 9.76
+      },
+      "MTR0451 - QUÍMICA E SÍNTESE DE POLÍMEROS": {
+        "Notas": [
+          9.14,
+          9.14,
+          9.82
+        ],
+        "Desvios": [
+          1.02,
+          2.01,
+          1.52
+        ],
+        "DesvioDeNotas": 0.3205550741379014,
+        "MediaDeNotas": 9.366666666666667,
+        "MediaDeDesvios": 1.5166666666666666,
+        "NotaMediana": 9.14
+      },
+      "MTR0306 - PLANEJAMENTO DE EXPERIMENTOS E OTIMIZAÇÃO DE PROCESSOS": {
+        "Notas": [
+          9.96
+        ],
+        "Desvios": [
+          0.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.96,
+        "MediaDeDesvios": 0.46,
+        "NotaMediana": 9.96
+      }
+    },
+    "DesvioDeNotas": 0.3472391107003934,
+    "MediaDeNotas": 9.534999999999998,
+    "MediaDeDesvios": 1.2999999999999998,
+    "NotaMediana": 9.76
+  },
+  "MAURICIO ROBERTO BOMIO DELMONTE": {
+    "Notas": [
+      7.75,
+      8.51,
+      8.63,
+      8.74,
+      8.78,
+      8.87,
+      9.16,
+      9.36,
+      9.37,
+      9.49
+    ],
+    "Desvios": [
+      1.41,
+      2.33,
+      2.33,
+      1.25,
+      1.95,
+      2.43,
+      2.38,
+      1.92,
+      1.55,
+      1.48
+    ],
+    "Componentes": {
+      "MTR0352 - MATÉRIAS-PRIMAS CERÂMICAS": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.37
+      },
+      "MTR0303 - NANOMATERIAIS": {
+        "Notas": [
+          7.75,
+          8.74,
+          8.78,
+          9.49
+        ],
+        "Desvios": [
+          2.33,
+          1.25,
+          2.38,
+          1.55
+        ],
+        "DesvioDeNotas": 0.6193141367674405,
+        "MediaDeNotas": 8.69,
+        "MediaDeDesvios": 1.8775,
+        "NotaMediana": 8.78
+      },
+      "MTR0922 - QUIMICA APLICADA PARA ENGENHARIA DE MATERIAIS": {
+        "Notas": [
+          8.63,
+          8.87,
+          9.16,
+          9.36
+        ],
+        "Desvios": [
+          2.33,
+          1.95,
+          1.92,
+          1.48
+        ],
+        "DesvioDeNotas": 0.2778938646318047,
+        "MediaDeNotas": 9.004999999999999,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.16
+      },
+      "MTR0302 - ENGENHARIA DOS MATERIAIS EXPERIMENTAL": {
+        "Notas": [
+          8.51
+        ],
+        "Desvios": [
+          2.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.51,
+        "MediaDeDesvios": 2.43,
+        "NotaMediana": 8.51
+      }
+    },
+    "DesvioDeNotas": 0.49244695145771783,
+    "MediaDeNotas": 8.866,
+    "MediaDeDesvios": 1.9029999999999998,
+    "NotaMediana": 8.87
+  },
+  "MAURÍCIO MHIRDAUI PERES": {
+    "Notas": [
+      7.38,
+      8.02,
+      8.23,
+      8.61,
+      8.88,
+      8.96,
+      9.06,
+      9.18,
+      9.36,
+      9.42,
+      9.56
+    ],
+    "Desvios": [
+      2.1,
+      2.01,
+      3.1,
+      1.89,
+      2.07,
+      2.3,
+      2.11,
+      1.35,
+      2.36,
+      1.52,
+      2.18
+    ],
+    "Componentes": {
+      "MTR0302 - ENGENHARIA DOS MATERIAIS EXPERIMENTAL": {
+        "Notas": [
+          9.36,
+          9.42,
+          9.56
+        ],
+        "Desvios": [
+          2.1,
+          1.89,
+          1.35
+        ],
+        "DesvioDeNotas": 0.083798700599844,
+        "MediaDeNotas": 9.446666666666667,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.42
+      },
+      "MTR0353 - FUNDAMENTOS DE METALURGIA": {
+        "Notas": [
+          8.61,
+          8.88,
+          8.96,
+          9.18
+        ],
+        "Desvios": [
+          2.01,
+          2.07,
+          2.11,
+          2.36
+        ],
+        "DesvioDeNotas": 0.20388415828602294,
+        "MediaDeNotas": 8.9075,
+        "MediaDeDesvios": 2.1374999999999997,
+        "NotaMediana": 8.96
+      },
+      "MTR0354 - TÉCNICAS DE CARACTERIZAÇÃO DOS MATERIAIS": {
+        "Notas": [
+          7.38,
+          8.02,
+          8.23
+        ],
+        "Desvios": [
+          3.1,
+          2.3,
+          2.18
+        ],
+        "DesvioDeNotas": 0.36150918230231577,
+        "MediaDeNotas": 7.876666666666666,
+        "MediaDeDesvios": 2.526666666666667,
+        "NotaMediana": 8.02
+      },
+      "MTR0927 - METAIS APLICADOS NA FABRICAÇÃO DE AUTOMÓVEIS": {
+        "Notas": [
+          9.06
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.06
+      }
+    },
+    "DesvioDeNotas": 0.6398592303864531,
+    "MediaDeNotas": 8.787272727272727,
+    "MediaDeDesvios": 2.09,
+    "NotaMediana": 8.96
+  },
+  "MEYSAM MASHHADIKARIMI": {
+    "Notas": [
+      9.07,
+      9.5,
+      9.56,
+      9.59,
+      9.64,
+      9.73,
+      9.8,
+      9.95,
+      9.97
+    ],
+    "Desvios": [
+      0.86,
+      1.35,
+      1.21,
+      1.57,
+      1.05,
+      1.57,
+      1.43,
+      1.32,
+      1.21
+    ],
+    "Componentes": {
+      "MTR0913 - METALURGIA DO PÓ": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          0.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 0.86,
+        "NotaMediana": 9.95
+      },
+      "MTR0355 - TERMODINÂMICA APLICADA A MATERIAIS": {
+        "Notas": [
+          9.07,
+          9.59,
+          9.64,
+          9.73
+        ],
+        "Desvios": [
+          1.35,
+          1.57,
+          1.57,
+          1.32
+        ],
+        "DesvioDeNotas": 0.25752427070084094,
+        "MediaDeNotas": 9.5075,
+        "MediaDeDesvios": 1.4525000000000001,
+        "NotaMediana": 9.64
+      },
+      "MTR0403 - TRANSFORMAÇÃO DE FASES E TRATAMENTOS TÉRMICOS": {
+        "Notas": [
+          9.5,
+          9.56,
+          9.8,
+          9.97
+        ],
+        "Desvios": [
+          1.21,
+          1.05,
+          1.43,
+          1.21
+        ],
+        "DesvioDeNotas": 0.18859679212542318,
+        "MediaDeNotas": 9.7075,
+        "MediaDeDesvios": 1.2249999999999999,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.2564332753200294,
+    "MediaDeNotas": 9.645555555555555,
+    "MediaDeDesvios": 1.2855555555555556,
+    "NotaMediana": 9.64
+  },
+  "NICOLAU APOENA CASTRO": {
+    "Notas": [
+      9.59,
+      9.6,
+      9.61,
+      9.63,
+      9.66,
+      9.7,
+      9.71,
+      9.89
+    ],
+    "Desvios": [
+      1.94,
+      0.97,
+      1.52,
+      1.87,
+      1.39,
+      1.26,
+      1.54,
+      1.08
+    ],
+    "Componentes": {
+      "MTR0301 - ESTRUTURA DOS MATERIAIS": {
+        "Notas": [
+          9.59,
+          9.66,
+          9.7,
+          9.89
+        ],
+        "Desvios": [
+          1.94,
+          0.97,
+          1.39,
+          1.26
+        ],
+        "DesvioDeNotas": 0.11113055385446462,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.7
+      },
+      "MTR0354 - TÉCNICAS DE CARACTERIZAÇÃO DOS MATERIAIS": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.71
+      },
+      "MTR0302 - ENGENHARIA DOS MATERIAIS EXPERIMENTAL": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.6
+      },
+      "MTR0353 - FUNDAMENTOS DE METALURGIA": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.63
+      },
+      "MTR0927 - METAIS APLICADOS NA FABRICAÇÃO DE AUTOMÓVEIS": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.61
+      }
+    },
+    "DesvioDeNotas": 0.09177928687890337,
+    "MediaDeNotas": 9.67375,
+    "MediaDeDesvios": 1.4462499999999998,
+    "NotaMediana": 9.66
+  },
+  "RUBENS MARIBONDO DO NASCIMENTO": {
+    "Notas": [
+      7.97,
+      8.95,
+      9.26,
+      9.32,
+      9.62,
+      9.84
+    ],
+    "Desvios": [
+      0.89,
+      1.85,
+      2.51,
+      1.46,
+      1.11,
+      1.39
+    ],
+    "Componentes": {
+      "MTR0913 - METALURGIA DO PÓ": {
+        "Notas": [
+          8.95,
+          9.84
+        ],
+        "Desvios": [
+          0.89,
+          1.46
+        ],
+        "DesvioDeNotas": 0.4450000000000003,
+        "MediaDeNotas": 9.395,
+        "MediaDeDesvios": 1.175,
+        "NotaMediana": 9.84
+      },
+      "MTR0355 - TERMODINÂMICA APLICADA A MATERIAIS": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.32
+      },
+      "MTR0923 - INTRODUÇÃO AOS MATERIAIS DE ENGENHARIA APLICADOS NA INDÚSTRIA DO PETRÓLEO E GÁS NATURAL": {
+        "Notas": [
+          7.97,
+          9.26
+        ],
+        "Desvios": [
+          2.51,
+          1.39
+        ],
+        "DesvioDeNotas": 0.645,
+        "MediaDeNotas": 8.615,
+        "MediaDeDesvios": 1.9499999999999997,
+        "NotaMediana": 9.26
+      },
+      "MTR0405 - ENGENHARIA DE SUPERFÍCIES": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.11,
+        "NotaMediana": 9.62
+      }
+    },
+    "DesvioDeNotas": 0.6013595707505895,
+    "MediaDeNotas": 9.159999999999998,
+    "MediaDeDesvios": 1.5350000000000001,
+    "NotaMediana": 9.32
+  },
+  "SERGIO RODRIGUES BARRA": {
+    "Notas": [
+      7.83,
+      7.97,
+      8.94,
+      9.13,
+      9.22,
+      9.28,
+      9.3,
+      9.43
+    ],
+    "Desvios": [
+      1.95,
+      1.74,
+      1.89,
+      1.78,
+      2.08,
+      2.04,
+      2.51,
+      2.6
+    ],
+    "Componentes": {
+      "MTR0502 - DEGRADAÇÃO DOS MATERIAIS": {
+        "Notas": [
+          7.97,
+          9.22,
+          9.28,
+          9.3
+        ],
+        "Desvios": [
+          1.95,
+          1.89,
+          2.08,
+          2.51
+        ],
+        "DesvioDeNotas": 0.5622443863659291,
+        "MediaDeNotas": 8.9425,
+        "MediaDeDesvios": 2.1075,
+        "NotaMediana": 9.28
+      },
+      "MTR0453 - PROCESSOS DE FABRICAÇÃO DOS METAIS": {
+        "Notas": [
+          7.83,
+          8.94,
+          9.13,
+          9.43
+        ],
+        "Desvios": [
+          1.74,
+          1.78,
+          2.04,
+          2.6
+        ],
+        "DesvioDeNotas": 0.6045814668016214,
+        "MediaDeNotas": 8.8325,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 9.13
+      }
+    },
+    "DesvioDeNotas": 0.5863819147961506,
+    "MediaDeNotas": 8.8875,
+    "MediaDeDesvios": 2.07375,
+    "NotaMediana": 9.22
+  },
+  "FABIANA VILLELA DA MOTTA": {
+    "Notas": [
+      8.95,
+      9.2,
+      9.39,
+      9.5,
+      9.62,
+      9.68,
+      9.75
+    ],
+    "Desvios": [
+      1.67,
+      1.54,
+      1.75,
+      1.23,
+      1.07,
+      1.17,
+      1.43
+    ],
+    "Componentes": {
+      "MTR0352 - MATÉRIAS-PRIMAS CERÂMICAS": {
+        "Notas": [
+          8.95,
+          9.5,
+          9.75
+        ],
+        "Desvios": [
+          1.67,
+          1.75,
+          1.17
+        ],
+        "DesvioDeNotas": 0.33416562759605734,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.5
+      },
+      "MTR0402 - PROCESSAMENTO CERÂMICO": {
+        "Notas": [
+          9.2,
+          9.39,
+          9.62
+        ],
+        "Desvios": [
+          1.54,
+          1.23,
+          1.43
+        ],
+        "DesvioDeNotas": 0.17172329163188338,
+        "MediaDeNotas": 9.403333333333334,
+        "MediaDeDesvios": 1.4000000000000001,
+        "NotaMediana": 9.39
+      },
+      "MTR0302 - ENGENHARIA DOS MATERIAIS EXPERIMENTAL": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.07,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.26454427506447353,
+    "MediaDeNotas": 9.441428571428572,
+    "MediaDeDesvios": 1.4085714285714286,
+    "NotaMediana": 9.5
+  }
+}

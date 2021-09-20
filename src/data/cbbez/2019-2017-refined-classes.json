@@ -1,0 +1,679 @@
+{
+  "BEZ0064 - BOTÂNICA III": {
+    "Notas": [
+      8.82,
+      9.28,
+      9.37,
+      9.55,
+      9.57,
+      9.72,
+      9.76,
+      9.79,
+      9.81,
+      9.86,
+      9.89,
+      9.91
+    ],
+    "Desvios": [
+      1.39,
+      1.26,
+      1.33,
+      1.73,
+      1.87,
+      1.15,
+      1.28,
+      2.14,
+      1.44,
+      1.3,
+      0.97,
+      0.96
+    ],
+    "Docentes": [
+      "ALICE DE MORAES CALVENTE VERSIEUX",
+      "LAMARCK DO NASCIMENTO GALDINO DA ROCHA",
+      "LEONARDO DE MELO VERSIEUX",
+      "GUILHERME GERHARDT MAZZOCHINI",
+      "FERNANDA ANTUNES CARVALHO"
+    ],
+    "DesvioDeNotas": 0.30736672812058824,
+    "MediaDeNotas": 9.610833333333334,
+    "MediaDeDesvios": 1.4016666666666666,
+    "NotaMediana": 9.76
+  },
+  "BEZ0037 - FILOGENIA VEGETAL": {
+    "Notas": [
+      7.95,
+      9.42,
+      9.6,
+      9.64,
+      9.68,
+      9.69,
+      9.82
+    ],
+    "Desvios": [
+      1.95,
+      1.5,
+      1.91,
+      1.52,
+      2.21,
+      1.85,
+      3.1
+    ],
+    "Docentes": [
+      "ALICE DE MORAES CALVENTE VERSIEUX",
+      "LAMARCK DO NASCIMENTO GALDINO DA ROCHA",
+      "GUILHERME GERHARDT MAZZOCHINI",
+      "LEONARDO DE MELO VERSIEUX"
+    ],
+    "DesvioDeNotas": 0.6023050959201893,
+    "MediaDeNotas": 9.4,
+    "MediaDeDesvios": 2.005714285714286,
+    "NotaMediana": 9.64
+  },
+  "BEZ0070 - ZOOLOGIA II": {
+    "Notas": [
+      8.71,
+      8.97,
+      9.16,
+      9.29,
+      9.46,
+      9.49,
+      9.5,
+      9.5,
+      9.54,
+      9.59,
+      9.59,
+      9.61,
+      9.64,
+      9.64,
+      9.66,
+      9.71,
+      9.74,
+      9.8,
+      9.8,
+      9.82,
+      9.88,
+      9.9
+    ],
+    "Desvios": [
+      1.43,
+      1.67,
+      1.67,
+      1.6,
+      1.48,
+      1.68,
+      1.48,
+      0.98,
+      1.73,
+      1.09,
+      1.72,
+      1.56,
+      2.12,
+      2.41,
+      1.73,
+      1.63,
+      1.32,
+      1.34,
+      1.89,
+      1.55,
+      1.44,
+      1.45
+    ],
+    "Docentes": [
+      "BRUNO CAVALCANTE BELLINI",
+      "FULVIO AURELIO DE MORAIS FREIRE",
+      "SERGIO MAIA QUEIROZ LIMA",
+      "ROSANGELA GONDIM D OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.2863679653352448,
+    "MediaDeNotas": 9.545454545454547,
+    "MediaDeDesvios": 1.5895454545454546,
+    "NotaMediana": 9.61
+  },
+  "BEZ0062 - BOTÂNICA I": {
+    "Notas": [
+      7.59,
+      8.02,
+      8.09,
+      8.23,
+      8.96,
+      9.13,
+      9.16,
+      9.33,
+      9.4,
+      9.43,
+      9.46,
+      9.47,
+      9.59,
+      9.66,
+      9.75,
+      9.84
+    ],
+    "Desvios": [
+      1.9,
+      1.73,
+      1.57,
+      1.17,
+      2.75,
+      2.68,
+      1.79,
+      1.45,
+      3.23,
+      3.29,
+      2.1,
+      1.37,
+      1.65,
+      1.55,
+      1.43,
+      1.55
+    ],
+    "Docentes": [
+      "BRUNO TOMIO GOTO",
+      "IURI GOULART BASEIA"
+    ],
+    "DesvioDeNotas": 0.6742910049637323,
+    "MediaDeNotas": 9.069375,
+    "MediaDeDesvios": 1.950625,
+    "NotaMediana": 9.4
+  },
+  "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS": {
+    "Notas": [
+      8.19,
+      9.15,
+      9.49,
+      9.49,
+      9.64,
+      9.74,
+      9.83,
+      9.84
+    ],
+    "Desvios": [
+      2.09,
+      1.24,
+      2.6,
+      1.3,
+      1.95,
+      2.05,
+      1.9,
+      1.99
+    ],
+    "Docentes": [
+      "ELINEI ARAUJO DE ALMEIDA",
+      "ROSANGELA GONDIM D OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.5112347185980234,
+    "MediaDeNotas": 9.421249999999999,
+    "MediaDeDesvios": 1.8900000000000001,
+    "NotaMediana": 9.64
+  },
+  "BEZ0072 - ZOOLOGIA III": {
+    "Notas": [
+      7.46,
+      9.18,
+      9.2,
+      9.23,
+      9.27,
+      9.29,
+      9.51,
+      9.56,
+      9.57,
+      9.61,
+      9.61,
+      9.62,
+      9.66,
+      9.74,
+      9.75,
+      9.77,
+      9.8,
+      9.8,
+      9.82,
+      9.82,
+      9.84,
+      9.91,
+      9.95,
+      9.98
+    ],
+    "Desvios": [
+      1.76,
+      1.38,
+      1.52,
+      1.34,
+      1.34,
+      1.17,
+      1.95,
+      2.11,
+      1.48,
+      1.47,
+      1.49,
+      1.38,
+      2.68,
+      1.76,
+      2.01,
+      1.1,
+      1.76,
+      0.88,
+      1.45,
+      1.29,
+      1.1,
+      1.43,
+      0.99,
+      0.45
+    ],
+    "Docentes": [
+      "ELIZA MARIA XAVIER FREIRE",
+      "MAURO PICHORIM",
+      "SERGIO MAIA QUEIROZ LIMA",
+      "GUILHERME SANTOS TOLEDO DE LIMA"
+    ],
+    "DesvioDeNotas": 0.49385793475677026,
+    "MediaDeNotas": 9.539583333333331,
+    "MediaDeDesvios": 1.4704166666666667,
+    "NotaMediana": 9.66
+  },
+  "BEZ0085 - PRÁTICAS DE ESTATÍSTICA APLICADA À BIOLOGIA": {
+    "Notas": [
+      8.59,
+      9.06,
+      9.25
+    ],
+    "Desvios": [
+      1.47,
+      1.6,
+      2.12
+    ],
+    "Docentes": [
+      "FULVIO AURELIO DE MORAIS FREIRE"
+    ],
+    "DesvioDeNotas": 0.27740864362084255,
+    "MediaDeNotas": 8.966666666666667,
+    "MediaDeDesvios": 1.7300000000000002,
+    "NotaMediana": 9.06
+  },
+  "BEZ0034 - BIOLOGIA DE ANFÍBIOS": {
+    "Notas": [
+      8.99,
+      9.91
+    ],
+    "Desvios": [
+      1.79,
+      1.61
+    ],
+    "Docentes": [
+      "GUILHERME SANTOS TOLEDO DE LIMA",
+      "ADRIAN ANTONIO GARDA"
+    ],
+    "DesvioDeNotas": 0.45999999999999996,
+    "MediaDeNotas": 9.45,
+    "MediaDeDesvios": 1.7000000000000002,
+    "NotaMediana": 9.91
+  },
+  "BEZ0088 - PRINCÍPIOS DE SISTEMÁTICA E EVOLUÇÃO": {
+    "Notas": [
+      9.36,
+      9.39,
+      9.43,
+      9.57
+    ],
+    "Desvios": [
+      1.65,
+      2.11,
+      1.5,
+      2.2
+    ],
+    "Docentes": [
+      "GUILHERME SANTOS TOLEDO DE LIMA",
+      "LAMARCK DO NASCIMENTO GALDINO DA ROCHA"
+    ],
+    "DesvioDeNotas": 0.08042853971072723,
+    "MediaDeNotas": 9.4375,
+    "MediaDeDesvios": 1.865,
+    "NotaMediana": 9.43
+  },
+  "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE": {
+    "Notas": [
+      7.74,
+      8.42,
+      8.66,
+      8.93,
+      9.02,
+      9.06,
+      9.09,
+      9.21,
+      9.27,
+      9.32,
+      9.46,
+      9.55,
+      9.57,
+      9.57,
+      9.62,
+      9.62,
+      9.64,
+      9.71,
+      9.73,
+      9.74,
+      9.77,
+      9.79
+    ],
+    "Desvios": [
+      1.83,
+      1.2,
+      1.79,
+      1.35,
+      1.77,
+      2.4,
+      1.08,
+      0.96,
+      1.36,
+      0.92,
+      2.24,
+      1.65,
+      1.85,
+      1.3,
+      1.92,
+      1.35,
+      1.67,
+      0.88,
+      1.52,
+      0.8,
+      1.44,
+      0.85
+    ],
+    "Docentes": [
+      "GUILHERME SANTOS TOLEDO DE LIMA",
+      "LEONARDO DE MELO VERSIEUX",
+      "FULVIO AURELIO DE MORAIS FREIRE",
+      "GUILHERME GERHARDT MAZZOCHINI",
+      "MAURO PICHORIM",
+      "ROSANGELA GONDIM D OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.50024312270953,
+    "MediaDeNotas": 9.295000000000003,
+    "MediaDeDesvios": 1.4604545454545457,
+    "NotaMediana": 9.55
+  },
+  "BEZ0063 - BOTÂNICA II": {
+    "Notas": [
+      9.05,
+      9.34,
+      9.38,
+      9.45,
+      9.47,
+      9.48,
+      9.64,
+      9.71,
+      9.86
+    ],
+    "Desvios": [
+      1.38,
+      1.5,
+      1.76,
+      1.22,
+      2.17,
+      1.79,
+      1.32,
+      1.47,
+      1.37
+    ],
+    "Docentes": [
+      "JULIANA ESPADA LICHSTON",
+      "GUILHERME GERHARDT MAZZOCHINI",
+      "FERNANDA ANTUNES CARVALHO"
+    ],
+    "DesvioDeNotas": 0.22060522810365715,
+    "MediaDeNotas": 9.486666666666668,
+    "MediaDeDesvios": 1.5533333333333335,
+    "NotaMediana": 9.47
+  },
+  "BEZ2005 - FISIOLOGIA VEGETAL": {
+    "Notas": [
+      6.74,
+      6.97,
+      7.01,
+      7.15,
+      7.32,
+      7.38,
+      7.68,
+      7.75
+    ],
+    "Desvios": [
+      2.93,
+      3.65,
+      2.58,
+      3.11,
+      2.8,
+      2.79,
+      2.52,
+      1.96
+    ],
+    "Docentes": [
+      "MAGDI AHMED IBRAHIM ALOUFA"
+    ],
+    "DesvioDeNotas": 0.3284052374734605,
+    "MediaDeNotas": 7.250000000000001,
+    "MediaDeDesvios": 2.7925,
+    "NotaMediana": 7.32
+  },
+  "BEZ0060 - COLETA E TAXIDERMIA DE AVES E CURADORIA DE COLEÇÕES BIOLÓGICAS": {
+    "Notas": [
+      9.34,
+      9.41,
+      9.86,
+      9.88
+    ],
+    "Desvios": [
+      1.76,
+      1.92,
+      1.7,
+      1.09
+    ],
+    "Docentes": [
+      "MAURO PICHORIM"
+    ],
+    "DesvioDeNotas": 0.24883478454589109,
+    "MediaDeNotas": 9.622499999999999,
+    "MediaDeDesvios": 1.6175,
+    "NotaMediana": 9.86
+  },
+  "BEZ0078 - ICTIOLOGIA": {
+    "Notas": [
+      9.59,
+      9.62
+    ],
+    "Desvios": [
+      1.58,
+      1.88
+    ],
+    "Docentes": [
+      "SERGIO MAIA QUEIROZ LIMA"
+    ],
+    "DesvioDeNotas": 0.01499999999999968,
+    "MediaDeNotas": 9.605,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.62
+  },
+  "BEZ0073 - FILOGENIA": {
+    "Notas": [
+      8.67,
+      8.84,
+      8.87,
+      8.94,
+      9.14,
+      9.2,
+      9.22,
+      9.34,
+      9.34,
+      9.38,
+      9.49,
+      9.65
+    ],
+    "Desvios": [
+      2.42,
+      1.46,
+      2.23,
+      1.77,
+      2.24,
+      1.96,
+      1.86,
+      1.87,
+      2.13,
+      1.63,
+      1.9,
+      1.68
+    ],
+    "Docentes": [
+      "ELINEI ARAUJO DE ALMEIDA",
+      "FERNANDA ANTUNES CARVALHO",
+      "ADRIAN ANTONIO GARDA",
+      "ALICE DE MORAES CALVENTE VERSIEUX"
+    ],
+    "DesvioDeNotas": 0.2799801580271163,
+    "MediaDeNotas": 9.173333333333334,
+    "MediaDeDesvios": 1.9291666666666663,
+    "NotaMediana": 9.22
+  },
+  "BEZ0069 - ZOOLOGIA I": {
+    "Notas": [
+      8.66,
+      8.66,
+      9.04,
+      9.07,
+      9.11,
+      9.12,
+      9.44,
+      9.48,
+      9.49,
+      9.56,
+      9.57,
+      9.65
+    ],
+    "Desvios": [
+      2.38,
+      2,
+      1.85,
+      1.42,
+      2.46,
+      2.06,
+      1.88,
+      1.25,
+      2.08,
+      1.49,
+      1.36,
+      1.3
+    ],
+    "Docentes": [
+      "ELINEI ARAUJO DE ALMEIDA",
+      "ROSANGELA GONDIM D OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.33070946463625756,
+    "MediaDeNotas": 9.2375,
+    "MediaDeDesvios": 1.7941666666666667,
+    "NotaMediana": 9.44
+  },
+  "BEZ0041 - BOTÂNICA DE CAMPO": {
+    "Notas": [
+      9.15,
+      9.35,
+      9.41,
+      9.6
+    ],
+    "Desvios": [
+      1.81,
+      1.79,
+      1.62,
+      1.23
+    ],
+    "Docentes": [
+      "FERNANDA ANTUNES CARVALHO",
+      "GUILHERME GERHARDT MAZZOCHINI"
+    ],
+    "DesvioDeNotas": 0.16052647756678623,
+    "MediaDeNotas": 9.377500000000001,
+    "MediaDeDesvios": 1.6125000000000003,
+    "NotaMediana": 9.41
+  },
+  "BEZ0023 - MORFOLOGIA E SISTEMATICA VEGETAL": {
+    "Notas": [
+      8.95,
+      9.16,
+      9.45
+    ],
+    "Desvios": [
+      2.12,
+      1.85,
+      1.6
+    ],
+    "Docentes": [
+      "GUILHERME GERHARDT MAZZOCHINI",
+      "LEONARDO DE MELO VERSIEUX"
+    ],
+    "DesvioDeNotas": 0.2049932248202906,
+    "MediaDeNotas": 9.186666666666666,
+    "MediaDeDesvios": 1.8566666666666667,
+    "NotaMediana": 9.16
+  },
+  "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS": {
+    "Notas": [
+      9.08,
+      9.09,
+      9.36,
+      9.39,
+      9.41,
+      9.49,
+      9.59,
+      9.66
+    ],
+    "Desvios": [
+      1.3,
+      1.84,
+      1.83,
+      1.62,
+      1.98,
+      1.47,
+      1.91,
+      1.57
+    ],
+    "Docentes": [
+      "GUILHERME SANTOS TOLEDO DE LIMA",
+      "ADRIAN ANTONIO GARDA",
+      "MAURO PICHORIM",
+      "SERGIO MAIA QUEIROZ LIMA"
+    ],
+    "DesvioDeNotas": 0.19684622805631816,
+    "MediaDeNotas": 9.383750000000001,
+    "MediaDeDesvios": 1.6900000000000002,
+    "NotaMediana": 9.41
+  },
+  "BEZ0216 - EDUCACAO AMBIENTAL": {
+    "Notas": [
+      9.82
+    ],
+    "Desvios": [
+      1.35
+    ],
+    "Docentes": [
+      "ROSANGELA GONDIM D OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 1.35,
+    "NotaMediana": 9.82
+  },
+  "BEZ0013 - ZOOLOGIA GERAL": {
+    "Notas": [
+      8.36,
+      9.66
+    ],
+    "Desvios": [
+      1.62,
+      2.31
+    ],
+    "Docentes": [
+      "BRUNO CAVALCANTE BELLINI",
+      "MAURO PICHORIM"
+    ],
+    "DesvioDeNotas": 0.6500000000000004,
+    "MediaDeNotas": 9.01,
+    "MediaDeDesvios": 1.965,
+    "NotaMediana": 9.66
+  }
+}

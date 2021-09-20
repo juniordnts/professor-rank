@@ -1,0 +1,3482 @@
+{
+  "ADRIANO DE OLIVEIRA SOUSA": {
+    "Notas": [
+      7.58,
+      7.84,
+      8.1,
+      8.66,
+      8.8
+    ],
+    "Desvios": [
+      3.58,
+      3.25,
+      3.2,
+      2.2,
+      1.91
+    ],
+    "Componentes": {
+      "FIS0314 - TERMODINAMICA": {
+        "Notas": [
+          7.84
+        ],
+        "Desvios": [
+          3.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.84,
+        "MediaDeDesvios": 3.58,
+        "NotaMediana": 7.84
+      },
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          7.58,
+          8.1,
+          8.8
+        ],
+        "Desvios": [
+          3.25,
+          3.2,
+          1.91
+        ],
+        "DesvioDeNotas": 0.49986664888414684,
+        "MediaDeNotas": 8.16,
+        "MediaDeDesvios": 2.7866666666666666,
+        "NotaMediana": 8.1
+      },
+      "FIS0601 - INTRODUCAO A MECANICA": {
+        "Notas": [
+          8.66
+        ],
+        "Desvios": [
+          2.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.66,
+        "MediaDeDesvios": 2.2,
+        "NotaMediana": 8.66
+      }
+    },
+    "DesvioDeNotas": 0.46808546228226333,
+    "MediaDeNotas": 8.196000000000002,
+    "MediaDeDesvios": 2.8280000000000003,
+    "NotaMediana": 8.1
+  },
+  "ALEXANDRE BARBOSA DE OLIVEIRA": {
+    "Notas": [
+      7.44,
+      8.15,
+      8.93,
+      9.02,
+      9.07,
+      9.07,
+      9.52,
+      9.55,
+      9.95
+    ],
+    "Desvios": [
+      2.33,
+      2.53,
+      2.75,
+      2.09,
+      2.32,
+      2.38,
+      1.34,
+      0.71,
+      2.03
+    ],
+    "Componentes": {
+      "FIS0316 - FISICA EXPERIMENTAL II": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          2.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2.33,
+        "NotaMediana": 9.07
+      },
+      "FIS0624 - FISICA QUANTICA I": {
+        "Notas": [
+          8.15
+        ],
+        "Desvios": [
+          2.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.15,
+        "MediaDeDesvios": 2.53,
+        "NotaMediana": 8.15
+      },
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          7.44
+        ],
+        "Desvios": [
+          2.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.44,
+        "MediaDeDesvios": 2.75,
+        "NotaMediana": 7.44
+      },
+      "FIS0616 - MECANICA CLASSICA II": {
+        "Notas": [
+          8.93
+        ],
+        "Desvios": [
+          2.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.93,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 8.93
+      },
+      "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          2.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 2.32,
+        "NotaMediana": 9.55
+      },
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          2.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2.38,
+        "NotaMediana": 9.07
+      },
+      "ECT2403 - FÍSICA EXPERIMENTAL II": {
+        "Notas": [
+          9.52,
+          9.95
+        ],
+        "Desvios": [
+          1.34,
+          0.71
+        ],
+        "DesvioDeNotas": 0.21499999999999986,
+        "MediaDeNotas": 9.735,
+        "MediaDeDesvios": 1.025,
+        "NotaMediana": 9.95
+      },
+      "ECT2204 - INTRODUÇÃO À FÍSICA CLÁSSICA I": {
+        "Notas": [
+          9.02
+        ],
+        "Desvios": [
+          2.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 2.03,
+        "NotaMediana": 9.02
+      }
+    },
+    "DesvioDeNotas": 0.7177588576797763,
+    "MediaDeNotas": 8.966666666666667,
+    "MediaDeDesvios": 2.0533333333333332,
+    "NotaMediana": 9.07
+  },
+  "ANDRÉ AFONSO ARAÚJO MARINHO": {
+    "Notas": [
+      9.1,
+      9.22,
+      9.62
+    ],
+    "Desvios": [
+      1.66,
+      2.29,
+      2.09
+    ],
+    "Componentes": {
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          9.1,
+          9.22,
+          9.62
+        ],
+        "Desvios": [
+          1.66,
+          2.29,
+          2.09
+        ],
+        "DesvioDeNotas": 0.22231109334044055,
+        "MediaDeNotas": 9.313333333333333,
+        "MediaDeDesvios": 2.013333333333333,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0.22231109334044055,
+    "MediaDeNotas": 9.313333333333333,
+    "MediaDeDesvios": 2.013333333333333,
+    "NotaMediana": 9.22
+  },
+  "AUTA STELLA DE MEDEIROS GERMANO": {
+    "Notas": [
+      7.45,
+      8.79,
+      9.37,
+      9.38,
+      9.57,
+      9.58,
+      9.99
+    ],
+    "Desvios": [
+      1.79,
+      2.92,
+      1.32,
+      3.09,
+      1.87,
+      1.55,
+      1.26
+    ],
+    "Componentes": {
+      "FIS0735 - ASTRONOMIA BASICA": {
+        "Notas": [
+          9.38,
+          9.58
+        ],
+        "Desvios": [
+          1.79,
+          1.87
+        ],
+        "DesvioDeNotas": 0.09999999999999964,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.58
+      },
+      "FIS0748 - INSTRUMENTACAO PARA O ENSINO DE FISICA I": {
+        "Notas": [
+          8.79,
+          9.57
+        ],
+        "Desvios": [
+          2.92,
+          1.55
+        ],
+        "DesvioDeNotas": 0.39000000000000057,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 2.235,
+        "NotaMediana": 9.57
+      },
+      "FIS0749 - INSTRUMENTACAO PARA ENSINO DE FISICA II": {
+        "Notas": [
+          9.37,
+          9.99
+        ],
+        "Desvios": [
+          1.32,
+          1.26
+        ],
+        "DesvioDeNotas": 0.3100000000000005,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.99
+      },
+      "FIS0601 - INTRODUCAO A MECANICA": {
+        "Notas": [
+          7.45
+        ],
+        "Desvios": [
+          3.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.45,
+        "MediaDeDesvios": 3.09,
+        "NotaMediana": 7.45
+      }
+    },
+    "DesvioDeNotas": 0.7733864044656106,
+    "MediaDeNotas": 9.161428571428571,
+    "MediaDeDesvios": 1.9714285714285718,
+    "NotaMediana": 9.38
+  },
+  "BRUNO LEONARDO CANTO MARTINS": {
+    "Notas": [
+      8.54,
+      9.43,
+      9.6,
+      9.7
+    ],
+    "Desvios": [
+      1.65,
+      1.11,
+      2.58,
+      1.79
+    ],
+    "Componentes": {
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.7
+      },
+      "FIS0316 - FISICA EXPERIMENTAL II": {
+        "Notas": [
+          8.54,
+          9.43
+        ],
+        "Desvios": [
+          1.11,
+          2.58
+        ],
+        "DesvioDeNotas": 0.4450000000000003,
+        "MediaDeNotas": 8.985,
+        "MediaDeDesvios": 1.8450000000000002,
+        "NotaMediana": 9.43
+      },
+      "FIS0744 - LABORATORIO BASICO DE ONDAS E OPTICA": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.45915002994663967,
+    "MediaDeNotas": 9.317499999999999,
+    "MediaDeDesvios": 1.7825,
+    "NotaMediana": 9.6
+  },
+  "BRUNO RICARDO DE CARVALHO": {
+    "Notas": [
+      9.15,
+      9.2,
+      9.3,
+      9.34,
+      9.39,
+      9.39,
+      9.46,
+      9.5,
+      9.65
+    ],
+    "Desvios": [
+      2.09,
+      2.31,
+      1.55,
+      1.79,
+      1.65,
+      1.96,
+      1.38,
+      1.53,
+      1.63
+    ],
+    "Componentes": {
+      "FIS0316 - FISICA EXPERIMENTAL II": {
+        "Notas": [
+          9.39,
+          9.5
+        ],
+        "Desvios": [
+          2.09,
+          1.55
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.445,
+        "MediaDeDesvios": 1.8199999999999998,
+        "NotaMediana": 9.5
+      },
+      "FIS0622 - FISICA MODERNA I": {
+        "Notas": [
+          9.3
+        ],
+        "Desvios": [
+          2.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.3,
+        "MediaDeDesvios": 2.31,
+        "NotaMediana": 9.3
+      },
+      "FIS0601 - INTRODUCAO A MECANICA": {
+        "Notas": [
+          9.46,
+          9.65
+        ],
+        "Desvios": [
+          1.79,
+          1.96
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.875,
+        "NotaMediana": 9.65
+      },
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          9.2,
+          9.34,
+          9.39
+        ],
+        "Desvios": [
+          1.65,
+          1.38,
+          1.53
+        ],
+        "DesvioDeNotas": 0.08041558721209928,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.5199999999999998,
+        "NotaMediana": 9.34
+      },
+      "FIS0801 - FÍSICA GERAL I": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.15
+      }
+    },
+    "DesvioDeNotas": 0.1441535532464611,
+    "MediaDeNotas": 9.375555555555557,
+    "MediaDeDesvios": 1.7655555555555555,
+    "NotaMediana": 9.39
+  },
+  "CARLOS CHESMAN DE ARAUJO FEITOSA": {
+    "Notas": [
+      8.46,
+      9.33,
+      9.79
+    ],
+    "Desvios": [
+      1.83,
+      1.94,
+      2.56
+    ],
+    "Componentes": {
+      "FIS0316 - FISICA EXPERIMENTAL II": {
+        "Notas": [
+          9.33
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.33
+      },
+      "FIS0667 - LABORATORIO DE ELETROMAGNETISMO": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.79
+      },
+      "FIS0609 - LABORATORIO DE FISICA MODERNA": {
+        "Notas": [
+          8.46
+        ],
+        "Desvios": [
+          2.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.46,
+        "MediaDeDesvios": 2.56,
+        "NotaMediana": 8.46
+      }
+    },
+    "DesvioDeNotas": 0.5515029968690603,
+    "MediaDeNotas": 9.193333333333333,
+    "MediaDeDesvios": 2.11,
+    "NotaMediana": 9.33
+  },
+  "CICLAMIO LEITE BARRETO": {
+    "Notas": [
+      7.82,
+      8.55,
+      9.19,
+      9.41,
+      9.89
+    ],
+    "Desvios": [
+      2.43,
+      3.34,
+      1.91,
+      1.72,
+      1.33
+    ],
+    "Componentes": {
+      "FIS0701 - FISICA BASICA I": {
+        "Notas": [
+          8.55
+        ],
+        "Desvios": [
+          2.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.55,
+        "MediaDeDesvios": 2.43,
+        "NotaMediana": 8.55
+      },
+      "FIS0801 - FÍSICA GERAL I": {
+        "Notas": [
+          7.82
+        ],
+        "Desvios": [
+          3.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.82,
+        "MediaDeDesvios": 3.34,
+        "NotaMediana": 7.82
+      },
+      "FIS0746 - CONCEITOS DE FISICA MODERNA II": {
+        "Notas": [
+          9.19,
+          9.89
+        ],
+        "Desvios": [
+          1.91,
+          1.33
+        ],
+        "DesvioDeNotas": 0.35000000000000053,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.89
+      },
+      "FIS0745 - CONCEITOS DE FISICA MODERNA I": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.41
+      }
+    },
+    "DesvioDeNotas": 0.719344145732764,
+    "MediaDeNotas": 8.972,
+    "MediaDeDesvios": 2.146,
+    "NotaMediana": 9.19
+  },
+  "DORY HELIO AIRES DE LIMA ANSELMO": {
+    "Notas": [
+      9.5,
+      9.65,
+      9.65,
+      9.66,
+      9.81,
+      9.84
+    ],
+    "Desvios": [
+      1.69,
+      1.38,
+      1.62,
+      1.28,
+      0.88,
+      1.24
+    ],
+    "Componentes": {
+      "FIS0650 - INTRODUCAO A FISICA DO ESTADO SOLIDO I": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.5
+      },
+      "FIS0725 - ELETROMAGNETISMO": {
+        "Notas": [
+          9.66,
+          9.81
+        ],
+        "Desvios": [
+          1.38,
+          0.88
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.735,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.81
+      },
+      "FIS0740 - FISICA BASICA II": {
+        "Notas": [
+          9.65,
+          9.65,
+          9.84
+        ],
+        "Desvios": [
+          1.62,
+          1.28,
+          1.24
+        ],
+        "DesvioDeNotas": 0.08956685895029579,
+        "MediaDeNotas": 9.713333333333333,
+        "MediaDeDesvios": 1.3800000000000001,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.11324751652906126,
+    "MediaDeNotas": 9.685,
+    "MediaDeDesvios": 1.3483333333333334,
+    "NotaMediana": 9.66
+  },
+  "EDIMILSON FÉLIX DA SILVA": {
+    "Notas": [
+      9.28,
+      9.42,
+      9.48,
+      9.48,
+      9.5,
+      9.5,
+      9.55,
+      9.62,
+      9.68,
+      9.82
+    ],
+    "Desvios": [
+      1.51,
+      1.62,
+      1.5,
+      1.71,
+      1.59,
+      1.8,
+      1.3,
+      1.99,
+      1.85,
+      1.76
+    ],
+    "Componentes": {
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          9.28,
+          9.42,
+          9.48,
+          9.5,
+          9.5,
+          9.55,
+          9.62,
+          9.68
+        ],
+        "Desvios": [
+          1.51,
+          1.62,
+          1.59,
+          1.8,
+          1.3,
+          1.99,
+          1.85,
+          1.76
+        ],
+        "DesvioDeNotas": 0.1142297575065272,
+        "MediaDeNotas": 9.50375,
+        "MediaDeDesvios": 1.6774999999999998,
+        "NotaMediana": 9.5
+      },
+      "FIS0601 - INTRODUCAO A MECANICA": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.48
+      },
+      "FIS0666 - LABORATORIO DE FLUIDOS E TERMODINAMICA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.14014635207525034,
+    "MediaDeNotas": 9.533000000000001,
+    "MediaDeDesvios": 1.6630000000000003,
+    "NotaMediana": 9.5
+  },
+  "FELIPE BOHN": {
+    "Notas": [
+      8.31,
+      9.52,
+      9.77,
+      9.81,
+      9.88
+    ],
+    "Desvios": [
+      1.65,
+      0.62,
+      1.23,
+      2.69,
+      1.63
+    ],
+    "Componentes": {
+      "FIS0619 - ELETROMAGNETISMO CLASSICO I": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.88
+      },
+      "FIS0801 - FÍSICA GERAL I": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          0.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 0.62,
+        "NotaMediana": 9.81
+      },
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          8.31,
+          9.52,
+          9.77
+        ],
+        "Desvios": [
+          1.23,
+          2.69,
+          1.63
+        ],
+        "DesvioDeNotas": 0.6375473838599498,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.8499999999999999,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.5866992415198777,
+    "MediaDeNotas": 9.458000000000002,
+    "MediaDeDesvios": 1.5639999999999998,
+    "NotaMediana": 9.77
+  },
+  "FLAVIA POLATI FERREIRA": {
+    "Notas": [
+      9.38,
+      9.66
+    ],
+    "Desvios": [
+      1.74,
+      1.7
+    ],
+    "Componentes": {
+      "FIS0701 - FISICA BASICA I": {
+        "Notas": [
+          9.38
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.38
+      },
+      "FIS0703 - FISICA BASICA III": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.13999999999999968,
+    "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.72,
+    "NotaMediana": 9.66
+  },
+  "HORACIO SANTANA VIEIRA": {
+    "Notas": [
+      8.9,
+      9.22,
+      9.32,
+      9.35,
+      9.46,
+      9.48,
+      9.52,
+      9.54,
+      9.68,
+      9.73
+    ],
+    "Desvios": [
+      2.87,
+      2.03,
+      1.27,
+      2.11,
+      2.02,
+      1.75,
+      1.63,
+      2.56,
+      1.74,
+      1.61
+    ],
+    "Componentes": {
+      "FIS0601 - INTRODUCAO A MECANICA": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          2.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 2.87,
+        "NotaMediana": 9.22
+      },
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          9.35,
+          9.48,
+          9.73
+        ],
+        "Desvios": [
+          2.03,
+          2.02,
+          1.75
+        ],
+        "DesvioDeNotas": 0.15769168230019856,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.9333333333333333,
+        "NotaMediana": 9.48
+      },
+      "FIS0313 - ONDAS E FISICA MODERNA": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.52
+      },
+      "FIS0312 - ELETRICIDADE E MAGNETISMO": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 9.32
+      },
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.54
+      },
+      "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO": {
+        "Notas": [
+          8.9
+        ],
+        "Desvios": [
+          2.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 2.56,
+        "NotaMediana": 8.9
+      },
+      "FIS0744 - LABORATORIO BASICO DE ONDAS E OPTICA": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.68
+      },
+      "FIS0728 - TERMODINAMICA E FISICA ESTATISTICA": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.46
+      }
+    },
+    "DesvioDeNotas": 0.22772790781983646,
+    "MediaDeNotas": 9.420000000000002,
+    "MediaDeDesvios": 1.9589999999999996,
+    "NotaMediana": 9.48
+  },
+  "IZAN DE CASTRO LEÃO": {
+    "Notas": [
+      8.73,
+      8.9,
+      9.1,
+      9.13
+    ],
+    "Desvios": [
+      1.62,
+      2.47,
+      2.58,
+      2.04
+    ],
+    "Componentes": {
+      "FIS0704 - FISICA BASICA IV": {
+        "Notas": [
+          8.73,
+          9.13
+        ],
+        "Desvios": [
+          1.62,
+          2.58
+        ],
+        "DesvioDeNotas": 0.20000000000000018,
+        "MediaDeNotas": 8.93,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.13
+      },
+      "FIS0656 - FISICA MATEMATICA II": {
+        "Notas": [
+          9.1
+        ],
+        "Desvios": [
+          2.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 2.47,
+        "NotaMediana": 9.1
+      },
+      "FIS0657 - FISICA MATEMATICA III": {
+        "Notas": [
+          8.9
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 8.9
+      }
+    },
+    "DesvioDeNotas": 0.1619413474070164,
+    "MediaDeNotas": 8.965,
+    "MediaDeDesvios": 2.1775,
+    "NotaMediana": 9.1
+  },
+  "JOAO MEDEIROS DE ARAUJO": {
+    "Notas": [
+      9.29,
+      9.5,
+      9.73
+    ],
+    "Desvios": [
+      1.9,
+      2.04,
+      1.22
+    ],
+    "Componentes": {
+      "FIS0728 - TERMODINAMICA E FISICA ESTATISTICA": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.29
+      },
+      "FIS0656 - FISICA MATEMATICA II": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 9.5
+      },
+      "FIS0628 - FISICA COMPUTACIONAL II": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.1796910929592479,
+    "MediaDeNotas": 9.506666666666666,
+    "MediaDeDesvios": 1.72,
+    "NotaMediana": 9.5
+  },
+  "JOSE CRISANTO DA COSTA NETO": {
+    "Notas": [
+      9.3,
+      9.52,
+      9.53,
+      9.63,
+      9.66,
+      9.66,
+      9.67,
+      9.73,
+      9.74,
+      9.84
+    ],
+    "Desvios": [
+      1.59,
+      1.85,
+      0.89,
+      1.58,
+      1.35,
+      1.8,
+      0.84,
+      1.99,
+      1.09,
+      1.6
+    ],
+    "Componentes": {
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.66
+      },
+      "FIS0316 - FISICA EXPERIMENTAL II": {
+        "Notas": [
+          9.66,
+          9.84
+        ],
+        "Desvios": [
+          1.85,
+          0.89
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.84
+      },
+      "FIS0743 - LABORATORIO BASICO DE ELETROMAGNETISMO": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.74
+      },
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          9.53,
+          9.63,
+          9.67
+        ],
+        "Desvios": [
+          1.35,
+          1.8,
+          1.6
+        ],
+        "DesvioDeNotas": 0.05887840577551933,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.5833333333333333,
+        "NotaMediana": 9.63
+      },
+      "FIS0747 - TOPICOS DE FISICA MODERNA": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          0.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 0.84,
+        "NotaMediana": 9.73
+      },
+      "FIS0701 - FISICA BASICA I": {
+        "Notas": [
+          9.3
+        ],
+        "Desvios": [
+          1.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.3,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.3
+      },
+      "FIS0664 - INTRODUÇÃO A FLUIDOS E TERMODINAMICA": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.1416192077368038,
+    "MediaDeNotas": 9.628,
+    "MediaDeDesvios": 1.458,
+    "NotaMediana": 9.66
+  },
+  "JOSE DIAS DO NASCIMENTO JUNIOR": {
+    "Notas": [
+      6.67,
+      8.31,
+      8.38,
+      9.09
+    ],
+    "Desvios": [
+      2.58,
+      2.09,
+      2.16,
+      2.7
+    ],
+    "Componentes": {
+      "FIS0660 - INTRODUÇÃO A ASTRONOMIA": {
+        "Notas": [
+          8.38
+        ],
+        "Desvios": [
+          2.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.38,
+        "MediaDeDesvios": 2.58,
+        "NotaMediana": 8.38
+      },
+      "FIS0664 - INTRODUÇÃO A FLUIDOS E TERMODINAMICA": {
+        "Notas": [
+          8.31
+        ],
+        "Desvios": [
+          2.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.31,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 8.31
+      },
+      "FIS0031 - INTRODUÇÃO À FÍSICA": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 9.09
+      },
+      "FIS0616 - MECANICA CLASSICA II": {
+        "Notas": [
+          6.67
+        ],
+        "Desvios": [
+          2.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.67,
+        "MediaDeDesvios": 2.7,
+        "NotaMediana": 6.67
+      }
+    },
+    "DesvioDeNotas": 0.8869716737303397,
+    "MediaDeNotas": 8.1125,
+    "MediaDeDesvios": 2.3825000000000003,
+    "NotaMediana": 8.38
+  },
+  "JOSE HUMBERTO DE ARAUJO": {
+    "Notas": [
+      7.01,
+      7.02,
+      7.16,
+      7.19,
+      7.56,
+      7.78,
+      8.37,
+      8.4,
+      8.86,
+      9,
+      9.16
+    ],
+    "Desvios": [
+      3.27,
+      2.76,
+      3.26,
+      3.24,
+      2.63,
+      3.48,
+      3.15,
+      2.42,
+      1.39,
+      2,
+      1.83
+    ],
+    "Componentes": {
+      "FIS0611 - LABORATORIO DE ELETRONICA": {
+        "Notas": [
+          7.01,
+          7.19
+        ],
+        "Desvios": [
+          3.27,
+          2
+        ],
+        "DesvioDeNotas": 0.0900000000000003,
+        "MediaDeNotas": 7.1,
+        "MediaDeDesvios": 2.635,
+        "NotaMediana": 7.19
+      },
+      "FIS0721 - MECANICA": {
+        "Notas": [
+          8.4,
+          8.86
+        ],
+        "Desvios": [
+          2.76,
+          2.42
+        ],
+        "DesvioDeNotas": 0.22999999999999954,
+        "MediaDeNotas": 8.629999999999999,
+        "MediaDeDesvios": 2.59,
+        "NotaMediana": 8.86
+      },
+      "FIS0316 - FISICA EXPERIMENTAL II": {
+        "Notas": [
+          7.02,
+          7.16
+        ],
+        "Desvios": [
+          3.26,
+          3.24
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 7.09,
+        "MediaDeDesvios": 3.25,
+        "NotaMediana": 7.16
+      },
+      "FIS0666 - LABORATORIO DE FLUIDOS E TERMODINAMICA": {
+        "Notas": [
+          7.78,
+          8.37,
+          9
+        ],
+        "Desvios": [
+          2.63,
+          3.15,
+          1.83
+        ],
+        "DesvioDeNotas": 0.4981521409725702,
+        "MediaDeNotas": 8.383333333333333,
+        "MediaDeDesvios": 2.5366666666666666,
+        "NotaMediana": 8.37
+      },
+      "FIS0743 - LABORATORIO BASICO DE ELETROMAGNETISMO": {
+        "Notas": [
+          7.56
+        ],
+        "Desvios": [
+          3.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.56,
+        "MediaDeDesvios": 3.48,
+        "NotaMediana": 7.56
+      },
+      "FIS0667 - LABORATORIO DE ELETROMAGNETISMO": {
+        "Notas": [
+          9.16
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.16
+      }
+    },
+    "DesvioDeNotas": 0.7922621654748984,
+    "MediaDeNotas": 7.955454545454546,
+    "MediaDeDesvios": 2.6754545454545453,
+    "NotaMediana": 7.78
+  },
+  "JOSE RENAN DE MEDEIROS": {
+    "Notas": [
+      7.55,
+      8.86,
+      9.49,
+      9.58
+    ],
+    "Desvios": [
+      1.77,
+      2.8,
+      2.01,
+      1.48
+    ],
+    "Componentes": {
+      "FIS0313 - ONDAS E FISICA MODERNA": {
+        "Notas": [
+          8.86,
+          9.58
+        ],
+        "Desvios": [
+          1.77,
+          2.01
+        ],
+        "DesvioDeNotas": 0.3600000000000003,
+        "MediaDeNotas": 9.219999999999999,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.58
+      },
+      "FIS0604 - ONDAS E OPTICA": {
+        "Notas": [
+          7.55,
+          9.49
+        ],
+        "Desvios": [
+          2.8,
+          1.48
+        ],
+        "DesvioDeNotas": 0.9700000000000002,
+        "MediaDeNotas": 8.52,
+        "MediaDeDesvios": 2.1399999999999997,
+        "NotaMediana": 9.49
+      }
+    },
+    "DesvioDeNotas": 0.8110178789644531,
+    "MediaDeNotas": 8.87,
+    "MediaDeDesvios": 2.015,
+    "NotaMediana": 9.49
+  },
+  "JOSE WILSON DE PAIVA MACEDO": {
+    "Notas": [
+      8.62,
+      8.93,
+      8.93,
+      9.48,
+      9.57,
+      9.63,
+      9.8
+    ],
+    "Desvios": [
+      1.43,
+      2.65,
+      2.75,
+      2.72,
+      2.16,
+      1.68,
+      1.43
+    ],
+    "Componentes": {
+      "FIS0740 - FISICA BASICA II": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.63
+      },
+      "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO": {
+        "Notas": [
+          8.62,
+          8.93,
+          8.93,
+          9.8
+        ],
+        "Desvios": [
+          2.65,
+          2.75,
+          2.72,
+          1.68
+        ],
+        "DesvioDeNotas": 0.4400568145137631,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2.45,
+        "NotaMediana": 8.93
+      },
+      "FIS0664 - INTRODUÇÃO A FLUIDOS E TERMODINAMICA": {
+        "Notas": [
+          9.48,
+          9.57
+        ],
+        "Desvios": [
+          2.16,
+          1.43
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.525,
+        "MediaDeDesvios": 1.795,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.41362508904286105,
+    "MediaDeNotas": 9.280000000000001,
+    "MediaDeDesvios": 2.117142857142857,
+    "NotaMediana": 9.48
+  },
+  "JULIANA MESQUITA HIDALGO FERREIRA": {
+    "Notas": [
+      9.7,
+      9.72,
+      9.73,
+      9.82,
+      9.88,
+      9.9
+    ],
+    "Desvios": [
+      1.6,
+      1.47,
+      1.3,
+      1.5,
+      1.82,
+      1.25
+    ],
+    "Componentes": {
+      "FIS0627 - HISTORIA E FILOSOFIA DA CIENCIA": {
+        "Notas": [
+          9.73,
+          9.82
+        ],
+        "Desvios": [
+          1.6,
+          1.5
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.775,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.82
+      },
+      "FIS0734 - NOVAS CONCEPCOES DO ENSINO DE FISICA": {
+        "Notas": [
+          9.7,
+          9.72
+        ],
+        "Desvios": [
+          1.47,
+          1.82
+        ],
+        "DesvioDeNotas": 0.010000000000000675,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.645,
+        "NotaMediana": 9.72
+      },
+      "FIS0729 - HISTORIA E FILOSOFIA DA CIENCIA": {
+        "Notas": [
+          9.88,
+          9.9
+        ],
+        "Desvios": [
+          1.3,
+          1.25
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.275,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.0792499561864585,
+    "MediaDeNotas": 9.791666666666668,
+    "MediaDeDesvios": 1.4900000000000002,
+    "NotaMediana": 9.82
+  },
+  "LEONARDO ANDRADE DE ALMEIDA": {
+    "Notas": [
+      9.39,
+      9.71,
+      9.75,
+      9.78,
+      9.86,
+      9.89,
+      9.91
+    ],
+    "Desvios": [
+      1.23,
+      1.2,
+      1.51,
+      1.12,
+      1.21,
+      1,
+      0.5
+    ],
+    "Componentes": {
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          9.71,
+          9.75,
+          9.86,
+          9.89,
+          9.91
+        ],
+        "Desvios": [
+          1.23,
+          1.12,
+          1.21,
+          1,
+          0.5
+        ],
+        "DesvioDeNotas": 0.07939773296511665,
+        "MediaDeNotas": 9.824000000000002,
+        "MediaDeDesvios": 1.012,
+        "NotaMediana": 9.86
+      },
+      "FIS0742 - LABORATORIO BASICO DE FLUIDOS E TERMODINAMICA": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.78
+      },
+      "FIS0314 - TERMODINAMICA": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.16439127043708346,
+    "MediaDeNotas": 9.755714285714285,
+    "MediaDeDesvios": 1.1099999999999999,
+    "NotaMediana": 9.78
+  },
+  "LEONARDO DANTAS MACHADO": {
+    "Notas": [
+      9.45,
+      9.65,
+      9.71,
+      9.88
+    ],
+    "Desvios": [
+      1.8,
+      1.55,
+      2.11,
+      1.84
+    ],
+    "Componentes": {
+      "FIS0610 - FISICA COMPUTACIONAL I": {
+        "Notas": [
+          9.45,
+          9.71,
+          9.88
+        ],
+        "Desvios": [
+          1.8,
+          1.55,
+          1.84
+        ],
+        "DesvioDeNotas": 0.17682382946499858,
+        "MediaDeNotas": 9.680000000000001,
+        "MediaDeDesvios": 1.7300000000000002,
+        "NotaMediana": 9.71
+      },
+      "FIS0628 - FISICA COMPUTACIONAL II": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.1536839288930374,
+    "MediaDeNotas": 9.6725,
+    "MediaDeDesvios": 1.825,
+    "NotaMediana": 9.71
+  },
+  "LUCIANO RODRIGUES DA SILVA": {
+    "Notas": [
+      8.95,
+      9.3,
+      9.51,
+      9.54,
+      9.54
+    ],
+    "Desvios": [
+      1.73,
+      1.88,
+      1.89,
+      2.25,
+      1.76
+    ],
+    "Componentes": {
+      "FIS0604 - ONDAS E OPTICA": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.54
+      },
+      "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO": {
+        "Notas": [
+          8.95,
+          9.54
+        ],
+        "Desvios": [
+          1.88,
+          2.25
+        ],
+        "DesvioDeNotas": 0.29499999999999993,
+        "MediaDeNotas": 9.245,
+        "MediaDeDesvios": 2.065,
+        "NotaMediana": 9.54
+      },
+      "FIS0703 - FISICA BASICA III": {
+        "Notas": [
+          9.3,
+          9.51
+        ],
+        "Desvios": [
+          1.89,
+          1.76
+        ],
+        "DesvioDeNotas": 0.10499999999999954,
+        "MediaDeNotas": 9.405000000000001,
+        "MediaDeDesvios": 1.825,
+        "NotaMediana": 9.51
+      }
+    },
+    "DesvioDeNotas": 0.22745549015136998,
+    "MediaDeNotas": 9.367999999999999,
+    "MediaDeDesvios": 1.902,
+    "NotaMediana": 9.51
+  },
+  "LUIZ FELIPE CAVALCANTI PEREIRA": {
+    "Notas": [
+      7.98,
+      9.39,
+      9.42
+    ],
+    "Desvios": [
+      3.3,
+      1.91,
+      2.53
+    ],
+    "Componentes": {
+      "FIS0745 - CONCEITOS DE FISICA MODERNA I": {
+        "Notas": [
+          7.98
+        ],
+        "Desvios": [
+          3.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.98,
+        "MediaDeDesvios": 3.3,
+        "NotaMediana": 7.98
+      },
+      "FIS0626 - FISICA ESTATISTICA": {
+        "Notas": [
+          9.42
+        ],
+        "Desvios": [
+          1.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.42,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 9.42
+      },
+      "FIS0621 - TERMODINAMICA": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          2.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 2.53,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.6718630812896329,
+    "MediaDeNotas": 8.93,
+    "MediaDeDesvios": 2.58,
+    "NotaMediana": 9.39
+  },
+  "MADRAS VISWANATHAN GANDHI MOHAN": {
+    "Notas": [
+      9.22,
+      9.25,
+      9.36,
+      9.36,
+      9.63
+    ],
+    "Desvios": [
+      1.5,
+      2.06,
+      2.11,
+      1.55,
+      1.66
+    ],
+    "Componentes": {
+      "FIS0621 - TERMODINAMICA": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.63
+      },
+      "FIS0623 - FISICA MODERNA II": {
+        "Notas": [
+          9.25,
+          9.36
+        ],
+        "Desvios": [
+          2.06,
+          1.66
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.305,
+        "MediaDeDesvios": 1.8599999999999999,
+        "NotaMediana": 9.36
+      },
+      "FIS0622 - FISICA MODERNA I": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 9.36
+      },
+      "FIS0313 - ONDAS E FISICA MODERNA": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0.1445821565754227,
+    "MediaDeNotas": 9.364,
+    "MediaDeDesvios": 1.7759999999999998,
+    "NotaMediana": 9.36
+  },
+  "MARCIO ASSOLIN CORREA": {
+    "Notas": [
+      9.12,
+      9.16,
+      9.31,
+      9.33,
+      9.39,
+      9.41,
+      9.78
+    ],
+    "Desvios": [
+      1.35,
+      1.62,
+      1.77,
+      2.12,
+      2.17,
+      1.86,
+      1.66
+    ],
+    "Componentes": {
+      "FIS0714 - LABORATORIO DE FISICA MODERNA": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.78
+      },
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          9.12,
+          9.31,
+          9.39,
+          9.41
+        ],
+        "Desvios": [
+          1.62,
+          1.77,
+          2.12,
+          2.17
+        ],
+        "DesvioDeNotas": 0.11453711188955353,
+        "MediaDeNotas": 9.307500000000001,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.39
+      },
+      "FIS0312 - ELETRICIDADE E MAGNETISMO": {
+        "Notas": [
+          9.16,
+          9.33
+        ],
+        "Desvios": [
+          1.86,
+          1.66
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.245000000000001,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.33
+      }
+    },
+    "DesvioDeNotas": 0.20026513038714344,
+    "MediaDeNotas": 9.357142857142858,
+    "MediaDeDesvios": 1.792857142857143,
+    "NotaMediana": 9.33
+  },
+  "MARCO ANTONIO MORALES TORRES": {
+    "Notas": [
+      7.1,
+      8.41,
+      8.51,
+      8.57,
+      8.9,
+      8.97,
+      9.07,
+      9.36,
+      9.46,
+      9.59,
+      9.75,
+      9.78
+    ],
+    "Desvios": [
+      2.89,
+      3.57,
+      2.78,
+      2.31,
+      2.4,
+      2.11,
+      2.62,
+      1.71,
+      2.71,
+      1.53,
+      1.18,
+      1.31
+    ],
+    "Componentes": {
+      "FIS0316 - FISICA EXPERIMENTAL II": {
+        "Notas": [
+          7.1,
+          8.41
+        ],
+        "Desvios": [
+          2.89,
+          3.57
+        ],
+        "DesvioDeNotas": 0.6550000000000002,
+        "MediaDeNotas": 7.755,
+        "MediaDeDesvios": 3.23,
+        "NotaMediana": 8.41
+      },
+      "FIS0668 - LABORATORIO DE ONDAS E OPTICA": {
+        "Notas": [
+          8.57,
+          8.97,
+          9.59,
+          9.75
+        ],
+        "Desvios": [
+          2.78,
+          2.11,
+          2.71,
+          1.31
+        ],
+        "DesvioDeNotas": 0.4750789408087879,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 2.2275,
+        "NotaMediana": 9.59
+      },
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          8.51,
+          8.9,
+          9.07
+        ],
+        "Desvios": [
+          2.31,
+          2.4,
+          2.62
+        ],
+        "DesvioDeNotas": 0.2344260129668968,
+        "MediaDeNotas": 8.826666666666666,
+        "MediaDeDesvios": 2.4433333333333334,
+        "NotaMediana": 8.9
+      },
+      "FIS0714 - LABORATORIO DE FISICA MODERNA": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.36
+      },
+      "FIS0609 - LABORATORIO DE FISICA MODERNA": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.46
+      },
+      "FIS0665 - LABORATORIO DE MECANICA": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.78
+      }
+    },
+    "DesvioDeNotas": 0.720861271134899,
+    "MediaDeNotas": 8.955833333333333,
+    "MediaDeDesvios": 2.2600000000000002,
+    "NotaMediana": 9.07
+  },
+  "MATTHIEU SEBASTIEN CASTRO": {
+    "Notas": [
+      8.88,
+      9.18,
+      9.2,
+      9.21,
+      9.29,
+      9.37,
+      9.48,
+      9.65
+    ],
+    "Desvios": [
+      2.68,
+      2.2,
+      2.15,
+      2.09,
+      2.12,
+      1.9,
+      1.58,
+      1.59
+    ],
+    "Componentes": {
+      "FIS0801 - FÍSICA GERAL I": {
+        "Notas": [
+          8.88,
+          9.18,
+          9.2,
+          9.21,
+          9.37,
+          9.48
+        ],
+        "Desvios": [
+          2.68,
+          2.2,
+          2.15,
+          2.09,
+          2.12,
+          1.9
+        ],
+        "DesvioDeNotas": 0.1861003313627712,
+        "MediaDeNotas": 9.219999999999999,
+        "MediaDeDesvios": 2.1900000000000004,
+        "NotaMediana": 9.21
+      },
+      "FIS0660 - INTRODUÇÃO A ASTRONOMIA": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.65
+      },
+      "FIS0604 - ONDAS E OPTICA": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.29
+      }
+    },
+    "DesvioDeNotas": 0.21399474292608212,
+    "MediaDeNotas": 9.282499999999999,
+    "MediaDeDesvios": 2.0387500000000003,
+    "NotaMediana": 9.29
+  },
+  "MILTON THIAGO SCHIVANI ALVES": {
+    "Notas": [
+      9.27,
+      9.3,
+      9.39,
+      9.82,
+      9.9,
+      9.93,
+      9.98
+    ],
+    "Desvios": [
+      2.05,
+      2.03,
+      1.59,
+      1.17,
+      1.52,
+      1.2,
+      1.13
+    ],
+    "Componentes": {
+      "FIS0750 - ASTRONOMIA": {
+        "Notas": [
+          9.3,
+          9.39
+        ],
+        "Desvios": [
+          2.05,
+          1.52
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.345,
+        "MediaDeDesvios": 1.785,
+        "NotaMediana": 9.39
+      },
+      "FIS0031 - INTRODUÇÃO À FÍSICA": {
+        "Notas": [
+          9.27
+        ],
+        "Desvios": [
+          2.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 2.03,
+        "NotaMediana": 9.27
+      },
+      "FIS0748 - INSTRUMENTACAO PARA O ENSINO DE FISICA I": {
+        "Notas": [
+          9.82,
+          9.9
+        ],
+        "Desvios": [
+          1.59,
+          1.13
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.3599999999999999,
+        "NotaMediana": 9.9
+      },
+      "FIS0741 - LABORATORIO BASICO DE MECANICA": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.93
+      },
+      "FIS0749 - INSTRUMENTACAO PARA ENSINO DE FISICA II": {
+        "Notas": [
+          9.98
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.98,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.98
+      }
+    },
+    "DesvioDeNotas": 0.29591780436258897,
+    "MediaDeNotas": 9.655714285714286,
+    "MediaDeDesvios": 1.527142857142857,
+    "NotaMediana": 9.82
+  },
+  "NILZA PIRES": {
+    "Notas": [
+      8,
+      8.07,
+      8.42,
+      8.59,
+      8.9,
+      8.93,
+      8.99,
+      9.09,
+      9.64
+    ],
+    "Desvios": [
+      2.16,
+      3.47,
+      2.06,
+      2.6,
+      2.38,
+      2.29,
+      2.69,
+      1.92,
+      1.99
+    ],
+    "Componentes": {
+      "FIS0312 - ELETRICIDADE E MAGNETISMO": {
+        "Notas": [
+          8.07,
+          8.93,
+          9.09
+        ],
+        "Desvios": [
+          2.16,
+          2.29,
+          1.92
+        ],
+        "DesvioDeNotas": 0.44790872085975514,
+        "MediaDeNotas": 8.696666666666667,
+        "MediaDeDesvios": 2.1233333333333335,
+        "NotaMediana": 8.93
+      },
+      "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO": {
+        "Notas": [
+          8,
+          9.64
+        ],
+        "Desvios": [
+          3.47,
+          2.06
+        ],
+        "DesvioDeNotas": 0.8200000000000003,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 2.765,
+        "NotaMediana": 9.64
+      },
+      "FIS0655 - FISICA MATEMATICA I": {
+        "Notas": [
+          8.42,
+          8.99
+        ],
+        "Desvios": [
+          2.6,
+          1.99
+        ],
+        "DesvioDeNotas": 0.28500000000000014,
+        "MediaDeNotas": 8.705,
+        "MediaDeDesvios": 2.295,
+        "NotaMediana": 8.99
+      },
+      "FIS0604 - ONDAS E OPTICA": {
+        "Notas": [
+          8.59
+        ],
+        "Desvios": [
+          2.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.59,
+        "MediaDeDesvios": 2.38,
+        "NotaMediana": 8.59
+      },
+      "FIS0648 - INTRODUCAO A RELATIVIDADE GERAL": {
+        "Notas": [
+          8.9
+        ],
+        "Desvios": [
+          2.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 2.69,
+        "NotaMediana": 8.9
+      }
+    },
+    "DesvioDeNotas": 0.4919349550499538,
+    "MediaDeNotas": 8.736666666666666,
+    "MediaDeDesvios": 2.395555555555555,
+    "NotaMediana": 8.9
+  },
+  "RAIMUNDO SILVA JUNIOR": {
+    "Notas": [
+      7.24,
+      7.91,
+      7.97,
+      8.66,
+      8.82,
+      8.86,
+      9.4,
+      9.68
+    ],
+    "Desvios": [
+      2.17,
+      2.47,
+      1.47,
+      2.7,
+      2.01,
+      3.42,
+      2.12,
+      1.49
+    ],
+    "Componentes": {
+      "FIS0312 - ELETRICIDADE E MAGNETISMO": {
+        "Notas": [
+          7.91,
+          8.82,
+          8.86,
+          9.68
+        ],
+        "Desvios": [
+          2.17,
+          1.47,
+          2.01,
+          2.12
+        ],
+        "DesvioDeNotas": 0.626353534355798,
+        "MediaDeNotas": 8.817499999999999,
+        "MediaDeDesvios": 1.9425,
+        "NotaMediana": 8.86
+      },
+      "FIS0313 - ONDAS E FISICA MODERNA": {
+        "Notas": [
+          8.66
+        ],
+        "Desvios": [
+          2.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.66,
+        "MediaDeDesvios": 2.47,
+        "NotaMediana": 8.66
+      },
+      "FIS0618 - RELATIVIDADE ESPECIAL": {
+        "Notas": [
+          7.97,
+          9.4
+        ],
+        "Desvios": [
+          2.7,
+          1.49
+        ],
+        "DesvioDeNotas": 0.7150000000000003,
+        "MediaDeNotas": 8.685,
+        "MediaDeDesvios": 2.095,
+        "NotaMediana": 9.4
+      },
+      "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO": {
+        "Notas": [
+          7.24
+        ],
+        "Desvios": [
+          3.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.24,
+        "MediaDeDesvios": 3.42,
+        "NotaMediana": 7.24
+      }
+    },
+    "DesvioDeNotas": 0.7615896204649849,
+    "MediaDeNotas": 8.5675,
+    "MediaDeDesvios": 2.2312499999999997,
+    "NotaMediana": 8.82
+  },
+  "RODRIGO FERNANDES LIRA DE HOLANDA": {
+    "Notas": [
+      7.27,
+      7.57,
+      7.63
+    ],
+    "Desvios": [
+      2.69,
+      2.53,
+      2.44
+    ],
+    "Componentes": {
+      "FIS0601 - INTRODUCAO A MECANICA": {
+        "Notas": [
+          7.27
+        ],
+        "Desvios": [
+          2.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.27,
+        "MediaDeDesvios": 2.69,
+        "NotaMediana": 7.27
+      },
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          7.57,
+          7.63
+        ],
+        "Desvios": [
+          2.53,
+          2.44
+        ],
+        "DesvioDeNotas": 0.029999999999999805,
+        "MediaDeNotas": 7.6,
+        "MediaDeDesvios": 2.485,
+        "NotaMediana": 7.63
+      }
+    },
+    "DesvioDeNotas": 0.15748015748023644,
+    "MediaDeNotas": 7.489999999999999,
+    "MediaDeDesvios": 2.5533333333333332,
+    "NotaMediana": 7.57
+  },
+  "RODRIGO GONCALVES PEREIRA": {
+    "Notas": [
+      9.22,
+      9.42
+    ],
+    "Desvios": [
+      1.79,
+      2.06
+    ],
+    "Componentes": {
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.22
+      },
+      "FIS0615 - MECANICA CLASSICA I": {
+        "Notas": [
+          9.42
+        ],
+        "Desvios": [
+          2.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.42,
+        "MediaDeDesvios": 2.06,
+        "NotaMediana": 9.42
+      }
+    },
+    "DesvioDeNotas": 0.09999999999999964,
+    "MediaDeNotas": 9.32,
+    "MediaDeDesvios": 1.925,
+    "NotaMediana": 9.42
+  },
+  "SUZANA NOBREGA DE MEDEIROS": {
+    "Notas": [
+      9.36,
+      9.4,
+      9.43,
+      9.52
+    ],
+    "Desvios": [
+      2.19,
+      1.95,
+      1.71,
+      2.27
+    ],
+    "Componentes": {
+      "FIS0601 - INTRODUCAO A MECANICA": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 9.36
+      },
+      "FIS0620 - ELETROMAGNETISMO CLASSICO II": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.95,
+        "NotaMediana": 9.4
+      },
+      "FIS0619 - ELETROMAGNETISMO CLASSICO I": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.43
+      },
+      "FIS0605 - NOVAS CONCEPCOES DA FISICA": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          2.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 2.27,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.05889609494694868,
+    "MediaDeNotas": 9.427499999999998,
+    "MediaDeDesvios": 2.03,
+    "NotaMediana": 9.43
+  },
+  "SYLVIO QUEZADO DE MAGALHAES": {
+    "Notas": [
+      8.45,
+      8.99,
+      9.18,
+      9.58,
+      9.67,
+      9.81
+    ],
+    "Desvios": [
+      2.19,
+      2.51,
+      1.61,
+      2.27,
+      1.87,
+      1.09
+    ],
+    "Componentes": {
+      "FIS0312 - ELETRICIDADE E MAGNETISMO": {
+        "Notas": [
+          8.99,
+          9.18,
+          9.58,
+          9.67
+        ],
+        "Desvios": [
+          2.19,
+          2.27,
+          1.87,
+          1.09
+        ],
+        "DesvioDeNotas": 0.2800446392988089,
+        "MediaDeNotas": 9.355,
+        "MediaDeDesvios": 1.855,
+        "NotaMediana": 9.58
+      },
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          8.45
+        ],
+        "Desvios": [
+          2.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.45,
+        "MediaDeDesvios": 2.51,
+        "NotaMediana": 8.45
+      },
+      "FIS0703 - FISICA BASICA III": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.81
+      }
+    },
+    "DesvioDeNotas": 0.46654760385909916,
+    "MediaDeNotas": 9.280000000000001,
+    "MediaDeDesvios": 1.9233333333333331,
+    "NotaMediana": 9.58
+  },
+  "TOMMASO MACRI": {
+    "Notas": [
+      7.65,
+      9.47
+    ],
+    "Desvios": [
+      2.89,
+      1.96
+    ],
+    "Componentes": {
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          7.65
+        ],
+        "Desvios": [
+          2.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.65,
+        "MediaDeDesvios": 2.89,
+        "NotaMediana": 7.65
+      },
+      "FIS0605 - NOVAS CONCEPCOES DA FISICA": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 9.47
+      }
+    },
+    "DesvioDeNotas": 0.9100000000000001,
+    "MediaDeNotas": 8.56,
+    "MediaDeDesvios": 2.425,
+    "NotaMediana": 9.47
+  },
+  "UILAME UMBELINO GOMES": {
+    "Notas": [
+      7.69,
+      8.23,
+      8.29,
+      8.4,
+      8.65
+    ],
+    "Desvios": [
+      2.83,
+      2.65,
+      2.74,
+      2.52,
+      2.8
+    ],
+    "Componentes": {
+      "FIS0664 - INTRODUÇÃO A FLUIDOS E TERMODINAMICA": {
+        "Notas": [
+          8.29
+        ],
+        "Desvios": [
+          2.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.29,
+        "MediaDeDesvios": 2.83,
+        "NotaMediana": 8.29
+      },
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          8.65
+        ],
+        "Desvios": [
+          2.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 2.65,
+        "NotaMediana": 8.65
+      },
+      "FIS0312 - ELETRICIDADE E MAGNETISMO": {
+        "Notas": [
+          8.23,
+          8.4
+        ],
+        "Desvios": [
+          2.74,
+          2.52
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 8.315000000000001,
+        "MediaDeDesvios": 2.63,
+        "NotaMediana": 8.4
+      },
+      "FIS0313 - ONDAS E FISICA MODERNA": {
+        "Notas": [
+          7.69
+        ],
+        "Desvios": [
+          2.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.69,
+        "MediaDeDesvios": 2.8,
+        "NotaMediana": 7.69
+      }
+    },
+    "DesvioDeNotas": 0.3156200247132617,
+    "MediaDeNotas": 8.251999999999999,
+    "MediaDeDesvios": 2.7079999999999997,
+    "NotaMediana": 8.29
+  },
+  "WILSON ACCHAR": {
+    "Notas": [
+      8.52,
+      8.7,
+      9.16,
+      9.22,
+      9.45
+    ],
+    "Desvios": [
+      1.74,
+      1.77,
+      2.06,
+      2.14,
+      1.95
+    ],
+    "Componentes": {
+      "FIS0313 - ONDAS E FISICA MODERNA": {
+        "Notas": [
+          8.7,
+          9.45
+        ],
+        "Desvios": [
+          1.74,
+          1.95
+        ],
+        "DesvioDeNotas": 0.375,
+        "MediaDeNotas": 9.075,
+        "MediaDeDesvios": 1.845,
+        "NotaMediana": 9.45
+      },
+      "FIS0314 - TERMODINAMICA": {
+        "Notas": [
+          8.52,
+          9.16,
+          9.22
+        ],
+        "Desvios": [
+          1.77,
+          2.06,
+          2.14
+        ],
+        "DesvioDeNotas": 0.3167894498804463,
+        "MediaDeNotas": 8.966666666666667,
+        "MediaDeDesvios": 1.9900000000000002,
+        "NotaMediana": 9.16
+      }
+    },
+    "DesvioDeNotas": 0.3453693674893593,
+    "MediaDeNotas": 9.01,
+    "MediaDeDesvios": 1.932,
+    "NotaMediana": 9.16
+  },
+  "ALILIANE ALMEIDA DE FREITAS": {
+    "Notas": [
+      7.9,
+      8.48,
+      9.31
+    ],
+    "Desvios": [
+      1.94,
+      2.27,
+      1.74
+    ],
+    "Componentes": {
+      "FIS0316 - FISICA EXPERIMENTAL II": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.31
+      },
+      "FIS0312 - ELETRICIDADE E MAGNETISMO": {
+        "Notas": [
+          8.48
+        ],
+        "Desvios": [
+          2.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.48,
+        "MediaDeDesvios": 2.27,
+        "NotaMediana": 8.48
+      },
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          7.9
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.9,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 7.9
+      }
+    },
+    "DesvioDeNotas": 0.5786382481501048,
+    "MediaDeNotas": 8.563333333333333,
+    "MediaDeDesvios": 1.9833333333333334,
+    "NotaMediana": 8.48
+  },
+  "CLAUDIONOR GOMES BEZERRA": {
+    "Notas": [
+      8.63,
+      8.69,
+      8.89
+    ],
+    "Desvios": [
+      2.48,
+      1.95,
+      1.67
+    ],
+    "Componentes": {
+      "FIS0313 - ONDAS E FISICA MODERNA": {
+        "Notas": [
+          8.63
+        ],
+        "Desvios": [
+          2.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.63,
+        "MediaDeDesvios": 2.48,
+        "NotaMediana": 8.63
+      },
+      "FIS0314 - TERMODINAMICA": {
+        "Notas": [
+          8.69,
+          8.89
+        ],
+        "Desvios": [
+          1.95,
+          1.67
+        ],
+        "DesvioDeNotas": 0.10000000000000053,
+        "MediaDeNotas": 8.79,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 8.89
+      }
+    },
+    "DesvioDeNotas": 0.11115554667022053,
+    "MediaDeNotas": 8.736666666666666,
+    "MediaDeDesvios": 2.033333333333333,
+    "NotaMediana": 8.69
+  },
+  "LAURA TERESA CORREDOR BOHORQUEZ": {
+    "Notas": [
+      7.37,
+      8.07,
+      8.49,
+      8.76,
+      8.84,
+      9.14,
+      9.6,
+      9.63,
+      9.83
+    ],
+    "Desvios": [
+      2.94,
+      2.6,
+      2.59,
+      3.02,
+      2.15,
+      1.93,
+      1.37,
+      1.08,
+      1.06
+    ],
+    "Componentes": {
+      "FIS0316 - FISICA EXPERIMENTAL II": {
+        "Notas": [
+          8.07,
+          8.49,
+          8.76,
+          9.14,
+          9.6,
+          9.63,
+          9.83
+        ],
+        "Desvios": [
+          2.94,
+          2.6,
+          2.15,
+          1.93,
+          1.37,
+          1.08,
+          1.06
+        ],
+        "DesvioDeNotas": 0.6105467606488266,
+        "MediaDeNotas": 9.074285714285715,
+        "MediaDeDesvios": 1.8757142857142857,
+        "NotaMediana": 9.14
+      },
+      "FIS0667 - LABORATORIO DE ELETROMAGNETISMO": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          2.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 2.59,
+        "NotaMediana": 8.84
+      },
+      "FIS0665 - LABORATORIO DE MECANICA": {
+        "Notas": [
+          7.37
+        ],
+        "Desvios": [
+          3.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.37,
+        "MediaDeDesvios": 3.02,
+        "NotaMediana": 7.37
+      }
+    },
+    "DesvioDeNotas": 0.756548367322781,
+    "MediaDeNotas": 8.85888888888889,
+    "MediaDeDesvios": 2.082222222222222,
+    "NotaMediana": 8.84
+  },
+  "RAFAELA MEDEIROS DE SOUZA": {
+    "Notas": [
+      8.98,
+      9.23,
+      9.24,
+      9.25,
+      9.36,
+      9.51,
+      9.62,
+      9.63,
+      9.63,
+      9.78
+    ],
+    "Desvios": [
+      2.39,
+      2.31,
+      1.92,
+      2.26,
+      1.58,
+      2.19,
+      1.85,
+      1.57,
+      1.58,
+      1.02
+    ],
+    "Componentes": {
+      "FIS0701 - FISICA BASICA I": {
+        "Notas": [
+          8.98,
+          9.24,
+          9.63
+        ],
+        "Desvios": [
+          2.39,
+          2.26,
+          1.85
+        ],
+        "DesvioDeNotas": 0.2671246067953225,
+        "MediaDeNotas": 9.283333333333333,
+        "MediaDeDesvios": 2.1666666666666665,
+        "NotaMediana": 9.24
+      },
+      "FIS0601 - INTRODUCAO A MECANICA": {
+        "Notas": [
+          9.25,
+          9.51,
+          9.62,
+          9.63
+        ],
+        "Desvios": [
+          2.31,
+          1.92,
+          1.58,
+          2.19
+        ],
+        "DesvioDeNotas": 0.15319513699853532,
+        "MediaDeNotas": 9.5025,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 9.62
+      },
+      "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.36
+      },
+      "FIS0742 - LABORATORIO BASICO DE FLUIDOS E TERMODINAMICA": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.23
+      },
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.02,
+        "NotaMediana": 9.78
+      }
+    },
+    "DesvioDeNotas": 0.23672980378482114,
+    "MediaDeNotas": 9.423,
+    "MediaDeDesvios": 1.8669999999999998,
+    "NotaMediana": 9.51
+  },
+  "ARTUR DA SILVA CARRICO": {
+    "Notas": [
+      8.77,
+      8.79,
+      9.11,
+      9.72
+    ],
+    "Desvios": [
+      1.96,
+      2.42,
+      2.38,
+      1.86
+    ],
+    "Componentes": {
+      "FIS0703 - FISICA BASICA III": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 9.72
+      },
+      "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          2.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 2.42,
+        "NotaMediana": 9.11
+      },
+      "FIS0312 - ELETRICIDADE E MAGNETISMO": {
+        "Notas": [
+          8.77,
+          8.79
+        ],
+        "Desvios": [
+          2.38,
+          1.86
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 8.78,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 8.79
+      }
+    },
+    "DesvioDeNotas": 0.38388637641885703,
+    "MediaDeNotas": 9.0975,
+    "MediaDeDesvios": 2.155,
+    "NotaMediana": 9.11
+  },
+  "JADSON TADEU SOUZA DANTAS": {
+    "Notas": [
+      7.38,
+      8.43,
+      8.79,
+      8.96,
+      9.63,
+      9.79
+    ],
+    "Desvios": [
+      2.49,
+      1.95,
+      2.11,
+      0.88,
+      1.1,
+      1.63
+    ],
+    "Componentes": {
+      "FIS0704 - FISICA BASICA IV": {
+        "Notas": [
+          7.38
+        ],
+        "Desvios": [
+          2.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.38,
+        "MediaDeDesvios": 2.49,
+        "NotaMediana": 7.38
+      },
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          8.43,
+          8.79
+        ],
+        "Desvios": [
+          1.95,
+          2.11
+        ],
+        "DesvioDeNotas": 0.17999999999999972,
+        "MediaDeNotas": 8.61,
+        "MediaDeDesvios": 2.03,
+        "NotaMediana": 8.79
+      },
+      "FIS0703 - FISICA BASICA III": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          0.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 0.88,
+        "NotaMediana": 9.79
+      },
+      "FIS0801 - FÍSICA GERAL I": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.63
+      },
+      "FIS0601 - INTRODUCAO A MECANICA": {
+        "Notas": [
+          8.96
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 8.96
+      }
+    },
+    "DesvioDeNotas": 0.800270787504663,
+    "MediaDeNotas": 8.83,
+    "MediaDeDesvios": 1.6933333333333334,
+    "NotaMediana": 8.96
+  },
+  "LAERCIO DIAS": {
+    "Notas": [
+      9.09
+    ],
+    "Desvios": [
+      2.18
+    ],
+    "Componentes": {
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          2.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 2.18,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.09,
+    "MediaDeDesvios": 2.18,
+    "NotaMediana": 9.09
+  },
+  "NOELIA SOUZA DOS SANTOS": {
+    "Notas": [
+      8.88,
+      9.27,
+      9.32,
+      9.41,
+      9.56,
+      9.59,
+      9.63,
+      9.64,
+      9.72,
+      9.78
+    ],
+    "Desvios": [
+      1.74,
+      1.41,
+      2.34,
+      1.3,
+      1.55,
+      1.48,
+      1.44,
+      1.21,
+      1.03,
+      0.92
+    ],
+    "Componentes": {
+      "FIS0316 - FISICA EXPERIMENTAL II": {
+        "Notas": [
+          8.88,
+          9.41,
+          9.56,
+          9.59,
+          9.63,
+          9.64,
+          9.72,
+          9.78
+        ],
+        "Desvios": [
+          1.74,
+          1.41,
+          2.34,
+          1.3,
+          1.55,
+          1.21,
+          1.03,
+          0.92
+        ],
+        "DesvioDeNotas": 0.2650442180089954,
+        "MediaDeNotas": 9.526250000000001,
+        "MediaDeDesvios": 1.4375,
+        "NotaMediana": 9.63
+      },
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          9.27,
+          9.32
+        ],
+        "Desvios": [
+          1.48,
+          1.44
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.295,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.32
+      }
+    },
+    "DesvioDeNotas": 0.25471552759892746,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 1.4419999999999997,
+    "NotaMediana": 9.59
+  },
+  "UBIRATAN CORREIA SILVA": {
+    "Notas": [
+      7.93,
+      7.95,
+      8.4,
+      8.93,
+      8.93,
+      9.49,
+      9.49,
+      9.69
+    ],
+    "Desvios": [
+      2.48,
+      2.18,
+      3.12,
+      3.2,
+      2.47,
+      1.33,
+      0.98,
+      1.5
+    ],
+    "Componentes": {
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          7.93,
+          7.95,
+          8.4,
+          8.93,
+          8.93
+        ],
+        "Desvios": [
+          2.48,
+          2.18,
+          3.12,
+          3.2,
+          2.47
+        ],
+        "DesvioDeNotas": 0.44300790060674977,
+        "MediaDeNotas": 8.427999999999999,
+        "MediaDeDesvios": 2.6900000000000004,
+        "NotaMediana": 8.4
+      },
+      "FIS0601 - INTRODUCAO A MECANICA": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.49
+      },
+      "FIS0744 - LABORATORIO BASICO DE ONDAS E OPTICA": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.69
+      },
+      "FIS0311 - MECANICA CLASSICA": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.49
+      }
+    },
+    "DesvioDeNotas": 0.6515834079379247,
+    "MediaDeNotas": 8.851249999999999,
+    "MediaDeDesvios": 2.1575,
+    "NotaMediana": 8.93
+  },
+  "PRISCILA VALDENIA DOS SANTOS": {
+    "Notas": [
+      8.92,
+      9.24,
+      9.45,
+      9.48,
+      9.84,
+      9.87
+    ],
+    "Desvios": [
+      1.36,
+      1.45,
+      1.19,
+      0.52,
+      1.47,
+      1.1
+    ],
+    "Componentes": {
+      "FIS0315 - FISICA EXPERIMENTAL I": {
+        "Notas": [
+          8.92,
+          9.24,
+          9.45,
+          9.48,
+          9.87
+        ],
+        "Desvios": [
+          1.36,
+          1.45,
+          1.19,
+          0.52,
+          1.47
+        ],
+        "DesvioDeNotas": 0.31160231064611804,
+        "MediaDeNotas": 9.392,
+        "MediaDeDesvios": 1.198,
+        "NotaMediana": 9.45
+      },
+      "FIS0741 - LABORATORIO BASICO DE MECANICA": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.329831606867639,
+    "MediaDeNotas": 9.466666666666667,
+    "MediaDeDesvios": 1.1816666666666666,
+    "NotaMediana": 9.48
+  },
+  "SAMURAÍ GOMES DE AGUIAR BRITO": {
+    "Notas": [
+      9.45
+    ],
+    "Desvios": [
+      1.29
+    ],
+    "Componentes": {
+      "FIS0801 - FÍSICA GERAL I": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.45
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.45,
+    "MediaDeDesvios": 1.29,
+    "NotaMediana": 9.45
+  }
+}

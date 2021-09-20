@@ -1,0 +1,1761 @@
+{
+  "ARQ0035 - PROJETO INTEGRADO 03": {
+    "Notas": [
+      8.72,
+      8.8,
+      8.87,
+      8.92,
+      9.05,
+      9.12,
+      9.16,
+      9.2,
+      9.23,
+      9.23,
+      9.27,
+      9.28,
+      9.32,
+      9.38,
+      9.38,
+      9.45,
+      9.46,
+      9.47,
+      9.52,
+      9.55,
+      9.66,
+      9.69,
+      9.76,
+      9.82,
+      9.86,
+      9.9
+    ],
+    "Desvios": [
+      0.97,
+      0.95,
+      0.41,
+      0.93,
+      1.52,
+      0.99,
+      1.38,
+      1.6,
+      1.71,
+      1.71,
+      1.37,
+      1.09,
+      1.31,
+      1.54,
+      1.06,
+      1.59,
+      2.06,
+      1.8,
+      1.3,
+      1.65,
+      1.69,
+      1.31,
+      1.09,
+      1.14,
+      1.12,
+      1.26
+    ],
+    "Docentes": [
+      "ADRIANA CARLA DE AZEVEDO BORBA",
+      "ALDOMAR PEDRINI",
+      "AMIRIA BEZERRA BRASIL",
+      "EUNADIA SILVA CAVALCANTE",
+      "JOSE CLEWTON DO NASCIMENTO",
+      "PAULO JOSE LISBOA NOBRE",
+      "VERONICA MARIA FERNANDES DE LIMA",
+      "RENATO DE MEDEIROS",
+      "EUGENIO MARIANO FONSECA DE MEDEIROS",
+      "EDNA MOURA PINTO"
+    ],
+    "DesvioDeNotas": 0.31790573013778445,
+    "MediaDeNotas": 9.348846153846155,
+    "MediaDeDesvios": 1.3288461538461538,
+    "NotaMediana": 9.38
+  },
+  "ARQ0036 - PROJETO INTEGRADO 05": {
+    "Notas": [
+      8.13,
+      8.57,
+      8.74,
+      8.93,
+      9.07,
+      9.09,
+      9.13,
+      9.15,
+      9.23,
+      9.24,
+      9.3,
+      9.31,
+      9.32,
+      9.32,
+      9.38,
+      9.38,
+      9.4,
+      9.5,
+      9.53,
+      9.54,
+      9.74
+    ],
+    "Desvios": [
+      1.14,
+      1.38,
+      1.37,
+      2,
+      2.38,
+      1.25,
+      1.06,
+      1.04,
+      1.56,
+      1.68,
+      1.23,
+      1.41,
+      1.24,
+      1.49,
+      1.76,
+      1.24,
+      1.12,
+      1.19,
+      1.11,
+      1.35,
+      0.95
+    ],
+    "Docentes": [
+      "ADRIANA CARLA DE AZEVEDO BORBA",
+      "BIANCA CARLA DANTAS DE ARAUJO",
+      "HELIO TAKASHI MACIEL DE FARIAS",
+      "MAISA FERNANDES DUTRA VELOSO",
+      "PAULO JOSE LISBOA NOBRE",
+      "RUTH MARIA DA COSTA ATAIDE",
+      "FRANCISCO DA ROCHA BEZERRA JUNIOR",
+      "EUNADIA SILVA CAVALCANTE"
+    ],
+    "DesvioDeNotas": 0.3535598042020504,
+    "MediaDeNotas": 9.190476190476192,
+    "MediaDeDesvios": 1.3785714285714286,
+    "NotaMediana": 9.3
+  },
+  "ARQ0013 - CONFORTO AMBIENTAL 01": {
+    "Notas": [
+      8.99,
+      9.1,
+      9.16,
+      9.3
+    ],
+    "Desvios": [
+      1.78,
+      1.77,
+      1.97,
+      1.71
+    ],
+    "Docentes": [
+      "ALDOMAR PEDRINI"
+    ],
+    "DesvioDeNotas": 0.11188722000300147,
+    "MediaDeNotas": 9.137500000000001,
+    "MediaDeDesvios": 1.8074999999999999,
+    "NotaMediana": 9.16
+  },
+  "ARQ0565 - CONFORTO AMBIENTAL 02": {
+    "Notas": [
+      8.66,
+      8.97,
+      9.14,
+      9.22
+    ],
+    "Desvios": [
+      1.77,
+      1.66,
+      2.22,
+      1.71
+    ],
+    "Docentes": [
+      "ALDOMAR PEDRINI"
+    ],
+    "DesvioDeNotas": 0.21475276482504266,
+    "MediaDeNotas": 8.9975,
+    "MediaDeDesvios": 1.84,
+    "NotaMediana": 9.14
+  },
+  "ARQ0037 - ATELIER INTEGRADO DE ARQUITETURA E URBANISMO": {
+    "Notas": [
+      7.26,
+      7.45,
+      7.82,
+      8.59,
+      8.91,
+      8.95,
+      9.19,
+      9.25,
+      9.32,
+      9.32,
+      9.33,
+      9.34,
+      9.62
+    ],
+    "Desvios": [
+      1.14,
+      1.45,
+      1.96,
+      1.8,
+      1.63,
+      1.5,
+      1.52,
+      2.86,
+      1.88,
+      2.74,
+      1.43,
+      1.76,
+      1.38
+    ],
+    "Docentes": [
+      "AMADJA HENRIQUE BORGES",
+      "EMANUEL RAMOS CAVALCANTI",
+      "FABRICIO LIRA BARBOSA",
+      "RUBENILSON BRAZAO TEIXEIRA",
+      "HEITOR DE ANDRADE SILVA",
+      "EDNA MOURA PINTO"
+    ],
+    "DesvioDeNotas": 0.7531118873002199,
+    "MediaDeNotas": 8.796153846153846,
+    "MediaDeDesvios": 1.7730769230769228,
+    "NotaMediana": 9.19
+  },
+  "ARQ0533 - PLANEJAMENTO E PROJETO URB. E REGIONAL 01": {
+    "Notas": [
+      9.64,
+      9.77,
+      9.79,
+      9.82
+    ],
+    "Desvios": [
+      0.94,
+      1.4,
+      0.93,
+      1.15
+    ],
+    "Docentes": [
+      "AMIRIA BEZERRA BRASIL"
+    ],
+    "DesvioDeNotas": 0.0687386354243373,
+    "MediaDeNotas": 9.754999999999999,
+    "MediaDeDesvios": 1.105,
+    "NotaMediana": 9.79
+  },
+  "ARQ0544 - PLANEJAMENTO E PROJETO URB. E REGIONAL 02": {
+    "Notas": [
+      9.64,
+      9.74,
+      9.81,
+      9.86
+    ],
+    "Desvios": [
+      1.12,
+      0.69,
+      1.04,
+      1.01
+    ],
+    "Docentes": [
+      "AMIRIA BEZERRA BRASIL"
+    ],
+    "DesvioDeNotas": 0.0825757228245684,
+    "MediaDeNotas": 9.762500000000001,
+    "MediaDeDesvios": 0.9650000000000001,
+    "NotaMediana": 9.81
+  },
+  "ARQ0563 - PLANEJAMENTO E PROJETO URBANO E REGIONAL 04": {
+    "Notas": [
+      5.65,
+      7.69,
+      9.68,
+      9.74,
+      9.79
+    ],
+    "Desvios": [
+      1.03,
+      1.12,
+      1.08,
+      2.95,
+      1.84
+    ],
+    "Docentes": [
+      "AMIRIA BEZERRA BRASIL",
+      "RICARDO DE SOUSA MORETTI",
+      "GIOVANA PAIVA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 1.635371517423487,
+    "MediaDeNotas": 8.51,
+    "MediaDeDesvios": 1.6040000000000003,
+    "NotaMediana": 9.68
+  },
+  "ARQ0582 - PLANEJAMENTO E PROJETO URBANO E REGIONAL 06": {
+    "Notas": [
+      9.07,
+      9.63,
+      9.65,
+      9.65,
+      9.66,
+      9.79,
+      9.88
+    ],
+    "Desvios": [
+      2.02,
+      0.95,
+      1.31,
+      0.84,
+      1.08,
+      0.71,
+      0.91
+    ],
+    "Docentes": [
+      "ANGELA LUCIA DE ARAUJO FERREIRA",
+      "MARIA DULCE PICANÇO BENTES SOBRINHA"
+    ],
+    "DesvioDeNotas": 0.23978732073167142,
+    "MediaDeNotas": 9.618571428571428,
+    "MediaDeDesvios": 1.117142857142857,
+    "NotaMediana": 9.65
+  },
+  "ARQ0023 - CONFORTO AMBIENTAL 3": {
+    "Notas": [
+      9.3,
+      9.32,
+      9.35,
+      9.59
+    ],
+    "Desvios": [
+      1.24,
+      1.1,
+      1.67,
+      1.28
+    ],
+    "Docentes": [
+      "BIANCA CARLA DANTAS DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.11683321445547902,
+    "MediaDeNotas": 9.39,
+    "MediaDeDesvios": 1.3225,
+    "NotaMediana": 9.35
+  },
+  "ARQ0545 - HISTORIA E TEORIA DA ARQUITETURA E URB. 02": {
+    "Notas": [
+      8.99,
+      9.23,
+      9.53,
+      9.61,
+      9.62
+    ],
+    "Desvios": [
+      1.9,
+      1.1,
+      1.74,
+      1.14,
+      0.86
+    ],
+    "Docentes": [
+      "EDJA BEZERRA FARIA TRIGUEIRO",
+      "EUGENIO MARIANO FONSECA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.24751565607047926,
+    "MediaDeNotas": 9.395999999999999,
+    "MediaDeDesvios": 1.348,
+    "NotaMediana": 9.53
+  },
+  "ARQ0536 - TECNOLOGIA DA CONSTRUCAO 02": {
+    "Notas": [
+      8.18,
+      8.4,
+      8.75,
+      9.11
+    ],
+    "Desvios": [
+      1.31,
+      2.27,
+      2.55,
+      1.82
+    ],
+    "Docentes": [
+      "ELTON CORTES ROCHA SIQUEIRA FILHO",
+      "JOSE JEFFERSON DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.3530580688781944,
+    "MediaDeNotas": 8.61,
+    "MediaDeDesvios": 1.9875,
+    "NotaMediana": 8.75
+  },
+  "ARQ0584 - TECNOLOGIA DA CONSTRUCAO 03": {
+    "Notas": [
+      6.66,
+      7.32,
+      9.36,
+      9.43
+    ],
+    "Desvios": [
+      1.26,
+      1.46,
+      3,
+      1.9
+    ],
+    "Docentes": [
+      "ELTON CORTES ROCHA SIQUEIRA FILHO",
+      "JOSE JEFFERSON DE SOUSA"
+    ],
+    "DesvioDeNotas": 1.2251811090610234,
+    "MediaDeNotas": 8.192499999999999,
+    "MediaDeDesvios": 1.9049999999999998,
+    "NotaMediana": 9.36
+  },
+  "ARQ0527 - TECNOLOGIA DA CONSTRUÇÃO 01": {
+    "Notas": [
+      7.82,
+      8.02,
+      8.52,
+      8.57
+    ],
+    "Desvios": [
+      1.82,
+      2.03,
+      2.25,
+      1.96
+    ],
+    "Docentes": [
+      "ELTON CORTES ROCHA SIQUEIRA FILHO",
+      "JOSE JEFFERSON DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.3208874413248359,
+    "MediaDeNotas": 8.2325,
+    "MediaDeDesvios": 2.0149999999999997,
+    "NotaMediana": 8.52
+  },
+  "ARQ0510 - INTRODUÇÃO À ARQUITETURA E AO URBANISMO": {
+    "Notas": [
+      8.87,
+      9,
+      9.02,
+      9.2,
+      9.45,
+      9.63,
+      9.77
+    ],
+    "Desvios": [
+      2.62,
+      2.57,
+      2.44,
+      2.32,
+      1.6,
+      1.53,
+      1.61
+    ],
+    "Docentes": [
+      "EMANUEL RAMOS CAVALCANTI",
+      "GEORGE ALEXANDRE FERREIRA DANTAS",
+      "AMADJA HENRIQUE BORGES",
+      "AMIRIA BEZERRA BRASIL",
+      "GIOVANA PAIVA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.31891397343010813,
+    "MediaDeNotas": 9.277142857142858,
+    "MediaDeDesvios": 2.0985714285714283,
+    "NotaMediana": 9.2
+  },
+  "ARQ0276 - ARTE NA AMERICA PRE-COLOMBINA": {
+    "Notas": [
+      9.23,
+      9.66
+    ],
+    "Desvios": [
+      1.52,
+      1.68
+    ],
+    "Docentes": [
+      "EUGENIO MARIANO FONSECA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.21499999999999986,
+    "MediaDeNotas": 9.445,
+    "MediaDeDesvios": 1.6,
+    "NotaMediana": 9.66
+  },
+  "ARQ0256 - ECOLOGIA URBANA": {
+    "Notas": [
+      9.62,
+      9.73
+    ],
+    "Desvios": [
+      1.17,
+      1.25
+    ],
+    "Docentes": [
+      "EUGENIO MARIANO FONSECA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.055000000000000604,
+    "MediaDeNotas": 9.675,
+    "MediaDeDesvios": 1.21,
+    "NotaMediana": 9.73
+  },
+  "ARQ0526 - ESTETICA E HISTORIA DAS ARTES 02": {
+    "Notas": [
+      9.32,
+      9.65,
+      9.68,
+      9.72
+    ],
+    "Desvios": [
+      1.83,
+      1.44,
+      1.96,
+      1.37
+    ],
+    "Docentes": [
+      "EUGENIO MARIANO FONSECA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.15927570436196475,
+    "MediaDeNotas": 9.5925,
+    "MediaDeDesvios": 1.6500000000000001,
+    "NotaMediana": 9.68
+  },
+  "ARQ0562 - PLANEJAMENTO DA PAISAGEM 02": {
+    "Notas": [
+      8.24,
+      8.87,
+      9.3,
+      9.35
+    ],
+    "Desvios": [
+      2.04,
+      1.19,
+      2.28,
+      1.43
+    ],
+    "Docentes": [
+      "EUGENIO MARIANO FONSECA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.4451404272810997,
+    "MediaDeNotas": 8.940000000000001,
+    "MediaDeDesvios": 1.7349999999999999,
+    "NotaMediana": 9.3
+  },
+  "ARQ0007 - INTRODUÇÃO AO TRABALHO FINAL DE GRADUAÇÃO I": {
+    "Notas": [
+      8.88,
+      8.88,
+      9.04,
+      9.13,
+      9.45,
+      9.61,
+      9.69,
+      9.7,
+      9.8
+    ],
+    "Desvios": [
+      0.94,
+      0.95,
+      1.23,
+      0.8,
+      1.29,
+      1.02,
+      1.14,
+      1.35,
+      1.66
+    ],
+    "Docentes": [
+      "EUNADIA SILVA CAVALCANTE",
+      "RUTH MARIA DA COSTA ATAIDE",
+      "VERONICA MARIA FERNANDES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.35030145747785707,
+    "MediaDeNotas": 9.353333333333333,
+    "MediaDeDesvios": 1.1533333333333333,
+    "NotaMediana": 9.45
+  },
+  "ARQ0546 - FUNDAMENTOS AMBIENTAIS": {
+    "Notas": [
+      8.82,
+      9.6,
+      9.79,
+      9.79
+    ],
+    "Desvios": [
+      1.93,
+      0.83,
+      1.3,
+      1.19
+    ],
+    "Docentes": [
+      "FABRICIO LIRA BARBOSA",
+      "VIRGINIA MARIA DANTAS DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.40018745607527434,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.3125,
+    "NotaMediana": 9.79
+  },
+  "ARQ0530 - INTRODUÇÃO AO DESENHO COMPUTACIONAL": {
+    "Notas": [
+      9,
+      9.02,
+      9.09,
+      9.34,
+      9.44,
+      9.64,
+      9.78,
+      9.84,
+      9.85
+    ],
+    "Desvios": [
+      1.96,
+      1.97,
+      1.68,
+      1.33,
+      1.67,
+      2.53,
+      1.88,
+      1.49,
+      1.6
+    ],
+    "Docentes": [
+      "FABRICIO LIRA BARBOSA",
+      "VERNER MAX LIGER DE MELLO MONTEIRO",
+      "SANDRA ALBINO RIBEIRO",
+      "FRANCISCO DA ROCHA BEZERRA JUNIOR",
+      "LEILA ARAUJO GUILHERMINO FERNANDES"
+    ],
+    "DesvioDeNotas": 0.33099550554555573,
+    "MediaDeNotas": 9.444444444444445,
+    "MediaDeDesvios": 1.79,
+    "NotaMediana": 9.44
+  },
+  "ARQ0525 - FUNDAMENTOS SOCIAIS DA ARQUITETURA E URBANISMO": {
+    "Notas": [
+      8.78,
+      9.24,
+      9.26,
+      9.55,
+      9.75
+    ],
+    "Desvios": [
+      1.68,
+      1.38,
+      1.82,
+      1.76,
+      1.51
+    ],
+    "Docentes": [
+      "FRANCOISE DOMINIQUE VALERY",
+      "GIOVANA PAIVA DE OLIVEIRA",
+      "VERONICA MARIA FERNANDES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.3284265519107738,
+    "MediaDeNotas": 9.315999999999999,
+    "MediaDeDesvios": 1.6300000000000001,
+    "NotaMediana": 9.26
+  },
+  "ARQ0515 - METODOS E TECNICAS": {
+    "Notas": [
+      8.96,
+      9.52,
+      9.54,
+      9.77
+    ],
+    "Desvios": [
+      2.27,
+      1.7,
+      1.77,
+      1.45
+    ],
+    "Docentes": [
+      "FRANCOISE DOMINIQUE VALERY",
+      "AMIRIA BEZERRA BRASIL"
+    ],
+    "DesvioDeNotas": 0.2981086211433672,
+    "MediaDeNotas": 9.4475,
+    "MediaDeDesvios": 1.7975,
+    "NotaMediana": 9.54
+  },
+  "ARQ0265 - TOPICOS ESPECIAIS EM ARQUITETURA E URBANISMO 01": {
+    "Notas": [
+      9.59,
+      9.7,
+      9.82
+    ],
+    "Desvios": [
+      1.37,
+      1.49,
+      1.33
+    ],
+    "Docentes": [
+      "FRANCOISE DOMINIQUE VALERY",
+      "GEORGE ALEXANDRE FERREIRA DANTAS"
+    ],
+    "DesvioDeNotas": 0.09392668535736932,
+    "MediaDeNotas": 9.703333333333333,
+    "MediaDeDesvios": 1.3966666666666667,
+    "NotaMediana": 9.7
+  },
+  "ARQ0564 - HISTORIA E TEORIA DA ARQUITETURA E URBANISMO 04": {
+    "Notas": [
+      9.12,
+      9.23,
+      9.28,
+      9.38,
+      9.57
+    ],
+    "Desvios": [
+      1.78,
+      1.18,
+      1.96,
+      1.63,
+      1.6
+    ],
+    "Docentes": [
+      "GEORGE ALEXANDRE FERREIRA DANTAS",
+      "JOSE CLEWTON DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.15213152204589325,
+    "MediaDeNotas": 9.315999999999999,
+    "MediaDeDesvios": 1.6300000000000001,
+    "NotaMediana": 9.28
+  },
+  "ARQ0531 - COMUNICACAO VISUAL": {
+    "Notas": [
+      9.14,
+      9.49,
+      9.71,
+      9.71,
+      9.77
+    ],
+    "Desvios": [
+      1.03,
+      1.52,
+      1.89,
+      1.03,
+      1.08
+    ],
+    "Docentes": [
+      "GLAUCE LILIAN ALVES DE ALBUQUERQUE",
+      "FRANCISCO DA ROCHA BEZERRA JUNIOR"
+    ],
+    "DesvioDeNotas": 0.23251666606933785,
+    "MediaDeNotas": 9.564,
+    "MediaDeDesvios": 1.31,
+    "NotaMediana": 9.71
+  },
+  "ARQ0532 - PROJETO DE ARQUITETURA 01": {
+    "Notas": [
+      8.41,
+      9.37,
+      9.59,
+      9.78
+    ],
+    "Desvios": [
+      0.89,
+      1.26,
+      2.33,
+      1.4
+    ],
+    "Docentes": [
+      "GLAUCE LILIAN ALVES DE ALBUQUERQUE",
+      "RUBENILSON BRAZAO TEIXEIRA"
+    ],
+    "DesvioDeNotas": 0.5269902750525854,
+    "MediaDeNotas": 9.2875,
+    "MediaDeDesvios": 1.4700000000000002,
+    "NotaMediana": 9.59
+  },
+  "ARQ0514 - ESPACO E FORMA 01": {
+    "Notas": [
+      9.02,
+      9.48,
+      9.66,
+      9.81
+    ],
+    "Desvios": [
+      1.95,
+      1.39,
+      1.36,
+      1.62
+    ],
+    "Docentes": [
+      "GLEICE VIRGINIA MEDEIROS DE AZAMBUJA ELALI",
+      "LEILA ARAUJO GUILHERMINO FERNANDES"
+    ],
+    "DesvioDeNotas": 0.2967637949615825,
+    "MediaDeNotas": 9.4925,
+    "MediaDeDesvios": 1.58,
+    "NotaMediana": 9.66
+  },
+  "ARQ0543 - PSICOLOGIA AMBIENTAL 01": {
+    "Notas": [
+      9.27,
+      9.57,
+      9.76,
+      9.82,
+      9.82
+    ],
+    "Desvios": [
+      1.52,
+      0.82,
+      1.13,
+      0.86,
+      0.84
+    ],
+    "Docentes": [
+      "GLEICE VIRGINIA MEDEIROS DE AZAMBUJA ELALI",
+      "LUCIANA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.21008569680013933,
+    "MediaDeNotas": 9.648,
+    "MediaDeDesvios": 1.034,
+    "NotaMediana": 9.76
+  },
+  "ARQ0542 - PROJETO DE ARQUITETURA 02": {
+    "Notas": [
+      8.71,
+      9.24,
+      9.59,
+      9.81
+    ],
+    "Desvios": [
+      2.05,
+      1.06,
+      1.01,
+      1.29
+    ],
+    "Docentes": [
+      "HEITOR DE ANDRADE SILVA",
+      "FABRICIO LIRA BARBOSA",
+      "FERNANDO JOSE DE MEDEIROS COSTA"
+    ],
+    "DesvioDeNotas": 0.41541395017500293,
+    "MediaDeNotas": 9.3375,
+    "MediaDeDesvios": 1.3525,
+    "NotaMediana": 9.59
+  },
+  "ARQ0541 - DESENHO AUXILIADO POR COMPUTADOR 01": {
+    "Notas": [
+      9.46,
+      9.65,
+      9.65,
+      9.84
+    ],
+    "Desvios": [
+      1.56,
+      1.76,
+      1.58,
+      0.95
+    ],
+    "Docentes": [
+      "HELIO TAKASHI MACIEL DE FARIAS",
+      "JOSE AURELIANO DE SOUZA FILHO"
+    ],
+    "DesvioDeNotas": 0.1343502884254437,
+    "MediaDeNotas": 9.649999999999999,
+    "MediaDeDesvios": 1.4625000000000001,
+    "NotaMediana": 9.65
+  },
+  "ARQ0020 - DETALHES DE REPRESENTAÇÃO GRÁFICA EM ARQUITETURA E URBANISMO": {
+    "Notas": [
+      9.31,
+      9.55,
+      9.59,
+      9.6
+    ],
+    "Desvios": [
+      1.2,
+      1.2,
+      1.63,
+      1.49
+    ],
+    "Docentes": [
+      "HELIO TAKASHI MACIEL DE FARIAS",
+      "EUNADIA SILVA CAVALCANTE"
+    ],
+    "DesvioDeNotas": 0.11840080236214592,
+    "MediaDeNotas": 9.5125,
+    "MediaDeDesvios": 1.38,
+    "NotaMediana": 9.59
+  },
+  "ARQ0030 - EXPRESSAO GRAFICA": {
+    "Notas": [
+      8.84,
+      8.95,
+      9.09,
+      9.3,
+      9.31,
+      9.32,
+      9.35,
+      9.37,
+      9.38,
+      9.41,
+      9.43,
+      9.55,
+      9.56,
+      9.58,
+      9.62,
+      9.62,
+      9.65,
+      9.7,
+      9.7,
+      9.75,
+      9.77,
+      9.77,
+      9.78,
+      9.8,
+      9.85
+    ],
+    "Desvios": [
+      2.21,
+      1.79,
+      2.32,
+      1.9,
+      1.73,
+      1.1,
+      2.09,
+      1.99,
+      1.14,
+      1.81,
+      1.86,
+      1.94,
+      1.9,
+      1.49,
+      1.82,
+      1.7,
+      1.35,
+      1.82,
+      1.82,
+      1.58,
+      1.39,
+      1.47,
+      2.03,
+      1.25,
+      1.65
+    ],
+    "Docentes": [
+      "HELIO TAKASHI MACIEL DE FARIAS",
+      "MONICA MARIA FERNANDES DE LIMA",
+      "SANDRA ALBINO RIBEIRO",
+      "ADRIANA CARLA DE AZEVEDO BORBA",
+      "FABRICIO LIRA BARBOSA",
+      "MARCELA DE MELO GERMANO DA SILVA JANKOVIC",
+      "JOSE AURELIANO DE SOUZA FILHO",
+      "VERNER MAX LIGER DE MELLO MONTEIRO"
+    ],
+    "DesvioDeNotas": 0.2626328235388714,
+    "MediaDeNotas": 9.498000000000001,
+    "MediaDeDesvios": 1.7259999999999998,
+    "NotaMediana": 9.56
+  },
+  "ARQ0512 - DESENHO ARTISTICO 01": {
+    "Notas": [
+      9.11,
+      9.32,
+      9.36,
+      9.44
+    ],
+    "Desvios": [
+      2.49,
+      1.68,
+      1.78,
+      1.58
+    ],
+    "Docentes": [
+      "JESONIAS DA SILVA OLIVEIRA",
+      "JOSE AURELIANO DE SOUZA FILHO"
+    ],
+    "DesvioDeNotas": 0.12193748398257202,
+    "MediaDeNotas": 9.3075,
+    "MediaDeDesvios": 1.8825,
+    "NotaMediana": 9.36
+  },
+  "ARQ0523 - DESENHO DE ARQUITETURA 02": {
+    "Notas": [
+      9.79,
+      9.8,
+      9.86,
+      9.92
+    ],
+    "Desvios": [
+      1.48,
+      1.11,
+      1.05,
+      1.2
+    ],
+    "Docentes": [
+      "JESONIAS DA SILVA OLIVEIRA",
+      "VERNER MAX LIGER DE MELLO MONTEIRO",
+      "JOSE AURELIANO DE SOUZA FILHO"
+    ],
+    "DesvioDeNotas": 0.052141634036535524,
+    "MediaDeNotas": 9.842500000000001,
+    "MediaDeDesvios": 1.21,
+    "NotaMediana": 9.86
+  },
+  "ARQ0521 - GEOMETRIA GRAFICA 02": {
+    "Notas": [
+      9.35,
+      9.63,
+      9.76,
+      9.78
+    ],
+    "Desvios": [
+      1.56,
+      1.62,
+      1.11,
+      1.3
+    ],
+    "Docentes": [
+      "JESONIAS DA SILVA OLIVEIRA",
+      "MONICA MARIA FERNANDES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.1716100230173051,
+    "MediaDeNotas": 9.63,
+    "MediaDeDesvios": 1.3975,
+    "NotaMediana": 9.76
+  },
+  "ARQ0522 - DESENHO ARTISTICO 02": {
+    "Notas": [
+      8.62,
+      9.39,
+      9.61,
+      9.65,
+      9.77
+    ],
+    "Desvios": [
+      1.55,
+      1.47,
+      1.6,
+      1.63,
+      2.1
+    ],
+    "Docentes": [
+      "JOSE CLEWTON DO NASCIMENTO",
+      "VERNER MAX LIGER DE MELLO MONTEIRO",
+      "JOSE AURELIANO DE SOUZA FILHO",
+      "MARIZO VITOR PEREIRA"
+    ],
+    "DesvioDeNotas": 0.41271782127744394,
+    "MediaDeNotas": 9.408,
+    "MediaDeDesvios": 1.67,
+    "NotaMediana": 9.61
+  },
+  "ARQ0534 - HISTORIA E TEORIA DA ARQUITETURA E URB. 01": {
+    "Notas": [
+      9.49,
+      9.51,
+      9.54,
+      9.57,
+      9.75
+    ],
+    "Desvios": [
+      1.24,
+      1.2,
+      1.32,
+      1.49,
+      1.27
+    ],
+    "Docentes": [
+      "JOSE CLEWTON DO NASCIMENTO",
+      "ADRIANA CARLA DE AZEVEDO BORBA"
+    ],
+    "DesvioDeNotas": 0.09303762679690411,
+    "MediaDeNotas": 9.572,
+    "MediaDeDesvios": 1.3039999999999998,
+    "NotaMediana": 9.54
+  },
+  "ARQ0250 - ARQUITETURA DE INTERIORES I": {
+    "Notas": [
+      9.84,
+      9.85
+    ],
+    "Desvios": [
+      1.12,
+      1.24
+    ],
+    "Docentes": [
+      "LUCIANA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.004999999999999893,
+    "MediaDeNotas": 9.844999999999999,
+    "MediaDeDesvios": 1.1800000000000002,
+    "NotaMediana": 9.85
+  },
+  "ARQ0513 - DESENHO DE ARQUITETURA 01": {
+    "Notas": [
+      8.77,
+      9.41,
+      9.81,
+      9.83
+    ],
+    "Desvios": [
+      2.02,
+      1.23,
+      1.75,
+      1.64
+    ],
+    "Docentes": [
+      "LUCIANA DE MEDEIROS",
+      "GIOVANA PAIVA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.4295055296500852,
+    "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 1.66,
+    "NotaMediana": 9.81
+  },
+  "ARQ0581 - PROJETO DE ARQUITETURA 06": {
+    "Notas": [
+      10,
+      9.57,
+      9.9,
+      9.95,
+      9.96
+    ],
+    "Desvios": [
+      1,
+      0.81,
+      0.84,
+      0.84,
+      0.64
+    ],
+    "Docentes": [
+      "LUCIANA DE MEDEIROS",
+      "GLEICE VIRGINIA MEDEIROS DE AZAMBUJA ELALI"
+    ],
+    "DesvioDeNotas": 0.15628179676469034,
+    "MediaDeNotas": 9.876,
+    "MediaDeDesvios": 0.826,
+    "NotaMediana": 9.9
+  },
+  "ARQ0010 - ESTRUTURAS": {
+    "Notas": [
+      9,
+      9.11,
+      9.12,
+      9.26,
+      9.28
+    ],
+    "Desvios": [
+      1.8,
+      1.38,
+      1.47,
+      1.47,
+      1.36
+    ],
+    "Docentes": [
+      "MARCELA DE MELO GERMANO DA SILVA JANKOVIC",
+      "EDNA MOURA PINTO"
+    ],
+    "DesvioDeNotas": 0.10384603988597725,
+    "MediaDeNotas": 9.154,
+    "MediaDeDesvios": 1.496,
+    "NotaMediana": 9.12
+  },
+  "ARQ0548 - FUNDAMENTOS DAS ESTRUTURAS 02": {
+    "Notas": [
+      8.5,
+      8.5,
+      9.11,
+      9.21,
+      9.34
+    ],
+    "Desvios": [
+      2.25,
+      1.64,
+      1.43,
+      1.54,
+      1.38
+    ],
+    "Docentes": [
+      "MARCELA DE MELO GERMANO DA SILVA JANKOVIC",
+      "EDNA MOURA PINTO"
+    ],
+    "DesvioDeNotas": 0.36018883936068874,
+    "MediaDeNotas": 8.932,
+    "MediaDeDesvios": 1.6479999999999997,
+    "NotaMediana": 9.11
+  },
+  "ARQ0583 - PRATICA PROFISSIONAL": {
+    "Notas": [
+      6.9,
+      9.25,
+      9.37,
+      9.61,
+      9.74
+    ],
+    "Desvios": [
+      1.7,
+      1.26,
+      1.53,
+      2.67,
+      1.47
+    ],
+    "Docentes": [
+      "MARCELA DE MELO GERMANO DA SILVA JANKOVIC",
+      "ADRIANA CARLA DE AZEVEDO BORBA",
+      "JOSE AURELIANO DE SOUZA FILHO",
+      "JOSE JEFFERSON DE SOUSA",
+      "FERNANDO JOSE DE MEDEIROS COSTA"
+    ],
+    "DesvioDeNotas": 1.0512582936652626,
+    "MediaDeNotas": 8.974,
+    "MediaDeDesvios": 1.7260000000000002,
+    "NotaMediana": 9.37
+  },
+  "ARQ0260 - CULTURA BRASILEIRA": {
+    "Notas": [
+      9.77
+    ],
+    "Desvios": [
+      1.24
+    ],
+    "Docentes": [
+      "MARIZO VITOR PEREIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.24,
+    "NotaMediana": 9.77
+  },
+  "ARQ0516 - ESTETICA E HISTORIA DAS ARTES 01": {
+    "Notas": [
+      8.03,
+      8.39,
+      8.77,
+      8.9
+    ],
+    "Desvios": [
+      2.86,
+      2.11,
+      2.6,
+      1.99
+    ],
+    "Docentes": [
+      "MARIZO VITOR PEREIRA"
+    ],
+    "DesvioDeNotas": 0.34054184764871426,
+    "MediaDeNotas": 8.5225,
+    "MediaDeDesvios": 2.39,
+    "NotaMediana": 8.77
+  },
+  "ARQ0012 - HISTORIA E TEORIA DA ARQUITETURA E URBANISMO 03": {
+    "Notas": [
+      6.92,
+      7.47,
+      8.31,
+      9.34
+    ],
+    "Desvios": [
+      3.09,
+      2.56,
+      3.22,
+      1.73
+    ],
+    "Docentes": [
+      "MARIZO VITOR PEREIRA",
+      "GEORGE ALEXANDRE FERREIRA DANTAS"
+    ],
+    "DesvioDeNotas": 0.9135918125727704,
+    "MediaDeNotas": 8.010000000000002,
+    "MediaDeDesvios": 2.6500000000000004,
+    "NotaMediana": 8.31
+  },
+  "ARQ0511 - GEOMETRIA GRAFICA 01": {
+    "Notas": [
+      9,
+      9.47,
+      9.5,
+      9.71
+    ],
+    "Desvios": [
+      2.46,
+      1.45,
+      1.51,
+      1.49
+    ],
+    "Docentes": [
+      "MONICA MARIA FERNANDES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.25951878544721985,
+    "MediaDeNotas": 9.42,
+    "MediaDeDesvios": 1.7275,
+    "NotaMediana": 9.5
+  },
+  "ARQ0244 - MULTIMEIOS": {
+    "Notas": [
+      8.04,
+      9.18,
+      9.29,
+      9.39
+    ],
+    "Desvios": [
+      2.02,
+      1.67,
+      3.13,
+      1.42
+    ],
+    "Docentes": [
+      "PAULO HEIDER FORTE FEIJO"
+    ],
+    "DesvioDeNotas": 0.5449082491575993,
+    "MediaDeNotas": 8.975,
+    "MediaDeDesvios": 2.06,
+    "NotaMediana": 9.29
+  },
+  "ARQ0025 - PRESERVAÇÃO E TÉCNICAS RETROSPECTIVAS": {
+    "Notas": [
+      7.86,
+      8.47,
+      8.6,
+      9.32
+    ],
+    "Desvios": [
+      2.87,
+      2.49,
+      2.43,
+      1.71
+    ],
+    "Docentes": [
+      "PAULO HEIDER FORTE FEIJO"
+    ],
+    "DesvioDeNotas": 0.5189592951282402,
+    "MediaDeNotas": 8.5625,
+    "MediaDeDesvios": 2.375,
+    "NotaMediana": 8.6
+  },
+  "ARQ0557 - ESTRUTURAS 01": {
+    "Notas": [
+      9.33,
+      9.36,
+      9.47,
+      9.53
+    ],
+    "Desvios": [
+      1.47,
+      1.63,
+      1.46,
+      1.35
+    ],
+    "Docentes": [
+      "PETRUS GORGONIO BULHOES DA NOBREGA"
+    ],
+    "DesvioDeNotas": 0.08104782538723661,
+    "MediaDeNotas": 9.4225,
+    "MediaDeDesvios": 1.4775,
+    "NotaMediana": 9.47
+  },
+  "ARQ0537 - FUNDAMENTOS DAS ESTRUTURAS 01": {
+    "Notas": [
+      8.93,
+      9.03,
+      9.57,
+      9.7
+    ],
+    "Desvios": [
+      1.95,
+      1.6,
+      1.89,
+      1.17
+    ],
+    "Docentes": [
+      "PETRUS GORGONIO BULHOES DA NOBREGA"
+    ],
+    "DesvioDeNotas": 0.33259397168319216,
+    "MediaDeNotas": 9.307500000000001,
+    "MediaDeDesvios": 1.6524999999999999,
+    "NotaMediana": 9.57
+  },
+  "ARQ0524 - ESPAÇO E FORMA 02": {
+    "Notas": [
+      9.77,
+      9.79,
+      9.89,
+      9.94
+    ],
+    "Desvios": [
+      1.36,
+      1.29,
+      1.19,
+      1.1
+    ],
+    "Docentes": [
+      "RENATO DE MEDEIROS",
+      "GLAUCE LILIAN ALVES DE ALBUQUERQUE"
+    ],
+    "DesvioDeNotas": 0.0701338006955279,
+    "MediaDeNotas": 9.8475,
+    "MediaDeDesvios": 1.235,
+    "NotaMediana": 9.89
+  },
+  "ARQ0561 - PROJETO DE ARQUITETURA 04": {
+    "Notas": [
+      9.3,
+      9.72,
+      9.78,
+      9.89
+    ],
+    "Desvios": [
+      0.76,
+      0.91,
+      1.14,
+      1.36
+    ],
+    "Docentes": [
+      "RENATO DE MEDEIROS",
+      "FRANCISCO DA ROCHA BEZERRA JUNIOR",
+      "LEILA ARAUJO GUILHERMINO FERNANDES"
+    ],
+    "DesvioDeNotas": 0.22353690970396792,
+    "MediaDeNotas": 9.6725,
+    "MediaDeDesvios": 1.0425,
+    "NotaMediana": 9.78
+  },
+  "ARQ0547 - INSTALACOES 01": {
+    "Notas": [
+      9.54,
+      9.64,
+      9.69,
+      9.73,
+      9.84
+    ],
+    "Desvios": [
+      1.36,
+      1.03,
+      1.18,
+      1,
+      1.11
+    ],
+    "Docentes": [
+      "SOLANGE VIRGINIA GALARCA GOULART",
+      "EDNA MOURA PINTO"
+    ],
+    "DesvioDeNotas": 0.09907572861200686,
+    "MediaDeNotas": 9.688,
+    "MediaDeDesvios": 1.1360000000000001,
+    "NotaMediana": 9.69
+  },
+  "ARQ0566 - INSTALACOES 02": {
+    "Notas": [
+      9.57,
+      9.59,
+      9.6,
+      9.7
+    ],
+    "Desvios": [
+      1.24,
+      1.07,
+      1.45,
+      1.28
+    ],
+    "Docentes": [
+      "SOLANGE VIRGINIA GALARCA GOULART"
+    ],
+    "DesvioDeNotas": 0.050249378105604134,
+    "MediaDeNotas": 9.615,
+    "MediaDeDesvios": 1.26,
+    "NotaMediana": 9.6
+  },
+  "ARQ0011 - DESENHO AUXILIADO POR COMPUTADOR 02": {
+    "Notas": [
+      9.3,
+      9.72,
+      9.83,
+      9.91
+    ],
+    "Desvios": [
+      0.9,
+      1.13,
+      0.88,
+      1.7
+    ],
+    "Docentes": [
+      "VERNER MAX LIGER DE MELLO MONTEIRO"
+    ],
+    "DesvioDeNotas": 0.23505318547086296,
+    "MediaDeNotas": 9.690000000000001,
+    "MediaDeDesvios": 1.1524999999999999,
+    "NotaMediana": 9.83
+  },
+  "ARQ0002 - DESENHO TECNICO": {
+    "Notas": [
+      7.91,
+      8.73,
+      9.07,
+      9.14,
+      9.18,
+      9.66,
+      9.66,
+      9.67,
+      9.73,
+      9.74,
+      9.76,
+      9.82,
+      9.86,
+      9.92
+    ],
+    "Desvios": [
+      0.87,
+      1.5,
+      1.42,
+      1.01,
+      1.56,
+      1.47,
+      2.22,
+      3.31,
+      1.72,
+      1.39,
+      1.04,
+      1.27,
+      1.81,
+      1.82
+    ],
+    "Docentes": [
+      "VERNER MAX LIGER DE MELLO MONTEIRO",
+      "ADRIANA CARLA DE AZEVEDO BORBA",
+      "JOSE AURELIANO DE SOUZA FILHO",
+      "MONICA MARIA FERNANDES DE LIMA",
+      "LUCIANA DE MEDEIROS",
+      "SANDRA ALBINO RIBEIRO",
+      "FRANCISCO DA ROCHA BEZERRA JUNIOR",
+      "LEILA ARAUJO GUILHERMINO FERNANDES"
+    ],
+    "DesvioDeNotas": 0.5418246760639798,
+    "MediaDeNotas": 9.417857142857143,
+    "MediaDeDesvios": 1.6007142857142855,
+    "NotaMediana": 9.67
+  },
+  "ARQ0258 - ARTE NO EXTREMO ORIENTE": {
+    "Notas": [
+      9.63,
+      9.66
+    ],
+    "Desvios": [
+      1.41,
+      1.41
+    ],
+    "Docentes": [
+      "EUGENIO MARIANO FONSECA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.01499999999999968,
+    "MediaDeNotas": 9.645,
+    "MediaDeDesvios": 1.41,
+    "NotaMediana": 9.66
+  },
+  "ARQ0247 - BOTANICA APLICADA AO MEIO AMBIENTE": {
+    "Notas": [
+      9.27
+    ],
+    "Desvios": [
+      1.97
+    ],
+    "Docentes": [
+      "EUGENIO MARIANO FONSECA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.27,
+    "MediaDeDesvios": 1.97,
+    "NotaMediana": 9.27
+  },
+  "ARQ0266 - TOPICOS ESPECIAIS EM ARQUITETURA E URBANISMO 02": {
+    "Notas": [
+      9.84
+    ],
+    "Desvios": [
+      0.79
+    ],
+    "Docentes": [
+      "EUNADIA SILVA CAVALCANTE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.84,
+    "MediaDeDesvios": 0.79,
+    "NotaMediana": 9.84
+  },
+  "ARQ0267 - TOPICOS ESPECIAIS EM ARQUITETURA E URBANISMO 03": {
+    "Notas": [
+      9.14,
+      9.7,
+      9.74,
+      9.75,
+      9.77
+    ],
+    "Desvios": [
+      1.74,
+      1.85,
+      1.07,
+      1.21,
+      1.01
+    ],
+    "Docentes": [
+      "FRANCOISE DOMINIQUE VALERY",
+      "EDNA MOURA PINTO",
+      "EUGENIO MARIANO FONSECA DE MEDEIROS",
+      "MONICA MARIA FERNANDES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.2410808992848663,
+    "MediaDeNotas": 9.620000000000001,
+    "MediaDeDesvios": 1.376,
+    "NotaMediana": 9.74
+  },
+  "ARQ0274 - DESENVOLVIMENTO DA PERCEPÇÃO E DA CRIATIVIDADE": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.12
+    ],
+    "Docentes": [
+      "GLEICE VIRGINIA MEDEIROS DE AZAMBUJA ELALI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.12,
+    "NotaMediana": 9.66
+  },
+  "ARQ0251 - ARQUITETURA DE INTERIORES II": {
+    "Notas": [
+      9.61,
+      9.66,
+      9.91
+    ],
+    "Desvios": [
+      1.45,
+      1.39,
+      1.04
+    ],
+    "Docentes": [
+      "LUCIANA DE MEDEIROS",
+      "LEILA ARAUJO GUILHERMINO FERNANDES"
+    ],
+    "DesvioDeNotas": 0.13123346456686372,
+    "MediaDeNotas": 9.726666666666667,
+    "MediaDeDesvios": 1.2933333333333332,
+    "NotaMediana": 9.66
+  },
+  "CIV0477 - INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS": {
+    "Notas": [
+      9.06
+    ],
+    "Desvios": [
+      1.39
+    ],
+    "Docentes": [
+      "PETRUS GORGONIO BULHOES DA NOBREGA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.06,
+    "MediaDeDesvios": 1.39,
+    "NotaMediana": 9.06
+  },
+  "DSC0090 - SAUDE E CIDADANIA": {
+    "Notas": [
+      8.84,
+      9.76
+    ],
+    "Desvios": [
+      0.97,
+      2.3
+    ],
+    "Docentes": [
+      "RUTH MARIA DA COSTA ATAIDE",
+      "GIOVANA PAIVA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.45999999999999996,
+    "MediaDeNotas": 9.3,
+    "MediaDeDesvios": 1.6349999999999998,
+    "NotaMediana": 9.76
+  },
+  "ARQ0271 - ASSISTÊNCIA TÉCNICA A HABITAÇÃO DE INTERESSE SOCIAL": {
+    "Notas": [
+      8.82,
+      9.13
+    ],
+    "Desvios": [
+      2.68,
+      2.35
+    ],
+    "Docentes": [
+      "AMADJA HENRIQUE BORGES",
+      "MARIA DULCE PICANÇO BENTES SOBRINHA"
+    ],
+    "DesvioDeNotas": 0.15500000000000025,
+    "MediaDeNotas": 8.975000000000001,
+    "MediaDeDesvios": 2.515,
+    "NotaMediana": 9.13
+  },
+  "ARQ0255 - GESTAO MUNICIPAL E LEGISLACAO URBANISTICA": {
+    "Notas": [
+      9.83
+    ],
+    "Desvios": [
+      1.31
+    ],
+    "Docentes": [
+      "AMIRIA BEZERRA BRASIL"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.83,
+    "MediaDeDesvios": 1.31,
+    "NotaMediana": 9.83
+  },
+  "ARQ0270 - INTRODUÇÃO À MORFOLOGIA": {
+    "Notas": [
+      9.2
+    ],
+    "Desvios": [
+      1.37
+    ],
+    "Docentes": [
+      "EDJA BEZERRA FARIA TRIGUEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.2,
+    "MediaDeDesvios": 1.37,
+    "NotaMediana": 9.2
+  },
+  "ARQ0259 - TENDENCIAS ATUAIS NA ARQUITETURA": {
+    "Notas": [
+      10,
+      10
+    ],
+    "Desvios": [
+      0.75,
+      0.75
+    ],
+    "Docentes": [
+      "GEORGE ALEXANDRE FERREIRA DANTAS",
+      "JOSE CLEWTON DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 10,
+    "MediaDeDesvios": 0.75,
+    "NotaMediana": 10
+  },
+  "ARQ0243 - MAQUETES E PROTOTIPOS": {
+    "Notas": [
+      8.43
+    ],
+    "Desvios": [
+      2.62
+    ],
+    "Docentes": [
+      "PAULO HEIDER FORTE FEIJO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.43,
+    "MediaDeDesvios": 2.62,
+    "NotaMediana": 8.43
+  },
+  "CIV0447 - ANÁLISE MATRICIAL DE ESTRUTURAS": {
+    "Notas": [
+      9.6
+    ],
+    "Desvios": [
+      1.03
+    ],
+    "Docentes": [
+      "PETRUS GORGONIO BULHOES DA NOBREGA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.6,
+    "MediaDeDesvios": 1.03,
+    "NotaMediana": 9.6
+  }
+}

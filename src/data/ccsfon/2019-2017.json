@@ -1,0 +1,1415 @@
+[
+    {
+        "Docente": "ANA MANHANI CACERES ASSENCO",
+        "Componente Curricular": "FON0028 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LEITURA E ESCRITA",
+        "Turma": "01A",
+        "Horário": "5T12345",
+        "Discentes": "33",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "ANA MANHANI CACERES ASSENCO",
+        "Componente Curricular": "FON0092 - FLUÊNCIA DE FALA",
+        "Turma": "1",
+        "Horário": "2M45 (11/02/2019 - 29/06/2019)",
+        "Discentes": "38",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "ANA MANHANI CACERES ASSENCO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "1",
+        "Horário": "2M123 4M12345 5T12345",
+        "Discentes": "7",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "0.71"
+    },
+    {
+        "Docente": "ANA MANHANI CACERES ASSENCO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "2",
+        "Horário": "23M12345 5M123",
+        "Discentes": "7",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.44"
+    },
+    {
+        "Docente": "CINTIA ALVES SALGADO AZONI",
+        "Componente Curricular": "FON0028 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LEITURA E ESCRITA",
+        "Turma": "01A",
+        "Horário": "5T12345",
+        "Discentes": "33",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "CINTIA ALVES SALGADO AZONI",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "5",
+        "Horário": "23T12345 4T123",
+        "Discentes": "6",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "0.69"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "1",
+        "Horário": "2T12345 3T1234",
+        "Discentes": "7",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.61"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "2",
+        "Horário": "2T1234 5T12345",
+        "Discentes": "7",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.24"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "4",
+        "Horário": "2M1234 3M12345",
+        "Discentes": "6",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.53"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0004 - AUDIOLOGIA CLÍNICA IV",
+        "Turma": "01A",
+        "Horário": "6M123456",
+        "Discentes": "35",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "1",
+        "Horário": "2T12345 3T1234",
+        "Discentes": "7",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.73"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "5",
+        "Horário": "5M12345 5T1234",
+        "Discentes": "6",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.74"
+    },
+    {
+        "Docente": "FABIANA CRISTINA MENDONCA DE ARAUJO",
+        "Componente Curricular": "FON0002 - AUDIOLOGIA CLÍNICA II",
+        "Turma": "01A",
+        "Horário": "3M2345 4T12",
+        "Discentes": "24",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "FABIANA CRISTINA MENDONCA DE ARAUJO",
+        "Componente Curricular": "FON0002 - AUDIOLOGIA CLÍNICA II",
+        "Turma": "01B",
+        "Horário": "3M2345 4T34",
+        "Discentes": "8",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "FABIANA CRISTINA MENDONCA DE ARAUJO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "5",
+        "Horário": "5M12345 5T1234",
+        "Discentes": "6",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.77"
+    },
+    {
+        "Docente": "GABRIELA REGINA GONZAGA RABELO",
+        "Componente Curricular": "FON0028 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LEITURA E ESCRITA",
+        "Turma": "01A",
+        "Horário": "5T12345",
+        "Discentes": "33",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "GABRIELA REGINA GONZAGA RABELO",
+        "Componente Curricular": "FON0036 - PRÁTICA CURRICULAR SUPERVISIONADA EM SAÚDE COLETIVA I",
+        "Turma": "4",
+        "Horário": "3M1234",
+        "Discentes": "5",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "GABRIELA REGINA GONZAGA RABELO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "5",
+        "Horário": "23T12345 4T123",
+        "Discentes": "6",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.63"
+    },
+    {
+        "Docente": "HIPOLITO VIRGILIO MAGALHAES JUNIOR",
+        "Componente Curricular": "FON0020 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE MOTRICIDADE OROFACIAL II",
+        "Turma": "01A",
+        "Horário": "5M234",
+        "Discentes": "31",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "HIPOLITO VIRGILIO MAGALHAES JUNIOR",
+        "Componente Curricular": "FON0030 - ATUAÇÃO FONOAUDIOLÓGICA NAS DISFAGIAS",
+        "Turma": "01A",
+        "Horário": "4M234",
+        "Discentes": "32",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "HIPOLITO VIRGILIO MAGALHAES JUNIOR",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "5",
+        "Horário": "23T12345 4T123",
+        "Discentes": "6",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.7"
+    },
+    {
+        "Docente": "HIPOLITO VIRGILIO MAGALHAES JUNIOR",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "6",
+        "Horário": "25T12345 3T123",
+        "Discentes": "6",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "JOSELI SOARES BRAZOROTTO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "2",
+        "Horário": "23M12345 5M123",
+        "Discentes": "7",
+        "Média Geral": "7.74",
+        "Desvio Padrão Geral": "2.34"
+    },
+    {
+        "Docente": "JOSELI SOARES BRAZOROTTO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "3",
+        "Horário": "2M345 5M12345 2T12345",
+        "Discentes": "5",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "0.61"
+    },
+    {
+        "Docente": "JOSELI SOARES BRAZOROTTO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "4",
+        "Horário": "5M12345 2T123 4T12345",
+        "Discentes": "6",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "0.7"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0029 - ATUAÇÃO FONOAUDIOLÓGICA NAS DISARTROFONIAS",
+        "Turma": "01A",
+        "Horário": "2T123",
+        "Discentes": "34",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0021 - ATUAÇÃO FONOAUDIOLÓGICA NO CÂNCER DE CABEÇA E PESCOÇO",
+        "Turma": "01A",
+        "Horário": "2M123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "33",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.89"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "4",
+        "Horário": "5M12345 2T123 4T12345",
+        "Discentes": "6",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "6",
+        "Horário": "25T12345 3T123",
+        "Discentes": "6",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.41"
+    },
+    {
+        "Docente": "MARIA DE JESUS GONCALVES",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "2",
+        "Horário": "23M12345 5M123",
+        "Discentes": "7",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "MARIA DE JESUS GONCALVES",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "3",
+        "Horário": "2M345 5M12345 2T12345",
+        "Discentes": "5",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "MARIA RAQUEL BASILIO SPERI",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "2",
+        "Horário": "2T1234 5T12345",
+        "Discentes": "7",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "MARIA RAQUEL BASILIO SPERI",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "3",
+        "Horário": "3M1234 3T12345",
+        "Discentes": "5",
+        "Média Geral": "8.63",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "MARIA RAQUEL BASILIO SPERI",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "4",
+        "Horário": "2M1234 3M12345",
+        "Discentes": "6",
+        "Média Geral": "8.21",
+        "Desvio Padrão Geral": "2.56"
+    },
+    {
+        "Docente": "MAURICIO WIERING PINTO TELLES",
+        "Componente Curricular": "FON0036 - PRÁTICA CURRICULAR SUPERVISIONADA EM SAÚDE COLETIVA I",
+        "Turma": "1",
+        "Horário": "4M1234",
+        "Discentes": "5",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "MAURICIO WIERING PINTO TELLES",
+        "Componente Curricular": "FON0036 - PRÁTICA CURRICULAR SUPERVISIONADA EM SAÚDE COLETIVA I",
+        "Turma": "4",
+        "Horário": "3M1234",
+        "Discentes": "5",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "MAURICIO WIERING PINTO TELLES",
+        "Componente Curricular": "FON0036 - PRÁTICA CURRICULAR SUPERVISIONADA EM SAÚDE COLETIVA I",
+        "Turma": "6",
+        "Horário": "4T1234",
+        "Discentes": "9",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "MAURICIO WIERING PINTO TELLES",
+        "Componente Curricular": "FON0027 - SAÚDE COLETIVA I",
+        "Turma": "1",
+        "Horário": "2T1234",
+        "Discentes": "35",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "RAFAELA BEZERRA FAÇANHA CORREIA",
+        "Componente Curricular": "FON0042 - INTRODUÇÃO A SAÚDE COLETIVA",
+        "Turma": "1",
+        "Horário": "2M345",
+        "Discentes": "39",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "RAFAELA BEZERRA FAÇANHA CORREIA",
+        "Componente Curricular": "FON0036 - PRÁTICA CURRICULAR SUPERVISIONADA EM SAÚDE COLETIVA I",
+        "Turma": "5",
+        "Horário": "4M1234",
+        "Discentes": "10",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "0.73"
+    },
+    {
+        "Docente": "RAQUEL COUBE DE CARVALHO YAMAMOTO",
+        "Componente Curricular": "FON0041 - INTRODUÇÃO À FONOAUDIOLOGIA",
+        "Turma": "1",
+        "Horário": "2M12",
+        "Discentes": "40",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "RAQUEL COUBE DE CARVALHO YAMAMOTO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "1",
+        "Horário": "2M123 4M12345 5T12345",
+        "Discentes": "7",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "RAQUEL COUBE DE CARVALHO YAMAMOTO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "2",
+        "Horário": "23M12345 5M123",
+        "Discentes": "7",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "RAQUEL COUBE DE CARVALHO YAMAMOTO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "5",
+        "Horário": "23T12345 4T123",
+        "Discentes": "6",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "SHEILA ANDREOLI BALEN",
+        "Componente Curricular": "FON0004 - AUDIOLOGIA CLÍNICA IV",
+        "Turma": "01A",
+        "Horário": "6M123456",
+        "Discentes": "35",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "SHEILA ANDREOLI BALEN",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "3",
+        "Horário": "3M1234 3T12345",
+        "Discentes": "5",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "0.28"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "4",
+        "Horário": "5M12345 2T123 4T12345",
+        "Discentes": "6",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.46"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "6",
+        "Horário": "25T12345 3T123",
+        "Discentes": "6",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.4"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0020 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE MOTRICIDADE OROFACIAL II",
+        "Turma": "01A",
+        "Horário": "5M234",
+        "Discentes": "31",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0021 - ATUAÇÃO FONOAUDIOLÓGICA NO CÂNCER DE CABEÇA E PESCOÇO",
+        "Turma": "01A",
+        "Horário": "2M123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "33",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "1",
+        "Horário": "2M123 4M12345 5T12345",
+        "Discentes": "7",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.77"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "5",
+        "Horário": "23T12345 4T123",
+        "Discentes": "6",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.76"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0018 - ÉTICA E DEONTOLOGIA",
+        "Turma": "1",
+        "Horário": "2M45",
+        "Discentes": "38",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "ANA MANHANI CACERES ASSENCO",
+        "Componente Curricular": "FON0012 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LINGUAGEM ORAL",
+        "Turma": "01A",
+        "Horário": "5M12345",
+        "Discentes": "22",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.72"
+    },
+    {
+        "Docente": "ANA MANHANI CACERES ASSENCO",
+        "Componente Curricular": "FON0012 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LINGUAGEM ORAL",
+        "Turma": "01B",
+        "Horário": "5M12345",
+        "Discentes": "13",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "CINTIA ALVES SALGADO AZONI",
+        "Componente Curricular": "FON0017 - TÓPICOS ESPECIAIS EM FONOAUDIOLOGIA",
+        "Turma": "1",
+        "Horário": "5M345",
+        "Discentes": "31",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "02A",
+        "Horário": "4M12 2T234",
+        "Discentes": "12",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.42"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "02B",
+        "Horário": "4M12 2T234",
+        "Discentes": "14",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "0.42"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "02C",
+        "Horário": "4M34 2T234",
+        "Discentes": "8",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.81"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0003 - AUDIOLOGIA CLÍNICA III",
+        "Turma": "01A",
+        "Horário": "2M12345",
+        "Discentes": "22",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0003 - AUDIOLOGIA CLÍNICA III",
+        "Turma": "01B",
+        "Horário": "2M123 6M12",
+        "Discentes": "14",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "FABIANA CRISTINA MENDONCA DE ARAUJO",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "02A",
+        "Horário": "4M12 2T234",
+        "Discentes": "12",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "FABIANA CRISTINA MENDONCA DE ARAUJO",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "02B",
+        "Horário": "4M12 2T234",
+        "Discentes": "14",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.31"
+    },
+    {
+        "Docente": "FABIANA CRISTINA MENDONCA DE ARAUJO",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "02C",
+        "Horário": "4M34 2T234",
+        "Discentes": "8",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "JOSELI SOARES BRAZOROTTO",
+        "Componente Curricular": "FON0005 - AUDIOLOGIA EDUCACIONAL E REABILITAÇÃO AUDITIVA",
+        "Turma": "01A",
+        "Horário": "4M23456",
+        "Discentes": "36",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0007 - ATUAÇÃO FONOAUDIOLÓGICA NA VOZ PROFISSIONAL",
+        "Turma": "01A",
+        "Horário": "5T1234",
+        "Discentes": "22",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0007 - ATUAÇÃO FONOAUDIOLÓGICA NA VOZ PROFISSIONAL",
+        "Turma": "01B",
+        "Horário": "5T1235",
+        "Discentes": "13",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0006 - ATUAÇÃO FONOAUDIOLÓGICA NAS PATOLOGIAS DA VOZ",
+        "Turma": "01A",
+        "Horário": "3M12345",
+        "Discentes": "33",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "MARIA DE JESUS GONCALVES",
+        "Componente Curricular": "FON0014 - ATUAÇÃO FONOAUDIOLÓGICA NAS AFASIAS E DEMÊNCIAS",
+        "Turma": "01A",
+        "Horário": "3M123 3T1",
+        "Discentes": "34",
+        "Média Geral": "8.41",
+        "Desvio Padrão Geral": "2.69"
+    },
+    {
+        "Docente": "RAQUEL COUBE DE CARVALHO YAMAMOTO",
+        "Componente Curricular": "FON0009 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE MOTRICIDADE OROFACIAL I",
+        "Turma": "01A",
+        "Horário": "6M1345",
+        "Discentes": "15",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "RAQUEL COUBE DE CARVALHO YAMAMOTO",
+        "Componente Curricular": "FON0009 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE MOTRICIDADE OROFACIAL I",
+        "Turma": "01B",
+        "Horário": "6M2345",
+        "Discentes": "22",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "RAQUEL COUBE DE CARVALHO YAMAMOTO",
+        "Componente Curricular": "FON0010 - ATUAÇÃO FONOAUDIOLÓGICA NAS ENCEFALOPATIAS CRÔNICAS DA INFÂNCIA",
+        "Turma": "01A",
+        "Horário": "5T1234",
+        "Discentes": "22",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "RAQUEL COUBE DE CARVALHO YAMAMOTO",
+        "Componente Curricular": "FON0010 - ATUAÇÃO FONOAUDIOLÓGICA NAS ENCEFALOPATIAS CRÔNICAS DA INFÂNCIA",
+        "Turma": "01B",
+        "Horário": "5T1234",
+        "Discentes": "15",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "RAQUEL COUBE DE CARVALHO YAMAMOTO",
+        "Componente Curricular": "FON0017 - TÓPICOS ESPECIAIS EM FONOAUDIOLOGIA",
+        "Turma": "1",
+        "Horário": "5M345",
+        "Discentes": "31",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0012 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LINGUAGEM ORAL",
+        "Turma": "01A",
+        "Horário": "5M12345",
+        "Discentes": "22",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0012 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LINGUAGEM ORAL",
+        "Turma": "01B",
+        "Horário": "5M12345",
+        "Discentes": "13",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "0.88"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0013 - BIOSSEGURANÇA EM FONOAUDIOLOGIA",
+        "Turma": "2",
+        "Horário": "2M12",
+        "Discentes": "19",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0008 - FONÉTICA ACÚSTICA E ARTICULATÓRIA",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "42",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0009 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE MOTRICIDADE OROFACIAL I",
+        "Turma": "01A",
+        "Horário": "6M1345",
+        "Discentes": "15",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.54"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0009 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE MOTRICIDADE OROFACIAL I",
+        "Turma": "01B",
+        "Horário": "6M2345",
+        "Discentes": "22",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0010 - ATUAÇÃO FONOAUDIOLÓGICA NAS ENCEFALOPATIAS CRÔNICAS DA INFÂNCIA",
+        "Turma": "01A",
+        "Horário": "5T1234",
+        "Discentes": "22",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0010 - ATUAÇÃO FONOAUDIOLÓGICA NAS ENCEFALOPATIAS CRÔNICAS DA INFÂNCIA",
+        "Turma": "01B",
+        "Horário": "5T1234",
+        "Discentes": "15",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0016 - TRIAGEM FONOAUDIOLÓGICA",
+        "Turma": "01A",
+        "Horário": "6M125",
+        "Discentes": "13",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0016 - TRIAGEM FONOAUDIOLÓGICA",
+        "Turma": "01B",
+        "Horário": "6M345",
+        "Discentes": "22",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "ANA MANHANI CACERES ASSENCO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "1",
+        "Horário": "2M123 4M12345 2T12345",
+        "Discentes": "6",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "ANA MARIA DA COSTA DOS SANTOS REIS",
+        "Componente Curricular": "FON0030 - ATUAÇÃO FONOAUDIOLÓGICA NAS DISFAGIAS",
+        "Turma": "01A",
+        "Horário": "5M123",
+        "Discentes": "33",
+        "Média Geral": "8.53",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "ANA MARIA DA COSTA DOS SANTOS REIS",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "2",
+        "Horário": "3M12345 5M123 3T12345",
+        "Discentes": "6",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "ANA MARIA DA COSTA DOS SANTOS REIS",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "3",
+        "Horário": "3M345 5M12345 5T12345",
+        "Discentes": "6",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "ANA MARIA DA COSTA DOS SANTOS REIS",
+        "Componente Curricular": "FON0018 - ÉTICA E DEONTOLOGIA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "34",
+        "Média Geral": "8.19",
+        "Desvio Padrão Geral": "2.61"
+    },
+    {
+        "Docente": "CINTIA ALVES SALGADO AZONI",
+        "Componente Curricular": "FON0028 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LEITURA E ESCRITA",
+        "Turma": "01A",
+        "Horário": "3M23456",
+        "Discentes": "32",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "CINTIA ALVES SALGADO AZONI",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "5",
+        "Horário": "3M12345 2T12345 4T123",
+        "Discentes": "5",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "0.75"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0002 - AUDIOLOGIA CLÍNICA II",
+        "Turma": "01A",
+        "Horário": "4M123456",
+        "Discentes": "32",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "3",
+        "Horário": "3M12345 3T1234",
+        "Discentes": "5",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "0.61"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0004 - AUDIOLOGIA CLÍNICA IV",
+        "Turma": "01A",
+        "Horário": "6M123456",
+        "Discentes": "26",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "3",
+        "Horário": "3M12345 3T1234",
+        "Discentes": "5",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "0.61"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "5",
+        "Horário": "2M12345 5T1234",
+        "Discentes": "5",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "FABIANA CRISTINA MENDONCA DE ARAUJO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "1",
+        "Horário": "3M1234 5M12345",
+        "Discentes": "6",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "FABIANA CRISTINA MENDONCA DE ARAUJO",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "5",
+        "Horário": "2M12345 5T1234",
+        "Discentes": "5",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "JOSELI SOARES BRAZOROTTO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "1",
+        "Horário": "2M123 4M12345 2T12345",
+        "Discentes": "6",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "JOSELI SOARES BRAZOROTTO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "4",
+        "Horário": "5M12345 2T123 4T12345",
+        "Discentes": "5",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "JOSELI SOARES BRAZOROTTO",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "5",
+        "Horário": "3M12345 2T12345 4T123",
+        "Discentes": "5",
+        "Média Geral": "7.32",
+        "Desvio Padrão Geral": "3.02"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0029 - ATUAÇÃO FONOAUDIOLÓGICA NAS DISARTROFONIAS",
+        "Turma": "01A",
+        "Horário": "2T345",
+        "Discentes": "30",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0021 - ATUAÇÃO FONOAUDIOLÓGICA NO CÂNCER DE CABEÇA E PESCOÇO",
+        "Turma": "01A",
+        "Horário": "5T234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "34",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "1",
+        "Horário": "2M123 4M12345 2T12345",
+        "Discentes": "6",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "2",
+        "Horário": "3M12345 5M123 3T12345",
+        "Discentes": "6",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.35"
+    },
+    {
+        "Docente": "LAVINIA MABEL VIANA LOPES",
+        "Componente Curricular": "FON0019 - FUNDAMENTO EM FONOAUDIOLOGIA",
+        "Turma": "1",
+        "Horário": "5M345",
+        "Discentes": "40",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "LAVINIA MABEL VIANA LOPES",
+        "Componente Curricular": "FON0036 - PRÁTICA CURRICULAR SUPERVISIONADA EM SAÚDE COLETIVA I",
+        "Turma": "1",
+        "Horário": "5T1234",
+        "Discentes": "5",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "LAVINIA MABEL VIANA LOPES",
+        "Componente Curricular": "FON0036 - PRÁTICA CURRICULAR SUPERVISIONADA EM SAÚDE COLETIVA I",
+        "Turma": "4",
+        "Horário": "4M1234",
+        "Discentes": "5",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "LAVINIA MABEL VIANA LOPES",
+        "Componente Curricular": "FON0036 - PRÁTICA CURRICULAR SUPERVISIONADA EM SAÚDE COLETIVA I",
+        "Turma": "6",
+        "Horário": "4T1234",
+        "Discentes": "5",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "MARIA DE JESUS GONCALVES",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "2",
+        "Horário": "3M12345 5M123 3T12345",
+        "Discentes": "6",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.57"
+    },
+    {
+        "Docente": "MARIA DE JESUS GONCALVES",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "3",
+        "Horário": "3M345 5M12345 5T12345",
+        "Discentes": "6",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "MARIA RAQUEL BASILIO SPERI",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "1",
+        "Horário": "3M1234 5M12345",
+        "Discentes": "6",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "MARIA RAQUEL BASILIO SPERI",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "2",
+        "Horário": "2M1234 3T12345",
+        "Discentes": "5",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "MARIA RAQUEL BASILIO SPERI",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "4",
+        "Horário": "5M1234 5T12345",
+        "Discentes": "5",
+        "Média Geral": "8.41",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "MAURICIO WIERING PINTO TELLES",
+        "Componente Curricular": "FON0036 - PRÁTICA CURRICULAR SUPERVISIONADA EM SAÚDE COLETIVA I",
+        "Turma": "2",
+        "Horário": "4M1234",
+        "Discentes": "5",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "0.8"
+    },
+    {
+        "Docente": "MAURICIO WIERING PINTO TELLES",
+        "Componente Curricular": "FON0027 - SAÚDE COLETIVA I",
+        "Turma": "1",
+        "Horário": "3M2345",
+        "Discentes": "38",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "RAFAELA BEZERRA FAÇANHA CORREIA",
+        "Componente Curricular": "FON0019 - FUNDAMENTO EM FONOAUDIOLOGIA",
+        "Turma": "1",
+        "Horário": "5M345",
+        "Discentes": "40",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "RAFAELA BEZERRA FAÇANHA CORREIA",
+        "Componente Curricular": "FON0036 - PRÁTICA CURRICULAR SUPERVISIONADA EM SAÚDE COLETIVA I",
+        "Turma": "6",
+        "Horário": "4T1234",
+        "Discentes": "5",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "SHEILA ANDREOLI BALEN",
+        "Componente Curricular": "FON0004 - AUDIOLOGIA CLÍNICA IV",
+        "Turma": "01A",
+        "Horário": "6M123456",
+        "Discentes": "26",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "SHEILA ANDREOLI BALEN",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "2",
+        "Horário": "2M1234 3T12345",
+        "Discentes": "5",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "0.55"
+    },
+    {
+        "Docente": "SHEILA ANDREOLI BALEN",
+        "Componente Curricular": "FON0035 - PRÁTICA CURRICULAR SUPERVISIONADA EM AUDIOLOGIA I",
+        "Turma": "4",
+        "Horário": "5M1234 5T12345",
+        "Discentes": "5",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "0.62"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0022 - ATUAÇÃO FONOAUDIOLÓGICA NAS SÍNDROMES",
+        "Turma": "01A",
+        "Horário": "5M456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "29",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0040 - METODOLOGIA DA PESQUISA CIENTÍFICA",
+        "Turma": "1",
+        "Horário": "5T1234",
+        "Discentes": "38",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "4",
+        "Horário": "5M12345 2T123 4T12345",
+        "Discentes": "5",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "0.58"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0020 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE MOTRICIDADE OROFACIAL II",
+        "Turma": "02A",
+        "Horário": "6M234",
+        "Discentes": "30",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "3",
+        "Horário": "3M345 5M12345 5T12345",
+        "Discentes": "6",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.82"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0034 - PRÁTICA CURRICULAR SUPERVISIONADA EM TERAPIA FONOAUDIOLÓGICA I",
+        "Turma": "4",
+        "Horário": "5M12345 2T123 4T12345",
+        "Discentes": "5",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "ANA MANHANI CACERES ASSENCO",
+        "Componente Curricular": "FON0017 - TÓPICOS ESPECIAIS EM FONOAUDIOLOGIA",
+        "Turma": "1",
+        "Horário": "4M123",
+        "Discentes": "25",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "ANA MARIA DA COSTA DOS SANTOS REIS",
+        "Componente Curricular": "FON0014 - ATUAÇÃO FONOAUDIOLÓGICA NAS AFASIAS E DEMÊNCIAS",
+        "Turma": "01B",
+        "Horário": "4T5123",
+        "Discentes": "14",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "ANA MARIA DA COSTA DOS SANTOS REIS",
+        "Componente Curricular": "FON0010 - ATUAÇÃO FONOAUDIOLÓGICA NAS ENCEFALOPATIAS CRÔNICAS DA INFÂNCIA",
+        "Turma": "01A",
+        "Horário": "5T1234",
+        "Discentes": "18",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0"
+    },
+    {
+        "Docente": "ANA MARIA DA COSTA DOS SANTOS REIS",
+        "Componente Curricular": "FON0016 - TRIAGEM FONOAUDIOLÓGICA",
+        "Turma": "01A",
+        "Horário": "6M123",
+        "Discentes": "15",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "ANA MARIA DA COSTA DOS SANTOS REIS",
+        "Componente Curricular": "FON0016 - TRIAGEM FONOAUDIOLÓGICA",
+        "Turma": "01B",
+        "Horário": "6M145",
+        "Discentes": "12",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "CINTIA ALVES SALGADO AZONI",
+        "Componente Curricular": "FON0012 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LINGUAGEM ORAL",
+        "Turma": "01A",
+        "Horário": "3M23 6M234",
+        "Discentes": "20",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "01A",
+        "Horário": "4M23 4T123",
+        "Discentes": "10",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.71"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "01B",
+        "Horário": "4M23 4T123",
+        "Discentes": "8",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.82"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "01C",
+        "Horário": "4M45 4T123",
+        "Discentes": "7",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "0.61"
+    },
+    {
+        "Docente": "ELIENE SILVA ARAUJO",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "01D",
+        "Horário": "4M45 4T123",
+        "Discentes": "7",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "0.44"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0003 - AUDIOLOGIA CLÍNICA III",
+        "Turma": "01A",
+        "Horário": "6M23 2T123",
+        "Discentes": "9",
+        "Média Geral": "9.92",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0003 - AUDIOLOGIA CLÍNICA III",
+        "Turma": "01B",
+        "Horário": "6M45 2T123",
+        "Discentes": "8",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "ERIKA BARIONI MANTELLO",
+        "Componente Curricular": "FON0003 - AUDIOLOGIA CLÍNICA III",
+        "Turma": "01C",
+        "Horário": "2T51234",
+        "Discentes": "9",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "JOSELI SOARES BRAZOROTTO",
+        "Componente Curricular": "FON0005 - AUDIOLOGIA EDUCACIONAL E REABILITAÇÃO AUDITIVA",
+        "Turma": "01A",
+        "Horário": "2M12345",
+        "Discentes": "26",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0007 - ATUAÇÃO FONOAUDIOLÓGICA NA VOZ PROFISSIONAL",
+        "Turma": "01A",
+        "Horário": "5T1234",
+        "Discentes": "14",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "JULIANA FERNANDES GODOY",
+        "Componente Curricular": "FON0007 - ATUAÇÃO FONOAUDIOLÓGICA NA VOZ PROFISSIONAL",
+        "Turma": "01B",
+        "Horário": "5T5123",
+        "Discentes": "13",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "MARIA DE JESUS GONCALVES",
+        "Componente Curricular": "FON0014 - ATUAÇÃO FONOAUDIOLÓGICA NAS AFASIAS E DEMÊNCIAS",
+        "Turma": "01A",
+        "Horário": "4T1234",
+        "Discentes": "9",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "MARIA DE JESUS GONCALVES",
+        "Componente Curricular": "FON0014 - ATUAÇÃO FONOAUDIOLÓGICA NAS AFASIAS E DEMÊNCIAS",
+        "Turma": "01B",
+        "Horário": "4T5123",
+        "Discentes": "14",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "MARIA RAQUEL BASILIO SPERI",
+        "Componente Curricular": "FON0003 - AUDIOLOGIA CLÍNICA III",
+        "Turma": "01C",
+        "Horário": "2T51234",
+        "Discentes": "9",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "MAURICIO WIERING PINTO TELLES",
+        "Componente Curricular": "DSC0090 - SAUDE E CIDADANIA",
+        "Turma": "13",
+        "Horário": "5M2345 (24/07/2017 - 16/12/2017)",
+        "Discentes": "20",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "THAIS LENHARO SATERS",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "01B",
+        "Horário": "4M23 4T123",
+        "Discentes": "8",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "THAIS LENHARO SATERS",
+        "Componente Curricular": "FON0001 - AUDIOLOGIA CLÍNICA I",
+        "Turma": "01D",
+        "Horário": "4M45 4T123",
+        "Discentes": "7",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.4"
+    },
+    {
+        "Docente": "THAIS LENHARO SATERS",
+        "Componente Curricular": "FON0013 - BIOSSEGURANÇA EM FONOAUDIOLOGIA",
+        "Turma": "1",
+        "Horário": "5M23",
+        "Discentes": "45",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0012 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LINGUAGEM ORAL",
+        "Turma": "01A",
+        "Horário": "3M23 6M234",
+        "Discentes": "20",
+        "Média Geral": "8.39",
+        "Desvio Padrão Geral": "2.61"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0012 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE LINGUAGEM ORAL",
+        "Turma": "01B",
+        "Horário": "3M45 6M234",
+        "Discentes": "13",
+        "Média Geral": "8.62",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "VANESSA GIACCHINI",
+        "Componente Curricular": "FON0008 - FONÉTICA ACÚSTICA E ARTICULATÓRIA",
+        "Turma": "1",
+        "Horário": "3M123",
+        "Discentes": "38",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0009 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE MOTRICIDADE OROFACIAL I",
+        "Turma": "01A",
+        "Horário": "2M1234",
+        "Discentes": "19",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0009 - ATUAÇÃO FONOAUDIOLÓGICA NAS ALTERAÇÕES DE MOTRICIDADE OROFACIAL I",
+        "Turma": "01B",
+        "Horário": "2M1235",
+        "Discentes": "13",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0010 - ATUAÇÃO FONOAUDIOLÓGICA NAS ENCEFALOPATIAS CRÔNICAS DA INFÂNCIA",
+        "Turma": "01A",
+        "Horário": "5T1234",
+        "Discentes": "18",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "ZILANE SILVA BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FON0010 - ATUAÇÃO FONOAUDIOLÓGICA NAS ENCEFALOPATIAS CRÔNICAS DA INFÂNCIA",
+        "Turma": "01B",
+        "Horário": "5T5234",
+        "Discentes": "13",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "1.44"
+    }
+]

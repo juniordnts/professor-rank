@@ -1,0 +1,2326 @@
+{
+  "ALESSANDRO DOZENA": {
+    "Notas": [
+      9.18,
+      9.52,
+      9.54,
+      9.61,
+      9.65,
+      9.86
+    ],
+    "Desvios": [
+      1.95,
+      1.85,
+      1.61,
+      1.52,
+      1.64,
+      0.63
+    ],
+    "Componentes": {
+      "DGE0123 - GEOGRAFIA REGIONAL DO BRASIL": {
+        "Notas": [
+          9.18,
+          9.54
+        ],
+        "Desvios": [
+          1.95,
+          1.64
+        ],
+        "DesvioDeNotas": 0.17999999999999972,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.795,
+        "NotaMediana": 9.54
+      },
+      "DGE0053 - INTRODUCAO A GEOGRAFIA": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 9.65
+      },
+      "DGE0150 - GEOGRAFIA E TURISMO": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.52
+      },
+      "DGE0070 - GEOGRAFIA REGIONAL DO BRASIL": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.61
+      },
+      "DGE0083 - GEOGRAFIA CULTURAL": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          0.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 0.63,
+        "NotaMediana": 9.86
+      }
+    },
+    "DesvioDeNotas": 0.202895703913776,
+    "MediaDeNotas": 9.559999999999999,
+    "MediaDeDesvios": 1.5333333333333334,
+    "NotaMediana": 9.61
+  },
+  "ANELINO FRANCISCO DA SILVA": {
+    "Notas": [
+      8.25,
+      8.3,
+      8.31,
+      8.45,
+      8.71,
+      8.82,
+      9.01,
+      9.07,
+      9.15
+    ],
+    "Desvios": [
+      2.56,
+      2.49,
+      2.27,
+      1.5,
+      2.46,
+      2.11,
+      2.33,
+      1.73,
+      1.47
+    ],
+    "Componentes": {
+      "DGE0183 - ATIVIDADE INTEGRADORA EM GEOGRAFIA III": {
+        "Notas": [
+          8.25
+        ],
+        "Desvios": [
+          2.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.25,
+        "MediaDeDesvios": 2.56,
+        "NotaMediana": 8.25
+      },
+      "DGE0168 - METODOLOGIA DO ENSINO E DA PESQUISA DE GEOGRAFIA": {
+        "Notas": [
+          8.3
+        ],
+        "Desvios": [
+          2.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.3,
+        "MediaDeDesvios": 2.49,
+        "NotaMediana": 8.3
+      },
+      "DGE0182 - ATIVIDADE INTEGRADORA EM GEOGRAFIA II": {
+        "Notas": [
+          8.31
+        ],
+        "Desvios": [
+          2.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.31,
+        "MediaDeDesvios": 2.27,
+        "NotaMediana": 8.31
+      },
+      "DGE0083 - GEOGRAFIA CULTURAL": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.07
+      },
+      "DGE0181 - ATIVIDADE INTEGRADORA EM GEOGRAFIA I": {
+        "Notas": [
+          8.45
+        ],
+        "Desvios": [
+          2.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.45,
+        "MediaDeDesvios": 2.46,
+        "NotaMediana": 8.45
+      },
+      "DGE0053 - INTRODUCAO A GEOGRAFIA": {
+        "Notas": [
+          9.01
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.01,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 9.01
+      },
+      "DGE0201 - INTRODUCAO A GEOGRAFIA": {
+        "Notas": [
+          8.71
+        ],
+        "Desvios": [
+          2.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.71,
+        "MediaDeDesvios": 2.33,
+        "NotaMediana": 8.71
+      },
+      "DGE0140 - GEOGRAFIA DO NORDESTE": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 8.82
+      },
+      "DGE0056 - ORGANIZACAO DO ESPACO": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.15
+      }
+    },
+    "DesvioDeNotas": 0.33685180094882844,
+    "MediaDeNotas": 8.674444444444443,
+    "MediaDeDesvios": 2.102222222222222,
+    "NotaMediana": 8.71
+  },
+  "BRUNO MAIA HALLEY": {
+    "Notas": [
+      9.15,
+      9.32
+    ],
+    "Desvios": [
+      1.48,
+      1.18
+    ],
+    "Componentes": {
+      "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.32
+      },
+      "DGE0170 - GEOGRAFIA E AS TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.15
+      }
+    },
+    "DesvioDeNotas": 0.08499999999999996,
+    "MediaDeNotas": 9.235,
+    "MediaDeDesvios": 1.33,
+    "NotaMediana": 9.32
+  },
+  "CELSO DONIZETE LOCATEL": {
+    "Notas": [
+      9.23,
+      9.47
+    ],
+    "Desvios": [
+      1.66,
+      1.97
+    ],
+    "Componentes": {
+      "DGE0117 - GEOGRAFIA AGRARIA": {
+        "Notas": [
+          9.23,
+          9.47
+        ],
+        "Desvios": [
+          1.66,
+          1.97
+        ],
+        "DesvioDeNotas": 0.1200000000000001,
+        "MediaDeNotas": 9.350000000000001,
+        "MediaDeDesvios": 1.815,
+        "NotaMediana": 9.47
+      }
+    },
+    "DesvioDeNotas": 0.1200000000000001,
+    "MediaDeNotas": 9.350000000000001,
+    "MediaDeDesvios": 1.815,
+    "NotaMediana": 9.47
+  },
+  "EDU SILVESTRE DE ALBUQUERQUE": {
+    "Notas": [
+      9.37,
+      9.47,
+      9.71,
+      9.75,
+      9.77
+    ],
+    "Desvios": [
+      1.61,
+      1.59,
+      1.47,
+      1.66,
+      1.73
+    ],
+    "Componentes": {
+      "DGE0142 - GEOGRAFIA POLITICA": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.47
+      },
+      "DGE1011 - GEOGRAFIA REGIONAL DO MUNDO": {
+        "Notas": [
+          9.37,
+          9.71,
+          9.75
+        ],
+        "Desvios": [
+          1.59,
+          1.66,
+          1.73
+        ],
+        "DesvioDeNotas": 0.1704894913672595,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.6600000000000001,
+        "NotaMediana": 9.71
+      },
+      "DGE0069 - GEOGRAFIA POLITICA": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.16267759526130218,
+    "MediaDeNotas": 9.614,
+    "MediaDeDesvios": 1.612,
+    "NotaMediana": 9.71
+  },
+  "EUGENIA MARIA DANTAS": {
+    "Notas": [
+      8.81,
+      9.38
+    ],
+    "Desvios": [
+      2.18,
+      1.31
+    ],
+    "Componentes": {
+      "DGE0181 - ATIVIDADE INTEGRADORA EM GEOGRAFIA I": {
+        "Notas": [
+          8.81
+        ],
+        "Desvios": [
+          2.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.81,
+        "MediaDeDesvios": 2.18,
+        "NotaMediana": 8.81
+      },
+      "DGE0207 - TEORIA E METODOS DA GEOGRAFIA": {
+        "Notas": [
+          9.38
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.38
+      }
+    },
+    "DesvioDeNotas": 0.28500000000000014,
+    "MediaDeNotas": 9.095,
+    "MediaDeDesvios": 1.745,
+    "NotaMediana": 9.38
+  },
+  "FERNANDO MOREIRA DA SILVA": {
+    "Notas": [
+      7.77,
+      8.68,
+      9.02,
+      9.15
+    ],
+    "Desvios": [
+      3.14,
+      2.36,
+      1.54,
+      1.79
+    ],
+    "Componentes": {
+      "DGE0060 - METEOROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          7.77
+        ],
+        "Desvios": [
+          3.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.77,
+        "MediaDeDesvios": 3.14,
+        "NotaMediana": 7.77
+      },
+      "DGE1013 - QUANTIFICAÇÃO EM GEOGRAFIA": {
+        "Notas": [
+          9.02
+        ],
+        "Desvios": [
+          2.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 2.36,
+        "NotaMediana": 9.02
+      },
+      "DGE0066 - CLIMATOLOGIA SISTEMATICA": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.15
+      },
+      "DGE0205 - METEOROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          8.68
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.68,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 8.68
+      }
+    },
+    "DesvioDeNotas": 0.5390037105623673,
+    "MediaDeNotas": 8.655,
+    "MediaDeDesvios": 2.2075,
+    "NotaMediana": 9.02
+  },
+  "HUGO ARRUDA DE MORAIS": {
+    "Notas": [
+      9.55,
+      9.59,
+      9.62,
+      9.62,
+      9.64,
+      9.68
+    ],
+    "Desvios": [
+      1.8,
+      1.5,
+      1.66,
+      1.07,
+      1.15,
+      1.43
+    ],
+    "Componentes": {
+      "DGE0204 - FORMACAO ECONOMICA E TERRITORIAL DO BRASIL": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.59
+      },
+      "DGE0109 - GEOGRAFIA DA POPULACAO": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.55
+      },
+      "DGE0073 - GEOGRAFIA URBANA DO BRASIL": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.68
+      },
+      "DGE0055 - FORMACAO ECONOMICA E TERRITORIAL DO BRASIL": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.07,
+        "NotaMediana": 9.64
+      },
+      "DGE0085 - GEOGRAFIA DO NORDESTE": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.62
+      },
+      "DGE0207 - TEORIA E METODOS DA GEOGRAFIA": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.62
+      }
+    },
+    "DesvioDeNotas": 0.04027681991198169,
+    "MediaDeNotas": 9.616666666666665,
+    "MediaDeDesvios": 1.4349999999999998,
+    "NotaMediana": 9.62
+  },
+  "JULIANA FELIPE FARIAS": {
+    "Notas": [
+      9.25,
+      9.38,
+      9.41,
+      9.41,
+      9.52,
+      9.57,
+      9.61,
+      9.66,
+      9.7,
+      9.84,
+      9.95
+    ],
+    "Desvios": [
+      1.98,
+      1.45,
+      1.63,
+      1.46,
+      1.6,
+      1.45,
+      1.37,
+      1.48,
+      1.62,
+      1.3,
+      0.79
+    ],
+    "Componentes": {
+      "DGE0075 - EDUCACAO AMBIENTAL": {
+        "Notas": [
+          9.41,
+          9.41
+        ],
+        "Desvios": [
+          1.98,
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.41
+      },
+      "DGE0166 - METODOLOGIA DO TRABALHO CIENTÍFICO": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.52
+      },
+      "DGE0131 - PEDOLOGIA": {
+        "Notas": [
+          9.25,
+          9.61
+        ],
+        "Desvios": [
+          1.63,
+          1.46
+        ],
+        "DesvioDeNotas": 0.17999999999999972,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.545,
+        "NotaMediana": 9.61
+      },
+      "DGE0107 - BIOGEOGRAFIA": {
+        "Notas": [
+          9.38,
+          9.84
+        ],
+        "Desvios": [
+          1.6,
+          1.3
+        ],
+        "DesvioDeNotas": 0.22999999999999954,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.4500000000000002,
+        "NotaMediana": 9.84
+      },
+      "DGE0064 - BIOGEOGRAFIA": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.7
+      },
+      "DGE0121 - TECNICAS DE PESQUISA GEOGRAFICA": {
+        "Notas": [
+          9.66,
+          9.95
+        ],
+        "Desvios": [
+          1.37,
+          0.79
+        ],
+        "DesvioDeNotas": 0.14499999999999957,
+        "MediaDeNotas": 9.805,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.95
+      },
+      "DGE0210 - EDUCACAO AMBIENTAL": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.19909298463011074,
+    "MediaDeNotas": 9.572727272727272,
+    "MediaDeDesvios": 1.4663636363636363,
+    "NotaMediana": 9.57
+  },
+  "LEANDRO DE CASTRO LIMA": {
+    "Notas": [
+      9.41,
+      9.47,
+      9.54,
+      9.57,
+      9.68,
+      9.69,
+      9.89
+    ],
+    "Desvios": [
+      1.21,
+      0.92,
+      1.09,
+      1.7,
+      1.57,
+      1.64,
+      1.72
+    ],
+    "Componentes": {
+      "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.69
+      },
+      "DGE0170 - GEOGRAFIA E AS TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          0.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 0.92,
+        "NotaMediana": 9.68
+      },
+      "DGE0107 - BIOGEOGRAFIA": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.89
+      },
+      "DGE0188 - GESTÃO DO TERRITÓRIO": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.57
+      },
+      "DGE1019 - CARTOGRAFIA APLICADA AO TURISMO": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.54
+      },
+      "DGE0102 - CARTOGRAFIA GERAL": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.47
+      },
+      "DGE0062 - GEOGRAFIA AGRARIA": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.41
+      }
+    },
+    "DesvioDeNotas": 0.1491609184466117,
+    "MediaDeNotas": 9.607142857142858,
+    "MediaDeDesvios": 1.4071428571428573,
+    "NotaMediana": 9.57
+  },
+  "LUTIANE QUEIROZ DE ALMEIDA": {
+    "Notas": [
+      8.81,
+      8.98,
+      9.16,
+      9.2,
+      9.29,
+      9.59,
+      9.63,
+      9.79
+    ],
+    "Desvios": [
+      1.93,
+      1.68,
+      1.45,
+      2.5,
+      1.38,
+      0.92,
+      1.62,
+      1.31
+    ],
+    "Componentes": {
+      "DGE0208 - ECOLOGIA": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.2
+      },
+      "DGE0216 - PLANEJAMENTO AMBIENTAL": {
+        "Notas": [
+          8.81,
+          9.16,
+          9.63
+        ],
+        "Desvios": [
+          1.68,
+          2.5,
+          1.31
+        ],
+        "DesvioDeNotas": 0.3359563463705765,
+        "MediaDeNotas": 9.200000000000001,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.16
+      },
+      "DGE0167 - GEOMORFOLOGIA GERAL": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.29
+      },
+      "DGE0229 - GEOMORFOLOGIA APLICADA": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.59
+      },
+      "DGE0091 - MEIO AMBIENTE E DESENVOLVIMENTO": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          0.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 0.92,
+        "NotaMediana": 9.79
+      },
+      "DGE0064 - BIOGEOGRAFIA": {
+        "Notas": [
+          8.98
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 8.98
+      }
+    },
+    "DesvioDeNotas": 0.31721197565665754,
+    "MediaDeNotas": 9.306249999999999,
+    "MediaDeDesvios": 1.5987500000000001,
+    "NotaMediana": 9.29
+  },
+  "MARCELO DOS SANTOS CHAVES": {
+    "Notas": [
+      8.32,
+      8.49,
+      8.49,
+      8.66,
+      8.73,
+      8.92,
+      8.95,
+      9.02,
+      9.09,
+      9.13,
+      9.36
+    ],
+    "Desvios": [
+      2.39,
+      1.85,
+      1.6,
+      1.84,
+      1.7,
+      1.84,
+      1.98,
+      1.64,
+      1.76,
+      1.45,
+      1.46
+    ],
+    "Componentes": {
+      "DGE0074 - GEOGRAFIA FISICA DO BRASIL": {
+        "Notas": [
+          8.49,
+          8.66
+        ],
+        "Desvios": [
+          2.39,
+          1.98
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 8.575,
+        "MediaDeDesvios": 2.185,
+        "NotaMediana": 8.66
+      },
+      "DGE0203 - GEOLOGIA GERAL": {
+        "Notas": [
+          8.92,
+          9.02
+        ],
+        "Desvios": [
+          1.85,
+          1.76
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 8.969999999999999,
+        "MediaDeDesvios": 1.8050000000000002,
+        "NotaMediana": 9.02
+      },
+      "DGE0169 - GEOMORFOLOGIA CLIMÁTICA": {
+        "Notas": [
+          8.73
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.73,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 8.73
+      },
+      "DGE0219 - GEOGRAFIA DO AMBIENTE COSTEIRO": {
+        "Notas": [
+          8.95,
+          9.13
+        ],
+        "Desvios": [
+          1.84,
+          1.45
+        ],
+        "DesvioDeNotas": 0.09000000000000075,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 1.645,
+        "NotaMediana": 9.13
+      },
+      "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          8.49
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.49,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 8.49
+      },
+      "DGE0214 - GEOGRAFIA FISICA DO BRASIL": {
+        "Notas": [
+          8.32,
+          9.09
+        ],
+        "Desvios": [
+          1.84,
+          1.46
+        ],
+        "DesvioDeNotas": 0.3849999999999998,
+        "MediaDeNotas": 8.705,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.09
+      },
+      "DGE0054 - GEOLOGIA GERAL": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.36
+      }
+    },
+    "DesvioDeNotas": 0.3055870924538208,
+    "MediaDeNotas": 8.832727272727274,
+    "MediaDeDesvios": 1.7736363636363637,
+    "NotaMediana": 8.92
+  },
+  "MARIA APARECIDA PONTES DA FONSECA": {
+    "Notas": [
+      6.11,
+      7.5,
+      7.88,
+      8.03,
+      8.3,
+      8.97,
+      9.02,
+      9.14
+    ],
+    "Desvios": [
+      1.35,
+      3.02,
+      2.72,
+      1.65,
+      2.53,
+      2.81,
+      1.52,
+      1.89
+    ],
+    "Componentes": {
+      "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          9.02
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.02
+      },
+      "DGE0150 - GEOGRAFIA E TURISMO": {
+        "Notas": [
+          7.5,
+          8.03
+        ],
+        "Desvios": [
+          3.02,
+          2.53
+        ],
+        "DesvioDeNotas": 0.2649999999999997,
+        "MediaDeNotas": 7.765,
+        "MediaDeDesvios": 2.775,
+        "NotaMediana": 8.03
+      },
+      "DGE0110 - GEOGRAFIA ECONOMICA": {
+        "Notas": [
+          7.88,
+          8.3
+        ],
+        "Desvios": [
+          2.72,
+          1.89
+        ],
+        "DesvioDeNotas": 0.2100000000000004,
+        "MediaDeNotas": 8.09,
+        "MediaDeDesvios": 2.305,
+        "NotaMediana": 8.3
+      },
+      "DGE0071 - GEOGRAFIA ECONOMICA": {
+        "Notas": [
+          8.97,
+          9.14
+        ],
+        "Desvios": [
+          1.65,
+          1.52
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.055,
+        "MediaDeDesvios": 1.585,
+        "NotaMediana": 9.14
+      },
+      "DGE0166 - METODOLOGIA DO TRABALHO CIENTÍFICO": {
+        "Notas": [
+          6.11
+        ],
+        "Desvios": [
+          2.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.11,
+        "MediaDeDesvios": 2.81,
+        "NotaMediana": 6.11
+      }
+    },
+    "DesvioDeNotas": 0.9417727631971526,
+    "MediaDeNotas": 8.11875,
+    "MediaDeDesvios": 2.18625,
+    "NotaMediana": 8.3
+  },
+  "ORGIVAL BEZERRA DA NOBREGA JUNIOR": {
+    "Notas": [
+      8.35,
+      8.46,
+      8.49,
+      8.55,
+      8.66,
+      9.05,
+      9.09,
+      9.17,
+      9.44,
+      9.47,
+      9.6,
+      9.72
+    ],
+    "Desvios": [
+      2.26,
+      1.77,
+      2.39,
+      2.82,
+      2.39,
+      1.72,
+      0.85,
+      2.2,
+      2.18,
+      2.16,
+      2.07,
+      1.19
+    ],
+    "Componentes": {
+      "DGE0127 - GEOGRAFIA DOS RECURSOS NATURAIS": {
+        "Notas": [
+          9.17,
+          9.47
+        ],
+        "Desvios": [
+          2.26,
+          0.85
+        ],
+        "DesvioDeNotas": 0.15000000000000036,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.555,
+        "NotaMediana": 9.47
+      },
+      "DGE0054 - GEOLOGIA GERAL": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.6
+      },
+      "DGE0146 - SEDIMENTOLOGIA": {
+        "Notas": [
+          8.49
+        ],
+        "Desvios": [
+          2.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.49,
+        "MediaDeDesvios": 2.39,
+        "NotaMediana": 8.49
+      },
+      "DGE0213 - GEOGRAFIA DE BACIAS HIDROGRAFICAS": {
+        "Notas": [
+          8.35,
+          8.55
+        ],
+        "Desvios": [
+          2.82,
+          2.16
+        ],
+        "DesvioDeNotas": 0.10000000000000053,
+        "MediaDeNotas": 8.45,
+        "MediaDeDesvios": 2.49,
+        "NotaMediana": 8.55
+      },
+      "DGE1017 - INTRODUÇÃO À CIÊNCIA DO SOLO": {
+        "Notas": [
+          8.46,
+          9.05,
+          9.44,
+          9.72
+        ],
+        "Desvios": [
+          2.39,
+          1.72,
+          2.07,
+          1.19
+        ],
+        "DesvioDeNotas": 0.47272481424185864,
+        "MediaDeNotas": 9.1675,
+        "MediaDeDesvios": 1.8424999999999998,
+        "NotaMediana": 9.44
+      },
+      "DGE0068 - PEDOLOGIA": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          2.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 2.2,
+        "NotaMediana": 9.09
+      },
+      "DGE0131 - PEDOLOGIA": {
+        "Notas": [
+          8.66
+        ],
+        "Desvios": [
+          2.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.66,
+        "MediaDeDesvios": 2.18,
+        "NotaMediana": 8.66
+      }
+    },
+    "DesvioDeNotas": 0.46766188522145874,
+    "MediaDeNotas": 9.004166666666665,
+    "MediaDeDesvios": 2.0000000000000004,
+    "NotaMediana": 9.09
+  },
+  "PAULO CESAR DE ARAUJO": {
+    "Notas": [
+      8.8,
+      8.85,
+      9.13,
+      9.31,
+      9.34,
+      9.34,
+      9.39,
+      9.43,
+      9.5,
+      9.72,
+      9.79
+    ],
+    "Desvios": [
+      1.99,
+      1.27,
+      1.85,
+      2.11,
+      1.6,
+      1.64,
+      2.15,
+      1.18,
+      1.67,
+      1.88,
+      1.5
+    ],
+    "Componentes": {
+      "DGE0059 - CARTOGRAFIA GERAL": {
+        "Notas": [
+          9.31,
+          9.39
+        ],
+        "Desvios": [
+          1.99,
+          1.64
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.350000000000001,
+        "MediaDeDesvios": 1.815,
+        "NotaMediana": 9.39
+      },
+      "DGE0215 - GEOPROCESSAMENTO": {
+        "Notas": [
+          8.8,
+          9.43,
+          9.5,
+          9.72
+        ],
+        "Desvios": [
+          1.27,
+          1.85,
+          2.15,
+          1.18
+        ],
+        "DesvioDeNotas": 0.34193383862963883,
+        "MediaDeNotas": 9.3625,
+        "MediaDeDesvios": 1.6124999999999998,
+        "NotaMediana": 9.5
+      },
+      "DGE0113 - AEROFOTOGRAMETRIA E FOTOINTERPRETACAO": {
+        "Notas": [
+          8.85,
+          9.13,
+          9.34,
+          9.79
+        ],
+        "Desvios": [
+          2.11,
+          1.6,
+          1.67,
+          1.88
+        ],
+        "DesvioDeNotas": 0.34317451828479306,
+        "MediaDeNotas": 9.2775,
+        "MediaDeDesvios": 1.815,
+        "NotaMediana": 9.34
+      },
+      "DGE1012 - GEOMORFOLOGIA": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.2951144896196576,
+    "MediaDeNotas": 9.327272727272726,
+    "MediaDeDesvios": 1.7127272727272727,
+    "NotaMediana": 9.34
+  },
+  "RODRIGO DE FREITAS AMORIM": {
+    "Notas": [
+      8.59,
+      8.99,
+      9.29,
+      9.39,
+      9.4,
+      9.52,
+      9.54,
+      9.59,
+      9.61
+    ],
+    "Desvios": [
+      1.88,
+      2.21,
+      1.55,
+      2.28,
+      1.74,
+      1.62,
+      1.57,
+      1.84,
+      1.13
+    ],
+    "Componentes": {
+      "DGE0212 - HIDROLOGIA": {
+        "Notas": [
+          9.39,
+          9.4
+        ],
+        "Desvios": [
+          1.88,
+          1.74
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.395,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.4
+      },
+      "DGE0066 - CLIMATOLOGIA SISTEMATICA": {
+        "Notas": [
+          8.59,
+          8.99
+        ],
+        "Desvios": [
+          2.21,
+          2.28
+        ],
+        "DesvioDeNotas": 0.20000000000000018,
+        "MediaDeNotas": 8.79,
+        "MediaDeDesvios": 2.245,
+        "NotaMediana": 8.99
+      },
+      "DGE0209 - CLIMATOLOGIA SISTEMATICA": {
+        "Notas": [
+          9.29,
+          9.61
+        ],
+        "Desvios": [
+          1.55,
+          1.84
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.695,
+        "NotaMediana": 9.61
+      },
+      "DGE0060 - METEOROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          9.52,
+          9.54
+        ],
+        "Desvios": [
+          1.62,
+          1.57
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.5950000000000002,
+        "NotaMediana": 9.54
+      },
+      "DGE0207 - TEORIA E METODOS DA GEOGRAFIA": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.3160910948554443,
+    "MediaDeNotas": 9.324444444444444,
+    "MediaDeDesvios": 1.7577777777777779,
+    "NotaMediana": 9.4
+  },
+  "SEBASTIAO MILTON PINHEIRO DA SILVA": {
+    "Notas": [
+      8.55,
+      8.69,
+      8.87,
+      8.89,
+      9,
+      9.01,
+      9.35,
+      9.36,
+      9.37,
+      9.5
+    ],
+    "Desvios": [
+      2.14,
+      1.51,
+      1.64,
+      1.75,
+      1.66,
+      2.45,
+      2.02,
+      1.82,
+      1.62,
+      1.72
+    ],
+    "Componentes": {
+      "DGE0135 - CARTOGRAFIA TEMATICA": {
+        "Notas": [
+          8.87,
+          8.89
+        ],
+        "Desvios": [
+          2.14,
+          2.02
+        ],
+        "DesvioDeNotas": 0.010000000000000675,
+        "MediaDeNotas": 8.879999999999999,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 8.89
+      },
+      "DGE0315 - GEOPROCESSAMENTO": {
+        "Notas": [
+          9.37,
+          9.5
+        ],
+        "Desvios": [
+          1.51,
+          1.82
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.434999999999999,
+        "MediaDeDesvios": 1.665,
+        "NotaMediana": 9.5
+      },
+      "DGE0137 - SENSORIAMENTO REMOTO": {
+        "Notas": [
+          8.69,
+          9.36
+        ],
+        "Desvios": [
+          1.64,
+          1.66
+        ],
+        "DesvioDeNotas": 0.33499999999999996,
+        "MediaDeNotas": 9.024999999999999,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.36
+      },
+      "DGE0061 - CARTOGRAFIA TEMATICA": {
+        "Notas": [
+          8.55,
+          9
+        ],
+        "Desvios": [
+          1.75,
+          2.45
+        ],
+        "DesvioDeNotas": 0.22499999999999964,
+        "MediaDeNotas": 8.775,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9
+      },
+      "DGE0059 - CARTOGRAFIA GERAL": {
+        "Notas": [
+          9.35
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.35
+      },
+      "DGE0072 - CARTOGRAFIA PARA O ENSINO DA GEOGRAFIA": {
+        "Notas": [
+          9.01
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.01,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.01
+      }
+    },
+    "DesvioDeNotas": 0.30526873406885263,
+    "MediaDeNotas": 9.059000000000001,
+    "MediaDeDesvios": 1.8329999999999997,
+    "NotaMediana": 9.01
+  },
+  "SILVIO BRAZ DE SOUSA": {
+    "Notas": [
+      7.74,
+      7.86,
+      8.71,
+      9.17,
+      9.57
+    ],
+    "Desvios": [
+      1.09,
+      2.04,
+      2.02,
+      2.66,
+      2.44
+    ],
+    "Componentes": {
+      "DGE0051 - CARTOGRAFIA E TOPOGRAFIA": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.57
+      },
+      "DGE0102 - CARTOGRAFIA GERAL": {
+        "Notas": [
+          9.17
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 9.17
+      },
+      "DGE0072 - CARTOGRAFIA PARA O ENSINO DA GEOGRAFIA": {
+        "Notas": [
+          8.71
+        ],
+        "Desvios": [
+          2.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.71,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 8.71
+      },
+      "DGE1012 - GEOMORFOLOGIA": {
+        "Notas": [
+          7.74
+        ],
+        "Desvios": [
+          2.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.74,
+        "MediaDeDesvios": 2.66,
+        "NotaMediana": 7.74
+      },
+      "DGE0205 - METEOROLOGIA E CLIMATOLOGIA": {
+        "Notas": [
+          7.86
+        ],
+        "Desvios": [
+          2.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.86,
+        "MediaDeDesvios": 2.44,
+        "NotaMediana": 7.86
+      }
+    },
+    "DesvioDeNotas": 0.7161843338135789,
+    "MediaDeNotas": 8.610000000000001,
+    "MediaDeDesvios": 2.05,
+    "NotaMediana": 8.71
+  },
+  "ZULEIDE MARIA CARVALHO LIMA": {
+    "Notas": [
+      7.36,
+      8.74,
+      8.77,
+      8.96,
+      8.99,
+      9.03
+    ],
+    "Desvios": [
+      1.65,
+      1.7,
+      1.7,
+      1.63,
+      1.84,
+      2.74
+    ],
+    "Componentes": {
+      "DGE0131 - PEDOLOGIA": {
+        "Notas": [
+          8.96,
+          8.99
+        ],
+        "Desvios": [
+          1.65,
+          1.7
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 8.975000000000001,
+        "MediaDeDesvios": 1.6749999999999998,
+        "NotaMediana": 8.99
+      },
+      "DGE0146 - SEDIMENTOLOGIA": {
+        "Notas": [
+          8.74
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.74,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 8.74
+      },
+      "DGE0219 - GEOGRAFIA DO AMBIENTE COSTEIRO": {
+        "Notas": [
+          9.03
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.03,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.03
+      },
+      "DGE1012 - GEOMORFOLOGIA": {
+        "Notas": [
+          8.77
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.77,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 8.77
+      },
+      "DGE1017 - INTRODUÇÃO À CIÊNCIA DO SOLO": {
+        "Notas": [
+          7.36
+        ],
+        "Desvios": [
+          2.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.36,
+        "MediaDeDesvios": 2.74,
+        "NotaMediana": 7.36
+      }
+    },
+    "DesvioDeNotas": 0.5834214219203435,
+    "MediaDeNotas": 8.641666666666667,
+    "MediaDeDesvios": 1.8766666666666667,
+    "NotaMediana": 8.96
+  },
+  "ADRIANO LIMA TROLEIS": {
+    "Notas": [
+      9.71,
+      9.8
+    ],
+    "Desvios": [
+      1.35,
+      0.94
+    ],
+    "Componentes": {
+      "DGE0076 - GEOGRAFIA DE BACIAS HIDROGRAFICAS": {
+        "Notas": [
+          9.71,
+          9.8
+        ],
+        "Desvios": [
+          1.35,
+          0.94
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.755,
+        "MediaDeDesvios": 1.145,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.04499999999999993,
+    "MediaDeNotas": 9.755,
+    "MediaDeDesvios": 1.145,
+    "NotaMediana": 9.8
+  },
+  "CLEANTO CARLOS LIMA DA SILVA": {
+    "Notas": [
+      6,
+      8.72,
+      8.73,
+      9.34
+    ],
+    "Desvios": [
+      1.73,
+      2.99,
+      1.65,
+      1.71
+    ],
+    "Componentes": {
+      "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          8.73
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.73,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 8.73
+      },
+      "DGE0150 - GEOGRAFIA E TURISMO": {
+        "Notas": [
+          6
+        ],
+        "Desvios": [
+          2.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6,
+        "MediaDeDesvios": 2.99,
+        "NotaMediana": 6
+      },
+      "DGE0063 - GEOGRAFIA URBANA": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.34
+      },
+      "DGE0073 - GEOGRAFIA URBANA DO BRASIL": {
+        "Notas": [
+          8.72
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.72,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 8.72
+      }
+    },
+    "DesvioDeNotas": 1.293336286508656,
+    "MediaDeNotas": 8.1975,
+    "MediaDeDesvios": 2.0200000000000005,
+    "NotaMediana": 8.73
+  },
+  "FRANCISCO FRANSUALDO DE AZEVEDO": {
+    "Notas": [
+      8.59,
+      9.43,
+      9.52,
+      9.57,
+      9.79
+    ],
+    "Desvios": [
+      1.27,
+      1.16,
+      1.55,
+      1.31,
+      1.83
+    ],
+    "Componentes": {
+      "DGE0065 - GEOGRAFIA DA POPULACAO": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.79
+      },
+      "COP0011 - DESENVOLVIMENTO SUSTENTÁVEL E TERRITORIAL": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.16,
+        "NotaMediana": 9.57
+      },
+      "DGE0109 - GEOGRAFIA DA POPULACAO": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.52
+      },
+      "DGE0151 - GEOGRAFIA, TURISMO E DESENVOLVIMENTO REGIONAL": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.43
+      },
+      "DGE0150 - GEOGRAFIA E TURISMO": {
+        "Notas": [
+          8.59
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.59,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 8.59
+      }
+    },
+    "DesvioDeNotas": 0.412407565401024,
+    "MediaDeNotas": 9.38,
+    "MediaDeDesvios": 1.424,
+    "NotaMediana": 9.52
+  },
+  "JANE ROBERTA DE ASSIS BARBOSA": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      1.51
+    ],
+    "Componentes": {
+      "DGE0070 - GEOGRAFIA REGIONAL DO BRASIL": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.57
+  },
+  "LUCIANA DA COSTA FEITOSA": {
+    "Notas": [
+      7.83,
+      8.12,
+      8.16,
+      8.25,
+      8.29,
+      8.54,
+      8.66,
+      8.66,
+      8.67,
+      8.82,
+      9.09
+    ],
+    "Desvios": [
+      1.89,
+      1.51,
+      2.2,
+      2.29,
+      2.14,
+      2.29,
+      1.82,
+      1.68,
+      1.76,
+      1.79,
+      2.03
+    ],
+    "Componentes": {
+      "DGE0119 - GEOGRAFIA URBANA": {
+        "Notas": [
+          8.12,
+          9.09
+        ],
+        "Desvios": [
+          1.89,
+          1.76
+        ],
+        "DesvioDeNotas": 0.4850000000000003,
+        "MediaDeNotas": 8.605,
+        "MediaDeDesvios": 1.825,
+        "NotaMediana": 9.09
+      },
+      "DGE0188 - GESTÃO DO TERRITÓRIO": {
+        "Notas": [
+          8.66
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.66,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 8.66
+      },
+      "DGE0204 - FORMACAO ECONOMICA E TERRITORIAL DO BRASIL": {
+        "Notas": [
+          8.54
+        ],
+        "Desvios": [
+          2.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.54,
+        "MediaDeDesvios": 2.2,
+        "NotaMediana": 8.54
+      },
+      "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          7.83
+        ],
+        "Desvios": [
+          2.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.83,
+        "MediaDeDesvios": 2.29,
+        "NotaMediana": 7.83
+      },
+      "DGE0142 - GEOGRAFIA POLITICA": {
+        "Notas": [
+          8.29
+        ],
+        "Desvios": [
+          2.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.29,
+        "MediaDeDesvios": 2.14,
+        "NotaMediana": 8.29
+      },
+      "DGE0063 - GEOGRAFIA URBANA": {
+        "Notas": [
+          8.66
+        ],
+        "Desvios": [
+          2.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.66,
+        "MediaDeDesvios": 2.29,
+        "NotaMediana": 8.66
+      },
+      "DGE0217 - PLANEJAMENTO URBANO E REGIONAL": {
+        "Notas": [
+          8.16
+        ],
+        "Desvios": [
+          1.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.16,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 8.16
+      },
+      "DGE0070 - GEOGRAFIA REGIONAL DO BRASIL": {
+        "Notas": [
+          8.25
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.25,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 8.25
+      },
+      "DGE0165 - GESTÃO DO TERRITÓRIO": {
+        "Notas": [
+          8.67,
+          8.82
+        ],
+        "Desvios": [
+          1.79,
+          2.03
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 8.745000000000001,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 8.82
+      }
+    },
+    "DesvioDeNotas": 0.34803581082962537,
+    "MediaDeNotas": 8.462727272727271,
+    "MediaDeDesvios": 1.9454545454545455,
+    "NotaMediana": 8.54
+  },
+  "LUIZ ANTONIO CESTARO": {
+    "Notas": [
+      9.31,
+      9.41,
+      9.56,
+      9.84,
+      9.9
+    ],
+    "Desvios": [
+      1.77,
+      1.08,
+      1.7,
+      1.5,
+      1.5
+    ],
+    "Componentes": {
+      "DGE0208 - ECOLOGIA": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.41
+      },
+      "DGE0082 - FITOGEOGRAFIA DO BRASIL": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.84
+      },
+      "DGE1013 - QUANTIFICAÇÃO EM GEOGRAFIA": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.31
+      },
+      "DGE0064 - BIOGEOGRAFIA": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.56
+      },
+      "DGE0107 - BIOGEOGRAFIA": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.23208619088605842,
+    "MediaDeNotas": 9.604000000000001,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.56
+  },
+  "PABLO RANIERE MEDEIROS DA COSTA": {
+    "Notas": [
+      8.39,
+      8.55,
+      8.71,
+      8.99,
+      9.02,
+      9.43
+    ],
+    "Desvios": [
+      1.57,
+      1.94,
+      1.75,
+      1.56,
+      1.62,
+      1.72
+    ],
+    "Componentes": {
+      "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          8.55
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.55,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 8.55
+      },
+      "DGE0142 - GEOGRAFIA POLITICA": {
+        "Notas": [
+          8.71
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.71,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 8.71
+      },
+      "DGE0073 - GEOGRAFIA URBANA DO BRASIL": {
+        "Notas": [
+          8.39
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.39,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 8.39
+      },
+      "DGE0065 - GEOGRAFIA DA POPULACAO": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.43
+      },
+      "DGE1011 - GEOGRAFIA REGIONAL DO MUNDO": {
+        "Notas": [
+          9.02
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.02
+      },
+      "DGE0058 - TEORIA E METODOS DA GEOGRAFIA": {
+        "Notas": [
+          8.99
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.99,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 8.99
+      }
+    },
+    "DesvioDeNotas": 0.3430459962680738,
+    "MediaDeNotas": 8.848333333333333,
+    "MediaDeDesvios": 1.6933333333333336,
+    "NotaMediana": 8.99
+  },
+  "JOSE LACERDA ALVES FELIPE": {
+    "Notas": [
+      8.83,
+      9.19
+    ],
+    "Desvios": [
+      1.47,
+      1.8
+    ],
+    "Componentes": {
+      "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE": {
+        "Notas": [
+          8.83,
+          9.19
+        ],
+        "Desvios": [
+          1.47,
+          1.8
+        ],
+        "DesvioDeNotas": 0.17999999999999972,
+        "MediaDeNotas": 9.01,
+        "MediaDeDesvios": 1.635,
+        "NotaMediana": 9.19
+      }
+    },
+    "DesvioDeNotas": 0.17999999999999972,
+    "MediaDeNotas": 9.01,
+    "MediaDeDesvios": 1.635,
+    "NotaMediana": 9.19
+  },
+  "MARIA FRANCISCA DE JESUS LIRIO RAMALHO": {
+    "Notas": [
+      8.55,
+      8.61
+    ],
+    "Desvios": [
+      1.75,
+      2.1
+    ],
+    "Componentes": {
+      "DGE0213 - GEOGRAFIA DE BACIAS HIDROGRAFICAS": {
+        "Notas": [
+          8.61
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.61,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 8.61
+      },
+      "DGE1012 - GEOMORFOLOGIA": {
+        "Notas": [
+          8.55
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.55,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 8.55
+      }
+    },
+    "DesvioDeNotas": 0.02999999999999936,
+    "MediaDeNotas": 8.58,
+    "MediaDeDesvios": 1.925,
+    "NotaMediana": 8.61
+  }
+}

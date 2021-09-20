@@ -1,0 +1,4250 @@
+[
+    {
+        "Docente": "ADEMIR OLIVEIRA DA SILVA",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "6M56",
+        "Discentes": "13",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "ADEMIR OLIVEIRA DA SILVA",
+        "Componente Curricular": "QUI0133 - QUIMICA INORGANICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "6T12",
+        "Discentes": "7",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "ADEMIR OLIVEIRA DA SILVA",
+        "Componente Curricular": "QUI0612 - QUIMICA INORGANICA II",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "29",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "ALCIDES DE OLIVEIRA WANDERLEY NETO",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "31",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "ALCIDES DE OLIVEIRA WANDERLEY NETO",
+        "Componente Curricular": "QUI0510 - QUIMICA FUNDAMENTAL I",
+        "Turma": "1",
+        "Horário": "246N34",
+        "Discentes": "24",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "AMANDA DUARTE GONDIM",
+        "Componente Curricular": "QUI0651 - MÉTODOS DE SEPARAÇÃO",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "11",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "3",
+        "Horário": "35N34",
+        "Discentes": "34",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "11",
+        "Horário": "5T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "3",
+        "Horário": "24N12",
+        "Discentes": "44",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "ANA CRISTINA FACUNDO DE BRITO PONTES",
+        "Componente Curricular": "QUI0065 - SEMINÁRIOS PARA O CURSO DE QUÍMICA",
+        "Turma": "1",
+        "Horário": "4M56",
+        "Discentes": "44",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "ANDERSON DOS REIS ALBUQUERQUE",
+        "Componente Curricular": "QUI0632 - FISICO-QUIMICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "5N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "10",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "ANTONIO SOUZA DE ARAUJO",
+        "Componente Curricular": "QUI0321 - QUIMICA INORGANICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "17",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "ANTONIO SOUZA DE ARAUJO",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "2M56",
+        "Discentes": "14",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "ANTONIO SOUZA DE ARAUJO",
+        "Componente Curricular": "QUI0615 - QUIMICA INORGANICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "5T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "9",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "ARUZZA MABEL DE MORAIS ARAUJO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "16",
+        "Horário": "2T456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "12",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "ARUZZA MABEL DE MORAIS ARAUJO",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "7",
+        "Horário": "24N12",
+        "Discentes": "27",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "ARUZZA MABEL DE MORAIS ARAUJO",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "4M56",
+        "Discentes": "6",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "CAIO LIMA FIRME",
+        "Componente Curricular": "QUI0341 - ORGANICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "4M56",
+        "Discentes": "10",
+        "Média Geral": "8.92",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "CAIO LIMA FIRME",
+        "Componente Curricular": "QUI0340 - ORGANICA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "26",
+        "Média Geral": "8.37",
+        "Desvio Padrão Geral": "2.78"
+    },
+    {
+        "Docente": "CAIO LIMA FIRME",
+        "Componente Curricular": "QUI0621 - QUIMICA ORGANICA II",
+        "Turma": "2",
+        "Horário": "35N34",
+        "Discentes": "7",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "CARLOS ALBERTO MARTINEZ HUITLE",
+        "Componente Curricular": "QUI0067 - MÉTODOS ELETROANALÍTICOS",
+        "Turma": "1",
+        "Horário": "246T34",
+        "Discentes": "14",
+        "Média Geral": "8.56",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "CARLOS ALBERTO MARTINEZ HUITLE",
+        "Componente Curricular": "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA",
+        "Turma": "1",
+        "Horário": "36N34",
+        "Discentes": "35",
+        "Média Geral": "8.16",
+        "Desvio Padrão Geral": "2.37"
+    },
+    {
+        "Docente": "CARLOS NECO DA SILVA JUNIOR",
+        "Componente Curricular": "QUI0079 - ENSINO DE QUIMICA II",
+        "Turma": "3",
+        "Horário": "5T6 5N12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "11",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "CARLOS NECO DA SILVA JUNIOR",
+        "Componente Curricular": "QUI0080 - ENSINO DE QUÍMICA III",
+        "Turma": "3",
+        "Horário": "3T6 3N12",
+        "Discentes": "12",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0343 - ORGANICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "6M56",
+        "Discentes": "10",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0340 - ORGANICA I",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "28",
+        "Média Geral": "9.01",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0621 - QUIMICA ORGANICA II",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2.24"
+    },
+    {
+        "Docente": "DANIEL DE LIMA PONTES",
+        "Componente Curricular": "QUI0607 - METODOS ESPECTROSCOPICOS",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "30",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "DAVI SERRADELLA VIEIRA",
+        "Componente Curricular": "QUI0084 - ELETROQUÍMICA E CINÉTICA QUÍMICA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "11",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "DAVI SERRADELLA VIEIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "6T456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "12",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "EDGAR PERIN MORAES",
+        "Componente Curricular": "QUI0068 - MÉTODOS ESPECTROANALÍTICOS",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "17",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "EDGAR PERIN MORAES",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "3",
+        "Horário": "2N1234 4N12",
+        "Discentes": "6",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "EDGAR PERIN MORAES",
+        "Componente Curricular": "QUI0610 - QUIMIOMETRIA",
+        "Turma": "2",
+        "Horário": "4T12 6T56",
+        "Discentes": "22",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "ELEDIR VITOR SOBRINHO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "4",
+        "Horário": "6T456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "ELEDIR VITOR SOBRINHO",
+        "Componente Curricular": "QUI0650 - SEMINÁRIOS SOBRE O PETRÓLEO, O GÁS NATURAL E SEUS COMPONENTES",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "53",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "ELEDIR VITOR SOBRINHO",
+        "Componente Curricular": "QUI0656 - TRATAMENTO DE EFLUENTES DA INDÚSTRIA DO PETRÓLEO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "13",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "FABIANO DO ESPIRITO SANTO GOMES",
+        "Componente Curricular": "QUI0341 - ORGANICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "13",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "FABIANO DO ESPIRITO SANTO GOMES",
+        "Componente Curricular": "QUI0343 - ORGANICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "4M12",
+        "Discentes": "10",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "FABIANO DO ESPIRITO SANTO GOMES",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "2",
+        "Horário": "35M12",
+        "Discentes": "46",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "FABRICIO GAVA MENEZES",
+        "Componente Curricular": "QUI0342 - ORGANICA II",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "29",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "FABRICIO GAVA MENEZES",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "40",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "FABRICIO GAVA MENEZES",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "3",
+        "Horário": "35N34",
+        "Discentes": "34",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "FERNANDO JOSÉ VOLPI EUSÉBIO DE OLIVEIRA",
+        "Componente Curricular": "QUI0600 - QUIMICA FUNDAMENTAL I",
+        "Turma": "2",
+        "Horário": "246T12",
+        "Discentes": "45",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "FERNANDO JOSÉ VOLPI EUSÉBIO DE OLIVEIRA",
+        "Componente Curricular": "QUI0133 - QUIMICA INORGANICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "6M34",
+        "Discentes": "14",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0603 - QUIMICA ANALITICA QUALITATIVA",
+        "Turma": "3",
+        "Horário": "246N34",
+        "Discentes": "13",
+        "Média Geral": "7.96",
+        "Desvio Padrão Geral": "3.04"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0604 - QUIMICA ANALITICA QUANTITATIVA",
+        "Turma": "1",
+        "Horário": "246N12",
+        "Discentes": "22",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "15",
+        "Horário": "5T456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "14",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "FRANCISCO JOSE SANTOS LIMA",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "4",
+        "Horário": "35T56",
+        "Discentes": "13",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "FRANCISCO JOSE SANTOS LIMA",
+        "Componente Curricular": "QUI0600 - QUIMICA FUNDAMENTAL I",
+        "Turma": "4",
+        "Horário": "246N12",
+        "Discentes": "44",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "6",
+        "Horário": "35N34",
+        "Discentes": "19",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "2.44"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0611 - QUIMICA INORGANICA I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "32",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "FRANKLIN NELSON DA CRUZ",
+        "Componente Curricular": "QUI0600 - QUIMICA FUNDAMENTAL I",
+        "Turma": "3",
+        "Horário": "246M34",
+        "Discentes": "40",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "2.71"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO BEZERRA DA SILVA",
+        "Componente Curricular": "QUI0604 - QUIMICA ANALITICA QUANTITATIVA",
+        "Turma": "2",
+        "Horário": "246M12",
+        "Discentes": "6",
+        "Média Geral": "8.73",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO BEZERRA DA SILVA",
+        "Componente Curricular": "QUI1000 - QUÍMICA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "46T12",
+        "Discentes": "30",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "JAILSON VIEIRA DE MELO",
+        "Componente Curricular": "QUI0603 - QUIMICA ANALITICA QUALITATIVA",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "14",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "JAILSON VIEIRA DE MELO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "16",
+        "Horário": "2T456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "12",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "JOAO BOSCO LUCENA DE OLIVEIRA",
+        "Componente Curricular": "QUI0632 - FISICO-QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "5M3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "9",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "JOAO BOSCO LUCENA DE OLIVEIRA",
+        "Componente Curricular": "QUI0632 - FISICO-QUIMICA EXPERIMENTAL",
+        "Turma": "4",
+        "Horário": "6T3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "13",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "JOAO BOSCO LUCENA DE OLIVEIRA",
+        "Componente Curricular": "QUI0659 - PRINCÍPIOS DE FÍSICO-QUÍMICA",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "10",
+        "Média Geral": "8.18",
+        "Desvio Padrão Geral": "3.07"
+    },
+    {
+        "Docente": "JOSE LUIS CARDOZO FONSECA",
+        "Componente Curricular": "QUI0641 - FÍSICO-QUÍMICA DE SUPERFÍCIES E INTERFACES APLICADA AO PETRÓLEO E GÁS NATURAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "16",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "JOSE LUIS CARDOZO FONSECA",
+        "Componente Curricular": "QUI0600 - QUIMICA FUNDAMENTAL I",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "44",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "JULIANA DE SOUZA NUNES",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "3",
+        "Horário": "35T56",
+        "Discentes": "38",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "JULIANA DE SOUZA NUNES",
+        "Componente Curricular": "QUI0671 - QUÍMICA INDUSTRIAL III: PROCESSOS BIOQUÍMICOS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "39",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "JÚLIO CÉZAR DE OLIVEIRA FREITAS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "6M456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "14",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "JÚLIO CÉZAR DE OLIVEIRA FREITAS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "12",
+        "Horário": "5T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "12",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "JÚLIO CÉZAR DE OLIVEIRA FREITAS",
+        "Componente Curricular": "QUI0057 - SEMINÁRIOS DE ESTÁGIOS DO CURSO DE QUÍMICA DO PETRÓLEO",
+        "Turma": "1",
+        "Horário": "6T34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "KASSIO MICHELL GOMES DE LIMA",
+        "Componente Curricular": "QUI0068 - MÉTODOS ESPECTROANALÍTICOS",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "17",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "KASSIO MICHELL GOMES DE LIMA",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "3",
+        "Horário": "2N1234 4N12",
+        "Discentes": "6",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "KASSIO MICHELL GOMES DE LIMA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "6T456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "12",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "2.56"
+    },
+    {
+        "Docente": "LIVIA NUNES CAVALCANTI",
+        "Componente Curricular": "QUI0062 - QUÍMICA ORGÂNICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "6M234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "6",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "LIVIA NUNES CAVALCANTI",
+        "Componente Curricular": "QUI0062 - QUÍMICA ORGÂNICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "2T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "9",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "3.31"
+    },
+    {
+        "Docente": "LIVIA NUNES CAVALCANTI",
+        "Componente Curricular": "QUI0062 - QUÍMICA ORGÂNICA EXPERIMENTAL I",
+        "Turma": "3",
+        "Horário": "5M345 (11/02/2019 - 29/06/2019)",
+        "Discentes": "14",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "7",
+        "Horário": "6T456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "9",
+        "Horário": "4M456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "14",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0674.1 - QUÍMICA INDUSTRIAL II - PRÁTICA",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "12",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0674.0 - QUÍMICA INDUSTRIAL II - TEÓRICA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "12",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "LUIZ HENRIQUE DA SILVA GASPAROTTO",
+        "Componente Curricular": "QUI0086 - FÍSICO-QUÍMICA DE SUPERFÍCIE E ELETROQUÍMICA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "26",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "LUIZ HENRIQUE DA SILVA GASPAROTTO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "10",
+        "Horário": "4M456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "14",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0079 - ENSINO DE QUIMICA II",
+        "Turma": "2",
+        "Horário": "3M56 3T1 (11/02/2019 - 29/06/2019)",
+        "Discentes": "19",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0079 - ENSINO DE QUIMICA II",
+        "Turma": "3",
+        "Horário": "5T6 5N12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "11",
+        "Média Geral": "8.94",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0066 - SEMINÁRIOS EM EDUCAÇÃO QUÍMICA",
+        "Turma": "1",
+        "Horário": "4M56",
+        "Discentes": "47",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0066 - SEMINÁRIOS EM EDUCAÇÃO QUÍMICA",
+        "Turma": "2",
+        "Horário": "3N12",
+        "Discentes": "47",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "MARCIA GORETTE LIMA DA SILVA",
+        "Componente Curricular": "QUI0080 - ENSINO DE QUÍMICA III",
+        "Turma": "2",
+        "Horário": "2M56 2T1",
+        "Discentes": "13",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "MARCIA RODRIGUES PEREIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "8",
+        "Horário": "4M456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "12",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "2.54"
+    },
+    {
+        "Docente": "MARCIA RODRIGUES PEREIRA",
+        "Componente Curricular": "QUI0601 - QUIMICA FUNDAMENTAL II",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "35",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "2.51"
+    },
+    {
+        "Docente": "MARCIA TEIXEIRA BARROSO",
+        "Componente Curricular": "QUI0620 - QUIMICA ORGANICA I",
+        "Turma": "3",
+        "Horário": "24T56",
+        "Discentes": "10",
+        "Média Geral": "8.17",
+        "Desvio Padrão Geral": "3.35"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "2",
+        "Horário": "2N12 4N1234",
+        "Discentes": "14",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0603 - QUIMICA ANALITICA QUALITATIVA",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "14",
+        "Média Geral": "8.72",
+        "Desvio Padrão Geral": "2.23"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0610 - QUIMIOMETRIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "21",
+        "Média Geral": "8.27",
+        "Desvio Padrão Geral": "2.37"
+    },
+    {
+        "Docente": "MARIA GORETTE CAVALCANTE",
+        "Componente Curricular": "QUI0631 - CINETICA QUIMICA",
+        "Turma": "2",
+        "Horário": "26T12",
+        "Discentes": "25",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "MARIA GORETTE CAVALCANTE",
+        "Componente Curricular": "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "22",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "MARTA COSTA",
+        "Componente Curricular": "QUI1004 - PRINCIPIOS DE QUIMICA ORGÂNICA BIOLÓGICA",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "13",
+        "Média Geral": "8.11",
+        "Desvio Padrão Geral": "2.36"
+    },
+    {
+        "Docente": "MARTA COSTA",
+        "Componente Curricular": "QUI0620 - QUIMICA ORGANICA I",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "42",
+        "Média Geral": "7.3",
+        "Desvio Padrão Geral": "3.43"
+    },
+    {
+        "Docente": "MELQUESEDEQUE DA SILVA FREIRE",
+        "Componente Curricular": "QUI0080 - ENSINO DE QUÍMICA III",
+        "Turma": "1",
+        "Horário": "2M56 2T1",
+        "Discentes": "15",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "MELQUESEDEQUE DA SILVA FREIRE",
+        "Componente Curricular": "QUI0080 - ENSINO DE QUÍMICA III",
+        "Turma": "3",
+        "Horário": "3T6 3N12",
+        "Discentes": "12",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "MELQUESEDEQUE DA SILVA FREIRE",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "6M456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "13",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "MIGUEL ANGELO FONSECA DE SOUZA",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "5",
+        "Horário": "35T34",
+        "Discentes": "11",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "MIGUEL ANGELO FONSECA DE SOUZA",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "6",
+        "Horário": "35T12",
+        "Discentes": "29",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "NEDJA SUELY FERNANDES",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "2",
+        "Horário": "2N12 4N1234",
+        "Discentes": "14",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "NEDJA SUELY FERNANDES",
+        "Componente Curricular": "QUI0603 - QUIMICA ANALITICA QUALITATIVA",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "14",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "NEDJA SUELY FERNANDES",
+        "Componente Curricular": "QUI0603 - QUIMICA ANALITICA QUALITATIVA",
+        "Turma": "2",
+        "Horário": "246T34",
+        "Discentes": "16",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "OTOM ANSELMO DE OLIVEIRA",
+        "Componente Curricular": "QUI0615 - QUIMICA INORGANICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "5M56 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "0.76"
+    },
+    {
+        "Docente": "OTOM ANSELMO DE OLIVEIRA",
+        "Componente Curricular": "QUI0612 - QUIMICA INORGANICA II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "36",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0082 - ENSINO DE QUÍMICA V",
+        "Turma": "1",
+        "Horário": "6M56 6T1",
+        "Discentes": "19",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0082 - ENSINO DE QUÍMICA V",
+        "Turma": "4",
+        "Horário": "3N234",
+        "Discentes": "15",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "PAULO ROBERTO PAIVA CAMPOS",
+        "Componente Curricular": "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "44",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "POLLYANA SOUZA CASTRO",
+        "Componente Curricular": "QUI0068 - MÉTODOS ESPECTROANALÍTICOS",
+        "Turma": "2",
+        "Horário": "246T56",
+        "Discentes": "17",
+        "Média Geral": "8.47",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "POLLYANA SOUZA CASTRO",
+        "Componente Curricular": "QUI0644 - QUIMICA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "27",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "RENATA MENDONÇA ARAUJO",
+        "Componente Curricular": "QUI0204 - QUIMICA ORGANICA III",
+        "Turma": "01A",
+        "Horário": "246M12",
+        "Discentes": "29",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "39",
+        "Média Geral": "6.27",
+        "Desvio Padrão Geral": "3.36"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "5",
+        "Horário": "35M34",
+        "Discentes": "41",
+        "Média Geral": "8.43",
+        "Desvio Padrão Geral": "2.91"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "40",
+        "Média Geral": "6.95",
+        "Desvio Padrão Geral": "3.29"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "40",
+        "Média Geral": "8.41",
+        "Desvio Padrão Geral": "2.94"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "4",
+        "Horário": "24M12",
+        "Discentes": "41",
+        "Média Geral": "8.29",
+        "Desvio Padrão Geral": "2.74"
+    },
+    {
+        "Docente": "ROSANGELA DE CARVALHO BALABAN",
+        "Componente Curricular": "QUI0640 - REOLOGIA APLICADA À FLUIDOS DE PERFURAÇÃO",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "9",
+        "Média Geral": "8.64",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "SIBELE BERENICE CASTELLA PERGHER",
+        "Componente Curricular": "QUI0670 - QUÍMICA INDUSTRIAL I: PROCESSOS QUÍMICOS INORGÂNICOS",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "26",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "TIAGO PINHEIRO BRAGA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "13",
+        "Horário": "5T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "10",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "2.36"
+    },
+    {
+        "Docente": "VALTER JOSE FERNANDES JUNIOR",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "1",
+        "Horário": "35M456",
+        "Discentes": "20",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "ADEMIR OLIVEIRA DA SILVA",
+        "Componente Curricular": "QUI0600 - QUIMICA FUNDAMENTAL I",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "30",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "ADEMIR OLIVEIRA DA SILVA",
+        "Componente Curricular": "QUI0131 - QUIMICA INORGANICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "5T34",
+        "Discentes": "11",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "ALCIDES DE OLIVEIRA WANDERLEY NETO",
+        "Componente Curricular": "QUI0335 - CORROSAO DOS MATERIAIS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "18",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "ALCIDES DE OLIVEIRA WANDERLEY NETO",
+        "Componente Curricular": "QUI0602 - QUIMICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "5M123",
+        "Discentes": "15",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "ALCIDES DE OLIVEIRA WANDERLEY NETO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "7",
+        "Horário": "6T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "AMANDA DUARTE GONDIM",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "28",
+        "Média Geral": "8.33",
+        "Desvio Padrão Geral": "2.64"
+    },
+    {
+        "Docente": "AMANDA DUARTE GONDIM",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "13",
+        "Horário": "5T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0341 - ORGANICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "4M56",
+        "Discentes": "14",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "ANA CRISTINA FACUNDO DE BRITO PONTES",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "5",
+        "Horário": "2M34",
+        "Discentes": "13",
+        "Média Geral": "8.6",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "ANDERSON DOS REIS ALBUQUERQUE",
+        "Componente Curricular": "QUI0678 - PRINCÍPIOS DE TERMODINÂMICA QUÍMICA",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "15",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "ANDERSON DOS REIS ALBUQUERQUE",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "9",
+        "Horário": "4M456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "ANDERSON DOS REIS ALBUQUERQUE",
+        "Componente Curricular": "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO",
+        "Turma": "4",
+        "Horário": "246N12",
+        "Discentes": "10",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "ANTONIO SOUZA DE ARAUJO",
+        "Componente Curricular": "QUI0321 - QUIMICA INORGANICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "31",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "ANTONIO SOUZA DE ARAUJO",
+        "Componente Curricular": "QUI0611 - QUIMICA INORGANICA I",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "36",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "ARUZZA MABEL DE MORAIS ARAUJO",
+        "Componente Curricular": "QUI0343 - ORGANICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "4M12",
+        "Discentes": "15",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "ARUZZA MABEL DE MORAIS ARAUJO",
+        "Componente Curricular": "QUI0340 - ORGANICA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "37",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "ARUZZA MABEL DE MORAIS ARAUJO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "13",
+        "Horário": "5T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "ARUZZA MABEL DE MORAIS ARAUJO",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "6",
+        "Horário": "46N12",
+        "Discentes": "36",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "ARUZZA MABEL DE MORAIS ARAUJO",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "8",
+        "Horário": "24T12",
+        "Discentes": "12",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "CAIO LIMA FIRME",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "3",
+        "Horário": "24T12",
+        "Discentes": "9",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "2.7"
+    },
+    {
+        "Docente": "CARLOS ALBERTO MARTINEZ HUITLE",
+        "Componente Curricular": "QUI0067 - MÉTODOS ELETROANALÍTICOS",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "24",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "CARLOS ALBERTO MARTINEZ HUITLE",
+        "Componente Curricular": "QUI0644 - QUIMICA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "12",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "CARLOS NECO DA SILVA JUNIOR",
+        "Componente Curricular": "QUI0085 - ENSINO DE QUIMICA I",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "15",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "CARLOS NECO DA SILVA JUNIOR",
+        "Componente Curricular": "QUI0085 - ENSINO DE QUIMICA I",
+        "Turma": "3",
+        "Horário": "3T6 3N12",
+        "Discentes": "6",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "41",
+        "Média Geral": "7.98",
+        "Desvio Padrão Geral": "3.4"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0621 - QUIMICA ORGANICA II",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "9",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0063 - QUÍMICA ORGÂNICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "6T123",
+        "Discentes": "10",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "DANIEL DE LIMA PONTES",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "4",
+        "Horário": "24N12",
+        "Discentes": "43",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "2.45"
+    },
+    {
+        "Docente": "DANIEL DE LIMA PONTES",
+        "Componente Curricular": "QUI0612 - QUIMICA INORGANICA II",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "15",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "DAVI SERRADELLA VIEIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "17",
+        "Horário": "3T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "DAVI SERRADELLA VIEIRA",
+        "Componente Curricular": "QUI0601 - QUIMICA FUNDAMENTAL II",
+        "Turma": "3",
+        "Horário": "246T34",
+        "Discentes": "25",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "DULCE MARIA DE ARAUJO MELO",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "33",
+        "Média Geral": "8.96",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "DULCE MARIA DE ARAUJO MELO",
+        "Componente Curricular": "QUI0611 - QUIMICA INORGANICA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "30",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "EDGAR PERIN MORAES",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "3",
+        "Horário": "4M56 6M3456",
+        "Discentes": "29",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "2.61"
+    },
+    {
+        "Docente": "ELEDIR VITOR SOBRINHO",
+        "Componente Curricular": "QUI0058 - FUNDAMENTOS DE REFINO DE PETRÓLEO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "13",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "ELEDIR VITOR SOBRINHO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "14",
+        "Horário": "5M456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "11",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "FABIANO DO ESPIRITO SANTO GOMES",
+        "Componente Curricular": "QUI0063 - QUÍMICA ORGÂNICA EXPERIMENTAL II",
+        "Turma": "3",
+        "Horário": "6T456",
+        "Discentes": "10",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "0.85"
+    },
+    {
+        "Docente": "FABIANO DO ESPIRITO SANTO GOMES",
+        "Componente Curricular": "QUI0063 - QUÍMICA ORGÂNICA EXPERIMENTAL II",
+        "Turma": "4",
+        "Horário": "5T234",
+        "Discentes": "14",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "FABRICIO GAVA MENEZES",
+        "Componente Curricular": "QUI0340 - ORGANICA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "37",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "FABRICIO GAVA MENEZES",
+        "Componente Curricular": "QUI0622 - QUIMICA ORGANICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "4M3456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "15",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "FERNANDO JOSÉ VOLPI EUSÉBIO DE OLIVEIRA",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "5",
+        "Horário": "35T34",
+        "Discentes": "17",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "FERNANDO JOSÉ VOLPI EUSÉBIO DE OLIVEIRA",
+        "Componente Curricular": "QUI0613 - QUIMICA INORGANICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "3M12",
+        "Discentes": "13",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "FERNANDO JOSÉ VOLPI EUSÉBIO DE OLIVEIRA",
+        "Componente Curricular": "QUI0613 - QUIMICA INORGANICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "3M34",
+        "Discentes": "15",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "3",
+        "Horário": "35T56",
+        "Discentes": "31",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "6T456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "11",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0602 - QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "3T123",
+        "Discentes": "15",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "FRANCISCO JOSE SANTOS LIMA",
+        "Componente Curricular": "QUI0601 - QUIMICA FUNDAMENTAL II",
+        "Turma": "4",
+        "Horário": "246N12",
+        "Discentes": "30",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "2M56",
+        "Discentes": "5",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "2.7"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0131 - QUIMICA INORGANICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "5T12",
+        "Discentes": "14",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0614 - QUIMICA INORGANICA III",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "35",
+        "Média Geral": "8.79",
+        "Desvio Padrão Geral": "2.61"
+    },
+    {
+        "Docente": "Fernanda Marur Mazze",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "8",
+        "Horário": "24T12",
+        "Discentes": "12",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "Fernanda Marur Mazze",
+        "Componente Curricular": "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "8",
+        "Média Geral": "8.44",
+        "Desvio Padrão Geral": "2.37"
+    },
+    {
+        "Docente": "GRAZIELLE TAVARES MALCHER",
+        "Componente Curricular": "QUI0341 - ORGANICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "14",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "GRAZIELLE TAVARES MALCHER",
+        "Componente Curricular": "QUI0343 - ORGANICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "4M12",
+        "Discentes": "15",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.4"
+    },
+    {
+        "Docente": "GRAZIELLE TAVARES MALCHER",
+        "Componente Curricular": "QUI0622 - QUIMICA ORGANICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "4M3456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "15",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "GRAZIELLE TAVARES MALCHER",
+        "Componente Curricular": "QUI0620 - QUIMICA ORGANICA I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "26",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO BEZERRA DA SILVA",
+        "Componente Curricular": "QUI0644 - QUIMICA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "23",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO BEZERRA DA SILVA",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "2",
+        "Horário": "35M456",
+        "Discentes": "24",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO BEZERRA DA SILVA",
+        "Componente Curricular": "QUI0604 - QUIMICA ANALITICA QUANTITATIVA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "11",
+        "Média Geral": "5.57",
+        "Desvio Padrão Geral": "3.28"
+    },
+    {
+        "Docente": "JAILSON VIEIRA DE MELO",
+        "Componente Curricular": "QUI0604 - QUIMICA ANALITICA QUANTITATIVA",
+        "Turma": "2",
+        "Horário": "246T34",
+        "Discentes": "18",
+        "Média Geral": "7.99",
+        "Desvio Padrão Geral": "3"
+    },
+    {
+        "Docente": "JAILSON VIEIRA DE MELO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "11",
+        "Horário": "5T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "JOAO BOSCO LUCENA DE OLIVEIRA",
+        "Componente Curricular": "QUI0084 - ELETROQUÍMICA E CINÉTICA QUÍMICA",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "28",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "JOAO BOSCO LUCENA DE OLIVEIRA",
+        "Componente Curricular": "QUI0632 - FISICO-QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "6T1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "16",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "JOSE LUIS CARDOZO FONSECA",
+        "Componente Curricular": "QUI0602 - QUIMICA EXPERIMENTAL",
+        "Turma": "4",
+        "Horário": "3T123",
+        "Discentes": "11",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "JOSE LUIS CARDOZO FONSECA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "8",
+        "Horário": "4M456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "11",
+        "Média Geral": "8.15",
+        "Desvio Padrão Geral": "2.56"
+    },
+    {
+        "Docente": "JOSE LUIS CARDOZO FONSECA",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "7",
+        "Horário": "35T56",
+        "Discentes": "19",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "JULIANA DE SOUZA NUNES",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "6M456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "JULIANA DE SOUZA NUNES",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "5",
+        "Horário": "6T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "JULIANA DE SOUZA NUNES",
+        "Componente Curricular": "QUI0673 - QUÍMICA INDUSTRIAL IV: PROCESSOS E TECNOLOGIA DE ALIMENTOS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "35",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "JÚLIO CÉZAR DE OLIVEIRA FREITAS",
+        "Componente Curricular": "QUI0639 - FUNDAMENTOS DE EXPLORACAO E PRODUCAO DE PETROLEO E GAS NAT.",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "7",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "JÚLIO CÉZAR DE OLIVEIRA FREITAS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "16",
+        "Horário": "3M123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "15",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "KASSIO MICHELL GOMES DE LIMA",
+        "Componente Curricular": "QUI0603 - QUIMICA ANALITICA QUALITATIVA",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "11",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "KASSIO MICHELL GOMES DE LIMA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "6M456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "11",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "LIVIA NUNES CAVALCANTI",
+        "Componente Curricular": "QUI0342 - ORGANICA II",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "28",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "LIVIA NUNES CAVALCANTI",
+        "Componente Curricular": "QUI0621 - QUIMICA ORGANICA II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "33",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0674.1 - QUÍMICA INDUSTRIAL II - PRÁTICA",
+        "Turma": "1",
+        "Horário": "5T56",
+        "Discentes": "18",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0674.0 - QUÍMICA INDUSTRIAL II - TEÓRICA",
+        "Turma": "1",
+        "Horário": "3T56",
+        "Discentes": "18",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0675.1 - TÉCNICAS DE CARACTERIZAÇÃO DO PETRÓLEO E GÁS NATURAL -PRÁTICA",
+        "Turma": "1",
+        "Horário": "5T12",
+        "Discentes": "9",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0675.0 - TÉCNICAS DE CARACTERIZAÇÃO DO PETRÓLEO E GÁS NATURAL -TEÓRICA",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "9",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "LUIZ HENRIQUE DA SILVA GASPAROTTO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "4",
+        "Horário": "6T456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "13",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0079 - ENSINO DE QUIMICA II",
+        "Turma": "2",
+        "Horário": "6T6 6N12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "12",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0087 - HISTÓRIA E FILOSOFIA DA QUÍMICA",
+        "Turma": "1",
+        "Horário": "5M34 6T12",
+        "Discentes": "33",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0087 - HISTÓRIA E FILOSOFIA DA QUÍMICA",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "20",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0078 - SEMINÁRIOS DE ESTÁGIOS DE LICENCIATURA EM QUÍMICA",
+        "Turma": "3",
+        "Horário": "3N34 (13/08/2018 - 16/11/2018)",
+        "Discentes": "18",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "MARCIA GORETTE LIMA DA SILVA",
+        "Componente Curricular": "QUI0085 - ENSINO DE QUIMICA I",
+        "Turma": "4",
+        "Horário": "3T6 3N12",
+        "Discentes": "14",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "MARCIA RODRIGUES PEREIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "10",
+        "Horário": "4M456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "5",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "MARCIA RODRIGUES PEREIRA",
+        "Componente Curricular": "QUI0601 - QUIMICA FUNDAMENTAL II",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "48",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "MARCIA TEIXEIRA BARROSO",
+        "Componente Curricular": "QUI0340 - ORGANICA I",
+        "Turma": "2",
+        "Horário": "24M12",
+        "Discentes": "26",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "MARCIA TEIXEIRA BARROSO",
+        "Componente Curricular": "QUI0620 - QUIMICA ORGANICA I",
+        "Turma": "3",
+        "Horário": "24N12",
+        "Discentes": "10",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "1",
+        "Horário": "2N12 4N1234",
+        "Discentes": "9",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "2",
+        "Horário": "35M456",
+        "Discentes": "24",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0604 - QUIMICA ANALITICA QUANTITATIVA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "11",
+        "Média Geral": "3.67",
+        "Desvio Padrão Geral": "3.5"
+    },
+    {
+        "Docente": "MARIA GORETTE CAVALCANTE",
+        "Componente Curricular": "QUI0634 - QUÍMICA QUÂNTICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "15",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "MARIA GORETTE CAVALCANTE",
+        "Componente Curricular": "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO",
+        "Turma": "3",
+        "Horário": "246T56",
+        "Discentes": "25",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "MARTA COSTA",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "48",
+        "Média Geral": "6.99",
+        "Desvio Padrão Geral": "3.44"
+    },
+    {
+        "Docente": "MELQUESEDEQUE DA SILVA FREIRE",
+        "Componente Curricular": "QUI0081 - ENSINO DE QUÍMICA IV",
+        "Turma": "2",
+        "Horário": "5M456",
+        "Discentes": "10",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "MELQUESEDEQUE DA SILVA FREIRE",
+        "Componente Curricular": "QUI0081 - ENSINO DE QUÍMICA IV",
+        "Turma": "4",
+        "Horário": "5N123",
+        "Discentes": "11",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "MIGUEL ANGELO FONSECA DE SOUZA",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "32",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "MIGUEL ANGELO FONSECA DE SOUZA",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "4M56",
+        "Discentes": "8",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "MIGUEL ANGELO FONSECA DE SOUZA",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "6M56",
+        "Discentes": "10",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "2.71"
+    },
+    {
+        "Docente": "NEDJA SUELY FERNANDES",
+        "Componente Curricular": "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA",
+        "Turma": "1",
+        "Horário": "36N34",
+        "Discentes": "31",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "NEDJA SUELY FERNANDES",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "1",
+        "Horário": "2N12 4N1234",
+        "Discentes": "9",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "OTOM ANSELMO DE OLIVEIRA",
+        "Componente Curricular": "QUI0607 - METODOS ESPECTROSCOPICOS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "20",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0085 - ENSINO DE QUIMICA I",
+        "Turma": "2",
+        "Horário": "3M234",
+        "Discentes": "15",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0079 - ENSINO DE QUIMICA II",
+        "Turma": "1",
+        "Horário": "6T6 6N12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0081 - ENSINO DE QUÍMICA IV",
+        "Turma": "1",
+        "Horário": "5M456",
+        "Discentes": "13",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0081 - ENSINO DE QUÍMICA IV",
+        "Turma": "3",
+        "Horário": "5N123",
+        "Discentes": "13",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "0.8"
+    },
+    {
+        "Docente": "PAULO ROBERTO PAIVA CAMPOS",
+        "Componente Curricular": "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA",
+        "Turma": "2",
+        "Horário": "24M12",
+        "Discentes": "46",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "POLLYANA SOUZA CASTRO",
+        "Componente Curricular": "QUI1000 - QUÍMICA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "46T12",
+        "Discentes": "34",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "RENATA MENDONÇA ARAUJO",
+        "Componente Curricular": "QUI0624 - ANALISE FUNCIONAL ORGANICA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "18",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "RENATA MENDONÇA ARAUJO",
+        "Componente Curricular": "QUI1004 - PRINCIPIOS DE QUIMICA ORGÂNICA BIOLÓGICA",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "35",
+        "Média Geral": "8.92",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "4",
+        "Horário": "35T12",
+        "Discentes": "20",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "2.54"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "33",
+        "Média Geral": "8.64",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "12",
+        "Horário": "5T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "3",
+        "Horário": "24M12",
+        "Discentes": "40",
+        "Média Geral": "7.76",
+        "Desvio Padrão Geral": "3.28"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "4",
+        "Horário": "4T56",
+        "Discentes": "7",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0611 - QUIMICA INORGANICA I",
+        "Turma": "3",
+        "Horário": "35T56",
+        "Discentes": "14",
+        "Média Geral": "8.18",
+        "Desvio Padrão Geral": "3.29"
+    },
+    {
+        "Docente": "ROSANGELA DE CARVALHO BALABAN",
+        "Componente Curricular": "QUI0091 - COMPOSIÇÃO E PROPRIEDADES DE FLUIDOS DE PERFURAÇÃO E COMPLETAÇÃO",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "14",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "ROSANGELA DE CARVALHO BALABAN",
+        "Componente Curricular": "QUI0625 - QUÍMICA DOS POLÍMEROS",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "13",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "TIAGO PINHEIRO BRAGA",
+        "Componente Curricular": "QUI0013 - FISICO-QUIMICA BASICA",
+        "Turma": "1",
+        "Horário": "356T34",
+        "Discentes": "10",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "TIAGO PINHEIRO BRAGA",
+        "Componente Curricular": "QUI0632 - FISICO-QUIMICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "5M1234 (30/07/2018 - 22/12/2018)",
+        "Discentes": "14",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "VALTER JOSE FERNANDES JUNIOR",
+        "Componente Curricular": "QUI0083 - MÉTODOS INSTRUMENTAIS DE ANÁLISES",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "10",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "VALTER JOSE FERNANDES JUNIOR",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "15",
+        "Horário": "5M456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "11",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "ADEMIR OLIVEIRA DA SILVA",
+        "Componente Curricular": "QUI0600 - QUIMICA FUNDAMENTAL I",
+        "Turma": "3",
+        "Horário": "246M34",
+        "Discentes": "44",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "2.28"
+    },
+    {
+        "Docente": "ADEMIR OLIVEIRA DA SILVA",
+        "Componente Curricular": "QUI0133 - QUIMICA INORGANICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "6T12",
+        "Discentes": "16",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "ALCIDES DE OLIVEIRA WANDERLEY NETO",
+        "Componente Curricular": "QUI0651 - MÉTODOS DE SEPARAÇÃO",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "15",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "ALCIDES DE OLIVEIRA WANDERLEY NETO",
+        "Componente Curricular": "QUI0600 - QUIMICA FUNDAMENTAL I",
+        "Turma": "4",
+        "Horário": "246N12",
+        "Discentes": "48",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "AMANDA DUARTE GONDIM",
+        "Componente Curricular": "QUI0651 - MÉTODOS DE SEPARAÇÃO",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "15",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "AMANDA DUARTE GONDIM",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "5",
+        "Horário": "35M34",
+        "Discentes": "41",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "2.47"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "32",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "4",
+        "Horário": "35T56",
+        "Discentes": "22",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "5",
+        "Horário": "35M34",
+        "Discentes": "41",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "2.37"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "15",
+        "Horário": "2T456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "ANA CRISTINA FACUNDO DE BRITO PONTES",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "8",
+        "Horário": "4M456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "ANTONIO SOUZA DE ARAUJO",
+        "Componente Curricular": "QUI0321 - QUIMICA INORGANICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "27",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "ARUZZA MABEL DE MORAIS ARAUJO",
+        "Componente Curricular": "QUI0340 - ORGANICA I",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "24",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "ARUZZA MABEL DE MORAIS ARAUJO",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "6",
+        "Horário": "35N34",
+        "Discentes": "33",
+        "Média Geral": "8.79",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "CAIO LIMA FIRME",
+        "Componente Curricular": "QUI0340 - ORGANICA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "15",
+        "Média Geral": "8.56",
+        "Desvio Padrão Geral": "2.37"
+    },
+    {
+        "Docente": "CAIO LIMA FIRME",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "2",
+        "Horário": "24M34",
+        "Discentes": "33",
+        "Média Geral": "7.32",
+        "Desvio Padrão Geral": "3.52"
+    },
+    {
+        "Docente": "CAIO LIMA FIRME",
+        "Componente Curricular": "QUI0062 - QUÍMICA ORGÂNICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "6M234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "8.72",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "CARLOS NECO DA SILVA JUNIOR",
+        "Componente Curricular": "QUI0080 - ENSINO DE QUÍMICA III",
+        "Turma": "2",
+        "Horário": "2M56 2T1",
+        "Discentes": "13",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "CARLOS NECO DA SILVA JUNIOR",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "6M456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "12",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0343 - ORGANICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "4M12",
+        "Discentes": "13",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "30",
+        "Média Geral": "8.01",
+        "Desvio Padrão Geral": "3"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0621 - QUIMICA ORGANICA II",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "7",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "DANIEL DE LIMA PONTES",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "4M56",
+        "Discentes": "14",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "DANIEL DE LIMA PONTES",
+        "Componente Curricular": "QUI0615 - QUIMICA INORGANICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "5M56 (19/02/2018 - 07/07/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "DANIEL DE LIMA PONTES",
+        "Componente Curricular": "QUI0612 - QUIMICA INORGANICA II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "27",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "DAVI SERRADELLA VIEIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "7",
+        "Horário": "6T456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "DULCE MARIA DE ARAUJO MELO",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "7",
+        "Horário": "24M56",
+        "Discentes": "49",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "DULCE MARIA DE ARAUJO MELO",
+        "Componente Curricular": "QUI0615 - QUIMICA INORGANICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "5T12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "EDGAR PERIN MORAES",
+        "Componente Curricular": "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA",
+        "Turma": "2",
+        "Horário": "36N34",
+        "Discentes": "22",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "EDGAR PERIN MORAES",
+        "Componente Curricular": "QUI0610 - QUIMIOMETRIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "22",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "ELEDIR VITOR SOBRINHO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "13",
+        "Horário": "5T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "9",
+        "Média Geral": "8.96",
+        "Desvio Padrão Geral": "2.41"
+    },
+    {
+        "Docente": "ELEDIR VITOR SOBRINHO",
+        "Componente Curricular": "QUI0650 - SEMINÁRIOS SOBRE O PETRÓLEO, O GÁS NATURAL E SEUS COMPONENTES",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "33",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "2.3"
+    },
+    {
+        "Docente": "ELEDIR VITOR SOBRINHO",
+        "Componente Curricular": "QUI0656 - TRATAMENTO DE EFLUENTES DA INDÚSTRIA DO PETRÓLEO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "6",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "FABIANO DO ESPIRITO SANTO GOMES",
+        "Componente Curricular": "QUI0621 - QUIMICA ORGANICA II",
+        "Turma": "3",
+        "Horário": "35N34",
+        "Discentes": "25",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "FABIANO DO ESPIRITO SANTO GOMES",
+        "Componente Curricular": "QUI0065 - SEMINÁRIOS PARA O CURSO DE QUÍMICA",
+        "Turma": "1",
+        "Horário": "4M56",
+        "Discentes": "44",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "2.45"
+    },
+    {
+        "Docente": "FABRICIO GAVA MENEZES",
+        "Componente Curricular": "QUI0341 - ORGANICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "15",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "FABRICIO GAVA MENEZES",
+        "Componente Curricular": "QUI0342 - ORGANICA II",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "44",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "FABRICIO GAVA MENEZES",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "4",
+        "Horário": "35N34",
+        "Discentes": "26",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "FERNANDO JOSÉ VOLPI EUSÉBIO DE OLIVEIRA",
+        "Componente Curricular": "QUI0600 - QUIMICA FUNDAMENTAL I",
+        "Turma": "2",
+        "Horário": "246T12",
+        "Discentes": "35",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "FERNANDO JOSÉ VOLPI EUSÉBIO DE OLIVEIRA",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "2",
+        "Horário": "24M12",
+        "Discentes": "39",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0603 - QUIMICA ANALITICA QUALITATIVA",
+        "Turma": "3",
+        "Horário": "246T34",
+        "Discentes": "23",
+        "Média Geral": "8.74",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0603 - QUIMICA ANALITICA QUALITATIVA",
+        "Turma": "4",
+        "Horário": "246N34",
+        "Discentes": "16",
+        "Média Geral": "8.45",
+        "Desvio Padrão Geral": "2.77"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0604 - QUIMICA ANALITICA QUANTITATIVA",
+        "Turma": "2",
+        "Horário": "246N12",
+        "Discentes": "15",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "FRANCISCO JOSE SANTOS LIMA",
+        "Componente Curricular": "QUI0510 - QUIMICA FUNDAMENTAL I",
+        "Turma": "1",
+        "Horário": "246N34",
+        "Discentes": "18",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "2M56",
+        "Discentes": "13",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "6M56",
+        "Discentes": "14",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0612 - QUIMICA INORGANICA II",
+        "Turma": "3",
+        "Horário": "35T12",
+        "Discentes": "18",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "Fernanda Marur Mazze",
+        "Componente Curricular": "QUI0659 - PRINCÍPIOS DE FÍSICO-QUÍMICA",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "19",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "Fernanda Marur Mazze",
+        "Componente Curricular": "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "21",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "GRAZIELLE TAVARES MALCHER",
+        "Componente Curricular": "QUI0343 - ORGANICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "6M56",
+        "Discentes": "15",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "GRAZIELLE TAVARES MALCHER",
+        "Componente Curricular": "QUI1004 - PRINCIPIOS DE QUIMICA ORGÂNICA BIOLÓGICA",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "11",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "GRAZIELLE TAVARES MALCHER",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "5",
+        "Horário": "24T12",
+        "Discentes": "40",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO BEZERRA DA SILVA",
+        "Componente Curricular": "QUI0068 - MÉTODOS ESPECTROANALÍTICOS",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "15",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO BEZERRA DA SILVA",
+        "Componente Curricular": "QUI0644 - QUIMICA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "18",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "JAILSON VIEIRA DE MELO",
+        "Componente Curricular": "QUI0067 - MÉTODOS ELETROANALÍTICOS",
+        "Turma": "1",
+        "Horário": "246T34",
+        "Discentes": "16",
+        "Média Geral": "8.61",
+        "Desvio Padrão Geral": "2.36"
+    },
+    {
+        "Docente": "JAILSON VIEIRA DE MELO",
+        "Componente Curricular": "QUI0603 - QUIMICA ANALITICA QUALITATIVA",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "22",
+        "Média Geral": "8.53",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "JOAO BOSCO LUCENA DE OLIVEIRA",
+        "Componente Curricular": "QUI0632 - FISICO-QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "5N1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "15",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "JOAO BOSCO LUCENA DE OLIVEIRA",
+        "Componente Curricular": "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO",
+        "Turma": "2",
+        "Horário": "246T56",
+        "Discentes": "16",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "JULIANA DE SOUZA NUNES",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "6M456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "15",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "JULIANA DE SOUZA NUNES",
+        "Componente Curricular": "QUI0671 - QUÍMICA INDUSTRIAL III: PROCESSOS BIOQUÍMICOS",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "44",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "JÚLIO CÉZAR DE OLIVEIRA FREITAS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "4",
+        "Horário": "6T456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "JÚLIO CÉZAR DE OLIVEIRA FREITAS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "12",
+        "Horário": "5T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "15",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "JÚLIO CÉZAR DE OLIVEIRA FREITAS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "14",
+        "Horário": "3T456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "KASSIO MICHELL GOMES DE LIMA",
+        "Componente Curricular": "QUI0089 - ANALISE INSTRUMENTAL APLICADA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "5",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "0.48"
+    },
+    {
+        "Docente": "KASSIO MICHELL GOMES DE LIMA",
+        "Componente Curricular": "QUI0604 - QUIMICA ANALITICA QUANTITATIVA",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "16",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "LIVIA NUNES CAVALCANTI",
+        "Componente Curricular": "QUI0622 - QUIMICA ORGANICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "5T56 5N12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "15",
+        "Média Geral": "8.96",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "LIVIA NUNES CAVALCANTI",
+        "Componente Curricular": "QUI0620 - QUIMICA ORGANICA I",
+        "Turma": "3",
+        "Horário": "24T56",
+        "Discentes": "32",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "9",
+        "Horário": "4M456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "13",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0674.1 - QUÍMICA INDUSTRIAL II - PRÁTICA",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "13",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0674.0 - QUÍMICA INDUSTRIAL II - TEÓRICA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "13",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "LUIZ HENRIQUE DA SILVA GASPAROTTO",
+        "Componente Curricular": "QUI0086 - FÍSICO-QUÍMICA DE SUPERFÍCIE E ELETROQUÍMICA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "18",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0079 - ENSINO DE QUIMICA II",
+        "Turma": "1",
+        "Horário": "3M56 3T1 (19/02/2018 - 07/07/2018)",
+        "Discentes": "11",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "2.63"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0079 - ENSINO DE QUIMICA II",
+        "Turma": "2",
+        "Horário": "5T6 5N12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0066 - SEMINÁRIOS EM EDUCAÇÃO QUÍMICA",
+        "Turma": "2",
+        "Horário": "3N12",
+        "Discentes": "45",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "MARCIA GORETTE LIMA DA SILVA",
+        "Componente Curricular": "QUI0082 - ENSINO DE QUÍMICA V",
+        "Turma": "6",
+        "Horário": "6M56 6T1",
+        "Discentes": "9",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "MARCIA GORETTE LIMA DA SILVA",
+        "Componente Curricular": "QUI0066 - SEMINÁRIOS EM EDUCAÇÃO QUÍMICA",
+        "Turma": "1",
+        "Horário": "4M56",
+        "Discentes": "50",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "2.23"
+    },
+    {
+        "Docente": "MARCIA RODRIGUES PEREIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "10",
+        "Horário": "4M456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "MARCIA RODRIGUES PEREIRA",
+        "Componente Curricular": "QUI0601 - QUIMICA FUNDAMENTAL II",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "12",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "MARCIA TEIXEIRA BARROSO",
+        "Componente Curricular": "QUI0620 - QUIMICA ORGANICA I",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "21",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "2.89"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "1",
+        "Horário": "2N12 4N1234",
+        "Discentes": "20",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0610 - QUIMIOMETRIA",
+        "Turma": "2",
+        "Horário": "4T12 6T56",
+        "Discentes": "15",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "MARIA GORETTE CAVALCANTE",
+        "Componente Curricular": "QUI0631 - CINETICA QUIMICA",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "22",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "MARIA GORETTE CAVALCANTE",
+        "Componente Curricular": "QUI0634 - QUÍMICA QUÂNTICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "7",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "MARTA COSTA",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "3",
+        "Horário": "35M12",
+        "Discentes": "16",
+        "Média Geral": "8.38",
+        "Desvio Padrão Geral": "2.84"
+    },
+    {
+        "Docente": "MARTA COSTA",
+        "Componente Curricular": "QUI0062 - QUÍMICA ORGÂNICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "2T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "11",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "MARTA COSTA",
+        "Componente Curricular": "QUI0062 - QUÍMICA ORGÂNICA EXPERIMENTAL I",
+        "Turma": "3",
+        "Horário": "5M345 (19/02/2018 - 07/07/2018)",
+        "Discentes": "12",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "MELQUESEDEQUE DA SILVA FREIRE",
+        "Componente Curricular": "QUI0080 - ENSINO DE QUÍMICA III",
+        "Turma": "1",
+        "Horário": "2M56 2T1",
+        "Discentes": "19",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "MELQUESEDEQUE DA SILVA FREIRE",
+        "Componente Curricular": "QUI0080 - ENSINO DE QUÍMICA III",
+        "Turma": "3",
+        "Horário": "3T6 3N12",
+        "Discentes": "19",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "MIGUEL ANGELO FONSECA DE SOUZA",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "3",
+        "Horário": "24N12",
+        "Discentes": "44",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "MIGUEL ANGELO FONSECA DE SOUZA",
+        "Componente Curricular": "QUI0611 - QUIMICA INORGANICA I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "22",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "NEDJA SUELY FERNANDES",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "2",
+        "Horário": "35M456",
+        "Discentes": "27",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "OTOM ANSELMO DE OLIVEIRA",
+        "Componente Curricular": "QUI0607 - METODOS ESPECTROSCOPICOS",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "32",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0082 - ENSINO DE QUÍMICA V",
+        "Turma": "1",
+        "Horário": "6M56 6T1",
+        "Discentes": "15",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0082 - ENSINO DE QUÍMICA V",
+        "Turma": "5",
+        "Horário": "2T6 2N12",
+        "Discentes": "17",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "11",
+        "Horário": "5T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "8.44",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "PAULO ROBERTO PAIVA CAMPOS",
+        "Componente Curricular": "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "47",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "POLLYANA SOUZA CASTRO",
+        "Componente Curricular": "QUI0068 - MÉTODOS ESPECTROANALÍTICOS",
+        "Turma": "2",
+        "Horário": "246T56",
+        "Discentes": "9",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "POLLYANA SOUZA CASTRO",
+        "Componente Curricular": "QUI1000 - QUÍMICA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "46T12",
+        "Discentes": "39",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "RENATA MENDONÇA ARAUJO",
+        "Componente Curricular": "QUI0341 - ORGANICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "4M56",
+        "Discentes": "10",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "RENATA MENDONÇA ARAUJO",
+        "Componente Curricular": "QUI0204 - QUIMICA ORGANICA III",
+        "Turma": "01A",
+        "Horário": "246M12",
+        "Discentes": "23",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "35",
+        "Média Geral": "6.96",
+        "Desvio Padrão Geral": "3.27"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "3",
+        "Horário": "35T56",
+        "Discentes": "45",
+        "Média Geral": "7.35",
+        "Desvio Padrão Geral": "3.12"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "6",
+        "Horário": "35T12",
+        "Discentes": "32",
+        "Média Geral": "7.5",
+        "Desvio Padrão Geral": "2.84"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0600 - QUIMICA FUNDAMENTAL I",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "40",
+        "Média Geral": "6.9",
+        "Desvio Padrão Geral": "3.55"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "31",
+        "Média Geral": "7.38",
+        "Desvio Padrão Geral": "3.53"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "5",
+        "Horário": "35T56",
+        "Discentes": "45",
+        "Média Geral": "6.36",
+        "Desvio Padrão Geral": "3.57"
+    },
+    {
+        "Docente": "ROSANGELA DE CARVALHO BALABAN",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "6T456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "ROSANGELA DE CARVALHO BALABAN",
+        "Componente Curricular": "QUI0640 - REOLOGIA APLICADA À FLUIDOS DE PERFURAÇÃO",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "14",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "0.84"
+    },
+    {
+        "Docente": "SIBELE BERENICE CASTELLA PERGHER",
+        "Componente Curricular": "QUI0670 - QUÍMICA INDUSTRIAL I: PROCESSOS QUÍMICOS INORGÂNICOS",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "41",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "TIAGO PINHEIRO BRAGA",
+        "Componente Curricular": "QUI0084 - ELETROQUÍMICA E CINÉTICA QUÍMICA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "15",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "TIAGO PINHEIRO BRAGA",
+        "Componente Curricular": "QUI0632 - FISICO-QUIMICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "5M3456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "14",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "VALTER JOSE FERNANDES JUNIOR",
+        "Componente Curricular": "QUI0089 - ANALISE INSTRUMENTAL APLICADA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "5",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.36"
+    },
+    {
+        "Docente": "VALTER JOSE FERNANDES JUNIOR",
+        "Componente Curricular": "QUI0083 - MÉTODOS INSTRUMENTAIS DE ANÁLISES",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "8",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "ADEMIR OLIVEIRA DA SILVA",
+        "Componente Curricular": "QUI0602 - QUIMICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "5M123",
+        "Discentes": "12",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "ADEMIR OLIVEIRA DA SILVA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "6",
+        "Horário": "6T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "ALCIDES DE OLIVEIRA WANDERLEY NETO",
+        "Componente Curricular": "QUI0335 - CORROSAO DOS MATERIAIS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "16",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "ALCIDES DE OLIVEIRA WANDERLEY NETO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "4",
+        "Horário": "6T456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "5",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "ALCIDES DE OLIVEIRA WANDERLEY NETO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "7",
+        "Horário": "6T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "7",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "AMANDA DUARTE GONDIM",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "37",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "AMANDA DUARTE GONDIM",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "6T456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.77"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0013 - FISICO-QUIMICA BASICA",
+        "Turma": "2",
+        "Horário": "35N123",
+        "Discentes": "14",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "37",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "ANA CAROLINA DE OLIVEIRA NEVES MENEZES",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "6",
+        "Horário": "46N12",
+        "Discentes": "39",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "ANA CRISTINA FACUNDO DE BRITO PONTES",
+        "Componente Curricular": "QUI0613 - QUIMICA INORGANICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "3M34",
+        "Discentes": "15",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "ANTONIO SOUZA DE ARAUJO",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "3",
+        "Horário": "24M12",
+        "Discentes": "40",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "ANTONIO SOUZA DE ARAUJO",
+        "Componente Curricular": "QUI0321 - QUIMICA INORGANICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "24",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "CAIO LIMA FIRME",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "44",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "CAIO LIMA FIRME",
+        "Componente Curricular": "QUI0621 - QUIMICA ORGANICA II",
+        "Turma": "3",
+        "Horário": "24T12",
+        "Discentes": "22",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "CARLOS ALBERTO MARTINEZ HUITLE",
+        "Componente Curricular": "QUI0067 - MÉTODOS ELETROANALÍTICOS",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "21",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "CARLOS NECO DA SILVA JUNIOR",
+        "Componente Curricular": "QUI0085 - ENSINO DE QUIMICA I",
+        "Turma": "4",
+        "Horário": "3T6 3N12",
+        "Discentes": "11",
+        "Média Geral": "8.39",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "CARLOS NECO DA SILVA JUNIOR",
+        "Componente Curricular": "QUI0081 - ENSINO DE QUÍMICA IV",
+        "Turma": "3",
+        "Horário": "5N123",
+        "Discentes": "13",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0342 - ORGANICA II",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "9",
+        "Média Geral": "9.01",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0621 - QUIMICA ORGANICA II",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "17",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "CARLOS ROBERTO OLIVEIRA SOUTO",
+        "Componente Curricular": "QUI0063 - QUÍMICA ORGÂNICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "6T456",
+        "Discentes": "12",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "DANIEL DE LIMA PONTES",
+        "Componente Curricular": "QUI0607 - METODOS ESPECTROSCOPICOS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "23",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "DANIEL DE LIMA PONTES",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "4M56",
+        "Discentes": "15",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "DANIEL DE LIMA PONTES",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "2M56",
+        "Discentes": "14",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "DAVI SERRADELLA VIEIRA",
+        "Componente Curricular": "QUI0013 - FISICO-QUIMICA BASICA",
+        "Turma": "1",
+        "Horário": "35M456",
+        "Discentes": "18",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "DULCE MARIA DE ARAUJO MELO",
+        "Componente Curricular": "QUI0322 - QUIMICA INORGANICA EXPERIMENTAL",
+        "Turma": "7",
+        "Horário": "4T56",
+        "Discentes": "13",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "DULCE MARIA DE ARAUJO MELO",
+        "Componente Curricular": "QUI0611 - QUIMICA INORGANICA I",
+        "Turma": "3",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "EDGAR PERIN MORAES",
+        "Componente Curricular": "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA",
+        "Turma": "2",
+        "Horário": "36N34",
+        "Discentes": "39",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "EDGAR PERIN MORAES",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "3",
+        "Horário": "4M56 6M3456",
+        "Discentes": "25",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "ELEDIR VITOR SOBRINHO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "13",
+        "Horário": "5T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.92",
+        "Desvio Padrão Geral": "0.45"
+    },
+    {
+        "Docente": "ELEDIR VITOR SOBRINHO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "15",
+        "Horário": "5M456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "6",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "FABIANO DO ESPIRITO SANTO GOMES",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "45",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "FABIANO DO ESPIRITO SANTO GOMES",
+        "Componente Curricular": "QUI0063 - QUÍMICA ORGÂNICA EXPERIMENTAL II",
+        "Turma": "3",
+        "Horário": "5T234",
+        "Discentes": "15",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "FABRICIO GAVA MENEZES",
+        "Componente Curricular": "QUI0340 - ORGANICA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "43",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "FABRICIO GAVA MENEZES",
+        "Componente Curricular": "QUI0621 - QUIMICA ORGANICA II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "35",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "FERNANDO JOSÉ VOLPI EUSÉBIO DE OLIVEIRA",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "4",
+        "Horário": "24N12",
+        "Discentes": "40",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "FERNANDO JOSÉ VOLPI EUSÉBIO DE OLIVEIRA",
+        "Componente Curricular": "QUI0612 - QUIMICA INORGANICA II",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "27",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "6M456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "14",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0602 - QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "3T123",
+        "Discentes": "15",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "8",
+        "Horário": "6T456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "FRANCISCO CLAUDECE PEREIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "12",
+        "Horário": "5T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "FRANCISCO JOSE SANTOS LIMA",
+        "Componente Curricular": "QUI0510 - QUIMICA FUNDAMENTAL I",
+        "Turma": "2",
+        "Horário": "246N34",
+        "Discentes": "12",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.54"
+    },
+    {
+        "Docente": "FRANCISCO JOSE SANTOS LIMA",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "5",
+        "Horário": "35T12",
+        "Discentes": "8",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0131 - QUIMICA INORGANICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "5T12",
+        "Discentes": "11",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0131 - QUIMICA INORGANICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "5T34",
+        "Discentes": "9",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.61"
+    },
+    {
+        "Docente": "FRANCISCO ORDELEI NASCIMENTO DA SILVA",
+        "Componente Curricular": "QUI0614 - QUIMICA INORGANICA III",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "23",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.79"
+    },
+    {
+        "Docente": "Fernanda Marur Mazze",
+        "Componente Curricular": "QUI0678 - PRINCÍPIOS DE TERMODINÂMICA QUÍMICA",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "16",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "Fernanda Marur Mazze",
+        "Componente Curricular": "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO",
+        "Turma": "4",
+        "Horário": "246N12",
+        "Discentes": "19",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "GRAZIELLE TAVARES MALCHER",
+        "Componente Curricular": "QUI0343 - ORGANICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "4M12",
+        "Discentes": "15",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "GRAZIELLE TAVARES MALCHER",
+        "Componente Curricular": "QUI0622 - QUIMICA ORGANICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "4M3456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "GRAZIELLE TAVARES MALCHER",
+        "Componente Curricular": "QUI0620 - QUIMICA ORGANICA I",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "29",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO BEZERRA DA SILVA",
+        "Componente Curricular": "QUI0083 - MÉTODOS INSTRUMENTAIS DE ANÁLISES",
+        "Turma": "2",
+        "Horário": "246N12",
+        "Discentes": "9",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.82"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO BEZERRA DA SILVA",
+        "Componente Curricular": "QUI0644 - QUIMICA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "20",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "HENRIQUE EDUARDO BEZERRA DA SILVA",
+        "Componente Curricular": "QUI1000 - QUÍMICA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "46T12",
+        "Discentes": "29",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JAILSON VIEIRA DE MELO",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "1",
+        "Horário": "35M456",
+        "Discentes": "22",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JAILSON VIEIRA DE MELO",
+        "Componente Curricular": "QUI0604 - QUIMICA ANALITICA QUANTITATIVA",
+        "Turma": "2",
+        "Horário": "246T34",
+        "Discentes": "9",
+        "Média Geral": "7.2",
+        "Desvio Padrão Geral": "2.67"
+    },
+    {
+        "Docente": "JOAO BOSCO LUCENA DE OLIVEIRA",
+        "Componente Curricular": "QUI0632 - FISICO-QUIMICA EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "5M1234 (24/07/2017 - 16/12/2017)",
+        "Discentes": "16",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "JOAO BOSCO LUCENA DE OLIVEIRA",
+        "Componente Curricular": "QUI0601 - QUIMICA FUNDAMENTAL II",
+        "Turma": "3",
+        "Horário": "246T34",
+        "Discentes": "19",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "JOSE LUIS CARDOZO FONSECA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "10",
+        "Horário": "4M456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "JOSE LUIS CARDOZO FONSECA",
+        "Componente Curricular": "QUI0601 - QUIMICA FUNDAMENTAL II",
+        "Turma": "4",
+        "Horário": "246N12",
+        "Discentes": "32",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "JULIANA DE SOUZA NUNES",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "6M456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "15",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "JULIANA DE SOUZA NUNES",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "11",
+        "Horário": "4M456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "JULIANA DE SOUZA NUNES",
+        "Componente Curricular": "QUI0673 - QUÍMICA INDUSTRIAL IV: PROCESSOS E TECNOLOGIA DE ALIMENTOS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "25",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "JÚLIO CÉZAR DE OLIVEIRA FREITAS",
+        "Componente Curricular": "QUI0639 - FUNDAMENTOS DE EXPLORACAO E PRODUCAO DE PETROLEO E GAS NAT.",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "13",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "JÚLIO CÉZAR DE OLIVEIRA FREITAS",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "17",
+        "Horário": "5M456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "KASSIO MICHELL GOMES DE LIMA",
+        "Componente Curricular": "QUI0603 - QUIMICA ANALITICA QUALITATIVA",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "17",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "KASSIO MICHELL GOMES DE LIMA",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "19",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "LIVIA NUNES CAVALCANTI",
+        "Componente Curricular": "QUI0340 - ORGANICA I",
+        "Turma": "2",
+        "Horário": "24M12",
+        "Discentes": "40",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "LIVIA NUNES CAVALCANTI",
+        "Componente Curricular": "QUI0039 - PRINCÍPIOS DE QUÍMICA ORGÂNICA",
+        "Turma": "3",
+        "Horário": "24M56",
+        "Discentes": "47",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0674.1 - QUÍMICA INDUSTRIAL II - PRÁTICA",
+        "Turma": "1",
+        "Horário": "5T56",
+        "Discentes": "15",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0674.0 - QUÍMICA INDUSTRIAL II - TEÓRICA",
+        "Turma": "1",
+        "Horário": "3T56",
+        "Discentes": "15",
+        "Média Geral": "8.69",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0675.1 - TÉCNICAS DE CARACTERIZAÇÃO DO PETRÓLEO E GÁS NATURAL -PRÁTICA",
+        "Turma": "1",
+        "Horário": "5T12",
+        "Discentes": "7",
+        "Média Geral": "8.64",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "LUCIENE DA SILVA SANTOS",
+        "Componente Curricular": "QUI0675.0 - TÉCNICAS DE CARACTERIZAÇÃO DO PETRÓLEO E GÁS NATURAL -TEÓRICA",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "7",
+        "Média Geral": "8.51",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "LUIZ HENRIQUE DA SILVA GASPAROTTO",
+        "Componente Curricular": "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "35",
+        "Média Geral": "7.9",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0079 - ENSINO DE QUIMICA II",
+        "Turma": "2",
+        "Horário": "6T6 6N12 (24/07/2017 - 16/12/2017)",
+        "Discentes": "15",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0087 - HISTÓRIA E FILOSOFIA DA QUÍMICA",
+        "Turma": "1",
+        "Horário": "5M34 6T12",
+        "Discentes": "25",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "LUIZ SEIXAS DAS NEVES",
+        "Componente Curricular": "QUI0087 - HISTÓRIA E FILOSOFIA DA QUÍMICA",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "12",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "MARCIA GORETTE LIMA DA SILVA",
+        "Componente Curricular": "QUI0085 - ENSINO DE QUIMICA I",
+        "Turma": "2",
+        "Horário": "3M234",
+        "Discentes": "17",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "MARCIA GORETTE LIMA DA SILVA",
+        "Componente Curricular": "QUI0085 - ENSINO DE QUIMICA I",
+        "Turma": "3",
+        "Horário": "3T6 3N12",
+        "Discentes": "13",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "MARCIA RODRIGUES PEREIRA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "9",
+        "Horário": "4M456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "11",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "MARCIA RODRIGUES PEREIRA",
+        "Componente Curricular": "QUI0601 - QUIMICA FUNDAMENTAL II",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "30",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "MARCIA TEIXEIRA BARROSO",
+        "Componente Curricular": "QUI0341 - ORGANICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "13",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "MARCIA TEIXEIRA BARROSO",
+        "Componente Curricular": "QUI0341 - ORGANICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "4M56",
+        "Discentes": "15",
+        "Média Geral": "8.96",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0083 - MÉTODOS INSTRUMENTAIS DE ANÁLISES",
+        "Turma": "2",
+        "Horário": "246N12",
+        "Discentes": "9",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0111 - QUIMICA ANALITICA APLICADA",
+        "Turma": "1",
+        "Horário": "35M456",
+        "Discentes": "22",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "MARIA DE FATIMA VITORIA DE MOURA",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "20",
+        "Horário": "5M123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "9",
+        "Média Geral": "8.11",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "MARIA GORETTE CAVALCANTE",
+        "Componente Curricular": "QUI0084 - ELETROQUÍMICA E CINÉTICA QUÍMICA",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "13",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "MARIA GORETTE CAVALCANTE",
+        "Componente Curricular": "QUI0634 - QUÍMICA QUÂNTICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "20",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "MARTA COSTA",
+        "Componente Curricular": "QUI0343 - ORGANICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "6M56",
+        "Discentes": "15",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "MARTA COSTA",
+        "Componente Curricular": "QUI0620 - QUIMICA ORGANICA I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "11",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "MARTA COSTA",
+        "Componente Curricular": "QUI0063 - QUÍMICA ORGÂNICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "6T123",
+        "Discentes": "13",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "MELQUESEDEQUE DA SILVA FREIRE",
+        "Componente Curricular": "QUI0085 - ENSINO DE QUIMICA I",
+        "Turma": "4",
+        "Horário": "3T6 3N12",
+        "Discentes": "11",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.53"
+    },
+    {
+        "Docente": "MELQUESEDEQUE DA SILVA FREIRE",
+        "Componente Curricular": "QUI0081 - ENSINO DE QUÍMICA IV",
+        "Turma": "3",
+        "Horário": "5N123",
+        "Discentes": "13",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.56"
+    },
+    {
+        "Docente": "MELQUESEDEQUE DA SILVA FREIRE",
+        "Componente Curricular": "QUI0087 - HISTÓRIA E FILOSOFIA DA QUÍMICA",
+        "Turma": "1",
+        "Horário": "5M34 6T12",
+        "Discentes": "25",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "MIGUEL ANGELO FONSECA DE SOUZA",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "34",
+        "Média Geral": "8.79",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "NEDJA SUELY FERNANDES",
+        "Componente Curricular": "QUI0604 - QUIMICA ANALITICA QUANTITATIVA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "27",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "OTOM ANSELMO DE OLIVEIRA",
+        "Componente Curricular": "QUI0611 - QUIMICA INORGANICA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "28",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0081 - ENSINO DE QUÍMICA IV",
+        "Turma": "1",
+        "Horário": "5M456",
+        "Discentes": "12",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "PATRICIA FLAVIA DA SILVA DIAS MOREIRA",
+        "Componente Curricular": "QUI0081 - ENSINO DE QUÍMICA IV",
+        "Turma": "2",
+        "Horário": "5N123",
+        "Discentes": "14",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "PAULO ROBERTO PAIVA CAMPOS",
+        "Componente Curricular": "QUI0054 - PRINCÍPIOS DE QUÍMICA ANALÍTICA",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "48",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "POLLYANA SOUZA CASTRO",
+        "Componente Curricular": "QUI0644 - QUIMICA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24N34",
+        "Discentes": "14",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "POLLYANA SOUZA CASTRO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "14",
+        "Horário": "5T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "RENATA MENDONÇA ARAUJO",
+        "Componente Curricular": "QUI0624 - ANALISE FUNCIONAL ORGANICA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "23",
+        "Média Geral": "8.92",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "4",
+        "Horário": "35T12",
+        "Discentes": "19",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0510 - QUIMICA FUNDAMENTAL I",
+        "Turma": "1",
+        "Horário": "246T12",
+        "Discentes": "22",
+        "Média Geral": "7.73",
+        "Desvio Padrão Geral": "2.45"
+    },
+    {
+        "Docente": "RICARDO SILVEIRA NASAR",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "7",
+        "Horário": "35T56",
+        "Discentes": "17",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0600 - QUIMICA FUNDAMENTAL I",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "21",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "8",
+        "Horário": "24T12",
+        "Discentes": "6",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "ROBSON FERNANDES DE FARIAS",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "9",
+        "Horário": "35T34",
+        "Discentes": "8",
+        "Média Geral": "7.78",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "ROSANGELA DE CARVALHO BALABAN",
+        "Componente Curricular": "QUI0091 - COMPOSIÇÃO E PROPRIEDADES DE FLUIDOS DE PERFURAÇÃO E COMPLETAÇÃO",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "8",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "ROSANGELA DE CARVALHO BALABAN",
+        "Componente Curricular": "QUI0625 - QUÍMICA DOS POLÍMEROS",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "12",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "RUSCELI DIEGO DE ARAUJO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "6T456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "RUSCELI DIEGO DE ARAUJO",
+        "Componente Curricular": "QUI0312 - QUIMICA EXPERIMENTAL",
+        "Turma": "19",
+        "Horário": "3T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "14",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "RUSCELI DIEGO DE ARAUJO",
+        "Componente Curricular": "QUI0070 - QUIMICA GERAL E INORGANICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "38",
+        "Média Geral": "8.38",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "RUSCELI DIEGO DE ARAUJO",
+        "Componente Curricular": "QUI0250 - QUIMICA ORGANICA BIOLOGICA BASICA",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "7",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "SIBELE BERENICE CASTELLA PERGHER",
+        "Componente Curricular": "QUI0311 - QUIMICA BASICA",
+        "Turma": "3",
+        "Horário": "35T56",
+        "Discentes": "24",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "TIAGO PINHEIRO BRAGA",
+        "Componente Curricular": "QUI0630 - TERMODINAMICA QUIMICA E EQUILIBRIO",
+        "Turma": "3",
+        "Horário": "246T56",
+        "Discentes": "9",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "VALTER JOSE FERNANDES JUNIOR",
+        "Componente Curricular": "QUI0083 - MÉTODOS INSTRUMENTAIS DE ANÁLISES",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "8",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.37"
+    }
+]

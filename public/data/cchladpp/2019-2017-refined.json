@@ -1,0 +1,2202 @@
+{
+  "ALAN DANIEL FREIRE DE LACERDA": {
+    "Notas": [
+      8.44,
+      8.5,
+      8.88,
+      9.02,
+      9.07,
+      9.07,
+      9.1,
+      9.11,
+      9.24,
+      9.29,
+      9.31,
+      9.41,
+      9.43,
+      9.49,
+      9.61,
+      9.64,
+      9.8
+    ],
+    "Desvios": [
+      1.73,
+      1.94,
+      1.06,
+      2.07,
+      1.85,
+      1.33,
+      1.81,
+      1.87,
+      1.97,
+      1.81,
+      2.08,
+      1.79,
+      1.77,
+      1.96,
+      1.6,
+      1.35,
+      1.73
+    ],
+    "Componentes": {
+      "DPP0095 - GOVERNO E POLÍTICAS PÚBLICAS COMPARADAS": {
+        "Notas": [
+          9.24,
+          9.43
+        ],
+        "Desvios": [
+          1.73,
+          1.94
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.335,
+        "MediaDeDesvios": 1.835,
+        "NotaMediana": 9.43
+      },
+      "DPP0054 - TÓPICOS ESPECIAIS V": {
+        "Notas": [
+          9.11,
+          9.29,
+          9.61
+        ],
+        "Desvios": [
+          1.06,
+          1.35,
+          1.73
+        ],
+        "DesvioDeNotas": 0.20677416559027764,
+        "MediaDeNotas": 9.336666666666666,
+        "MediaDeDesvios": 1.3800000000000001,
+        "NotaMediana": 9.29
+      },
+      "DPP0032 - ESTADO DE DIREITO E CIDADANIA": {
+        "Notas": [
+          9.02,
+          9.31
+        ],
+        "Desvios": [
+          2.07,
+          1.85
+        ],
+        "DesvioDeNotas": 0.14500000000000046,
+        "MediaDeNotas": 9.165,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 9.31
+      },
+      "DPP0034 - PARTIDOS POLÍTICOS E ELEIÇÕES NO BRASIL": {
+        "Notas": [
+          9.41,
+          9.8
+        ],
+        "Desvios": [
+          1.33,
+          1.81
+        ],
+        "DesvioDeNotas": 0.19500000000000028,
+        "MediaDeNotas": 9.605,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.8
+      },
+      "DPP0033 - SISTEMAS ELEITORAIS E PARTIDÁRIOS": {
+        "Notas": [
+          9.07,
+          9.07,
+          9.49
+        ],
+        "Desvios": [
+          1.87,
+          1.96,
+          1.6
+        ],
+        "DesvioDeNotas": 0.19798989873223327,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.8099999999999998,
+        "NotaMediana": 9.07
+      },
+      "DPP0024 - ATORES POLÍTICOS E SOCIAIS": {
+        "Notas": [
+          8.44,
+          9.64
+        ],
+        "Desvios": [
+          1.97,
+          1.81
+        ],
+        "DesvioDeNotas": 0.6000000000000005,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 1.8900000000000001,
+        "NotaMediana": 9.64
+      },
+      "DPP0022 - SISTEMAS DE GOVERNO": {
+        "Notas": [
+          8.5,
+          9.1
+        ],
+        "Desvios": [
+          2.08,
+          1.79
+        ],
+        "DesvioDeNotas": 0.2999999999999998,
+        "MediaDeNotas": 8.8,
+        "MediaDeDesvios": 1.935,
+        "NotaMediana": 9.1
+      },
+      "DPP0013 - ESTADO E SOCIEDADE": {
+        "Notas": [
+          8.88
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.88,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 8.88
+      }
+    },
+    "DesvioDeNotas": 0.3580087180705701,
+    "MediaDeNotas": 9.200588235294118,
+    "MediaDeDesvios": 1.7482352941176473,
+    "NotaMediana": 9.24
+  },
+  "ALEXSANDRO FERREIRA CARDOSO DA SILVA": {
+    "Notas": [
+      8.5,
+      9.25,
+      9.39,
+      9.4,
+      9.5,
+      9.54,
+      9.65
+    ],
+    "Desvios": [
+      2.39,
+      1.8,
+      1.49,
+      1.52,
+      1.35,
+      1.46,
+      1.12
+    ],
+    "Componentes": {
+      "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV": {
+        "Notas": [
+          8.5,
+          9.25,
+          9.5
+        ],
+        "Desvios": [
+          2.39,
+          1.49,
+          1.52
+        ],
+        "DesvioDeNotas": 0.42491829279939874,
+        "MediaDeNotas": 9.083333333333334,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.25
+      },
+      "DPP0084 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA V": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.4
+      },
+      "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.39
+      },
+      "DPP0031 - METODOLOGIA E TÉCNICAS DE PESQUISA": {
+        "Notas": [
+          9.54,
+          9.65
+        ],
+        "Desvios": [
+          1.46,
+          1.12
+        ],
+        "DesvioDeNotas": 0.055000000000000604,
+        "MediaDeNotas": 9.594999999999999,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.3542165831170275,
+    "MediaDeNotas": 9.31857142857143,
+    "MediaDeDesvios": 1.5900000000000003,
+    "NotaMediana": 9.4
+  },
+  "ANDERSON CRISTOPHER DOS SANTOS": {
+    "Notas": [
+      9.45,
+      9.54,
+      9.55,
+      9.61,
+      9.65,
+      9.73,
+      9.76,
+      9.83,
+      9.83,
+      9.86
+    ],
+    "Desvios": [
+      1.18,
+      1.34,
+      2.1,
+      1.21,
+      1.37,
+      2.02,
+      1.74,
+      1.17,
+      1.45,
+      1.33
+    ],
+    "Componentes": {
+      "DPP0081 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA II": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.76
+      },
+      "DPP0104 - TÓPICOS ESPECIAIS II": {
+        "Notas": [
+          9.61,
+          9.83
+        ],
+        "Desvios": [
+          1.34,
+          2.1
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 9.719999999999999,
+        "MediaDeDesvios": 1.7200000000000002,
+        "NotaMediana": 9.83
+      },
+      "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.86
+      },
+      "DPP0037 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS VI": {
+        "Notas": [
+          9.83
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.83
+      },
+      "DPP0041 - CULTURA POLÍTICA E ENGAJAMENTO CÍVICO": {
+        "Notas": [
+          9.45,
+          9.55
+        ],
+        "Desvios": [
+          2.02,
+          1.74
+        ],
+        "DesvioDeNotas": 0.05000000000000071,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 9.55
+      },
+      "DPP0026 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS I": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.73
+      },
+      "DPP0032 - ESTADO DE DIREITO E CIDADANIA": {
+        "Notas": [
+          9.54,
+          9.65
+        ],
+        "Desvios": [
+          1.45,
+          1.33
+        ],
+        "DesvioDeNotas": 0.055000000000000604,
+        "MediaDeNotas": 9.594999999999999,
+        "MediaDeDesvios": 1.3900000000000001,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.13471822445385787,
+    "MediaDeNotas": 9.681000000000001,
+    "MediaDeDesvios": 1.491,
+    "NotaMediana": 9.73
+  },
+  "CLAUDIO ROBERTO DE JESUS": {
+    "Notas": [
+      8.82,
+      9.19,
+      9.32,
+      9.36,
+      9.61,
+      9.65,
+      9.65
+    ],
+    "Desvios": [
+      1.85,
+      1.69,
+      1.37,
+      1.57,
+      1.41,
+      1.56,
+      1.25
+    ],
+    "Componentes": {
+      "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV": {
+        "Notas": [
+          8.82,
+          9.19
+        ],
+        "Desvios": [
+          1.85,
+          1.57
+        ],
+        "DesvioDeNotas": 0.1849999999999996,
+        "MediaDeNotas": 9.004999999999999,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.19
+      },
+      "DPP0109 - ÉTICA NA GESTÃO DE POLÍTICAS PÚBLICAS": {
+        "Notas": [
+          9.61,
+          9.65
+        ],
+        "Desvios": [
+          1.69,
+          1.37
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.629999999999999,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.65
+      },
+      "DPP0012 - AGENDA CONTEMPORÂNEA I": {
+        "Notas": [
+          9.32,
+          9.36
+        ],
+        "Desvios": [
+          1.41,
+          1.56
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.4849999999999999,
+        "NotaMediana": 9.36
+      },
+      "DPP0026 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS I": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.65
+      }
+    },
+    "DesvioDeNotas": 0.28078606861190714,
+    "MediaDeNotas": 9.37142857142857,
+    "MediaDeDesvios": 1.5285714285714287,
+    "NotaMediana": 9.36
+  },
+  "DANIEL GONCALVES DE MENEZES": {
+    "Notas": [
+      7.73,
+      7.95,
+      8.24,
+      8.63,
+      8.89,
+      9,
+      9.05,
+      9.14,
+      9.21,
+      9.36,
+      9.45,
+      9.73
+    ],
+    "Desvios": [
+      2.59,
+      1.58,
+      1.87,
+      2.72,
+      1.49,
+      1.9,
+      1.48,
+      1.19,
+      2.48,
+      1.53,
+      1.48,
+      2.4
+    ],
+    "Componentes": {
+      "DPP0078 - AGENDA CONTEMPORÂNEA II": {
+        "Notas": [
+          8.63,
+          9.36
+        ],
+        "Desvios": [
+          2.59,
+          1.58
+        ],
+        "DesvioDeNotas": 0.3649999999999993,
+        "MediaDeNotas": 8.995000000000001,
+        "MediaDeDesvios": 2.085,
+        "NotaMediana": 9.36
+      },
+      "DPP0081 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA II": {
+        "Notas": [
+          9.05
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.05
+      },
+      "DPP0042 - CULTURA ORGANIZACIONAL": {
+        "Notas": [
+          7.73,
+          9.14
+        ],
+        "Desvios": [
+          2.72,
+          1.49
+        ],
+        "DesvioDeNotas": 0.7050000000000001,
+        "MediaDeNotas": 8.435,
+        "MediaDeDesvios": 2.105,
+        "NotaMediana": 9.14
+      },
+      "DPP0103 - TÓPICOS ESPECIAIS I": {
+        "Notas": [
+          8.89,
+          9.73
+        ],
+        "Desvios": [
+          1.9,
+          1.48
+        ],
+        "DesvioDeNotas": 0.41999999999999993,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.73
+      },
+      "DPP0084 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA V": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.45
+      },
+      "DPP0086 - DEMOCRACIA E PARTICIPAÇÃO NA GESTÃO PÚBLICA": {
+        "Notas": [
+          7.95,
+          9.21
+        ],
+        "Desvios": [
+          2.48,
+          1.53
+        ],
+        "DesvioDeNotas": 0.6300000000000003,
+        "MediaDeNotas": 8.58,
+        "MediaDeDesvios": 2.005,
+        "NotaMediana": 9.21
+      },
+      "DPP0108 - GESTÃO E INSTITUIÇÕES SOCIAIS": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9
+      },
+      "DPP0033 - SISTEMAS ELEITORAIS E PARTIDÁRIOS": {
+        "Notas": [
+          8.24
+        ],
+        "Desvios": [
+          2.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.24,
+        "MediaDeDesvios": 2.4,
+        "NotaMediana": 8.24
+      }
+    },
+    "DesvioDeNotas": 0.5883947087910744,
+    "MediaDeNotas": 8.865,
+    "MediaDeDesvios": 1.8925,
+    "NotaMediana": 9.05
+  },
+  "FERNANDO MANUEL ROCHA DA CRUZ": {
+    "Notas": [
+      7.44,
+      8.4,
+      8.45,
+      8.9,
+      8.95
+    ],
+    "Desvios": [
+      2.78,
+      2.16,
+      2.42,
+      2,
+      1.66
+    ],
+    "Componentes": {
+      "DPP0081 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA II": {
+        "Notas": [
+          7.44
+        ],
+        "Desvios": [
+          2.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.44,
+        "MediaDeDesvios": 2.78,
+        "NotaMediana": 7.44
+      },
+      "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV": {
+        "Notas": [
+          8.45
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.45,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 8.45
+      },
+      "DPP0079 - ANÁLISES QUANTITATIVAS E QUALITATIVAS APLICADOS À GESTÃO DE POLÍTICAS PÚBLICAS": {
+        "Notas": [
+          8.4,
+          8.9
+        ],
+        "Desvios": [
+          2.42,
+          2
+        ],
+        "DesvioDeNotas": 0.25,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 2.21,
+        "NotaMediana": 8.9
+      },
+      "DPP0084 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA V": {
+        "Notas": [
+          8.95
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 8.95
+      }
+    },
+    "DesvioDeNotas": 0.5427117098423432,
+    "MediaDeNotas": 8.428,
+    "MediaDeDesvios": 2.2039999999999997,
+    "NotaMediana": 8.45
+  },
+  "JOANA TEREZA VAZ DE MOURA": {
+    "Notas": [
+      9,
+      9.05,
+      9.19,
+      9.39,
+      9.47,
+      9.6,
+      9.74
+    ],
+    "Desvios": [
+      1.18,
+      2.06,
+      1.58,
+      1.46,
+      2.16,
+      1.88,
+      1.59
+    ],
+    "Componentes": {
+      "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.6
+      },
+      "DPP0077 - AGENDA CONTEMPORÂNEA I": {
+        "Notas": [
+          9.19,
+          9.39
+        ],
+        "Desvios": [
+          2.06,
+          1.58
+        ],
+        "DesvioDeNotas": 0.10000000000000053,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 9.39
+      },
+      "DPP0080 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA I": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.47
+      },
+      "DPP0027 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS II": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 9
+      },
+      "DPP0045 - TÓPICOS ESPECIAIS I": {
+        "Notas": [
+          9.05,
+          9.74
+        ],
+        "Desvios": [
+          1.88,
+          1.59
+        ],
+        "DesvioDeNotas": 0.34499999999999975,
+        "MediaDeNotas": 9.395,
+        "MediaDeDesvios": 1.7349999999999999,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.25875683960200224,
+    "MediaDeNotas": 9.348571428571429,
+    "MediaDeDesvios": 1.7014285714285715,
+    "NotaMediana": 9.39
+  },
+  "JOSÉ GOMES FERREIRA": {
+    "Notas": [
+      7.93,
+      8.71,
+      9.18
+    ],
+    "Desvios": [
+      2.95,
+      2.18,
+      1.81
+    ],
+    "Componentes": {
+      "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV": {
+        "Notas": [
+          7.93
+        ],
+        "Desvios": [
+          2.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.93,
+        "MediaDeDesvios": 2.95,
+        "NotaMediana": 7.93
+      },
+      "DPP0084 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA V": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          2.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 2.18,
+        "NotaMediana": 9.18
+      },
+      "DPP0055 - TÓPICOS ESPECIAIS VI": {
+        "Notas": [
+          8.71
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.71,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 8.71
+      }
+    },
+    "DesvioDeNotas": 0.5155148451359627,
+    "MediaDeNotas": 8.606666666666667,
+    "MediaDeDesvios": 2.313333333333334,
+    "NotaMediana": 8.71
+  },
+  "LINDIJANE DE SOUZA BENTO ALMEIDA": {
+    "Notas": [
+      8.67,
+      9.28,
+      9.45,
+      9.66,
+      9.77,
+      9.89,
+      9.99
+    ],
+    "Desvios": [
+      1.05,
+      2.81,
+      0.94,
+      1.36,
+      1.71,
+      1.32,
+      1.56
+    ],
+    "Componentes": {
+      "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          1.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.89
+      },
+      "DPP0092 - GESTÃO PÚBLICA NO BRASIL CONTEMPORÂNEO": {
+        "Notas": [
+          8.67
+        ],
+        "Desvios": [
+          2.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.67,
+        "MediaDeDesvios": 2.81,
+        "NotaMediana": 8.67
+      },
+      "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III": {
+        "Notas": [
+          9.28,
+          9.77
+        ],
+        "Desvios": [
+          0.94,
+          1.56
+        ],
+        "DesvioDeNotas": 0.2450000000000001,
+        "MediaDeNotas": 9.524999999999999,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.77
+      },
+      "DPP0037 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS VI": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.45
+      },
+      "DPP0061 - ATORES SOCIAIS, DEMOCRACIA E PARTICIPAÇÃO": {
+        "Notas": [
+          9.66,
+          9.99
+        ],
+        "Desvios": [
+          1.71,
+          1.32
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.825,
+        "MediaDeDesvios": 1.5150000000000001,
+        "NotaMediana": 9.99
+      }
+    },
+    "DesvioDeNotas": 0.41819339340275863,
+    "MediaDeNotas": 9.53,
+    "MediaDeDesvios": 1.535714285714286,
+    "NotaMediana": 9.66
+  },
+  "RAQUEL MARIA DA COSTA SILVEIRA": {
+    "Notas": [
+      9.64,
+      9.7,
+      9.77,
+      9.79,
+      9.82,
+      9.82,
+      9.84,
+      9.84,
+      9.87,
+      9.88,
+      9.9,
+      9.9,
+      9.92,
+      9.92
+    ],
+    "Desvios": [
+      1.27,
+      1.89,
+      1.02,
+      1.09,
+      0.94,
+      1.09,
+      1.55,
+      1.44,
+      1.11,
+      1.33,
+      0.96,
+      0.95,
+      1.22,
+      1.31
+    ],
+    "Componentes": {
+      "DPP0062 - AS AGÊNCIAS MULTILATERAIS": {
+        "Notas": [
+          9.7,
+          9.88
+        ],
+        "Desvios": [
+          1.27,
+          1.89
+        ],
+        "DesvioDeNotas": 0.09000000000000075,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.88
+      },
+      "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI": {
+        "Notas": [
+          9.92
+        ],
+        "Desvios": [
+          1.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.92,
+        "MediaDeDesvios": 1.02,
+        "NotaMediana": 9.92
+      },
+      "DPP0091 - GESTÃO MUNICIPAL E METROPOLITANA": {
+        "Notas": [
+          9.92
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.92,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.92
+      },
+      "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III": {
+        "Notas": [
+          9.87,
+          9.9
+        ],
+        "Desvios": [
+          0.94,
+          0.96
+        ],
+        "DesvioDeNotas": 0.015000000000000568,
+        "MediaDeNotas": 9.885,
+        "MediaDeDesvios": 0.95,
+        "NotaMediana": 9.9
+      },
+      "DPP0108 - GESTÃO E INSTITUIÇÕES SOCIAIS": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.77
+      },
+      "DPP0016 - TRANSFORMAÇÕES ECONÔMICAS, POLÍTICAS E SOCIAIS NO BRASIL": {
+        "Notas": [
+          9.64,
+          9.82,
+          9.84,
+          9.84
+        ],
+        "Desvios": [
+          1.55,
+          1.44,
+          1.22,
+          1.31
+        ],
+        "DesvioDeNotas": 0.08411301920630335,
+        "MediaDeNotas": 9.785,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.84
+      },
+      "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.11,
+        "NotaMediana": 9.79
+      },
+      "DPP0037 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS VI": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.82
+      },
+      "DPP0036 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS V": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          0.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.95,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.07959399526115438,
+    "MediaDeNotas": 9.829285714285716,
+    "MediaDeDesvios": 1.2264285714285712,
+    "NotaMediana": 9.84
+  },
+  "RAYANE DAYSE DA SILVA OLIVEIRA": {
+    "Notas": [
+      9.64,
+      9.65,
+      9.65,
+      9.7,
+      9.79,
+      9.84,
+      9.95
+    ],
+    "Desvios": [
+      1.51,
+      1.26,
+      1.4,
+      1.46,
+      1.77,
+      1.38,
+      1.71
+    ],
+    "Componentes": {
+      "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.65
+      },
+      "DPP0093 - GESTÃO PARTICIPATIVA": {
+        "Notas": [
+          9.84,
+          9.95
+        ],
+        "Desvios": [
+          1.26,
+          1.4
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.895,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.95
+      },
+      "DPP0023 - ORGANIZAÇÃO DO ESTADO BRASILEIRO": {
+        "Notas": [
+          9.64,
+          9.65
+        ],
+        "Desvios": [
+          1.46,
+          1.77
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.645,
+        "MediaDeDesvios": 1.615,
+        "NotaMediana": 9.65
+      },
+      "DPP0099 - ORGANIZAÇÕES SOCIAIS NA GESTÃO DE POLÍTICAS PÚBLICAS": {
+        "Notas": [
+          9.7,
+          9.79
+        ],
+        "Desvios": [
+          1.38,
+          1.71
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.745,
+        "MediaDeDesvios": 1.545,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.10965623464225954,
+    "MediaDeNotas": 9.745714285714286,
+    "MediaDeDesvios": 1.4985714285714289,
+    "NotaMediana": 9.7
+  },
+  "RICHARDSON LEONARDI MOURA DA CAMARA": {
+    "Notas": [
+      9.72,
+      9.74,
+      9.75,
+      9.81,
+      9.82,
+      9.82,
+      9.83,
+      9.87,
+      9.89,
+      9.97
+    ],
+    "Desvios": [
+      1.19,
+      0.9,
+      1.36,
+      1.54,
+      2.1,
+      1.33,
+      1.02,
+      1.23,
+      1.35,
+      1.6
+    ],
+    "Componentes": {
+      "DPP0041 - CULTURA POLÍTICA E ENGAJAMENTO CÍVICO": {
+        "Notas": [
+          9.74,
+          9.97
+        ],
+        "Desvios": [
+          1.19,
+          0.9
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.855,
+        "MediaDeDesvios": 1.045,
+        "NotaMediana": 9.97
+      },
+      "DPP0089 - ESTADO, GOVERNO E SOCIEDADE CIVIL": {
+        "Notas": [
+          9.82,
+          9.83
+        ],
+        "Desvios": [
+          1.36,
+          1.54
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.825,
+        "MediaDeDesvios": 1.4500000000000002,
+        "NotaMediana": 9.83
+      },
+      "DPP0091 - GESTÃO MUNICIPAL E METROPOLITANA": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.72
+      },
+      "DPP0043 - ORÇAMENTO E FINANCIAMENTO DO SETOR PÚBLICO BRASILEIRO": {
+        "Notas": [
+          9.81,
+          9.89
+        ],
+        "Desvios": [
+          1.33,
+          1.02
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.850000000000001,
+        "MediaDeDesvios": 1.175,
+        "NotaMediana": 9.89
+      },
+      "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.87
+      },
+      "DPP0087 - DESENVOLVIMENTO E POLÍTICAS PÚBLICAS NO BRASIL E NO RIO GRANDE DO NORTE": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.75
+      },
+      "DPP0097 - METODOLOGIA E TÉCNICAS DE PESQUISA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.07166589146867568,
+    "MediaDeNotas": 9.822,
+    "MediaDeDesvios": 1.3619999999999999,
+    "NotaMediana": 9.82
+  },
+  "ROBERIO PAULINO RODRIGUES": {
+    "Notas": [
+      8.8,
+      8.82,
+      9.09,
+      9.26,
+      9.35,
+      9.37,
+      9.5,
+      9.63,
+      9.66,
+      9.69,
+      9.77
+    ],
+    "Desvios": [
+      1.35,
+      1.73,
+      1.7,
+      1.07,
+      0.75,
+      1.48,
+      1.62,
+      1.56,
+      1.28,
+      1.31,
+      1.25
+    ],
+    "Componentes": {
+      "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI": {
+        "Notas": [
+          8.82,
+          9.35
+        ],
+        "Desvios": [
+          1.35,
+          1.73
+        ],
+        "DesvioDeNotas": 0.2649999999999997,
+        "MediaDeNotas": 9.085,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.35
+      },
+      "DPP0084 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA V": {
+        "Notas": [
+          8.8
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.8,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 8.8
+      },
+      "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.07,
+        "NotaMediana": 9.63
+      },
+      "DPP0062 - AS AGÊNCIAS MULTILATERAIS": {
+        "Notas": [
+          9.5,
+          9.69
+        ],
+        "Desvios": [
+          0.75,
+          1.48
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.594999999999999,
+        "MediaDeDesvios": 1.115,
+        "NotaMediana": 9.69
+      },
+      "DPP0025 - GESTÃO PÚBLICA NO BRASIL CONTEMPORÂNEO": {
+        "Notas": [
+          9.26,
+          9.37
+        ],
+        "Desvios": [
+          1.62,
+          1.56
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.315,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.37
+      },
+      "DPP0036 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS V": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.09
+      },
+      "DPP0016 - TRANSFORMAÇÕES ECONÔMICAS, POLÍTICAS E SOCIAIS NO BRASIL": {
+        "Notas": [
+          9.66,
+          9.77
+        ],
+        "Desvios": [
+          1.31,
+          1.25
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.32302035347688307,
+    "MediaDeNotas": 9.358181818181817,
+    "MediaDeDesvios": 1.3727272727272728,
+    "NotaMediana": 9.37
+  },
+  "SANDRA CRISTINA GOMES": {
+    "Notas": [
+      9.08,
+      9.12,
+      9.37,
+      9.46,
+      9.49,
+      9.68,
+      9.74
+    ],
+    "Desvios": [
+      1.69,
+      0.58,
+      0.92,
+      1.65,
+      1.72,
+      1.64,
+      1.51
+    ],
+    "Componentes": {
+      "DPP0092 - GESTÃO PÚBLICA NO BRASIL CONTEMPORÂNEO": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.49
+      },
+      "DPP0098 - MODELOS DE ANÁLISE DE POLÍTICAS PÚBLICAS": {
+        "Notas": [
+          9.68,
+          9.74
+        ],
+        "Desvios": [
+          0.58,
+          0.92
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 0.75,
+        "NotaMediana": 9.74
+      },
+      "DPP0023 - ORGANIZAÇÃO DO ESTADO BRASILEIRO": {
+        "Notas": [
+          9.37,
+          9.46
+        ],
+        "Desvios": [
+          1.65,
+          1.72
+        ],
+        "DesvioDeNotas": 0.04500000000000082,
+        "MediaDeNotas": 9.415,
+        "MediaDeDesvios": 1.685,
+        "NotaMediana": 9.46
+      },
+      "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III": {
+        "Notas": [
+          9.08,
+          9.12
+        ],
+        "Desvios": [
+          1.64,
+          1.51
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 1.575,
+        "NotaMediana": 9.12
+      }
+    },
+    "DesvioDeNotas": 0.23439892735005685,
+    "MediaDeNotas": 9.42,
+    "MediaDeDesvios": 1.387142857142857,
+    "NotaMediana": 9.46
+  },
+  "SARA RAQUEL FERNANDES QUEIROZ DE MEDEIROS": {
+    "Notas": [
+      9.42,
+      9.63,
+      9.68,
+      9.77,
+      9.8,
+      9.82,
+      9.84,
+      9.9
+    ],
+    "Desvios": [
+      1.51,
+      1.6,
+      1.14,
+      0.99,
+      1.7,
+      1.67,
+      0.93,
+      1.08
+    ],
+    "Componentes": {
+      "DPP0085 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA VI": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.68
+      },
+      "DPP0054 - TÓPICOS ESPECIAIS V": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.8
+      },
+      "DPP0080 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA I": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.14,
+        "NotaMediana": 9.84
+      },
+      "DPP0027 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS II": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          0.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 0.99,
+        "NotaMediana": 9.82
+      },
+      "DPP0042 - CULTURA ORGANIZACIONAL": {
+        "Notas": [
+          9.42,
+          9.63
+        ],
+        "Desvios": [
+          1.7,
+          1.67
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.525,
+        "MediaDeDesvios": 1.685,
+        "NotaMediana": 9.63
+      },
+      "DPP0036 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS V": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          0.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.93,
+        "NotaMediana": 9.9
+      },
+      "DPP0068 - TÓPICOS ESPECIAIS IV E VIII": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.14324367350776793,
+    "MediaDeNotas": 9.7325,
+    "MediaDeDesvios": 1.3275,
+    "NotaMediana": 9.8
+  },
+  "SORAIA MARIA DO SOCORRO CARLOS VIDAL": {
+    "Notas": [
+      6.48,
+      6.66,
+      8.38,
+      8.43,
+      8.56,
+      8.74,
+      9.05,
+      9.11,
+      9.33,
+      9.36,
+      9.37,
+      9.44,
+      9.49
+    ],
+    "Desvios": [
+      3.03,
+      3.23,
+      1.96,
+      2.09,
+      1.44,
+      2.17,
+      1.97,
+      1.14,
+      1.77,
+      1.1,
+      1.11,
+      1.07,
+      1.53
+    ],
+    "Componentes": {
+      "DPP0081 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA II": {
+        "Notas": [
+          6.66
+        ],
+        "Desvios": [
+          3.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.66,
+        "MediaDeDesvios": 3.03,
+        "NotaMediana": 6.66
+      },
+      "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV": {
+        "Notas": [
+          6.48
+        ],
+        "Desvios": [
+          3.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.48,
+        "MediaDeDesvios": 3.23,
+        "NotaMediana": 6.48
+      },
+      "DPP0102 - SOCIEDADE E POLÍTICAS PÚBLICAS": {
+        "Notas": [
+          8.56,
+          8.74
+        ],
+        "Desvios": [
+          1.96,
+          2.09
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 2.025,
+        "NotaMediana": 8.74
+      },
+      "DPP0090 - VIVÊNCIAS PÚBLICAS DE EXTENSÃO UNIVERSITÁRIA": {
+        "Notas": [
+          9.33
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.33
+      },
+      "DPP0021 - AGENDA CONTEMPORÂNEA II": {
+        "Notas": [
+          8.38,
+          8.43
+        ],
+        "Desvios": [
+          2.17,
+          1.97
+        ],
+        "DesvioDeNotas": 0.02499999999999947,
+        "MediaDeNotas": 8.405000000000001,
+        "MediaDeDesvios": 2.07,
+        "NotaMediana": 8.43
+      },
+      "DPP0044 - GESTÃO MUNICIPAL E METROPOLITANA": {
+        "Notas": [
+          9.05,
+          9.49
+        ],
+        "Desvios": [
+          1.14,
+          1.77
+        ],
+        "DesvioDeNotas": 0.21999999999999975,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 1.455,
+        "NotaMediana": 9.49
+      },
+      "DPP0035 - GESTÃO E INSTITUIÇÕES SOCIAIS": {
+        "Notas": [
+          9.11,
+          9.44
+        ],
+        "Desvios": [
+          1.1,
+          1.11
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.274999999999999,
+        "MediaDeDesvios": 1.105,
+        "NotaMediana": 9.44
+      },
+      "DPP0038 - TÓPICOS ESPECIAIS IX": {
+        "Notas": [
+          9.36,
+          9.37
+        ],
+        "Desvios": [
+          1.07,
+          1.53
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.364999999999998,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.960468943649911,
+    "MediaDeNotas": 8.646153846153847,
+    "MediaDeDesvios": 1.816153846153846,
+    "NotaMediana": 9.05
+  },
+  "WINIFRED KNOX": {
+    "Notas": [
+      8.47,
+      8.65,
+      8.86,
+      9.17,
+      9.2,
+      9.21,
+      9.25,
+      9.25,
+      9.47
+    ],
+    "Desvios": [
+      1.55,
+      1.43,
+      1.74,
+      1.13,
+      1.69,
+      1.94,
+      1.55,
+      1.94,
+      1.92
+    ],
+    "Componentes": {
+      "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV": {
+        "Notas": [
+          9.17
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.17
+      },
+      "DPP0080 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA I": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.47
+      },
+      "DPP0103 - TÓPICOS ESPECIAIS I": {
+        "Notas": [
+          9.21,
+          9.25
+        ],
+        "Desvios": [
+          1.74,
+          1.13
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 1.435,
+        "NotaMediana": 9.25
+      },
+      "DPP0063 - GESTÃO PARTICIPATIVA": {
+        "Notas": [
+          8.86,
+          9.25
+        ],
+        "Desvios": [
+          1.69,
+          1.94
+        ],
+        "DesvioDeNotas": 0.19500000000000028,
+        "MediaDeNotas": 9.055,
+        "MediaDeDesvios": 1.815,
+        "NotaMediana": 9.25
+      },
+      "DPP0014 - INTRODUÇÃO ÀS POLÍTICAS PÚBLICAS": {
+        "Notas": [
+          8.65,
+          9.2
+        ],
+        "Desvios": [
+          1.55,
+          1.94
+        ],
+        "DesvioDeNotas": 0.27499999999999947,
+        "MediaDeNotas": 8.925,
+        "MediaDeDesvios": 1.745,
+        "NotaMediana": 9.2
+      },
+      "DPP0056 - TÓPICOS ESPECIAIS VII": {
+        "Notas": [
+          8.47
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.47,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 8.47
+      }
+    },
+    "DesvioDeNotas": 0.3074426575059501,
+    "MediaDeNotas": 9.05888888888889,
+    "MediaDeDesvios": 1.6544444444444444,
+    "NotaMediana": 9.2
+  },
+  "ZORAIDE SOUZA PESSOA": {
+    "Notas": [
+      7.55,
+      7.84,
+      8.7,
+      9.62
+    ],
+    "Desvios": [
+      2.74,
+      1.44,
+      2.35,
+      2
+    ],
+    "Componentes": {
+      "DPP0081 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS E EXTENSÃO APLICADA II": {
+        "Notas": [
+          7.55
+        ],
+        "Desvios": [
+          2.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.55,
+        "MediaDeDesvios": 2.74,
+        "NotaMediana": 7.55
+      },
+      "DPP0101 - SOCIEDADE, AMBIENTE E POLÍTICAS PÚBLICAS": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.62
+      },
+      "DPP0029 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS IV": {
+        "Notas": [
+          7.84
+        ],
+        "Desvios": [
+          2.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.84,
+        "MediaDeDesvios": 2.35,
+        "NotaMediana": 7.84
+      },
+      "DPP0026 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS I": {
+        "Notas": [
+          8.7
+        ],
+        "Desvios": [
+          2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.7,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 8.7
+      }
+    },
+    "DesvioDeNotas": 0.8080029393510889,
+    "MediaDeNotas": 8.427499999999998,
+    "MediaDeDesvios": 2.1325,
+    "NotaMediana": 8.7
+  },
+  "CAROLINE SOUZA DOS SANTOS": {
+    "Notas": [
+      9.62,
+      9.64,
+      9.74,
+      9.74,
+      9.9
+    ],
+    "Desvios": [
+      1.87,
+      1.45,
+      1.74,
+      1.33,
+      0.98
+    ],
+    "Componentes": {
+      "DPP0094 - GOVERNANÇA E INSTRUMENTOS DE GESTÃO PÚBLICA": {
+        "Notas": [
+          9.74,
+          9.74
+        ],
+        "Desvios": [
+          1.87,
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.6600000000000001,
+        "NotaMediana": 9.74
+      },
+      "DPP0096 - INTRODUÇÃO ÀS POLÍTICAS PÚBLICAS": {
+        "Notas": [
+          9.62,
+          9.64
+        ],
+        "Desvios": [
+          1.74,
+          1.33
+        ],
+        "DesvioDeNotas": 0.010000000000000675,
+        "MediaDeNotas": 9.629999999999999,
+        "MediaDeDesvios": 1.5350000000000001,
+        "NotaMediana": 9.64
+      },
+      "DPP0101 - SOCIEDADE, AMBIENTE E POLÍTICAS PÚBLICAS": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.09927738916792705,
+    "MediaDeNotas": 9.728,
+    "MediaDeDesvios": 1.4740000000000002,
+    "NotaMediana": 9.74
+  },
+  "MARIA DO LIVRAMENTO MIRANDA CLEMENTINO": {
+    "Notas": [
+      9.05,
+      9.36,
+      9.37,
+      9.41,
+      9.54
+    ],
+    "Desvios": [
+      1.53,
+      1.18,
+      1.63,
+      1.35,
+      1.2
+    ],
+    "Componentes": {
+      "DPP0087 - DESENVOLVIMENTO E POLÍTICAS PÚBLICAS NO BRASIL E NO RIO GRANDE DO NORTE": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.37
+      },
+      "DPP0037 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS VI": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.54
+      },
+      "DPP0026 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS I": {
+        "Notas": [
+          9.05
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.05
+      },
+      "DPP0067 - TÓPICOS ESPECIAIS II E III": {
+        "Notas": [
+          9.36,
+          9.41
+        ],
+        "Desvios": [
+          1.35,
+          1.2
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.385,
+        "MediaDeDesvios": 1.275,
+        "NotaMediana": 9.41
+      }
+    },
+    "DesvioDeNotas": 0.16131955864060576,
+    "MediaDeNotas": 9.345999999999998,
+    "MediaDeDesvios": 1.378,
+    "NotaMediana": 9.37
+  },
+  "FABIO FONSECA FIGUEIREDO": {
+    "Notas": [
+      7.76,
+      7.97,
+      8.73,
+      8.92
+    ],
+    "Desvios": [
+      3.04,
+      2.2,
+      2.27,
+      1.76
+    ],
+    "Componentes": {
+      "DPP0027 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS II": {
+        "Notas": [
+          7.76
+        ],
+        "Desvios": [
+          3.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.76,
+        "MediaDeDesvios": 3.04,
+        "NotaMediana": 7.76
+      },
+      "DPP0043 - ORÇAMENTO E FINANCIAMENTO DO SETOR PÚBLICO BRASILEIRO": {
+        "Notas": [
+          8.73,
+          8.92
+        ],
+        "Desvios": [
+          2.2,
+          2.27
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 8.825,
+        "MediaDeDesvios": 2.2350000000000003,
+        "NotaMediana": 8.92
+      },
+      "DPP0036 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS V": {
+        "Notas": [
+          7.97
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.97,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 7.97
+      }
+    },
+    "DesvioDeNotas": 0.4903315205042402,
+    "MediaDeNotas": 8.345,
+    "MediaDeDesvios": 2.3175,
+    "NotaMediana": 8.73
+  },
+  "JESSICA MORAIS DE MOURA": {
+    "Notas": [
+      9.65,
+      9.73,
+      9.81,
+      9.87
+    ],
+    "Desvios": [
+      1.26,
+      1.27,
+      1,
+      1.15
+    ],
+    "Componentes": {
+      "DPP0011 - ANÁLISE E REPRESENTAÇÃO DE DADOS E INFORMAÇÕES": {
+        "Notas": [
+          9.65,
+          9.81
+        ],
+        "Desvios": [
+          1.26,
+          1.27
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.2650000000000001,
+        "NotaMediana": 9.81
+      },
+      "DPP0028 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS III": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1,
+        "NotaMediana": 9.87
+      },
+      "DPP0013 - ESTADO E SOCIEDADE": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.08291561975888465,
+    "MediaDeNotas": 9.765,
+    "MediaDeDesvios": 1.17,
+    "NotaMediana": 9.81
+  },
+  "KIVYSON NUNES DOS SANTOS": {
+    "Notas": [
+      9.59,
+      9.71,
+      9.72,
+      9.77,
+      9.84
+    ],
+    "Desvios": [
+      0.98,
+      1.5,
+      1.18,
+      1.11,
+      1.14
+    ],
+    "Componentes": {
+      "DPP0036 - ATELIÊ DE GESTÃO DE POLÍTICAS PÚBLICAS V": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.77
+      },
+      "DPP0034 - PARTIDOS POLÍTICOS E ELEIÇÕES NO BRASIL": {
+        "Notas": [
+          9.59,
+          9.72
+        ],
+        "Desvios": [
+          1.5,
+          1.18
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.655000000000001,
+        "MediaDeDesvios": 1.3399999999999999,
+        "NotaMediana": 9.72
+      },
+      "DPP0039 - TÓPICOS ESPECIAIS X": {
+        "Notas": [
+          9.71,
+          9.84
+        ],
+        "Desvios": [
+          1.11,
+          1.14
+        ],
+        "DesvioDeNotas": 0.0649999999999995,
+        "MediaDeNotas": 9.775,
+        "MediaDeDesvios": 1.125,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.08212186067059116,
+    "MediaDeNotas": 9.725999999999999,
+    "MediaDeDesvios": 1.182,
+    "NotaMediana": 9.72
+  }
+}

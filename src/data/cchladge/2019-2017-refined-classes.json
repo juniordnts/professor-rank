@@ -1,0 +1,1424 @@
+{
+  "DGE0123 - GEOGRAFIA REGIONAL DO BRASIL": {
+    "Notas": [
+      9.18,
+      9.54
+    ],
+    "Desvios": [
+      1.95,
+      1.64
+    ],
+    "Docentes": [
+      "ALESSANDRO DOZENA"
+    ],
+    "DesvioDeNotas": 0.17999999999999972,
+    "MediaDeNotas": 9.36,
+    "MediaDeDesvios": 1.795,
+    "NotaMediana": 9.54
+  },
+  "DGE0053 - INTRODUCAO A GEOGRAFIA": {
+    "Notas": [
+      9.01,
+      9.65
+    ],
+    "Desvios": [
+      1.85,
+      2.11
+    ],
+    "Docentes": [
+      "ALESSANDRO DOZENA",
+      "ANELINO FRANCISCO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.3200000000000003,
+    "MediaDeNotas": 9.33,
+    "MediaDeDesvios": 1.98,
+    "NotaMediana": 9.65
+  },
+  "DGE0183 - ATIVIDADE INTEGRADORA EM GEOGRAFIA III": {
+    "Notas": [
+      8.25
+    ],
+    "Desvios": [
+      2.56
+    ],
+    "Docentes": [
+      "ANELINO FRANCISCO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.25,
+    "MediaDeDesvios": 2.56,
+    "NotaMediana": 8.25
+  },
+  "DGE0168 - METODOLOGIA DO ENSINO E DA PESQUISA DE GEOGRAFIA": {
+    "Notas": [
+      8.3
+    ],
+    "Desvios": [
+      2.49
+    ],
+    "Docentes": [
+      "ANELINO FRANCISCO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.3,
+    "MediaDeDesvios": 2.49,
+    "NotaMediana": 8.3
+  },
+  "DGE0124 - GEOGRAFIA DO RIO GRANDE DO NORTE": {
+    "Notas": [
+      7.83,
+      8.49,
+      8.55,
+      8.73,
+      8.83,
+      9.02,
+      9.19,
+      9.32,
+      9.69
+    ],
+    "Desvios": [
+      1.48,
+      1.21,
+      1.35,
+      1.73,
+      1.7,
+      2.29,
+      1.57,
+      1.47,
+      1.8
+    ],
+    "Docentes": [
+      "BRUNO MAIA HALLEY",
+      "LEANDRO DE CASTRO LIMA",
+      "MARIA APARECIDA PONTES DA FONSECA",
+      "CLEANTO CARLOS LIMA DA SILVA",
+      "MARCELO DOS SANTOS CHAVES",
+      "LUCIANA DA COSTA FEITOSA",
+      "PABLO RANIERE MEDEIROS DA COSTA",
+      "JOSE LACERDA ALVES FELIPE"
+    ],
+    "DesvioDeNotas": 0.5105334900321861,
+    "MediaDeNotas": 8.85,
+    "MediaDeDesvios": 1.6222222222222225,
+    "NotaMediana": 8.83
+  },
+  "DGE0170 - GEOGRAFIA E AS TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO": {
+    "Notas": [
+      9.15,
+      9.68
+    ],
+    "Desvios": [
+      1.18,
+      0.92
+    ],
+    "Docentes": [
+      "BRUNO MAIA HALLEY",
+      "LEANDRO DE CASTRO LIMA"
+    ],
+    "DesvioDeNotas": 0.2649999999999997,
+    "MediaDeNotas": 9.415,
+    "MediaDeDesvios": 1.05,
+    "NotaMediana": 9.68
+  },
+  "DGE0117 - GEOGRAFIA AGRARIA": {
+    "Notas": [
+      9.23,
+      9.47
+    ],
+    "Desvios": [
+      1.66,
+      1.97
+    ],
+    "Docentes": [
+      "CELSO DONIZETE LOCATEL"
+    ],
+    "DesvioDeNotas": 0.1200000000000001,
+    "MediaDeNotas": 9.350000000000001,
+    "MediaDeDesvios": 1.815,
+    "NotaMediana": 9.47
+  },
+  "DGE0142 - GEOGRAFIA POLITICA": {
+    "Notas": [
+      8.29,
+      8.71,
+      9.47
+    ],
+    "Desvios": [
+      1.61,
+      2.14,
+      1.94
+    ],
+    "Docentes": [
+      "EDU SILVESTRE DE ALBUQUERQUE",
+      "LUCIANA DA COSTA FEITOSA",
+      "PABLO RANIERE MEDEIROS DA COSTA"
+    ],
+    "DesvioDeNotas": 0.48835324191499885,
+    "MediaDeNotas": 8.823333333333332,
+    "MediaDeDesvios": 1.8966666666666665,
+    "NotaMediana": 8.71
+  },
+  "DGE1011 - GEOGRAFIA REGIONAL DO MUNDO": {
+    "Notas": [
+      9.02,
+      9.37,
+      9.71,
+      9.75
+    ],
+    "Desvios": [
+      1.59,
+      1.66,
+      1.73,
+      1.62
+    ],
+    "Docentes": [
+      "EDU SILVESTRE DE ALBUQUERQUE",
+      "PABLO RANIERE MEDEIROS DA COSTA"
+    ],
+    "DesvioDeNotas": 0.29507414322505493,
+    "MediaDeNotas": 9.462499999999999,
+    "MediaDeDesvios": 1.6500000000000001,
+    "NotaMediana": 9.71
+  },
+  "DGE0181 - ATIVIDADE INTEGRADORA EM GEOGRAFIA I": {
+    "Notas": [
+      8.45,
+      8.81
+    ],
+    "Desvios": [
+      2.18,
+      2.46
+    ],
+    "Docentes": [
+      "EUGENIA MARIA DANTAS",
+      "ANELINO FRANCISCO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.1800000000000006,
+    "MediaDeNotas": 8.629999999999999,
+    "MediaDeDesvios": 2.3200000000000003,
+    "NotaMediana": 8.81
+  },
+  "DGE0060 - METEOROLOGIA E CLIMATOLOGIA": {
+    "Notas": [
+      7.77,
+      9.52,
+      9.54
+    ],
+    "Desvios": [
+      3.14,
+      1.62,
+      1.57
+    ],
+    "Docentes": [
+      "FERNANDO MOREIRA DA SILVA",
+      "RODRIGO DE FREITAS AMORIM"
+    ],
+    "DesvioDeNotas": 0.8297121321411554,
+    "MediaDeNotas": 8.943333333333333,
+    "MediaDeDesvios": 2.11,
+    "NotaMediana": 9.52
+  },
+  "DGE1013 - QUANTIFICAÇÃO EM GEOGRAFIA": {
+    "Notas": [
+      9.02,
+      9.31
+    ],
+    "Desvios": [
+      2.36,
+      1.7
+    ],
+    "Docentes": [
+      "FERNANDO MOREIRA DA SILVA",
+      "LUIZ ANTONIO CESTARO"
+    ],
+    "DesvioDeNotas": 0.14500000000000046,
+    "MediaDeNotas": 9.165,
+    "MediaDeDesvios": 2.03,
+    "NotaMediana": 9.31
+  },
+  "DGE0204 - FORMACAO ECONOMICA E TERRITORIAL DO BRASIL": {
+    "Notas": [
+      8.54,
+      9.59
+    ],
+    "Desvios": [
+      1.8,
+      2.2
+    ],
+    "Docentes": [
+      "HUGO ARRUDA DE MORAIS",
+      "LUCIANA DA COSTA FEITOSA"
+    ],
+    "DesvioDeNotas": 0.5250000000000004,
+    "MediaDeNotas": 9.065,
+    "MediaDeDesvios": 2,
+    "NotaMediana": 9.59
+  },
+  "DGE0109 - GEOGRAFIA DA POPULACAO": {
+    "Notas": [
+      9.52,
+      9.55
+    ],
+    "Desvios": [
+      1.5,
+      1.55
+    ],
+    "Docentes": [
+      "HUGO ARRUDA DE MORAIS",
+      "FRANCISCO FRANSUALDO DE AZEVEDO"
+    ],
+    "DesvioDeNotas": 0.015000000000000568,
+    "MediaDeNotas": 9.535,
+    "MediaDeDesvios": 1.525,
+    "NotaMediana": 9.55
+  },
+  "DGE0073 - GEOGRAFIA URBANA DO BRASIL": {
+    "Notas": [
+      8.39,
+      8.72,
+      9.68
+    ],
+    "Desvios": [
+      1.66,
+      1.71,
+      1.75
+    ],
+    "Docentes": [
+      "HUGO ARRUDA DE MORAIS",
+      "CLEANTO CARLOS LIMA DA SILVA",
+      "PABLO RANIERE MEDEIROS DA COSTA"
+    ],
+    "DesvioDeNotas": 0.5471745608121777,
+    "MediaDeNotas": 8.93,
+    "MediaDeDesvios": 1.7066666666666668,
+    "NotaMediana": 8.72
+  },
+  "DGE0075 - EDUCACAO AMBIENTAL": {
+    "Notas": [
+      9.41,
+      9.41
+    ],
+    "Desvios": [
+      1.98,
+      1.48
+    ],
+    "Docentes": [
+      "JULIANA FELIPE FARIAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.41,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.41
+  },
+  "DGE0166 - METODOLOGIA DO TRABALHO CIENTÍFICO": {
+    "Notas": [
+      6.11,
+      9.52
+    ],
+    "Desvios": [
+      1.45,
+      2.81
+    ],
+    "Docentes": [
+      "JULIANA FELIPE FARIAS",
+      "MARIA APARECIDA PONTES DA FONSECA"
+    ],
+    "DesvioDeNotas": 1.7049999999999996,
+    "MediaDeNotas": 7.8149999999999995,
+    "MediaDeDesvios": 2.13,
+    "NotaMediana": 9.52
+  },
+  "DGE0131 - PEDOLOGIA": {
+    "Notas": [
+      8.66,
+      8.96,
+      8.99,
+      9.25,
+      9.61
+    ],
+    "Desvios": [
+      1.63,
+      1.46,
+      1.65,
+      1.7,
+      2.18
+    ],
+    "Docentes": [
+      "JULIANA FELIPE FARIAS",
+      "ZULEIDE MARIA CARVALHO LIMA",
+      "ORGIVAL BEZERRA DA NOBREGA JUNIOR"
+    ],
+    "DesvioDeNotas": 0.31865969308966546,
+    "MediaDeNotas": 9.094,
+    "MediaDeDesvios": 1.7240000000000002,
+    "NotaMediana": 8.99
+  },
+  "DGE0208 - ECOLOGIA": {
+    "Notas": [
+      9.2,
+      9.41
+    ],
+    "Desvios": [
+      1.93,
+      1.77
+    ],
+    "Docentes": [
+      "LUTIANE QUEIROZ DE ALMEIDA",
+      "LUIZ ANTONIO CESTARO"
+    ],
+    "DesvioDeNotas": 0.10500000000000043,
+    "MediaDeNotas": 9.305,
+    "MediaDeDesvios": 1.85,
+    "NotaMediana": 9.41
+  },
+  "DGE0216 - PLANEJAMENTO AMBIENTAL": {
+    "Notas": [
+      8.81,
+      9.16,
+      9.63
+    ],
+    "Desvios": [
+      1.68,
+      2.5,
+      1.31
+    ],
+    "Docentes": [
+      "LUTIANE QUEIROZ DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.3359563463705765,
+    "MediaDeNotas": 9.200000000000001,
+    "MediaDeDesvios": 1.83,
+    "NotaMediana": 9.16
+  },
+  "DGE0074 - GEOGRAFIA FISICA DO BRASIL": {
+    "Notas": [
+      8.49,
+      8.66
+    ],
+    "Desvios": [
+      2.39,
+      1.98
+    ],
+    "Docentes": [
+      "MARCELO DOS SANTOS CHAVES"
+    ],
+    "DesvioDeNotas": 0.08499999999999996,
+    "MediaDeNotas": 8.575,
+    "MediaDeDesvios": 2.185,
+    "NotaMediana": 8.66
+  },
+  "DGE0203 - GEOLOGIA GERAL": {
+    "Notas": [
+      8.92,
+      9.02
+    ],
+    "Desvios": [
+      1.85,
+      1.76
+    ],
+    "Docentes": [
+      "MARCELO DOS SANTOS CHAVES"
+    ],
+    "DesvioDeNotas": 0.04999999999999982,
+    "MediaDeNotas": 8.969999999999999,
+    "MediaDeDesvios": 1.8050000000000002,
+    "NotaMediana": 9.02
+  },
+  "DGE0169 - GEOMORFOLOGIA CLIMÁTICA": {
+    "Notas": [
+      8.73
+    ],
+    "Desvios": [
+      1.6
+    ],
+    "Docentes": [
+      "MARCELO DOS SANTOS CHAVES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.73,
+    "MediaDeDesvios": 1.6,
+    "NotaMediana": 8.73
+  },
+  "DGE0150 - GEOGRAFIA E TURISMO": {
+    "Notas": [
+      6,
+      7.5,
+      8.03,
+      8.59,
+      9.52
+    ],
+    "Desvios": [
+      3.02,
+      1.61,
+      2.99,
+      2.53,
+      1.83
+    ],
+    "Docentes": [
+      "MARIA APARECIDA PONTES DA FONSECA",
+      "ALESSANDRO DOZENA",
+      "CLEANTO CARLOS LIMA DA SILVA",
+      "FRANCISCO FRANSUALDO DE AZEVEDO"
+    ],
+    "DesvioDeNotas": 1.1733268939217236,
+    "MediaDeNotas": 7.928,
+    "MediaDeDesvios": 2.396,
+    "NotaMediana": 8.03
+  },
+  "DGE0127 - GEOGRAFIA DOS RECURSOS NATURAIS": {
+    "Notas": [
+      9.17,
+      9.47
+    ],
+    "Desvios": [
+      2.26,
+      0.85
+    ],
+    "Docentes": [
+      "ORGIVAL BEZERRA DA NOBREGA JUNIOR"
+    ],
+    "DesvioDeNotas": 0.15000000000000036,
+    "MediaDeNotas": 9.32,
+    "MediaDeDesvios": 1.555,
+    "NotaMediana": 9.47
+  },
+  "DGE0054 - GEOLOGIA GERAL": {
+    "Notas": [
+      9.36,
+      9.6
+    ],
+    "Desvios": [
+      1.77,
+      1.64
+    ],
+    "Docentes": [
+      "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+      "MARCELO DOS SANTOS CHAVES"
+    ],
+    "DesvioDeNotas": 0.1200000000000001,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 1.705,
+    "NotaMediana": 9.6
+  },
+  "DGE0146 - SEDIMENTOLOGIA": {
+    "Notas": [
+      8.49,
+      8.74
+    ],
+    "Desvios": [
+      2.39,
+      1.7
+    ],
+    "Docentes": [
+      "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+      "ZULEIDE MARIA CARVALHO LIMA"
+    ],
+    "DesvioDeNotas": 0.125,
+    "MediaDeNotas": 8.615,
+    "MediaDeDesvios": 2.045,
+    "NotaMediana": 8.74
+  },
+  "DGE0059 - CARTOGRAFIA GERAL": {
+    "Notas": [
+      9.31,
+      9.35,
+      9.39
+    ],
+    "Desvios": [
+      1.99,
+      1.64,
+      1.62
+    ],
+    "Docentes": [
+      "PAULO CESAR DE ARAUJO",
+      "SEBASTIAO MILTON PINHEIRO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.032659863237109066,
+    "MediaDeNotas": 9.350000000000001,
+    "MediaDeDesvios": 1.75,
+    "NotaMediana": 9.35
+  },
+  "DGE0215 - GEOPROCESSAMENTO": {
+    "Notas": [
+      8.8,
+      9.43,
+      9.5,
+      9.72
+    ],
+    "Desvios": [
+      1.27,
+      1.85,
+      2.15,
+      1.18
+    ],
+    "Docentes": [
+      "PAULO CESAR DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.34193383862963883,
+    "MediaDeNotas": 9.3625,
+    "MediaDeDesvios": 1.6124999999999998,
+    "NotaMediana": 9.5
+  },
+  "DGE0212 - HIDROLOGIA": {
+    "Notas": [
+      9.39,
+      9.4
+    ],
+    "Desvios": [
+      1.88,
+      1.74
+    ],
+    "Docentes": [
+      "RODRIGO DE FREITAS AMORIM"
+    ],
+    "DesvioDeNotas": 0.004999999999999893,
+    "MediaDeNotas": 9.395,
+    "MediaDeDesvios": 1.81,
+    "NotaMediana": 9.4
+  },
+  "DGE0135 - CARTOGRAFIA TEMATICA": {
+    "Notas": [
+      8.87,
+      8.89
+    ],
+    "Desvios": [
+      2.14,
+      2.02
+    ],
+    "Docentes": [
+      "SEBASTIAO MILTON PINHEIRO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.010000000000000675,
+    "MediaDeNotas": 8.879999999999999,
+    "MediaDeDesvios": 2.08,
+    "NotaMediana": 8.89
+  },
+  "DGE0315 - GEOPROCESSAMENTO": {
+    "Notas": [
+      9.37,
+      9.5
+    ],
+    "Desvios": [
+      1.51,
+      1.82
+    ],
+    "Docentes": [
+      "SEBASTIAO MILTON PINHEIRO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.06500000000000039,
+    "MediaDeNotas": 9.434999999999999,
+    "MediaDeDesvios": 1.665,
+    "NotaMediana": 9.5
+  },
+  "DGE0137 - SENSORIAMENTO REMOTO": {
+    "Notas": [
+      8.69,
+      9.36
+    ],
+    "Desvios": [
+      1.64,
+      1.66
+    ],
+    "Docentes": [
+      "SEBASTIAO MILTON PINHEIRO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.33499999999999996,
+    "MediaDeNotas": 9.024999999999999,
+    "MediaDeDesvios": 1.65,
+    "NotaMediana": 9.36
+  },
+  "DGE0051 - CARTOGRAFIA E TOPOGRAFIA": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      1.09
+    ],
+    "Docentes": [
+      "SILVIO BRAZ DE SOUSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.09,
+    "NotaMediana": 9.57
+  },
+  "DGE0102 - CARTOGRAFIA GERAL": {
+    "Notas": [
+      9.17,
+      9.47
+    ],
+    "Desvios": [
+      2.04,
+      1.64
+    ],
+    "Docentes": [
+      "SILVIO BRAZ DE SOUSA",
+      "LEANDRO DE CASTRO LIMA"
+    ],
+    "DesvioDeNotas": 0.15000000000000036,
+    "MediaDeNotas": 9.32,
+    "MediaDeDesvios": 1.8399999999999999,
+    "NotaMediana": 9.47
+  },
+  "DGE0076 - GEOGRAFIA DE BACIAS HIDROGRAFICAS": {
+    "Notas": [
+      9.71,
+      9.8
+    ],
+    "Desvios": [
+      1.35,
+      0.94
+    ],
+    "Docentes": [
+      "ADRIANO LIMA TROLEIS"
+    ],
+    "DesvioDeNotas": 0.04499999999999993,
+    "MediaDeNotas": 9.755,
+    "MediaDeDesvios": 1.145,
+    "NotaMediana": 9.8
+  },
+  "DGE0070 - GEOGRAFIA REGIONAL DO BRASIL": {
+    "Notas": [
+      8.25,
+      9.57,
+      9.61
+    ],
+    "Desvios": [
+      1.52,
+      1.51,
+      1.68
+    ],
+    "Docentes": [
+      "ALESSANDRO DOZENA",
+      "JANE ROBERTA DE ASSIS BARBOSA",
+      "LUCIANA DA COSTA FEITOSA"
+    ],
+    "DesvioDeNotas": 0.6318930992572152,
+    "MediaDeNotas": 9.143333333333333,
+    "MediaDeDesvios": 1.57,
+    "NotaMediana": 9.57
+  },
+  "DGE0182 - ATIVIDADE INTEGRADORA EM GEOGRAFIA II": {
+    "Notas": [
+      8.31
+    ],
+    "Desvios": [
+      2.27
+    ],
+    "Docentes": [
+      "ANELINO FRANCISCO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.31,
+    "MediaDeDesvios": 2.27,
+    "NotaMediana": 8.31
+  },
+  "DGE0083 - GEOGRAFIA CULTURAL": {
+    "Notas": [
+      9.07,
+      9.86
+    ],
+    "Desvios": [
+      1.5,
+      0.63
+    ],
+    "Docentes": [
+      "ANELINO FRANCISCO DA SILVA",
+      "ALESSANDRO DOZENA"
+    ],
+    "DesvioDeNotas": 0.3949999999999996,
+    "MediaDeNotas": 9.465,
+    "MediaDeDesvios": 1.065,
+    "NotaMediana": 9.86
+  },
+  "DGE0069 - GEOGRAFIA POLITICA": {
+    "Notas": [
+      9.77
+    ],
+    "Desvios": [
+      1.47
+    ],
+    "Docentes": [
+      "EDU SILVESTRE DE ALBUQUERQUE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.47,
+    "NotaMediana": 9.77
+  },
+  "DGE0065 - GEOGRAFIA DA POPULACAO": {
+    "Notas": [
+      9.43,
+      9.79
+    ],
+    "Desvios": [
+      1.27,
+      1.56
+    ],
+    "Docentes": [
+      "FRANCISCO FRANSUALDO DE AZEVEDO",
+      "PABLO RANIERE MEDEIROS DA COSTA"
+    ],
+    "DesvioDeNotas": 0.17999999999999972,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.415,
+    "NotaMediana": 9.79
+  },
+  "DGE0055 - FORMACAO ECONOMICA E TERRITORIAL DO BRASIL": {
+    "Notas": [
+      9.64
+    ],
+    "Desvios": [
+      1.07
+    ],
+    "Docentes": [
+      "HUGO ARRUDA DE MORAIS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.64,
+    "MediaDeDesvios": 1.07,
+    "NotaMediana": 9.64
+  },
+  "DGE0085 - GEOGRAFIA DO NORDESTE": {
+    "Notas": [
+      9.62
+    ],
+    "Desvios": [
+      1.15
+    ],
+    "Docentes": [
+      "HUGO ARRUDA DE MORAIS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.62,
+    "MediaDeDesvios": 1.15,
+    "NotaMediana": 9.62
+  },
+  "DGE0207 - TEORIA E METODOS DA GEOGRAFIA": {
+    "Notas": [
+      9.38,
+      9.59,
+      9.62
+    ],
+    "Desvios": [
+      1.43,
+      1.31,
+      1.13
+    ],
+    "Docentes": [
+      "HUGO ARRUDA DE MORAIS",
+      "EUGENIA MARIA DANTAS",
+      "RODRIGO DE FREITAS AMORIM"
+    ],
+    "DesvioDeNotas": 0.10677078252031251,
+    "MediaDeNotas": 9.53,
+    "MediaDeDesvios": 1.29,
+    "NotaMediana": 9.59
+  },
+  "DGE0107 - BIOGEOGRAFIA": {
+    "Notas": [
+      9.38,
+      9.84,
+      9.89,
+      9.9
+    ],
+    "Desvios": [
+      1.6,
+      1.09,
+      1.3,
+      1.5
+    ],
+    "Docentes": [
+      "JULIANA FELIPE FARIAS",
+      "LEANDRO DE CASTRO LIMA",
+      "LUIZ ANTONIO CESTARO"
+    ],
+    "DesvioDeNotas": 0.21626083787870587,
+    "MediaDeNotas": 9.752500000000001,
+    "MediaDeDesvios": 1.3725,
+    "NotaMediana": 9.89
+  },
+  "DGE0064 - BIOGEOGRAFIA": {
+    "Notas": [
+      8.98,
+      9.56,
+      9.7
+    ],
+    "Desvios": [
+      1.45,
+      1.5,
+      1.62
+    ],
+    "Docentes": [
+      "JULIANA FELIPE FARIAS",
+      "LUIZ ANTONIO CESTARO",
+      "LUTIANE QUEIROZ DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.31169785940162525,
+    "MediaDeNotas": 9.413333333333332,
+    "MediaDeDesvios": 1.5233333333333334,
+    "NotaMediana": 9.56
+  },
+  "DGE0121 - TECNICAS DE PESQUISA GEOGRAFICA": {
+    "Notas": [
+      9.66,
+      9.95
+    ],
+    "Desvios": [
+      1.37,
+      0.79
+    ],
+    "Docentes": [
+      "JULIANA FELIPE FARIAS"
+    ],
+    "DesvioDeNotas": 0.14499999999999957,
+    "MediaDeNotas": 9.805,
+    "MediaDeDesvios": 1.08,
+    "NotaMediana": 9.95
+  },
+  "DGE0188 - GESTÃO DO TERRITÓRIO": {
+    "Notas": [
+      8.66,
+      9.57
+    ],
+    "Desvios": [
+      1.7,
+      1.51
+    ],
+    "Docentes": [
+      "LEANDRO DE CASTRO LIMA",
+      "LUCIANA DA COSTA FEITOSA"
+    ],
+    "DesvioDeNotas": 0.45500000000000007,
+    "MediaDeNotas": 9.115,
+    "MediaDeDesvios": 1.605,
+    "NotaMediana": 9.57
+  },
+  "DGE0119 - GEOGRAFIA URBANA": {
+    "Notas": [
+      8.12,
+      9.09
+    ],
+    "Desvios": [
+      1.89,
+      1.76
+    ],
+    "Docentes": [
+      "LUCIANA DA COSTA FEITOSA"
+    ],
+    "DesvioDeNotas": 0.4850000000000003,
+    "MediaDeNotas": 8.605,
+    "MediaDeDesvios": 1.825,
+    "NotaMediana": 9.09
+  },
+  "DGE0167 - GEOMORFOLOGIA GERAL": {
+    "Notas": [
+      9.29
+    ],
+    "Desvios": [
+      1.45
+    ],
+    "Docentes": [
+      "LUTIANE QUEIROZ DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.29,
+    "MediaDeDesvios": 1.45,
+    "NotaMediana": 9.29
+  },
+  "DGE0219 - GEOGRAFIA DO AMBIENTE COSTEIRO": {
+    "Notas": [
+      8.95,
+      9.03,
+      9.13
+    ],
+    "Desvios": [
+      1.84,
+      1.63,
+      1.45
+    ],
+    "Docentes": [
+      "MARCELO DOS SANTOS CHAVES",
+      "ZULEIDE MARIA CARVALHO LIMA"
+    ],
+    "DesvioDeNotas": 0.07363574011458236,
+    "MediaDeNotas": 9.036666666666667,
+    "MediaDeDesvios": 1.64,
+    "NotaMediana": 9.03
+  },
+  "DGE0214 - GEOGRAFIA FISICA DO BRASIL": {
+    "Notas": [
+      8.32,
+      9.09
+    ],
+    "Desvios": [
+      1.84,
+      1.46
+    ],
+    "Docentes": [
+      "MARCELO DOS SANTOS CHAVES"
+    ],
+    "DesvioDeNotas": 0.3849999999999998,
+    "MediaDeNotas": 8.705,
+    "MediaDeDesvios": 1.65,
+    "NotaMediana": 9.09
+  },
+  "DGE0110 - GEOGRAFIA ECONOMICA": {
+    "Notas": [
+      7.88,
+      8.3
+    ],
+    "Desvios": [
+      2.72,
+      1.89
+    ],
+    "Docentes": [
+      "MARIA APARECIDA PONTES DA FONSECA"
+    ],
+    "DesvioDeNotas": 0.2100000000000004,
+    "MediaDeNotas": 8.09,
+    "MediaDeDesvios": 2.305,
+    "NotaMediana": 8.3
+  },
+  "DGE0071 - GEOGRAFIA ECONOMICA": {
+    "Notas": [
+      8.97,
+      9.14
+    ],
+    "Desvios": [
+      1.65,
+      1.52
+    ],
+    "Docentes": [
+      "MARIA APARECIDA PONTES DA FONSECA"
+    ],
+    "DesvioDeNotas": 0.08499999999999996,
+    "MediaDeNotas": 9.055,
+    "MediaDeDesvios": 1.585,
+    "NotaMediana": 9.14
+  },
+  "DGE0213 - GEOGRAFIA DE BACIAS HIDROGRAFICAS": {
+    "Notas": [
+      8.35,
+      8.55,
+      8.61
+    ],
+    "Desvios": [
+      2.82,
+      1.75,
+      2.16
+    ],
+    "Docentes": [
+      "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+      "MARIA FRANCISCA DE JESUS LIRIO RAMALHO"
+    ],
+    "DesvioDeNotas": 0.11115554667022053,
+    "MediaDeNotas": 8.503333333333334,
+    "MediaDeDesvios": 2.2433333333333336,
+    "NotaMediana": 8.55
+  },
+  "DGE1017 - INTRODUÇÃO À CIÊNCIA DO SOLO": {
+    "Notas": [
+      7.36,
+      8.46,
+      9.05,
+      9.44,
+      9.72
+    ],
+    "Desvios": [
+      2.39,
+      1.72,
+      2.74,
+      2.07,
+      1.19
+    ],
+    "Docentes": [
+      "ORGIVAL BEZERRA DA NOBREGA JUNIOR",
+      "ZULEIDE MARIA CARVALHO LIMA"
+    ],
+    "DesvioDeNotas": 0.8375583561758548,
+    "MediaDeNotas": 8.806000000000001,
+    "MediaDeDesvios": 2.022,
+    "NotaMediana": 9.05
+  },
+  "DGE0113 - AEROFOTOGRAMETRIA E FOTOINTERPRETACAO": {
+    "Notas": [
+      8.85,
+      9.13,
+      9.34,
+      9.79
+    ],
+    "Desvios": [
+      2.11,
+      1.6,
+      1.67,
+      1.88
+    ],
+    "Docentes": [
+      "PAULO CESAR DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.34317451828479306,
+    "MediaDeNotas": 9.2775,
+    "MediaDeDesvios": 1.815,
+    "NotaMediana": 9.34
+  },
+  "DGE0066 - CLIMATOLOGIA SISTEMATICA": {
+    "Notas": [
+      8.59,
+      8.99,
+      9.15
+    ],
+    "Desvios": [
+      2.21,
+      2.28,
+      1.54
+    ],
+    "Docentes": [
+      "RODRIGO DE FREITAS AMORIM",
+      "FERNANDO MOREIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.23551362310207613,
+    "MediaDeNotas": 8.909999999999998,
+    "MediaDeDesvios": 2.0100000000000002,
+    "NotaMediana": 8.99
+  },
+  "DGE0209 - CLIMATOLOGIA SISTEMATICA": {
+    "Notas": [
+      9.29,
+      9.61
+    ],
+    "Desvios": [
+      1.55,
+      1.84
+    ],
+    "Docentes": [
+      "RODRIGO DE FREITAS AMORIM"
+    ],
+    "DesvioDeNotas": 0.16000000000000014,
+    "MediaDeNotas": 9.45,
+    "MediaDeDesvios": 1.695,
+    "NotaMediana": 9.61
+  },
+  "DGE0061 - CARTOGRAFIA TEMATICA": {
+    "Notas": [
+      8.55,
+      9
+    ],
+    "Desvios": [
+      1.75,
+      2.45
+    ],
+    "Docentes": [
+      "SEBASTIAO MILTON PINHEIRO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.22499999999999964,
+    "MediaDeNotas": 8.775,
+    "MediaDeDesvios": 2.1,
+    "NotaMediana": 9
+  },
+  "DGE0072 - CARTOGRAFIA PARA O ENSINO DA GEOGRAFIA": {
+    "Notas": [
+      8.71,
+      9.01
+    ],
+    "Desvios": [
+      2.02,
+      1.72
+    ],
+    "Docentes": [
+      "SILVIO BRAZ DE SOUSA",
+      "SEBASTIAO MILTON PINHEIRO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.14999999999999947,
+    "MediaDeNotas": 8.86,
+    "MediaDeDesvios": 1.87,
+    "NotaMediana": 9.01
+  },
+  "DGE1012 - GEOMORFOLOGIA": {
+    "Notas": [
+      7.74,
+      8.55,
+      8.77,
+      9.34
+    ],
+    "Desvios": [
+      2.66,
+      1.84,
+      2.1,
+      1.5
+    ],
+    "Docentes": [
+      "SILVIO BRAZ DE SOUSA",
+      "ZULEIDE MARIA CARVALHO LIMA",
+      "MARIA FRANCISCA DE JESUS LIRIO RAMALHO",
+      "PAULO CESAR DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.5741515479383468,
+    "MediaDeNotas": 8.6,
+    "MediaDeDesvios": 2.025,
+    "NotaMediana": 8.77
+  },
+  "DGE0205 - METEOROLOGIA E CLIMATOLOGIA": {
+    "Notas": [
+      7.86,
+      8.68
+    ],
+    "Desvios": [
+      2.44,
+      1.79
+    ],
+    "Docentes": [
+      "SILVIO BRAZ DE SOUSA",
+      "FERNANDO MOREIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.4099999999999997,
+    "MediaDeNotas": 8.27,
+    "MediaDeDesvios": 2.115,
+    "NotaMediana": 8.68
+  },
+  "DGE0201 - INTRODUCAO A GEOGRAFIA": {
+    "Notas": [
+      8.71
+    ],
+    "Desvios": [
+      2.33
+    ],
+    "Docentes": [
+      "ANELINO FRANCISCO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.71,
+    "MediaDeDesvios": 2.33,
+    "NotaMediana": 8.71
+  },
+  "DGE0063 - GEOGRAFIA URBANA": {
+    "Notas": [
+      8.66,
+      9.34
+    ],
+    "Desvios": [
+      1.65,
+      2.29
+    ],
+    "Docentes": [
+      "CLEANTO CARLOS LIMA DA SILVA",
+      "LUCIANA DA COSTA FEITOSA"
+    ],
+    "DesvioDeNotas": 0.33999999999999986,
+    "MediaDeNotas": 9,
+    "MediaDeDesvios": 1.97,
+    "NotaMediana": 9.34
+  },
+  "COP0011 - DESENVOLVIMENTO SUSTENTÁVEL E TERRITORIAL": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      1.16
+    ],
+    "Docentes": [
+      "FRANCISCO FRANSUALDO DE AZEVEDO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.16,
+    "NotaMediana": 9.57
+  },
+  "DGE0151 - GEOGRAFIA, TURISMO E DESENVOLVIMENTO REGIONAL": {
+    "Notas": [
+      9.43
+    ],
+    "Desvios": [
+      1.31
+    ],
+    "Docentes": [
+      "FRANCISCO FRANSUALDO DE AZEVEDO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.43,
+    "MediaDeDesvios": 1.31,
+    "NotaMediana": 9.43
+  },
+  "DGE0210 - EDUCACAO AMBIENTAL": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      1.62
+    ],
+    "Docentes": [
+      "JULIANA FELIPE FARIAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.62,
+    "NotaMediana": 9.57
+  },
+  "DGE1019 - CARTOGRAFIA APLICADA AO TURISMO": {
+    "Notas": [
+      9.54
+    ],
+    "Desvios": [
+      1.57
+    ],
+    "Docentes": [
+      "LEANDRO DE CASTRO LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.57,
+    "NotaMediana": 9.54
+  },
+  "DGE0062 - GEOGRAFIA AGRARIA": {
+    "Notas": [
+      9.41
+    ],
+    "Desvios": [
+      1.72
+    ],
+    "Docentes": [
+      "LEANDRO DE CASTRO LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.41,
+    "MediaDeDesvios": 1.72,
+    "NotaMediana": 9.41
+  },
+  "DGE0217 - PLANEJAMENTO URBANO E REGIONAL": {
+    "Notas": [
+      8.16
+    ],
+    "Desvios": [
+      1.82
+    ],
+    "Docentes": [
+      "LUCIANA DA COSTA FEITOSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.16,
+    "MediaDeDesvios": 1.82,
+    "NotaMediana": 8.16
+  },
+  "DGE0082 - FITOGEOGRAFIA DO BRASIL": {
+    "Notas": [
+      9.84
+    ],
+    "Desvios": [
+      1.08
+    ],
+    "Docentes": [
+      "LUIZ ANTONIO CESTARO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.84,
+    "MediaDeDesvios": 1.08,
+    "NotaMediana": 9.84
+  },
+  "DGE0229 - GEOMORFOLOGIA APLICADA": {
+    "Notas": [
+      9.59
+    ],
+    "Desvios": [
+      1.38
+    ],
+    "Docentes": [
+      "LUTIANE QUEIROZ DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.38,
+    "NotaMediana": 9.59
+  },
+  "DGE0091 - MEIO AMBIENTE E DESENVOLVIMENTO": {
+    "Notas": [
+      9.79
+    ],
+    "Desvios": [
+      0.92
+    ],
+    "Docentes": [
+      "LUTIANE QUEIROZ DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.79,
+    "MediaDeDesvios": 0.92,
+    "NotaMediana": 9.79
+  },
+  "DGE0068 - PEDOLOGIA": {
+    "Notas": [
+      9.09
+    ],
+    "Desvios": [
+      2.2
+    ],
+    "Docentes": [
+      "ORGIVAL BEZERRA DA NOBREGA JUNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.09,
+    "MediaDeDesvios": 2.2,
+    "NotaMediana": 9.09
+  },
+  "DGE0140 - GEOGRAFIA DO NORDESTE": {
+    "Notas": [
+      8.82
+    ],
+    "Desvios": [
+      1.73
+    ],
+    "Docentes": [
+      "ANELINO FRANCISCO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.82,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 8.82
+  },
+  "DGE0056 - ORGANIZACAO DO ESPACO": {
+    "Notas": [
+      9.15
+    ],
+    "Desvios": [
+      1.47
+    ],
+    "Docentes": [
+      "ANELINO FRANCISCO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.15,
+    "MediaDeDesvios": 1.47,
+    "NotaMediana": 9.15
+  },
+  "DGE0165 - GESTÃO DO TERRITÓRIO": {
+    "Notas": [
+      8.67,
+      8.82
+    ],
+    "Desvios": [
+      1.79,
+      2.03
+    ],
+    "Docentes": [
+      "LUCIANA DA COSTA FEITOSA"
+    ],
+    "DesvioDeNotas": 0.07500000000000018,
+    "MediaDeNotas": 8.745000000000001,
+    "MediaDeDesvios": 1.91,
+    "NotaMediana": 8.82
+  },
+  "DGE0058 - TEORIA E METODOS DA GEOGRAFIA": {
+    "Notas": [
+      8.99
+    ],
+    "Desvios": [
+      1.72
+    ],
+    "Docentes": [
+      "PABLO RANIERE MEDEIROS DA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.99,
+    "MediaDeDesvios": 1.72,
+    "NotaMediana": 8.99
+  }
+}

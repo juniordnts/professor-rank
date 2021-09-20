@@ -1,4 +1,4 @@
-## Rank dos Professores UFRN
+## Avaliação Semestral Compilada UFRN
 
 <!-- # [Link para a página](https://juniordnts.github.io/professor-rank/front/index.html) -->
 

@@ -1,0 +1,2476 @@
+{
+  "ALEXANDRE FLAVIO SILVA DE QUEIROZ": {
+    "Notas": [
+      8.84,
+      9.14,
+      9.19,
+      9.19,
+      9.35,
+      9.48,
+      9.5,
+      9.55,
+      9.62,
+      9.89,
+      9.91
+    ],
+    "Desvios": [
+      2.2,
+      1.74,
+      2.15,
+      2.13,
+      1.18,
+      1.3,
+      1.73,
+      2.4,
+      2.25,
+      1.22,
+      1.42
+    ],
+    "Componentes": {
+      "DBF0014 - BIOFISICA GERAL": {
+        "Notas": [
+          9.14,
+          9.48,
+          9.5,
+          9.91
+        ],
+        "Desvios": [
+          2.2,
+          1.74,
+          1.3,
+          1.73
+        ],
+        "DesvioDeNotas": 0.2728896297040251,
+        "MediaDeNotas": 9.5075,
+        "MediaDeDesvios": 1.7425000000000002,
+        "NotaMediana": 9.5
+      },
+      "DBF0042 - ÉTICA E COMPROMISSO SOCIAL": {
+        "Notas": [
+          8.84,
+          9.19,
+          9.19,
+          9.35,
+          9.62
+        ],
+        "Desvios": [
+          2.15,
+          2.13,
+          2.4,
+          2.25,
+          1.42
+        ],
+        "DesvioDeNotas": 0.25356655930938504,
+        "MediaDeNotas": 9.238,
+        "MediaDeDesvios": 2.07,
+        "NotaMediana": 9.19
+      },
+      "DBF0012 - BIOFISICA BASICA": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.89
+      },
+      "DBF0005 - BIOFISICA V": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.3094356366405469,
+    "MediaDeNotas": 9.423636363636364,
+    "MediaDeDesvios": 1.7927272727272727,
+    "NotaMediana": 9.48
+  },
+  "AURIGENA ANTUNES DE ARAUJO": {
+    "Notas": [
+      10,
+      8.37,
+      8.58,
+      8.71,
+      8.99,
+      9.04,
+      9.09,
+      9.12,
+      9.15,
+      9.32,
+      9.34,
+      9.35,
+      9.36,
+      9.39,
+      9.4,
+      9.4,
+      9.43,
+      9.44,
+      9.46,
+      9.46,
+      9.48,
+      9.48,
+      9.5,
+      9.52,
+      9.54,
+      9.55,
+      9.6,
+      9.67,
+      9.7,
+      9.71,
+      9.73,
+      9.74,
+      9.78,
+      9.79,
+      9.82,
+      9.86,
+      9.91,
+      9.94
+    ],
+    "Desvios": [
+      1.79,
+      1.9,
+      1.49,
+      1.85,
+      2.06,
+      2.09,
+      1.93,
+      1.16,
+      1.51,
+      1.56,
+      2,
+      2.26,
+      1.55,
+      1.7,
+      1.47,
+      3.07,
+      3,
+      0.76,
+      1.77,
+      1.7,
+      1.5,
+      1.16,
+      1.25,
+      0.8,
+      1.83,
+      2.54,
+      2.28,
+      1.53,
+      1.02,
+      1.01,
+      1.38,
+      0.07,
+      0.69,
+      0.6,
+      1.5,
+      1.36,
+      1.84,
+      1.69
+    ],
+    "Componentes": {
+      "DBF0214 - FARMACODINÂMICA": {
+        "Notas": [
+          9.15,
+          9.36,
+          9.4,
+          9.4,
+          9.54,
+          9.6,
+          9.67,
+          9.73
+        ],
+        "Desvios": [
+          1.79,
+          1.9,
+          1.56,
+          2,
+          1.77,
+          1.7,
+          1.02,
+          1.01
+        ],
+        "DesvioDeNotas": 0.17772433007329067,
+        "MediaDeNotas": 9.48125,
+        "MediaDeDesvios": 1.5937499999999998,
+        "NotaMediana": 9.54
+      },
+      "DBF0506 - FARMACOLOGIA APLICADA I": {
+        "Notas": [
+          9.12,
+          9.32,
+          9.43,
+          9.52
+        ],
+        "Desvios": [
+          1.49,
+          2.26,
+          1.5,
+          1.38
+        ],
+        "DesvioDeNotas": 0.149227175809234,
+        "MediaDeNotas": 9.3475,
+        "MediaDeDesvios": 1.6575,
+        "NotaMediana": 9.43
+      },
+      "DBF0045 - FARMACOLOGIA APLICADA À ODONTOLOGIA": {
+        "Notas": [
+          10,
+          9.35,
+          9.39,
+          9.5,
+          9.55,
+          9.7,
+          9.71,
+          9.79,
+          9.86,
+          9.94
+        ],
+        "Desvios": [
+          1.85,
+          2.06,
+          1.55,
+          1.7,
+          1.16,
+          1.25,
+          0.8,
+          0.07,
+          0.69,
+          0.6
+        ],
+        "DesvioDeNotas": 0.2140303716765448,
+        "MediaDeNotas": 9.678999999999998,
+        "MediaDeDesvios": 1.173,
+        "NotaMediana": 9.7
+      },
+      "DBF0306 - FARMACOLOGIA BASICA": {
+        "Notas": [
+          9.34,
+          9.46,
+          9.46,
+          9.48
+        ],
+        "Desvios": [
+          2.09,
+          1.47,
+          1.83,
+          1.5
+        ],
+        "DesvioDeNotas": 0.05545268253204742,
+        "MediaDeNotas": 9.435,
+        "MediaDeDesvios": 1.7225,
+        "NotaMediana": 9.46
+      },
+      "DBF0038 - FARMACOLOGIA GERAL PARA ODONTOLOGIA": {
+        "Notas": [
+          8.37,
+          8.58,
+          8.71,
+          8.99,
+          9.04,
+          9.48,
+          9.74,
+          9.91
+        ],
+        "Desvios": [
+          1.93,
+          1.16,
+          3.07,
+          3,
+          2.54,
+          2.28,
+          1.36,
+          1.84
+        ],
+        "DesvioDeNotas": 0.5221529948204837,
+        "MediaDeNotas": 9.1025,
+        "MediaDeDesvios": 2.1475,
+        "NotaMediana": 9.04
+      },
+      "DBF0036 - MODELOS FARMACOLÓGICOS EXPERIMENTAIS: DELINEAMENTO E INSTRUMENTAÇÃO": {
+        "Notas": [
+          9.44,
+          9.78,
+          9.82
+        ],
+        "Desvios": [
+          1.51,
+          0.76,
+          1.53
+        ],
+        "DesvioDeNotas": 0.17048949136725913,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.2666666666666666,
+        "NotaMediana": 9.78
+      },
+      "DBF0209 - FARMACOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 0.3593195323326989,
+    "MediaDeNotas": 9.440000000000003,
+    "MediaDeDesvios": 1.596578947368421,
+    "NotaMediana": 9.46
+  },
+  "BRUNO LOBAO SOARES": {
+    "Notas": [
+      8.68,
+      8.94,
+      8.97,
+      9.18,
+      9.23,
+      9.25,
+      9.33,
+      9.41,
+      9.43,
+      9.44,
+      9.5,
+      9.68,
+      9.69,
+      9.71,
+      9.74,
+      9.77
+    ],
+    "Desvios": [
+      2.19,
+      1.74,
+      1.47,
+      1.72,
+      1.95,
+      1.94,
+      1.6,
+      2.11,
+      1.77,
+      1.29,
+      2.26,
+      2.43,
+      1.36,
+      1.06,
+      1.11,
+      1.53
+    ],
+    "Componentes": {
+      "DBF0014 - BIOFISICA GERAL": {
+        "Notas": [
+          8.68,
+          8.94,
+          8.97,
+          9.18,
+          9.25,
+          9.33,
+          9.41,
+          9.43,
+          9.44,
+          9.5,
+          9.68,
+          9.69,
+          9.71,
+          9.74,
+          9.77
+        ],
+        "Desvios": [
+          2.19,
+          1.74,
+          1.47,
+          1.72,
+          1.95,
+          1.94,
+          1.6,
+          2.11,
+          1.29,
+          2.26,
+          2.43,
+          1.36,
+          1.06,
+          1.11,
+          1.53
+        ],
+        "DesvioDeNotas": 0.31719324639020224,
+        "MediaDeNotas": 9.381333333333334,
+        "MediaDeDesvios": 1.717333333333333,
+        "NotaMediana": 9.43
+      },
+      "DFS0048 - BASES BIOLÓGICAS DA RESPOSTA AO ESTRESSE": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.23
+      }
+    },
+    "DesvioDeNotas": 0.3092979702083414,
+    "MediaDeNotas": 9.371875000000001,
+    "MediaDeDesvios": 1.7206249999999998,
+    "NotaMediana": 9.43
+  },
+  "CARLOS ANTONIO BARBOZA": {
+    "Notas": [
+      8.43,
+      8.91,
+      9.06,
+      9.31,
+      9.39,
+      9.64,
+      9.64,
+      9.66,
+      9.84,
+      9.85
+    ],
+    "Desvios": [
+      2.71,
+      1.42,
+      1.51,
+      1.9,
+      2,
+      1.36,
+      1.37,
+      1.27,
+      1.13,
+      1.69
+    ],
+    "Componentes": {
+      "DBF0033 - CÁLCULO PARA BIOCIENTISTAS": {
+        "Notas": [
+          8.43,
+          9.39
+        ],
+        "Desvios": [
+          2.71,
+          1.9
+        ],
+        "DesvioDeNotas": 0.4800000000000004,
+        "MediaDeNotas": 8.91,
+        "MediaDeDesvios": 2.3049999999999997,
+        "NotaMediana": 9.39
+      },
+      "DBF0024 - FÍSICA PARA O ENSINO DE CIÊNCIAS E BIOLOGIA": {
+        "Notas": [
+          8.91,
+          9.06,
+          9.31,
+          9.64,
+          9.64,
+          9.66,
+          9.84,
+          9.85
+        ],
+        "Desvios": [
+          1.42,
+          1.51,
+          2,
+          1.36,
+          1.37,
+          1.27,
+          1.13,
+          1.69
+        ],
+        "DesvioDeNotas": 0.3316035848720576,
+        "MediaDeNotas": 9.48875,
+        "MediaDeDesvios": 1.4687499999999998,
+        "NotaMediana": 9.64
+      }
+    },
+    "DesvioDeNotas": 0.43317548407083245,
+    "MediaDeNotas": 9.373,
+    "MediaDeDesvios": 1.636,
+    "NotaMediana": 9.64
+  },
+  "CARLOS EDUARDO MAIA GOMES": {
+    "Notas": [
+      9.17,
+      9.2,
+      9.31,
+      9.35,
+      9.43,
+      9.45,
+      9.54,
+      9.56,
+      9.61,
+      9.62,
+      9.7,
+      9.75,
+      9.84
+    ],
+    "Desvios": [
+      2.49,
+      2.33,
+      2.2,
+      2.06,
+      1.86,
+      1.27,
+      1.85,
+      2.22,
+      1.85,
+      2.22,
+      1.1,
+      1.17,
+      1.25
+    ],
+    "Componentes": {
+      "DBF0025 - METODOLOGIA CIENTÍFICA": {
+        "Notas": [
+          9.17,
+          9.43,
+          9.45,
+          9.56,
+          9.7
+        ],
+        "Desvios": [
+          2.49,
+          2.33,
+          1.85,
+          2.22,
+          1.25
+        ],
+        "DesvioDeNotas": 0.17474552927042217,
+        "MediaDeNotas": 9.462,
+        "MediaDeDesvios": 2.028,
+        "NotaMediana": 9.45
+      },
+      "DBF0041 - PROCESSOS FÍSICO-QUÍMICOS NAS CIÊNCIAS DA VIDA": {
+        "Notas": [
+          9.2,
+          9.31,
+          9.35,
+          9.54
+        ],
+        "Desvios": [
+          2.2,
+          2.06,
+          1.85,
+          2.22
+        ],
+        "DesvioDeNotas": 0.12267844146385282,
+        "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 2.0825,
+        "NotaMediana": 9.35
+      },
+      "DBF0012 - BIOFISICA BASICA": {
+        "Notas": [
+          9.61,
+          9.62,
+          9.75,
+          9.84
+        ],
+        "Desvios": [
+          1.86,
+          1.27,
+          1.1,
+          1.17
+        ],
+        "DesvioDeNotas": 0.09552486587271428,
+        "MediaDeNotas": 9.705,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.1989647764015548,
+    "MediaDeNotas": 9.502307692307692,
+    "MediaDeDesvios": 1.836153846153846,
+    "NotaMediana": 9.54
+  },
+  "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS": {
+    "Notas": [
+      9.04,
+      9.14,
+      9.18,
+      9.18,
+      9.19,
+      9.19,
+      9.22,
+      9.24,
+      9.25,
+      9.28,
+      9.3,
+      9.31,
+      9.37,
+      9.41,
+      9.44,
+      9.44,
+      9.47,
+      9.48,
+      9.51,
+      9.53,
+      9.54,
+      9.56,
+      9.57,
+      9.57,
+      9.59,
+      9.59,
+      9.6,
+      9.62,
+      9.63,
+      9.64,
+      9.64,
+      9.69,
+      9.69,
+      9.79,
+      9.79,
+      9.82,
+      9.82,
+      9.86,
+      9.86,
+      9.88,
+      9.9,
+      9.93,
+      9.96,
+      9.99
+    ],
+    "Desvios": [
+      1.05,
+      0.9,
+      1.19,
+      1.87,
+      1.96,
+      1.16,
+      1.52,
+      2.01,
+      1.28,
+      1.07,
+      1.46,
+      2,
+      0.71,
+      1.23,
+      1.38,
+      1.32,
+      1.94,
+      1.54,
+      1.22,
+      0.75,
+      1.79,
+      1.3,
+      0.87,
+      1.78,
+      1.45,
+      0.5,
+      1.29,
+      1.41,
+      1.18,
+      1.25,
+      1.25,
+      2.02,
+      0.47,
+      1.33,
+      1.14,
+      1.49,
+      1.31,
+      1.37,
+      1.79,
+      1.58,
+      1.74,
+      0.97,
+      1.03,
+      1.55
+    ],
+    "Componentes": {
+      "DBF0212 - FARMACOLOGIA III: PROTOCOLOS FARMACOLÓGICOS NA CLÍNICA GERAL E OBSTÉTRICA": {
+        "Notas": [
+          9.18,
+          9.19,
+          9.25,
+          9.3,
+          9.53,
+          9.62,
+          9.82,
+          9.86
+        ],
+        "Desvios": [
+          1.05,
+          0.9,
+          1.23,
+          1.38,
+          1.78,
+          1.45,
+          1.33,
+          1.14
+        ],
+        "DesvioDeNotas": 0.25992486895254935,
+        "MediaDeNotas": 9.46875,
+        "MediaDeDesvios": 1.2825000000000002,
+        "NotaMediana": 9.53
+      },
+      "DBF0506 - FARMACOLOGIA APLICADA I": {
+        "Notas": [
+          9.19,
+          9.37,
+          9.47,
+          9.63
+        ],
+        "Desvios": [
+          1.19,
+          1.94,
+          1.29,
+          1.49
+        ],
+        "DesvioDeNotas": 0.15960889699512423,
+        "MediaDeNotas": 9.415,
+        "MediaDeDesvios": 1.4775,
+        "NotaMediana": 9.47
+      },
+      "DBF0306 - FARMACOLOGIA BASICA": {
+        "Notas": [
+          9.44,
+          9.57,
+          9.64,
+          9.64
+        ],
+        "Desvios": [
+          1.87,
+          1.54,
+          1.41,
+          1.31
+        ],
+        "DesvioDeNotas": 0.0816624148553058,
+        "MediaDeNotas": 9.5725,
+        "MediaDeDesvios": 1.5325000000000002,
+        "NotaMediana": 9.64
+      },
+      "DBF0038 - FARMACOLOGIA GERAL PARA ODONTOLOGIA": {
+        "Notas": [
+          9.04,
+          9.56,
+          9.6,
+          9.9
+        ],
+        "Desvios": [
+          1.96,
+          1.16,
+          1.37,
+          1.79
+        ],
+        "DesvioDeNotas": 0.3093137565644313,
+        "MediaDeNotas": 9.525,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.6
+      },
+      "DBF0208 - FARMACOLOGIA I GERAL E FARMACOCINÉTICA": {
+        "Notas": [
+          9.18,
+          9.24,
+          9.31,
+          9.48,
+          9.59,
+          9.69,
+          9.82,
+          9.93
+        ],
+        "Desvios": [
+          1.52,
+          2.01,
+          1.22,
+          0.75,
+          1.18,
+          1.25,
+          1.58,
+          1.74
+        ],
+        "DesvioDeNotas": 0.25758493744782507,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.40625,
+        "NotaMediana": 9.59
+      },
+      "DBF0211 - FARMACOLOGIA II: PROTOCOLOS FARMACOLÓGICOS NA ATENÇÃO BÁSICA À SAÚDE": {
+        "Notas": [
+          9.22,
+          9.28,
+          9.44,
+          9.51,
+          9.57,
+          9.59,
+          9.69,
+          9.88
+        ],
+        "Desvios": [
+          1.28,
+          1.07,
+          1.79,
+          1.3,
+          1.25,
+          2.02,
+          0.97,
+          1.03
+        ],
+        "DesvioDeNotas": 0.1999843743896009,
+        "MediaDeNotas": 9.522499999999999,
+        "MediaDeDesvios": 1.33875,
+        "NotaMediana": 9.57
+      },
+      "DBF0213 - FARMACOLOGIA IV: PROTOCOLOS FARMACOLÓGICOS NA CLÍNICA AVANÇADA": {
+        "Notas": [
+          9.41,
+          9.54
+        ],
+        "Desvios": [
+          1.46,
+          2
+        ],
+        "DesvioDeNotas": 0.0649999999999995,
+        "MediaDeNotas": 9.475,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.54
+      },
+      "DBF0037 - MODELOS FARMACOLÓGICOS EXPERIMENTAIS: DELINEAMENTO E INSTRUMENTAÇÃO": {
+        "Notas": [
+          9.79,
+          9.86,
+          9.99
+        ],
+        "Desvios": [
+          0.71,
+          0.87,
+          0.47
+        ],
+        "DesvioDeNotas": 0.0828653526310408,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 0.6833333333333332,
+        "NotaMediana": 9.86
+      },
+      "DBF0018 - FARMACOLOGIA APLICADA A NUTRIÇÃO": {
+        "Notas": [
+          9.79,
+          9.96
+        ],
+        "Desvios": [
+          1.32,
+          0.5
+        ],
+        "DesvioDeNotas": 0.08500000000000085,
+        "MediaDeNotas": 9.875,
+        "MediaDeDesvios": 0.91,
+        "NotaMediana": 9.96
+      },
+      "DBF0209 - FARMACOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          9.14
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.14
+      }
+    },
+    "DesvioDeNotas": 0.2521326392369601,
+    "MediaDeNotas": 9.538636363636364,
+    "MediaDeDesvios": 1.3504545454545454,
+    "NotaMediana": 9.57
+  },
+  "EDILSON DANTAS DA SILVA JUNIOR": {
+    "Notas": [
+      10,
+      10,
+      9.53,
+      9.59,
+      9.63,
+      9.68,
+      9.7,
+      9.74,
+      9.8,
+      9.81,
+      9.83,
+      9.83,
+      9.86,
+      9.86,
+      9.87,
+      9.89,
+      9.9,
+      9.9,
+      9.91,
+      9.92,
+      9.92,
+      9.93,
+      9.94,
+      9.95,
+      9.95,
+      9.99
+    ],
+    "Desvios": [
+      0.8,
+      1.57,
+      1.76,
+      1.43,
+      0.53,
+      1.31,
+      1.03,
+      1.2,
+      1.13,
+      0.7,
+      1.25,
+      1.19,
+      0.61,
+      0.47,
+      0.96,
+      1.01,
+      0.82,
+      0.99,
+      1.2,
+      1.8,
+      0.46,
+      0.84,
+      0.94,
+      0.79,
+      1.1,
+      1.02
+    ],
+    "Componentes": {
+      "DBF0506 - FARMACOLOGIA APLICADA I": {
+        "Notas": [
+          9.68,
+          9.8,
+          9.83,
+          9.92
+        ],
+        "Desvios": [
+          0.8,
+          1.03,
+          0.96,
+          0.79
+        ],
+        "DesvioDeNotas": 0.08584142356694704,
+        "MediaDeNotas": 9.807500000000001,
+        "MediaDeDesvios": 0.895,
+        "NotaMediana": 9.83
+      },
+      "DBF0207 - FARMACOLOGIA APLICADA III": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.59
+      },
+      "DBF0306 - FARMACOLOGIA BASICA": {
+        "Notas": [
+          9.7,
+          9.81,
+          9.89,
+          9.92
+        ],
+        "Desvios": [
+          1.76,
+          1.2,
+          1.01,
+          1.1
+        ],
+        "DesvioDeNotas": 0.08514693182963233,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 1.2675,
+        "NotaMediana": 9.89
+      },
+      "DBF0209 - FARMACOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          9.87,
+          9.91
+        ],
+        "Desvios": [
+          1.43,
+          1.02
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.225,
+        "NotaMediana": 9.91
+      },
+      "DBF0037 - MODELOS FARMACOLÓGICOS EXPERIMENTAIS: DELINEAMENTO E INSTRUMENTAÇÃO": {
+        "Notas": [
+          10,
+          9.94,
+          9.95
+        ],
+        "Desvios": [
+          0.53,
+          0.61,
+          0.46
+        ],
+        "DesvioDeNotas": 0.02624669291337297,
+        "MediaDeNotas": 9.963333333333333,
+        "MediaDeDesvios": 0.5333333333333333,
+        "NotaMediana": 9.94
+      },
+      "DBF0018 - FARMACOLOGIA APLICADA A NUTRIÇÃO": {
+        "Notas": [
+          9.83,
+          9.99
+        ],
+        "Desvios": [
+          1.31,
+          0.47
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 0.89,
+        "NotaMediana": 9.99
+      },
+      "DBF0208 - FARMACOLOGIA I GERAL E FARMACOCINÉTICA": {
+        "Notas": [
+          10,
+          9.9,
+          9.93,
+          9.95
+        ],
+        "Desvios": [
+          1.13,
+          0.7,
+          0.82,
+          0.99
+        ],
+        "DesvioDeNotas": 0.03640054944640249,
+        "MediaDeNotas": 9.945,
+        "MediaDeDesvios": 0.9099999999999999,
+        "NotaMediana": 9.93
+      },
+      "DBF0211 - FARMACOLOGIA II: PROTOCOLOS FARMACOLÓGICOS NA ATENÇÃO BÁSICA À SAÚDE": {
+        "Notas": [
+          9.53,
+          9.63,
+          9.74,
+          9.86
+        ],
+        "Desvios": [
+          1.25,
+          1.19,
+          1.2,
+          1.8
+        ],
+        "DesvioDeNotas": 0.12308533625091164,
+        "MediaDeNotas": 9.690000000000001,
+        "MediaDeDesvios": 1.3599999999999999,
+        "NotaMediana": 9.74
+      },
+      "DBF0214 - FARMACODINÂMICA": {
+        "Notas": [
+          9.86,
+          9.9
+        ],
+        "Desvios": [
+          0.84,
+          0.94
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.879999999999999,
+        "MediaDeDesvios": 0.8899999999999999,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.12486738527464024,
+    "MediaDeNotas": 9.843461538461542,
+    "MediaDeDesvios": 1.035,
+    "NotaMediana": 9.86
+  },
+  "EPIFANIO FERNANDES DA SILVA": {
+    "Notas": [
+      10,
+      9.29,
+      9.32,
+      9.42,
+      9.47,
+      9.57,
+      9.57,
+      9.6,
+      9.72,
+      9.72,
+      9.75,
+      9.76,
+      9.8,
+      9.81,
+      9.81,
+      9.82,
+      9.82,
+      9.83,
+      9.84,
+      9.85,
+      9.87,
+      9.89,
+      9.89,
+      9.89,
+      9.9,
+      9.9,
+      9.92,
+      9.92,
+      9.93,
+      9.94,
+      9.95
+    ],
+    "Desvios": [
+      1.36,
+      0.82,
+      1.41,
+      1.56,
+      1.23,
+      0.62,
+      1.23,
+      1,
+      1.59,
+      0.98,
+      1.04,
+      1.17,
+      1.18,
+      1.96,
+      2.43,
+      1.31,
+      1.22,
+      0.96,
+      1.5,
+      1.4,
+      0.93,
+      1.47,
+      1.58,
+      1.49,
+      0,
+      2.19,
+      1.95,
+      1.19,
+      2.02,
+      1.17,
+      1.24
+    ],
+    "Componentes": {
+      "DBF0214 - FARMACODINÂMICA": {
+        "Notas": [
+          9.8,
+          9.84,
+          9.85,
+          9.89,
+          9.92,
+          9.92,
+          9.93,
+          9.95
+        ],
+        "Desvios": [
+          1.36,
+          0.82,
+          1.41,
+          1.56,
+          1,
+          1.59,
+          0.93,
+          1.47
+        ],
+        "DesvioDeNotas": 0.048925964476952064,
+        "MediaDeNotas": 9.887500000000001,
+        "MediaDeDesvios": 1.2675,
+        "NotaMediana": 9.92
+      },
+      "DBF0209 - FARMACOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          9.76,
+          9.89
+        ],
+        "Desvios": [
+          1.23,
+          1.4
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.825,
+        "MediaDeDesvios": 1.315,
+        "NotaMediana": 9.89
+      },
+      "DBF0210 - TOXICOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          9.81,
+          9.9
+        ],
+        "Desvios": [
+          0.62,
+          1.23
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.855,
+        "MediaDeDesvios": 0.925,
+        "NotaMediana": 9.9
+      },
+      "DBF0212 - FARMACOLOGIA III: PROTOCOLOS FARMACOLÓGICOS NA CLÍNICA GERAL E OBSTÉTRICA": {
+        "Notas": [
+          9.57,
+          9.57,
+          9.81,
+          9.82
+        ],
+        "Desvios": [
+          0.98,
+          1.04,
+          1.58,
+          1.49
+        ],
+        "DesvioDeNotas": 0.1225510097877615,
+        "MediaDeNotas": 9.6925,
+        "MediaDeDesvios": 1.2725,
+        "NotaMediana": 9.81
+      },
+      "DBF0018 - FARMACOLOGIA APLICADA A NUTRIÇÃO": {
+        "Notas": [
+          10,
+          9.9
+        ],
+        "Desvios": [
+          1.17,
+          0
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 0.585,
+        "NotaMediana": 9.9
+      },
+      "DBF0506 - FARMACOLOGIA APLICADA I": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.72
+      },
+      "DBF0038 - FARMACOLOGIA GERAL PARA ODONTOLOGIA": {
+        "Notas": [
+          9.32,
+          9.42,
+          9.47,
+          9.82
+        ],
+        "Desvios": [
+          1.96,
+          2.43,
+          2.19,
+          1.95
+        ],
+        "DesvioDeNotas": 0.18833148966649207,
+        "MediaDeNotas": 9.5075,
+        "MediaDeDesvios": 2.1325,
+        "NotaMediana": 9.47
+      },
+      "DBF0211 - FARMACOLOGIA II: PROTOCOLOS FARMACOLÓGICOS NA ATENÇÃO BÁSICA À SAÚDE": {
+        "Notas": [
+          9.29,
+          9.6,
+          9.72,
+          9.83
+        ],
+        "Desvios": [
+          1.31,
+          1.22,
+          1.19,
+          2.02
+        ],
+        "DesvioDeNotas": 0.20186629238186396,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.435,
+        "NotaMediana": 9.72
+      },
+      "DBF0213 - FARMACOLOGIA IV: PROTOCOLOS FARMACOLÓGICOS NA CLÍNICA AVANÇADA": {
+        "Notas": [
+          9.75,
+          9.87,
+          9.89,
+          9.94
+        ],
+        "Desvios": [
+          0.96,
+          1.5,
+          1.17,
+          1.24
+        ],
+        "DesvioDeNotas": 0.0697764286847642,
+        "MediaDeNotas": 9.8625,
+        "MediaDeDesvios": 1.2175,
+        "NotaMediana": 9.89
+      }
+    },
+    "DesvioDeNotas": 0.18450259368356461,
+    "MediaDeNotas": 9.766774193548388,
+    "MediaDeDesvios": 1.3290322580645162,
+    "NotaMediana": 9.82
+  },
+  "EUDENILSON LINS DE ALBUQUERQUE": {
+    "Notas": [
+      8.33,
+      9.07,
+      9.16,
+      9.32,
+      9.5,
+      9.75,
+      9.97
+    ],
+    "Desvios": [
+      2.61,
+      0.48,
+      1.47,
+      0.94,
+      1.83,
+      1.58,
+      1.6
+    ],
+    "Componentes": {
+      "DBF0043 - BIOESTATÍSTICA PARA BIOMEDICINA": {
+        "Notas": [
+          9.32,
+          9.5
+        ],
+        "Desvios": [
+          2.61,
+          0.94
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.775,
+        "NotaMediana": 9.5
+      },
+      "DBF0020 - PRINCIPIOS FISICOS APLICADOS A FARMACIA": {
+        "Notas": [
+          8.33,
+          9.97
+        ],
+        "Desvios": [
+          0.48,
+          1.83
+        ],
+        "DesvioDeNotas": 0.8200000000000003,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.155,
+        "NotaMediana": 9.97
+      },
+      "DBF0103 - FISICA GERAL E EXPERIMENTAL II": {
+        "Notas": [
+          9.07,
+          9.16,
+          9.75
+        ],
+        "Desvios": [
+          1.47,
+          1.58,
+          1.6
+        ],
+        "DesvioDeNotas": 0.30158838763380047,
+        "MediaDeNotas": 9.326666666666666,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.16
+      }
+    },
+    "DesvioDeNotas": 0.49355850717012273,
+    "MediaDeNotas": 9.299999999999999,
+    "MediaDeDesvios": 1.5014285714285713,
+    "NotaMediana": 9.32
+  },
+  "GERLANE COELHO BERNARDO GUERRA": {
+    "Notas": [
+      8.84,
+      9,
+      9.03,
+      9.05,
+      9.15,
+      9.23,
+      9.27,
+      9.39,
+      9.45,
+      9.45,
+      9.46,
+      9.46,
+      9.46,
+      9.5,
+      9.61,
+      9.61,
+      9.63,
+      9.63,
+      9.69,
+      9.7,
+      9.74,
+      9.82,
+      9.82,
+      9.82
+    ],
+    "Desvios": [
+      1.93,
+      1.78,
+      1.89,
+      1.98,
+      1.21,
+      1.71,
+      1.51,
+      1.92,
+      1.52,
+      2.23,
+      2.64,
+      0.74,
+      1.49,
+      1.56,
+      1.34,
+      2.35,
+      2.13,
+      1.58,
+      1.04,
+      1.17,
+      1.32,
+      1.39,
+      1.78,
+      1.71
+    ],
+    "Componentes": {
+      "DBF0214 - FARMACODINÂMICA": {
+        "Notas": [
+          9.27,
+          9.45,
+          9.46,
+          9.46,
+          9.46,
+          9.61,
+          9.69,
+          9.82
+        ],
+        "Desvios": [
+          1.93,
+          1.78,
+          1.51,
+          1.92,
+          1.49,
+          1.56,
+          1.04,
+          1.17
+        ],
+        "DesvioDeNotas": 0.15998046755776155,
+        "MediaDeNotas": 9.527499999999998,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.46
+      },
+      "DBF0306 - FARMACOLOGIA BASICA": {
+        "Notas": [
+          9.45,
+          9.61,
+          9.63,
+          9.63
+        ],
+        "Desvios": [
+          1.89,
+          1.52,
+          1.34,
+          1.32
+        ],
+        "DesvioDeNotas": 0.07549834435270801,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.5175,
+        "NotaMediana": 9.63
+      },
+      "DBF0038 - FARMACOLOGIA GERAL PARA ODONTOLOGIA": {
+        "Notas": [
+          9,
+          9.03,
+          9.05,
+          9.15,
+          9.23,
+          9.39,
+          9.74,
+          9.82
+        ],
+        "Desvios": [
+          1.98,
+          1.21,
+          2.23,
+          2.64,
+          2.35,
+          2.13,
+          1.39,
+          1.78
+        ],
+        "DesvioDeNotas": 0.3010165070224556,
+        "MediaDeNotas": 9.30125,
+        "MediaDeDesvios": 1.9637499999999999,
+        "NotaMediana": 9.23
+      },
+      "DBF0036 - MODELOS FARMACOLÓGICOS EXPERIMENTAIS: DELINEAMENTO E INSTRUMENTAÇÃO": {
+        "Notas": [
+          9.5,
+          9.7,
+          9.82
+        ],
+        "Desvios": [
+          1.71,
+          0.74,
+          1.58
+        ],
+        "DesvioDeNotas": 0.13199326582148893,
+        "MediaDeNotas": 9.673333333333334,
+        "MediaDeDesvios": 1.3433333333333335,
+        "NotaMediana": 9.7
+      },
+      "DBF0209 - FARMACOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 8.84
+      }
+    },
+    "DesvioDeNotas": 0.27531011554649104,
+    "MediaDeNotas": 9.45041666666667,
+    "MediaDeDesvios": 1.6633333333333333,
+    "NotaMediana": 9.46
+  },
+  "GILBERTO CORSO": {
+    "Notas": [
+      8.75,
+      9.19,
+      9.25,
+      9.25,
+      9.25,
+      9.42,
+      9.45,
+      9.49,
+      9.54,
+      9.59,
+      9.63,
+      9.73,
+      9.8,
+      9.9
+    ],
+    "Desvios": [
+      1.61,
+      1.81,
+      1.55,
+      1.47,
+      1.48,
+      1.79,
+      1.94,
+      1.57,
+      1.29,
+      1.97,
+      1.58,
+      1.63,
+      1.55,
+      2.04
+    ],
+    "Componentes": {
+      "DBF0017 - BIOFISICA ACUSTICA": {
+        "Notas": [
+          9.45,
+          9.49
+        ],
+        "Desvios": [
+          1.61,
+          1.57
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.469999999999999,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.49
+      },
+      "DBF0024 - FÍSICA PARA O ENSINO DE CIÊNCIAS E BIOLOGIA": {
+        "Notas": [
+          9.19,
+          9.25,
+          9.42,
+          9.73
+        ],
+        "Desvios": [
+          1.81,
+          1.55,
+          1.55,
+          2.04
+        ],
+        "DesvioDeNotas": 0.20968726713847008,
+        "MediaDeNotas": 9.397499999999999,
+        "MediaDeDesvios": 1.7375,
+        "NotaMediana": 9.42
+      },
+      "DBF0021 - BIOFISICA AMBIENTAL": {
+        "Notas": [
+          9.54,
+          9.63,
+          9.8,
+          9.9
+        ],
+        "Desvios": [
+          1.47,
+          1.48,
+          1.58,
+          1.63
+        ],
+        "DesvioDeNotas": 0.14077908225301125,
+        "MediaDeNotas": 9.717500000000001,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.8
+      },
+      "DBF0033 - CÁLCULO PARA BIOCIENTISTAS": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.25
+      },
+      "DBF0043 - BIOESTATÍSTICA PARA BIOMEDICINA": {
+        "Notas": [
+          8.75,
+          9.25
+        ],
+        "Desvios": [
+          1.94,
+          1.97
+        ],
+        "DesvioDeNotas": 0.25,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 1.955,
+        "NotaMediana": 9.25
+      },
+      "DBF0029 - PROGRAMAÇÃO PARA BIOCIENTISTAS": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.28577499355047775,
+    "MediaDeNotas": 9.445714285714285,
+    "MediaDeDesvios": 1.662857142857143,
+    "NotaMediana": 9.49
+  },
+  "JONAS IVAN NOBRE OLIVEIRA": {
+    "Notas": [
+      8.79,
+      9.11,
+      9.13,
+      9.36,
+      9.39,
+      9.41,
+      9.44,
+      9.52,
+      9.57,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.81,
+      0.81,
+      1.7,
+      2.36,
+      1.6,
+      1.52,
+      1.36,
+      1.66,
+      1.82,
+      1.72,
+      1.78
+    ],
+    "Componentes": {
+      "DBF0005 - BIOFISICA V": {
+        "Notas": [
+          9.44,
+          9.57,
+          9.82
+        ],
+        "Desvios": [
+          1.81,
+          1.6,
+          1.36
+        ],
+        "DesvioDeNotas": 0.15769168230019856,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.57
+      },
+      "DBF0019 - IMAGENOLOGIA": {
+        "Notas": [
+          8.79,
+          9.11,
+          9.36,
+          9.41,
+          9.52,
+          9.84
+        ],
+        "Desvios": [
+          0.81,
+          1.7,
+          1.52,
+          1.66,
+          1.72,
+          1.78
+        ],
+        "DesvioDeNotas": 0.32738441556609826,
+        "MediaDeNotas": 9.338333333333333,
+        "MediaDeDesvios": 1.5316666666666665,
+        "NotaMediana": 9.41
+      },
+      "DBF0043 - BIOESTATÍSTICA PARA BIOMEDICINA": {
+        "Notas": [
+          9.13,
+          9.39
+        ],
+        "Desvios": [
+          2.36,
+          1.82
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.260000000000002,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.2932209276240261,
+    "MediaDeNotas": 9.398181818181818,
+    "MediaDeDesvios": 1.6490909090909092,
+    "NotaMediana": 9.41
+  },
+  "LUCIA DE FATIMA AMORIM": {
+    "Notas": [
+      8.68,
+      9.01,
+      9.04,
+      9.07,
+      9.08,
+      9.29,
+      9.5,
+      9.54
+    ],
+    "Desvios": [
+      1.03,
+      2.1,
+      1.65,
+      1.46,
+      1.95,
+      1.86,
+      1.49,
+      1.58
+    ],
+    "Componentes": {
+      "DBF0031 - ACUPUNTURA AVANÇADA E TERAPIAS ALTERNATIVAS": {
+        "Notas": [
+          8.68,
+          9.54
+        ],
+        "Desvios": [
+          1.03,
+          1.95
+        ],
+        "DesvioDeNotas": 0.4299999999999997,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.54
+      },
+      "DBF0030 - FUNDAMENTOS DA ACUPUNTURA": {
+        "Notas": [
+          9.01,
+          9.04,
+          9.07,
+          9.08,
+          9.29,
+          9.5
+        ],
+        "Desvios": [
+          2.1,
+          1.65,
+          1.46,
+          1.86,
+          1.49,
+          1.58
+        ],
+        "DesvioDeNotas": 0.17500000000000002,
+        "MediaDeNotas": 9.165,
+        "MediaDeDesvios": 1.6900000000000002,
+        "NotaMediana": 9.08
+      }
+    },
+    "DesvioDeNotas": 0.2641229590550582,
+    "MediaDeNotas": 9.151249999999997,
+    "MediaDeDesvios": 1.64,
+    "NotaMediana": 9.08
+  },
+  "MANUELA DOS SANTOS CARVALHO SCHIAVON": {
+    "Notas": [
+      8.2,
+      8.88,
+      8.88,
+      9.22,
+      9.24,
+      9.25,
+      9.36,
+      9.37,
+      9.41,
+      9.42,
+      9.46,
+      9.46,
+      9.49,
+      9.49,
+      9.56,
+      9.63,
+      9.73,
+      9.74,
+      9.75,
+      9.77,
+      9.78
+    ],
+    "Desvios": [
+      2.03,
+      1.82,
+      1.14,
+      0.95,
+      1.48,
+      1.82,
+      1.5,
+      2.03,
+      1.41,
+      1.13,
+      1.56,
+      2,
+      1.32,
+      0.97,
+      0.71,
+      1.63,
+      1.75,
+      1.16,
+      1.29,
+      1.24,
+      2.11
+    ],
+    "Componentes": {
+      "DBF0214 - FARMACODINÂMICA": {
+        "Notas": [
+          9.37,
+          9.46,
+          9.63,
+          9.75
+        ],
+        "Desvios": [
+          2.03,
+          1.82,
+          1.32,
+          0.97
+        ],
+        "DesvioDeNotas": 0.14737282653189518,
+        "MediaDeNotas": 9.5525,
+        "MediaDeDesvios": 1.535,
+        "NotaMediana": 9.63
+      },
+      "DBF0212 - FARMACOLOGIA III: PROTOCOLOS FARMACOLÓGICOS NA CLÍNICA GERAL E OBSTÉTRICA": {
+        "Notas": [
+          9.74,
+          9.78
+        ],
+        "Desvios": [
+          1.14,
+          0.95
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.045,
+        "NotaMediana": 9.78
+      },
+      "DBF0018 - FARMACOLOGIA APLICADA A NUTRIÇÃO": {
+        "Notas": [
+          9.73,
+          9.77
+        ],
+        "Desvios": [
+          1.48,
+          0.71
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.095,
+        "NotaMediana": 9.77
+      },
+      "DBF0207 - FARMACOLOGIA APLICADA III": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 9.22
+      },
+      "DBF0208 - FARMACOLOGIA I GERAL E FARMACOCINÉTICA": {
+        "Notas": [
+          8.88,
+          8.88,
+          9.36,
+          9.46
+        ],
+        "Desvios": [
+          1.5,
+          2.03,
+          1.63,
+          1.75
+        ],
+        "DesvioDeNotas": 0.2673480877058968,
+        "MediaDeNotas": 9.145000000000001,
+        "MediaDeDesvios": 1.7275,
+        "NotaMediana": 9.36
+      },
+      "DBF0211 - FARMACOLOGIA II: PROTOCOLOS FARMACOLÓGICOS NA ATENÇÃO BÁSICA À SAÚDE": {
+        "Notas": [
+          9.25,
+          9.41,
+          9.49,
+          9.56
+        ],
+        "Desvios": [
+          1.41,
+          1.13,
+          1.16,
+          1.29
+        ],
+        "DesvioDeNotas": 0.11540688887583808,
+        "MediaDeNotas": 9.4275,
+        "MediaDeDesvios": 1.2475,
+        "NotaMediana": 9.49
+      },
+      "DBF0213 - FARMACOLOGIA IV: PROTOCOLOS FARMACOLÓGICOS NA CLÍNICA AVANÇADA": {
+        "Notas": [
+          8.2,
+          9.24,
+          9.42,
+          9.49
+        ],
+        "Desvios": [
+          1.56,
+          2,
+          1.24,
+          2.11
+        ],
+        "DesvioDeNotas": 0.520450525986861,
+        "MediaDeNotas": 9.087499999999999,
+        "MediaDeDesvios": 1.7275,
+        "NotaMediana": 9.42
+      }
+    },
+    "DesvioDeNotas": 0.3644907608420673,
+    "MediaDeNotas": 9.385238095238094,
+    "MediaDeDesvios": 1.4785714285714282,
+    "NotaMediana": 9.46
+  },
+  "PAULO RICARDO PORFIRIO DO NASCIMENTO": {
+    "Notas": [
+      9.25,
+      9.38,
+      9.68,
+      9.7,
+      9.81,
+      9.81,
+      9.9
+    ],
+    "Desvios": [
+      1.28,
+      1.37,
+      1.32,
+      1.67,
+      1.91,
+      1.68,
+      1.35
+    ],
+    "Componentes": {
+      "DBF0014 - BIOFISICA GERAL": {
+        "Notas": [
+          9.81,
+          9.9
+        ],
+        "Desvios": [
+          1.28,
+          1.37
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.855,
+        "MediaDeDesvios": 1.3250000000000002,
+        "NotaMediana": 9.9
+      },
+      "DBF3003 - BIOFÍSICA": {
+        "Notas": [
+          9.68,
+          9.81
+        ],
+        "Desvios": [
+          1.32,
+          1.35
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.745000000000001,
+        "MediaDeDesvios": 1.335,
+        "NotaMediana": 9.81
+      },
+      "DBF0021 - BIOFISICA AMBIENTAL": {
+        "Notas": [
+          9.25,
+          9.38
+        ],
+        "Desvios": [
+          1.67,
+          1.91
+        ],
+        "DesvioDeNotas": 0.06500000000000039,
+        "MediaDeNotas": 9.315000000000001,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.38
+      },
+      "DBF0005 - BIOFISICA V": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.22358854338872972,
+    "MediaDeNotas": 9.647142857142857,
+    "MediaDeDesvios": 1.5114285714285713,
+    "NotaMediana": 9.7
+  },
+  "UMBERTO LAINO FULCO": {
+    "Notas": [
+      8.94,
+      8.94,
+      9.21,
+      9.23,
+      9.3,
+      9.62,
+      9.7,
+      9.71,
+      9.81,
+      9.94,
+      9.99
+    ],
+    "Desvios": [
+      2.26,
+      1.17,
+      2.15,
+      1.73,
+      1.75,
+      1.21,
+      0.93,
+      1.22,
+      1.15,
+      1.77,
+      1.64
+    ],
+    "Componentes": {
+      "DBF0043 - BIOESTATÍSTICA PARA BIOMEDICINA": {
+        "Notas": [
+          8.94,
+          9.23,
+          9.3
+        ],
+        "Desvios": [
+          2.26,
+          2.15,
+          1.75
+        ],
+        "DesvioDeNotas": 0.1558489297008133,
+        "MediaDeNotas": 9.156666666666666,
+        "MediaDeDesvios": 2.0533333333333332,
+        "NotaMediana": 9.23
+      },
+      "DBF0020 - PRINCIPIOS FISICOS APLICADOS A FARMACIA": {
+        "Notas": [
+          9.71,
+          9.81
+        ],
+        "Desvios": [
+          1.17,
+          0.93
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.760000000000002,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.81
+      },
+      "DBF0103 - FISICA GERAL E EXPERIMENTAL II": {
+        "Notas": [
+          9.62,
+          9.94,
+          9.99
+        ],
+        "Desvios": [
+          1.73,
+          1.22,
+          1.15
+        ],
+        "DesvioDeNotas": 0.1639105447085903,
+        "MediaDeNotas": 9.85,
+        "MediaDeDesvios": 1.3666666666666665,
+        "NotaMediana": 9.94
+      },
+      "DBF0024 - FÍSICA PARA O ENSINO DE CIÊNCIAS E BIOLOGIA": {
+        "Notas": [
+          8.94,
+          9.21,
+          9.7
+        ],
+        "Desvios": [
+          1.21,
+          1.77,
+          1.64
+        ],
+        "DesvioDeNotas": 0.3145720196641072,
+        "MediaDeNotas": 9.283333333333333,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.21
+      }
+    },
+    "DesvioDeNotas": 0.3632429690241155,
+    "MediaDeNotas": 9.490000000000002,
+    "MediaDeDesvios": 1.5436363636363637,
+    "NotaMediana": 9.62
+  },
+  "VANESSA DE PAULA SOARES RACHETTI": {
+    "Notas": [
+      10,
+      10,
+      9.75,
+      9.82,
+      9.89,
+      9.9,
+      9.9,
+      9.91,
+      9.94,
+      9.96,
+      9.96
+    ],
+    "Desvios": [
+      1.71,
+      0.88,
+      0.8,
+      1.15,
+      0.78,
+      0.72,
+      1.22,
+      1.24,
+      1.24,
+      0.39,
+      1.05
+    ],
+    "Componentes": {
+      "DBF0214 - FARMACODINÂMICA": {
+        "Notas": [
+          10,
+          9.82,
+          9.89,
+          9.9,
+          9.91,
+          9.94
+        ],
+        "Desvios": [
+          1.71,
+          0.88,
+          0.78,
+          0.72,
+          1.24,
+          0.39
+        ],
+        "DesvioDeNotas": 0.05416025603090623,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 0.9533333333333333,
+        "NotaMediana": 9.9
+      },
+      "DBF0210 - TOXICOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          9.75,
+          9.9,
+          9.96
+        ],
+        "Desvios": [
+          0.8,
+          1.15,
+          1.05
+        ],
+        "DesvioDeNotas": 0.0883176086632788,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1,
+        "NotaMediana": 9.9
+      },
+      "DBF0209 - FARMACOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          10,
+          9.96
+        ],
+        "Desvios": [
+          1.22,
+          1.24
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.98,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.96
+      }
+    },
+    "DesvioDeNotas": 0.07158188976374376,
+    "MediaDeNotas": 9.911818181818182,
+    "MediaDeDesvios": 1.0163636363636364,
+    "NotaMediana": 9.9
+  },
+  "ELAINE CRISTINA GAVIOLI": {
+    "Notas": [
+      10,
+      10,
+      9.58,
+      9.64,
+      9.75,
+      9.82,
+      9.87,
+      9.89,
+      9.9,
+      9.93,
+      9.95,
+      9.98
+    ],
+    "Desvios": [
+      0.71,
+      0.66,
+      1.16,
+      1.59,
+      1.24,
+      1.34,
+      0.57,
+      1.96,
+      1.47,
+      1.24,
+      0.43,
+      1.19
+    ],
+    "Componentes": {
+      "DBF0214 - FARMACODINÂMICA": {
+        "Notas": [
+          10,
+          9.82,
+          9.9,
+          9.93,
+          9.95,
+          9.98
+        ],
+        "Desvios": [
+          0.71,
+          0.66,
+          1.34,
+          0.57,
+          1.24,
+          0.43
+        ],
+        "DesvioDeNotas": 0.05887840577551888,
+        "MediaDeNotas": 9.930000000000001,
+        "MediaDeDesvios": 0.8249999999999998,
+        "NotaMediana": 9.93
+      },
+      "DBF0213 - FARMACOLOGIA IV: PROTOCOLOS FARMACOLÓGICOS NA CLÍNICA AVANÇADA": {
+        "Notas": [
+          9.58,
+          9.64
+        ],
+        "Desvios": [
+          1.16,
+          1.59
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.375,
+        "NotaMediana": 9.64
+      },
+      "DBF0209 - FARMACOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 10
+      },
+      "DBF0210 - TOXICOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          9.75,
+          9.87,
+          9.89
+        ],
+        "Desvios": [
+          1.96,
+          1.47,
+          1.19
+        ],
+        "DesvioDeNotas": 0.061824123303304716,
+        "MediaDeNotas": 9.836666666666666,
+        "MediaDeDesvios": 1.5399999999999998,
+        "NotaMediana": 9.87
+      }
+    },
+    "DesvioDeNotas": 0.13219041400780743,
+    "MediaDeNotas": 9.859166666666669,
+    "MediaDeDesvios": 1.1300000000000001,
+    "NotaMediana": 9.87
+  },
+  "FREDERICO LEMOS DOS SANTOS": {
+    "Notas": [
+      9.26,
+      9.4,
+      9.51,
+      9.69,
+      9.7
+    ],
+    "Desvios": [
+      2.19,
+      2.03,
+      1.38,
+      1.63,
+      1.28
+    ],
+    "Componentes": {
+      "DBF0014 - BIOFISICA GERAL": {
+        "Notas": [
+          9.26
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.26,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 9.26
+      },
+      "DBF3003 - BIOFÍSICA": {
+        "Notas": [
+          9.4,
+          9.69
+        ],
+        "Desvios": [
+          2.03,
+          1.28
+        ],
+        "DesvioDeNotas": 0.14499999999999957,
+        "MediaDeNotas": 9.545,
+        "MediaDeDesvios": 1.6549999999999998,
+        "NotaMediana": 9.69
+      },
+      "DBF0021 - BIOFISICA AMBIENTAL": {
+        "Notas": [
+          9.51,
+          9.7
+        ],
+        "Desvios": [
+          1.38,
+          1.63
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.605,
+        "MediaDeDesvios": 1.505,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.16916264363032377,
+    "MediaDeNotas": 9.512,
+    "MediaDeDesvios": 1.702,
+    "NotaMediana": 9.51
+  },
+  "IRIS UCELLA DE MEDEIROS": {
+    "Notas": [
+      9.31,
+      9.49,
+      9.66,
+      9.68,
+      9.78,
+      9.95
+    ],
+    "Desvios": [
+      1.43,
+      0.45,
+      1.33,
+      1.97,
+      1.99,
+      1.61
+    ],
+    "Componentes": {
+      "DBF0214 - FARMACODINÂMICA": {
+        "Notas": [
+          9.78,
+          9.95
+        ],
+        "Desvios": [
+          1.43,
+          0.45
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.864999999999998,
+        "MediaDeDesvios": 0.94,
+        "NotaMediana": 9.95
+      },
+      "DBF0211 - FARMACOLOGIA II: PROTOCOLOS FARMACOLÓGICOS NA ATENÇÃO BÁSICA À SAÚDE": {
+        "Notas": [
+          9.31,
+          9.49
+        ],
+        "Desvios": [
+          1.33,
+          1.97
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.49
+      },
+      "DBF0210 - TOXICOLOGIA PARA BIOMEDICINA": {
+        "Notas": [
+          9.66,
+          9.68
+        ],
+        "Desvios": [
+          1.99,
+          1.61
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.20369503348551848,
+    "MediaDeNotas": 9.645000000000001,
+    "MediaDeDesvios": 1.4633333333333332,
+    "NotaMediana": 9.68
+  }
+}

@@ -1,0 +1,1447 @@
+{
+  "LEM4044 - HISTÓRIA DA LÍNGUA ESPANHOLA": {
+    "Notas": [
+      9.59,
+      9.73,
+      9.75,
+      9.91
+    ],
+    "Desvios": [
+      0.75,
+      1.28,
+      1.18,
+      1.4
+    ],
+    "Docentes": [
+      "ADRIANA MARCELLE DE ANDRADE FREITAS",
+      "NATHALIA OLIVEIRA DE BARROS CARVALHO"
+    ],
+    "DesvioDeNotas": 0.11346805717910226,
+    "MediaDeNotas": 9.745000000000001,
+    "MediaDeDesvios": 1.1524999999999999,
+    "NotaMediana": 9.75
+  },
+  "LEM4043 - LEXICOLOGIA DA LÍNGUA ESPANHOLA": {
+    "Notas": [
+      9.15,
+      9.22,
+      9.81,
+      9.82,
+      9.93
+    ],
+    "Desvios": [
+      1.39,
+      1.25,
+      0.93,
+      1.73,
+      1.26
+    ],
+    "Docentes": [
+      "ADRIANA MARCELLE DE ANDRADE FREITAS",
+      "NATHALIA OLIVEIRA DE BARROS CARVALHO",
+      "JOAO DANIEL CAMARA DE ARAUJO",
+      "FLAVIO DIONEL BAISTROCCHI"
+    ],
+    "DesvioDeNotas": 0.3308534418741928,
+    "MediaDeNotas": 9.586,
+    "MediaDeDesvios": 1.3119999999999998,
+    "NotaMediana": 9.81
+  },
+  "LEM4008 - SINTAXE DA LÍNGUA ESPANHOLA II": {
+    "Notas": [
+      9.31,
+      9.48,
+      9.53,
+      9.91
+    ],
+    "Desvios": [
+      1.25,
+      1.64,
+      1.21,
+      1.44
+    ],
+    "Docentes": [
+      "ADRIANA MARCELLE DE ANDRADE FREITAS",
+      "SAMUEL ANDERSON DE OLIVEIRA LIMA",
+      "DIANA DE OLIVEIRA MENDONCA"
+    ],
+    "DesvioDeNotas": 0.21924586655168657,
+    "MediaDeNotas": 9.557500000000001,
+    "MediaDeDesvios": 1.3849999999999998,
+    "NotaMediana": 9.53
+  },
+  "LEM7001 - LÍNGUA INGLESA I (RI)": {
+    "Notas": [
+      9.05,
+      9.2,
+      9.55,
+      9.64,
+      9.67,
+      9.74,
+      9.81,
+      9.87
+    ],
+    "Desvios": [
+      2.16,
+      2.24,
+      1.67,
+      1.26,
+      1.44,
+      1.62,
+      1.09,
+      1.76
+    ],
+    "Docentes": [
+      "ANA GRACA CANAN",
+      "BRUCE STEWART",
+      "LUIS ALFREDO FERNANDES DE ASSIS"
+    ],
+    "DesvioDeNotas": 0.2736301107334497,
+    "MediaDeNotas": 9.56625,
+    "MediaDeDesvios": 1.655,
+    "NotaMediana": 9.67
+  },
+  "LEM2001 - OFICINA DE EXPRESSÃO ORAL EM LÍNGUA INGLESA I": {
+    "Notas": [
+      9.52,
+      9.72
+    ],
+    "Desvios": [
+      1.81,
+      1.57
+    ],
+    "Docentes": [
+      "ANA GRACA CANAN"
+    ],
+    "DesvioDeNotas": 0.10000000000000053,
+    "MediaDeNotas": 9.620000000000001,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.72
+  },
+  "LEM2013 - ASPECTOS SEMÂNTICOS DA LÍNGUA INGLESA": {
+    "Notas": [
+      9.16,
+      9.89,
+      9.96
+    ],
+    "Desvios": [
+      2.07,
+      1.22,
+      0.99
+    ],
+    "Docentes": [
+      "BRUCE STEWART",
+      "JENNIFER SARAH COOPER"
+    ],
+    "DesvioDeNotas": 0.36175498153676733,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.4266666666666667,
+    "NotaMediana": 9.89
+  },
+  "LEM2015 - FORMAS POÉTICAS DE LÍNGUA INGLESA II": {
+    "Notas": [
+      9.2,
+      9.52,
+      9.88,
+      9.94
+    ],
+    "Desvios": [
+      1.92,
+      1.09,
+      1,
+      1.53
+    ],
+    "Docentes": [
+      "BRUCE STEWART",
+      "ORISON MARDEN BANDEIRA DE MELO JUNIOR",
+      "SANDRA SASSETTI FERNANDES ERICKSON"
+    ],
+    "DesvioDeNotas": 0.29811910371527717,
+    "MediaDeNotas": 9.635,
+    "MediaDeDesvios": 1.385,
+    "NotaMediana": 9.88
+  },
+  "LEM1009 - ENSINO / APRENDIZAGEM DE PORTUGUÊS LÍNGUA ESTRANGEIRA": {
+    "Notas": [
+      8.89,
+      9.65
+    ],
+    "Desvios": [
+      1.92,
+      1.47
+    ],
+    "Docentes": [
+      "FLEIDE DANIEL SANTOS DE ALBUQUERQUE"
+    ],
+    "DesvioDeNotas": 0.3799999999999999,
+    "MediaDeNotas": 9.27,
+    "MediaDeDesvios": 1.6949999999999998,
+    "NotaMediana": 9.65
+  },
+  "LEM1010 - PRODUÇÃO DE MATERIAIS DIDÁTICOS PARA O ENSINO DE PORTUGUÊS LÍNGUA ESTRANGEIRA": {
+    "Notas": [
+      9.5
+    ],
+    "Desvios": [
+      2.26
+    ],
+    "Docentes": [
+      "FLEIDE DANIEL SANTOS DE ALBUQUERQUE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 2.26,
+    "NotaMediana": 9.5
+  },
+  "LEM4039 - ESPANHOL PARA FINS ACADÊMICOS II": {
+    "Notas": [
+      9.06
+    ],
+    "Desvios": [
+      2.24
+    ],
+    "Docentes": [
+      "FRANCISCO ERNESTO ZARAGOZA ZALDIVAR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.06,
+    "MediaDeDesvios": 2.24,
+    "NotaMediana": 9.06
+  },
+  "LEM4025 - LITERATURA HISPANO-AMERICANA II": {
+    "Notas": [
+      9.17,
+      9.72,
+      9.74,
+      9.91
+    ],
+    "Desvios": [
+      1.59,
+      1.47,
+      0.83,
+      0.64
+    ],
+    "Docentes": [
+      "FRANCISCO ERNESTO ZARAGOZA ZALDIVAR",
+      "REGINA SIMON DA SILVA"
+    ],
+    "DesvioDeNotas": 0.2784331158465172,
+    "MediaDeNotas": 9.635000000000002,
+    "MediaDeDesvios": 1.1325,
+    "NotaMediana": 9.74
+  },
+  "LEM4005 - MORFOLOGIA DA LÍNGUA ESPANHOLA I": {
+    "Notas": [
+      8.85,
+      9.34,
+      9.83,
+      9.9
+    ],
+    "Desvios": [
+      1.88,
+      0.79,
+      0.97,
+      1.71
+    ],
+    "Docentes": [
+      "FRANCISCO ERNESTO ZARAGOZA ZALDIVAR",
+      "NATHALIA OLIVEIRA DE BARROS CARVALHO",
+      "JOAO DANIEL CAMARA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.42290660907581024,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 1.3375,
+    "NotaMediana": 9.83
+  },
+  "LEM3036 - LÍNGUA FRANCESA I– INTRODUÇÃO AO ESTUDO DE LÍNGUA FRANCESA": {
+    "Notas": [
+      9.61,
+      9.71
+    ],
+    "Desvios": [
+      1.41,
+      1.54
+    ],
+    "Docentes": [
+      "FRANCOIS WEIGEL",
+      "RENATA ARCHANJO"
+    ],
+    "DesvioDeNotas": 0.05000000000000071,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.475,
+    "NotaMediana": 9.71
+  },
+  "LEM4015 - CULTURA ESPANHOLA I": {
+    "Notas": [
+      8.71,
+      9.2,
+      9.42,
+      9.55,
+      9.79,
+      9.87
+    ],
+    "Desvios": [
+      2.67,
+      1.11,
+      1.81,
+      2.05,
+      1.29,
+      1.03
+    ],
+    "Docentes": [
+      "GERARDO ANDRES GODOY FAJARDO",
+      "FRANCISCO ERNESTO ZARAGOZA ZALDIVAR",
+      "LUIS EDUARDO FIORI",
+      "SAMUEL ANDERSON DE OLIVEIRA LIMA",
+      "RENY GOMES MALDONADO"
+    ],
+    "DesvioDeNotas": 0.3891729121554521,
+    "MediaDeNotas": 9.423333333333334,
+    "MediaDeDesvios": 1.66,
+    "NotaMediana": 9.55
+  },
+  "LEM4016 - CULTURA HISPANO-AMERICANA I": {
+    "Notas": [
+      8.55,
+      8.96,
+      9.2,
+      9.5
+    ],
+    "Desvios": [
+      1.88,
+      1.59,
+      2.35,
+      1.95
+    ],
+    "Docentes": [
+      "GERARDO ANDRES GODOY FAJARDO"
+    ],
+    "DesvioDeNotas": 0.34751798514609245,
+    "MediaDeNotas": 9.0525,
+    "MediaDeDesvios": 1.9425000000000001,
+    "NotaMediana": 9.2
+  },
+  "LEM4038 - ESPANHOL PARA FINS ACADÊMICOS I": {
+    "Notas": [
+      9.36,
+      9.7
+    ],
+    "Desvios": [
+      1.78,
+      1.64
+    ],
+    "Docentes": [
+      "GERARDO ANDRES GODOY FAJARDO",
+      "FRANCISCO ERNESTO ZARAGOZA ZALDIVAR"
+    ],
+    "DesvioDeNotas": 0.16999999999999993,
+    "MediaDeNotas": 9.53,
+    "MediaDeDesvios": 1.71,
+    "NotaMediana": 9.7
+  },
+  "LEM4041 - EXPRESSÃO ORAL E COMPREENSÃO AUDITIVA EM LÍNGUA ESPANHOLA I": {
+    "Notas": [
+      8.57,
+      9.16,
+      9.6,
+      9.79
+    ],
+    "Desvios": [
+      2.07,
+      2.14,
+      2.94,
+      1.26
+    ],
+    "Docentes": [
+      "IZABEL SOUZA DO NASCIMENTO",
+      "FLAVIO DIONEL BAISTROCCHI"
+    ],
+    "DesvioDeNotas": 0.4693080012102922,
+    "MediaDeNotas": 9.28,
+    "MediaDeDesvios": 2.1025,
+    "NotaMediana": 9.6
+  },
+  "LEM4033 - LINGUÍSTICA APLICADA AO ENSINO DE LÍNGUA ESPANHOLA": {
+    "Notas": [
+      8.98,
+      9.74
+    ],
+    "Desvios": [
+      2.13,
+      1.03
+    ],
+    "Docentes": [
+      "IZABEL SOUZA DO NASCIMENTO",
+      "ADRIANA MARCELLE DE ANDRADE FREITAS"
+    ],
+    "DesvioDeNotas": 0.3799999999999999,
+    "MediaDeNotas": 9.36,
+    "MediaDeDesvios": 1.58,
+    "NotaMediana": 9.74
+  },
+  "LEM4022 - LITERATURA ESPANHOLA I": {
+    "Notas": [
+      8.87,
+      9.72,
+      9.78,
+      9.94,
+      9.94,
+      9.98,
+      9.99
+    ],
+    "Desvios": [
+      1.79,
+      0.8,
+      1.4,
+      1.74,
+      1.48,
+      1.51,
+      0.53
+    ],
+    "Docentes": [
+      "IZABEL SOUZA DO NASCIMENTO",
+      "NATHALIA OLIVEIRA DE BARROS CARVALHO",
+      "SAMUEL ANDERSON DE OLIVEIRA LIMA",
+      "FRANCISCO ERNESTO ZARAGOZA ZALDIVAR",
+      "LUIS EDUARDO FIORI"
+    ],
+    "DesvioDeNotas": 0.3700909981866293,
+    "MediaDeNotas": 9.745714285714286,
+    "MediaDeDesvios": 1.3214285714285712,
+    "NotaMediana": 9.94
+  },
+  "LEM2006 - OFICINA DE EXPRESSÃO ORAL EM LÍNGUA INGLESA III": {
+    "Notas": [
+      9.23,
+      9.86
+    ],
+    "Desvios": [
+      1.51,
+      2.53
+    ],
+    "Docentes": [
+      "JANAINA WEISSHEIMER",
+      "ANA GRACA CANAN"
+    ],
+    "DesvioDeNotas": 0.3149999999999995,
+    "MediaDeNotas": 9.545,
+    "MediaDeDesvios": 2.02,
+    "NotaMediana": 9.86
+  },
+  "LEM2002 - OFICINA DE LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA INGLESA I": {
+    "Notas": [
+      9.82,
+      9.88
+    ],
+    "Desvios": [
+      1.62,
+      1.43
+    ],
+    "Docentes": [
+      "JANAINA WEISSHEIMER"
+    ],
+    "DesvioDeNotas": 0.03000000000000025,
+    "MediaDeNotas": 9.850000000000001,
+    "MediaDeDesvios": 1.525,
+    "NotaMediana": 9.88
+  },
+  "LEM3015 - CULTURAS DE LÍNGUA FRANCESA I": {
+    "Notas": [
+      9.02,
+      9.61
+    ],
+    "Desvios": [
+      1.46,
+      1.98
+    ],
+    "Docentes": [
+      "JANEIDE MAIA CAMPELO",
+      "TAMARA MARIA COSTA E SILVA N DE ABREU"
+    ],
+    "DesvioDeNotas": 0.29499999999999993,
+    "MediaDeNotas": 9.315,
+    "MediaDeDesvios": 1.72,
+    "NotaMediana": 9.61
+  },
+  "LEM3003 - LÍNGUA FRANCESA III - INTERMEDIÁRIO I": {
+    "Notas": [
+      8.47,
+      9.6
+    ],
+    "Desvios": [
+      1.62,
+      2.02
+    ],
+    "Docentes": [
+      "JANEIDE MAIA CAMPELO",
+      "TAMARA MARIA COSTA E SILVA N DE ABREU"
+    ],
+    "DesvioDeNotas": 0.5649999999999995,
+    "MediaDeNotas": 9.035,
+    "MediaDeDesvios": 1.82,
+    "NotaMediana": 9.6
+  },
+  "LEM3050 - OFICINA 1 – A FRANCOFONIA E O ENSINO DA LÍNGUA FRANCESA": {
+    "Notas": [
+      9
+    ],
+    "Desvios": [
+      2.13
+    ],
+    "Docentes": [
+      "JANEIDE MAIA CAMPELO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9,
+    "MediaDeDesvios": 2.13,
+    "NotaMediana": 9
+  },
+  "LEM2040 - ASPECTOS FONÉTICOS DA LÍNGUA INGLESA": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.74
+    ],
+    "Docentes": [
+      "LUIS ALFREDO FERNANDES DE ASSIS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.74,
+    "NotaMediana": 9.66
+  },
+  "LEM2008 - FORMAS NARRATIVAS CURTAS EM LITERATURAS DA LÍNGUA INGLESA I": {
+    "Notas": [
+      9.47,
+      9.86,
+      9.91,
+      9.93
+    ],
+    "Desvios": [
+      1.98,
+      1.09,
+      1.12,
+      1.33
+    ],
+    "Docentes": [
+      "LUIS ALFREDO FERNANDES DE ASSIS",
+      "ORISON MARDEN BANDEIRA DE MELO JUNIOR",
+      "SANDRA SASSETTI FERNANDES ERICKSON",
+      "ROSANNE BEZERRA DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.1879328337465273,
+    "MediaDeNotas": 9.7925,
+    "MediaDeDesvios": 1.3800000000000001,
+    "NotaMediana": 9.91
+  },
+  "LEM2021 - INGLÊS PARA FINS ACADÊMICOS II": {
+    "Notas": [
+      8.52,
+      9.24,
+      9.52,
+      9.55,
+      9.82,
+      9.9,
+      9.98
+    ],
+    "Desvios": [
+      2.19,
+      2.14,
+      1.91,
+      1.81,
+      1.36,
+      2.52,
+      1.18
+    ],
+    "Docentes": [
+      "LUIS ALFREDO FERNANDES DE ASSIS",
+      "VANESKA OLIVEIRA CALDAS",
+      "MARA PASSOS GUIMARAES",
+      "ORISON MARDEN BANDEIRA DE MELO JUNIOR",
+      "JANAINA WEISSHEIMER",
+      "MARIA EDILEUDA DO REGO SARMENTO"
+    ],
+    "DesvioDeNotas": 0.4665330226516554,
+    "MediaDeNotas": 9.504285714285714,
+    "MediaDeDesvios": 1.8728571428571428,
+    "NotaMediana": 9.55
+  },
+  "LEM4004 - LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA ESPANHOLA II": {
+    "Notas": [
+      8.45,
+      9.34,
+      9.68,
+      9.75
+    ],
+    "Desvios": [
+      2.16,
+      1.46,
+      2.8,
+      1.21
+    ],
+    "Docentes": [
+      "LUIS EDUARDO FIORI",
+      "ADRIANA MARCELLE DE ANDRADE FREITAS",
+      "IZABEL SOUZA DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.5174214916294068,
+    "MediaDeNotas": 9.305,
+    "MediaDeDesvios": 1.9075,
+    "NotaMediana": 9.68
+  },
+  "LEM4006 - SINTAXE DA LÍNGUA ESPANHOLA I": {
+    "Notas": [
+      9.7,
+      9.78,
+      9.88,
+      9.93
+    ],
+    "Desvios": [
+      1.06,
+      1.14,
+      0.77,
+      0.84
+    ],
+    "Docentes": [
+      "LUIS EDUARDO FIORI",
+      "THAYANE SILVA CAMPOS",
+      "NATHALIA OLIVEIRA DE BARROS CARVALHO",
+      "SAMUEL ANDERSON DE OLIVEIRA LIMA"
+    ],
+    "DesvioDeNotas": 0.0889873586527888,
+    "MediaDeNotas": 9.8225,
+    "MediaDeDesvios": 0.9525,
+    "NotaMediana": 9.88
+  },
+  "LEM2020 - INGLÊS PARA FINS ACADÊMICOS I": {
+    "Notas": [
+      8.43,
+      8.66,
+      8.84,
+      8.96,
+      9,
+      9.09,
+      9.25,
+      9.26,
+      9.36,
+      9.45,
+      9.52,
+      9.54,
+      9.55,
+      9.57,
+      9.61,
+      9.64,
+      9.7
+    ],
+    "Desvios": [
+      2.11,
+      2.11,
+      2.15,
+      2.21,
+      2.28,
+      2.28,
+      2.32,
+      1.91,
+      1.63,
+      2.05,
+      2.06,
+      1.36,
+      1.77,
+      1.98,
+      1.65,
+      1.41,
+      2.26
+    ],
+    "Docentes": [
+      "MARCELO DA SILVA AMORIM",
+      "ROSANNE BEZERRA DE ARAUJO",
+      "VANESKA OLIVEIRA CALDAS",
+      "MARIA EDILEUDA DO REGO SARMENTO",
+      "MARA PASSOS GUIMARAES",
+      "MARILIA VARELLA BEZERRA DE FARIA",
+      "ORISON MARDEN BANDEIRA DE MELO JUNIOR"
+    ],
+    "DesvioDeNotas": 0.3633742292043107,
+    "MediaDeNotas": 9.260588235294119,
+    "MediaDeDesvios": 1.9729411764705878,
+    "NotaMediana": 9.36
+  },
+  "LEM1007 - TÓPICOS EM CULTURA BRASILEIRA I": {
+    "Notas": [
+      9.52,
+      9.7
+    ],
+    "Desvios": [
+      1.73,
+      1.66
+    ],
+    "Docentes": [
+      "MARCELO DA SILVA AMORIM"
+    ],
+    "DesvioDeNotas": 0.08999999999999986,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.6949999999999998,
+    "NotaMediana": 9.7
+  },
+  "LEM1005 - TÓPICOS EM GRAMÁTICA DE PORTUGUÊS LÍNGUA ESTRANGEIRA I": {
+    "Notas": [
+      9.86
+    ],
+    "Desvios": [
+      0.86
+    ],
+    "Docentes": [
+      "MARCELO DA SILVA AMORIM"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 0.86,
+    "NotaMediana": 9.86
+  },
+  "LEM3009 - PANORAMA DAS LITERATURAS DE LÍNGUA FRANCESA": {
+    "Notas": [
+      9.59,
+      9.68
+    ],
+    "Desvios": [
+      1.61,
+      1.57
+    ],
+    "Docentes": [
+      "MARCIO VENICIO BARBOSA"
+    ],
+    "DesvioDeNotas": 0.04499999999999993,
+    "MediaDeNotas": 9.635,
+    "MediaDeDesvios": 1.59,
+    "NotaMediana": 9.68
+  },
+  "LEM7002 - LÍNGUA INGLESA II (RI)": {
+    "Notas": [
+      9.49,
+      9.54,
+      9.59,
+      9.73,
+      9.73,
+      9.76,
+      9.82
+    ],
+    "Desvios": [
+      1.53,
+      1.6,
+      1.74,
+      1.56,
+      1.38,
+      1.35,
+      1.42
+    ],
+    "Docentes": [
+      "MARILIA VARELLA BEZERRA DE FARIA",
+      "ROSANNE BEZERRA DE ARAUJO",
+      "MARA PASSOS GUIMARAES",
+      "BRUCE STEWART",
+      "JANAINA WEISSHEIMER"
+    ],
+    "DesvioDeNotas": 0.11549361675090156,
+    "MediaDeNotas": 9.665714285714285,
+    "MediaDeDesvios": 1.5114285714285713,
+    "NotaMediana": 9.73
+  },
+  "LEM2009 - OFICINA DE LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA INGLESA III": {
+    "Notas": [
+      9.24,
+      9.36
+    ],
+    "Desvios": [
+      2.05,
+      1.98
+    ],
+    "Docentes": [
+      "MARILIA VARELLA BEZERRA DE FARIA"
+    ],
+    "DesvioDeNotas": 0.05999999999999961,
+    "MediaDeNotas": 9.3,
+    "MediaDeDesvios": 2.0149999999999997,
+    "NotaMediana": 9.36
+  },
+  "LEM5001 - LÍNGUA ALEMÃ I": {
+    "Notas": [
+      9.31,
+      9.37,
+      9.48,
+      9.5,
+      9.71
+    ],
+    "Desvios": [
+      1.32,
+      2.05,
+      1.71,
+      1.33,
+      1.23
+    ],
+    "Docentes": [
+      "MICHAEL MANFRED HANKE",
+      "WIEBKE ROBEN DE ALENCAR XAVIER"
+    ],
+    "DesvioDeNotas": 0.13720058308914027,
+    "MediaDeNotas": 9.474,
+    "MediaDeDesvios": 1.528,
+    "NotaMediana": 9.48
+  },
+  "LEM2019 - FORMAS DRAMÁTICAS DA LÍNGUA INGLESA II": {
+    "Notas": [
+      9.58,
+      9.98
+    ],
+    "Desvios": [
+      1.5,
+      1.34
+    ],
+    "Docentes": [
+      "ORISON MARDEN BANDEIRA DE MELO JUNIOR"
+    ],
+    "DesvioDeNotas": 0.20000000000000018,
+    "MediaDeNotas": 9.780000000000001,
+    "MediaDeDesvios": 1.42,
+    "NotaMediana": 9.98
+  },
+  "LEM4003 - FONÉTICA E FONOLOGIA DA LÍNGUA ESPANHOLA I": {
+    "Notas": [
+      9.47,
+      9.71,
+      9.8,
+      9.88,
+      9.97
+    ],
+    "Desvios": [
+      0.89,
+      1.28,
+      1.18,
+      0.83,
+      1.06
+    ],
+    "Docentes": [
+      "REGINA SIMON DA SILVA",
+      "LUIS EDUARDO FIORI",
+      "LUANA VITAL DOS SANTOS",
+      "ADRIANA MARCELLE DE ANDRADE FREITAS"
+    ],
+    "DesvioDeNotas": 0.17118411141224527,
+    "MediaDeNotas": 9.766000000000002,
+    "MediaDeDesvios": 1.048,
+    "NotaMediana": 9.8
+  },
+  "LEM4023 - LITERATURA HISPANO-AMERICANA I": {
+    "Notas": [
+      9,
+      9.1,
+      9.84
+    ],
+    "Desvios": [
+      0.92,
+      1.66,
+      2.32
+    ],
+    "Docentes": [
+      "REGINA SIMON DA SILVA",
+      "LUIS EDUARDO FIORI",
+      "LUANA VITAL DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.3746405684860565,
+    "MediaDeNotas": 9.313333333333333,
+    "MediaDeDesvios": 1.6333333333333335,
+    "NotaMediana": 9.1
+  },
+  "LEM2014 - FORMAS NARRATIVAS LONGAS DE LÍNGUA INGLESA I": {
+    "Notas": [
+      9.58,
+      9.73
+    ],
+    "Desvios": [
+      1.23,
+      1.85
+    ],
+    "Docentes": [
+      "ROSANNE BEZERRA DE ARAUJO",
+      "BRUCE STEWART"
+    ],
+    "DesvioDeNotas": 0.07500000000000018,
+    "MediaDeNotas": 9.655000000000001,
+    "MediaDeDesvios": 1.54,
+    "NotaMediana": 9.73
+  },
+  "LEM4010 - EXPRESSÃO ORAL E COMPREENSÃO AUDITIVA DE LÍNGUA ESPANHOLA II": {
+    "Notas": [
+      10,
+      9.81,
+      9.87,
+      9.88
+    ],
+    "Desvios": [
+      1.34,
+      1.46,
+      0.89,
+      0.94
+    ],
+    "Docentes": [
+      "THAYANE SILVA CAMPOS",
+      "DIANA DE OLIVEIRA MENDONCA"
+    ],
+    "DesvioDeNotas": 0.06892024376045099,
+    "MediaDeNotas": 9.89,
+    "MediaDeDesvios": 1.1575,
+    "NotaMediana": 9.87
+  },
+  "LEM4042 - LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA ESPANHOLA I": {
+    "Notas": [
+      9.68,
+      9.91,
+      9.94,
+      9.95
+    ],
+    "Desvios": [
+      1.17,
+      2.01,
+      1.65,
+      1.13
+    ],
+    "Docentes": [
+      "THAYANE SILVA CAMPOS",
+      "ADRIANA MARCELLE DE ANDRADE FREITAS",
+      "DIANA DE OLIVEIRA MENDONCA"
+    ],
+    "DesvioDeNotas": 0.11067971810589321,
+    "MediaDeNotas": 9.870000000000001,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.94
+  },
+  "LEM4024 - LITERATURA ESPANHOLA II": {
+    "Notas": [
+      9.55,
+      9.77,
+      9.96
+    ],
+    "Desvios": [
+      0.94,
+      1.01,
+      0.85
+    ],
+    "Docentes": [
+      "THAYANE SILVA CAMPOS",
+      "RENY GOMES MALDONADO"
+    ],
+    "DesvioDeNotas": 0.16753109164172086,
+    "MediaDeNotas": 9.76,
+    "MediaDeDesvios": 0.9333333333333332,
+    "NotaMediana": 9.77
+  },
+  "LEM5002 - LÍNGUA ALEMÃ II": {
+    "Notas": [
+      9.78,
+      9.87,
+      9.95
+    ],
+    "Desvios": [
+      1.47,
+      1.55,
+      1.12
+    ],
+    "Docentes": [
+      "WIEBKE ROBEN DE ALENCAR XAVIER"
+    ],
+    "DesvioDeNotas": 0.0694422221866655,
+    "MediaDeNotas": 9.866666666666667,
+    "MediaDeDesvios": 1.3800000000000001,
+    "NotaMediana": 9.87
+  },
+  "LEM5007 - LÍNGUA ALEMÃ IV": {
+    "Notas": [
+      9.95
+    ],
+    "Desvios": [
+      1.04
+    ],
+    "Docentes": [
+      "WIEBKE ROBEN DE ALENCAR XAVIER"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.95,
+    "MediaDeDesvios": 1.04,
+    "NotaMediana": 9.95
+  },
+  "LEM2004 - OFICINA DE EXPRESSÃO ORAL EM LÍNGUA INGLESA II": {
+    "Notas": [
+      9.47,
+      9.51
+    ],
+    "Desvios": [
+      1.89,
+      1.66
+    ],
+    "Docentes": [
+      "ANA GRACA CANAN"
+    ],
+    "DesvioDeNotas": 0.019999999999999574,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.775,
+    "NotaMediana": 9.51
+  },
+  "LEM2011 - FORMAS POÉTICAS DA LÍNGUA INGLESA I": {
+    "Notas": [
+      9.32,
+      9.36
+    ],
+    "Desvios": [
+      1.82,
+      1.91
+    ],
+    "Docentes": [
+      "BRUCE STEWART"
+    ],
+    "DesvioDeNotas": 0.019999999999999574,
+    "MediaDeNotas": 9.34,
+    "MediaDeDesvios": 1.865,
+    "NotaMediana": 9.36
+  },
+  "LEM3010 - LITERATURAS DE LÍNGUA FRANCESA I - ESTUDO DA NARRATIVA I": {
+    "Notas": [
+      9.14
+    ],
+    "Desvios": [
+      1
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO GALVAO BRAGA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.14,
+    "MediaDeDesvios": 1,
+    "NotaMediana": 9.14
+  },
+  "LEM4037 - LÍNGUA ESPANHOLA II": {
+    "Notas": [
+      8.6,
+      8.83,
+      9.38
+    ],
+    "Desvios": [
+      1.34,
+      2.2,
+      2.12
+    ],
+    "Docentes": [
+      "GERARDO ANDRES GODOY FAJARDO"
+    ],
+    "DesvioDeNotas": 0.32724438710066395,
+    "MediaDeNotas": 8.936666666666667,
+    "MediaDeDesvios": 1.8866666666666667,
+    "NotaMediana": 8.83
+  },
+  "LEM2005 - OFICINA DE LEITURA E PRODUÇÃO ESCRITA EM LÍNGUA INGLESA II": {
+    "Notas": [
+      9.88,
+      9.93
+    ],
+    "Desvios": [
+      1.26,
+      0.98
+    ],
+    "Docentes": [
+      "JANAINA WEISSHEIMER"
+    ],
+    "DesvioDeNotas": 0.02499999999999947,
+    "MediaDeNotas": 9.905000000000001,
+    "MediaDeDesvios": 1.12,
+    "NotaMediana": 9.93
+  },
+  "LEM3002 - LÍNGUA FRANCESA II - BÁSICO II": {
+    "Notas": [
+      7.69,
+      9.73
+    ],
+    "Desvios": [
+      1.22,
+      3.27
+    ],
+    "Docentes": [
+      "JANEIDE MAIA CAMPELO",
+      "SELMA ALAS MARTINS"
+    ],
+    "DesvioDeNotas": 1.02,
+    "MediaDeNotas": 8.71,
+    "MediaDeDesvios": 2.245,
+    "NotaMediana": 9.73
+  },
+  "LEM3004 - LÍNGUA FRANCESA IV - INTERMEDIÁRIO II": {
+    "Notas": [
+      9.24,
+      9.29
+    ],
+    "Desvios": [
+      0.83,
+      1.32
+    ],
+    "Docentes": [
+      "JANEIDE MAIA CAMPELO",
+      "RENATA ARCHANJO"
+    ],
+    "DesvioDeNotas": 0.02499999999999947,
+    "MediaDeNotas": 9.265,
+    "MediaDeDesvios": 1.075,
+    "NotaMediana": 9.29
+  },
+  "LEM3060 - FONÉTICA DA LÍNGUA FRANCESA": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      0.87
+    ],
+    "Docentes": [
+      "KATIA AILY FRANCO DE CAMARGO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 0.87,
+    "NotaMediana": 9.57
+  },
+  "LEM2012 - FORMAS NARRATIVAS CURTAS EM LITERATURAS DA LÍNGUA INGLESA II": {
+    "Notas": [
+      9.71,
+      9.93
+    ],
+    "Desvios": [
+      0.93,
+      1.86
+    ],
+    "Docentes": [
+      "LUIS ALFREDO FERNANDES DE ASSIS",
+      "ORISON MARDEN BANDEIRA DE MELO JUNIOR"
+    ],
+    "DesvioDeNotas": 0.10999999999999943,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 1.395,
+    "NotaMediana": 9.93
+  },
+  "LEM1008 - TÓPICOS EM CULTURA BRASILEIRA II": {
+    "Notas": [
+      9.82
+    ],
+    "Desvios": [
+      1.1
+    ],
+    "Docentes": [
+      "MARCELO DA SILVA AMORIM"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 1.1,
+    "NotaMediana": 9.82
+  },
+  "LEM2017 - LINGUÍSTICA APLICADA E ENSINO DE LÍNGUA INGLESA I": {
+    "Notas": [
+      9.5
+    ],
+    "Desvios": [
+      1.41
+    ],
+    "Docentes": [
+      "MARILIA VARELLA BEZERRA DE FARIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.41,
+    "NotaMediana": 9.5
+  },
+  "LEM2018 - FORMAS NARRATIVAS LONGAS DE LÍNGUA INGLESA II": {
+    "Notas": [
+      10,
+      8.92,
+      9.93
+    ],
+    "Desvios": [
+      0.61,
+      2.31,
+      0.82
+    ],
+    "Docentes": [
+      "ROSANNE BEZERRA DE ARAUJO",
+      "BRUCE STEWART"
+    ],
+    "DesvioDeNotas": 0.4934459330959055,
+    "MediaDeNotas": 9.616666666666667,
+    "MediaDeDesvios": 1.2466666666666666,
+    "NotaMediana": 8.92
+  },
+  "LEM2010 - ASPECTOS MORFOSSINTÁTICOS DA LÍNGUA INGLESA I": {
+    "Notas": [
+      9.61,
+      9.84
+    ],
+    "Desvios": [
+      0.89,
+      1.36
+    ],
+    "Docentes": [
+      "SANDRA SASSETTI FERNANDES ERICKSON",
+      "JENNIFER SARAH COOPER"
+    ],
+    "DesvioDeNotas": 0.11500000000000021,
+    "MediaDeNotas": 9.725,
+    "MediaDeDesvios": 1.125,
+    "NotaMediana": 9.84
+  },
+  "LEM2016 - FORMAS DRAMÁTICAS DA LÍNGUA INGLESA I": {
+    "Notas": [
+      9.4,
+      9.91
+    ],
+    "Desvios": [
+      1.42,
+      1.53
+    ],
+    "Docentes": [
+      "SANDRA SASSETTI FERNANDES ERICKSON",
+      "LUIS ALFREDO FERNANDES DE ASSIS"
+    ],
+    "DesvioDeNotas": 0.2549999999999999,
+    "MediaDeNotas": 9.655000000000001,
+    "MediaDeDesvios": 1.475,
+    "NotaMediana": 9.91
+  },
+  "LEM4034 - PENSAMENTO CRÍTICO LATINO AMERICANO": {
+    "Notas": [
+      9.78,
+      9.82
+    ],
+    "Desvios": [
+      0.71,
+      1.11
+    ],
+    "Docentes": [
+      "SANDRA SASSETTI FERNANDES ERICKSON"
+    ],
+    "DesvioDeNotas": 0.020000000000000462,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 0.91,
+    "NotaMediana": 9.82
+  },
+  "LEM5003 - LÍNGUA ALEMÃ III": {
+    "Notas": [
+      9.95
+    ],
+    "Desvios": [
+      1.04
+    ],
+    "Docentes": [
+      "WIEBKE ROBEN DE ALENCAR XAVIER"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.95,
+    "MediaDeDesvios": 1.04,
+    "NotaMediana": 9.95
+  },
+  "LEM3021 - TRADUÇÃO EM LÍNGUA FRANCESA I": {
+    "Notas": [
+      9.16
+    ],
+    "Desvios": [
+      1.94
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO GALVAO BRAGA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.16,
+    "MediaDeDesvios": 1.94,
+    "NotaMediana": 9.16
+  },
+  "LEM1001 - METODOLOGIA DE ENSINO DE PORTUGUÊS COMO LÍNGUA ESTRANGEIRA I": {
+    "Notas": [
+      8.69
+    ],
+    "Desvios": [
+      1.73
+    ],
+    "Docentes": [
+      "FLEIDE DANIEL SANTOS DE ALBUQUERQUE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.69,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 8.69
+  },
+  "LEM4045 - TRADUÇÃO EM LÍNGUA ESPANHOLA I": {
+    "Notas": [
+      9.57,
+      9.95
+    ],
+    "Desvios": [
+      1.18,
+      0.52
+    ],
+    "Docentes": [
+      "FRANCISCO ERNESTO ZARAGOZA ZALDIVAR",
+      "RENY GOMES MALDONADO"
+    ],
+    "DesvioDeNotas": 0.1899999999999995,
+    "MediaDeNotas": 9.76,
+    "MediaDeDesvios": 0.85,
+    "NotaMediana": 9.95
+  },
+  "LEM4036 - LÍNGUA ESPANHOLA I": {
+    "Notas": [
+      9.59,
+      9.82
+    ],
+    "Desvios": [
+      1.62,
+      1.11
+    ],
+    "Docentes": [
+      "GERARDO ANDRES GODOY FAJARDO"
+    ],
+    "DesvioDeNotas": 0.11500000000000021,
+    "MediaDeNotas": 9.705,
+    "MediaDeDesvios": 1.3650000000000002,
+    "NotaMediana": 9.82
+  },
+  "LEM3005 - LÍNGUA FRANCESA V - INTERMEDIÁRIO III": {
+    "Notas": [
+      9.7,
+      9.9
+    ],
+    "Desvios": [
+      1.3,
+      1.41
+    ],
+    "Docentes": [
+      "KATIA AILY FRANCO DE CAMARGO",
+      "SELMA ALAS MARTINS"
+    ],
+    "DesvioDeNotas": 0.10000000000000053,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 1.355,
+    "NotaMediana": 9.9
+  },
+  "LEM2007 - FONÉTICA E FONOLOGIA DA LÍNGUA INGLESA I": {
+    "Notas": [
+      9.9
+    ],
+    "Desvios": [
+      1.49
+    ],
+    "Docentes": [
+      "LUIS ALFREDO FERNANDES DE ASSIS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.9,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.9
+  },
+  "LEM2052 - LITERATURA COMPARADA": {
+    "Notas": [
+      9.95
+    ],
+    "Desvios": [
+      0.61
+    ],
+    "Docentes": [
+      "ORISON MARDEN BANDEIRA DE MELO JUNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.95,
+    "MediaDeDesvios": 0.61,
+    "NotaMediana": 9.95
+  },
+  "FPE0680 - FUNDAMENTOS SÓCIO-FILOSÓFICOS DA EDUCAÇÃO": {
+    "Notas": [
+      9.78
+    ],
+    "Desvios": [
+      1.15
+    ],
+    "Docentes": [
+      "SANDRA SASSETTI FERNANDES ERICKSON"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.78,
+    "MediaDeDesvios": 1.15,
+    "NotaMediana": 9.78
+  },
+  "LEM3001 - LÍNGUA FRANCESA I - BÁSICO I": {
+    "Notas": [
+      9.31
+    ],
+    "Desvios": [
+      1.56
+    ],
+    "Docentes": [
+      "TAMARA MARIA COSTA E SILVA N DE ABREU"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.31,
+    "MediaDeDesvios": 1.56,
+    "NotaMediana": 9.31
+  },
+  "LEM1006 - TÓPICOS EM GRAMÁTICA DE PORTUGUÊS LÍNGUA ESTRANGEIRA II": {
+    "Notas": [
+      9.91
+    ],
+    "Desvios": [
+      1.2
+    ],
+    "Docentes": [
+      "MARCELO DA SILVA AMORIM"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.91,
+    "MediaDeDesvios": 1.2,
+    "NotaMediana": 9.91
+  },
+  "LEM3014 - LITERATURAS DE LÍNGUA FRANCESA V - ESTUDO DO TEXTO DRAMÁTICO": {
+    "Notas": [
+      8.87
+    ],
+    "Desvios": [
+      1.88
+    ],
+    "Docentes": [
+      "MARCIO VENICIO BARBOSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.87,
+    "MediaDeDesvios": 1.88,
+    "NotaMediana": 8.87
+  },
+  "LEM2003 - INICIAÇÃO À PESQUISA EM LÍNGUA E LITERATURA INGLESA I": {
+    "Notas": [
+      9.94
+    ],
+    "Desvios": [
+      0.98
+    ],
+    "Docentes": [
+      "MARILIA VARELLA BEZERRA DE FARIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.94,
+    "MediaDeDesvios": 0.98,
+    "NotaMediana": 9.94
+  },
+  "LEM2050 - LITERATURA NORTE-AMERICANA CONTEMPORÂNEA DE MINORIAS": {
+    "Notas": [
+      10
+    ],
+    "Desvios": [
+      0.89
+    ],
+    "Docentes": [
+      "ORISON MARDEN BANDEIRA DE MELO JUNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 10,
+    "MediaDeDesvios": 0.89,
+    "NotaMediana": 10
+  }
+}

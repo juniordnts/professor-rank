@@ -1,0 +1,1667 @@
+[
+  {
+    "Docente": "ALICE DE MORAES CALVENTE VERSIEUX",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "1",
+    "Horário": "2M1234",
+    "Discentes": "24",
+    "Média Geral": "9.81",
+    "Desvio Padrão Geral": "1.39"
+  },
+  {
+    "Docente": "ALICE DE MORAES CALVENTE VERSIEUX",
+    "Componente Curricular": "BEZ0037 - FILOGENIA VEGETAL",
+    "Turma": "1",
+    "Horário": "5T1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "41",
+    "Média Geral": "9.68",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "ALICE DE MORAES CALVENTE VERSIEUX",
+    "Componente Curricular": "BEZ0037 - FILOGENIA VEGETAL",
+    "Turma": "2",
+    "Horário": "5N1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "42",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "BRUNO CAVALCANTE BELLINI",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "1",
+    "Horário": "6N1234",
+    "Discentes": "35",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "BRUNO CAVALCANTE BELLINI",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "2",
+    "Horário": "6T1234",
+    "Discentes": "30",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "BRUNO TOMIO GOTO",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "10",
+    "Média Geral": "9.13",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "BRUNO TOMIO GOTO",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "14",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "41",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "2.09"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS",
+    "Turma": "2",
+    "Horário": "24N34",
+    "Discentes": "36",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.24"
+  },
+  {
+    "Docente": "ELIZA MARIA XAVIER FREIRE",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4M1234",
+    "Discentes": "28",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "ELIZA MARIA XAVIER FREIRE",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "34",
+    "Média Geral": "9.51",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0085 - PRÁTICAS DE ESTATÍSTICA APLICADA À BIOLOGIA",
+    "Turma": "1",
+    "Horário": "3T56",
+    "Discentes": "10",
+    "Média Geral": "9.06",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "1",
+    "Horário": "6N1234",
+    "Discentes": "35",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "2",
+    "Horário": "6T1234",
+    "Discentes": "30",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "GUILHERME SANTOS TOLEDO DE LIMA",
+    "Componente Curricular": "BEZ0034 - BIOLOGIA DE ANFÍBIOS",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "9",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "GUILHERME SANTOS TOLEDO DE LIMA",
+    "Componente Curricular": "BEZ0088 - PRINCÍPIOS DE SISTEMÁTICA E EVOLUÇÃO",
+    "Turma": "1",
+    "Horário": "5N12",
+    "Discentes": "28",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "GUILHERME SANTOS TOLEDO DE LIMA",
+    "Componente Curricular": "BEZ0088 - PRINCÍPIOS DE SISTEMÁTICA E EVOLUÇÃO",
+    "Turma": "2",
+    "Horário": "4M56",
+    "Discentes": "37",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "GUILHERME SANTOS TOLEDO DE LIMA",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6M1234",
+    "Discentes": "37",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "GUILHERME SANTOS TOLEDO DE LIMA",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "25",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.2"
+  },
+  {
+    "Docente": "IURI GOULART BASEIA",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "10",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "IURI GOULART BASEIA",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "14",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "JULIANA ESPADA LICHSTON",
+    "Componente Curricular": "BEZ0063 - BOTÂNICA II",
+    "Turma": "1",
+    "Horário": "2N1234",
+    "Discentes": "42",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "JULIANA ESPADA LICHSTON",
+    "Componente Curricular": "BEZ0063 - BOTÂNICA II",
+    "Turma": "2",
+    "Horário": "2T1234",
+    "Discentes": "28",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "LAMARCK DO NASCIMENTO GALDINO DA ROCHA",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "1",
+    "Horário": "2M1234",
+    "Discentes": "24",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "1.26"
+  },
+  {
+    "Docente": "LAMARCK DO NASCIMENTO GALDINO DA ROCHA",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "35",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.33"
+  },
+  {
+    "Docente": "LAMARCK DO NASCIMENTO GALDINO DA ROCHA",
+    "Componente Curricular": "BEZ0037 - FILOGENIA VEGETAL",
+    "Turma": "1",
+    "Horário": "5T1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "41",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "LAMARCK DO NASCIMENTO GALDINO DA ROCHA",
+    "Componente Curricular": "BEZ0037 - FILOGENIA VEGETAL",
+    "Turma": "2",
+    "Horário": "5N1234 (11/02/2019 - 29/06/2019)",
+    "Discentes": "42",
+    "Média Geral": "9.69",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "LAMARCK DO NASCIMENTO GALDINO DA ROCHA",
+    "Componente Curricular": "BEZ0088 - PRINCÍPIOS DE SISTEMÁTICA E EVOLUÇÃO",
+    "Turma": "1",
+    "Horário": "5N12",
+    "Discentes": "28",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.5"
+  },
+  {
+    "Docente": "LAMARCK DO NASCIMENTO GALDINO DA ROCHA",
+    "Componente Curricular": "BEZ0088 - PRINCÍPIOS DE SISTEMÁTICA E EVOLUÇÃO",
+    "Turma": "2",
+    "Horário": "4M56",
+    "Discentes": "37",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "2.2"
+  },
+  {
+    "Docente": "LEONARDO DE MELO VERSIEUX",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "35",
+    "Média Geral": "9.55",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "LEONARDO DE MELO VERSIEUX",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6M1234",
+    "Discentes": "37",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "LEONARDO DE MELO VERSIEUX",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "25",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "MAGDI AHMED IBRAHIM ALOUFA",
+    "Componente Curricular": "BEZ2005 - FISIOLOGIA VEGETAL",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "40",
+    "Média Geral": "6.97",
+    "Desvio Padrão Geral": "2.93"
+  },
+  {
+    "Docente": "MAGDI AHMED IBRAHIM ALOUFA",
+    "Componente Curricular": "BEZ2005 - FISIOLOGIA VEGETAL",
+    "Turma": "2",
+    "Horário": "46N34",
+    "Discentes": "11",
+    "Média Geral": "7.15",
+    "Desvio Padrão Geral": "3.65"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0060 - COLETA E TAXIDERMIA DE AVES E CURADORIA DE COLEÇÕES BIOLÓGICAS",
+    "Turma": "1",
+    "Horário": "6T3456",
+    "Discentes": "11",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4M1234",
+    "Discentes": "28",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "34",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "41",
+    "Média Geral": "8.19",
+    "Desvio Padrão Geral": "2.6"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS",
+    "Turma": "2",
+    "Horário": "24N34",
+    "Discentes": "36",
+    "Média Geral": "9.83",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0078 - ICTIOLOGIA",
+    "Turma": "1",
+    "Horário": "2T456",
+    "Discentes": "10",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.58"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "1",
+    "Horário": "6N1234",
+    "Discentes": "35",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "2",
+    "Horário": "6T1234",
+    "Discentes": "30",
+    "Média Geral": "9.54",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4M1234",
+    "Discentes": "28",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "34",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.17"
+  },
+  {
+    "Docente": "ALICE DE MORAES CALVENTE VERSIEUX",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "34",
+    "Média Geral": "9.37",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "ALICE DE MORAES CALVENTE VERSIEUX",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "12",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.15"
+  },
+  {
+    "Docente": "BRUNO CAVALCANTE BELLINI",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "35",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "BRUNO CAVALCANTE BELLINI",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "27",
+    "Média Geral": "9.9",
+    "Desvio Padrão Geral": "0.98"
+  },
+  {
+    "Docente": "BRUNO TOMIO GOTO",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "41",
+    "Média Geral": "8.23",
+    "Desvio Padrão Geral": "2.75"
+  },
+  {
+    "Docente": "BRUNO TOMIO GOTO",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "42",
+    "Média Geral": "8.02",
+    "Desvio Padrão Geral": "2.68"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "1",
+    "Horário": "3T12",
+    "Discentes": "38",
+    "Média Geral": "8.84",
+    "Desvio Padrão Geral": "2.42"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "2",
+    "Horário": "2N12",
+    "Discentes": "38",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.46"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "35",
+    "Média Geral": "8.66",
+    "Desvio Padrão Geral": "2.38"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "36",
+    "Média Geral": "9.12",
+    "Desvio Padrão Geral": "2"
+  },
+  {
+    "Docente": "ELIZA MARIA XAVIER FREIRE",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "34",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "ELIZA MARIA XAVIER FREIRE",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "19",
+    "Média Geral": "9.23",
+    "Desvio Padrão Geral": "2.11"
+  },
+  {
+    "Docente": "FERNANDA ANTUNES CARVALHO",
+    "Componente Curricular": "BEZ0041 - BOTÂNICA DE CAMPO",
+    "Turma": "1",
+    "Horário": "5T1234",
+    "Discentes": "33",
+    "Média Geral": "9.15",
+    "Desvio Padrão Geral": "1.81"
+  },
+  {
+    "Docente": "FERNANDA ANTUNES CARVALHO",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "1",
+    "Horário": "3T12",
+    "Discentes": "38",
+    "Média Geral": "8.94",
+    "Desvio Padrão Geral": "2.23"
+  },
+  {
+    "Docente": "FERNANDA ANTUNES CARVALHO",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "2",
+    "Horário": "2N12",
+    "Discentes": "38",
+    "Média Geral": "9.14",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0085 - PRÁTICAS DE ESTATÍSTICA APLICADA À BIOLOGIA",
+    "Turma": "1",
+    "Horário": "3T56",
+    "Discentes": "12",
+    "Média Geral": "9.25",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "39",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "1.77"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "10",
+    "Média Geral": "7.74",
+    "Desvio Padrão Geral": "2.4"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0041 - BOTÂNICA DE CAMPO",
+    "Turma": "2",
+    "Horário": "5N1234",
+    "Discentes": "27",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0063 - BOTÂNICA II",
+    "Turma": "1",
+    "Horário": "2M3456",
+    "Discentes": "32",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0063 - BOTÂNICA II",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "24",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "1.22"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "34",
+    "Média Geral": "9.76",
+    "Desvio Padrão Geral": "1.28"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0023 - MORFOLOGIA E SISTEMATICA VEGETAL",
+    "Turma": "1",
+    "Horário": "24T345",
+    "Discentes": "16",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "39",
+    "Média Geral": "9.79",
+    "Desvio Padrão Geral": "1.08"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "10",
+    "Média Geral": "9.73",
+    "Desvio Padrão Geral": "0.96"
+  },
+  {
+    "Docente": "GUILHERME SANTOS TOLEDO DE LIMA",
+    "Componente Curricular": "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "36",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "GUILHERME SANTOS TOLEDO DE LIMA",
+    "Componente Curricular": "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "24",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.84"
+  },
+  {
+    "Docente": "GUILHERME SANTOS TOLEDO DE LIMA",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "34",
+    "Média Geral": "9.75",
+    "Desvio Padrão Geral": "1.48"
+  },
+  {
+    "Docente": "GUILHERME SANTOS TOLEDO DE LIMA",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "19",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "IURI GOULART BASEIA",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "41",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "IURI GOULART BASEIA",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "42",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "LEONARDO DE MELO VERSIEUX",
+    "Componente Curricular": "BEZ0023 - MORFOLOGIA E SISTEMATICA VEGETAL",
+    "Turma": "1",
+    "Horário": "24T345",
+    "Discentes": "16",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "MAGDI AHMED IBRAHIM ALOUFA",
+    "Componente Curricular": "BEZ2005 - FISIOLOGIA VEGETAL",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "28",
+    "Média Geral": "7.32",
+    "Desvio Padrão Geral": "2.58"
+  },
+  {
+    "Docente": "MAGDI AHMED IBRAHIM ALOUFA",
+    "Componente Curricular": "BEZ2005 - FISIOLOGIA VEGETAL",
+    "Turma": "2",
+    "Horário": "46N34",
+    "Discentes": "12",
+    "Média Geral": "7.68",
+    "Desvio Padrão Geral": "3.11"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0060 - COLETA E TAXIDERMIA DE AVES E CURADORIA DE COLEÇÕES BIOLÓGICAS",
+    "Turma": "1",
+    "Horário": "6T3456",
+    "Discentes": "16",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "39",
+    "Média Geral": "9.62",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "10",
+    "Média Geral": "9.77",
+    "Desvio Padrão Geral": "0.92"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0216 - EDUCACAO AMBIENTAL",
+    "Turma": "1",
+    "Horário": "5T3456",
+    "Discentes": "11",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "35",
+    "Média Geral": "9.07",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "36",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.42"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "35",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "27",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.09"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "34",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "19",
+    "Média Geral": "9.84",
+    "Desvio Padrão Geral": "1.38"
+  },
+  {
+    "Docente": "ADRIAN ANTONIO GARDA",
+    "Componente Curricular": "BEZ0034 - BIOLOGIA DE ANFÍBIOS",
+    "Turma": "1",
+    "Horário": "6M3456",
+    "Discentes": "11",
+    "Média Geral": "8.99",
+    "Desvio Padrão Geral": "1.61"
+  },
+  {
+    "Docente": "ADRIAN ANTONIO GARDA",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "1",
+    "Horário": "4M56",
+    "Discentes": "35",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "ADRIAN ANTONIO GARDA",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "2",
+    "Horário": "4N12",
+    "Discentes": "30",
+    "Média Geral": "9.22",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "ALICE DE MORAES CALVENTE VERSIEUX",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "1",
+    "Horário": "4M56",
+    "Discentes": "35",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.86"
+  },
+  {
+    "Docente": "ALICE DE MORAES CALVENTE VERSIEUX",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "2",
+    "Horário": "4N12",
+    "Discentes": "30",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.87"
+  },
+  {
+    "Docente": "ALICE DE MORAES CALVENTE VERSIEUX",
+    "Componente Curricular": "BEZ0037 - FILOGENIA VEGETAL",
+    "Turma": "1",
+    "Horário": "5T1234 (19/02/2018 - 07/07/2018)",
+    "Discentes": "40",
+    "Média Geral": "9.42",
+    "Desvio Padrão Geral": "2.21"
+  },
+  {
+    "Docente": "BRUNO CAVALCANTE BELLINI",
+    "Componente Curricular": "BEZ0013 - ZOOLOGIA GERAL",
+    "Turma": "1",
+    "Horário": "2T123 4T12",
+    "Discentes": "26",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "BRUNO CAVALCANTE BELLINI",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "38",
+    "Média Geral": "9.66",
+    "Desvio Padrão Geral": "1.72"
+  },
+  {
+    "Docente": "BRUNO CAVALCANTE BELLINI",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "18",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.56"
+  },
+  {
+    "Docente": "BRUNO TOMIO GOTO",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "35",
+    "Média Geral": "8.09",
+    "Desvio Padrão Geral": "3.23"
+  },
+  {
+    "Docente": "BRUNO TOMIO GOTO",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "34",
+    "Média Geral": "7.59",
+    "Desvio Padrão Geral": "3.29"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "42",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.95"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS",
+    "Turma": "2",
+    "Horário": "24N34",
+    "Discentes": "40",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "2.05"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "1",
+    "Horário": "2M3456",
+    "Discentes": "34",
+    "Média Geral": "9.04",
+    "Desvio Padrão Geral": "2.46"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "31",
+    "Média Geral": "9.11",
+    "Desvio Padrão Geral": "2.06"
+  },
+  {
+    "Docente": "ELIZA MARIA XAVIER FREIRE",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4M1234",
+    "Discentes": "32",
+    "Média Geral": "7.46",
+    "Desvio Padrão Geral": "2.68"
+  },
+  {
+    "Docente": "ELIZA MARIA XAVIER FREIRE",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "20",
+    "Média Geral": "9.18",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "FERNANDA ANTUNES CARVALHO",
+    "Componente Curricular": "BEZ0063 - BOTÂNICA II",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "33",
+    "Média Geral": "9.05",
+    "Desvio Padrão Geral": "2.17"
+  },
+  {
+    "Docente": "FERNANDA ANTUNES CARVALHO",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "1",
+    "Horário": "2M1234",
+    "Discentes": "31",
+    "Média Geral": "8.82",
+    "Desvio Padrão Geral": "2.14"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6M1234",
+    "Discentes": "40",
+    "Média Geral": "8.42",
+    "Desvio Padrão Geral": "2.24"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "28",
+    "Média Geral": "8.93",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "38",
+    "Média Geral": "9.16",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "18",
+    "Média Geral": "8.71",
+    "Desvio Padrão Geral": "2.41"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0063 - BOTÂNICA II",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "33",
+    "Média Geral": "9.38",
+    "Desvio Padrão Geral": "1.79"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0063 - BOTÂNICA II",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "15",
+    "Média Geral": "9.47",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "21",
+    "Média Geral": "9.28",
+    "Desvio Padrão Geral": "1.44"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0037 - FILOGENIA VEGETAL",
+    "Turma": "2",
+    "Horário": "5N1234 (19/02/2018 - 07/07/2018)",
+    "Discentes": "40",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "IURI GOULART BASEIA",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "35",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "2.1"
+  },
+  {
+    "Docente": "IURI GOULART BASEIA",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "34",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "LEONARDO DE MELO VERSIEUX",
+    "Componente Curricular": "BEZ0037 - FILOGENIA VEGETAL",
+    "Turma": "2",
+    "Horário": "5N1234 (19/02/2018 - 07/07/2018)",
+    "Discentes": "40",
+    "Média Geral": "7.95",
+    "Desvio Padrão Geral": "3.1"
+  },
+  {
+    "Docente": "LEONARDO DE MELO VERSIEUX",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6M1234",
+    "Discentes": "40",
+    "Média Geral": "9.21",
+    "Desvio Padrão Geral": "1.85"
+  },
+  {
+    "Docente": "LEONARDO DE MELO VERSIEUX",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "28",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "MAGDI AHMED IBRAHIM ALOUFA",
+    "Componente Curricular": "BEZ2005 - FISIOLOGIA VEGETAL",
+    "Turma": "1",
+    "Horário": "35T56",
+    "Discentes": "44",
+    "Média Geral": "7.01",
+    "Desvio Padrão Geral": "2.8"
+  },
+  {
+    "Docente": "MAGDI AHMED IBRAHIM ALOUFA",
+    "Componente Curricular": "BEZ2005 - FISIOLOGIA VEGETAL",
+    "Turma": "2",
+    "Horário": "46N34",
+    "Discentes": "12",
+    "Média Geral": "7.38",
+    "Desvio Padrão Geral": "2.79"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0060 - COLETA E TAXIDERMIA DE AVES E CURADORIA DE COLEÇÕES BIOLÓGICAS",
+    "Turma": "1",
+    "Horário": "6T3456",
+    "Discentes": "9",
+    "Média Geral": "9.88",
+    "Desvio Padrão Geral": "1.7"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0013 - ZOOLOGIA GERAL",
+    "Turma": "1",
+    "Horário": "2T123 4T12",
+    "Discentes": "26",
+    "Média Geral": "8.36",
+    "Desvio Padrão Geral": "2.31"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4M1234",
+    "Discentes": "32",
+    "Média Geral": "9.29",
+    "Desvio Padrão Geral": "2.01"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "20",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.1"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6M1234",
+    "Discentes": "40",
+    "Média Geral": "9.02",
+    "Desvio Padrão Geral": "1.92"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "28",
+    "Média Geral": "9.32",
+    "Desvio Padrão Geral": "1.35"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS",
+    "Turma": "1",
+    "Horário": "24T34",
+    "Discentes": "42",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0086 - ZOOLOGIA DE INVERTEBRADOS PARA ECÓLOGOS",
+    "Turma": "2",
+    "Horário": "24N34",
+    "Discentes": "40",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "1.99"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "1",
+    "Horário": "2M3456",
+    "Discentes": "34",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "31",
+    "Média Geral": "9.65",
+    "Desvio Padrão Geral": "1.25"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0078 - ICTIOLOGIA",
+    "Turma": "1",
+    "Horário": "2T456",
+    "Discentes": "19",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.88"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "38",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.73"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "18",
+    "Média Geral": "9.46",
+    "Desvio Padrão Geral": "1.63"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4M1234",
+    "Discentes": "32",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "1.76"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "20",
+    "Média Geral": "9.91",
+    "Desvio Padrão Geral": "0.88"
+  },
+  {
+    "Docente": "ADRIAN ANTONIO GARDA",
+    "Componente Curricular": "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS",
+    "Turma": "1",
+    "Horário": "6T2345",
+    "Discentes": "38",
+    "Média Geral": "9.09",
+    "Desvio Padrão Geral": "1.83"
+  },
+  {
+    "Docente": "ADRIAN ANTONIO GARDA",
+    "Componente Curricular": "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "29",
+    "Média Geral": "9.08",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "ALICE DE MORAES CALVENTE VERSIEUX",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "1",
+    "Horário": "2T1234",
+    "Discentes": "26",
+    "Média Geral": "9.72",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "ALICE DE MORAES CALVENTE VERSIEUX",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "24",
+    "Média Geral": "9.89",
+    "Desvio Padrão Geral": "0.97"
+  },
+  {
+    "Docente": "BRUNO CAVALCANTE BELLINI",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "3",
+    "Horário": "2M3456",
+    "Discentes": "30",
+    "Média Geral": "9.8",
+    "Desvio Padrão Geral": "1.32"
+  },
+  {
+    "Docente": "BRUNO CAVALCANTE BELLINI",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "4",
+    "Horário": "2N1234",
+    "Discentes": "23",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.34"
+  },
+  {
+    "Docente": "BRUNO TOMIO GOTO",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "35",
+    "Média Geral": "8.96",
+    "Desvio Padrão Geral": "1.65"
+  },
+  {
+    "Docente": "BRUNO TOMIO GOTO",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "31",
+    "Média Geral": "9.33",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "1",
+    "Horário": "3T12",
+    "Discentes": "34",
+    "Média Geral": "8.67",
+    "Desvio Padrão Geral": "2.13"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "2",
+    "Horário": "2N12",
+    "Discentes": "30",
+    "Média Geral": "9.49",
+    "Desvio Padrão Geral": "1.63"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "34",
+    "Média Geral": "8.66",
+    "Desvio Padrão Geral": "2.08"
+  },
+  {
+    "Docente": "ELINEI ARAUJO DE ALMEIDA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "28",
+    "Média Geral": "9.48",
+    "Desvio Padrão Geral": "1.49"
+  },
+  {
+    "Docente": "ELIZA MARIA XAVIER FREIRE",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "30",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "ELIZA MARIA XAVIER FREIRE",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "20",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.29"
+  },
+  {
+    "Docente": "FERNANDA ANTUNES CARVALHO",
+    "Componente Curricular": "BEZ0041 - BOTÂNICA DE CAMPO",
+    "Turma": "1",
+    "Horário": "5T1234",
+    "Discentes": "43",
+    "Média Geral": "9.35",
+    "Desvio Padrão Geral": "1.62"
+  },
+  {
+    "Docente": "FERNANDA ANTUNES CARVALHO",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "1",
+    "Horário": "3T12",
+    "Discentes": "34",
+    "Média Geral": "8.87",
+    "Desvio Padrão Geral": "1.9"
+  },
+  {
+    "Docente": "FERNANDA ANTUNES CARVALHO",
+    "Componente Curricular": "BEZ0073 - FILOGENIA",
+    "Turma": "2",
+    "Horário": "2N12",
+    "Discentes": "30",
+    "Média Geral": "9.2",
+    "Desvio Padrão Geral": "1.68"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0085 - PRÁTICAS DE ESTATÍSTICA APLICADA À BIOLOGIA",
+    "Turma": "1",
+    "Horário": "3T56",
+    "Discentes": "9",
+    "Média Geral": "8.59",
+    "Desvio Padrão Geral": "2.12"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "29",
+    "Média Geral": "8.66",
+    "Desvio Padrão Geral": "1.67"
+  },
+  {
+    "Docente": "FULVIO AURELIO DE MORAIS FREIRE",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "18",
+    "Média Geral": "9.57",
+    "Desvio Padrão Geral": "0.88"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0041 - BOTÂNICA DE CAMPO",
+    "Turma": "2",
+    "Horário": "5N1234",
+    "Discentes": "27",
+    "Média Geral": "9.6",
+    "Desvio Padrão Geral": "1.23"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0063 - BOTÂNICA II",
+    "Turma": "3",
+    "Horário": "6M3456",
+    "Discentes": "35",
+    "Média Geral": "9.45",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0063 - BOTÂNICA II",
+    "Turma": "4",
+    "Horário": "6N1234",
+    "Discentes": "18",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.37"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0064 - BOTÂNICA III",
+    "Turma": "2",
+    "Horário": "2N1234",
+    "Discentes": "24",
+    "Média Geral": "9.86",
+    "Desvio Padrão Geral": "0.96"
+  },
+  {
+    "Docente": "GUILHERME GERHARDT MAZZOCHINI",
+    "Componente Curricular": "BEZ0023 - MORFOLOGIA E SISTEMATICA VEGETAL",
+    "Turma": "1",
+    "Horário": "35M123",
+    "Discentes": "50",
+    "Média Geral": "8.95",
+    "Desvio Padrão Geral": "1.6"
+  },
+  {
+    "Docente": "IURI GOULART BASEIA",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "1",
+    "Horário": "35T34",
+    "Discentes": "35",
+    "Média Geral": "9.4",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "IURI GOULART BASEIA",
+    "Componente Curricular": "BEZ0062 - BOTÂNICA I",
+    "Turma": "2",
+    "Horário": "35N12",
+    "Discentes": "31",
+    "Média Geral": "9.43",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "LEONARDO DE MELO VERSIEUX",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "29",
+    "Média Geral": "9.27",
+    "Desvio Padrão Geral": "1.52"
+  },
+  {
+    "Docente": "LEONARDO DE MELO VERSIEUX",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "18",
+    "Média Geral": "9.74",
+    "Desvio Padrão Geral": "0.8"
+  },
+  {
+    "Docente": "MAGDI AHMED IBRAHIM ALOUFA",
+    "Componente Curricular": "BEZ2005 - FISIOLOGIA VEGETAL",
+    "Turma": "1",
+    "Horário": "35M56",
+    "Discentes": "34",
+    "Média Geral": "6.74",
+    "Desvio Padrão Geral": "2.52"
+  },
+  {
+    "Docente": "MAGDI AHMED IBRAHIM ALOUFA",
+    "Componente Curricular": "BEZ2005 - FISIOLOGIA VEGETAL",
+    "Turma": "2",
+    "Horário": "46N34",
+    "Discentes": "11",
+    "Média Geral": "7.75",
+    "Desvio Padrão Geral": "1.96"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0060 - COLETA E TAXIDERMIA DE AVES E CURADORIA DE COLEÇÕES BIOLÓGICAS",
+    "Turma": "1",
+    "Horário": "5M3456",
+    "Discentes": "11",
+    "Média Geral": "9.34",
+    "Desvio Padrão Geral": "1.09"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS",
+    "Turma": "1",
+    "Horário": "6T2345",
+    "Discentes": "38",
+    "Média Geral": "9.41",
+    "Desvio Padrão Geral": "1.98"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "29",
+    "Média Geral": "9.39",
+    "Desvio Padrão Geral": "1.47"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "30",
+    "Média Geral": "9.82",
+    "Desvio Padrão Geral": "1.1"
+  },
+  {
+    "Docente": "MAURO PICHORIM",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "20",
+    "Média Geral": "9.61",
+    "Desvio Padrão Geral": "1.43"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "1",
+    "Horário": "6T1234",
+    "Discentes": "29",
+    "Média Geral": "9.06",
+    "Desvio Padrão Geral": "1.44"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0067 - SEMINÁRIOS EM BIODIVERSIDADE",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "18",
+    "Média Geral": "9.64",
+    "Desvio Padrão Geral": "0.85"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "34",
+    "Média Geral": "9.44",
+    "Desvio Padrão Geral": "1.36"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0069 - ZOOLOGIA I",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "28",
+    "Média Geral": "9.56",
+    "Desvio Padrão Geral": "1.3"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "3",
+    "Horário": "2M3456",
+    "Discentes": "30",
+    "Média Geral": "8.97",
+    "Desvio Padrão Geral": "1.89"
+  },
+  {
+    "Docente": "ROSANGELA GONDIM D OLIVEIRA",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "4",
+    "Horário": "2N1234",
+    "Discentes": "23",
+    "Média Geral": "9.5",
+    "Desvio Padrão Geral": "1.55"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS",
+    "Turma": "1",
+    "Horário": "6T2345",
+    "Discentes": "38",
+    "Média Geral": "9.36",
+    "Desvio Padrão Geral": "1.91"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0138 - ZOOLOGIA DE VERTEBRADOS PARA ECOLOGOS",
+    "Turma": "2",
+    "Horário": "6N1234",
+    "Discentes": "29",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.57"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "3",
+    "Horário": "2M3456",
+    "Discentes": "30",
+    "Média Geral": "9.59",
+    "Desvio Padrão Geral": "1.44"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0070 - ZOOLOGIA II",
+    "Turma": "4",
+    "Horário": "2N1234",
+    "Discentes": "23",
+    "Média Geral": "9.71",
+    "Desvio Padrão Geral": "1.45"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "1",
+    "Horário": "4T1234",
+    "Discentes": "30",
+    "Média Geral": "9.95",
+    "Desvio Padrão Geral": "0.99"
+  },
+  {
+    "Docente": "SERGIO MAIA QUEIROZ LIMA",
+    "Componente Curricular": "BEZ0072 - ZOOLOGIA III",
+    "Turma": "2",
+    "Horário": "4N1234",
+    "Discentes": "20",
+    "Média Geral": "9.98",
+    "Desvio Padrão Geral": "0.45"
+  }
+]

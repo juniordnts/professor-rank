@@ -1,0 +1,4468 @@
+{
+  "ALIANDA MAIRA CORNELIO DA SILVA": {
+    "Notas": [
+      9.1,
+      9.33,
+      9.34,
+      9.36,
+      9.43,
+      9.49,
+      9.5,
+      9.61,
+      9.65,
+      9.75
+    ],
+    "Desvios": [
+      1.99,
+      1.51,
+      2.19,
+      1.53,
+      1.52,
+      1.92,
+      1.8,
+      1.96,
+      1.87,
+      1.1
+    ],
+    "Componentes": {
+      "MOR0014 - ANATOMIA HUMANA": {
+        "Notas": [
+          9.49,
+          9.5
+        ],
+        "Desvios": [
+          1.99,
+          1.96
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.495000000000001,
+        "MediaDeDesvios": 1.975,
+        "NotaMediana": 9.5
+      },
+      "MOR0067 - ANATOMIA HUMANA": {
+        "Notas": [
+          9.33,
+          9.43
+        ],
+        "Desvios": [
+          1.51,
+          1.8
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.379999999999999,
+        "MediaDeDesvios": 1.655,
+        "NotaMediana": 9.43
+      },
+      "MOR0011 - ANATOMIA XI": {
+        "Notas": [
+          9.34,
+          9.36,
+          9.65,
+          9.75
+        ],
+        "Desvios": [
+          2.19,
+          1.53,
+          1.87,
+          1.1
+        ],
+        "DesvioDeNotas": 0.17867568385205662,
+        "MediaDeNotas": 9.524999999999999,
+        "MediaDeDesvios": 1.6724999999999999,
+        "NotaMediana": 9.65
+      },
+      "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.61
+      },
+      "MOR0087 - NEUROANATOMIA FUNCIONAL APLICADA ÀS ÁREAS DA SAÚDE E BIOLÓGICAS": {
+        "Notas": [
+          9.1
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.1
+      }
+    },
+    "DesvioDeNotas": 0.1780000000000001,
+    "MediaDeNotas": 9.456,
+    "MediaDeDesvios": 1.7390000000000003,
+    "NotaMediana": 9.49
+  },
+  "BENTO JOAO DA GRACA AZEVEDO ABREU": {
+    "Notas": [
+      9,
+      9.11,
+      9.41,
+      9.51,
+      9.66,
+      9.72,
+      9.74,
+      9.77,
+      9.87,
+      9.98
+    ],
+    "Desvios": [
+      2.15,
+      1.29,
+      1.93,
+      0.94,
+      1.38,
+      2.21,
+      1.79,
+      1.37,
+      0.95,
+      1.18
+    ],
+    "Componentes": {
+      "MOR0011 - ANATOMIA XI": {
+        "Notas": [
+          9.41,
+          9.51,
+          9.77,
+          9.87
+        ],
+        "Desvios": [
+          2.15,
+          1.38,
+          1.79,
+          0.95
+        ],
+        "DesvioDeNotas": 0.18681541692269374,
+        "MediaDeNotas": 9.639999999999999,
+        "MediaDeDesvios": 1.5675000000000001,
+        "NotaMediana": 9.77
+      },
+      "MOR0070 - BLOCO MORFOLOGICO": {
+        "Notas": [
+          9.11,
+          9.66,
+          9.72,
+          9.74
+        ],
+        "Desvios": [
+          1.29,
+          2.21,
+          1.37,
+          1.18
+        ],
+        "DesvioDeNotas": 0.2600360551923525,
+        "MediaDeNotas": 9.557500000000001,
+        "MediaDeDesvios": 1.5125,
+        "NotaMediana": 9.72
+      },
+      "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA": {
+        "Notas": [
+          9
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9
+      },
+      "MOR0091 - ANATOMIA PALPATÓRIA": {
+        "Notas": [
+          9.98
+        ],
+        "Desvios": [
+          0.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.98,
+        "MediaDeDesvios": 0.94,
+        "NotaMediana": 9.98
+      }
+    },
+    "DesvioDeNotas": 0.3037778793789963,
+    "MediaDeNotas": 9.577,
+    "MediaDeDesvios": 1.5190000000000001,
+    "NotaMediana": 9.72
+  },
+  "CARLOS AUGUSTO GALVAO BARBOZA": {
+    "Notas": [
+      8.84,
+      9.4,
+      9.47,
+      9.54,
+      9.63,
+      9.64,
+      9.65,
+      9.66,
+      9.7,
+      9.71,
+      9.73,
+      9.73,
+      9.73,
+      9.74,
+      9.75,
+      9.75,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      2.18,
+      1.25,
+      1.52,
+      1.64,
+      1.34,
+      1.59,
+      1.98,
+      1.48,
+      1.3,
+      1.35,
+      1.71,
+      1.47,
+      1.58,
+      1.56,
+      1.59,
+      2.16,
+      1.54,
+      1.57
+    ],
+    "Componentes": {
+      "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA": {
+        "Notas": [
+          9.4,
+          9.54
+        ],
+        "Desvios": [
+          2.18,
+          1.48
+        ],
+        "DesvioDeNotas": 0.0699999999999994,
+        "MediaDeNotas": 9.469999999999999,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.54
+      },
+      "MOR0074 - FUNDAMENTOS DE ENGENHARIA DE TECIDOS E ÓRGÃOS": {
+        "Notas": [
+          9.47,
+          9.64,
+          9.65,
+          9.66
+        ],
+        "Desvios": [
+          1.25,
+          1.52,
+          1.56,
+          1.59
+        ],
+        "DesvioDeNotas": 0.0782623792124925,
+        "MediaDeNotas": 9.605,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.65
+      },
+      "DFS0108 - MODULO BIOLOGICO I": {
+        "Notas": [
+          9.63,
+          9.73,
+          9.73,
+          9.74,
+          9.75,
+          9.82
+        ],
+        "Desvios": [
+          1.64,
+          1.34,
+          1.35,
+          1.71,
+          2.16,
+          1.54
+        ],
+        "DesvioDeNotas": 0.05557777333511005,
+        "MediaDeNotas": 9.733333333333333,
+        "MediaDeDesvios": 1.623333333333333,
+        "NotaMediana": 9.74
+      },
+      "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA": {
+        "Notas": [
+          9.7,
+          9.73,
+          9.84
+        ],
+        "Desvios": [
+          1.59,
+          1.47,
+          1.57
+        ],
+        "DesvioDeNotas": 0.06018490028422606,
+        "MediaDeNotas": 9.756666666666666,
+        "MediaDeDesvios": 1.5433333333333332,
+        "NotaMediana": 9.73
+      },
+      "MOR0062 - EMBRIOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 8.84
+      },
+      "MOR0041 - EMBRIOLOGIA I": {
+        "Notas": [
+          9.71,
+          9.75
+        ],
+        "Desvios": [
+          1.3,
+          1.58
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.2204155727061,
+    "MediaDeNotas": 9.629444444444445,
+    "MediaDeDesvios": 1.6005555555555555,
+    "NotaMediana": 9.71
+  },
+  "CELCIMAR ALVES CAMARA": {
+    "Notas": [
+      8.74,
+      8.95,
+      8.99,
+      9.24,
+      9.25,
+      9.4,
+      9.4,
+      9.41,
+      9.43,
+      9.49,
+      9.56,
+      9.73,
+      9.77
+    ],
+    "Desvios": [
+      2.35,
+      1.93,
+      1.81,
+      1.66,
+      1.54,
+      2.12,
+      1.83,
+      2.3,
+      2.16,
+      1.78,
+      1.47,
+      1.14,
+      0.74
+    ],
+    "Componentes": {
+      "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          8.95,
+          8.99,
+          9.4,
+          9.43
+        ],
+        "Desvios": [
+          2.35,
+          1.66,
+          2.3,
+          1.47
+        ],
+        "DesvioDeNotas": 0.2232011424701945,
+        "MediaDeNotas": 9.1925,
+        "MediaDeDesvios": 1.9449999999999998,
+        "NotaMediana": 9.4
+      },
+      "DFS0108 - MODULO BIOLOGICO I": {
+        "Notas": [
+          9.24,
+          9.25,
+          9.4,
+          9.41,
+          9.49,
+          9.56,
+          9.73,
+          9.77
+        ],
+        "Desvios": [
+          1.93,
+          1.81,
+          1.54,
+          2.12,
+          2.16,
+          1.78,
+          1.14,
+          0.74
+        ],
+        "DesvioDeNotas": 0.18536703455576986,
+        "MediaDeNotas": 9.48125,
+        "MediaDeDesvios": 1.6525,
+        "NotaMediana": 9.49
+      },
+      "MOR0067 - ANATOMIA HUMANA": {
+        "Notas": [
+          8.74
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.74,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 8.74
+      }
+    },
+    "DesvioDeNotas": 0.288300467851361,
+    "MediaDeNotas": 9.335384615384616,
+    "MediaDeDesvios": 1.756153846153846,
+    "NotaMediana": 9.4
+  },
+  "CHRISTINA DA SILVA CAMILLO": {
+    "Notas": [
+      8.45,
+      8.82,
+      9.06,
+      9.07,
+      9.09,
+      9.16,
+      9.18,
+      9.27,
+      9.27,
+      9.29,
+      9.36,
+      9.38,
+      9.41,
+      9.41,
+      9.42,
+      9.47,
+      9.53,
+      9.54,
+      9.59,
+      9.65,
+      9.69,
+      9.69,
+      9.7,
+      9.87
+    ],
+    "Desvios": [
+      1.2,
+      1.85,
+      1.75,
+      0.8,
+      1.26,
+      2.09,
+      1.62,
+      2.06,
+      2.1,
+      2.05,
+      1.48,
+      1.67,
+      1.93,
+      1.01,
+      1.53,
+      1.99,
+      1.8,
+      2.5,
+      1.19,
+      1.85,
+      1.37,
+      2.14,
+      1.25,
+      1.51
+    ],
+    "Componentes": {
+      "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.7
+      },
+      "MOR0023 - HISTOLOGIA III": {
+        "Notas": [
+          8.82,
+          9.07,
+          9.09,
+          9.18,
+          9.27,
+          9.29,
+          9.41,
+          9.54
+        ],
+        "Desvios": [
+          1.85,
+          1.75,
+          2.09,
+          1.62,
+          1.01,
+          1.53,
+          1.37,
+          2.14
+        ],
+        "DesvioDeNotas": 0.20793253112488166,
+        "MediaDeNotas": 9.208749999999998,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.27
+      },
+      "MOR0089 - MODULO BIOLOGICO II": {
+        "Notas": [
+          9.16,
+          9.38,
+          9.41,
+          9.47,
+          9.53,
+          9.59,
+          9.65,
+          9.87
+        ],
+        "Desvios": [
+          0.8,
+          1.26,
+          2.1,
+          2.05,
+          1.99,
+          1.8,
+          1.25,
+          1.51
+        ],
+        "DesvioDeNotas": 0.19587942719948895,
+        "MediaDeNotas": 9.5075,
+        "MediaDeDesvios": 1.595,
+        "NotaMediana": 9.53
+      },
+      "MOR0035 - HISTOLOGIA VII": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          2.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 2.06,
+        "NotaMediana": 9.36
+      },
+      "MOR0032 - TECNICAS HISTOLOGICAS I": {
+        "Notas": [
+          8.45,
+          9.06
+        ],
+        "Desvios": [
+          1.48,
+          2.5
+        ],
+        "DesvioDeNotas": 0.3050000000000006,
+        "MediaDeNotas": 8.754999999999999,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.06
+      },
+      "MOR0045 - HISTOLOGIA": {
+        "Notas": [
+          9.42,
+          9.69
+        ],
+        "Desvios": [
+          1.67,
+          1.93
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.7999999999999998,
+        "NotaMediana": 9.69
+      },
+      "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          9.27,
+          9.69
+        ],
+        "Desvios": [
+          1.19,
+          1.85
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.69
+      }
+    },
+    "DesvioDeNotas": 0.3075482685693417,
+    "MediaDeNotas": 9.348749999999999,
+    "MediaDeDesvios": 1.6666666666666667,
+    "NotaMediana": 9.41
+  },
+  "DANIELLE BARBOSA MORAIS": {
+    "Notas": [
+      8.97,
+      8.99,
+      9.09,
+      9.54,
+      9.66,
+      9.68,
+      9.69,
+      9.71,
+      9.75,
+      9.81,
+      9.85,
+      9.86,
+      9.87,
+      9.88,
+      9.89
+    ],
+    "Desvios": [
+      1.6,
+      1.52,
+      1.66,
+      1.84,
+      1.79,
+      1.25,
+      1.5,
+      2.35,
+      1.23,
+      1.5,
+      1.19,
+      2.2,
+      1.17,
+      1.58,
+      2.08
+    ],
+    "Componentes": {
+      "MOR0028 - EMBRIOLOGIA APLICADA A FONOAUDIOLOGIA": {
+        "Notas": [
+          9.85,
+          9.87
+        ],
+        "Desvios": [
+          1.6,
+          1.23
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.415,
+        "NotaMediana": 9.87
+      },
+      "MOR0065 - EMBRIOLOGIA HUMANA PARA O CURSO DE ENFERMAGEM": {
+        "Notas": [
+          9.66,
+          9.68,
+          9.71,
+          9.88,
+          9.89
+        ],
+        "Desvios": [
+          1.52,
+          1.79,
+          1.25,
+          1.5,
+          1.17
+        ],
+        "DesvioDeNotas": 0.10011992808627086,
+        "MediaDeNotas": 9.764,
+        "MediaDeDesvios": 1.4460000000000002,
+        "NotaMediana": 9.71
+      },
+      "MOR0042 - EMBRIOLOGIA II": {
+        "Notas": [
+          8.99,
+          9.09,
+          9.86
+        ],
+        "Desvios": [
+          1.66,
+          2.35,
+          2.08
+        ],
+        "DesvioDeNotas": 0.3887015421745695,
+        "MediaDeNotas": 9.313333333333334,
+        "MediaDeDesvios": 2.03,
+        "NotaMediana": 9.09
+      },
+      "MOR0062 - EMBRIOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          8.97,
+          9.69
+        ],
+        "Desvios": [
+          1.84,
+          2.2
+        ],
+        "DesvioDeNotas": 0.35999999999999943,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 9.69
+      },
+      "MOR0086 - EMBRIOLOGIA HUMANA PARA O CURSO DE NUTRIÇÃO": {
+        "Notas": [
+          9.75,
+          9.81
+        ],
+        "Desvios": [
+          1.5,
+          1.19
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.780000000000001,
+        "MediaDeDesvios": 1.345,
+        "NotaMediana": 9.81
+      },
+      "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.54
+      }
+    },
+    "DesvioDeNotas": 0.31529457126101396,
+    "MediaDeNotas": 9.616000000000001,
+    "MediaDeDesvios": 1.6306666666666667,
+    "NotaMediana": 9.71
+  },
+  "DANILO JOSE AYRES DE MENEZES": {
+    "Notas": [
+      8.18,
+      8.55,
+      8.84,
+      8.93,
+      9.23,
+      9.39,
+      9.81,
+      9.86
+    ],
+    "Desvios": [
+      2.25,
+      2.62,
+      2.82,
+      1.93,
+      1.8,
+      2.03,
+      0.92,
+      0.8
+    ],
+    "Componentes": {
+      "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I": {
+        "Notas": [
+          8.84,
+          8.93,
+          9.23,
+          9.86
+        ],
+        "Desvios": [
+          2.25,
+          1.93,
+          1.8,
+          0.92
+        ],
+        "DesvioDeNotas": 0.3994058086708303,
+        "MediaDeNotas": 9.215,
+        "MediaDeDesvios": 1.7249999999999999,
+        "NotaMediana": 9.23
+      },
+      "MOR0092 - ANATOMIA DOS ANIMAIS DOMÉSTICOS I": {
+        "Notas": [
+          8.18,
+          8.55
+        ],
+        "Desvios": [
+          2.62,
+          2.82
+        ],
+        "DesvioDeNotas": 0.1850000000000005,
+        "MediaDeNotas": 8.365,
+        "MediaDeDesvios": 2.7199999999999998,
+        "NotaMediana": 8.55
+      },
+      "MOR0052 - ANATOMIA DE ANIMAIS DOMESTICOS": {
+        "Notas": [
+          9.39,
+          9.81
+        ],
+        "Desvios": [
+          2.03,
+          0.8
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.600000000000001,
+        "MediaDeDesvios": 1.415,
+        "NotaMediana": 9.81
+      }
+    },
+    "DesvioDeNotas": 0.5509182675315822,
+    "MediaDeNotas": 9.09875,
+    "MediaDeDesvios": 1.89625,
+    "NotaMediana": 9.23
+  },
+  "EXPEDITO SILVA DO NASCIMENTO JUNIOR": {
+    "Notas": [
+      9.52,
+      9.54,
+      9.54,
+      9.69,
+      9.7,
+      9.73,
+      9.75,
+      9.77,
+      9.86,
+      9.92,
+      9.92,
+      9.93,
+      9.95
+    ],
+    "Desvios": [
+      1.28,
+      0.89,
+      1.18,
+      1.14,
+      1.73,
+      1.89,
+      1.65,
+      1.5,
+      1.74,
+      1.34,
+      0.95,
+      0.96,
+      1.38
+    ],
+    "Componentes": {
+      "MOR0057 - ANATOMIA PARA ENFERMAGEM": {
+        "Notas": [
+          9.92,
+          9.92,
+          9.93,
+          9.95
+        ],
+        "Desvios": [
+          1.28,
+          1.14,
+          1.5,
+          0.95
+        ],
+        "DesvioDeNotas": 0.012247448713915629,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.2175,
+        "NotaMediana": 9.93
+      },
+      "MOR0089 - MODULO BIOLOGICO II": {
+        "Notas": [
+          9.52,
+          9.54,
+          9.54,
+          9.69,
+          9.7,
+          9.73,
+          9.75,
+          9.77
+        ],
+        "Desvios": [
+          0.89,
+          1.18,
+          1.73,
+          1.89,
+          1.74,
+          1.34,
+          0.96,
+          1.38
+        ],
+        "DesvioDeNotas": 0.09733961166965915,
+        "MediaDeNotas": 9.655,
+        "MediaDeDesvios": 1.38875,
+        "NotaMediana": 9.7
+      },
+      "MOR0014 - ANATOMIA HUMANA": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.86
+      }
+    },
+    "DesvioDeNotas": 0.14933778874728607,
+    "MediaDeNotas": 9.755384615384616,
+    "MediaDeDesvios": 1.356153846153846,
+    "NotaMediana": 9.75
+  },
+  "FERNANDO VAGNER LOBO LADD": {
+    "Notas": [
+      8.59,
+      9.04,
+      9.11,
+      9.11,
+      9.27,
+      9.31,
+      9.41,
+      9.46,
+      9.48,
+      9.5,
+      9.52,
+      9.56,
+      9.57,
+      9.61,
+      9.64,
+      9.75,
+      9.78
+    ],
+    "Desvios": [
+      1.76,
+      1.26,
+      1.35,
+      2.23,
+      1.33,
+      1.13,
+      2.09,
+      2.08,
+      1.94,
+      0.78,
+      1.06,
+      1.82,
+      1.51,
+      1.88,
+      1,
+      1.32,
+      1.4
+    ],
+    "Componentes": {
+      "MOR0014 - ANATOMIA HUMANA": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.61
+      },
+      "MOR0089 - MODULO BIOLOGICO II": {
+        "Notas": [
+          9.11,
+          9.41,
+          9.46,
+          9.48,
+          9.57,
+          9.64,
+          9.75,
+          9.78
+        ],
+        "Desvios": [
+          1.26,
+          1.35,
+          2.09,
+          2.08,
+          1.82,
+          1.51,
+          1,
+          1.32
+        ],
+        "DesvioDeNotas": 0.20081085628023204,
+        "MediaDeNotas": 9.525000000000002,
+        "MediaDeDesvios": 1.55375,
+        "NotaMediana": 9.57
+      },
+      "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA": {
+        "Notas": [
+          8.59,
+          9.04,
+          9.11,
+          9.5
+        ],
+        "Desvios": [
+          2.23,
+          1.94,
+          1.88,
+          1.4
+        ],
+        "DesvioDeNotas": 0.32303250610426193,
+        "MediaDeNotas": 9.059999999999999,
+        "MediaDeDesvios": 1.8624999999999998,
+        "NotaMediana": 9.11
+      },
+      "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA": {
+        "Notas": [
+          9.27,
+          9.31,
+          9.52,
+          9.56
+        ],
+        "Desvios": [
+          1.33,
+          1.13,
+          0.78,
+          1.06
+        ],
+        "DesvioDeNotas": 0.1265898890117217,
+        "MediaDeNotas": 9.415,
+        "MediaDeDesvios": 1.0750000000000002,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.29064062399867496,
+    "MediaDeNotas": 9.394705882352941,
+    "MediaDeDesvios": 1.5258823529411762,
+    "NotaMediana": 9.48
+  },
+  "GEORGE DANTAS DE AZEVEDO": {
+    "Notas": [
+      10,
+      10,
+      10,
+      10,
+      9.57,
+      9.58,
+      9.66,
+      9.72,
+      9.82,
+      9.84,
+      9.84,
+      9.86,
+      9.86,
+      9.86,
+      9.87,
+      9.87,
+      9.88,
+      9.89,
+      9.91,
+      9.95,
+      9.95,
+      9.96,
+      9.96,
+      9.97,
+      9.97,
+      9.97,
+      9.97,
+      9.99,
+      9.99,
+      9.99,
+      9.99
+    ],
+    "Desvios": [
+      0.28,
+      0.2,
+      0.13,
+      1.35,
+      0.14,
+      0.5,
+      0.57,
+      0.15,
+      0.2,
+      0.24,
+      0.71,
+      0.74,
+      0.13,
+      0.25,
+      0.51,
+      0.4,
+      0.63,
+      0.61,
+      1.2,
+      0.6,
+      0.49,
+      0.7,
+      0.21,
+      0.86,
+      0.8,
+      0.6,
+      1.03,
+      0.21,
+      0.39,
+      0,
+      0.19
+    ],
+    "Componentes": {
+      "MDM0018 - ATUALIDADES EM EDUCAÇÃO MÉDICA": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          0.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 0.28,
+        "NotaMediana": 10
+      },
+      "MDM0036 - PLANTÕES EM ATENÇÃO MATERNO-INFANTIL 1": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          0.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 0.2,
+        "NotaMediana": 9.95
+      },
+      "MDM0016 - PRINCÍPIOS DE ANATOMIA CLÍNICA E TÉCNICA OPERATÓRIA": {
+        "Notas": [
+          10,
+          9.66,
+          9.84
+        ],
+        "Desvios": [
+          0.13,
+          1.35,
+          0.63
+        ],
+        "DesvioDeNotas": 0.138884444373331,
+        "MediaDeNotas": 9.833333333333334,
+        "MediaDeDesvios": 0.7033333333333333,
+        "NotaMediana": 9.66
+      },
+      "MDM3008 - PROLIFERAÇÃO CELULAR - EIXO TUTORIAL": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          0.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 0.14,
+        "NotaMediana": 9.97
+      },
+      "MDM0025 - ACOMPANHAMENTO DA EVOLUÇÃO ACADÊMICA 2": {
+        "Notas": [
+          9.96
+        ],
+        "Desvios": [
+          0.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.96,
+        "MediaDeDesvios": 0.5,
+        "NotaMediana": 9.96
+      },
+      "MDM0015 - BASES DA FISIOPATOLOGIA E RACIOCÍNIO CLÍNICO": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          0.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 0.57,
+        "NotaMediana": 9.72
+      },
+      "MDM8008 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO HABILIDADES E COMUNIDADE": {
+        "Notas": [
+          10,
+          9.58,
+          9.87,
+          9.99,
+          9.99
+        ],
+        "Desvios": [
+          0.15,
+          0.2,
+          0.24,
+          0.71,
+          0.74
+        ],
+        "DesvioDeNotas": 0.1603246705906487,
+        "MediaDeNotas": 9.886,
+        "MediaDeDesvios": 0.40800000000000003,
+        "NotaMediana": 9.87
+      },
+      "MDM8007 - DISTÚRBIOS SENSORIAIS, MOTORES E DA CONSCIÊNCIA - EIXO TUTORIAL": {
+        "Notas": [
+          9.86,
+          9.91,
+          9.99,
+          9.99
+        ],
+        "Desvios": [
+          0.13,
+          0.25,
+          0.51,
+          0.4
+        ],
+        "DesvioDeNotas": 0.05539629951540113,
+        "MediaDeNotas": 9.9375,
+        "MediaDeDesvios": 0.3225,
+        "NotaMediana": 9.99
+      },
+      "MDM0062 - PRÁTICAS AMBULATORIAIS E HOSPITALARES - VIII NÍVEL": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          0.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 0.61,
+        "NotaMediana": 9.86
+      },
+      "MDM6008 - SAÚDE DA CRIANÇA - EIXO TUTORIAL": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.97
+      },
+      "MDM0052 - ATENÇÃO À SAÚDE DA POPULAÇÃO LGBT": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          0.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 0.6,
+        "NotaMediana": 9.86
+      },
+      "MDM0012 - INTEGRAÇÃO ALUNO-UNIVERSIDADE E VIVÊNCIA INTEGRADA NA COMUNIDADE 1": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          0.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 0.49,
+        "NotaMediana": 9.88
+      },
+      "MDM5005 - SAUDE SEXUAL E REPRODUTIVA - EIXO HABILIDADES E COMUNIDADE": {
+        "Notas": [
+          9.57,
+          9.84,
+          9.89,
+          9.95,
+          9.96
+        ],
+        "Desvios": [
+          0.7,
+          0.21,
+          0.86,
+          0.8,
+          0.6
+        ],
+        "DesvioDeNotas": 0.1427445270404438,
+        "MediaDeNotas": 9.842000000000002,
+        "MediaDeDesvios": 0.6340000000000001,
+        "NotaMediana": 9.89
+      },
+      "MDM5004 - SAUDE SEXUAL E REPRODUTIVA - EIXO TUTORIAL": {
+        "Notas": [
+          10,
+          9.82,
+          9.87,
+          9.97
+        ],
+        "Desvios": [
+          1.03,
+          0.21,
+          0.39,
+          0
+        ],
+        "DesvioDeNotas": 0.07297259759663227,
+        "MediaDeNotas": 9.915,
+        "MediaDeDesvios": 0.4075,
+        "NotaMediana": 9.87
+      },
+      "MDM7700 - VIVÊNCIA INTEGRADA NA COMUNIDADE 7": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          0.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 0.19,
+        "NotaMediana": 9.97
+      }
+    },
+    "DesvioDeNotas": 0.11707144487446461,
+    "MediaDeNotas": 9.893225806451612,
+    "MediaDeDesvios": 0.48451612903225805,
+    "NotaMediana": 9.87
+  },
+  "GUSTAVO DA CUNHA LIMA FREIRE": {
+    "Notas": [
+      9.18,
+      9.36,
+      9.53,
+      9.6,
+      9.61,
+      9.62,
+      9.63,
+      9.65,
+      9.66,
+      9.66,
+      9.68,
+      9.69,
+      9.7,
+      9.7,
+      9.71,
+      9.71,
+      9.73,
+      9.74,
+      9.74,
+      9.77,
+      9.77,
+      9.78,
+      9.78,
+      9.79,
+      9.8,
+      9.83,
+      9.88,
+      9.88,
+      9.91,
+      9.92,
+      9.96
+    ],
+    "Desvios": [
+      2.05,
+      1.62,
+      1.73,
+      1.48,
+      1.4,
+      1.64,
+      1.28,
+      1.17,
+      1.17,
+      1.22,
+      1.6,
+      2.38,
+      1.79,
+      1.36,
+      1.41,
+      1.74,
+      1.31,
+      1.66,
+      1.78,
+      1.4,
+      2.09,
+      1.46,
+      1.19,
+      1.77,
+      1.4,
+      1,
+      0.65,
+      0.87,
+      1.24,
+      0.74,
+      0.73
+    ],
+    "Componentes": {
+      "MOR0076 - FUNDAMENTOS DE BIOÉTICA E TANATOLOGIA PARA ESTUDANTES DA ÁREA DA SAÚDE": {
+        "Notas": [
+          9.53,
+          9.77,
+          9.88
+        ],
+        "Desvios": [
+          2.05,
+          1.17,
+          1.19
+        ],
+        "DesvioDeNotas": 0.14613540144522033,
+        "MediaDeNotas": 9.726666666666667,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.77
+      },
+      "MOR0045 - HISTOLOGIA": {
+        "Notas": [
+          9.36,
+          9.6,
+          9.61,
+          9.63,
+          9.7,
+          9.73,
+          9.83,
+          9.92
+        ],
+        "Desvios": [
+          1.62,
+          1.73,
+          1.17,
+          1.22,
+          1.31,
+          1.66,
+          1.77,
+          1.4
+        ],
+        "DesvioDeNotas": 0.15761900266148132,
+        "MediaDeNotas": 9.6725,
+        "MediaDeDesvios": 1.4849999999999999,
+        "NotaMediana": 9.7
+      },
+      "MOR0058 - HISTOLOGIA PARA ENFERMAGEM": {
+        "Notas": [
+          9.62,
+          9.65,
+          9.71,
+          9.71,
+          9.77,
+          9.78,
+          9.79,
+          9.8
+        ],
+        "Desvios": [
+          1.48,
+          1.4,
+          1.79,
+          1.36,
+          1.78,
+          1.4,
+          0.87,
+          1.24
+        ],
+        "DesvioDeNotas": 0.0631342814958719,
+        "MediaDeNotas": 9.728750000000002,
+        "MediaDeDesvios": 1.415,
+        "NotaMediana": 9.77
+      },
+      "DFS0108 - MODULO BIOLOGICO I": {
+        "Notas": [
+          9.66,
+          9.68,
+          9.7,
+          9.74,
+          9.74,
+          9.88,
+          9.91,
+          9.96
+        ],
+        "Desvios": [
+          1.64,
+          1.28,
+          1.41,
+          1.74,
+          2.09,
+          1.46,
+          0.74,
+          0.73
+        ],
+        "DesvioDeNotas": 0.10792792734042507,
+        "MediaDeNotas": 9.783750000000001,
+        "MediaDeDesvios": 1.3862500000000002,
+        "NotaMediana": 9.74
+      },
+      "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          9.18,
+          9.66,
+          9.69,
+          9.78
+        ],
+        "Desvios": [
+          1.6,
+          2.38,
+          1,
+          0.65
+        ],
+        "DesvioDeNotas": 0.23370654676324318,
+        "MediaDeNotas": 9.577499999999999,
+        "MediaDeDesvios": 1.4075000000000002,
+        "NotaMediana": 9.69
+      }
+    },
+    "DesvioDeNotas": 0.15397406433225297,
+    "MediaDeNotas": 9.708709677419355,
+    "MediaDeDesvios": 1.43,
+    "NotaMediana": 9.71
+  },
+  "JONAS BISPO PESSOA": {
+    "Notas": [
+      9.05,
+      9.1,
+      9.22,
+      9.4,
+      9.41,
+      9.53,
+      9.56,
+      9.7,
+      9.71,
+      9.76,
+      9.77,
+      9.79,
+      9.81,
+      9.82,
+      9.83,
+      9.83,
+      9.84,
+      9.86,
+      9.86,
+      9.91,
+      9.93,
+      9.95,
+      9.97,
+      9.97
+    ],
+    "Desvios": [
+      1.26,
+      1.57,
+      1.69,
+      1.67,
+      2.04,
+      1.43,
+      1.57,
+      2.01,
+      1.31,
+      1.06,
+      1.27,
+      1.33,
+      1.6,
+      1.29,
+      2.22,
+      1.23,
+      1.26,
+      1.3,
+      1.31,
+      1.6,
+      0.91,
+      1.09,
+      1.14,
+      1.12
+    ],
+    "Componentes": {
+      "MOR0070 - BLOCO MORFOLOGICO": {
+        "Notas": [
+          9.76,
+          9.77
+        ],
+        "Desvios": [
+          1.26,
+          1.3
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.765,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.77
+      },
+      "MOR0045 - HISTOLOGIA": {
+        "Notas": [
+          9.05,
+          9.22,
+          9.7,
+          9.71,
+          9.79,
+          9.84,
+          9.86,
+          9.93
+        ],
+        "Desvios": [
+          1.57,
+          1.69,
+          1.67,
+          2.04,
+          1.06,
+          1.27,
+          1.31,
+          1.6
+        ],
+        "DesvioDeNotas": 0.3016517031279614,
+        "MediaDeNotas": 9.637500000000001,
+        "MediaDeDesvios": 1.5262499999999999,
+        "NotaMediana": 9.79
+      },
+      "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO": {
+        "Notas": [
+          9.1,
+          9.4,
+          9.83,
+          9.83,
+          9.97,
+          9.97
+        ],
+        "Desvios": [
+          1.43,
+          1.57,
+          1.33,
+          1.6,
+          0.91,
+          1.09
+        ],
+        "DesvioDeNotas": 0.32350510900997487,
+        "MediaDeNotas": 9.683333333333332,
+        "MediaDeDesvios": 1.3216666666666665,
+        "NotaMediana": 9.83
+      },
+      "MOR0025 - HISTOLOGIA V": {
+        "Notas": [
+          9.41,
+          9.56
+        ],
+        "Desvios": [
+          2.01,
+          1.31
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.485,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.56
+      },
+      "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          9.53,
+          9.81,
+          9.82,
+          9.86
+        ],
+        "Desvios": [
+          1.29,
+          2.22,
+          1.23,
+          1.26
+        ],
+        "DesvioDeNotas": 0.13124404748406712,
+        "MediaDeNotas": 9.754999999999999,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.82
+      },
+      "MOR0038 - HISTOLOGIA APLICADA A FONOAUDIOLOGIA": {
+        "Notas": [
+          9.91,
+          9.95
+        ],
+        "Desvios": [
+          1.14,
+          1.12
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.95
+      }
+    },
+    "DesvioDeNotas": 0.2650930130266648,
+    "MediaDeNotas": 9.690833333333332,
+    "MediaDeDesvios": 1.4283333333333335,
+    "NotaMediana": 9.81
+  },
+  "JUAREZ E SILVA CHAGAS": {
+    "Notas": [
+      8.03,
+      8.34,
+      9.11,
+      9.14,
+      9.14,
+      9.18,
+      9.32,
+      9.46,
+      9.5,
+      9.5,
+      9.53,
+      9.65
+    ],
+    "Desvios": [
+      1.69,
+      1.83,
+      2.05,
+      1.53,
+      1.46,
+      1.95,
+      1.42,
+      2.21,
+      2.24,
+      1.65,
+      1.32,
+      1.33
+    ],
+    "Componentes": {
+      "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I": {
+        "Notas": [
+          8.03,
+          9.11,
+          9.14,
+          9.32,
+          9.5
+        ],
+        "Desvios": [
+          1.69,
+          1.53,
+          1.46,
+          2.21,
+          1.65
+        ],
+        "DesvioDeNotas": 0.5143928459844678,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 1.7079999999999997,
+        "NotaMediana": 9.14
+      },
+      "MOR0066 - ANATOMIA GERAL E COMPARATIVA DOS VERTEBRADOS": {
+        "Notas": [
+          8.34,
+          9.14,
+          9.18,
+          9.5
+        ],
+        "Desvios": [
+          1.83,
+          1.95,
+          2.24,
+          1.32
+        ],
+        "DesvioDeNotas": 0.42755116652863906,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 1.8350000000000002,
+        "NotaMediana": 9.18
+      },
+      "MOR0076 - FUNDAMENTOS DE BIOÉTICA E TANATOLOGIA PARA ESTUDANTES DA ÁREA DA SAÚDE": {
+        "Notas": [
+          9.46,
+          9.53,
+          9.65
+        ],
+        "Desvios": [
+          2.05,
+          1.42,
+          1.33
+        ],
+        "DesvioDeNotas": 0.07845734863959869,
+        "MediaDeNotas": 9.546666666666667,
+        "MediaDeDesvios": 1.5999999999999999,
+        "NotaMediana": 9.53
+      }
+    },
+    "DesvioDeNotas": 0.47229639940284224,
+    "MediaDeNotas": 9.158333333333333,
+    "MediaDeDesvios": 1.7233333333333334,
+    "NotaMediana": 9.32
+  },
+  "JUDNEY CLEY CAVALCANTE": {
+    "Notas": [
+      9.13,
+      9.16,
+      9.2,
+      9.23,
+      9.31,
+      9.46,
+      9.55,
+      9.68,
+      9.75,
+      9.79,
+      9.79,
+      9.81,
+      9.89
+    ],
+    "Desvios": [
+      2.18,
+      1.55,
+      1.28,
+      1.47,
+      2.26,
+      1.57,
+      1.99,
+      1.85,
+      2.12,
+      1.6,
+      1.45,
+      1.22,
+      0.94
+    ],
+    "Componentes": {
+      "MOR0014 - ANATOMIA HUMANA": {
+        "Notas": [
+          9.13,
+          9.2,
+          9.79
+        ],
+        "Desvios": [
+          2.18,
+          2.12,
+          1.6
+        ],
+        "DesvioDeNotas": 0.2960105103239105,
+        "MediaDeNotas": 9.373333333333333,
+        "MediaDeDesvios": 1.9666666666666668,
+        "NotaMediana": 9.2
+      },
+      "MOR0067 - ANATOMIA HUMANA": {
+        "Notas": [
+          9.16,
+          9.46
+        ],
+        "Desvios": [
+          1.55,
+          2.26
+        ],
+        "DesvioDeNotas": 0.15000000000000036,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.9049999999999998,
+        "NotaMediana": 9.46
+      },
+      "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.23,
+          9.31,
+          9.75,
+          9.89
+        ],
+        "Desvios": [
+          1.28,
+          1.57,
+          1.99,
+          0.94
+        ],
+        "DesvioDeNotas": 0.2808469333996723,
+        "MediaDeNotas": 9.545000000000002,
+        "MediaDeDesvios": 1.4449999999999998,
+        "NotaMediana": 9.75
+      },
+      "MOR0004 - ANATOMIA IV": {
+        "Notas": [
+          9.55,
+          9.68,
+          9.79
+        ],
+        "Desvios": [
+          1.47,
+          1.85,
+          1.45
+        ],
+        "DesvioDeNotas": 0.09809292646374711,
+        "MediaDeNotas": 9.673333333333334,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.68
+      },
+      "MOR0037 - ANATOMIA DA CABECA E DO PESCOCO APLICADA A FONOAUDIOLOGIA": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.81
+      }
+    },
+    "DesvioDeNotas": 0.2720424610087842,
+    "MediaDeNotas": 9.519230769230768,
+    "MediaDeDesvios": 1.6523076923076923,
+    "NotaMediana": 9.55
+  },
+  "JULLIANE TAMARA ARAUJO DE MELO CAMPOS": {
+    "Notas": [
+      8.27,
+      8.38,
+      8.43,
+      9.22,
+      9.26,
+      9.35,
+      9.36,
+      9.43,
+      9.44,
+      9.5,
+      9.5,
+      9.51,
+      9.54,
+      9.56,
+      9.57,
+      9.59,
+      9.59,
+      9.59,
+      9.59,
+      9.59,
+      9.59,
+      9.6,
+      9.6,
+      9.62,
+      9.64,
+      9.65,
+      9.65,
+      9.68,
+      9.72,
+      9.74,
+      9.74,
+      9.79,
+      9.8,
+      9.82,
+      9.88
+    ],
+    "Desvios": [
+      1.33,
+      1.9,
+      2.46,
+      1.9,
+      1.69,
+      1.99,
+      2.33,
+      2.63,
+      1.31,
+      1.38,
+      1.4,
+      1.38,
+      0.77,
+      1.46,
+      1.25,
+      1.76,
+      1.53,
+      1.69,
+      1.25,
+      1.11,
+      1.31,
+      1.72,
+      1.7,
+      1.83,
+      2.09,
+      1.17,
+      1.11,
+      1.17,
+      1.31,
+      1.2,
+      1.02,
+      1.11,
+      1.2,
+      1.2,
+      1.31
+    ],
+    "Componentes": {
+      "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.88
+      },
+      "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.65
+      },
+      "CST2184.0 - MORFOLOGIA E FISIOLOGIA HUMANA GERAL - TEÓRICA": {
+        "Notas": [
+          8.43,
+          9.59
+        ],
+        "Desvios": [
+          2.46,
+          1.69
+        ],
+        "DesvioDeNotas": 0.5800000000000001,
+        "MediaDeNotas": 9.01,
+        "MediaDeDesvios": 2.075,
+        "NotaMediana": 9.59
+      },
+      "CST3169.0 - MORFOLOGIA E FISIOLOGIA HUMANA III - TEÓRICA": {
+        "Notas": [
+          9.35,
+          9.65
+        ],
+        "Desvios": [
+          1.9,
+          1.72
+        ],
+        "DesvioDeNotas": 0.15000000000000036,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.65
+      },
+      "CST3169.1 - MORFOLOGIA E FISIOLOGIA HUMANA III-PRÁTICA": {
+        "Notas": [
+          9.43,
+          9.5,
+          9.59,
+          9.72
+        ],
+        "Desvios": [
+          1.69,
+          1.99,
+          1.7,
+          1.83
+        ],
+        "DesvioDeNotas": 0.1083974169433943,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.8025,
+        "NotaMediana": 9.59
+      },
+      "CST2184.1 - MORFOLOGIA HUMANA GERAL - PRÁTICA": {
+        "Notas": [
+          8.27,
+          8.38,
+          9.54,
+          9.59
+        ],
+        "Desvios": [
+          2.33,
+          2.63,
+          2.09,
+          1.17
+        ],
+        "DesvioDeNotas": 0.6214700314576718,
+        "MediaDeNotas": 8.945,
+        "MediaDeDesvios": 2.0549999999999997,
+        "NotaMediana": 9.54
+      },
+      "CST1131.0 - MORFOLGIA E FISIOLOGIA HUMANA I - TEÓRICA": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.74
+      },
+      "CST2190.1 - MORFOLOGIA E FISIOLOGIA DO APARELHO LOCOMOTOR - PRÁTICA": {
+        "Notas": [
+          9.22,
+          9.51,
+          9.68,
+          9.79
+        ],
+        "Desvios": [
+          1.38,
+          1.4,
+          1.11,
+          1.17
+        ],
+        "DesvioDeNotas": 0.21505813167606516,
+        "MediaDeNotas": 9.549999999999999,
+        "MediaDeDesvios": 1.265,
+        "NotaMediana": 9.68
+      },
+      "CST2190.0 - MORFOLOGIA E FISIOLOGIA DO APARELHO LOCOMOTOR - TEÓRICA": {
+        "Notas": [
+          9.36,
+          9.6
+        ],
+        "Desvios": [
+          1.38,
+          1.31
+        ],
+        "DesvioDeNotas": 0.1200000000000001,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.345,
+        "NotaMediana": 9.6
+      },
+      "CST1131.1 - MORFOLOGIA E FISIOLOGIA HUMANA I - PRÁTICA": {
+        "Notas": [
+          9.59,
+          9.82
+        ],
+        "Desvios": [
+          0.77,
+          1.46
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.705,
+        "MediaDeDesvios": 1.115,
+        "NotaMediana": 9.82
+      },
+      "CST3130.1 - MORFOLOGIA E FISIOLOGIA HUMANA IV - PRÁTICA": {
+        "Notas": [
+          9.26,
+          9.59,
+          9.74,
+          9.8
+        ],
+        "Desvios": [
+          1.25,
+          1.76,
+          1.2,
+          1.2
+        ],
+        "DesvioDeNotas": 0.20932928605429324,
+        "MediaDeNotas": 9.5975,
+        "MediaDeDesvios": 1.3525,
+        "NotaMediana": 9.74
+      },
+      "CST3130.0 - MORFOLOGIA E FISIOLOGIA HUMANA IV - TEORIA": {
+        "Notas": [
+          9.57,
+          9.59
+        ],
+        "Desvios": [
+          1.53,
+          1.31
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.59
+      },
+      "CST1140.1 - MORFOLOGIA E FISIOLOGIA HUMANA II - PRÁTICA- 45H": {
+        "Notas": [
+          9.44,
+          9.62
+        ],
+        "Desvios": [
+          1.25,
+          1.11
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.1800000000000002,
+        "NotaMediana": 9.62
+      },
+      "CST1140.0 - MORFOLOGIA E FISIOLOGIA HUMANA II - TEORIA - 75H": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.56
+      },
+      "CST1139.1 - MORFOLOGIA E FISIOLOGIA HUMANA I - PRÁTICA - 45H": {
+        "Notas": [
+          9.5,
+          9.64
+        ],
+        "Desvios": [
+          1.2,
+          1.02
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.1099999999999999,
+        "NotaMediana": 9.64
+      },
+      "CST1139.0 - MORFOLOGIA E FISIOLOGIA HUMANA I - TEORIA - 75H": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.11,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.37260078762500703,
+    "MediaDeNotas": 9.479714285714286,
+    "MediaDeDesvios": 1.513428571428572,
+    "NotaMediana": 9.59
+  },
+  "KARINA CARLA DE PAULA MEDEIROS": {
+    "Notas": [
+      7.69,
+      7.86,
+      8.64,
+      8.84,
+      8.86,
+      8.96,
+      8.96,
+      8.99,
+      9.05,
+      9.19,
+      9.24,
+      9.34,
+      9.34,
+      9.36,
+      9.45,
+      9.54,
+      9.56,
+      9.57,
+      9.59
+    ],
+    "Desvios": [
+      2.19,
+      2.17,
+      1.98,
+      1.87,
+      2.49,
+      1.7,
+      2.4,
+      2.69,
+      2.15,
+      1.43,
+      1.77,
+      1.79,
+      1.74,
+      1.66,
+      1.35,
+      1.71,
+      1.2,
+      1.54,
+      2.11
+    ],
+    "Componentes": {
+      "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          8.96
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 8.96
+      },
+      "MOR0045 - HISTOLOGIA": {
+        "Notas": [
+          8.64,
+          8.86,
+          8.96,
+          9.05,
+          9.24,
+          9.34,
+          9.34,
+          9.36,
+          9.54,
+          9.57
+        ],
+        "Desvios": [
+          2.17,
+          1.98,
+          1.87,
+          2.49,
+          2.69,
+          2.15,
+          1.79,
+          1.74,
+          1.35,
+          1.71
+        ],
+        "DesvioDeNotas": 0.2876108481959605,
+        "MediaDeNotas": 9.19,
+        "MediaDeDesvios": 1.9940000000000002,
+        "NotaMediana": 9.34
+      },
+      "MOR0098 - HISTOLOGIA APLICADA À FONOAUDIOLOGIA": {
+        "Notas": [
+          9.56,
+          9.59
+        ],
+        "Desvios": [
+          1.7,
+          2.4
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.575,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 9.59
+      },
+      "MOR0083 - PATOLOGIA BÁSICA E DIAGNÓSTICO DE DOENÇAS I": {
+        "Notas": [
+          7.86,
+          8.84,
+          8.99,
+          9.45
+        ],
+        "Desvios": [
+          1.43,
+          1.77,
+          1.66,
+          2.11
+        ],
+        "DesvioDeNotas": 0.5794178112554011,
+        "MediaDeNotas": 8.785,
+        "MediaDeDesvios": 1.7425000000000002,
+        "NotaMediana": 8.99
+      },
+      "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          7.69,
+          9.19
+        ],
+        "Desvios": [
+          1.2,
+          1.54
+        ],
+        "DesvioDeNotas": 0.7499999999999996,
+        "MediaDeNotas": 8.44,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.19
+      }
+    },
+    "DesvioDeNotas": 0.5168560401165744,
+    "MediaDeNotas": 9.05421052631579,
+    "MediaDeDesvios": 1.891578947368421,
+    "NotaMediana": 9.19
+  },
+  "KARINNA VERISSIMO MEIRA TAVEIRA": {
+    "Notas": [
+      9.28,
+      9.51,
+      9.73,
+      9.74,
+      9.74,
+      9.74,
+      9.95
+    ],
+    "Desvios": [
+      1.49,
+      1.54,
+      1.37,
+      1.11,
+      1.31,
+      1.68,
+      1.88
+    ],
+    "Componentes": {
+      "MOR0096 - FUNDAMENTOS DE ANATOMIA E NEUROANATOMIA": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.74
+      },
+      "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA": {
+        "Notas": [
+          9.28,
+          9.73,
+          9.74
+        ],
+        "Desvios": [
+          1.54,
+          1.31,
+          1.88
+        ],
+        "DesvioDeNotas": 0.2145279054627216,
+        "MediaDeNotas": 9.583333333333334,
+        "MediaDeDesvios": 1.5766666666666669,
+        "NotaMediana": 9.73
+      },
+      "MOR0037 - ANATOMIA DA CABECA E DO PESCOCO APLICADA A FONOAUDIOLOGIA": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.74
+      },
+      "MOR0091 - ANATOMIA PALPATÓRIA": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          1.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 1.11,
+        "NotaMediana": 9.95
+      },
+      "MOR0029 - ANATOMIA DOS SISTEMAS ORGANICOS": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.51
+      }
+    },
+    "DesvioDeNotas": 0.1979898987322334,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.4828571428571427,
+    "NotaMediana": 9.74
+  },
+  "MARIA NAZARE DE ARRUDA CARDOZO": {
+    "Notas": [
+      7.44,
+      7.74,
+      7.78,
+      8.12,
+      8.48,
+      8.71,
+      8.71,
+      8.81,
+      8.82,
+      8.91,
+      9.02,
+      9.08,
+      9.09,
+      9.12,
+      9.18,
+      9.23,
+      9.27,
+      9.32,
+      9.34,
+      9.38,
+      9.41,
+      9.43,
+      9.47,
+      9.47,
+      9.49,
+      9.51,
+      9.62,
+      9.89
+    ],
+    "Desvios": [
+      1.64,
+      1.75,
+      2.07,
+      1.78,
+      2.09,
+      1.58,
+      2.06,
+      1.99,
+      2.7,
+      2.04,
+      1.42,
+      1.66,
+      2.64,
+      1.56,
+      1.35,
+      1.93,
+      1.91,
+      2.24,
+      1.7,
+      1.32,
+      1.29,
+      2.2,
+      2.53,
+      2.29,
+      2.38,
+      1.42,
+      0.77,
+      1.54
+    ],
+    "Componentes": {
+      "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO": {
+        "Notas": [
+          9.08,
+          9.18,
+          9.27,
+          9.34,
+          9.38,
+          9.49,
+          9.51,
+          9.62
+        ],
+        "Desvios": [
+          1.64,
+          1.75,
+          2.06,
+          1.99,
+          1.56,
+          1.35,
+          1.32,
+          1.29
+        ],
+        "DesvioDeNotas": 0.16833281765597571,
+        "MediaDeNotas": 9.358749999999999,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.38
+      },
+      "MOR0023 - HISTOLOGIA III": {
+        "Notas": [
+          7.44,
+          7.74,
+          7.78,
+          8.71,
+          8.82,
+          9.02,
+          9.09,
+          9.43
+        ],
+        "Desvios": [
+          2.07,
+          1.78,
+          2.7,
+          2.04,
+          1.93,
+          1.91,
+          2.29,
+          2.38
+        ],
+        "DesvioDeNotas": 0.6936666616610602,
+        "MediaDeNotas": 8.50375,
+        "MediaDeDesvios": 2.1374999999999997,
+        "NotaMediana": 8.82
+      },
+      "MOR0025 - HISTOLOGIA V": {
+        "Notas": [
+          8.81,
+          8.91,
+          9.23,
+          9.32,
+          9.41,
+          9.47,
+          9.47,
+          9.89
+        ],
+        "Desvios": [
+          2.09,
+          1.58,
+          1.42,
+          1.66,
+          2.24,
+          1.7,
+          1.42,
+          0.77
+        ],
+        "DesvioDeNotas": 0.31898030895338986,
+        "MediaDeNotas": 9.31375,
+        "MediaDeDesvios": 1.6099999999999999,
+        "NotaMediana": 9.41
+      },
+      "MOR0035 - HISTOLOGIA VII": {
+        "Notas": [
+          8.71,
+          9.12
+        ],
+        "Desvios": [
+          2.64,
+          1.54
+        ],
+        "DesvioDeNotas": 0.20499999999999918,
+        "MediaDeNotas": 8.915,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 9.12
+      },
+      "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          8.12,
+          8.48
+        ],
+        "Desvios": [
+          2.2,
+          2.53
+        ],
+        "DesvioDeNotas": 0.1800000000000006,
+        "MediaDeNotas": 8.3,
+        "MediaDeDesvios": 2.365,
+        "NotaMediana": 8.48
+      }
+    },
+    "DesvioDeNotas": 0.5922018753976467,
+    "MediaDeNotas": 8.994285714285715,
+    "MediaDeDesvios": 1.8517857142857146,
+    "NotaMediana": 9.18
+  },
+  "MIRIAM STELA MARIS DE OLIVEIRA COSTA": {
+    "Notas": [
+      8.58,
+      8.8,
+      8.84,
+      8.91,
+      8.97,
+      9.02,
+      9.06,
+      9.13,
+      9.18,
+      9.3,
+      9.31,
+      9.39,
+      9.66,
+      9.78
+    ],
+    "Desvios": [
+      1.95,
+      2.24,
+      1.82,
+      2.5,
+      2.07,
+      1.96,
+      2.04,
+      1.86,
+      2.71,
+      2.25,
+      2.47,
+      1.23,
+      0.97,
+      1.22
+    ],
+    "Componentes": {
+      "MOR0004 - ANATOMIA IV": {
+        "Notas": [
+          8.97,
+          9.18,
+          9.31,
+          9.66
+        ],
+        "Desvios": [
+          1.95,
+          2.07,
+          1.86,
+          1.23
+        ],
+        "DesvioDeNotas": 0.2506990227344334,
+        "MediaDeNotas": 9.280000000000001,
+        "MediaDeDesvios": 1.7774999999999999,
+        "NotaMediana": 9.31
+      },
+      "DFS0108 - MODULO BIOLOGICO I": {
+        "Notas": [
+          8.58,
+          8.8,
+          8.84,
+          8.91,
+          9.02,
+          9.06,
+          9.39,
+          9.78
+        ],
+        "Desvios": [
+          2.24,
+          1.82,
+          1.96,
+          2.04,
+          2.71,
+          2.25,
+          0.97,
+          1.22
+        ],
+        "DesvioDeNotas": 0.35294298406399843,
+        "MediaDeNotas": 9.0475,
+        "MediaDeDesvios": 1.90125,
+        "NotaMediana": 9.02
+      },
+      "DFS0003 - NEUROANATOMIA FUNCIONAL": {
+        "Notas": [
+          9.13,
+          9.3
+        ],
+        "Desvios": [
+          2.5,
+          2.47
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.215,
+        "MediaDeDesvios": 2.4850000000000003,
+        "NotaMediana": 9.3
+      }
+    },
+    "DesvioDeNotas": 0.31852738324601065,
+    "MediaDeNotas": 9.137857142857142,
+    "MediaDeDesvios": 1.9492857142857143,
+    "NotaMediana": 9.13
+  },
+  "NAIANNE KELLY CLEBIS": {
+    "Notas": [
+      9.28,
+      9.39,
+      9.57,
+      9.63,
+      9.64,
+      9.68,
+      9.71,
+      9.72,
+      9.75,
+      9.81,
+      9.84,
+      9.84
+    ],
+    "Desvios": [
+      1.47,
+      1.91,
+      1.78,
+      1.61,
+      1.28,
+      1.45,
+      1,
+      1.83,
+      1.52,
+      0.9,
+      1.26,
+      1.54
+    ],
+    "Componentes": {
+      "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA": {
+        "Notas": [
+          9.63,
+          9.64,
+          9.68,
+          9.71,
+          9.72,
+          9.81
+        ],
+        "Desvios": [
+          1.47,
+          1.61,
+          1.83,
+          1.52,
+          1.26,
+          1.54
+        ],
+        "DesvioDeNotas": 0.059837743570054135,
+        "MediaDeNotas": 9.698333333333334,
+        "MediaDeDesvios": 1.5383333333333333,
+        "NotaMediana": 9.71
+      },
+      "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA": {
+        "Notas": [
+          9.28,
+          9.39,
+          9.57,
+          9.75
+        ],
+        "Desvios": [
+          1.91,
+          1.78,
+          1.45,
+          1
+        ],
+        "DesvioDeNotas": 0.17879807045938736,
+        "MediaDeNotas": 9.4975,
+        "MediaDeDesvios": 1.535,
+        "NotaMediana": 9.57
+      },
+      "MOR0057 - ANATOMIA PARA ENFERMAGEM": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.84
+      },
+      "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          0.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 0.9,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.16540354691884135,
+    "MediaDeNotas": 9.655,
+    "MediaDeDesvios": 1.4625000000000001,
+    "NotaMediana": 9.71
+  },
+  "NAISANDRA BEZERRA DA SILVA FARIAS": {
+    "Notas": [
+      9.25,
+      9.4,
+      9.4,
+      9.43,
+      9.44,
+      9.49,
+      9.5,
+      9.52,
+      9.54,
+      9.56,
+      9.56,
+      9.65,
+      9.66,
+      9.67,
+      9.68,
+      9.69,
+      9.69,
+      9.7,
+      9.71,
+      9.72,
+      9.73,
+      9.75,
+      9.76,
+      9.81,
+      9.84,
+      9.84,
+      9.9,
+      9.92
+    ],
+    "Desvios": [
+      1.43,
+      1.46,
+      1.84,
+      1.25,
+      1.68,
+      1.33,
+      1.76,
+      2.13,
+      1.88,
+      1.41,
+      1.22,
+      1.43,
+      1.34,
+      1.87,
+      1.82,
+      1.45,
+      1.72,
+      1.42,
+      2.15,
+      1.46,
+      1.25,
+      0.76,
+      1.25,
+      1.31,
+      1.08,
+      1.2,
+      0.76,
+      0.68
+    ],
+    "Componentes": {
+      "MOR0058 - HISTOLOGIA PARA ENFERMAGEM": {
+        "Notas": [
+          9.4,
+          9.49,
+          9.54,
+          9.56,
+          9.56,
+          9.68,
+          9.71,
+          9.73
+        ],
+        "Desvios": [
+          1.43,
+          1.46,
+          1.88,
+          1.41,
+          1.82,
+          1.45,
+          1.25,
+          1.31
+        ],
+        "DesvioDeNotas": 0.1073472752332355,
+        "MediaDeNotas": 9.58375,
+        "MediaDeDesvios": 1.50125,
+        "NotaMediana": 9.56
+      },
+      "MOR0025 - HISTOLOGIA V": {
+        "Notas": [
+          9.25,
+          9.69,
+          9.7,
+          9.72,
+          9.75,
+          9.76,
+          9.84,
+          9.84
+        ],
+        "Desvios": [
+          1.84,
+          1.25,
+          1.22,
+          1.43,
+          1.72,
+          1.42,
+          1.08,
+          1.2
+        ],
+        "DesvioDeNotas": 0.1760637313588463,
+        "MediaDeNotas": 9.693750000000001,
+        "MediaDeDesvios": 1.3949999999999998,
+        "NotaMediana": 9.75
+      },
+      "DFS0108 - MODULO BIOLOGICO I": {
+        "Notas": [
+          9.52,
+          9.65,
+          9.66,
+          9.67,
+          9.69,
+          9.81,
+          9.9,
+          9.92
+        ],
+        "Desvios": [
+          1.68,
+          1.33,
+          1.34,
+          1.87,
+          2.15,
+          1.46,
+          0.76,
+          0.68
+        ],
+        "DesvioDeNotas": 0.12842799539041339,
+        "MediaDeNotas": 9.7275,
+        "MediaDeDesvios": 1.4087499999999997,
+        "NotaMediana": 9.69
+      },
+      "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          9.4,
+          9.43,
+          9.44,
+          9.5
+        ],
+        "Desvios": [
+          1.76,
+          2.13,
+          1.25,
+          0.76
+        ],
+        "DesvioDeNotas": 0.036314597615834804,
+        "MediaDeNotas": 9.442499999999999,
+        "MediaDeDesvios": 1.4749999999999999,
+        "NotaMediana": 9.44
+      }
+    },
+    "DesvioDeNotas": 0.16286145044428513,
+    "MediaDeNotas": 9.636071428571428,
+    "MediaDeDesvios": 1.4407142857142856,
+    "NotaMediana": 9.68
+  },
+  "PEDRO PAULO DE ANDRADE SANTOS": {
+    "Notas": [
+      9.4,
+      9.41,
+      9.6,
+      9.65,
+      9.68,
+      9.75,
+      9.83,
+      9.83,
+      9.84,
+      9.85,
+      9.86,
+      9.87,
+      9.88,
+      9.9,
+      9.9,
+      9.9,
+      9.9,
+      9.91,
+      9.95,
+      9.97,
+      9.99
+    ],
+    "Desvios": [
+      1.26,
+      1.31,
+      1.51,
+      2.1,
+      1.34,
+      1.2,
+      1.77,
+      1.76,
+      1.54,
+      1.12,
+      1.65,
+      1.7,
+      1.16,
+      1.07,
+      1.22,
+      1.15,
+      1.47,
+      1.81,
+      1.43,
+      0.7,
+      1.08
+    ],
+    "Componentes": {
+      "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO": {
+        "Notas": [
+          9.83,
+          9.9
+        ],
+        "Desvios": [
+          1.26,
+          1.31
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.865,
+        "MediaDeDesvios": 1.2850000000000001,
+        "NotaMediana": 9.9
+      },
+      "MOR0098 - HISTOLOGIA APLICADA À FONOAUDIOLOGIA": {
+        "Notas": [
+          9.87,
+          9.9
+        ],
+        "Desvios": [
+          1.51,
+          2.1
+        ],
+        "DesvioDeNotas": 0.015000000000000568,
+        "MediaDeNotas": 9.885,
+        "MediaDeDesvios": 1.8050000000000002,
+        "NotaMediana": 9.9
+      },
+      "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA": {
+        "Notas": [
+          9.75,
+          9.91,
+          9.95,
+          9.97
+        ],
+        "Desvios": [
+          1.34,
+          1.12,
+          1.22,
+          1.08
+        ],
+        "DesvioDeNotas": 0.08645808232895295,
+        "MediaDeNotas": 9.895,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.95
+      },
+      "MOR0045 - HISTOLOGIA": {
+        "Notas": [
+          9.41,
+          9.6,
+          9.65,
+          9.68,
+          9.83,
+          9.85,
+          9.86,
+          9.88
+        ],
+        "Desvios": [
+          1.2,
+          1.77,
+          1.65,
+          1.7,
+          1.15,
+          1.47,
+          1.81,
+          1.43
+        ],
+        "DesvioDeNotas": 0.15459624833740307,
+        "MediaDeNotas": 9.719999999999999,
+        "MediaDeDesvios": 1.5225,
+        "NotaMediana": 9.83
+      },
+      "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          9.4,
+          9.84
+        ],
+        "Desvios": [
+          1.76,
+          1.54
+        ],
+        "DesvioDeNotas": 0.21999999999999975,
+        "MediaDeNotas": 9.620000000000001,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.84
+      },
+      "MOR0038 - HISTOLOGIA APLICADA A FONOAUDIOLOGIA": {
+        "Notas": [
+          9.9,
+          9.9
+        ],
+        "Desvios": [
+          1.16,
+          1.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.115,
+        "NotaMediana": 9.9
+      },
+      "MOR0058 - HISTOLOGIA PARA ENFERMAGEM": {
+        "Notas": [
+          9.99
+        ],
+        "Desvios": [
+          0.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.99,
+        "MediaDeDesvios": 0.7,
+        "NotaMediana": 9.99
+      }
+    },
+    "DesvioDeNotas": 0.16207973738207151,
+    "MediaDeNotas": 9.803333333333335,
+    "MediaDeDesvios": 1.3976190476190473,
+    "NotaMediana": 9.86
+  },
+  "RENATA FIGUEIREDO ANOMAL": {
+    "Notas": [
+      9.48,
+      9.59,
+      9.64,
+      9.74,
+      9.74,
+      9.78,
+      9.79,
+      9.79,
+      9.81,
+      9.86,
+      9.87
+    ],
+    "Desvios": [
+      1.32,
+      1.59,
+      1.39,
+      1.19,
+      1.69,
+      1.19,
+      1.48,
+      0.76,
+      1.06,
+      1,
+      1.11
+    ],
+    "Componentes": {
+      "MOR0036 - ANATOMIA HUMANA APLICADA À DANÇA": {
+        "Notas": [
+          9.74,
+          9.78
+        ],
+        "Desvios": [
+          1.32,
+          1.19
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.255,
+        "NotaMediana": 9.78
+      },
+      "MOR0013 - ANATOMIA XIII": {
+        "Notas": [
+          9.48,
+          9.59,
+          9.64,
+          9.74
+        ],
+        "Desvios": [
+          1.59,
+          1.69,
+          1.48,
+          1.11
+        ],
+        "DesvioDeNotas": 0.09364160400164019,
+        "MediaDeNotas": 9.6125,
+        "MediaDeDesvios": 1.4675,
+        "NotaMediana": 9.64
+      },
+      "MOR0067 - ANATOMIA HUMANA": {
+        "Notas": [
+          9.79,
+          9.86
+        ],
+        "Desvios": [
+          1.39,
+          0.76
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.825,
+        "MediaDeDesvios": 1.075,
+        "NotaMediana": 9.86
+      },
+      "MOR0091 - ANATOMIA PALPATÓRIA": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.19,
+        "NotaMediana": 9.87
+      },
+      "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.06,
+        "NotaMediana": 9.81
+      },
+      "MOR0011 - ANATOMIA XI": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.11388699633357718,
+    "MediaDeNotas": 9.735454545454544,
+    "MediaDeDesvios": 1.2527272727272727,
+    "NotaMediana": 9.78
+  },
+  "RENATA SWANY SOARES DO NASCIMENTO": {
+    "Notas": [
+      8.84,
+      9.05,
+      9.09,
+      9.27,
+      9.34,
+      9.34,
+      9.36,
+      9.36,
+      9.37,
+      9.38,
+      9.39,
+      9.45,
+      9.48,
+      9.5,
+      9.51,
+      9.53,
+      9.57,
+      9.59,
+      9.64,
+      9.71,
+      9.74
+    ],
+    "Desvios": [
+      1.32,
+      1.54,
+      1.33,
+      1.54,
+      2.11,
+      1.94,
+      1.48,
+      1.69,
+      1.63,
+      1.42,
+      2.24,
+      1.94,
+      1.66,
+      1.61,
+      2.16,
+      2.1,
+      1.21,
+      1.52,
+      1.64,
+      1.15,
+      1.27
+    ],
+    "Componentes": {
+      "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.27,
+          9.37,
+          9.38,
+          9.5,
+          9.59,
+          9.74
+        ],
+        "Desvios": [
+          1.32,
+          1.54,
+          1.94,
+          1.48,
+          1.66,
+          1.52
+        ],
+        "DesvioDeNotas": 0.15607156478145973,
+        "MediaDeNotas": 9.475,
+        "MediaDeDesvios": 1.5766666666666669,
+        "NotaMediana": 9.5
+      },
+      "MOR0089 - MODULO BIOLOGICO II": {
+        "Notas": [
+          8.84,
+          9.09,
+          9.34,
+          9.45,
+          9.48,
+          9.51,
+          9.64,
+          9.71
+        ],
+        "Desvios": [
+          1.33,
+          1.54,
+          2.24,
+          1.94,
+          2.16,
+          2.1,
+          1.15,
+          1.27
+        ],
+        "DesvioDeNotas": 0.2705434345904556,
+        "MediaDeNotas": 9.3825,
+        "MediaDeDesvios": 1.71625,
+        "NotaMediana": 9.48
+      },
+      "MOR0053 - EMBRIOLOGIA ANIMAL": {
+        "Notas": [
+          9.36,
+          9.39
+        ],
+        "Desvios": [
+          2.11,
+          1.21
+        ],
+        "DesvioDeNotas": 0.015000000000000568,
+        "MediaDeNotas": 9.375,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.39
+      },
+      "MOR0086 - EMBRIOLOGIA HUMANA PARA O CURSO DE NUTRIÇÃO": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.53
+      },
+      "MOR0041 - EMBRIOLOGIA I": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.36
+      },
+      "MOR0042 - EMBRIOLOGIA II": {
+        "Notas": [
+          9.05,
+          9.34,
+          9.57
+        ],
+        "Desvios": [
+          1.42,
+          1.61,
+          1.64
+        ],
+        "DesvioDeNotas": 0.2127596452964391,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.5566666666666666,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.21185392648662543,
+    "MediaDeNotas": 9.405238095238099,
+    "MediaDeDesvios": 1.6428571428571428,
+    "NotaMediana": 9.39
+  },
+  "RUTHNALDO RODRIGUES MELO DE LIMA": {
+    "Notas": [
+      8.81,
+      8.84,
+      8.94,
+      9.07,
+      9.19,
+      9.2,
+      9.23,
+      9.37,
+      9.38,
+      9.4,
+      9.43,
+      9.43,
+      9.43,
+      9.45,
+      9.45,
+      9.46,
+      9.49,
+      9.5,
+      9.52,
+      9.52,
+      9.56,
+      9.61,
+      9.63,
+      9.69,
+      9.72,
+      9.73,
+      9.75,
+      9.9,
+      9.94
+    ],
+    "Desvios": [
+      1.69,
+      1.95,
+      1.97,
+      2.28,
+      1.99,
+      1.59,
+      2.27,
+      1.12,
+      1.89,
+      1.4,
+      2.06,
+      2.51,
+      2.5,
+      1.62,
+      2.45,
+      1.7,
+      2.2,
+      1.74,
+      1.88,
+      1.51,
+      1.76,
+      0.88,
+      1.7,
+      0.91,
+      0.76,
+      0.8,
+      1.04,
+      1.42,
+      1.47
+    ],
+    "Componentes": {
+      "MOR0070 - BLOCO MORFOLOGICO": {
+        "Notas": [
+          8.84,
+          9.23,
+          9.38,
+          9.52
+        ],
+        "Desvios": [
+          1.69,
+          2.27,
+          1.62,
+          1.76
+        ],
+        "DesvioDeNotas": 0.2540054133281415,
+        "MediaDeNotas": 9.2425,
+        "MediaDeDesvios": 1.835,
+        "NotaMediana": 9.38
+      },
+      "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA": {
+        "Notas": [
+          8.94,
+          9.37,
+          9.4,
+          9.43,
+          9.52
+        ],
+        "Desvios": [
+          1.95,
+          1.89,
+          2.45,
+          1.7,
+          1.7
+        ],
+        "DesvioDeNotas": 0.2023264688566477,
+        "MediaDeNotas": 9.332,
+        "MediaDeDesvios": 1.938,
+        "NotaMediana": 9.4
+      },
+      "MOR0086 - EMBRIOLOGIA HUMANA PARA O CURSO DE NUTRIÇÃO": {
+        "Notas": [
+          9.2,
+          9.49
+        ],
+        "Desvios": [
+          1.97,
+          0.91
+        ],
+        "DesvioDeNotas": 0.14500000000000046,
+        "MediaDeNotas": 9.344999999999999,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.49
+      },
+      "MOR0041 - EMBRIOLOGIA I": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          2.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2.28,
+        "NotaMediana": 9.07
+      },
+      "DFS0108 - MODULO BIOLOGICO I": {
+        "Notas": [
+          9.43,
+          9.45,
+          9.46,
+          9.56,
+          9.61,
+          9.69,
+          9.9,
+          9.94
+        ],
+        "Desvios": [
+          1.99,
+          1.59,
+          1.4,
+          2.06,
+          2.2,
+          1.74,
+          0.76,
+          0.8
+        ],
+        "DesvioDeNotas": 0.18681541692269402,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.5675000000000003,
+        "NotaMediana": 9.61
+      },
+      "MOR0062 - EMBRIOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          9.73,
+          9.75
+        ],
+        "Desvios": [
+          1.12,
+          0.88
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1,
+        "NotaMediana": 9.75
+      },
+      "MOR0089 - MODULO BIOLOGICO II": {
+        "Notas": [
+          8.81,
+          9.19,
+          9.45,
+          9.5,
+          9.63,
+          9.72
+        ],
+        "Desvios": [
+          2.51,
+          2.5,
+          1.88,
+          1.51,
+          1.04,
+          1.42
+        ],
+        "DesvioDeNotas": 0.30505008696205216,
+        "MediaDeNotas": 9.383333333333335,
+        "MediaDeDesvios": 1.8100000000000003,
+        "NotaMediana": 9.5
+      },
+      "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.43
+      }
+    },
+    "DesvioDeNotas": 0.27539961236768495,
+    "MediaDeNotas": 9.435862068965516,
+    "MediaDeDesvios": 1.6917241379310344,
+    "NotaMediana": 9.45
+  },
+  "SERGIO ADRIANE BEZERRA DE MOURA": {
+    "Notas": [
+      8.74,
+      8.81,
+      8.87,
+      8.9,
+      8.93,
+      9.18,
+      9.2,
+      9.34,
+      9.37,
+      9.4,
+      9.41,
+      9.47,
+      9.52,
+      9.55,
+      9.64,
+      9.66,
+      9.66,
+      9.71,
+      9.71,
+      9.74,
+      9.76,
+      9.89
+    ],
+    "Desvios": [
+      1.43,
+      1.29,
+      1.29,
+      1.64,
+      2.2,
+      2.4,
+      2.01,
+      1.82,
+      1.96,
+      2.25,
+      2.08,
+      1.14,
+      1.31,
+      1.7,
+      2.4,
+      2.03,
+      1.07,
+      1.39,
+      1.02,
+      1.47,
+      1.69,
+      2.04
+    ],
+    "Componentes": {
+      "MOR0070 - BLOCO MORFOLOGICO": {
+        "Notas": [
+          8.81,
+          9.64,
+          9.74,
+          9.76
+        ],
+        "Desvios": [
+          1.43,
+          2.4,
+          1.31,
+          1.39
+        ],
+        "DesvioDeNotas": 0.3937876966082103,
+        "MediaDeNotas": 9.4875,
+        "MediaDeDesvios": 1.6325,
+        "NotaMediana": 9.74
+      },
+      "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.34,
+          9.66,
+          9.71
+        ],
+        "Desvios": [
+          1.29,
+          2.01,
+          1.7
+        ],
+        "DesvioDeNotas": 0.1639105447085903,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.6666666666666667,
+        "NotaMediana": 9.66
+      },
+      "MOR0089 - MODULO BIOLOGICO II": {
+        "Notas": [
+          8.87,
+          8.93,
+          9.2,
+          9.37,
+          9.41,
+          9.47,
+          9.52,
+          9.55
+        ],
+        "Desvios": [
+          1.29,
+          1.64,
+          2.25,
+          2.08,
+          2.4,
+          2.03,
+          1.47,
+          1.69
+        ],
+        "DesvioDeNotas": 0.24693116449731525,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.85625,
+        "NotaMediana": 9.41
+      },
+      "MOR0032 - TECNICAS HISTOLOGICAS I": {
+        "Notas": [
+          8.9,
+          9.71,
+          9.89
+        ],
+        "Desvios": [
+          2.2,
+          1.14,
+          1.07
+        ],
+        "DesvioDeNotas": 0.4305810028322199,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.71
+      },
+      "MOR0045 - HISTOLOGIA": {
+        "Notas": [
+          9.18,
+          9.4
+        ],
+        "Desvios": [
+          1.82,
+          1.96
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.8900000000000001,
+        "NotaMediana": 9.4
+      },
+      "MOR0058 - HISTOLOGIA PARA ENFERMAGEM": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.02,
+        "NotaMediana": 9.66
+      },
+      "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA": {
+        "Notas": [
+          8.74
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.74,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 8.74
+      }
+    },
+    "DesvioDeNotas": 0.3394745575247307,
+    "MediaDeNotas": 9.384545454545455,
+    "MediaDeDesvios": 1.7104545454545452,
+    "NotaMediana": 9.47
+  },
+  "SHEILA RAMOS DE MIRANDA HENRIQUES TARRAPP": {
+    "Notas": [
+      9.05,
+      9.35,
+      9.38,
+      9.63,
+      9.74,
+      9.75,
+      9.75,
+      9.84
+    ],
+    "Desvios": [
+      1.72,
+      1.83,
+      1.63,
+      1.57,
+      0.87,
+      0.92,
+      1.18,
+      0.89
+    ],
+    "Componentes": {
+      "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA": {
+        "Notas": [
+          9.05,
+          9.35,
+          9.38,
+          9.63,
+          9.74,
+          9.75,
+          9.75,
+          9.84
+        ],
+        "Desvios": [
+          1.72,
+          1.83,
+          1.63,
+          1.57,
+          0.87,
+          0.92,
+          1.18,
+          0.89
+        ],
+        "DesvioDeNotas": 0.2560487014222097,
+        "MediaDeNotas": 9.56125,
+        "MediaDeDesvios": 1.3262500000000002,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.2560487014222097,
+    "MediaDeNotas": 9.56125,
+    "MediaDeDesvios": 1.3262500000000002,
+    "NotaMediana": 9.74
+  },
+  "WYLQUI MIKAEL GOMES DE ANDRADE": {
+    "Notas": [
+      8.3,
+      8.63,
+      8.79,
+      9.09,
+      9.13,
+      9.15,
+      9.15,
+      9.18,
+      9.2,
+      9.22,
+      9.32,
+      9.32,
+      9.43,
+      9.43,
+      9.52,
+      9.54,
+      9.54
+    ],
+    "Desvios": [
+      2.27,
+      1.96,
+      1.51,
+      2.11,
+      1.96,
+      1.58,
+      1.87,
+      1.58,
+      1.24,
+      2.34,
+      2.39,
+      2.23,
+      1.98,
+      1.72,
+      1.21,
+      2.14,
+      1.73
+    ],
+    "Componentes": {
+      "MOR0014 - ANATOMIA HUMANA": {
+        "Notas": [
+          8.63,
+          9.54
+        ],
+        "Desvios": [
+          2.27,
+          1.98
+        ],
+        "DesvioDeNotas": 0.4549999999999992,
+        "MediaDeNotas": 9.085,
+        "MediaDeDesvios": 2.125,
+        "NotaMediana": 9.54
+      },
+      "MOR0048 - ANATOMIA HUMANA PARA O CURSO DE FARMACIA": {
+        "Notas": [
+          9.32,
+          9.43
+        ],
+        "Desvios": [
+          1.96,
+          1.58
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.375,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.43
+      },
+      "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.18,
+          9.52
+        ],
+        "Desvios": [
+          1.51,
+          1.87
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.52
+      },
+      "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA": {
+        "Notas": [
+          8.3,
+          9.2,
+          9.22,
+          9.32,
+          9.43,
+          9.54
+        ],
+        "Desvios": [
+          2.11,
+          1.96,
+          1.58,
+          1.24,
+          1.72,
+          1.21
+        ],
+        "DesvioDeNotas": 0.40564420644478816,
+        "MediaDeNotas": 9.168333333333333,
+        "MediaDeDesvios": 1.6366666666666667,
+        "NotaMediana": 9.32
+      },
+      "MOR0070 - BLOCO MORFOLOGICO": {
+        "Notas": [
+          8.79
+        ],
+        "Desvios": [
+          2.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.79,
+        "MediaDeDesvios": 2.34,
+        "NotaMediana": 8.79
+      },
+      "MOR0089 - MODULO BIOLOGICO II": {
+        "Notas": [
+          9.09,
+          9.13,
+          9.15,
+          9.15
+        ],
+        "Desvios": [
+          2.39,
+          2.23,
+          2.14,
+          1.73
+        ],
+        "DesvioDeNotas": 0.024494897427831983,
+        "MediaDeNotas": 9.129999999999999,
+        "MediaDeDesvios": 2.1225,
+        "NotaMediana": 9.15
+      }
+    },
+    "DesvioDeNotas": 0.3237240056497353,
+    "MediaDeNotas": 9.172941176470587,
+    "MediaDeDesvios": 1.871764705882353,
+    "NotaMediana": 9.2
+  },
+  "SIMONE ALMEIDA GAVILAN": {
+    "Notas": [
+      8.21,
+      8.53,
+      8.56,
+      8.61,
+      8.7,
+      8.76,
+      9.11,
+      9.41,
+      9.42,
+      9.53
+    ],
+    "Desvios": [
+      2.56,
+      2.05,
+      2.2,
+      1.6,
+      2.25,
+      1.73,
+      1.99,
+      0.87,
+      1.66,
+      1.83
+    ],
+    "Componentes": {
+      "MOR0053 - EMBRIOLOGIA ANIMAL": {
+        "Notas": [
+          8.7
+        ],
+        "Desvios": [
+          2.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.7,
+        "MediaDeDesvios": 2.56,
+        "NotaMediana": 8.7
+      },
+      "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          8.21,
+          8.56,
+          8.61,
+          8.76,
+          9.42,
+          9.53
+        ],
+        "Desvios": [
+          2.05,
+          2.2,
+          2.25,
+          1.73,
+          0.87,
+          1.66
+        ],
+        "DesvioDeNotas": 0.4737586117657619,
+        "MediaDeNotas": 8.848333333333334,
+        "MediaDeDesvios": 1.7933333333333332,
+        "NotaMediana": 8.76
+      },
+      "MOR0042 - EMBRIOLOGIA II": {
+        "Notas": [
+          8.53,
+          9.11,
+          9.41
+        ],
+        "Desvios": [
+          1.6,
+          1.99,
+          1.83
+        ],
+        "DesvioDeNotas": 0.3652700675147396,
+        "MediaDeNotas": 9.016666666666666,
+        "MediaDeDesvios": 1.8066666666666666,
+        "NotaMediana": 9.11
+      }
+    },
+    "DesvioDeNotas": 0.42909672569247115,
+    "MediaDeNotas": 8.884,
+    "MediaDeDesvios": 1.874,
+    "NotaMediana": 8.76
+  },
+  "ALDO FONSECA DE SOUZA": {
+    "Notas": [
+      9.5,
+      9.74,
+      9.79,
+      9.82,
+      9.84,
+      9.98
+    ],
+    "Desvios": [
+      0.9,
+      1.37,
+      0.94,
+      1.21,
+      1.03,
+      0.39
+    ],
+    "Componentes": {
+      "MOR0054 - ANATOMIA COMPARATIVA DOS VERTEBRADOS I": {
+        "Notas": [
+          9.5,
+          9.74
+        ],
+        "Desvios": [
+          0.9,
+          1.03
+        ],
+        "DesvioDeNotas": 0.1200000000000001,
+        "MediaDeNotas": 9.620000000000001,
+        "MediaDeDesvios": 0.9650000000000001,
+        "NotaMediana": 9.74
+      },
+      "MOR0066 - ANATOMIA GERAL E COMPARATIVA DOS VERTEBRADOS": {
+        "Notas": [
+          9.79,
+          9.84
+        ],
+        "Desvios": [
+          1.37,
+          0.39
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.815,
+        "MediaDeDesvios": 0.8800000000000001,
+        "NotaMediana": 9.84
+      },
+      "MOR0036 - ANATOMIA HUMANA APLICADA À DANÇA": {
+        "Notas": [
+          9.98
+        ],
+        "Desvios": [
+          0.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.98,
+        "MediaDeDesvios": 0.94,
+        "NotaMediana": 9.98
+      },
+      "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.14450105728179147,
+    "MediaDeNotas": 9.778333333333334,
+    "MediaDeDesvios": 0.9733333333333333,
+    "NotaMediana": 9.82
+  },
+  "LUCIANA CARLA BEZERRA MACHADO": {
+    "Notas": [
+      9.29,
+      9.72,
+      9.72,
+      9.83,
+      9.83,
+      9.83,
+      9.88
+    ],
+    "Desvios": [
+      2,
+      1.18,
+      1.64,
+      0.91,
+      0.75,
+      1.15,
+      1.53
+    ],
+    "Componentes": {
+      "MOR0014 - ANATOMIA HUMANA": {
+        "Notas": [
+          9.72,
+          9.83
+        ],
+        "Desvios": [
+          2,
+          1.64
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.775,
+        "MediaDeDesvios": 1.8199999999999998,
+        "NotaMediana": 9.83
+      },
+      "MOR0067 - ANATOMIA HUMANA": {
+        "Notas": [
+          9.83,
+          9.88
+        ],
+        "Desvios": [
+          1.18,
+          0.75
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.855,
+        "MediaDeDesvios": 0.965,
+        "NotaMediana": 9.88
+      },
+      "MOR0068 - ANATOMIA HUMANA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.83
+        ],
+        "Desvios": [
+          0.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 0.91,
+        "NotaMediana": 9.83
+      },
+      "MOR0004 - ANATOMIA IV": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.72
+      },
+      "MOR0082 - MORFOLOGIA HUMANA APLICADA À ODONTOLOGIA": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.29
+      }
+    },
+    "DesvioDeNotas": 0.18757311499622728,
+    "MediaDeNotas": 9.728571428571428,
+    "MediaDeDesvios": 1.3085714285714283,
+    "NotaMediana": 9.83
+  },
+  "ANA LUIZA DIAS LEITE DE ANDRADE": {
+    "Notas": [
+      9.94
+    ],
+    "Desvios": [
+      1.05
+    ],
+    "Componentes": {
+      "MOR0037 - ANATOMIA DA CABECA E DO PESCOCO APLICADA A FONOAUDIOLOGIA": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          1.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.94
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.94,
+    "MediaDeDesvios": 1.05,
+    "NotaMediana": 9.94
+  },
+  "MARIA EMANUELA MARTINS DOS REIS": {
+    "Notas": [
+      9.55,
+      9.56,
+      9.62,
+      9.63,
+      9.8
+    ],
+    "Desvios": [
+      1.18,
+      1.06,
+      1.36,
+      1.15,
+      1.23
+    ],
+    "Componentes": {
+      "MOR0062 - EMBRIOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.63
+      },
+      "MOR0069 - EMBRIOLOGIA E HISTOLOGIA PARA O ENSINO DE CIENCIAS E BIOLOGIA": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.06,
+        "NotaMediana": 9.56
+      },
+      "MOR0039 - EMBRIOLOGIA HUMANA PARA O CURSO DE FARMÁCIA": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.55
+      },
+      "MOR0086 - EMBRIOLOGIA HUMANA PARA O CURSO DE NUTRIÇÃO": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.8
+      },
+      "MOR0041 - EMBRIOLOGIA I": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.62
+      }
+    },
+    "DesvioDeNotas": 0.08975522268926757,
+    "MediaDeNotas": 9.632000000000001,
+    "MediaDeDesvios": 1.1960000000000002,
+    "NotaMediana": 9.62
+  },
+  "RODRIGO PORPINO MAFRA": {
+    "Notas": [
+      8.14,
+      8.84,
+      8.88,
+      8.95,
+      9.11,
+      9.19,
+      9.23,
+      9.25,
+      9.41,
+      9.57,
+      9.77
+    ],
+    "Desvios": [
+      1.86,
+      1.59,
+      1.59,
+      1.83,
+      1.39,
+      0.87,
+      1.52,
+      1.88,
+      1.39,
+      0.97,
+      2.02
+    ],
+    "Componentes": {
+      "MOR0085 - HISTOLOGIA APLICADA À NUTRIÇÃO": {
+        "Notas": [
+          9.23,
+          9.25
+        ],
+        "Desvios": [
+          1.86,
+          1.59
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 1.725,
+        "NotaMediana": 9.25
+      },
+      "MOR0061 - HISTOLOGIA APLICADA À BIOMEDICINA": {
+        "Notas": [
+          8.95,
+          9.11,
+          9.19,
+          9.41
+        ],
+        "Desvios": [
+          1.59,
+          1.83,
+          1.39,
+          0.87
+        ],
+        "DesvioDeNotas": 0.16575584454250808,
+        "MediaDeNotas": 9.165,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.19
+      },
+      "MOR0023 - HISTOLOGIA III": {
+        "Notas": [
+          8.14,
+          8.88
+        ],
+        "Desvios": [
+          1.52,
+          1.88
+        ],
+        "DesvioDeNotas": 0.3700000000000001,
+        "MediaDeNotas": 8.510000000000002,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 8.88
+      },
+      "MOR0025 - HISTOLOGIA V": {
+        "Notas": [
+          9.57,
+          9.77
+        ],
+        "Desvios": [
+          1.39,
+          0.97
+        ],
+        "DesvioDeNotas": 0.09999999999999964,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.77
+      },
+      "MOR0035 - HISTOLOGIA VII": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          2.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 8.84
+      }
+    },
+    "DesvioDeNotas": 0.41213012468081167,
+    "MediaDeNotas": 9.121818181818181,
+    "MediaDeDesvios": 1.5372727272727273,
+    "NotaMediana": 9.19
+  },
+  "SEBASTIAO FRANCO DA SILVA": {
+    "Notas": [
+      9.61,
+      9.68,
+      9.81
+    ],
+    "Desvios": [
+      1.22,
+      1.15,
+      1.07
+    ],
+    "Componentes": {
+      "MOR0305 - ANATOMIA TOPOGRAFICA E DESCRITIVA": {
+        "Notas": [
+          9.61,
+          9.68
+        ],
+        "Desvios": [
+          1.22,
+          1.15
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.645,
+        "MediaDeDesvios": 1.185,
+        "NotaMediana": 9.68
+      },
+      "MOR0013 - ANATOMIA XIII": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.07,
+        "NotaMediana": 9.81
+      }
+    },
+    "DesvioDeNotas": 0.0828653526310408,
+    "MediaDeNotas": 9.700000000000001,
+    "MediaDeDesvios": 1.1466666666666667,
+    "NotaMediana": 9.68
+  }
+}

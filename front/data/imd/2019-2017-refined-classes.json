@@ -1,0 +1,2199 @@
+{
+  "IMD0506 - SISTEMAS COLABORATIVOS DE APOIO À APRENDIZAGEM": {
+    "Notas": [
+      9.32,
+      9.63
+    ],
+    "Desvios": [
+      1.77,
+      1.61
+    ],
+    "Docentes": [
+      "ADJA FERREIRA DE ANDRADE"
+    ],
+    "DesvioDeNotas": 0.15500000000000025,
+    "MediaDeNotas": 9.475000000000001,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.63
+  },
+  "IMD0020 - TECNOLOGIA DA INFORMAÇÃO E SOCIEDADE": {
+    "Notas": [
+      8.54,
+      9.09,
+      9.14,
+      9.22,
+      9.32,
+      9.34,
+      9.35,
+      9.5,
+      9.55,
+      9.56,
+      9.57,
+      9.63,
+      9.68,
+      9.69,
+      9.7,
+      9.71
+    ],
+    "Desvios": [
+      2.31,
+      2.4,
+      2.33,
+      2.47,
+      2.27,
+      2.1,
+      3.15,
+      2.09,
+      2.12,
+      2.28,
+      2.54,
+      2.05,
+      2.25,
+      1.97,
+      1.95,
+      1.96
+    ],
+    "Docentes": [
+      "ADJA FERREIRA DE ANDRADE",
+      "BRUNO SANTANA DA SILVA",
+      "EUGENIO PACCELLI AGUIAR FREIRE",
+      "ISABEL DILLMANN NUNES",
+      "NELSON ION DE OLIVEIRA",
+      "WILLIAM BRENNO DOS SANTOS OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.2994206645757772,
+    "MediaDeNotas": 9.411875,
+    "MediaDeDesvios": 2.265,
+    "NotaMediana": 9.55
+  },
+  "IMD0415 - GESTÃO DE INFRAESTRUTURA DE TI": {
+    "Notas": [
+      9.71,
+      9.78
+    ],
+    "Desvios": [
+      1.76,
+      1.55
+    ],
+    "Docentes": [
+      "ANDRE LUIZ DA SILVA SOLINO"
+    ],
+    "DesvioDeNotas": 0.034999999999999254,
+    "MediaDeNotas": 9.745000000000001,
+    "MediaDeDesvios": 1.655,
+    "NotaMediana": 9.78
+  },
+  "IMD0040 - LINGUAGEM DE PROGRAMAÇÃO II": {
+    "Notas": [
+      8.9,
+      8.9,
+      9.11,
+      9.12,
+      9.22,
+      9.31,
+      9.33,
+      9.36,
+      9.39,
+      9.5,
+      9.61,
+      9.87
+    ],
+    "Desvios": [
+      1.93,
+      2.23,
+      1.42,
+      2.26,
+      2.25,
+      2.12,
+      1.89,
+      1.5,
+      1.69,
+      1.41,
+      1.49,
+      1.62
+    ],
+    "Docentes": [
+      "ANDRE LUIZ DA SILVA SOLINO",
+      "JOAO CARLOS XAVIER JUNIOR",
+      "CARLOS EDUARDO DA SILVA",
+      "LEONARDO CESAR TEONACIO BEZERRA",
+      "FREDERICO ARAUJO DA SILVA LOPES",
+      "RODRIGO TEIXEIRA RAMOS"
+    ],
+    "DesvioDeNotas": 0.269036346160803,
+    "MediaDeNotas": 9.301666666666666,
+    "MediaDeDesvios": 1.8175000000000001,
+    "NotaMediana": 9.33
+  },
+  "IMD1004 - PENSAMENTO COMPUTACIONAL": {
+    "Notas": [
+      8.87,
+      8.99,
+      9.02,
+      9.07,
+      9.14,
+      9.25,
+      9.31,
+      9.36,
+      9.4,
+      9.5,
+      9.52,
+      9.53,
+      9.56,
+      9.7,
+      9.74
+    ],
+    "Desvios": [
+      1.87,
+      1.85,
+      2.19,
+      2.53,
+      2.16,
+      1.81,
+      1.85,
+      2.11,
+      1.72,
+      2.5,
+      2.12,
+      2.56,
+      2.12,
+      1.76,
+      1.98
+    ],
+    "Docentes": [
+      "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+      "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR",
+      "CHARLES ANDRYE GALVAO MADEIRA",
+      "DANIEL SABINO AMORIM DE ARAUJO",
+      "FREDERICO ARAUJO DA SILVA LOPES",
+      "LEONARDO CESAR TEONACIO BEZERRA",
+      "BRUNO SANTANA DA SILVA",
+      "EMERSON MOURA DE ALENCAR",
+      "HANDERSON BEZERRA MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.25852057730263733,
+    "MediaDeNotas": 9.330666666666666,
+    "MediaDeDesvios": 2.0753333333333335,
+    "NotaMediana": 9.36
+  },
+  "IMD0024 - CÁLCULO DIFERENCIAL E INTEGRAL I": {
+    "Notas": [
+      8.27,
+      8.91,
+      9.34,
+      9.35,
+      9.4,
+      9.43,
+      9.44,
+      9.5,
+      9.63,
+      9.66,
+      9.66,
+      9.74,
+      9.9
+    ],
+    "Desvios": [
+      1.8,
+      2.59,
+      2.04,
+      1.97,
+      1.62,
+      2.79,
+      1.8,
+      2,
+      2.41,
+      1.48,
+      1.69,
+      1.34,
+      1.25
+    ],
+    "Docentes": [
+      "ANTONIO DJACKSON ALVES DA SILVA",
+      "SAMYR SILVA BEZERRA JACOME",
+      "ANTONIO IGOR SILVA DE OLIVEIRA",
+      "LUCIANA VIEIRA ANDRADE",
+      "DANIEL TEIXEIRA DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.40088659140908894,
+    "MediaDeNotas": 9.40230769230769,
+    "MediaDeDesvios": 1.9061538461538463,
+    "NotaMediana": 9.44
+  },
+  "IMD1003 - GEOMETRIA EUCLIDIANA": {
+    "Notas": [
+      7.7,
+      7.76,
+      8.41,
+      8.7,
+      8.73,
+      8.89,
+      8.89,
+      8.9,
+      8.93,
+      8.96,
+      9.04,
+      9.04,
+      9.28,
+      9.38,
+      9.44,
+      9.52,
+      9.59
+    ],
+    "Desvios": [
+      2.34,
+      2.68,
+      2.11,
+      2.26,
+      2.72,
+      2.71,
+      2.63,
+      2.57,
+      2.95,
+      2.09,
+      2.01,
+      2.23,
+      2.05,
+      2.48,
+      2.59,
+      2.13,
+      3.05
+    ],
+    "Docentes": [
+      "ANTONIO DJACKSON ALVES DA SILVA",
+      "FELIPE HENRIQUE ALVES MAGALHAES",
+      "FRANCYS ANTHONY DA SILVA",
+      "SAMYR SILVA BEZERRA JACOME",
+      "ANTONIO IGOR SILVA DE OLIVEIRA",
+      "AUGUSTO JORGE DE MACEDO",
+      "DANIEL TEIXEIRA DOS SANTOS",
+      "LOURENA KARIN DE MEDEIROS ROCHA"
+    ],
+    "DesvioDeNotas": 0.5212116572904923,
+    "MediaDeNotas": 8.891764705882352,
+    "MediaDeDesvios": 2.447058823529412,
+    "NotaMediana": 8.93
+  },
+  "IMD1001 - MATEMÁTICA ELEMENTAR": {
+    "Notas": [
+      7.8,
+      8.53,
+      8.54,
+      8.65,
+      9.04,
+      9.12,
+      9.16,
+      9.17,
+      9.24,
+      9.26,
+      9.46,
+      9.48,
+      9.5,
+      9.55,
+      9.55,
+      9.68
+    ],
+    "Desvios": [
+      2.47,
+      2.07,
+      2.18,
+      2.55,
+      2.22,
+      2.72,
+      2.92,
+      2.21,
+      2.32,
+      2.33,
+      2.14,
+      1.87,
+      2.26,
+      2.09,
+      2.32,
+      2.11
+    ],
+    "Docentes": [
+      "ANTONIO DJACKSON ALVES DA SILVA",
+      "ANTONIO IGOR SILVA DE OLIVEIRA",
+      "AUGUSTO JORGE DE MACEDO",
+      "LOURENA KARIN DE MEDEIROS ROCHA"
+    ],
+    "DesvioDeNotas": 0.48496415782509145,
+    "MediaDeNotas": 9.108125,
+    "MediaDeDesvios": 2.2987500000000005,
+    "NotaMediana": 9.24
+  },
+  "IMD0038 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II": {
+    "Notas": [
+      8.71,
+      9.32,
+      9.4,
+      9.58,
+      9.61,
+      9.67,
+      9.73,
+      9.78,
+      9.79
+    ],
+    "Desvios": [
+      2.24,
+      2.17,
+      1.41,
+      2.36,
+      1.83,
+      2.18,
+      2.26,
+      1.28,
+      1.54
+    ],
+    "Docentes": [
+      "ATHANASIOS TSOUANAS",
+      "LOURENA KARIN DE MEDEIROS ROCHA",
+      "ANDERSON PAIVA CRUZ"
+    ],
+    "DesvioDeNotas": 0.32117838587855707,
+    "MediaDeNotas": 9.51,
+    "MediaDeDesvios": 1.9188888888888889,
+    "NotaMediana": 9.61
+  },
+  "IMD0109 - TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO X": {
+    "Notas": [
+      9.97
+    ],
+    "Desvios": [
+      1.67
+    ],
+    "Docentes": [
+      "ATHANASIOS TSOUANAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.97,
+    "MediaDeDesvios": 1.67,
+    "NotaMediana": 9.97
+  },
+  "IMD1002 - ANÁLISE COMBINATÓRIA": {
+    "Notas": [
+      7.99,
+      8.04,
+      8.11,
+      8.28,
+      8.29,
+      8.39,
+      8.41,
+      8.6,
+      8.66,
+      8.66,
+      8.82,
+      8.93,
+      9,
+      9.29,
+      9.58,
+      9.63,
+      9.72
+    ],
+    "Desvios": [
+      2.7,
+      2,
+      1.96,
+      2.6,
+      2.38,
+      3.12,
+      3.11,
+      2.58,
+      2.46,
+      2.46,
+      2.61,
+      2.11,
+      2.26,
+      2.65,
+      2.91,
+      2.29,
+      2.82
+    ],
+    "Docentes": [
+      "AUGUSTO JORGE DE MACEDO",
+      "FELIPE HENRIQUE ALVES MAGALHAES",
+      "FRANCYS ANTHONY DA SILVA",
+      "NICOLAS MATHEUS DA FONSECA TINOCO DE SOUZA ARAUJO",
+      "RAFAELA HORACINA SILVA ROCHA SOARES"
+    ],
+    "DesvioDeNotas": 0.5421142769503092,
+    "MediaDeNotas": 8.729411764705883,
+    "MediaDeDesvios": 2.5305882352941174,
+    "NotaMediana": 8.66
+  },
+  "IMD0034 - VETORES E GEOMETRIA ANALÍTICA": {
+    "Notas": [
+      8.19,
+      8.34,
+      8.42,
+      8.78,
+      9.12,
+      9.14,
+      9.27,
+      9.28,
+      9.36,
+      9.38,
+      9.39,
+      9.45,
+      9.61,
+      9.7,
+      9.77
+    ],
+    "Desvios": [
+      1.87,
+      1.76,
+      2.17,
+      1.81,
+      2.19,
+      2.7,
+      2.91,
+      3.13,
+      1.7,
+      2.73,
+      1.22,
+      1.41,
+      1.8,
+      1.89,
+      1.82
+    ],
+    "Docentes": [
+      "AUGUSTO JORGE DE MACEDO",
+      "FELIPE HENRIQUE ALVES MAGALHAES",
+      "SAMYR SILVA BEZERRA JACOME",
+      "ANTONIO DJACKSON ALVES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.477684228567599,
+    "MediaDeNotas": 9.146666666666667,
+    "MediaDeDesvios": 2.074,
+    "NotaMediana": 9.28
+  },
+  "IMD0510 - ACESSIBILIDADE DIGITAL": {
+    "Notas": [
+      9.21,
+      9.66
+    ],
+    "Desvios": [
+      1.76,
+      1.59
+    ],
+    "Docentes": [
+      "BRUNO SANTANA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.22499999999999964,
+    "MediaDeNotas": 9.435,
+    "MediaDeDesvios": 1.675,
+    "NotaMediana": 9.66
+  },
+  "IMD0104 - TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO V": {
+    "Notas": [
+      9.16,
+      9.75
+    ],
+    "Desvios": [
+      2.32,
+      1.35
+    ],
+    "Docentes": [
+      "BRUNO SANTANA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.29499999999999993,
+    "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 1.835,
+    "NotaMediana": 9.75
+  },
+  "IMD0409 - DESENVOLVIMENTO DE SISTEMAS WEB II": {
+    "Notas": [
+      8.99,
+      9.54
+    ],
+    "Desvios": [
+      2.52,
+      1.76
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.27499999999999947,
+    "MediaDeNotas": 9.265,
+    "MediaDeDesvios": 2.14,
+    "NotaMediana": 9.54
+  },
+  "IMD0290 - TÓPICOS ESPECIAIS EM INTERNET DAS COISAS “A”": {
+    "Notas": [
+      9.54
+    ],
+    "Desvios": [
+      1.38
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.38,
+    "NotaMediana": 9.54
+  },
+  "IMD0718 - FORENSE COMPUTACIONAL": {
+    "Notas": [
+      9.28
+    ],
+    "Desvios": [
+      2.26
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.28,
+    "MediaDeDesvios": 2.26,
+    "NotaMediana": 9.28
+  },
+  "IMD0713 - REDES MULTIMIDIA": {
+    "Notas": [
+      9.74
+    ],
+    "Desvios": [
+      0.92
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.74,
+    "MediaDeDesvios": 0.92,
+    "NotaMediana": 9.74
+  },
+  "IMD0029 - ESTRUTURA DE DADOS BÁSICAS I": {
+    "Notas": [
+      9.47,
+      9.49,
+      9.54,
+      9.7,
+      9.7,
+      9.74,
+      9.75,
+      9.78,
+      9.81,
+      9.83,
+      9.91
+    ],
+    "Desvios": [
+      1.8,
+      1.98,
+      1.91,
+      2.01,
+      1.79,
+      2.28,
+      2.3,
+      1.74,
+      1.18,
+      1.22,
+      1.64
+    ],
+    "Docentes": [
+      "CESAR RENNO COSTA",
+      "LEONARDO CESAR TEONACIO BEZERRA",
+      "RENAN CIPRIANO MOIOLI",
+      "WALDSON PATRICIO DO NASCIMENTO LEANDRO",
+      "EIJI ADACHI MEDEIROS BARBOSA"
+    ],
+    "DesvioDeNotas": 0.13690196770072582,
+    "MediaDeNotas": 9.701818181818181,
+    "MediaDeDesvios": 1.8045454545454547,
+    "NotaMediana": 9.74
+  },
+  "IMD0606 - PROJETO EM BIOINFORMÁTICA": {
+    "Notas": [
+      9.27,
+      9.55
+    ],
+    "Desvios": [
+      1.97,
+      1.75
+    ],
+    "Docentes": [
+      "CESAR RENNO COSTA",
+      "JORGE ESTEFANO SANTANA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.14000000000000057,
+    "MediaDeNotas": 9.41,
+    "MediaDeDesvios": 1.8599999999999999,
+    "NotaMediana": 9.55
+  },
+  "IMD0605 - SEMINÁRIOS EM BIOINFORMÁTICA": {
+    "Notas": [
+      9.43,
+      9.46,
+      9.56,
+      9.63,
+      9.72,
+      9.76
+    ],
+    "Desvios": [
+      2.28,
+      2.21,
+      1.69,
+      1.77,
+      1.91,
+      1.89
+    ],
+    "Docentes": [
+      "CESAR RENNO COSTA",
+      "JORGE ESTEFANO SANTANA DE SOUZA",
+      "TETSU SAKAMOTO"
+    ],
+    "DesvioDeNotas": 0.12297244497131145,
+    "MediaDeNotas": 9.593333333333334,
+    "MediaDeDesvios": 1.9583333333333333,
+    "NotaMediana": 9.63
+  },
+  "IMD0521 - FUNDAMENTOS DE JOGOS DIGITAIS": {
+    "Notas": [
+      8.84,
+      9.49
+    ],
+    "Desvios": [
+      2.53,
+      1.64
+    ],
+    "Docentes": [
+      "CHARLES ANDRYE GALVAO MADEIRA"
+    ],
+    "DesvioDeNotas": 0.3250000000000002,
+    "MediaDeNotas": 9.165,
+    "MediaDeDesvios": 2.085,
+    "NotaMediana": 9.49
+  },
+  "IMD0701 - ADMINISTRAÇÃO DE SISTEMAS OPERACIONAIS PARA REDES": {
+    "Notas": [
+      9.77,
+      9.83
+    ],
+    "Desvios": [
+      1.68,
+      1.36
+    ],
+    "Docentes": [
+      "DANILO CURVELO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.03000000000000025,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 1.52,
+    "NotaMediana": 9.83
+  },
+  "IMD0254 - TÓPICOS ESPECIAIS EM INFORMÁTICA EDUCACIONAL \"E\"": {
+    "Notas": [
+      9.93
+    ],
+    "Desvios": [
+      1.08
+    ],
+    "Docentes": [
+      "DENNYS LEITE MAIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.93,
+    "MediaDeDesvios": 1.08,
+    "NotaMediana": 9.93
+  },
+  "DIM0501 - BOAS PRÁTICAS DE PROGRAMAÇÃO": {
+    "Notas": [
+      9.58,
+      9.61
+    ],
+    "Desvios": [
+      2.02,
+      2.2
+    ],
+    "Docentes": [
+      "EIJI ADACHI MEDEIROS BARBOSA",
+      "FREDERICO ARAUJO DA SILVA LOPES"
+    ],
+    "DesvioDeNotas": 0.01499999999999968,
+    "MediaDeNotas": 9.594999999999999,
+    "MediaDeDesvios": 2.1100000000000003,
+    "NotaMediana": 9.61
+  },
+  "IMD0408 - PROCESSOS DE SOFTWARE": {
+    "Notas": [
+      9.75,
+      9.81
+    ],
+    "Desvios": [
+      1.46,
+      1.3
+    ],
+    "Docentes": [
+      "EIJI ADACHI MEDEIROS BARBOSA"
+    ],
+    "DesvioDeNotas": 0.03000000000000025,
+    "MediaDeNotas": 9.780000000000001,
+    "MediaDeDesvios": 1.38,
+    "NotaMediana": 9.81
+  },
+  "DIM0123 - PENSAMENTO COMPUTACIONAL": {
+    "Notas": [
+      9.34
+    ],
+    "Desvios": [
+      2.34
+    ],
+    "Docentes": [
+      "EMERSON MOURA DE ALENCAR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.34,
+    "MediaDeDesvios": 2.34,
+    "NotaMediana": 9.34
+  },
+  "IMD0524 - EDUCAÇÃO A DISTÂNCIA": {
+    "Notas": [
+      9.47
+    ],
+    "Desvios": [
+      1.78
+    ],
+    "Docentes": [
+      "EUGENIO PACCELLI AGUIAR FREIRE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.47,
+    "MediaDeDesvios": 1.78,
+    "NotaMediana": 9.47
+  },
+  "DIM0614 - PROGRAMAÇÃO DISTRIBUÍDA": {
+    "Notas": [
+      8.62,
+      8.76
+    ],
+    "Desvios": [
+      2.02,
+      2.46
+    ],
+    "Docentes": [
+      "FREDERICO ARAUJO DA SILVA LOPES"
+    ],
+    "DesvioDeNotas": 0.07000000000000028,
+    "MediaDeNotas": 8.69,
+    "MediaDeDesvios": 2.24,
+    "NotaMediana": 8.76
+  },
+  "IMD0725 - DESENVOLVIMENTO DE PROJETOS DE REDES DE COMPUTADORES": {
+    "Notas": [
+      8.79,
+      9.13
+    ],
+    "Desvios": [
+      1.89,
+      1.84
+    ],
+    "Docentes": [
+      "GLAUBER GALVAO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.17000000000000082,
+    "MediaDeNotas": 8.96,
+    "MediaDeDesvios": 1.865,
+    "NotaMediana": 9.13
+  },
+  "IMD0121 - ARQUITETURA DE COMPUTADORES": {
+    "Notas": [
+      9.48
+    ],
+    "Desvios": [
+      2.06
+    ],
+    "Docentes": [
+      "GUSTAVO GIRAO BARRETO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 2.06,
+    "NotaMediana": 9.48
+  },
+  "IMD1012 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+    "Notas": [
+      9.8
+    ],
+    "Desvios": [
+      1.73
+    ],
+    "Docentes": [
+      "GUSTAVO GIRAO BARRETO DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.8
+  },
+  "IMD0030 - LINGUAGEM DE PROGRAMAÇÃO I": {
+    "Notas": [
+      8.52,
+      8.68,
+      9.21,
+      9.3,
+      9.44,
+      9.52,
+      9.56,
+      9.62,
+      9.68,
+      9.83
+    ],
+    "Desvios": [
+      2.48,
+      1.9,
+      1.83,
+      2.28,
+      1.86,
+      2.49,
+      2.32,
+      1.72,
+      1.38,
+      1.36
+    ],
+    "Docentes": [
+      "ISAAC FRANCO FERNANDES",
+      "RENAN CIPRIANO MOIOLI",
+      "SILVIO COSTA SAMPAIO",
+      "WALDSON PATRICIO DO NASCIMENTO LEANDRO",
+      "HANDERSON BEZERRA MEDEIROS",
+      "LEONARDO CESAR TEONACIO BEZERRA"
+    ],
+    "DesvioDeNotas": 0.40635452501479546,
+    "MediaDeNotas": 9.336,
+    "MediaDeDesvios": 1.9619999999999997,
+    "NotaMediana": 9.52
+  },
+  "IMD0811 - MOTORES DE JOGOS DIGITAIS": {
+    "Notas": [
+      9.24,
+      9.78
+    ],
+    "Desvios": [
+      2.1,
+      1.46
+    ],
+    "Docentes": [
+      "ISAAC FRANCO FERNANDES",
+      "ALYSON MATHEUS DE CARVALHO SOUZA"
+    ],
+    "DesvioDeNotas": 0.2699999999999996,
+    "MediaDeNotas": 9.51,
+    "MediaDeDesvios": 1.78,
+    "NotaMediana": 9.78
+  },
+  "IMD0503 - LEVANTAMENTO E MODELAGEM DE REQUISITOS": {
+    "Notas": [
+      9.54,
+      9.67
+    ],
+    "Desvios": [
+      1.7,
+      1.51
+    ],
+    "Docentes": [
+      "ISABEL DILLMANN NUNES"
+    ],
+    "DesvioDeNotas": 0.06500000000000039,
+    "MediaDeNotas": 9.605,
+    "MediaDeDesvios": 1.605,
+    "NotaMediana": 9.67
+  },
+  "IMD0905 - CIÊNCIA DE DADOS I": {
+    "Notas": [
+      9.55,
+      9.71
+    ],
+    "Desvios": [
+      1.86,
+      1.32
+    ],
+    "Docentes": [
+      "IVANOVITCH MEDEIROS DANTAS DA SILVA"
+    ],
+    "DesvioDeNotas": 0.08000000000000007,
+    "MediaDeNotas": 9.63,
+    "MediaDeDesvios": 1.59,
+    "NotaMediana": 9.71
+  },
+  "IMD0033 - PROBABILIDADE": {
+    "Notas": [
+      9.36,
+      9.39,
+      9.56,
+      9.6,
+      9.68,
+      9.74,
+      9.82,
+      9.84,
+      9.87
+    ],
+    "Desvios": [
+      1.62,
+      1.78,
+      1.77,
+      1.36,
+      1.81,
+      1.58,
+      1.67,
+      1.14,
+      1.51
+    ],
+    "Docentes": [
+      "IVANOVITCH MEDEIROS DANTAS DA SILVA",
+      "TETSU SAKAMOTO",
+      "ANTONIO DJACKSON ALVES DA SILVA",
+      "DANIEL TEIXEIRA DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.17785415026203935,
+    "MediaDeNotas": 9.651111111111112,
+    "MediaDeDesvios": 1.5822222222222222,
+    "NotaMediana": 9.68
+  },
+  "IMD1101 - APRENDIZADO DE MÁQUINA": {
+    "Notas": [
+      8.93
+    ],
+    "Desvios": [
+      2.87
+    ],
+    "Docentes": [
+      "JOAO CARLOS XAVIER JUNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.93,
+    "MediaDeDesvios": 2.87,
+    "NotaMediana": 8.93
+  },
+  "IMD0039 - ESTRUTURAS DE DADOS BÁSICAS II": {
+    "Notas": [
+      8.89,
+      9.72,
+      9.78,
+      9.86,
+      9.87
+    ],
+    "Desvios": [
+      1.74,
+      1.66,
+      2.25,
+      1.94,
+      1.23
+    ],
+    "Docentes": [
+      "JORGE ESTEFANO SANTANA DE SOUZA",
+      "LEONARDO CESAR TEONACIO BEZERRA"
+    ],
+    "DesvioDeNotas": 0.37108489594700517,
+    "MediaDeNotas": 9.623999999999999,
+    "MediaDeDesvios": 1.764,
+    "NotaMediana": 9.78
+  },
+  "IMD0902 - INTRODUÇÃO A INTERNET DAS COISAS": {
+    "Notas": [
+      9.75
+    ],
+    "Desvios": [
+      1.6
+    ],
+    "Docentes": [
+      "JULIO CESAR PAULINO DE MELO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.6,
+    "NotaMediana": 9.75
+  },
+  "IMD0904 - PLATAFORMAS DE HARDWARE PARA INTERNET DAS COISAS": {
+    "Notas": [
+      9.8
+    ],
+    "Desvios": [
+      1.71
+    ],
+    "Docentes": [
+      "JULIO CESAR PAULINO DE MELO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 1.71,
+    "NotaMediana": 9.8
+  },
+  "IMD0292 - TÓPICOS ESPECIAIS EM INTERNET DAS COISAS “C”": {
+    "Notas": [
+      9.86
+    ],
+    "Desvios": [
+      1.14
+    ],
+    "Docentes": [
+      "KAYO GONCALVES E SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 1.14,
+    "NotaMediana": 9.86
+  },
+  "IMD0018 - PRÁTICAS DE LEITURA EM INGLÊS": {
+    "Notas": [
+      9.24,
+      9.25,
+      9.36,
+      9.62,
+      9.64,
+      9.75,
+      9.8,
+      9.8,
+      9.91
+    ],
+    "Desvios": [
+      2.35,
+      2.3,
+      2.42,
+      2.42,
+      2.21,
+      2.41,
+      2.35,
+      2.48,
+      2.22
+    ],
+    "Docentes": [
+      "LORENA AZEVEDO DE SOUSA",
+      "MIRLA RODRIGUES PINTO"
+    ],
+    "DesvioDeNotas": 0.23809428571238112,
+    "MediaDeNotas": 9.596666666666666,
+    "MediaDeDesvios": 2.351111111111111,
+    "NotaMediana": 9.64
+  },
+  "IMD0017 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS I": {
+    "Notas": [
+      8.77,
+      8.99,
+      9.19,
+      9.24,
+      9.31,
+      9.32,
+      9.33,
+      9.34,
+      9.38,
+      9.45,
+      9.5,
+      9.59,
+      9.85,
+      9.88
+    ],
+    "Desvios": [
+      2.66,
+      2.36,
+      2.35,
+      2.47,
+      2.41,
+      2.22,
+      2.28,
+      1.38,
+      2.47,
+      2.47,
+      2.35,
+      2.36,
+      1.99,
+      0.98
+    ],
+    "Docentes": [
+      "LUCELIO DANTAS DE AQUINO",
+      "WILLIAM BRENNO DOS SANTOS OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.2834085534405505,
+    "MediaDeNotas": 9.367142857142856,
+    "MediaDeDesvios": 2.196428571428571,
+    "NotaMediana": 9.34
+  },
+  "IMD0027 - PRÁTICAS DE LEITURA E ESCRITA EM PORTUGUÊS II": {
+    "Notas": [
+      9.2,
+      9.22,
+      9.38,
+      9.45,
+      9.48,
+      9.5,
+      9.55,
+      9.56,
+      9.6,
+      9.6,
+      9.64,
+      9.75,
+      9.78
+    ],
+    "Desvios": [
+      2.17,
+      2.02,
+      1.74,
+      2.29,
+      2.1,
+      2.19,
+      2.22,
+      1.76,
+      1.36,
+      1.45,
+      1.6,
+      1.62,
+      1.41
+    ],
+    "Docentes": [
+      "LUCELIO DANTAS DE AQUINO",
+      "WILLIAM BRENNO DOS SANTOS OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.16845626967524654,
+    "MediaDeNotas": 9.516153846153847,
+    "MediaDeDesvios": 1.8407692307692307,
+    "NotaMediana": 9.55
+  },
+  "IMD0028 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO I": {
+    "Notas": [
+      8.39,
+      8.67,
+      8.84,
+      8.85,
+      9.05,
+      9.05,
+      9.19,
+      9.32,
+      9.34,
+      9.49,
+      9.7,
+      9.76,
+      9.81,
+      9.83
+    ],
+    "Desvios": [
+      2.09,
+      2.04,
+      2.24,
+      2.03,
+      2.05,
+      2.18,
+      1.93,
+      1.89,
+      1.88,
+      2.43,
+      1.97,
+      1.6,
+      2.12,
+      2.09
+    ],
+    "Docentes": [
+      "NICOLAS MATHEUS DA FONSECA TINOCO DE SOUZA ARAUJO",
+      "ANTONIO DJACKSON ALVES DA SILVA",
+      "DANIEL TEIXEIRA DOS SANTOS",
+      "RAFAELA HORACINA SILVA ROCHA SOARES",
+      "LUCIANA VIEIRA ANDRADE"
+    ],
+    "DesvioDeNotas": 0.4365244224881024,
+    "MediaDeNotas": 9.235,
+    "MediaDeDesvios": 2.0385714285714287,
+    "NotaMediana": 9.32
+  },
+  "IMD0043 - REDES DE COMPUTADORES": {
+    "Notas": [
+      8.25,
+      8.86,
+      9.36,
+      9.71
+    ],
+    "Desvios": [
+      1.42,
+      2.42,
+      2.09,
+      1.69
+    ],
+    "Docentes": [
+      "SILVIO COSTA SAMPAIO",
+      "GLAUBER GALVAO DE ARAUJO",
+      "WELLINGTON SILVA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.5494770240874501,
+    "MediaDeNotas": 9.045,
+    "MediaDeDesvios": 1.9049999999999998,
+    "NotaMediana": 9.36
+  },
+  "IMD0601 - BIOESTATÍSTICA": {
+    "Notas": [
+      9.75
+    ],
+    "Desvios": [
+      1.68
+    ],
+    "Docentes": [
+      "TETSU SAKAMOTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.68,
+    "NotaMediana": 9.75
+  },
+  "IMD0802 - DESIGN DE NÍVEIS DE JOGOS": {
+    "Notas": [
+      9.02
+    ],
+    "Desvios": [
+      2.45
+    ],
+    "Docentes": [
+      "WALDSON PATRICIO DO NASCIMENTO LEANDRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.02,
+    "MediaDeDesvios": 2.45,
+    "NotaMediana": 9.02
+  },
+  "IMD0812 - JOGOS EM REDE MULTIUSUÁRIOS": {
+    "Notas": [
+      9.3
+    ],
+    "Desvios": [
+      2.23
+    ],
+    "Docentes": [
+      "WALDSON PATRICIO DO NASCIMENTO LEANDRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.3,
+    "MediaDeDesvios": 2.23,
+    "NotaMediana": 9.3
+  },
+  "IMD0511 - INTELIGÊNCIA ARTIFICIAL APLICADA À EDUCAÇÃO": {
+    "Notas": [
+      9.21,
+      9.49
+    ],
+    "Desvios": [
+      2.09,
+      2.36
+    ],
+    "Docentes": [
+      "ADJA FERREIRA DE ANDRADE",
+      "CHARLES ANDRYE GALVAO MADEIRA"
+    ],
+    "DesvioDeNotas": 0.13999999999999968,
+    "MediaDeNotas": 9.350000000000001,
+    "MediaDeDesvios": 2.2249999999999996,
+    "NotaMediana": 9.49
+  },
+  "IMD0523 - TECNOLOGIAS EDUCACIONAIS": {
+    "Notas": [
+      9.45,
+      9.46
+    ],
+    "Desvios": [
+      1.98,
+      1.44
+    ],
+    "Docentes": [
+      "ADJA FERREIRA DE ANDRADE"
+    ],
+    "DesvioDeNotas": 0.005000000000000782,
+    "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 1.71,
+    "NotaMediana": 9.46
+  },
+  "IMD0803 - JOGOS SÉRIOS E SIMULAÇÕES": {
+    "Notas": [
+      9.64
+    ],
+    "Desvios": [
+      1.14
+    ],
+    "Docentes": [
+      "ALYSON MATHEUS DE CARVALHO SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.64,
+    "MediaDeDesvios": 1.14,
+    "NotaMediana": 9.64
+  },
+  "DIM0532 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE II": {
+    "Notas": [
+      9.56
+    ],
+    "Desvios": [
+      1.47
+    ],
+    "Docentes": [
+      "ALYSON MATHEUS DE CARVALHO SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.56,
+    "MediaDeDesvios": 1.47,
+    "NotaMediana": 9.56
+  },
+  "IMD0012.0 - INTRODUÇÃO ÀS TÉCNICAS DE PROGRAMAÇÃO": {
+    "Notas": [
+      9.2,
+      9.24,
+      9.43,
+      9.52,
+      9.55,
+      9.66,
+      9.73,
+      9.76,
+      9.78,
+      9.81,
+      9.89
+    ],
+    "Desvios": [
+      1.5,
+      1.55,
+      1.6,
+      1.93,
+      2.03,
+      2.06,
+      1.4,
+      1.35,
+      1.36,
+      1.15,
+      1.12
+    ],
+    "Docentes": [
+      "ANDRE LUIZ DA SILVA SOLINO",
+      "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+      "HANDERSON BEZERRA MEDEIROS",
+      "JULIO CESAR PAULINO DE MELO",
+      "ANDRE LUIZ DE SOUZA BRITO",
+      "ISAAC FRANCO FERNANDES"
+    ],
+    "DesvioDeNotas": 0.22033408142640262,
+    "MediaDeNotas": 9.597272727272728,
+    "MediaDeDesvios": 1.55,
+    "NotaMediana": 9.66
+  },
+  "IMD0012.1 - PRÁTICAS DE TÉCNICAS DE PROGRAMAÇÃO": {
+    "Notas": [
+      9.2,
+      9.24,
+      9.56,
+      9.56,
+      9.59,
+      9.61,
+      9.75,
+      9.75,
+      9.77,
+      9.79,
+      9.88
+    ],
+    "Desvios": [
+      1.49,
+      2.05,
+      1.5,
+      1.59,
+      1.94,
+      2.09,
+      1.43,
+      1.33,
+      1.3,
+      1.16,
+      1.08
+    ],
+    "Docentes": [
+      "ANDRE LUIZ DA SILVA SOLINO",
+      "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+      "HANDERSON BEZERRA MEDEIROS",
+      "JULIO CESAR PAULINO DE MELO",
+      "ANDRE LUIZ DE SOUZA BRITO",
+      "ISAAC FRANCO FERNANDES"
+    ],
+    "DesvioDeNotas": 0.20899998022855695,
+    "MediaDeNotas": 9.60909090909091,
+    "MediaDeDesvios": 1.541818181818182,
+    "NotaMediana": 9.61
+  },
+  "IMD0801 - MECÂNICAS E BALANCEAMENTO DE JOGOS": {
+    "Notas": [
+      9.7,
+      9.81
+    ],
+    "Desvios": [
+      1.48,
+      1.35
+    ],
+    "Docentes": [
+      "ANDRE LUIZ DE SOUZA BRITO"
+    ],
+    "DesvioDeNotas": 0.055000000000000604,
+    "MediaDeNotas": 9.754999999999999,
+    "MediaDeDesvios": 1.415,
+    "NotaMediana": 9.81
+  },
+  "IMD0404 - DESENVOLVIMENTO DE SISTEMAS WEB I": {
+    "Notas": [
+      9.05,
+      9.68,
+      9.74
+    ],
+    "Desvios": [
+      1.28,
+      2.04,
+      1.21
+    ],
+    "Docentes": [
+      "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+      "HANDERSON BEZERRA MEDEIROS",
+      "NELSON ION DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.31208973068654433,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.68
+  },
+  "DIM0121 - FUNDAMENTOS MATEMÁTICOS DA COMPUTAÇÃO II": {
+    "Notas": [
+      9.2
+    ],
+    "Desvios": [
+      2.34
+    ],
+    "Docentes": [
+      "ATHANASIOS TSOUANAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.2,
+    "MediaDeDesvios": 2.34,
+    "NotaMediana": 9.2
+  },
+  "IMD0512 - AVALIAÇÃO DA INTERAÇÃO HUMANO-COMPUTADOR": {
+    "Notas": [
+      9.72
+    ],
+    "Desvios": [
+      1.38
+    ],
+    "Docentes": [
+      "BRUNO SANTANA DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.72,
+    "MediaDeDesvios": 1.38,
+    "NotaMediana": 9.72
+  },
+  "IMD0704 - ADMINISTRAÇÃO DE SERVIÇOS DE REDES PARA INTERNET": {
+    "Notas": [
+      9.18,
+      9.41
+    ],
+    "Desvios": [
+      2.05,
+      2.04
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR",
+      "GLAUBER GALVAO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.11500000000000021,
+    "MediaDeNotas": 9.295,
+    "MediaDeDesvios": 2.045,
+    "NotaMediana": 9.41
+  },
+  "IMD0702 - SERVIÇOS DE REDE E TRANSPORTE": {
+    "Notas": [
+      9.23,
+      9.63
+    ],
+    "Desvios": [
+      1.76,
+      1.73
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR",
+      "WELLINGTON SILVA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.20000000000000018,
+    "MediaDeNotas": 9.43,
+    "MediaDeDesvios": 1.745,
+    "NotaMediana": 9.63
+  },
+  "IMD0261 - TÓPICOS ESPECIAIS EM BIOINFORMÁTICA \"B\"": {
+    "Notas": [
+      9.52
+    ],
+    "Desvios": [
+      1.63
+    ],
+    "Docentes": [
+      "CESAR RENNO COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.63,
+    "NotaMediana": 9.52
+  },
+  "DIM0126 - INTELIGÊNCIA ARTIFICIAL PARA JOGOS I": {
+    "Notas": [
+      8.5
+    ],
+    "Desvios": [
+      3.06
+    ],
+    "Docentes": [
+      "CHARLES ANDRYE GALVAO MADEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.5,
+    "MediaDeDesvios": 3.06,
+    "NotaMediana": 8.5
+  },
+  "IMD0522 - JOGOS DIGITAIS COMO FERRAMENTA PEDAGÓGICA": {
+    "Notas": [
+      8.92,
+      9.63
+    ],
+    "Desvios": [
+      2.36,
+      1.25
+    ],
+    "Docentes": [
+      "CHARLES ANDRYE GALVAO MADEIRA"
+    ],
+    "DesvioDeNotas": 0.3550000000000004,
+    "MediaDeNotas": 9.275,
+    "MediaDeDesvios": 1.805,
+    "NotaMediana": 9.63
+  },
+  "IMD0531 - PRÁTICAS EDUCACIONAIS INOVADORAS COM TECNOLOGIAS DIGITAIS": {
+    "Notas": [
+      9.64,
+      9.9
+    ],
+    "Desvios": [
+      1.07,
+      1.02
+    ],
+    "Docentes": [
+      "DENNYS LEITE MAIA",
+      "EUGENIO PACCELLI AGUIAR FREIRE"
+    ],
+    "DesvioDeNotas": 0.1299999999999999,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.045,
+    "NotaMediana": 9.9
+  },
+  "IMD0530 - SOFTWARE LIVRE, EDUCAÇÃO E CULTURA": {
+    "Notas": [
+      9.78
+    ],
+    "Desvios": [
+      1.61
+    ],
+    "Docentes": [
+      "DENNYS LEITE MAIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.78,
+    "MediaDeDesvios": 1.61,
+    "NotaMediana": 9.78
+  },
+  "IMD0412 - INTRODUÇÃO AO TESTE DE SOFTWARE": {
+    "Notas": [
+      9.43,
+      9.72
+    ],
+    "Desvios": [
+      1.64,
+      1.74
+    ],
+    "Docentes": [
+      "EIJI ADACHI MEDEIROS BARBOSA"
+    ],
+    "DesvioDeNotas": 0.14500000000000046,
+    "MediaDeNotas": 9.575,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.72
+  },
+  "DIM0524 - DESENVOLVIMENTO DE SISTEMAS PARA DISPOSITIVOS MÓVEIS": {
+    "Notas": [
+      9.72
+    ],
+    "Desvios": [
+      1.46
+    ],
+    "Docentes": [
+      "EMERSON MOURA DE ALENCAR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.72,
+    "MediaDeDesvios": 1.46,
+    "NotaMediana": 9.72
+  },
+  "IMD0407 - DESIGN DE SOFTWARE II": {
+    "Notas": [
+      9.16,
+      9.29
+    ],
+    "Desvios": [
+      1.63,
+      1.49
+    ],
+    "Docentes": [
+      "FREDERICO ARAUJO DA SILVA LOPES"
+    ],
+    "DesvioDeNotas": 0.0649999999999995,
+    "MediaDeNotas": 9.225,
+    "MediaDeDesvios": 1.56,
+    "NotaMediana": 9.29
+  },
+  "IMD0036 - SISTEMAS OPERACIONAIS": {
+    "Notas": [
+      9.57,
+      9.71,
+      9.79,
+      9.9
+    ],
+    "Desvios": [
+      1.95,
+      1.74,
+      1.03,
+      1.49
+    ],
+    "Docentes": [
+      "GUSTAVO GIRAO BARRETO DA SILVA",
+      "JULIO CESAR PAULINO DE MELO"
+    ],
+    "DesvioDeNotas": 0.12028611723719396,
+    "MediaDeNotas": 9.7425,
+    "MediaDeDesvios": 1.5525,
+    "NotaMediana": 9.79
+  },
+  "IMD0513 - EMPREENDEDORISMO": {
+    "Notas": [
+      9.63,
+      9.63
+    ],
+    "Desvios": [
+      1.75,
+      1.31
+    ],
+    "Docentes": [
+      "IRIS LINHARES PIMENTA GURGEL"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.63,
+    "MediaDeDesvios": 1.53,
+    "NotaMediana": 9.63
+  },
+  "IMD0411 - INTRODUÇÃO À GOVERNANÇA E GESTÃO DE TI": {
+    "Notas": [
+      9.57,
+      9.68
+    ],
+    "Desvios": [
+      1.76,
+      0.97
+    ],
+    "Docentes": [
+      "IRIS LINHARES PIMENTA GURGEL"
+    ],
+    "DesvioDeNotas": 0.054999999999999716,
+    "MediaDeNotas": 9.625,
+    "MediaDeDesvios": 1.365,
+    "NotaMediana": 9.68
+  },
+  "IMD0821 - TÉCNICAS AVANÇADAS PARA MOTORES DE JOGOS DIGITAIS": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      1.64
+    ],
+    "Docentes": [
+      "ISAAC FRANCO FERNANDES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.64,
+    "NotaMediana": 9.57
+  },
+  "IMD0401 - BANCO DE DADOS": {
+    "Notas": [
+      9,
+      9.71,
+      9.87
+    ],
+    "Desvios": [
+      2.33,
+      0.65,
+      1.23
+    ],
+    "Docentes": [
+      "JOAO CARLOS XAVIER JUNIOR",
+      "RODRIGO TEIXEIRA RAMOS"
+    ],
+    "DesvioDeNotas": 0.3780946383586462,
+    "MediaDeNotas": 9.526666666666666,
+    "MediaDeDesvios": 1.4033333333333333,
+    "NotaMediana": 9.71
+  },
+  "IMD0602 - FERRAMENTAS PARA ANÁLISE DE SEQUÊNCIAS": {
+    "Notas": [
+      9.52,
+      9.79,
+      9.81,
+      9.9
+    ],
+    "Desvios": [
+      0.82,
+      0.93,
+      1.13,
+      0.87
+    ],
+    "Docentes": [
+      "JORGE ESTEFANO SANTANA DE SOUZA",
+      "TETSU SAKAMOTO",
+      "CESAR RENNO COSTA"
+    ],
+    "DesvioDeNotas": 0.14186260959111133,
+    "MediaDeNotas": 9.754999999999999,
+    "MediaDeDesvios": 0.9375,
+    "NotaMediana": 9.81
+  },
+  "IMD0212 - INGLÊS NÍVEL BÁSICO": {
+    "Notas": [
+      9.93,
+      9.93
+    ],
+    "Desvios": [
+      1.64,
+      1.7
+    ],
+    "Docentes": [
+      "LORENA AZEVEDO DE SOUSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.93,
+    "MediaDeDesvios": 1.67,
+    "NotaMediana": 9.93
+  },
+  "IMD0044 - PRÁTICAS DE LEITURA E ESCRITA EM INGLÊS": {
+    "Notas": [
+      9.08
+    ],
+    "Desvios": [
+      2.58
+    ],
+    "Docentes": [
+      "MIRLA RODRIGUES PINTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.08,
+    "MediaDeDesvios": 2.58,
+    "NotaMediana": 9.08
+  },
+  "IMD0703 - SEGURANÇA DE REDES": {
+    "Notas": [
+      9.55,
+      9.8
+    ],
+    "Desvios": [
+      1.94,
+      0.96
+    ],
+    "Docentes": [
+      "SILVIO COSTA SAMPAIO"
+    ],
+    "DesvioDeNotas": 0.125,
+    "MediaDeNotas": 9.675,
+    "MediaDeDesvios": 1.45,
+    "NotaMediana": 9.8
+  },
+  "IMD0822 - PROJETO DE INOVAÇÃO TECNOLÓGICA": {
+    "Notas": [
+      9.79
+    ],
+    "Desvios": [
+      1.1
+    ],
+    "Docentes": [
+      "ANDERSON PAIVA CRUZ"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.79,
+    "MediaDeDesvios": 1.1,
+    "NotaMediana": 9.79
+  },
+  "IMD0211 - PROGRAMAÇÃO FUNCIONAL": {
+    "Notas": [
+      9.78
+    ],
+    "Desvios": [
+      1.86
+    ],
+    "Docentes": [
+      "ATHANASIOS TSOUANAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.78,
+    "MediaDeDesvios": 1.86,
+    "NotaMediana": 9.78
+  },
+  "IMD0107 - TÓPICOS ESPECIAIS EM TECNOLOGIA DA INFORMAÇÃO VIII": {
+    "Notas": [
+      9.64
+    ],
+    "Desvios": [
+      1.66
+    ],
+    "Docentes": [
+      "BRUNO SANTANA DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.64,
+    "MediaDeDesvios": 1.66,
+    "NotaMediana": 9.64
+  },
+  "IMD0517 - FUNDAMENTOS PEDAGÓGICOS PARA A INFORMÁTICA EDUCACIONAL I": {
+    "Notas": [
+      9.85
+    ],
+    "Desvios": [
+      1.44
+    ],
+    "Docentes": [
+      "DENNYS LEITE MAIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.85,
+    "MediaDeDesvios": 1.44,
+    "NotaMediana": 9.85
+  },
+  "IMD0509 - DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS": {
+    "Notas": [
+      9.47
+    ],
+    "Desvios": [
+      1.91
+    ],
+    "Docentes": [
+      "EMERSON MOURA DE ALENCAR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.47,
+    "MediaDeDesvios": 1.91,
+    "NotaMediana": 9.47
+  },
+  "IMD0041 - INTRODUÇÃO A ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES": {
+    "Notas": [
+      9.55,
+      9.86
+    ],
+    "Desvios": [
+      1.71,
+      2.07
+    ],
+    "Docentes": [
+      "GUSTAVO GIRAO BARRETO DA SILVA",
+      "JULIO CESAR PAULINO DE MELO"
+    ],
+    "DesvioDeNotas": 0.15499999999999936,
+    "MediaDeNotas": 9.705,
+    "MediaDeDesvios": 1.89,
+    "NotaMediana": 9.86
+  },
+  "IMD0405 - FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO": {
+    "Notas": [
+      9.72
+    ],
+    "Desvios": [
+      1.88
+    ],
+    "Docentes": [
+      "IRIS LINHARES PIMENTA GURGEL"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.72,
+    "MediaDeDesvios": 1.88,
+    "NotaMediana": 9.72
+  },
+  "DIM0615.1 - LABORATORIO DE PROJETO DE SISTEMAS OPERACIONAIS": {
+    "Notas": [
+      9.7
+    ],
+    "Desvios": [
+      1.91
+    ],
+    "Docentes": [
+      "JULIO CESAR PAULINO DE MELO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.7,
+    "MediaDeDesvios": 1.91,
+    "NotaMediana": 9.7
+  },
+  "DIM0615.0 - PROJETO DE SISTEMAS OPERACIONAIS": {
+    "Notas": [
+      9.52
+    ],
+    "Desvios": [
+      1.85
+    ],
+    "Docentes": [
+      "JULIO CESAR PAULINO DE MELO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.85,
+    "NotaMediana": 9.52
+  },
+  "IMD0236 - TÓPICOS ESPECIAIS EM SISTEMAS EMBARCADOS \"G\"": {
+    "Notas": [
+      9.74
+    ],
+    "Desvios": [
+      1.49
+    ],
+    "Docentes": [
+      "JULIO CESAR PAULINO DE MELO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.74,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.74
+  },
+  "DIM0436 - ESPECIFICACAO E VERIFICACAO DE PROGRAMAS": {
+    "Notas": [
+      9.93
+    ],
+    "Desvios": [
+      1.67
+    ],
+    "Docentes": [
+      "RODRIGO TEIXEIRA RAMOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.93,
+    "MediaDeDesvios": 1.67,
+    "NotaMediana": 9.93
+  },
+  "IMD0403 - PROGRAMAÇÃO COM BANCO DE DADOS": {
+    "Notas": [
+      9.35
+    ],
+    "Desvios": [
+      1.98
+    ],
+    "Docentes": [
+      "RODRIGO TEIXEIRA RAMOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.35,
+    "MediaDeDesvios": 1.98,
+    "NotaMediana": 9.35
+  },
+  "IMD0519 - APRENDIZAGEM BASEADA EM PROJETOS": {
+    "Notas": [
+      9.29
+    ],
+    "Desvios": [
+      1.69
+    ],
+    "Docentes": [
+      "ADJA FERREIRA DE ANDRADE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.29,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.29
+  },
+  "IMD0019 - RESOLUÇÃO DE PROBLEMAS MATEMÁTICOS PARA TI": {
+    "Notas": [
+      9.2,
+      9.4,
+      9.49,
+      9.62,
+      9.82
+    ],
+    "Desvios": [
+      1.48,
+      1.29,
+      1.25,
+      1.49,
+      1.51
+    ],
+    "Docentes": [
+      "ANDRE LUIZ DA SILVA SOLINO",
+      "ANTONIO DJACKSON ALVES DA SILVA",
+      "AUGUSTO JORGE DE MACEDO",
+      "CHARLES ANDRYE GALVAO MADEIRA",
+      "LOURENA KARIN DE MEDEIROS ROCHA"
+    ],
+    "DesvioDeNotas": 0.20819221887476985,
+    "MediaDeNotas": 9.506,
+    "MediaDeDesvios": 1.404,
+    "NotaMediana": 9.49
+  },
+  "IMD0920 - TECNOLOGIA DA INFORMAÇÃO NA SAÚDE": {
+    "Notas": [
+      9.03,
+      9.35
+    ],
+    "Desvios": [
+      1.33,
+      1.21
+    ],
+    "Docentes": [
+      "ANNA GISELLE CAMARA DANTAS RIBEIRO RODRIGUES",
+      "JULIO CESAR PAULINO DE MELO"
+    ],
+    "DesvioDeNotas": 0.16000000000000014,
+    "MediaDeNotas": 9.19,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.35
+  },
+  "IMD0504 - RELAÇÕES ENTRE COMUNICAÇÃO, MÍDIA E EDUCAÇÃO": {
+    "Notas": [
+      9.08,
+      9.43
+    ],
+    "Desvios": [
+      1.74,
+      1.58
+    ],
+    "Docentes": [
+      "BRUNO SANTANA DA SILVA",
+      "EUGENIO PACCELLI AGUIAR FREIRE"
+    ],
+    "DesvioDeNotas": 0.17499999999999982,
+    "MediaDeNotas": 9.254999999999999,
+    "MediaDeDesvios": 1.6600000000000001,
+    "NotaMediana": 9.43
+  },
+  "IMD0253 - TÓPICOS ESPECIAIS EM INFORMÁTICA EDUCACIONAL \"D\"": {
+    "Notas": [
+      9.75
+    ],
+    "Desvios": [
+      1.07
+    ],
+    "Docentes": [
+      "BRUNO SANTANA DA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.07,
+    "NotaMediana": 9.75
+  },
+  "IMD0406 - PROTOCOLO E SERVIÇOS DE INTERNET": {
+    "Notas": [
+      9.85
+    ],
+    "Desvios": [
+      1.05
+    ],
+    "Docentes": [
+      "DANILO CURVELO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.85,
+    "MediaDeDesvios": 1.05,
+    "NotaMediana": 9.85
+  },
+  "IMD0251 - TÓPICOS ESPECIAIS EM INFORMÁTICA EDUCACIONAL \"B\"": {
+    "Notas": [
+      9.99
+    ],
+    "Desvios": [
+      0.82
+    ],
+    "Docentes": [
+      "DENNYS LEITE MAIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.99,
+    "MediaDeDesvios": 0.82,
+    "NotaMediana": 9.99
+  },
+  "IMD0233 - TÓPICOS ESPECIAIS EM SISTEMAS EMBARCADOS \"D\"": {
+    "Notas": [
+      9.87
+    ],
+    "Desvios": [
+      1.11
+    ],
+    "Docentes": [
+      "FERNANDA PALHANO XAVIER DE FONTES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.87,
+    "MediaDeDesvios": 1.11,
+    "NotaMediana": 9.87
+  },
+  "DIM0531 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE I": {
+    "Notas": [
+      8.2
+    ],
+    "Desvios": [
+      1.78
+    ],
+    "Docentes": [
+      "FREDERICO ARAUJO DA SILVA LOPES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.2,
+    "MediaDeDesvios": 1.78,
+    "NotaMediana": 8.2
+  },
+  "IMD0712 - GERÊNCIA DE REDES": {
+    "Notas": [
+      9.12
+    ],
+    "Desvios": [
+      1.92
+    ],
+    "Docentes": [
+      "GLAUBER GALVAO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.12,
+    "MediaDeDesvios": 1.92,
+    "NotaMediana": 9.12
+  },
+  "IMD0502 - PROCESSO DE DESENVOLVIMENTO DE SOFTWARE EDUCACIONAL": {
+    "Notas": [
+      9.73
+    ],
+    "Desvios": [
+      1.51
+    ],
+    "Docentes": [
+      "ISABEL DILLMANN NUNES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.73
+  },
+  "IMD0252 - TÓPICOS ESPECIAIS EM INFORMÁTICA EDUCACIONAL \"C\"": {
+    "Notas": [
+      9.59
+    ],
+    "Desvios": [
+      1.33
+    ],
+    "Docentes": [
+      "ISABEL DILLMANN NUNES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.33,
+    "NotaMediana": 9.59
+  },
+  "IMD0335 - TÓPICOS ESPECIAIS I": {
+    "Notas": [
+      9.6
+    ],
+    "Desvios": [
+      1.23
+    ],
+    "Docentes": [
+      "LUCELIO DANTAS DE AQUINO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.6,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.6
+  }
+}

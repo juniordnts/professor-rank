@@ -1,0 +1,2612 @@
+[
+    {
+        "Docente": "ADRIANO DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FIS0314 - TERMODINAMICA",
+        "Turma": "3",
+        "Horário": "35M56",
+        "Discentes": "10",
+        "Média Geral": "7.84",
+        "Desvio Padrão Geral": "3.58"
+    },
+    {
+        "Docente": "ALEXANDRE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "6",
+        "Horário": "5T123",
+        "Discentes": "8",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "ALEXANDRE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FIS0624 - FISICA QUANTICA I",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "17",
+        "Média Geral": "8.15",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "ANDRÉ AFONSO ARAÚJO MARINHO",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "6T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "12",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "ANDRÉ AFONSO ARAÚJO MARINHO",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "4",
+        "Horário": "3M123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "14",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "ANDRÉ AFONSO ARAÚJO MARINHO",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "5",
+        "Horário": "3M456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "19",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "AUTA STELLA DE MEDEIROS GERMANO",
+        "Componente Curricular": "FIS0735 - ASTRONOMIA BASICA",
+        "Turma": "1",
+        "Horário": "46N12",
+        "Discentes": "24",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "AUTA STELLA DE MEDEIROS GERMANO",
+        "Componente Curricular": "FIS0748 - INSTRUMENTACAO PARA O ENSINO DE FISICA I",
+        "Turma": "1",
+        "Horário": "46N34",
+        "Discentes": "6",
+        "Média Geral": "8.79",
+        "Desvio Padrão Geral": "2.92"
+    },
+    {
+        "Docente": "BRUNO LEONARDO CANTO MARTINS",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "5",
+        "Horário": "246T12",
+        "Discentes": "38",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "BRUNO RICARDO DE CARVALHO",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "6M456",
+        "Discentes": "20",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "BRUNO RICARDO DE CARVALHO",
+        "Componente Curricular": "FIS0622 - FISICA MODERNA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "22",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "CARLOS CHESMAN DE ARAUJO FEITOSA",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "4",
+        "Horário": "4T123",
+        "Discentes": "18",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "CICLAMIO LEITE BARRETO",
+        "Componente Curricular": "FIS0701 - FISICA BASICA I",
+        "Turma": "1",
+        "Horário": "246N34",
+        "Discentes": "32",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.43"
+    },
+    {
+        "Docente": "CICLAMIO LEITE BARRETO",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "29",
+        "Média Geral": "7.82",
+        "Desvio Padrão Geral": "3.34"
+    },
+    {
+        "Docente": "DORY HELIO AIRES DE LIMA ANSELMO",
+        "Componente Curricular": "FIS0650 - INTRODUCAO A FISICA DO ESTADO SOLIDO I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "5",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "EDIMILSON FÉLIX DA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "7",
+        "Horário": "2T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "11",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "EDIMILSON FÉLIX DA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "9",
+        "Horário": "6T456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "19",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "EDIMILSON FÉLIX DA SILVA",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "1",
+        "Horário": "246N12",
+        "Discentes": "35",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "EDIMILSON FÉLIX DA SILVA",
+        "Componente Curricular": "FIS0666 - LABORATORIO DE FLUIDOS E TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "13",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "FELIPE BOHN",
+        "Componente Curricular": "FIS0619 - ELETROMAGNETISMO CLASSICO I",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "19",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "FLAVIA POLATI FERREIRA",
+        "Componente Curricular": "FIS0701 - FISICA BASICA I",
+        "Turma": "2",
+        "Horário": "246N34",
+        "Discentes": "29",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "FLAVIA POLATI FERREIRA",
+        "Componente Curricular": "FIS0703 - FISICA BASICA III",
+        "Turma": "1",
+        "Horário": "246N12",
+        "Discentes": "26",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "HORACIO SANTANA VIEIRA",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "4",
+        "Horário": "246M34",
+        "Discentes": "41",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "2.87"
+    },
+    {
+        "Docente": "HORACIO SANTANA VIEIRA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "6",
+        "Horário": "246T12",
+        "Discentes": "31",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "HORACIO SANTANA VIEIRA",
+        "Componente Curricular": "FIS0313 - ONDAS E FISICA MODERNA",
+        "Turma": "3",
+        "Horário": "35N34",
+        "Discentes": "7",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "IZAN DE CASTRO LEÃO",
+        "Componente Curricular": "FIS0704 - FISICA BASICA IV",
+        "Turma": "1",
+        "Horário": "246N12",
+        "Discentes": "6",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "IZAN DE CASTRO LEÃO",
+        "Componente Curricular": "FIS0656 - FISICA MATEMATICA II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "19",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "2.47"
+    },
+    {
+        "Docente": "JOAO MEDEIROS DE ARAUJO",
+        "Componente Curricular": "FIS0728 - TERMODINAMICA E FISICA ESTATISTICA",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "17",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "JOSE CRISANTO DA COSTA NETO",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "10",
+        "Horário": "5N123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "10",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "JOSE CRISANTO DA COSTA NETO",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "3",
+        "Horário": "2T123",
+        "Discentes": "15",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "JOSE CRISANTO DA COSTA NETO",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "7",
+        "Horário": "6T456",
+        "Discentes": "6",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.89"
+    },
+    {
+        "Docente": "JOSE CRISANTO DA COSTA NETO",
+        "Componente Curricular": "FIS0743 - LABORATORIO BASICO DE ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "3N12",
+        "Discentes": "18",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "JOSE CRISANTO DA COSTA NETO",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "3",
+        "Horário": "246N34",
+        "Discentes": "37",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "JOSE DIAS DO NASCIMENTO JUNIOR",
+        "Componente Curricular": "FIS0660 - INTRODUÇÃO A ASTRONOMIA",
+        "Turma": "1",
+        "Horário": "46T34",
+        "Discentes": "17",
+        "Média Geral": "8.38",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0611 - LABORATORIO DE ELETRONICA",
+        "Turma": "1",
+        "Horário": "2T123 4T12",
+        "Discentes": "10",
+        "Média Geral": "7.01",
+        "Desvio Padrão Geral": "3.27"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0721 - MECANICA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "19",
+        "Média Geral": "8.4",
+        "Desvio Padrão Geral": "2.76"
+    },
+    {
+        "Docente": "JOSE RENAN DE MEDEIROS",
+        "Componente Curricular": "FIS0313 - ONDAS E FISICA MODERNA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "JOSE WILSON DE PAIVA MACEDO",
+        "Componente Curricular": "FIS0740 - FISICA BASICA II",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "14",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JOSE WILSON DE PAIVA MACEDO",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "24",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.65"
+    },
+    {
+        "Docente": "JOSE WILSON DE PAIVA MACEDO",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "4",
+        "Horário": "35T12",
+        "Discentes": "25",
+        "Média Geral": "8.62",
+        "Desvio Padrão Geral": "2.75"
+    },
+    {
+        "Docente": "JULIANA MESQUITA HIDALGO FERREIRA",
+        "Componente Curricular": "FIS0627 - HISTORIA E FILOSOFIA DA CIENCIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "14",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "JULIANA MESQUITA HIDALGO FERREIRA",
+        "Componente Curricular": "FIS0734 - NOVAS CONCEPCOES DO ENSINO DE FISICA",
+        "Turma": "1",
+        "Horário": "5N12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "31",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "LEONARDO ANDRADE DE ALMEIDA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "8",
+        "Horário": "4T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "LEONARDO DANTAS MACHADO",
+        "Componente Curricular": "FIS0610 - FISICA COMPUTACIONAL I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "19",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "LEONARDO DANTAS MACHADO",
+        "Componente Curricular": "FIS0610 - FISICA COMPUTACIONAL I",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "12",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "LUCIANO RODRIGUES DA SILVA",
+        "Componente Curricular": "FIS0604 - ONDAS E OPTICA",
+        "Turma": "1",
+        "Horário": "46N34",
+        "Discentes": "41",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "LUIZ FELIPE CAVALCANTI PEREIRA",
+        "Componente Curricular": "FIS0745 - CONCEITOS DE FISICA MODERNA I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "25",
+        "Média Geral": "7.98",
+        "Desvio Padrão Geral": "3.3"
+    },
+    {
+        "Docente": "MADRAS VISWANATHAN GANDHI MOHAN",
+        "Componente Curricular": "FIS0621 - TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "20",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "MARCIO ASSOLIN CORREA",
+        "Componente Curricular": "FIS0714 - LABORATORIO DE FISICA MODERNA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "19",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "6T123",
+        "Discentes": "17",
+        "Média Geral": "8.41",
+        "Desvio Padrão Geral": "2.89"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "5",
+        "Horário": "2T456",
+        "Discentes": "10",
+        "Média Geral": "7.1",
+        "Desvio Padrão Geral": "3.57"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0668 - LABORATORIO DE ONDAS E OPTICA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "18",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "2.78"
+    },
+    {
+        "Docente": "MATTHIEU SEBASTIEN CASTRO",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "14",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "2.68"
+    },
+    {
+        "Docente": "MATTHIEU SEBASTIEN CASTRO",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "3",
+        "Horário": "24T12",
+        "Discentes": "11",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "MILTON THIAGO SCHIVANI ALVES",
+        "Componente Curricular": "FIS0750 - ASTRONOMIA",
+        "Turma": "1",
+        "Horário": "36N34",
+        "Discentes": "25",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "MILTON THIAGO SCHIVANI ALVES",
+        "Componente Curricular": "FIS0031 - INTRODUÇÃO À FÍSICA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "38",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "NILZA PIRES",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "29",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "NILZA PIRES",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "21",
+        "Média Geral": "8",
+        "Desvio Padrão Geral": "3.47"
+    },
+    {
+        "Docente": "NILZA PIRES",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "5",
+        "Horário": "35M34",
+        "Discentes": "14",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "RAIMUNDO SILVA JUNIOR",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "3",
+        "Horário": "35M56",
+        "Discentes": "30",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "RAIMUNDO SILVA JUNIOR",
+        "Componente Curricular": "FIS0313 - ONDAS E FISICA MODERNA",
+        "Turma": "4",
+        "Horário": "35M12",
+        "Discentes": "16",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "2.47"
+    },
+    {
+        "Docente": "RODRIGO FERNANDES LIRA DE HOLANDA",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "2",
+        "Horário": "246T12",
+        "Discentes": "21",
+        "Média Geral": "7.27",
+        "Desvio Padrão Geral": "2.69"
+    },
+    {
+        "Docente": "RODRIGO FERNANDES LIRA DE HOLANDA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "41",
+        "Média Geral": "7.63",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "RODRIGO GONCALVES PEREIRA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "4",
+        "Horário": "246M34",
+        "Discentes": "36",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "RODRIGO GONCALVES PEREIRA",
+        "Componente Curricular": "FIS0615 - MECANICA CLASSICA I",
+        "Turma": "1",
+        "Horário": "46T12",
+        "Discentes": "30",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "SUZANA NOBREGA DE MEDEIROS",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "3",
+        "Horário": "246M56",
+        "Discentes": "40",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "SYLVIO QUEZADO DE MAGALHAES",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "2",
+        "Horário": "35M12",
+        "Discentes": "30",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "SYLVIO QUEZADO DE MAGALHAES",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "5M456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "20",
+        "Média Geral": "8.45",
+        "Desvio Padrão Geral": "2.51"
+    },
+    {
+        "Docente": "TOMMASO MACRI",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "6",
+        "Horário": "3T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "17",
+        "Média Geral": "7.65",
+        "Desvio Padrão Geral": "2.89"
+    },
+    {
+        "Docente": "TOMMASO MACRI",
+        "Componente Curricular": "FIS0605 - NOVAS CONCEPCOES DA FISICA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "44",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "UILAME UMBELINO GOMES",
+        "Componente Curricular": "FIS0664 - INTRODUÇÃO A FLUIDOS E TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "12",
+        "Média Geral": "8.29",
+        "Desvio Padrão Geral": "2.83"
+    },
+    {
+        "Docente": "UILAME UMBELINO GOMES",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "2",
+        "Horário": "246T12",
+        "Discentes": "42",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "2.65"
+    },
+    {
+        "Docente": "WILSON ACCHAR",
+        "Componente Curricular": "FIS0313 - ONDAS E FISICA MODERNA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "27",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "WILSON ACCHAR",
+        "Componente Curricular": "FIS0314 - TERMODINAMICA",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "44",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "ADRIANO DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "2",
+        "Horário": "246M34",
+        "Discentes": "13",
+        "Média Geral": "8.1",
+        "Desvio Padrão Geral": "3.25"
+    },
+    {
+        "Docente": "ALEXANDRE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "2T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "20",
+        "Média Geral": "7.44",
+        "Desvio Padrão Geral": "2.75"
+    },
+    {
+        "Docente": "ALEXANDRE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FIS0616 - MECANICA CLASSICA II",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "10",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "ALILIANE ALMEIDA DE FREITAS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "8",
+        "Horário": "6N123",
+        "Discentes": "10",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "AUTA STELLA DE MEDEIROS GERMANO",
+        "Componente Curricular": "FIS0749 - INSTRUMENTACAO PARA ENSINO DE FISICA II",
+        "Turma": "1",
+        "Horário": "46N12",
+        "Discentes": "5",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "AUTA STELLA DE MEDEIROS GERMANO",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "3",
+        "Horário": "246T56",
+        "Discentes": "47",
+        "Média Geral": "7.45",
+        "Desvio Padrão Geral": "3.09"
+    },
+    {
+        "Docente": "BRUNO LEONARDO CANTO MARTINS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "6T456",
+        "Discentes": "9",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "BRUNO LEONARDO CANTO MARTINS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "4",
+        "Horário": "2T123",
+        "Discentes": "18",
+        "Média Geral": "8.54",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "BRUNO LEONARDO CANTO MARTINS",
+        "Componente Curricular": "FIS0744 - LABORATORIO BASICO DE ONDAS E OPTICA",
+        "Turma": "1",
+        "Horário": "6N34",
+        "Discentes": "10",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "BRUNO RICARDO DE CARVALHO",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "6T123",
+        "Discentes": "18",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "BRUNO RICARDO DE CARVALHO",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "49",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "CARLOS CHESMAN DE ARAUJO FEITOSA",
+        "Componente Curricular": "FIS0667 - LABORATORIO DE ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "2M34",
+        "Discentes": "20",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "CARLOS CHESMAN DE ARAUJO FEITOSA",
+        "Componente Curricular": "FIS0609 - LABORATORIO DE FISICA MODERNA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "12",
+        "Média Geral": "8.46",
+        "Desvio Padrão Geral": "2.56"
+    },
+    {
+        "Docente": "CICLAMIO LEITE BARRETO",
+        "Componente Curricular": "FIS0746 - CONCEITOS DE FISICA MODERNA II",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "15",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "CLAUDIONOR GOMES BEZERRA",
+        "Componente Curricular": "FIS0313 - ONDAS E FISICA MODERNA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "37",
+        "Média Geral": "8.63",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "DORY HELIO AIRES DE LIMA ANSELMO",
+        "Componente Curricular": "FIS0725 - ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "26",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "DORY HELIO AIRES DE LIMA ANSELMO",
+        "Componente Curricular": "FIS0740 - FISICA BASICA II",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "30",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "EDIMILSON FÉLIX DA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "4",
+        "Horário": "6T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "EDIMILSON FÉLIX DA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "5",
+        "Horário": "3N123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "17",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "EDIMILSON FÉLIX DA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "6",
+        "Horário": "5T456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "21",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "EDIMILSON FÉLIX DA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "7",
+        "Horário": "6T456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "EDIMILSON FÉLIX DA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "8",
+        "Horário": "5N123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "12",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "EDIMILSON FÉLIX DA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "10",
+        "Horário": "3T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "15",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "FELIPE BOHN",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "12",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "0.62"
+    },
+    {
+        "Docente": "HORACIO SANTANA VIEIRA",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "8",
+        "Horário": "35N12",
+        "Discentes": "39",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "HORACIO SANTANA VIEIRA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "3",
+        "Horário": "246T12",
+        "Discentes": "45",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "HORACIO SANTANA VIEIRA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "4",
+        "Horário": "246N12",
+        "Discentes": "41",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "IZAN DE CASTRO LEÃO",
+        "Componente Curricular": "FIS0704 - FISICA BASICA IV",
+        "Turma": "1",
+        "Horário": "246N12",
+        "Discentes": "23",
+        "Média Geral": "8.73",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "IZAN DE CASTRO LEÃO",
+        "Componente Curricular": "FIS0657 - FISICA MATEMATICA III",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "16",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "JOSE CRISANTO DA COSTA NETO",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "5",
+        "Horário": "246T12",
+        "Discentes": "29",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "JOSE CRISANTO DA COSTA NETO",
+        "Componente Curricular": "FIS0747 - TOPICOS DE FISICA MODERNA",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "13",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "0.84"
+    },
+    {
+        "Docente": "JOSE DIAS DO NASCIMENTO JUNIOR",
+        "Componente Curricular": "FIS0664 - INTRODUÇÃO A FLUIDOS E TERMODINAMICA",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "9",
+        "Média Geral": "8.31",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "3",
+        "Horário": "6M456",
+        "Discentes": "20",
+        "Média Geral": "7.16",
+        "Desvio Padrão Geral": "3.26"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "7",
+        "Horário": "5T123",
+        "Discentes": "18",
+        "Média Geral": "7.02",
+        "Desvio Padrão Geral": "3.24"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0666 - LABORATORIO DE FLUIDOS E TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "6T12",
+        "Discentes": "12",
+        "Média Geral": "8.37",
+        "Desvio Padrão Geral": "2.63"
+    },
+    {
+        "Docente": "JOSE RENAN DE MEDEIROS",
+        "Componente Curricular": "FIS0604 - ONDAS E OPTICA",
+        "Turma": "3",
+        "Horário": "35M56",
+        "Discentes": "20",
+        "Média Geral": "7.55",
+        "Desvio Padrão Geral": "2.8"
+    },
+    {
+        "Docente": "JOSE WILSON DE PAIVA MACEDO",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "24",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.72"
+    },
+    {
+        "Docente": "JOSE WILSON DE PAIVA MACEDO",
+        "Componente Curricular": "FIS0664 - INTRODUÇÃO A FLUIDOS E TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "14",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "JULIANA MESQUITA HIDALGO FERREIRA",
+        "Componente Curricular": "FIS0729 - HISTORIA E FILOSOFIA DA CIENCIA",
+        "Turma": "1",
+        "Horário": "246N34",
+        "Discentes": "21",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "LAURA TERESA CORREDOR BOHORQUEZ",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "4",
+        "Horário": "2T123",
+        "Discentes": "18",
+        "Média Geral": "8.07",
+        "Desvio Padrão Geral": "2.94"
+    },
+    {
+        "Docente": "LAURA TERESA CORREDOR BOHORQUEZ",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "6",
+        "Horário": "4T123",
+        "Discentes": "20",
+        "Média Geral": "8.49",
+        "Desvio Padrão Geral": "2.6"
+    },
+    {
+        "Docente": "LAURA TERESA CORREDOR BOHORQUEZ",
+        "Componente Curricular": "FIS0667 - LABORATORIO DE ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "2M34",
+        "Discentes": "20",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "2.59"
+    },
+    {
+        "Docente": "LAURA TERESA CORREDOR BOHORQUEZ",
+        "Componente Curricular": "FIS0665 - LABORATORIO DE MECANICA",
+        "Turma": "1",
+        "Horário": "6M56",
+        "Discentes": "15",
+        "Média Geral": "7.37",
+        "Desvio Padrão Geral": "3.02"
+    },
+    {
+        "Docente": "LEONARDO ANDRADE DE ALMEIDA",
+        "Componente Curricular": "FIS0742 - LABORATORIO BASICO DE FLUIDOS E TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "6N34",
+        "Discentes": "25",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "LEONARDO DANTAS MACHADO",
+        "Componente Curricular": "FIS0628 - FISICA COMPUTACIONAL II",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "20",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "LUCIANO RODRIGUES DA SILVA",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "51",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "LUIZ FELIPE CAVALCANTI PEREIRA",
+        "Componente Curricular": "FIS0626 - FISICA ESTATISTICA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "11",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "MADRAS VISWANATHAN GANDHI MOHAN",
+        "Componente Curricular": "FIS0623 - FISICA MODERNA II",
+        "Turma": "1",
+        "Horário": "46M56",
+        "Discentes": "18",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "MARCIO ASSOLIN CORREA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "3",
+        "Horário": "5M456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "MARCIO ASSOLIN CORREA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "11",
+        "Horário": "3M456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "17",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "4T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "12",
+        "Horário": "3M123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "12",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "2.4"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0668 - LABORATORIO DE ONDAS E OPTICA",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "5",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "MATTHIEU SEBASTIEN CASTRO",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "3",
+        "Horário": "24M56",
+        "Discentes": "30",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "MATTHIEU SEBASTIEN CASTRO",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "4",
+        "Horário": "24N12",
+        "Discentes": "18",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "MILTON THIAGO SCHIVANI ALVES",
+        "Componente Curricular": "FIS0748 - INSTRUMENTACAO PARA O ENSINO DE FISICA I",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "14",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "MILTON THIAGO SCHIVANI ALVES",
+        "Componente Curricular": "FIS0741 - LABORATORIO BASICO DE MECANICA",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "21",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "NILZA PIRES",
+        "Componente Curricular": "FIS0655 - FISICA MATEMATICA I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "27",
+        "Média Geral": "8.42",
+        "Desvio Padrão Geral": "2.6"
+    },
+    {
+        "Docente": "NILZA PIRES",
+        "Componente Curricular": "FIS0604 - ONDAS E OPTICA",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "22",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "2.38"
+    },
+    {
+        "Docente": "RAFAELA MEDEIROS DE SOUZA",
+        "Componente Curricular": "FIS0701 - FISICA BASICA I",
+        "Turma": "1",
+        "Horário": "246N12",
+        "Discentes": "42",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "RAFAELA MEDEIROS DE SOUZA",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "2",
+        "Horário": "246M56",
+        "Discentes": "40",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "RAFAELA MEDEIROS DE SOUZA",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "4",
+        "Horário": "246T12",
+        "Discentes": "33",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "RAIMUNDO SILVA JUNIOR",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "9",
+        "Horário": "35T12",
+        "Discentes": "14",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "RAIMUNDO SILVA JUNIOR",
+        "Componente Curricular": "FIS0618 - RELATIVIDADE ESPECIAL",
+        "Turma": "1",
+        "Horário": "46M34",
+        "Discentes": "26",
+        "Média Geral": "7.97",
+        "Desvio Padrão Geral": "2.7"
+    },
+    {
+        "Docente": "RODRIGO FERNANDES LIRA DE HOLANDA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "35",
+        "Média Geral": "7.57",
+        "Desvio Padrão Geral": "2.44"
+    },
+    {
+        "Docente": "SUZANA NOBREGA DE MEDEIROS",
+        "Componente Curricular": "FIS0620 - ELETROMAGNETISMO CLASSICO II",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "15",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "SYLVIO QUEZADO DE MAGALHAES",
+        "Componente Curricular": "FIS0703 - FISICA BASICA III",
+        "Turma": "1",
+        "Horário": "246N12",
+        "Discentes": "8",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "UILAME UMBELINO GOMES",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "32",
+        "Média Geral": "8.23",
+        "Desvio Padrão Geral": "2.74"
+    },
+    {
+        "Docente": "UILAME UMBELINO GOMES",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "3",
+        "Horário": "35T12",
+        "Discentes": "38",
+        "Média Geral": "8.4",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "WILSON ACCHAR",
+        "Componente Curricular": "FIS0314 - TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "38",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "ADRIANO DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "14",
+        "Média Geral": "7.58",
+        "Desvio Padrão Geral": "3.2"
+    },
+    {
+        "Docente": "ALEXANDRE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "ECT2402 - INTRODUÇÃO À FÍSICA CLÁSSICA III",
+        "Turma": "1",
+        "Horário": "35T34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "22",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "ALEXANDRE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "4",
+        "Horário": "246T12",
+        "Discentes": "34",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2.38"
+    },
+    {
+        "Docente": "ALILIANE ALMEIDA DE FREITAS",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "3",
+        "Horário": "35T12",
+        "Discentes": "50",
+        "Média Geral": "8.48",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "ARTUR DA SILVA CARRICO",
+        "Componente Curricular": "FIS0703 - FISICA BASICA III",
+        "Turma": "1",
+        "Horário": "246N12",
+        "Discentes": "17",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "ARTUR DA SILVA CARRICO",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "5",
+        "Horário": "35M34",
+        "Discentes": "17",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "2.42"
+    },
+    {
+        "Docente": "AUTA STELLA DE MEDEIROS GERMANO",
+        "Componente Curricular": "FIS0735 - ASTRONOMIA BASICA",
+        "Turma": "1",
+        "Horário": "46N12",
+        "Discentes": "29",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "AUTA STELLA DE MEDEIROS GERMANO",
+        "Componente Curricular": "FIS0748 - INSTRUMENTACAO PARA O ENSINO DE FISICA I",
+        "Turma": "1",
+        "Horário": "46N34",
+        "Discentes": "10",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "BRUNO RICARDO DE CARVALHO",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "8",
+        "Horário": "2T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "18",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "BRUNO RICARDO DE CARVALHO",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "35",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "CICLAMIO LEITE BARRETO",
+        "Componente Curricular": "FIS0745 - CONCEITOS DE FISICA MODERNA I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "17",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "CLAUDIONOR GOMES BEZERRA",
+        "Componente Curricular": "FIS0314 - TERMODINAMICA",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "20",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "DORY HELIO AIRES DE LIMA ANSELMO",
+        "Componente Curricular": "FIS0740 - FISICA BASICA II",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "9",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "HORACIO SANTANA VIEIRA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "2",
+        "Horário": "6T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "HORACIO SANTANA VIEIRA",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "4",
+        "Horário": "35T12",
+        "Discentes": "23",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "2.56"
+    },
+    {
+        "Docente": "HORACIO SANTANA VIEIRA",
+        "Componente Curricular": "FIS0744 - LABORATORIO BASICO DE ONDAS E OPTICA",
+        "Turma": "1",
+        "Horário": "6N34",
+        "Discentes": "6",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "HORACIO SANTANA VIEIRA",
+        "Componente Curricular": "FIS0728 - TERMODINAMICA E FISICA ESTATISTICA",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "10",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "JADSON TADEU SOUZA DANTAS",
+        "Componente Curricular": "FIS0704 - FISICA BASICA IV",
+        "Turma": "1",
+        "Horário": "246N12",
+        "Discentes": "7",
+        "Média Geral": "7.38",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "JADSON TADEU SOUZA DANTAS",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "3",
+        "Horário": "246T12",
+        "Discentes": "46",
+        "Média Geral": "8.79",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "JADSON TADEU SOUZA DANTAS",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "5",
+        "Horário": "246N34",
+        "Discentes": "31",
+        "Média Geral": "8.43",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "JOAO MEDEIROS DE ARAUJO",
+        "Componente Curricular": "FIS0656 - FISICA MATEMATICA II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "22",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "JOSE CRISANTO DA COSTA NETO",
+        "Componente Curricular": "FIS0701 - FISICA BASICA I",
+        "Turma": "4",
+        "Horário": "246N34",
+        "Discentes": "37",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "JOSE CRISANTO DA COSTA NETO",
+        "Componente Curricular": "FIS0664 - INTRODUÇÃO A FLUIDOS E TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "6",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "JOSE CRISANTO DA COSTA NETO",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "6",
+        "Horário": "246T12",
+        "Discentes": "26",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "JOSE DIAS DO NASCIMENTO JUNIOR",
+        "Componente Curricular": "FIS0031 - INTRODUÇÃO À FÍSICA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "28",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0743 - LABORATORIO BASICO DE ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "3N12",
+        "Discentes": "18",
+        "Média Geral": "7.56",
+        "Desvio Padrão Geral": "3.48"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0666 - LABORATORIO DE FLUIDOS E TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "19",
+        "Média Geral": "7.78",
+        "Desvio Padrão Geral": "3.15"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0721 - MECANICA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "21",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "2.42"
+    },
+    {
+        "Docente": "JOSE RENAN DE MEDEIROS",
+        "Componente Curricular": "FIS0313 - ONDAS E FISICA MODERNA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "35",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "JULIANA MESQUITA HIDALGO FERREIRA",
+        "Componente Curricular": "FIS0627 - HISTORIA E FILOSOFIA DA CIENCIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "5",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "JULIANA MESQUITA HIDALGO FERREIRA",
+        "Componente Curricular": "FIS0734 - NOVAS CONCEPCOES DO ENSINO DE FISICA",
+        "Turma": "1",
+        "Horário": "5N12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "32",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "LAERCIO DIAS",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "11",
+        "Horário": "6N123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "LAURA TERESA CORREDOR BOHORQUEZ",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "4T123",
+        "Discentes": "11",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "LAURA TERESA CORREDOR BOHORQUEZ",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "5",
+        "Horário": "2T123",
+        "Discentes": "17",
+        "Média Geral": "8.76",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "LEONARDO ANDRADE DE ALMEIDA",
+        "Componente Curricular": "FIS0314 - TERMODINAMICA",
+        "Turma": "3",
+        "Horário": "46N34",
+        "Discentes": "19",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "LEONARDO DANTAS MACHADO",
+        "Componente Curricular": "FIS0610 - FISICA COMPUTACIONAL I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "24",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "LUCIANO RODRIGUES DA SILVA",
+        "Componente Curricular": "FIS0703 - FISICA BASICA III",
+        "Turma": "2",
+        "Horário": "246T34",
+        "Discentes": "28",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "LUCIANO RODRIGUES DA SILVA",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "47",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "LUIZ FELIPE CAVALCANTI PEREIRA",
+        "Componente Curricular": "FIS0621 - TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "12",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "MADRAS VISWANATHAN GANDHI MOHAN",
+        "Componente Curricular": "FIS0622 - FISICA MODERNA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "18",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "MADRAS VISWANATHAN GANDHI MOHAN",
+        "Componente Curricular": "FIS0313 - ONDAS E FISICA MODERNA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "16",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "MARCIO ASSOLIN CORREA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "4",
+        "Horário": "3M456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "15",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "MARCIO ASSOLIN CORREA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "5",
+        "Horário": "3M123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "16",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "7",
+        "Horário": "4T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "7",
+        "Média Geral": "8.51",
+        "Desvio Padrão Geral": "2.62"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0714 - LABORATORIO DE FISICA MODERNA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "13",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0668 - LABORATORIO DE ONDAS E OPTICA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "14",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "2.71"
+    },
+    {
+        "Docente": "MATTHIEU SEBASTIEN CASTRO",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "16",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "MATTHIEU SEBASTIEN CASTRO",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "28",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "MILTON THIAGO SCHIVANI ALVES",
+        "Componente Curricular": "FIS0750 - ASTRONOMIA",
+        "Turma": "1",
+        "Horário": "36N34",
+        "Discentes": "31",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "MILTON THIAGO SCHIVANI ALVES",
+        "Componente Curricular": "FIS0749 - INSTRUMENTACAO PARA ENSINO DE FISICA II",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "10",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "NILZA PIRES",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "29",
+        "Média Geral": "8.07",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "NILZA PIRES",
+        "Componente Curricular": "FIS0648 - INTRODUCAO A RELATIVIDADE GERAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "7",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "2.69"
+    },
+    {
+        "Docente": "NOELIA SOUZA DOS SANTOS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "6M456",
+        "Discentes": "20",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "NOELIA SOUZA DOS SANTOS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "3",
+        "Horário": "6T123",
+        "Discentes": "20",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "NOELIA SOUZA DOS SANTOS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "6",
+        "Horário": "5T123",
+        "Discentes": "18",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "2.34"
+    },
+    {
+        "Docente": "NOELIA SOUZA DOS SANTOS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "7",
+        "Horário": "6T456",
+        "Discentes": "19",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "NOELIA SOUZA DOS SANTOS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "8",
+        "Horário": "6N123",
+        "Discentes": "15",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "RAFAELA MEDEIROS DE SOUZA",
+        "Componente Curricular": "FIS0701 - FISICA BASICA I",
+        "Turma": "3",
+        "Horário": "246N34",
+        "Discentes": "31",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "RAFAELA MEDEIROS DE SOUZA",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "2",
+        "Horário": "246N12",
+        "Discentes": "40",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "RAFAELA MEDEIROS DE SOUZA",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "3",
+        "Horário": "246M34",
+        "Discentes": "39",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "RAIMUNDO SILVA JUNIOR",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "21",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "RAIMUNDO SILVA JUNIOR",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "3",
+        "Horário": "35M12",
+        "Discentes": "22",
+        "Média Geral": "7.24",
+        "Desvio Padrão Geral": "3.42"
+    },
+    {
+        "Docente": "SUZANA NOBREGA DE MEDEIROS",
+        "Componente Curricular": "FIS0619 - ELETROMAGNETISMO CLASSICO I",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "20",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "SUZANA NOBREGA DE MEDEIROS",
+        "Componente Curricular": "FIS0605 - NOVAS CONCEPCOES DA FISICA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "46",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "SYLVIO QUEZADO DE MAGALHAES",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "4",
+        "Horário": "35T12",
+        "Discentes": "29",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "5M456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "20",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "3",
+        "Horário": "3N123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "18",
+        "Média Geral": "8.4",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "6",
+        "Horário": "3T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "14",
+        "Média Geral": "7.95",
+        "Desvio Padrão Geral": "3.12"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "9",
+        "Horário": "5N123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "14",
+        "Média Geral": "7.93",
+        "Desvio Padrão Geral": "3.2"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "10",
+        "Horário": "6T456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "17",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.47"
+    },
+    {
+        "Docente": "UILAME UMBELINO GOMES",
+        "Componente Curricular": "FIS0313 - ONDAS E FISICA MODERNA",
+        "Turma": "4",
+        "Horário": "35M12",
+        "Discentes": "19",
+        "Média Geral": "7.69",
+        "Desvio Padrão Geral": "2.8"
+    },
+    {
+        "Docente": "WILSON ACCHAR",
+        "Componente Curricular": "FIS0314 - TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "36",
+        "Média Geral": "8.52",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "ADRIANO DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "2",
+        "Horário": "246M56",
+        "Discentes": "16",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "ADRIANO DE OLIVEIRA SOUSA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "18",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "ALEXANDRE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "ECT2403 - FÍSICA EXPERIMENTAL II",
+        "Turma": "01A",
+        "Horário": "2T123 (04/08/2017 - 04/11/2017)",
+        "Discentes": "25",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "ALEXANDRE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "ECT2403 - FÍSICA EXPERIMENTAL II",
+        "Turma": "03A",
+        "Horário": "3T123 (04/08/2017 - 04/11/2017)",
+        "Discentes": "8",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.71"
+    },
+    {
+        "Docente": "ALEXANDRE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "ECT2204 - INTRODUÇÃO À FÍSICA CLÁSSICA I",
+        "Turma": "1",
+        "Horário": "35M34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "71",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "ALILIANE ALMEIDA DE FREITAS",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "2",
+        "Horário": "246N12",
+        "Discentes": "36",
+        "Média Geral": "7.9",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "ARTUR DA SILVA CARRICO",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "28",
+        "Média Geral": "8.77",
+        "Desvio Padrão Geral": "2.38"
+    },
+    {
+        "Docente": "ARTUR DA SILVA CARRICO",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "6",
+        "Horário": "35N12",
+        "Discentes": "13",
+        "Média Geral": "8.79",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "AUTA STELLA DE MEDEIROS GERMANO",
+        "Componente Curricular": "FIS0749 - INSTRUMENTACAO PARA ENSINO DE FISICA II",
+        "Turma": "1",
+        "Horário": "46N12",
+        "Discentes": "13",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "BRUNO RICARDO DE CARVALHO",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "10",
+        "Horário": "2T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "BRUNO RICARDO DE CARVALHO",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "11",
+        "Horário": "4T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "16",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "BRUNO RICARDO DE CARVALHO",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "20",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "CICLAMIO LEITE BARRETO",
+        "Componente Curricular": "FIS0746 - CONCEITOS DE FISICA MODERNA II",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "9",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "CLAUDIONOR GOMES BEZERRA",
+        "Componente Curricular": "FIS0314 - TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "15",
+        "Média Geral": "8.69",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "DORY HELIO AIRES DE LIMA ANSELMO",
+        "Componente Curricular": "FIS0725 - ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "18",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "0.88"
+    },
+    {
+        "Docente": "DORY HELIO AIRES DE LIMA ANSELMO",
+        "Componente Curricular": "FIS0740 - FISICA BASICA II",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "25",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "FELIPE BOHN",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "3",
+        "Horário": "3M123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "12",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "FELIPE BOHN",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "8",
+        "Horário": "3M456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "15",
+        "Média Geral": "8.31",
+        "Desvio Padrão Geral": "2.69"
+    },
+    {
+        "Docente": "FELIPE BOHN",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "9",
+        "Horário": "3T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "JADSON TADEU SOUZA DANTAS",
+        "Componente Curricular": "FIS0703 - FISICA BASICA III",
+        "Turma": "2",
+        "Horário": "246N12",
+        "Discentes": "7",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "0.88"
+    },
+    {
+        "Docente": "JADSON TADEU SOUZA DANTAS",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "3",
+        "Horário": "24T34",
+        "Discentes": "7",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "JADSON TADEU SOUZA DANTAS",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "3",
+        "Horário": "246T56",
+        "Discentes": "41",
+        "Média Geral": "8.96",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "JOAO MEDEIROS DE ARAUJO",
+        "Componente Curricular": "FIS0628 - FISICA COMPUTACIONAL II",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "19",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "JOSE DIAS DO NASCIMENTO JUNIOR",
+        "Componente Curricular": "FIS0616 - MECANICA CLASSICA II",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "10",
+        "Média Geral": "6.67",
+        "Desvio Padrão Geral": "2.7"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0667 - LABORATORIO DE ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "2M34",
+        "Discentes": "20",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0611 - LABORATORIO DE ELETRONICA",
+        "Turma": "1",
+        "Horário": "2T123 4T12",
+        "Discentes": "13",
+        "Média Geral": "7.19",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "JOSE HUMBERTO DE ARAUJO",
+        "Componente Curricular": "FIS0666 - LABORATORIO DE FLUIDOS E TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "6T12",
+        "Discentes": "10",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "JOSE RENAN DE MEDEIROS",
+        "Componente Curricular": "FIS0604 - ONDAS E OPTICA",
+        "Turma": "4",
+        "Horário": "35M56",
+        "Discentes": "20",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "JOSE WILSON DE PAIVA MACEDO",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "10",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "JOSE WILSON DE PAIVA MACEDO",
+        "Componente Curricular": "FIS0664 - INTRODUÇÃO A FLUIDOS E TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "21",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JULIANA MESQUITA HIDALGO FERREIRA",
+        "Componente Curricular": "FIS0729 - HISTORIA E FILOSOFIA DA CIENCIA",
+        "Turma": "1",
+        "Horário": "246N34",
+        "Discentes": "23",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "LAURA TERESA CORREDOR BOHORQUEZ",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "1",
+        "Horário": "4T123",
+        "Discentes": "7",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "LAURA TERESA CORREDOR BOHORQUEZ",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "2",
+        "Horário": "2T123",
+        "Discentes": "20",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "LAURA TERESA CORREDOR BOHORQUEZ",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "7",
+        "Horário": "6M456",
+        "Discentes": "20",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "LEONARDO ANDRADE DE ALMEIDA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "4",
+        "Horário": "5M456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "20",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "LEONARDO ANDRADE DE ALMEIDA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "5",
+        "Horário": "6T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "20",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "LEONARDO ANDRADE DE ALMEIDA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "6",
+        "Horário": "5T456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "19",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "LEONARDO ANDRADE DE ALMEIDA",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "13",
+        "Horário": "5N123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.5"
+    },
+    {
+        "Docente": "LUCIANO RODRIGUES DA SILVA",
+        "Componente Curricular": "FIS0703 - FISICA BASICA III",
+        "Turma": "1",
+        "Horário": "246T56",
+        "Discentes": "36",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "MADRAS VISWANATHAN GANDHI MOHAN",
+        "Componente Curricular": "FIS0623 - FISICA MODERNA II",
+        "Turma": "1",
+        "Horário": "46M56",
+        "Discentes": "14",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "MARCIO ASSOLIN CORREA",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "3",
+        "Horário": "35M12",
+        "Discentes": "23",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "MARCIO ASSOLIN CORREA",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "7",
+        "Horário": "35T12",
+        "Discentes": "25",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0609 - LABORATORIO DE FISICA MODERNA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "10",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0665 - LABORATORIO DE MECANICA",
+        "Turma": "2",
+        "Horário": "6M56",
+        "Discentes": "20",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "MARCO ANTONIO MORALES TORRES",
+        "Componente Curricular": "FIS0668 - LABORATORIO DE ONDAS E OPTICA",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "8",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "MATTHIEU SEBASTIEN CASTRO",
+        "Componente Curricular": "FIS0660 - INTRODUÇÃO A ASTRONOMIA",
+        "Turma": "1",
+        "Horário": "46T34",
+        "Discentes": "13",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "MATTHIEU SEBASTIEN CASTRO",
+        "Componente Curricular": "FIS0604 - ONDAS E OPTICA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "17",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "MILTON THIAGO SCHIVANI ALVES",
+        "Componente Curricular": "FIS0748 - INSTRUMENTACAO PARA O ENSINO DE FISICA I",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "8",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "NILZA PIRES",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "4",
+        "Horário": "35T12",
+        "Discentes": "35",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "NILZA PIRES",
+        "Componente Curricular": "FIS0655 - FISICA MATEMATICA I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "20",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "NOELIA SOUZA DOS SANTOS",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "1",
+        "Horário": "3N123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "11",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "NOELIA SOUZA DOS SANTOS",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "12",
+        "Horário": "4N123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "19",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "NOELIA SOUZA DOS SANTOS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "4",
+        "Horário": "6T456",
+        "Discentes": "20",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "NOELIA SOUZA DOS SANTOS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "5",
+        "Horário": "6N123",
+        "Discentes": "20",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "NOELIA SOUZA DOS SANTOS",
+        "Componente Curricular": "FIS0316 - FISICA EXPERIMENTAL II",
+        "Turma": "8",
+        "Horário": "6T123",
+        "Discentes": "19",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "0.92"
+    },
+    {
+        "Docente": "PRISCILA VALDENIA DOS SANTOS",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "4",
+        "Horário": "5M456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "20",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "PRISCILA VALDENIA DOS SANTOS",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "5",
+        "Horário": "6T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "20",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "PRISCILA VALDENIA DOS SANTOS",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "6",
+        "Horário": "5T456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "19",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "PRISCILA VALDENIA DOS SANTOS",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "13",
+        "Horário": "5N123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "0.52"
+    },
+    {
+        "Docente": "PRISCILA VALDENIA DOS SANTOS",
+        "Componente Curricular": "FIS0315 - FISICA EXPERIMENTAL I",
+        "Turma": "14",
+        "Horário": "6T456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "19",
+        "Média Geral": "8.92",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "PRISCILA VALDENIA DOS SANTOS",
+        "Componente Curricular": "FIS0741 - LABORATORIO BASICO DE MECANICA",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "20",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "RAFAELA MEDEIROS DE SOUZA",
+        "Componente Curricular": "FIS0701 - FISICA BASICA I",
+        "Turma": "1",
+        "Horário": "246N12",
+        "Discentes": "47",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "RAFAELA MEDEIROS DE SOUZA",
+        "Componente Curricular": "FIS0603 - INTRODUCAO AO ELETROMAGNETISMO",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "41",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "RAFAELA MEDEIROS DE SOUZA",
+        "Componente Curricular": "FIS0742 - LABORATORIO BASICO DE FLUIDOS E TERMODINAMICA",
+        "Turma": "1",
+        "Horário": "6N34",
+        "Discentes": "19",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "RAFAELA MEDEIROS DE SOUZA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "5",
+        "Horário": "246T12",
+        "Discentes": "23",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "RAIMUNDO SILVA JUNIOR",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "10",
+        "Horário": "24T56",
+        "Discentes": "25",
+        "Média Geral": "7.91",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "RAIMUNDO SILVA JUNIOR",
+        "Componente Curricular": "FIS0618 - RELATIVIDADE ESPECIAL",
+        "Turma": "1",
+        "Horário": "46M34",
+        "Discentes": "22",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "SAMURAÍ GOMES DE AGUIAR BRITO",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "4",
+        "Horário": "24N12",
+        "Discentes": "6",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "SYLVIO QUEZADO DE MAGALHAES",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "36",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "SYLVIO QUEZADO DE MAGALHAES",
+        "Componente Curricular": "FIS0312 - ELETRICIDADE E MAGNETISMO",
+        "Turma": "5",
+        "Horário": "35M12",
+        "Discentes": "9",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "FIS0601 - INTRODUCAO A MECANICA",
+        "Turma": "4",
+        "Horário": "246M56",
+        "Discentes": "45",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "FIS0744 - LABORATORIO BASICO DE ONDAS E OPTICA",
+        "Turma": "1",
+        "Horário": "6N34",
+        "Discentes": "10",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "FIS0311 - MECANICA CLASSICA",
+        "Turma": "4",
+        "Horário": "246T12",
+        "Discentes": "48",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "WILSON ACCHAR",
+        "Componente Curricular": "FIS0313 - ONDAS E FISICA MODERNA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "40",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "1.95"
+    }
+]

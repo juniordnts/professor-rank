@@ -1,0 +1,2176 @@
+{
+  "ANA CAROLINA LUCHIARI": {
+    "Notas": [
+      10,
+      9.49,
+      9.6,
+      9.62,
+      9.66,
+      9.72,
+      9.75,
+      9.75,
+      9.77,
+      9.78,
+      9.81,
+      9.87,
+      9.89,
+      9.91,
+      9.94,
+      9.95,
+      9.96
+    ],
+    "Desvios": [
+      0.46,
+      1.34,
+      1.42,
+      1.39,
+      1.3,
+      1.33,
+      1.67,
+      1.71,
+      1.44,
+      0.62,
+      1.36,
+      0.85,
+      0.99,
+      1.16,
+      1.32,
+      1.45,
+      0.63
+    ],
+    "Componentes": {
+      "DFS0219 - ESTUDOS AVANÇADOS EM COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          0.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 0.46,
+        "NotaMediana": 10
+      },
+      "DFS0110 - FISIOLOGIA ANIMAL III": {
+        "Notas": [
+          9.62,
+          9.66,
+          9.72,
+          9.75,
+          9.77,
+          9.81,
+          9.95,
+          9.96
+        ],
+        "Desvios": [
+          1.34,
+          1.42,
+          1.71,
+          1.44,
+          1.36,
+          0.85,
+          1.45,
+          0.63
+        ],
+        "DesvioDeNotas": 0.11554220008291356,
+        "MediaDeNotas": 9.780000000000001,
+        "MediaDeDesvios": 1.2750000000000001,
+        "NotaMediana": 9.77
+      },
+      "DFS0218 - BASES TEÓRICAS DO COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.6
+      },
+      "DFS0203 - COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          9.87,
+          9.89,
+          9.94
+        ],
+        "Desvios": [
+          1.3,
+          0.62,
+          0.99
+        ],
+        "DesvioDeNotas": 0.029439202887759468,
+        "MediaDeNotas": 9.899999999999999,
+        "MediaDeDesvios": 0.9700000000000001,
+        "NotaMediana": 9.89
+      },
+      "DFS0047 - ECOFISIOLOGIA ANIMAL": {
+        "Notas": [
+          9.49,
+          9.75,
+          9.78,
+          9.91
+        ],
+        "Desvios": [
+          1.33,
+          1.67,
+          1.16,
+          1.32
+        ],
+        "DesvioDeNotas": 0.15237699957670767,
+        "MediaDeNotas": 9.7325,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.78
+      }
+    },
+    "DesvioDeNotas": 0.13989615525830354,
+    "MediaDeNotas": 9.792352941176473,
+    "MediaDeDesvios": 1.2023529411764704,
+    "NotaMediana": 9.77
+  },
+  "ANNA KARYNNA ALVES DE ALENCAR ROCHA": {
+    "Notas": [
+      8.88,
+      9.15,
+      9.2,
+      9.28,
+      9.36,
+      9.43,
+      9.45,
+      9.5,
+      9.52,
+      9.54,
+      9.56,
+      9.61,
+      9.63,
+      9.63,
+      9.64,
+      9.66,
+      9.66,
+      9.77,
+      9.82,
+      9.87
+    ],
+    "Desvios": [
+      1.41,
+      1.69,
+      1.86,
+      1.75,
+      1.81,
+      2.33,
+      1.41,
+      1.79,
+      1.72,
+      1.42,
+      1.38,
+      1.79,
+      1.7,
+      1.55,
+      1.33,
+      1.78,
+      1.6,
+      1.48,
+      1.36,
+      1.63
+    ],
+    "Componentes": {
+      "DFS0028 - FISIOLOGIA": {
+        "Notas": [
+          9.52,
+          9.64
+        ],
+        "Desvios": [
+          1.41,
+          1.42
+        ],
+        "DesvioDeNotas": 0.0600000000000005,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.415,
+        "NotaMediana": 9.64
+      },
+      "DFS0020 - FISIOLOGIA": {
+        "Notas": [
+          9.2,
+          9.28,
+          9.5,
+          9.61,
+          9.63
+        ],
+        "Desvios": [
+          1.69,
+          1.86,
+          1.72,
+          1.78,
+          1.6
+        ],
+        "DesvioDeNotas": 0.17419529270333378,
+        "MediaDeNotas": 9.443999999999999,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.5
+      },
+      "DFS0053 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.43,
+          9.45
+        ],
+        "Desvios": [
+          1.75,
+          1.79
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.44,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.45
+      },
+      "DFS0054 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.36
+      },
+      "DFS0006 - FISIOLOGIA HUMANA I": {
+        "Notas": [
+          8.88,
+          9.63,
+          9.82
+        ],
+        "Desvios": [
+          2.33,
+          1.48,
+          1.36
+        ],
+        "DesvioDeNotas": 0.40581878824037804,
+        "MediaDeNotas": 9.443333333333335,
+        "MediaDeDesvios": 1.7233333333333334,
+        "NotaMediana": 9.63
+      },
+      "DFS0039 - FISIOLOGIA HUMANA VI": {
+        "Notas": [
+          9.56,
+          9.87
+        ],
+        "Desvios": [
+          1.41,
+          1.7
+        ],
+        "DesvioDeNotas": 0.15499999999999936,
+        "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 1.555,
+        "NotaMediana": 9.87
+      },
+      "DFS0026 - FISIOLOGIA X": {
+        "Notas": [
+          9.15,
+          9.54,
+          9.66
+        ],
+        "Desvios": [
+          1.79,
+          1.33,
+          1.63
+        ],
+        "DesvioDeNotas": 0.21771541057077218,
+        "MediaDeNotas": 9.450000000000001,
+        "MediaDeDesvios": 1.5833333333333333,
+        "NotaMediana": 9.54
+      },
+      "DFS0051 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.38,
+        "NotaMediana": 9.77
+      },
+      "DFS0046 - FISIOLOGIA II": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.2351084855976066,
+    "MediaDeNotas": 9.508,
+    "MediaDeDesvios": 1.6395,
+    "NotaMediana": 9.56
+  },
+  "ARRILTON ARAUJO DE SOUZA": {
+    "Notas": [
+      9.13,
+      9.27,
+      9.46,
+      9.78,
+      9.94
+    ],
+    "Desvios": [
+      1.26,
+      1.87,
+      1.47,
+      1.61,
+      1.32
+    ],
+    "Componentes": {
+      "DFS0203 - COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          9.13,
+          9.27,
+          9.46,
+          9.78,
+          9.94
+        ],
+        "Desvios": [
+          1.26,
+          1.87,
+          1.47,
+          1.61,
+          1.32
+        ],
+        "DesvioDeNotas": 0.30401315760999514,
+        "MediaDeNotas": 9.516,
+        "MediaDeDesvios": 1.506,
+        "NotaMediana": 9.46
+      }
+    },
+    "DesvioDeNotas": 0.30401315760999514,
+    "MediaDeNotas": 9.516,
+    "MediaDeDesvios": 1.506,
+    "NotaMediana": 9.46
+  },
+  "CAROLINA VIRGINIA MACEDO DE AZEVEDO": {
+    "Notas": [
+      9.29,
+      9.34,
+      9.44,
+      9.49,
+      9.55,
+      9.55,
+      9.62,
+      9.62,
+      9.65,
+      9.7,
+      9.9,
+      9.93,
+      9.94
+    ],
+    "Desvios": [
+      1.46,
+      1.23,
+      1.53,
+      1.59,
+      1.16,
+      1.4,
+      1.86,
+      1.05,
+      1.93,
+      0.98,
+      1.03,
+      0.95,
+      1.34
+    ],
+    "Componentes": {
+      "DFS0046 - FISIOLOGIA II": {
+        "Notas": [
+          9.29,
+          9.34,
+          9.62,
+          9.65
+        ],
+        "Desvios": [
+          1.46,
+          1.59,
+          1.86,
+          1.03
+        ],
+        "DesvioDeNotas": 0.161322658049017,
+        "MediaDeNotas": 9.475,
+        "MediaDeDesvios": 1.485,
+        "NotaMediana": 9.62
+      },
+      "DFS0021 - INSTRUMENTAÇÃO PARA O ENSINO DE CIÊNCIAS E BIOLOGIA I": {
+        "Notas": [
+          9.44,
+          9.49,
+          9.55,
+          9.55,
+          9.62,
+          9.7,
+          9.9,
+          9.93
+        ],
+        "Desvios": [
+          1.23,
+          1.53,
+          1.16,
+          1.4,
+          1.93,
+          0.98,
+          0.95,
+          1.34
+        ],
+        "DesvioDeNotas": 0.17100804074662682,
+        "MediaDeNotas": 9.6475,
+        "MediaDeDesvios": 1.315,
+        "NotaMediana": 9.62
+      },
+      "DFS0105 - FUNDAMENTOS DE CRONOBIOLOGIA": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          1.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.94
+      }
+    },
+    "DesvioDeNotas": 0.2020047453892193,
+    "MediaDeNotas": 9.616923076923076,
+    "MediaDeDesvios": 1.3469230769230767,
+    "NotaMediana": 9.62
+  },
+  "DANIEL MARQUES DE ALMEIDA PESSOA": {
+    "Notas": [
+      9.57,
+      9.59,
+      9.64,
+      9.68,
+      9.84,
+      9.85,
+      9.85,
+      9.87,
+      9.89,
+      9.9,
+      9.91,
+      9.93,
+      9.93,
+      9.94
+    ],
+    "Desvios": [
+      1.44,
+      1.17,
+      1.35,
+      1.3,
+      1.34,
+      1.72,
+      0.85,
+      1.37,
+      0.53,
+      1.39,
+      0.96,
+      1.2,
+      1.29,
+      1.47
+    ],
+    "Componentes": {
+      "DFS0203 - COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          9.85,
+          9.89,
+          9.93,
+          9.94
+        ],
+        "Desvios": [
+          1.44,
+          1.3,
+          0.53,
+          0.96
+        ],
+        "DesvioDeNotas": 0.035619517121937415,
+        "MediaDeNotas": 9.9025,
+        "MediaDeDesvios": 1.0575,
+        "NotaMediana": 9.93
+      },
+      "DFS0207 - COMUNICACAO ANIMAL": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.91
+      },
+      "DFS0110 - FISIOLOGIA ANIMAL III": {
+        "Notas": [
+          9.59,
+          9.64,
+          9.68,
+          9.84
+        ],
+        "Desvios": [
+          1.35,
+          1.37,
+          1.39,
+          1.47
+        ],
+        "DesvioDeNotas": 0.09364160400164014,
+        "MediaDeNotas": 9.6875,
+        "MediaDeDesvios": 1.395,
+        "NotaMediana": 9.68
+      },
+      "DFS0047 - ECOFISIOLOGIA ANIMAL": {
+        "Notas": [
+          9.57,
+          9.85,
+          9.87,
+          9.93
+        ],
+        "Desvios": [
+          1.34,
+          1.72,
+          1.2,
+          1.29
+        ],
+        "DesvioDeNotas": 0.13883443376914792,
+        "MediaDeNotas": 9.805,
+        "MediaDeDesvios": 1.3875,
+        "NotaMediana": 9.87
+      },
+      "DFS0037 - ECOLOGIA COGNITIVA": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          0.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.85,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.12804057073873895,
+    "MediaDeNotas": 9.81357142857143,
+    "MediaDeDesvios": 1.241428571428571,
+    "NotaMediana": 9.87
+  },
+  "DENISE MORAIS LOPES GALENO": {
+    "Notas": [
+      8.99,
+      9.31,
+      9.36,
+      9.67,
+      9.68,
+      9.7,
+      9.77,
+      9.88
+    ],
+    "Desvios": [
+      1.48,
+      1.33,
+      1.68,
+      1.65,
+      1.12,
+      1.73,
+      1.2,
+      1.62
+    ],
+    "Componentes": {
+      "DFS0053 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.67,
+          9.68,
+          9.77
+        ],
+        "Desvios": [
+          1.48,
+          1.68,
+          1.12
+        ],
+        "DesvioDeNotas": 0.04496912521077334,
+        "MediaDeNotas": 9.706666666666667,
+        "MediaDeDesvios": 1.4266666666666667,
+        "NotaMediana": 9.68
+      },
+      "DFS0039 - FISIOLOGIA HUMANA VI": {
+        "Notas": [
+          8.99,
+          9.31,
+          9.36,
+          9.88
+        ],
+        "Desvios": [
+          1.33,
+          1.65,
+          1.73,
+          1.62
+        ],
+        "DesvioDeNotas": 0.31910029771217724,
+        "MediaDeNotas": 9.385,
+        "MediaDeDesvios": 1.5825,
+        "NotaMediana": 9.36
+      },
+      "DFS0054 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.27798381247835274,
+    "MediaDeNotas": 9.545,
+    "MediaDeDesvios": 1.4762499999999998,
+    "NotaMediana": 9.68
+  },
+  "FELIPE NALON CASTRO": {
+    "Notas": [
+      10,
+      9.68,
+      9.84,
+      9.84,
+      9.84,
+      9.85,
+      9.89,
+      9.89,
+      9.9,
+      9.94,
+      9.97,
+      9.98,
+      9.99
+    ],
+    "Desvios": [
+      1.71,
+      1.61,
+      1.63,
+      1.11,
+      0.22,
+      1.33,
+      1.58,
+      1.16,
+      1.36,
+      1.31,
+      1.17,
+      1.41,
+      0.91
+    ],
+    "Componentes": {
+      "DFS0218 - BASES TEÓRICAS DO COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          9.99
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.99,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.99
+      },
+      "DFS0209 - EVOLUCAO DO COMPORTAMENTO HUMANO": {
+        "Notas": [
+          9.68,
+          9.84,
+          9.84,
+          9.85,
+          9.89,
+          9.89,
+          9.9
+        ],
+        "Desvios": [
+          1.61,
+          1.63,
+          1.33,
+          1.58,
+          1.36,
+          1.31,
+          1.41
+        ],
+        "DesvioDeNotas": 0.06998542122237676,
+        "MediaDeNotas": 9.841428571428569,
+        "MediaDeDesvios": 1.4614285714285715,
+        "NotaMediana": 9.85
+      },
+      "DFS0055 - EVOLUÇÃO DO COMPORTAMENTO HUMANO II": {
+        "Notas": [
+          9.84,
+          9.94,
+          9.97,
+          9.98
+        ],
+        "Desvios": [
+          1.11,
+          1.16,
+          1.17,
+          0.91
+        ],
+        "DesvioDeNotas": 0.055396299515401086,
+        "MediaDeNotas": 9.932500000000001,
+        "MediaDeDesvios": 1.0875,
+        "NotaMediana": 9.97
+      },
+      "DFS0219 - ESTUDOS AVANÇADOS EM COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          0.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 0.22,
+        "NotaMediana": 10
+      }
+    },
+    "DesvioDeNotas": 0.08425096350826519,
+    "MediaDeNotas": 9.893076923076924,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.89
+  },
+  "FIVIA DE ARAUJO LOPES": {
+    "Notas": [
+      10,
+      10,
+      9.79,
+      9.88,
+      9.89,
+      9.89,
+      9.9,
+      9.95,
+      9.95,
+      9.95,
+      9.97,
+      9.98,
+      9.98
+    ],
+    "Desvios": [
+      1.67,
+      1.52,
+      1.54,
+      1.14,
+      0.28,
+      1.25,
+      1.46,
+      1.14,
+      1.28,
+      1.19,
+      1.17,
+      1.29,
+      0.96
+    ],
+    "Componentes": {
+      "DFS0218 - BASES TEÓRICAS DO COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 10
+      },
+      "DFS0209 - EVOLUCAO DO COMPORTAMENTO HUMANO": {
+        "Notas": [
+          9.79,
+          9.88,
+          9.89,
+          9.9,
+          9.95,
+          9.95,
+          9.95
+        ],
+        "Desvios": [
+          1.52,
+          1.54,
+          1.25,
+          1.46,
+          1.28,
+          1.19,
+          1.29
+        ],
+        "DesvioDeNotas": 0.05356666645500755,
+        "MediaDeNotas": 9.901428571428571,
+        "MediaDeDesvios": 1.3614285714285717,
+        "NotaMediana": 9.9
+      },
+      "DFS0055 - EVOLUÇÃO DO COMPORTAMENTO HUMANO II": {
+        "Notas": [
+          9.89,
+          9.97,
+          9.98,
+          9.98
+        ],
+        "Desvios": [
+          1.14,
+          1.14,
+          1.17,
+          0.96
+        ],
+        "DesvioDeNotas": 0.03774917217635371,
+        "MediaDeNotas": 9.955,
+        "MediaDeDesvios": 1.1025,
+        "NotaMediana": 9.98
+      },
+      "DFS0219 - ESTUDOS AVANÇADOS EM COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          0.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 0.28,
+        "NotaMediana": 10
+      }
+    },
+    "DesvioDeNotas": 0.05796346533472162,
+    "MediaDeNotas": 9.933076923076923,
+    "MediaDeDesvios": 1.2223076923076923,
+    "NotaMediana": 9.9
+  },
+  "GLAECIR ROSENI MUNDSTOCK DIAS": {
+    "Notas": [
+      9.39,
+      9.49,
+      9.56,
+      9.63,
+      9.66,
+      9.69,
+      9.78
+    ],
+    "Desvios": [
+      1.65,
+      1.61,
+      1.62,
+      2.27,
+      1.59,
+      1.67,
+      1.77
+    ],
+    "Componentes": {
+      "DFS0020 - FISIOLOGIA": {
+        "Notas": [
+          9.39,
+          9.63
+        ],
+        "Desvios": [
+          1.65,
+          1.61
+        ],
+        "DesvioDeNotas": 0.1200000000000001,
+        "MediaDeNotas": 9.510000000000002,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.63
+      },
+      "DFS0053 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.66
+      },
+      "DFS0006 - FISIOLOGIA HUMANA I": {
+        "Notas": [
+          9.49,
+          9.69
+        ],
+        "Desvios": [
+          2.27,
+          1.59
+        ],
+        "DesvioDeNotas": 0.09999999999999964,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.9300000000000002,
+        "NotaMediana": 9.69
+      },
+      "DFS0039 - FISIOLOGIA HUMANA VI": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.78
+      },
+      "DFS0026 - FISIOLOGIA X": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.56
+      }
+    },
+    "DesvioDeNotas": 0.1211846289168482,
+    "MediaDeNotas": 9.6,
+    "MediaDeDesvios": 1.74,
+    "NotaMediana": 9.63
+  },
+  "HELDERES PEREGRINO ALVES DA SILVA": {
+    "Notas": [
+      7.92,
+      8.21,
+      8.49,
+      8.71,
+      8.79,
+      9.05,
+      9.15,
+      9.39,
+      9.45
+    ],
+    "Desvios": [
+      2.48,
+      2.27,
+      2.86,
+      2.8,
+      1.76,
+      1.91,
+      1.51,
+      1.54,
+      1.68
+    ],
+    "Componentes": {
+      "DFS0006 - FISIOLOGIA HUMANA I": {
+        "Notas": [
+          8.71
+        ],
+        "Desvios": [
+          2.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.71,
+        "MediaDeDesvios": 2.48,
+        "NotaMediana": 8.71
+      },
+      "DFS0026 - FISIOLOGIA X": {
+        "Notas": [
+          8.49,
+          9.05
+        ],
+        "Desvios": [
+          2.27,
+          1.68
+        ],
+        "DesvioDeNotas": 0.28000000000000025,
+        "MediaDeNotas": 8.77,
+        "MediaDeDesvios": 1.975,
+        "NotaMediana": 9.05
+      },
+      "DFS0004 - BASES BIOLOGICAS DO COMPORTAMENTO": {
+        "Notas": [
+          8.21,
+          9.15
+        ],
+        "Desvios": [
+          2.86,
+          1.91
+        ],
+        "DesvioDeNotas": 0.46999999999999975,
+        "MediaDeNotas": 8.68,
+        "MediaDeDesvios": 2.385,
+        "NotaMediana": 9.15
+      },
+      "DFS0020 - FISIOLOGIA": {
+        "Notas": [
+          7.92,
+          9.45
+        ],
+        "Desvios": [
+          2.8,
+          1.51
+        ],
+        "DesvioDeNotas": 0.7649999999999997,
+        "MediaDeNotas": 8.684999999999999,
+        "MediaDeDesvios": 2.155,
+        "NotaMediana": 9.45
+      },
+      "DFS0208 - TOPICOS EM REPRODUCAO ANIMAL": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.39
+      },
+      "DFS0053 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          8.79
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.79,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 8.79
+      }
+    },
+    "DesvioDeNotas": 0.49241155124800745,
+    "MediaDeNotas": 8.795555555555557,
+    "MediaDeDesvios": 2.09,
+    "NotaMediana": 8.79
+  },
+  "IVANISE CORTEZ DE SOUSA GUIMARAES": {
+    "Notas": [
+      9.43,
+      9.54,
+      9.61,
+      9.77,
+      9.82,
+      9.88,
+      9.94,
+      9.96
+    ],
+    "Desvios": [
+      1.14,
+      1.55,
+      1.14,
+      1.41,
+      2.02,
+      1.31,
+      0.84,
+      1.4
+    ],
+    "Componentes": {
+      "DFS0021 - INSTRUMENTAÇÃO PARA O ENSINO DE CIÊNCIAS E BIOLOGIA I": {
+        "Notas": [
+          9.43,
+          9.54,
+          9.61,
+          9.77,
+          9.82,
+          9.88,
+          9.94,
+          9.96
+        ],
+        "Desvios": [
+          1.14,
+          1.55,
+          1.14,
+          1.41,
+          2.02,
+          1.31,
+          0.84,
+          1.4
+        ],
+        "DesvioDeNotas": 0.1830940673533693,
+        "MediaDeNotas": 9.743750000000002,
+        "MediaDeDesvios": 1.35125,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.1830940673533693,
+    "MediaDeNotas": 9.743750000000002,
+    "MediaDeDesvios": 1.35125,
+    "NotaMediana": 9.82
+  },
+  "JANINE INEZ ROSSATO": {
+    "Notas": [
+      9.56,
+      9.56,
+      9.59,
+      9.65,
+      9.79,
+      9.81,
+      9.86,
+      9.88,
+      9.89,
+      9.93,
+      9.95,
+      9.96
+    ],
+    "Desvios": [
+      1.12,
+      1.27,
+      1.46,
+      1.17,
+      1.63,
+      1.81,
+      1.4,
+      1.43,
+      1.4,
+      0.92,
+      1.16,
+      1.57
+    ],
+    "Componentes": {
+      "DFS0020 - FISIOLOGIA": {
+        "Notas": [
+          9.56,
+          9.79,
+          9.86,
+          9.88,
+          9.89,
+          9.93,
+          9.95,
+          9.96
+        ],
+        "Desvios": [
+          1.12,
+          1.27,
+          1.17,
+          1.63,
+          1.4,
+          1.43,
+          0.92,
+          1.16
+        ],
+        "DesvioDeNotas": 0.121834929310112,
+        "MediaDeNotas": 9.8525,
+        "MediaDeDesvios": 1.2625,
+        "NotaMediana": 9.89
+      },
+      "DFS0006 - FISIOLOGIA HUMANA I": {
+        "Notas": [
+          9.59,
+          9.65,
+          9.81
+        ],
+        "Desvios": [
+          1.46,
+          1.4,
+          1.57
+        ],
+        "DesvioDeNotas": 0.09285592184789436,
+        "MediaDeNotas": 9.683333333333334,
+        "MediaDeDesvios": 1.4766666666666666,
+        "NotaMediana": 9.65
+      },
+      "DFS0007 - FISIOLOGIA HUMANA II": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.56
+      }
+    },
+    "DesvioDeNotas": 0.14795598069095484,
+    "MediaDeNotas": 9.785833333333334,
+    "MediaDeDesvios": 1.3616666666666666,
+    "NotaMediana": 9.86
+  },
+  "JEFERSON DE SOUZA CAVALCANTE": {
+    "Notas": [
+      9.26,
+      9.48,
+      9.67,
+      9.85,
+      9.91
+    ],
+    "Desvios": [
+      1.13,
+      1.43,
+      1.61,
+      1.61,
+      1.75
+    ],
+    "Componentes": {
+      "DFS0110 - FISIOLOGIA ANIMAL III": {
+        "Notas": [
+          9.26,
+          9.48,
+          9.67,
+          9.85,
+          9.91
+        ],
+        "Desvios": [
+          1.13,
+          1.43,
+          1.61,
+          1.61,
+          1.75
+        ],
+        "DesvioDeNotas": 0.23988330496305904,
+        "MediaDeNotas": 9.633999999999999,
+        "MediaDeDesvios": 1.506,
+        "NotaMediana": 9.67
+      }
+    },
+    "DesvioDeNotas": 0.23988330496305904,
+    "MediaDeNotas": 9.633999999999999,
+    "MediaDeDesvios": 1.506,
+    "NotaMediana": 9.67
+  },
+  "JOHN FONTENELE ARAUJO": {
+    "Notas": [
+      9.23,
+      9.32,
+      9.39,
+      9.41,
+      9.42,
+      9.47,
+      9.52,
+      9.53,
+      9.54,
+      9.57,
+      9.59,
+      9.59,
+      9.7,
+      9.71
+    ],
+    "Desvios": [
+      1.88,
+      1.46,
+      2.04,
+      1.97,
+      1.44,
+      2,
+      2.16,
+      2.01,
+      1.91,
+      1.72,
+      1.09,
+      1.09,
+      1.33,
+      1.34
+    ],
+    "Componentes": {
+      "DFS0108 - MODULO BIOLOGICO I": {
+        "Notas": [
+          9.32,
+          9.39,
+          9.41,
+          9.53,
+          9.54,
+          9.57,
+          9.59,
+          9.71
+        ],
+        "Desvios": [
+          1.88,
+          1.46,
+          1.44,
+          2,
+          2.16,
+          2.01,
+          1.09,
+          1.33
+        ],
+        "DesvioDeNotas": 0.11818946653572814,
+        "MediaDeNotas": 9.5075,
+        "MediaDeDesvios": 1.67125,
+        "NotaMediana": 9.54
+      },
+      "DFS0213 - NEUROBIOLOGIA DO SONO": {
+        "Notas": [
+          9.47,
+          9.59
+        ],
+        "Desvios": [
+          2.04,
+          1.91
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.530000000000001,
+        "MediaDeDesvios": 1.975,
+        "NotaMediana": 9.59
+      },
+      "DFS0040 - CRONOBIOLOGIA APLICADA À SAUDE": {
+        "Notas": [
+          9.42,
+          9.7
+        ],
+        "Desvios": [
+          1.97,
+          1.09
+        ],
+        "DesvioDeNotas": 0.13999999999999968,
+        "MediaDeNotas": 9.559999999999999,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.7
+      },
+      "MED1004 - PROGRAMA DE TUTORIA-MENTORING IV": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.52
+      },
+      "MED1003 - PROGRAMA DE TUTORIA-MENTORING III": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.23
+      }
+    },
+    "DesvioDeNotas": 0.13117405480147812,
+    "MediaDeNotas": 9.499285714285714,
+    "MediaDeDesvios": 1.674285714285714,
+    "NotaMediana": 9.53
+  },
+  "MARIA TERESA DA SILVA MOTA": {
+    "Notas": [
+      6.98,
+      8.11,
+      8.44,
+      8.46,
+      9.01,
+      9.02,
+      9.04,
+      9.15,
+      9.21,
+      9.23,
+      9.41,
+      9.61
+    ],
+    "Desvios": [
+      3.02,
+      2.76,
+      2.33,
+      2.19,
+      1.82,
+      1.58,
+      2.65,
+      2.16,
+      1.95,
+      2.1,
+      0.93,
+      1.92
+    ],
+    "Componentes": {
+      "DFS0046 - FISIOLOGIA II": {
+        "Notas": [
+          6.98,
+          9.01,
+          9.21,
+          9.23
+        ],
+        "Desvios": [
+          3.02,
+          1.82,
+          1.95,
+          1.92
+        ],
+        "DesvioDeNotas": 0.9435670352444494,
+        "MediaDeNotas": 8.6075,
+        "MediaDeDesvios": 2.1775,
+        "NotaMediana": 9.21
+      },
+      "DSC0090 - SAUDE E CIDADANIA": {
+        "Notas": [
+          8.11,
+          8.44
+        ],
+        "Desvios": [
+          2.76,
+          2.65
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 8.274999999999999,
+        "MediaDeDesvios": 2.705,
+        "NotaMediana": 8.44
+      },
+      "DFS0041 - CONCEITOS EM REPRODUÇÃO APLICADOS AO ENSINO DE CIÊNCIAS E BIOLOGIA": {
+        "Notas": [
+          8.46
+        ],
+        "Desvios": [
+          2.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.46,
+        "MediaDeDesvios": 2.33,
+        "NotaMediana": 8.46
+      },
+      "DFS0110 - FISIOLOGIA ANIMAL III": {
+        "Notas": [
+          9.04,
+          9.15,
+          9.41
+        ],
+        "Desvios": [
+          2.19,
+          2.16,
+          0.93
+        ],
+        "DesvioDeNotas": 0.15513435037626827,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.7599999999999998,
+        "NotaMediana": 9.15
+      },
+      "DFS0026 - FISIOLOGIA X": {
+        "Notas": [
+          9.02,
+          9.61
+        ],
+        "Desvios": [
+          1.58,
+          2.1
+        ],
+        "DesvioDeNotas": 0.29499999999999993,
+        "MediaDeNotas": 9.315,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 9.61
+      }
+    },
+    "DesvioDeNotas": 0.6884216045095879,
+    "MediaDeNotas": 8.805833333333334,
+    "MediaDeDesvios": 2.1174999999999997,
+    "NotaMediana": 9.04
+  },
+  "MARICELE NASCIMENTO BARBOSA": {
+    "Notas": [
+      8.7,
+      9.09,
+      9.1,
+      9.58,
+      9.62,
+      9.71,
+      9.78,
+      9.79,
+      9.84,
+      9.95
+    ],
+    "Desvios": [
+      1.37,
+      1.4,
+      1.32,
+      1.67,
+      1.42,
+      2.2,
+      1.13,
+      0.67,
+      1.5,
+      1.48
+    ],
+    "Componentes": {
+      "DFS0052 - PSICOFISIOLOGIA": {
+        "Notas": [
+          9.58,
+          9.95
+        ],
+        "Desvios": [
+          1.37,
+          1.13
+        ],
+        "DesvioDeNotas": 0.1849999999999996,
+        "MediaDeNotas": 9.765,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.95
+      },
+      "DFS0051 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.62,
+          9.71
+        ],
+        "Desvios": [
+          1.4,
+          1.5
+        ],
+        "DesvioDeNotas": 0.04500000000000082,
+        "MediaDeNotas": 9.665,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.71
+      },
+      "DFS0007 - FISIOLOGIA HUMANA II": {
+        "Notas": [
+          8.7,
+          9.09,
+          9.1,
+          9.78
+        ],
+        "Desvios": [
+          1.32,
+          1.67,
+          2.2,
+          1.48
+        ],
+        "DesvioDeNotas": 0.3886756359742658,
+        "MediaDeNotas": 9.1675,
+        "MediaDeDesvios": 1.6675,
+        "NotaMediana": 9.1
+      },
+      "DFS0006 - FISIOLOGIA HUMANA I": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.84
+      },
+      "DFS0028 - FISIOLOGIA": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          0.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 0.67,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.388720979624203,
+    "MediaDeNotas": 9.516000000000002,
+    "MediaDeDesvios": 1.416,
+    "NotaMediana": 9.71
+  },
+  "MARIO ANDRE LEOCADIO MIGUEL": {
+    "Notas": [
+      9.07,
+      9.1,
+      9.28,
+      9.29,
+      9.35,
+      9.51,
+      9.53,
+      9.54,
+      9.55,
+      9.56,
+      9.57,
+      9.58,
+      9.58,
+      9.62,
+      9.7,
+      9.75,
+      9.81,
+      9.82
+    ],
+    "Desvios": [
+      1.53,
+      1.42,
+      1.58,
+      2.05,
+      1.72,
+      1.57,
+      1.23,
+      1.45,
+      2.59,
+      2.22,
+      1.8,
+      2.07,
+      1.57,
+      1.84,
+      1.52,
+      0.67,
+      1.14,
+      1.61
+    ],
+    "Componentes": {
+      "DFS0028 - FISIOLOGIA": {
+        "Notas": [
+          9.35,
+          9.57,
+          9.75,
+          9.82
+        ],
+        "Desvios": [
+          1.53,
+          1.57,
+          1.8,
+          0.67
+        ],
+        "DesvioDeNotas": 0.18184815093918352,
+        "MediaDeNotas": 9.6225,
+        "MediaDeDesvios": 1.3925,
+        "NotaMediana": 9.75
+      },
+      "MOR0089 - MODULO BIOLOGICO II": {
+        "Notas": [
+          9.07,
+          9.1,
+          9.28,
+          9.29,
+          9.51,
+          9.54,
+          9.55,
+          9.62
+        ],
+        "Desvios": [
+          1.42,
+          1.58,
+          2.59,
+          2.22,
+          2.07,
+          1.57,
+          1.14,
+          1.61
+        ],
+        "DesvioDeNotas": 0.2002498439450078,
+        "MediaDeNotas": 9.370000000000001,
+        "MediaDeDesvios": 1.7750000000000001,
+        "NotaMediana": 9.51
+      },
+      "DFS0213 - NEUROBIOLOGIA DO SONO": {
+        "Notas": [
+          9.56,
+          9.58
+        ],
+        "Desvios": [
+          2.05,
+          1.84
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.9449999999999998,
+        "NotaMediana": 9.58
+      },
+      "DFS0040 - CRONOBIOLOGIA APLICADA À SAUDE": {
+        "Notas": [
+          9.58,
+          9.7
+        ],
+        "Desvios": [
+          1.72,
+          1.52
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.7
+      },
+      "DFS0053 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.81
+      },
+      "DFS0039 - FISIOLOGIA HUMANA VI": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.53
+      }
+    },
+    "DesvioDeNotas": 0.2107196663289353,
+    "MediaDeNotas": 9.511666666666667,
+    "MediaDeDesvios": 1.6433333333333335,
+    "NotaMediana": 9.56
+  },
+  "NICOLE LEITE GALVAO COELHO": {
+    "Notas": [
+      9.52,
+      9.58,
+      9.59,
+      9.61,
+      9.66,
+      9.68,
+      9.71,
+      9.71,
+      9.76,
+      9.77,
+      9.89,
+      9.99
+    ],
+    "Desvios": [
+      1.6,
+      0.7,
+      1.19,
+      1.56,
+      1.94,
+      1.93,
+      1.25,
+      1.42,
+      1.76,
+      1.29,
+      0.97,
+      1.47
+    ],
+    "Componentes": {
+      "DFS0054 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.61,
+          9.68,
+          9.71
+        ],
+        "Desvios": [
+          1.6,
+          1.56,
+          1.42
+        ],
+        "DesvioDeNotas": 0.041899350299922304,
+        "MediaDeNotas": 9.666666666666666,
+        "MediaDeDesvios": 1.5266666666666666,
+        "NotaMediana": 9.68
+      },
+      "MOR0089 - MODULO BIOLOGICO II": {
+        "Notas": [
+          9.52,
+          9.58,
+          9.59,
+          9.66,
+          9.71,
+          9.76,
+          9.77,
+          9.89
+        ],
+        "Desvios": [
+          0.7,
+          1.19,
+          1.94,
+          1.93,
+          1.76,
+          1.29,
+          0.97,
+          1.47
+        ],
+        "DesvioDeNotas": 0.1136881700090209,
+        "MediaDeNotas": 9.685,
+        "MediaDeDesvios": 1.40625,
+        "NotaMediana": 9.71
+      },
+      "DFS0048 - BASES BIOLÓGICAS DA RESPOSTA AO ESTRESSE": {
+        "Notas": [
+          9.99
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.99,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.99
+      }
+    },
+    "DesvioDeNotas": 0.1282873294167781,
+    "MediaDeNotas": 9.705833333333333,
+    "MediaDeDesvios": 1.4233333333333336,
+    "NotaMediana": 9.71
+  },
+  "RENATA GONCALVES FERREIRA": {
+    "Notas": [
+      9.18,
+      9.51,
+      9.56,
+      9.63,
+      9.64,
+      9.68,
+      9.84,
+      9.91,
+      9.96
+    ],
+    "Desvios": [
+      1.26,
+      1.48,
+      2.12,
+      1.39,
+      1.12,
+      1.69,
+      1.61,
+      1.1,
+      1.09
+    ],
+    "Componentes": {
+      "DFS0203 - COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          9.56,
+          9.63,
+          9.64,
+          9.68,
+          9.91,
+          9.96
+        ],
+        "Desvios": [
+          1.26,
+          1.39,
+          1.12,
+          1.61,
+          1.1,
+          1.09
+        ],
+        "DesvioDeNotas": 0.14988884770611413,
+        "MediaDeNotas": 9.730000000000002,
+        "MediaDeDesvios": 1.2616666666666667,
+        "NotaMediana": 9.68
+      },
+      "DFS0110 - FISIOLOGIA ANIMAL III": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.84
+      },
+      "DFS0004 - BASES BIOLOGICAS DO COMPORTAMENTO": {
+        "Notas": [
+          9.18,
+          9.51
+        ],
+        "Desvios": [
+          2.12,
+          1.69
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.344999999999999,
+        "MediaDeDesvios": 1.905,
+        "NotaMediana": 9.51
+      }
+    },
+    "DesvioDeNotas": 0.22345767682792506,
+    "MediaDeNotas": 9.656666666666666,
+    "MediaDeDesvios": 1.4288888888888889,
+    "NotaMediana": 9.64
+  },
+  "RENATA SANTORO DE SOUSA LIMA MOBLEY": {
+    "Notas": [
+      7.54,
+      8.34,
+      8.8,
+      9.53,
+      9.78,
+      9.92,
+      9.96
+    ],
+    "Desvios": [
+      1.36,
+      2.5,
+      2.28,
+      1.61,
+      1.12,
+      1.02,
+      2.05
+    ],
+    "Componentes": {
+      "DFS0203 - COMPORTAMENTO ANIMAL": {
+        "Notas": [
+          8.34,
+          9.53,
+          9.78,
+          9.92,
+          9.96
+        ],
+        "Desvios": [
+          1.36,
+          2.5,
+          1.61,
+          1.12,
+          1.02
+        ],
+        "DesvioDeNotas": 0.6021162678420174,
+        "MediaDeNotas": 9.506,
+        "MediaDeDesvios": 1.5220000000000002,
+        "NotaMediana": 9.78
+      },
+      "DFS0035 - INTRODUÇÃO À BIOACÚSTICA": {
+        "Notas": [
+          7.54,
+          8.8
+        ],
+        "Desvios": [
+          2.28,
+          2.05
+        ],
+        "DesvioDeNotas": 0.6300000000000003,
+        "MediaDeNotas": 8.17,
+        "MediaDeDesvios": 2.165,
+        "NotaMediana": 8.8
+      }
+    },
+    "DesvioDeNotas": 0.8582683087449509,
+    "MediaDeNotas": 9.124285714285715,
+    "MediaDeDesvios": 1.705714285714286,
+    "NotaMediana": 9.53
+  },
+  "ROVENA CLARA GALVAO JANUARIO ENGELBERTH": {
+    "Notas": [
+      9.34,
+      9.46,
+      9.51,
+      9.52,
+      9.55,
+      9.72,
+      9.72,
+      9.73,
+      9.82,
+      9.84,
+      9.86,
+      9.9,
+      9.91
+    ],
+    "Desvios": [
+      1.47,
+      1.93,
+      1.63,
+      1.22,
+      1.56,
+      1.63,
+      1.52,
+      1.09,
+      1.78,
+      1.68,
+      0.95,
+      1.2,
+      1.22
+    ],
+    "Componentes": {
+      "DFS0006 - FISIOLOGIA HUMANA I": {
+        "Notas": [
+          9.34,
+          9.55,
+          9.84
+        ],
+        "Desvios": [
+          1.47,
+          1.52,
+          1.22
+        ],
+        "DesvioDeNotas": 0.2049932248202906,
+        "MediaDeNotas": 9.576666666666666,
+        "MediaDeDesvios": 1.4033333333333333,
+        "NotaMediana": 9.55
+      },
+      "DFS0003 - NEUROANATOMIA FUNCIONAL": {
+        "Notas": [
+          9.82,
+          9.86
+        ],
+        "Desvios": [
+          1.93,
+          1.78
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.855,
+        "NotaMediana": 9.86
+      },
+      "DFS0004 - BASES BIOLOGICAS DO COMPORTAMENTO": {
+        "Notas": [
+          9.46,
+          9.73
+        ],
+        "Desvios": [
+          1.63,
+          1.68
+        ],
+        "DesvioDeNotas": 0.1349999999999998,
+        "MediaDeNotas": 9.595,
+        "MediaDeDesvios": 1.6549999999999998,
+        "NotaMediana": 9.73
+      },
+      "DFS0020 - FISIOLOGIA": {
+        "Notas": [
+          9.51,
+          9.72,
+          9.72,
+          9.91
+        ],
+        "Desvios": [
+          1.22,
+          1.63,
+          0.95,
+          1.2
+        ],
+        "DesvioDeNotas": 0.14150971698084922,
+        "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.72
+      },
+      "DFS0007 - FISIOLOGIA HUMANA II": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.52
+      },
+      "DFS0105 - FUNDAMENTOS DE CRONOBIOLOGIA": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.17971706889461278,
+    "MediaDeNotas": 9.683076923076923,
+    "MediaDeDesvios": 1.4523076923076919,
+    "NotaMediana": 9.72
+  },
+  "ANDRE LUIZ VIEIRA LOCKMANN": {
+    "Notas": [
+      9.22,
+      9.56,
+      9.56,
+      9.7,
+      9.75,
+      9.9,
+      9.91
+    ],
+    "Desvios": [
+      1.21,
+      1.55,
+      2.04,
+      1.43,
+      0.87,
+      1.42,
+      1.42
+    ],
+    "Componentes": {
+      "DFS0028 - FISIOLOGIA": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.7
+      },
+      "DFS0054 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.56,
+          9.75
+        ],
+        "Desvios": [
+          1.55,
+          1.42
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 9.655000000000001,
+        "MediaDeDesvios": 1.4849999999999999,
+        "NotaMediana": 9.75
+      },
+      "DFS0007 - FISIOLOGIA HUMANA II": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 9.22
+      },
+      "DFS0026 - FISIOLOGIA X": {
+        "Notas": [
+          9.56,
+          9.9
+        ],
+        "Desvios": [
+          1.43,
+          1.42
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.4249999999999998,
+        "NotaMediana": 9.9
+      },
+      "DFS0053 - FISIOLOGIA BÁSICA": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          0.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 0.87,
+        "NotaMediana": 9.91
+      }
+    },
+    "DesvioDeNotas": 0.2214700421994737,
+    "MediaDeNotas": 9.657142857142858,
+    "MediaDeDesvios": 1.42,
+    "NotaMediana": 9.7
+  },
+  "RAMÓN HYPOLITO LIMA": {
+    "Notas": [
+      9.73
+    ],
+    "Desvios": [
+      1.39
+    ],
+    "Componentes": {
+      "DFS0006 - FISIOLOGIA HUMANA I": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.39,
+    "NotaMediana": 9.73
+  }
+}

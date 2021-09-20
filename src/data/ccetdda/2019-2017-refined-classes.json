@@ -1,0 +1,621 @@
+{
+  "DDA0017 - GERENCIAMENTO ATUARIAL": {
+    "Notas": [
+      7.82,
+      8.78,
+      9.93
+    ],
+    "Desvios": [
+      2.19,
+      0.68,
+      2.64
+    ],
+    "Docentes": [
+      "CRISTIANE SILVA CORREA",
+      "JORDANA CRISTINA DE JESUS"
+    ],
+    "DesvioDeNotas": 0.8625672276537185,
+    "MediaDeNotas": 8.843333333333334,
+    "MediaDeDesvios": 1.8366666666666667,
+    "NotaMediana": 8.78
+  },
+  "DDA0010 - PRÁTICAS ATUARIAIS EM PENSÕES": {
+    "Notas": [
+      9.36,
+      9.37,
+      9.47
+    ],
+    "Desvios": [
+      1.38,
+      1.43,
+      1.68
+    ],
+    "Docentes": [
+      "CRISTIANE SILVA CORREA",
+      "LUANA JUNQUEIRA DIAS MYRRHA"
+    ],
+    "DesvioDeNotas": 0.04966554808583841,
+    "MediaDeNotas": 9.4,
+    "MediaDeDesvios": 1.4966666666666664,
+    "NotaMediana": 9.37
+  },
+  "DDA0303 - ESTATISTICA APLICADA A ARQUITETURA E URBANISMO": {
+    "Notas": [
+      8.43,
+      8.84,
+      9.06,
+      9.06,
+      9.74
+    ],
+    "Desvios": [
+      2.77,
+      2.46,
+      2.29,
+      1.89,
+      2.09
+    ],
+    "Docentes": [
+      "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+      "JÁRVIS CAMPOS",
+      "LUCIANA SILVA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.42471637594988043,
+    "MediaDeNotas": 9.026000000000002,
+    "MediaDeDesvios": 2.3,
+    "NotaMediana": 9.06
+  },
+  "DDA0301 - ESTATISTICA APLICADA AO TURISMO": {
+    "Notas": [
+      8.19,
+      8.53,
+      8.61,
+      9.11,
+      9.45,
+      9.58,
+      9.8
+    ],
+    "Desvios": [
+      2.32,
+      2.15,
+      2.71,
+      1.23,
+      1.43,
+      2.04,
+      1.55
+    ],
+    "Docentes": [
+      "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+      "MOISES ALBERTO CALLE AGUIRRE",
+      "LUCIANA SILVA DE SOUSA",
+      "HERICK CIDARTA GOMES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.5618446295508238,
+    "MediaDeNotas": 9.038571428571428,
+    "MediaDeDesvios": 1.9185714285714286,
+    "NotaMediana": 9.11
+  },
+  "DDA0304 - ESTATÍSTICA APLICADA À GESTÃO DE POLÍTICAS PÚBLICAS": {
+    "Notas": [
+      8.74,
+      9.68,
+      9.7,
+      9.7
+    ],
+    "Desvios": [
+      1.32,
+      1.42,
+      1.61,
+      2.13
+    ],
+    "Docentes": [
+      "FLAVIO HENRIQUE MIRANDA DE ARAUJO FREIRE",
+      "JORDANA CRISTINA DE JESUS",
+      "HERICK CIDARTA GOMES DE OLIVEIRA",
+      "LUCIANA SILVA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.41288618286399426,
+    "MediaDeNotas": 9.454999999999998,
+    "MediaDeDesvios": 1.62,
+    "NotaMediana": 9.7
+  },
+  "DDA0001 - TÉCNICAS DEMOGRÁFICAS I": {
+    "Notas": [
+      8.68,
+      9.47,
+      9.58
+    ],
+    "Desvios": [
+      2.04,
+      1.7,
+      2.03
+    ],
+    "Docentes": [
+      "FLAVIO HENRIQUE MIRANDA DE ARAUJO FREIRE",
+      "HERICK CIDARTA GOMES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.400860186210715,
+    "MediaDeNotas": 9.243333333333334,
+    "MediaDeDesvios": 1.9233333333333331,
+    "NotaMediana": 9.47
+  },
+  "DDA0205 - FORÇA DE TRABALHO, EMPREGO E PEA": {
+    "Notas": [
+      9.93
+    ],
+    "Desvios": [
+      0.95
+    ],
+    "Docentes": [
+      "JORDANA CRISTINA DE JESUS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.93,
+    "MediaDeDesvios": 0.95,
+    "NotaMediana": 9.93
+  },
+  "DDA0006 - MATEMÁTICA ATUARIAL I": {
+    "Notas": [
+      9.04,
+      9.2,
+      9.82
+    ],
+    "Desvios": [
+      1.21,
+      1.77,
+      1.62
+    ],
+    "Docentes": [
+      "JORDANA CRISTINA DE JESUS",
+      "LUANA JUNQUEIRA DIAS MYRRHA",
+      "HERICK CIDARTA GOMES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.33638602164114356,
+    "MediaDeNotas": 9.353333333333333,
+    "MediaDeDesvios": 1.5333333333333332,
+    "NotaMediana": 9.2
+  },
+  "DDA0102 - ANÁLISE DE REGRESSÃO PARA CIÊNCIAS ATUARIAIS": {
+    "Notas": [
+      7.76,
+      8.45
+    ],
+    "Desvios": [
+      2.99,
+      2.58
+    ],
+    "Docentes": [
+      "JOSE VILTON COSTA"
+    ],
+    "DesvioDeNotas": 0.34499999999999975,
+    "MediaDeNotas": 8.105,
+    "MediaDeDesvios": 2.785,
+    "NotaMediana": 8.45
+  },
+  "DDA0016 - PRÁTICAS ATUARIAIS EM SEGUROS": {
+    "Notas": [
+      7.78,
+      8.3
+    ],
+    "Desvios": [
+      2.95,
+      2.45
+    ],
+    "Docentes": [
+      "JOSE VILTON COSTA"
+    ],
+    "DesvioDeNotas": 0.26000000000000023,
+    "MediaDeNotas": 8.040000000000001,
+    "MediaDeDesvios": 2.7,
+    "NotaMediana": 8.3
+  },
+  "DDA0309 - DEMOGRAFIA E POLÍTICAS PÚBLICAS": {
+    "Notas": [
+      9.27,
+      9.62
+    ],
+    "Desvios": [
+      1.1,
+      1.42
+    ],
+    "Docentes": [
+      "JÁRVIS CAMPOS",
+      "RICARDO OJIMA"
+    ],
+    "DesvioDeNotas": 0.17499999999999982,
+    "MediaDeNotas": 9.445,
+    "MediaDeDesvios": 1.26,
+    "NotaMediana": 9.62
+  },
+  "DDA0305 - ELEMENTOS DE ESTATISTICA APLICADA A BIBLIOTECONOMIA": {
+    "Notas": [
+      9.2,
+      9.28,
+      9.8,
+      9.89
+    ],
+    "Desvios": [
+      1.98,
+      0.58,
+      1.31,
+      1.36
+    ],
+    "Docentes": [
+      "JÁRVIS CAMPOS",
+      "EDUARDO HENRIQUE SILVEIRA DE ARAUJO",
+      "LUCIANA SILVA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.3054811778162452,
+    "MediaDeNotas": 9.5425,
+    "MediaDeDesvios": 1.3075,
+    "NotaMediana": 9.8
+  },
+  "DDA0002 - INTRODUÇÃO AO SEGURO E PREVIDÊNCIA": {
+    "Notas": [
+      9.57,
+      9.7
+    ],
+    "Desvios": [
+      1.79,
+      1.67
+    ],
+    "Docentes": [
+      "LUANA JUNQUEIRA DIAS MYRRHA"
+    ],
+    "DesvioDeNotas": 0.0649999999999995,
+    "MediaDeNotas": 9.635,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.7
+  },
+  "DDA0308 - INTRODUÇÃO À DEMOGRAFIA PARA ECONOMIA": {
+    "Notas": [
+      9.41,
+      9.86
+    ],
+    "Desvios": [
+      1.2,
+      1.68
+    ],
+    "Docentes": [
+      "LUCIANA CONCEICAO DE LIMA"
+    ],
+    "DesvioDeNotas": 0.22499999999999964,
+    "MediaDeNotas": 9.635,
+    "MediaDeDesvios": 1.44,
+    "NotaMediana": 9.86
+  },
+  "DDA0020 - TÓPICOS DE ECONOMIA PARA CIÊNCIAS ATUARIAIS": {
+    "Notas": [
+      9.45,
+      9.73
+    ],
+    "Desvios": [
+      1.65,
+      1.4
+    ],
+    "Docentes": [
+      "LUCIANA CONCEICAO DE LIMA"
+    ],
+    "DesvioDeNotas": 0.14000000000000057,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.525,
+    "NotaMediana": 9.73
+  },
+  "DDA0101 - FUNDAMENTOS DE ESTATÍSTICA PARA CIÊNCIAS ATUARIAIS": {
+    "Notas": [
+      9.23,
+      9.31
+    ],
+    "Desvios": [
+      2.19,
+      1.94
+    ],
+    "Docentes": [
+      "MARCOS ROBERTO GONZAGA"
+    ],
+    "DesvioDeNotas": 0.040000000000000036,
+    "MediaDeNotas": 9.27,
+    "MediaDeDesvios": 2.065,
+    "NotaMediana": 9.31
+  },
+  "DDA0019 - SEMINÁRIO DE MONOGRAFIA": {
+    "Notas": [
+      9.19,
+      9.22
+    ],
+    "Desvios": [
+      1.65,
+      2.09
+    ],
+    "Docentes": [
+      "MOISES ALBERTO CALLE AGUIRRE"
+    ],
+    "DesvioDeNotas": 0.015000000000000568,
+    "MediaDeNotas": 9.205,
+    "MediaDeDesvios": 1.8699999999999999,
+    "NotaMediana": 9.22
+  },
+  "DDA0204 - METODOLOGIA DE PESQUISA": {
+    "Notas": [
+      9.41,
+      9.62
+    ],
+    "Desvios": [
+      1.82,
+      1.97
+    ],
+    "Docentes": [
+      "RICARDO OJIMA"
+    ],
+    "DesvioDeNotas": 0.10499999999999954,
+    "MediaDeNotas": 9.515,
+    "MediaDeDesvios": 1.895,
+    "NotaMediana": 9.62
+  },
+  "DDA0007 - MATEMÁTICA ATUARIAL II": {
+    "Notas": [
+      8.94,
+      9.49
+    ],
+    "Desvios": [
+      1.63,
+      1.43
+    ],
+    "Docentes": [
+      "CRISTIANE SILVA CORREA"
+    ],
+    "DesvioDeNotas": 0.27500000000000036,
+    "MediaDeNotas": 9.215,
+    "MediaDeDesvios": 1.5299999999999998,
+    "NotaMediana": 9.49
+  },
+  "DDA0004 - MÉTODOS DE TABELAS DE SOBREVIVÊNCIA": {
+    "Notas": [
+      8.81,
+      9.66,
+      9.77
+    ],
+    "Desvios": [
+      1.88,
+      1.24,
+      1.13
+    ],
+    "Docentes": [
+      "CRISTIANE SILVA CORREA",
+      "LUANA JUNQUEIRA DIAS MYRRHA"
+    ],
+    "DesvioDeNotas": 0.4289781139198385,
+    "MediaDeNotas": 9.413333333333332,
+    "MediaDeDesvios": 1.4166666666666667,
+    "NotaMediana": 9.66
+  },
+  "DDA0005 - ALGORÍTMO PARA CIÊNCIAS ATUARIAIS": {
+    "Notas": [
+      9.17,
+      9.56,
+      9.74
+    ],
+    "Desvios": [
+      1.57,
+      1.47,
+      2.02
+    ],
+    "Docentes": [
+      "FLAVIO HENRIQUE MIRANDA DE ARAUJO FREIRE",
+      "JÁRVIS CAMPOS",
+      "HERICK CIDARTA GOMES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.23790754506740655,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.6866666666666668,
+    "NotaMediana": 9.56
+  },
+  "DDA0008 - LEGISLAÇÃO DE SEGURO E PREVIDÊNCIA": {
+    "Notas": [
+      9.16,
+      9.32,
+      9.79
+    ],
+    "Desvios": [
+      1.24,
+      1.25,
+      1.58
+    ],
+    "Docentes": [
+      "JORDANA CRISTINA DE JESUS",
+      "HERICK CIDARTA GOMES DE OLIVEIRA",
+      "LUCIANA SILVA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.26737406173540584,
+    "MediaDeNotas": 9.423333333333334,
+    "MediaDeDesvios": 1.3566666666666667,
+    "NotaMediana": 9.32
+  },
+  "DDA0013 - TARIFAÇÃO DE SEGUROS": {
+    "Notas": [
+      9.71,
+      9.91
+    ],
+    "Desvios": [
+      1.19,
+      0.8
+    ],
+    "Docentes": [
+      "JORDANA CRISTINA DE JESUS",
+      "HERICK CIDARTA GOMES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.09999999999999964,
+    "MediaDeNotas": 9.81,
+    "MediaDeDesvios": 0.995,
+    "NotaMediana": 9.91
+  },
+  "DDA0003 - MATEMÁTICA FINANCEIRA PARA CIÊNCIAS ATUARIAIS": {
+    "Notas": [
+      8.48,
+      9.19
+    ],
+    "Desvios": [
+      1.95,
+      2.37
+    ],
+    "Docentes": [
+      "JOSE VILTON COSTA"
+    ],
+    "DesvioDeNotas": 0.35499999999999954,
+    "MediaDeNotas": 8.835,
+    "MediaDeDesvios": 2.16,
+    "NotaMediana": 9.19
+  },
+  "DDA0009 - DINÂMICA DEMOGRÁFICA E POLÍTICAS SOCIAIS": {
+    "Notas": [
+      9.39,
+      9.66,
+      9.8,
+      9.93
+    ],
+    "Desvios": [
+      0.76,
+      0.89,
+      1.5,
+      1.25
+    ],
+    "Docentes": [
+      "JÁRVIS CAMPOS",
+      "RICARDO OJIMA",
+      "LUCIANA SILVA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.2003122562401011,
+    "MediaDeNotas": 9.695,
+    "MediaDeDesvios": 1.1,
+    "NotaMediana": 9.8
+  },
+  "DDA0014 - PROJEÇÕES POPULACIONAIS": {
+    "Notas": [
+      9.15,
+      9.54,
+      9.61,
+      9.68
+    ],
+    "Desvios": [
+      1.66,
+      1.42,
+      1.26,
+      1.24
+    ],
+    "Docentes": [
+      "JÁRVIS CAMPOS",
+      "MARCOS ROBERTO GONZAGA",
+      "HERICK CIDARTA GOMES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.20524375751773757,
+    "MediaDeNotas": 9.495,
+    "MediaDeDesvios": 1.395,
+    "NotaMediana": 9.61
+  },
+  "DDA0011 - GERENCIAMENTO DE BANCO DE DADOS": {
+    "Notas": [
+      9.37,
+      9.64,
+      9.89
+    ],
+    "Desvios": [
+      1.57,
+      0.86,
+      1.52
+    ],
+    "Docentes": [
+      "LUCIANA CONCEICAO DE LIMA"
+    ],
+    "DesvioDeNotas": 0.21234144411510703,
+    "MediaDeNotas": 9.633333333333333,
+    "MediaDeDesvios": 1.3166666666666667,
+    "NotaMediana": 9.64
+  },
+  "DDA0302 - MÉTODOS QUANTITATIVOS APLICADOS ÀS CIÊNCIAS SOCIAIS": {
+    "Notas": [
+      8.75,
+      9.35,
+      9.59,
+      9.66,
+      9.96
+    ],
+    "Desvios": [
+      1.52,
+      1.61,
+      1.98,
+      0.53,
+      1.06
+    ],
+    "Docentes": [
+      "MOISES ALBERTO CALLE AGUIRRE",
+      "HERICK CIDARTA GOMES DE OLIVEIRA",
+      "LUCIANA SILVA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.40572897357719007,
+    "MediaDeNotas": 9.462,
+    "MediaDeDesvios": 1.3399999999999999,
+    "NotaMediana": 9.59
+  },
+  "DDA0018 - TEORIA DE RISCO E CREDIBILIDADE": {
+    "Notas": [
+      7.22,
+      9.9
+    ],
+    "Desvios": [
+      1.89,
+      0.97
+    ],
+    "Docentes": [
+      "HERICK CIDARTA GOMES DE OLIVEIRA",
+      "MARCOS ROBERTO GONZAGA"
+    ],
+    "DesvioDeNotas": 1.3400000000000003,
+    "MediaDeNotas": 8.56,
+    "MediaDeDesvios": 1.43,
+    "NotaMediana": 9.9
+  },
+  "DDA0207 - TÓPICOS ESPECIAIS EM ATUÁRIA": {
+    "Notas": [
+      9.39
+    ],
+    "Desvios": [
+      1.7
+    ],
+    "Docentes": [
+      "HERICK CIDARTA GOMES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.39,
+    "MediaDeDesvios": 1.7,
+    "NotaMediana": 9.39
+  },
+  "DDA0202 - AMOSTRAGEM PARA CIÊNCIAS ATUARIAIS": {
+    "Notas": [
+      9.73
+    ],
+    "Desvios": [
+      1.36
+    ],
+    "Docentes": [
+      "LUCIANA SILVA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.36,
+    "NotaMediana": 9.73
+  },
+  "DDA0103 - SÉRIES TEMPORAIS PARA CIÊNCIAS ATUARIAIS": {
+    "Notas": [
+      8.85
+    ],
+    "Desvios": [
+      1.84
+    ],
+    "Docentes": [
+      "MARCOS ROBERTO GONZAGA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.85,
+    "MediaDeDesvios": 1.84,
+    "NotaMediana": 8.85
+  }
+}

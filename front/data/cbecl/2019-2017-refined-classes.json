@@ -1,0 +1,754 @@
+{
+  "ECL0026 - CONSERVAÇÃO E GESTÃO AMBIENTAL": {
+    "Notas": [
+      8.69,
+      9.22,
+      9.4,
+      9.56
+    ],
+    "Desvios": [
+      2.57,
+      2.03,
+      1.82,
+      1.7
+    ],
+    "Docentes": [
+      "ADRIANA MONTEIRO DE ALMEIDA",
+      "ALEXANDRE FADIGAS DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.3274427430864826,
+    "MediaDeNotas": 9.2175,
+    "MediaDeDesvios": 2.03,
+    "NotaMediana": 9.4
+  },
+  "ECL0035 - ECOLOGIA GERAL": {
+    "Notas": [
+      8.77,
+      8.97,
+      9.24,
+      9.38
+    ],
+    "Desvios": [
+      1.95,
+      2.75,
+      2.19,
+      2.53
+    ],
+    "Docentes": [
+      "ADRIANA MONTEIRO DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.2363260459619298,
+    "MediaDeNotas": 9.09,
+    "MediaDeDesvios": 2.355,
+    "NotaMediana": 9.24
+  },
+  "ECL0031 - ELEMENTOS DE AGROECOLOGIA": {
+    "Notas": [
+      9.39,
+      9.72
+    ],
+    "Desvios": [
+      1.56,
+      1.39
+    ],
+    "Docentes": [
+      "ADRIANA MONTEIRO DE ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.16500000000000004,
+    "MediaDeNotas": 9.555,
+    "MediaDeDesvios": 1.475,
+    "NotaMediana": 9.72
+  },
+  "ECL0013 - ECONOMIA ECOLOGICA": {
+    "Notas": [
+      9.49,
+      9.53,
+      9.6,
+      9.7,
+      9.74,
+      9.87
+    ],
+    "Desvios": [
+      1.81,
+      1.17,
+      1.66,
+      1.19,
+      1.45,
+      1.21
+    ],
+    "Docentes": [
+      "ADRIANA ROSA CARVALHO",
+      "EVERTON GIACHINI TOSETTO",
+      "FELIPE PEREIRA MARINHO"
+    ],
+    "DesvioDeNotas": 0.1299679447658792,
+    "MediaDeNotas": 9.655,
+    "MediaDeDesvios": 1.415,
+    "NotaMediana": 9.7
+  },
+  "ECL0006 - ECOLOGIA DE ECOSSISTEMAS": {
+    "Notas": [
+      8.49,
+      9.01,
+      9.06,
+      9.6,
+      9.61,
+      9.61,
+      9.64,
+      9.65
+    ],
+    "Desvios": [
+      2.19,
+      2.49,
+      1.93,
+      3.13,
+      2.32,
+      1.23,
+      1.75,
+      1.22
+    ],
+    "Docentes": [
+      "ADRIANO CALIMAN FERREIRA DA SILVA",
+      "EVERTON GIACHINI TOSETTO",
+      "JOSE LUIZ DE ATTAYDE",
+      "LUCIANA SILVA CARNEIRO"
+    ],
+    "DesvioDeNotas": 0.40450394003025475,
+    "MediaDeNotas": 9.33375,
+    "MediaDeDesvios": 2.0324999999999998,
+    "NotaMediana": 9.61
+  },
+  "ECL0028 - ECOLOGIA II": {
+    "Notas": [
+      8.09,
+      8.09,
+      8.22,
+      8.3,
+      8.4,
+      8.7,
+      8.79,
+      9.05,
+      9.08,
+      9.31,
+      9.43,
+      9.52,
+      9.59,
+      9.67
+    ],
+    "Desvios": [
+      2.42,
+      2.39,
+      2.57,
+      2.48,
+      2.11,
+      1.5,
+      2.33,
+      1.6,
+      1.75,
+      1.53,
+      1.94,
+      1.77,
+      1.92,
+      1.47
+    ],
+    "Docentes": [
+      "ADRIANO CALIMAN FERREIRA DA SILVA",
+      "LUCIANA SILVA CARNEIRO"
+    ],
+    "DesvioDeNotas": 0.559639096532173,
+    "MediaDeNotas": 8.874285714285715,
+    "MediaDeDesvios": 1.9842857142857144,
+    "NotaMediana": 9.05
+  },
+  "ECL0014 - ECOLOGIA MATEMATICA": {
+    "Notas": [
+      8.65,
+      9.53,
+      9.69,
+      9.75
+    ],
+    "Desvios": [
+      1.75,
+      2.13,
+      1.89,
+      1.84
+    ],
+    "Docentes": [
+      "ALEXANDRE FADIGAS DE SOUZA",
+      "MARCIO ZIKAN CARDOSO"
+    ],
+    "DesvioDeNotas": 0.4432550056118935,
+    "MediaDeNotas": 9.405,
+    "MediaDeDesvios": 1.9024999999999999,
+    "NotaMediana": 9.69
+  },
+  "ECL0012 - ECOLOGIA GLOBAL": {
+    "Notas": [
+      9.06,
+      9.4
+    ],
+    "Desvios": [
+      1.91,
+      2.12
+    ],
+    "Docentes": [
+      "ANDROS TAROUCO GIANUCA"
+    ],
+    "DesvioDeNotas": 0.16999999999999993,
+    "MediaDeNotas": 9.23,
+    "MediaDeDesvios": 2.015,
+    "NotaMediana": 9.4
+  },
+  "ECL0017 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO": {
+    "Notas": [
+      9.18,
+      9.55,
+      9.59,
+      9.62
+    ],
+    "Desvios": [
+      1.91,
+      1.46,
+      1.74,
+      1.37
+    ],
+    "Docentes": [
+      "EDUARDO MARTINS VENTICINQUE"
+    ],
+    "DesvioDeNotas": 0.17783419243778742,
+    "MediaDeNotas": 9.485,
+    "MediaDeDesvios": 1.62,
+    "NotaMediana": 9.59
+  },
+  "ECL0018 - GESTÃO AMBIENTAL": {
+    "Notas": [
+      9.05,
+      9.22,
+      9.28,
+      9.34,
+      9.59,
+      9.66
+    ],
+    "Desvios": [
+      1.68,
+      1.71,
+      1.59,
+      1.69,
+      1.59,
+      1.61
+    ],
+    "Docentes": [
+      "EDUARDO MARTINS VENTICINQUE",
+      "EVERTON GIACHINI TOSETTO",
+      "HELOISA DANTAS BRUM"
+    ],
+    "DesvioDeNotas": 0.21029080394116656,
+    "MediaDeNotas": 9.356666666666667,
+    "MediaDeDesvios": 1.6449999999999998,
+    "NotaMediana": 9.34
+  },
+  "ECL0025 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS": {
+    "Notas": [
+      9.57,
+      9.63,
+      9.67
+    ],
+    "Desvios": [
+      1.29,
+      1.31,
+      1.58
+    ],
+    "Docentes": [
+      "FELIPE PEREIRA MARINHO",
+      "LIANA DE FIGUEIREDO MENDES"
+    ],
+    "DesvioDeNotas": 0.0410960933531264,
+    "MediaDeNotas": 9.623333333333333,
+    "MediaDeDesvios": 1.3933333333333333,
+    "NotaMediana": 9.63
+  },
+  "ECL0003 - ECOLOGIA DA RESTAURAÇÃO": {
+    "Notas": [
+      9.32,
+      9.48,
+      9.5,
+      9.75
+    ],
+    "Desvios": [
+      1.84,
+      1.17,
+      1.61,
+      1.6
+    ],
+    "Docentes": [
+      "FELIPE PEREIRA MARINHO",
+      "GISLENE MARIA DA SILVA GANADE"
+    ],
+    "DesvioDeNotas": 0.15384651442265426,
+    "MediaDeNotas": 9.5125,
+    "MediaDeDesvios": 1.5550000000000002,
+    "NotaMediana": 9.5
+  },
+  "ECL0019 - MANEJO DE RECURSOS NATURAIS": {
+    "Notas": [
+      9.37,
+      9.61,
+      9.8,
+      9.82,
+      9.91
+    ],
+    "Desvios": [
+      1.37,
+      1.11,
+      1.18,
+      1.51,
+      1.18
+    ],
+    "Docentes": [
+      "FELIPE PEREIRA MARINHO",
+      "RAFAEL CAMILO LAIA"
+    ],
+    "DesvioDeNotas": 0.19260321908005634,
+    "MediaDeNotas": 9.702,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.8
+  },
+  "ECL0010 - ECOLOGIA GERAL": {
+    "Notas": [
+      8.12,
+      9.17
+    ],
+    "Desvios": [
+      2.52,
+      2.32
+    ],
+    "Docentes": [
+      "JOSE LUIZ DE ATTAYDE",
+      "RAFAEL CAMILO LAIA"
+    ],
+    "DesvioDeNotas": 0.5250000000000004,
+    "MediaDeNotas": 8.645,
+    "MediaDeDesvios": 2.42,
+    "NotaMediana": 9.17
+  },
+  "ECL0021 - SOCIEDADE E DESENVOLVIMENTO": {
+    "Notas": [
+      8.86,
+      8.96,
+      9.12,
+      9.63,
+      9.65,
+      9.72
+    ],
+    "Desvios": [
+      2.79,
+      2.05,
+      2.46,
+      1.32,
+      1.66,
+      1.28
+    ],
+    "Docentes": [
+      "JOSE LUIZ DE ATTAYDE",
+      "PRISCILA FABIANA MACEDO LOPES"
+    ],
+    "DesvioDeNotas": 0.3526408308116855,
+    "MediaDeNotas": 9.323333333333332,
+    "MediaDeDesvios": 1.9266666666666665,
+    "NotaMediana": 9.63
+  },
+  "ECL0027 - ECOLOGIA I": {
+    "Notas": [
+      8.75,
+      8.88,
+      9.15,
+      9.18,
+      9.18,
+      9.25,
+      9.29,
+      9.4,
+      9.46,
+      9.72
+    ],
+    "Desvios": [
+      2.16,
+      1.43,
+      1.92,
+      2.23,
+      1.49,
+      2.17,
+      2.19,
+      1.81,
+      2.18,
+      1.82
+    ],
+    "Docentes": [
+      "MARCIO ZIKAN CARDOSO",
+      "RAFAEL CAMILO LAIA",
+      "ADRIANO CALIMAN FERREIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.2626861244908076,
+    "MediaDeNotas": 9.225999999999999,
+    "MediaDeDesvios": 1.9400000000000002,
+    "NotaMediana": 9.25
+  },
+  "ECL0009 - ECOLOGIA DE POPULAÇÕES": {
+    "Notas": [
+      9.12,
+      9.23,
+      9.43,
+      9.71,
+      9.72,
+      9.82
+    ],
+    "Desvios": [
+      1.48,
+      2.28,
+      2.01,
+      2.21,
+      1.8,
+      1.55
+    ],
+    "Docentes": [
+      "MIRIAM PLAZA PINTO",
+      "MARCIO ZIKAN CARDOSO"
+    ],
+    "DesvioDeNotas": 0.2636127209879426,
+    "MediaDeNotas": 9.505,
+    "MediaDeDesvios": 1.8883333333333334,
+    "NotaMediana": 9.71
+  },
+  "ECL0004 - ECOLOGIA DE CAMPO": {
+    "Notas": [
+      9.29,
+      9.39,
+      9.49,
+      9.58
+    ],
+    "Desvios": [
+      2.23,
+      1.89,
+      2.1,
+      1.81
+    ],
+    "Docentes": [
+      "VANESSA GRAZIELE STAGGEMEIER",
+      "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA"
+    ],
+    "DesvioDeNotas": 0.10848386976873595,
+    "MediaDeNotas": 9.4375,
+    "MediaDeDesvios": 2.0075000000000003,
+    "NotaMediana": 9.49
+  },
+  "ECL0002 - ECOLOGIA DA CONSERVAÇÃO": {
+    "Notas": [
+      9.59,
+      9.71,
+      9.74,
+      9.89
+    ],
+    "Desvios": [
+      1.62,
+      1.17,
+      1.35,
+      1.1
+    ],
+    "Docentes": [
+      "ADRIANA MONTEIRO DE ALMEIDA",
+      "ALEXANDRE FADIGAS DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.10685855136581278,
+    "MediaDeNotas": 9.7325,
+    "MediaDeDesvios": 1.31,
+    "NotaMediana": 9.74
+  },
+  "ECL0005 - ECOLOGIA DE COMUNIDADES": {
+    "Notas": [
+      8.24,
+      8.95,
+      9.09,
+      9.34,
+      9.42,
+      9.52,
+      9.76
+    ],
+    "Desvios": [
+      1.8,
+      1.82,
+      1.61,
+      1.96,
+      1.9,
+      1.66,
+      1.88
+    ],
+    "Docentes": [
+      "ADRIANO CALIMAN FERREIRA DA SILVA",
+      "ANDROS TAROUCO GIANUCA",
+      "MARCIO ZIKAN CARDOSO"
+    ],
+    "DesvioDeNotas": 0.4597026545629738,
+    "MediaDeNotas": 9.188571428571427,
+    "MediaDeDesvios": 1.804285714285714,
+    "NotaMediana": 9.34
+  },
+  "ECL0001 - ECOLOGIA DA PAISAGEM": {
+    "Notas": [
+      9.35,
+      9.48,
+      9.56,
+      9.62,
+      9.63,
+      9.7,
+      9.77,
+      9.87
+    ],
+    "Desvios": [
+      1.47,
+      1.26,
+      1.55,
+      1.47,
+      1.49,
+      0.9,
+      1.41,
+      0.9
+    ],
+    "Docentes": [
+      "ANDROS TAROUCO GIANUCA",
+      "EDUARDO MARTINS VENTICINQUE",
+      "MARÍLIA BRUZZI LION"
+    ],
+    "DesvioDeNotas": 0.15311351997782535,
+    "MediaDeNotas": 9.622499999999999,
+    "MediaDeDesvios": 1.3062500000000001,
+    "NotaMediana": 9.63
+  },
+  "ECL0007 - ECOLOGIA EVOLUTIVA": {
+    "Notas": [
+      8.82,
+      9.19,
+      9.63,
+      9.64,
+      9.75,
+      9.79
+    ],
+    "Desvios": [
+      1.45,
+      1.64,
+      1.51,
+      1.6,
+      1.82,
+      1.79
+    ],
+    "Docentes": [
+      "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA",
+      "RAFAEL CAMILO LAIA",
+      "MARCIO ZIKAN CARDOSO"
+    ],
+    "DesvioDeNotas": 0.3502855977627399,
+    "MediaDeNotas": 9.47,
+    "MediaDeDesvios": 1.6349999999999998,
+    "NotaMediana": 9.64
+  },
+  "ECL0041 - ECOLOGIA DE CAMPO II": {
+    "Notas": [
+      9.89,
+      9.99,
+      9.99
+    ],
+    "Desvios": [
+      0.93,
+      0.94,
+      0.94
+    ],
+    "Docentes": [
+      "EDUARDO MARTINS VENTICINQUE",
+      "MARCIO ZIKAN CARDOSO"
+    ],
+    "DesvioDeNotas": 0.047140452079103,
+    "MediaDeNotas": 9.956666666666667,
+    "MediaDeDesvios": 0.9366666666666666,
+    "NotaMediana": 9.99
+  },
+  "ECL0038 - ECOFISIOLOGIA VEGETAL": {
+    "Notas": [
+      8.83,
+      9.22,
+      9.22,
+      9.23
+    ],
+    "Desvios": [
+      2.3,
+      1.69,
+      1.77,
+      1.61
+    ],
+    "Docentes": [
+      "GISLENE MARIA DA SILVA GANADE"
+    ],
+    "DesvioDeNotas": 0.1703672503740084,
+    "MediaDeNotas": 9.125,
+    "MediaDeDesvios": 1.8425,
+    "NotaMediana": 9.22
+  },
+  "ECO2554 - ECONOMIA DO MEIO AMBIENTE": {
+    "Notas": [
+      8.89
+    ],
+    "Desvios": [
+      1.99
+    ],
+    "Docentes": [
+      "JOSE LUIZ DE ATTAYDE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.89,
+    "MediaDeDesvios": 1.99,
+    "NotaMediana": 8.89
+  },
+  "ECL0015 - FILOSOFIA E METODOLOGIA DA ECOLOGIA": {
+    "Notas": [
+      9.09,
+      9.3,
+      9.37,
+      9.53,
+      9.53
+    ],
+    "Desvios": [
+      2.22,
+      1.58,
+      2.16,
+      1.09,
+      1.2
+    ],
+    "Docentes": [
+      "JOSE LUIZ DE ATTAYDE",
+      "RAFAEL CAMILO LAIA"
+    ],
+    "DesvioDeNotas": 0.16390240998838274,
+    "MediaDeNotas": 9.363999999999999,
+    "MediaDeDesvios": 1.65,
+    "NotaMediana": 9.37
+  },
+  "ECL0022 - ECOLOGIA ESTATISTICA": {
+    "Notas": [
+      9.2,
+      9.47,
+      9.81,
+      9.86,
+      9.91,
+      9.93,
+      9.94
+    ],
+    "Desvios": [
+      1.52,
+      0.9,
+      1.36,
+      1.21,
+      1.37,
+      1.57,
+      0.98
+    ],
+    "Docentes": [
+      "MIRIAM PLAZA PINTO",
+      "VANESSA GRAZIELE STAGGEMEIER",
+      "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA",
+      "GISLENE MARIA DA SILVA GANADE"
+    ],
+    "DesvioDeNotas": 0.26411191196312284,
+    "MediaDeNotas": 9.73142857142857,
+    "MediaDeDesvios": 1.272857142857143,
+    "NotaMediana": 9.86
+  },
+  "ECL0011 - ECOLOGIA HUMANA": {
+    "Notas": [
+      9.75,
+      9.81,
+      9.83,
+      9.9,
+      9.91,
+      9.96
+    ],
+    "Desvios": [
+      1.19,
+      1.08,
+      1.42,
+      0.89,
+      1.52,
+      0.88
+    ],
+    "Docentes": [
+      "PRISCILA FABIANA MACEDO LOPES",
+      "RAFAEL CAMILO LAIA"
+    ],
+    "DesvioDeNotas": 0.07023769168568511,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 1.1633333333333333,
+    "NotaMediana": 9.9
+  },
+  "ECL0036 - EDUCAÇÃO AMBIENTAL": {
+    "Notas": [
+      9.22,
+      9.24,
+      9.66,
+      9.66
+    ],
+    "Desvios": [
+      1.58,
+      1.28,
+      1.49,
+      1.53
+    ],
+    "Docentes": [
+      "RAFAEL CAMILO LAIA"
+    ],
+    "DesvioDeNotas": 0.2151162476429894,
+    "MediaDeNotas": 9.445,
+    "MediaDeDesvios": 1.4700000000000002,
+    "NotaMediana": 9.66
+  },
+  "ECL0023 - ECOLOGIA ESTATÍSTICA II": {
+    "Notas": [
+      9.65
+    ],
+    "Desvios": [
+      1.61
+    ],
+    "Docentes": [
+      "CARLOS ROBERTO SORENSEN DUTRA DA FONSECA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.65,
+    "MediaDeDesvios": 1.61,
+    "NotaMediana": 9.65
+  },
+  "ECL0037 - SEMINÁRIOS EM ECOLOGIA": {
+    "Notas": [
+      9.93
+    ],
+    "Desvios": [
+      0.89
+    ],
+    "Docentes": [
+      "HELOISA DANTAS BRUM"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.93,
+    "MediaDeDesvios": 0.89,
+    "NotaMediana": 9.93
+  },
+  "ECL0029 - ECOLOGIA APLICADA À ZOOTECNIA": {
+    "Notas": [
+      8.43
+    ],
+    "Desvios": [
+      2.61
+    ],
+    "Docentes": [
+      "RAFAEL CAMILO LAIA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.43,
+    "MediaDeDesvios": 2.61,
+    "NotaMediana": 8.43
+  }
+}

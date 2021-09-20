@@ -1,0 +1,2902 @@
+{
+  "DPU0207 - DIREITO PENAL II": {
+    "Notas": [
+      8.22,
+      8.36,
+      8.59,
+      8.71,
+      8.91,
+      9.09,
+      9.19,
+      9.28
+    ],
+    "Desvios": [
+      1.73,
+      2.2,
+      1.81,
+      1.73,
+      2.11,
+      2,
+      1.8,
+      1.78
+    ],
+    "Docentes": [
+      "ANDREO ALEKSANDRO NOBRE MARQUES",
+      "ROMULO LIMA SILVA DE GOIS"
+    ],
+    "DesvioDeNotas": 0.36410635465479013,
+    "MediaDeNotas": 8.79375,
+    "MediaDeDesvios": 1.895,
+    "NotaMediana": 8.91
+  },
+  "DPU0209 - DIREITO PENAL IV": {
+    "Notas": [
+      8.73,
+      8.8,
+      9.09,
+      9.25,
+      9.37,
+      9.52,
+      9.54,
+      9.55
+    ],
+    "Desvios": [
+      1.97,
+      1.81,
+      1.66,
+      1.32,
+      1.84,
+      1.39,
+      2.05,
+      1.44
+    ],
+    "Docentes": [
+      "ANDREO ALEKSANDRO NOBRE MARQUES",
+      "ROMULO LIMA SILVA DE GOIS",
+      "SHEILA SAMPAIO GONCALVES BARRETO"
+    ],
+    "DesvioDeNotas": 0.3076295458827058,
+    "MediaDeNotas": 9.231250000000001,
+    "MediaDeDesvios": 1.6850000000000003,
+    "NotaMediana": 9.37
+  },
+  "DPU0204 - DIREITO CONSTITUCIONAL I": {
+    "Notas": [
+      7.04,
+      7.79,
+      8.15,
+      8.5,
+      8.95,
+      8.98,
+      9.04,
+      9.21,
+      9.37,
+      9.54
+    ],
+    "Desvios": [
+      2.74,
+      2.86,
+      2.85,
+      1.98,
+      2.33,
+      2.25,
+      3.09,
+      2.1,
+      1.81,
+      1.49
+    ],
+    "Docentes": [
+      "ARTUR CORTEZ BONIFACIO",
+      "LEONARDO MARTINS",
+      "FABIANO ANDRE DE SOUZA MENDONCA",
+      "GEAILSON SOARES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.746914319048711,
+    "MediaDeNotas": 8.657,
+    "MediaDeDesvios": 2.35,
+    "NotaMediana": 8.98
+  },
+  "DPU0062 - DIREITO CONSTITUCIONAL IV": {
+    "Notas": [
+      8.71
+    ],
+    "Desvios": [
+      2.07
+    ],
+    "Docentes": [
+      "ARTUR CORTEZ BONIFACIO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.71,
+    "MediaDeDesvios": 2.07,
+    "NotaMediana": 8.71
+  },
+  "DPU0226 - DIREITO TRIBUTÁRIO APLICADO": {
+    "Notas": [
+      10,
+      8.79,
+      9.18,
+      9.27,
+      9.82
+    ],
+    "Desvios": [
+      1.47,
+      0.71,
+      0.56,
+      1.89,
+      1.21
+    ],
+    "Docentes": [
+      "ARTUR CORTEZ BONIFACIO",
+      "KAROLINE LINS CAMARA MARINHO DE SOUZA",
+      "ANDRE DE SOUZA DANTAS ELALI"
+    ],
+    "DesvioDeNotas": 0.4411530346716435,
+    "MediaDeNotas": 9.412,
+    "MediaDeDesvios": 1.168,
+    "NotaMediana": 9.18
+  },
+  "DPU0205 - DIREITO CONSTITUCIONAL II": {
+    "Notas": [
+      6.72,
+      6.9,
+      7.1,
+      7.96,
+      8.43,
+      8.73,
+      8.95,
+      9.12
+    ],
+    "Desvios": [
+      1.9,
+      2.35,
+      2.69,
+      2.61,
+      2.71,
+      2.7,
+      1.95,
+      2.2
+    ],
+    "Docentes": [
+      "FABIANO ANDRE DE SOUZA MENDONCA",
+      "GEAILSON SOARES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.9037206080974362,
+    "MediaDeNotas": 7.9887500000000005,
+    "MediaDeDesvios": 2.3887499999999995,
+    "NotaMediana": 8.43
+  },
+  "DPU0217 - DIREITO DAS RELAÇÕES DE CONSUMO": {
+    "Notas": [
+      6.89,
+      7.68,
+      7.68,
+      7.76,
+      7.84,
+      8.32,
+      8.81,
+      9.36
+    ],
+    "Desvios": [
+      2.28,
+      2.59,
+      3.08,
+      2.62,
+      2,
+      2.57,
+      1.69,
+      2.19
+    ],
+    "Docentes": [
+      "GEAILSON SOARES PEREIRA",
+      "FERNANDA HOLANDA FERNANDES"
+    ],
+    "DesvioDeNotas": 0.7170904754631734,
+    "MediaDeNotas": 8.0425,
+    "MediaDeDesvios": 2.3775000000000004,
+    "NotaMediana": 7.84
+  },
+  "DPU0051 - ELEMENTOS DO DIREITO TRIBUTARIO": {
+    "Notas": [
+      6.12,
+      6.58,
+      6.78,
+      9.09,
+      9.15,
+      9.48,
+      9.5,
+      9.65
+    ],
+    "Desvios": [
+      2.91,
+      3.04,
+      2.9,
+      1.73,
+      1.88,
+      1.61,
+      1.82,
+      1.85
+    ],
+    "Docentes": [
+      "GEAILSON SOARES PEREIRA",
+      "RAFAELLA MAYANA ALVES ALMEIDA CARDINS",
+      "SHEILA SAMPAIO GONCALVES BARRETO"
+    ],
+    "DesvioDeNotas": 1.415202613585772,
+    "MediaDeNotas": 8.29375,
+    "MediaDeDesvios": 2.2175000000000002,
+    "NotaMediana": 9.15
+  },
+  "DPU0208 - DIREITO PENAL III": {
+    "Notas": [
+      8.98,
+      9.09,
+      9.09,
+      9.18,
+      9.19,
+      9.36,
+      9.51,
+      9.61
+    ],
+    "Desvios": [
+      1.81,
+      1.69,
+      1.9,
+      1.8,
+      1.87,
+      1.81,
+      1.62,
+      1.38
+    ],
+    "Docentes": [
+      "IVAN LIRA DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0.2067267217850656,
+    "MediaDeNotas": 9.25125,
+    "MediaDeDesvios": 1.7349999999999999,
+    "NotaMediana": 9.19
+  },
+  "DPU0125 - DIREITO INTERNACIONAL PUBLICO": {
+    "Notas": [
+      8.38,
+      8.7,
+      8.88,
+      8.96,
+      9.09,
+      9.11,
+      9.26,
+      9.46
+    ],
+    "Desvios": [
+      1.89,
+      2.57,
+      2.26,
+      2.89,
+      1.59,
+      2.19,
+      2.07,
+      1.88
+    ],
+    "Docentes": [
+      "JAHYR PHILIPPE BICHARA",
+      "FERNANDA HOLANDA FERNANDES"
+    ],
+    "DesvioDeNotas": 0.31356817440550305,
+    "MediaDeNotas": 8.979999999999999,
+    "MediaDeDesvios": 2.1675,
+    "NotaMediana": 9.09
+  },
+  "DPU0013 - DIREITO TRIBUTARIO": {
+    "Notas": [
+      7.78,
+      8.83,
+      9.18,
+      9.72,
+      9.72,
+      9.74,
+      9.76,
+      9.82
+    ],
+    "Desvios": [
+      1.6,
+      1.3,
+      1.47,
+      1.41,
+      2.57,
+      1.2,
+      1.65,
+      1.53
+    ],
+    "Docentes": [
+      "KAROLINE LINS CAMARA MARINHO DE SOUZA",
+      "ANDRE DE SOUZA DANTAS ELALI",
+      "FERNANDA HOLANDA FERNANDES"
+    ],
+    "DesvioDeNotas": 0.6681399086269283,
+    "MediaDeNotas": 9.318750000000001,
+    "MediaDeDesvios": 1.5912499999999998,
+    "NotaMediana": 9.72
+  },
+  "DPU0206 - DIREITO PENAL I": {
+    "Notas": [
+      6.33,
+      7.61,
+      7.71,
+      8.01,
+      8.19,
+      8.26,
+      8.34,
+      9.22
+    ],
+    "Desvios": [
+      2.27,
+      1.65,
+      3.26,
+      2.02,
+      2.37,
+      2.27,
+      2.13,
+      2.09
+    ],
+    "Docentes": [
+      "KEITY MARA FERREIRA DE SOUZA E SABOYA",
+      "ROMULO LIMA SILVA DE GOIS",
+      "GEAILSON SOARES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.7680565978494033,
+    "MediaDeNotas": 7.958749999999999,
+    "MediaDeDesvios": 2.2575,
+    "NotaMediana": 8.19
+  },
+  "DPU0216 - DIREITOS HUMANOS FUNDAMENTAIS": {
+    "Notas": [
+      8.97,
+      8.97,
+      9.18,
+      9.25,
+      9.37,
+      9.41,
+      9.46,
+      9.49
+    ],
+    "Desvios": [
+      1.8,
+      1.91,
+      1.79,
+      1.8,
+      2.37,
+      1.84,
+      1.79,
+      1.61
+    ],
+    "Docentes": [
+      "LEONARDO MARTINS"
+    ],
+    "DesvioDeNotas": 0.19434183800715674,
+    "MediaDeNotas": 9.262500000000001,
+    "MediaDeDesvios": 1.86375,
+    "NotaMediana": 9.37
+  },
+  "DPU0020 - DIREITO ADMINISTRATIVO I": {
+    "Notas": [
+      7.17,
+      8.08,
+      8.18,
+      8.21,
+      8.27,
+      9.04,
+      9.27,
+      9.43,
+      9.5
+    ],
+    "Desvios": [
+      1.67,
+      2.5,
+      2.61,
+      2.94,
+      2.58,
+      1.56,
+      2.58,
+      1.58,
+      1.82
+    ],
+    "Docentes": [
+      "MARIANA DE SIQUEIRA",
+      "VLADIMIR DA ROCHA FRANCA",
+      "GEAILSON SOARES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.7368970646912749,
+    "MediaDeNotas": 8.572222222222221,
+    "MediaDeDesvios": 2.204444444444444,
+    "NotaMediana": 8.27
+  },
+  "DPU0021 - DIREITO ADMINISTRATIVO II": {
+    "Notas": [
+      7.56,
+      8.38,
+      8.38,
+      8.82,
+      8.87,
+      9.12,
+      9.25,
+      9.51,
+      9.58
+    ],
+    "Desvios": [
+      1.57,
+      2.11,
+      1.84,
+      2.09,
+      2.78,
+      1.64,
+      2.41,
+      1.26,
+      1.93
+    ],
+    "Docentes": [
+      "MARIANA DE SIQUEIRA",
+      "VLADIMIR DA ROCHA FRANCA",
+      "ROMULO LIMA SILVA DE GOIS",
+      "GEAILSON SOARES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.6059886320899279,
+    "MediaDeNotas": 8.83,
+    "MediaDeDesvios": 1.9588888888888887,
+    "NotaMediana": 8.87
+  },
+  "DPU0037 - DIREITO AMBIENTAL": {
+    "Notas": [
+      8.2,
+      8.58,
+      9.71,
+      9.77,
+      9.99
+    ],
+    "Desvios": [
+      1.53,
+      2.63,
+      2.03,
+      0.8,
+      1.17
+    ],
+    "Docentes": [
+      "MARISE COSTA DE SOUZA DUARTE",
+      "SERGIO ALEXANDRE DE MORAES BRAGA JUNIOR"
+    ],
+    "DesvioDeNotas": 0.7184705978674426,
+    "MediaDeNotas": 9.25,
+    "MediaDeDesvios": 1.6320000000000001,
+    "NotaMediana": 9.71
+  },
+  "DPU0119 - DIREITO DO MEIO AMBIENTE": {
+    "Notas": [
+      7.78,
+      9.31,
+      9.46,
+      9.77
+    ],
+    "Desvios": [
+      1.58,
+      1.73,
+      1.76,
+      2.28
+    ],
+    "Docentes": [
+      "MARISE COSTA DE SOUZA DUARTE",
+      "SERGIO ALEXANDRE DE MORAES BRAGA JUNIOR",
+      "GEAILSON SOARES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.7686676785191373,
+    "MediaDeNotas": 9.08,
+    "MediaDeDesvios": 1.8375,
+    "NotaMediana": 9.46
+  },
+  "DPU0041 - DIREITO ECONÔMICO": {
+    "Notas": [
+      8.89,
+      9.23,
+      9.28,
+      9.43,
+      9.79
+    ],
+    "Desvios": [
+      1.16,
+      1.58,
+      1.54,
+      1.03,
+      1.33
+    ],
+    "Docentes": [
+      "OTACILIO DOS SANTOS SILVEIRA NETO",
+      "FABIANO ANDRE DE SOUZA MENDONCA"
+    ],
+    "DesvioDeNotas": 0.2924106701199526,
+    "MediaDeNotas": 9.324000000000002,
+    "MediaDeDesvios": 1.328,
+    "NotaMediana": 9.28
+  },
+  "DPU0012 - DIREITO FINANCEIRO E FINANCAS": {
+    "Notas": [
+      8.49,
+      9.2,
+      9.42,
+      9.67
+    ],
+    "Desvios": [
+      1.14,
+      1.61,
+      1.59,
+      1.84
+    ],
+    "Docentes": [
+      "OTACILIO DOS SANTOS SILVEIRA NETO"
+    ],
+    "DesvioDeNotas": 0.43968738894810244,
+    "MediaDeNotas": 9.195,
+    "MediaDeDesvios": 1.545,
+    "NotaMediana": 9.42
+  },
+  "DPU0227 - DIREITO FINANCEIRO E FINANÇAS": {
+    "Notas": [
+      9.06,
+      9.07,
+      9.33,
+      9.46
+    ],
+    "Desvios": [
+      1.49,
+      2.01,
+      1.86,
+      1.35
+    ],
+    "Docentes": [
+      "OTACILIO DOS SANTOS SILVEIRA NETO"
+    ],
+    "DesvioDeNotas": 0.17131841699011824,
+    "MediaDeNotas": 9.23,
+    "MediaDeDesvios": 1.6775000000000002,
+    "NotaMediana": 9.33
+  },
+  "DPU0230 - DIREITO URBANÍSTICO": {
+    "Notas": [
+      9.53,
+      9.59
+    ],
+    "Desvios": [
+      1.64,
+      1.46
+    ],
+    "Docentes": [
+      "OTACILIO DOS SANTOS SILVEIRA NETO",
+      "ROMULO LIMA SILVA DE GOIS"
+    ],
+    "DesvioDeNotas": 0.03000000000000025,
+    "MediaDeNotas": 9.559999999999999,
+    "MediaDeDesvios": 1.5499999999999998,
+    "NotaMediana": 9.59
+  },
+  "DPU0229 - DIREITO ELEITORAL": {
+    "Notas": [
+      9.15,
+      9.39,
+      9.52
+    ],
+    "Desvios": [
+      1.44,
+      1.44,
+      1.55
+    ],
+    "Docentes": [
+      "RAFAELLA MAYANA ALVES ALMEIDA CARDINS",
+      "DANIEL MONTEIRO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.15326085243430174,
+    "MediaDeNotas": 9.353333333333333,
+    "MediaDeDesvios": 1.4766666666666666,
+    "NotaMediana": 9.39
+  },
+  "DPU0045 - NOCOES DE DIREITO E LEGISLACAO TURISTICA": {
+    "Notas": [
+      8.66,
+      9.02,
+      9.56,
+      9.56
+    ],
+    "Desvios": [
+      1.68,
+      1.82,
+      1.89,
+      1.61
+    ],
+    "Docentes": [
+      "RAFAELLA MAYANA ALVES ALMEIDA CARDINS",
+      "SERGIO ALEXANDRE DE MORAES BRAGA JUNIOR",
+      "GEAILSON SOARES PEREIRA"
+    ],
+    "DesvioDeNotas": 0.3818376618407359,
+    "MediaDeNotas": 9.2,
+    "MediaDeDesvios": 1.75,
+    "NotaMediana": 9.56
+  },
+  "DPU0137 - NOÇÕES DE DIREITO ADMINISTRATIVO E TRIBUTÁRIO": {
+    "Notas": [
+      8.43,
+      8.55,
+      8.58,
+      8.9,
+      9.01,
+      9.32,
+      9.39,
+      9.62
+    ],
+    "Desvios": [
+      1.46,
+      1.8,
+      1.68,
+      2.57,
+      2.57,
+      2.12,
+      1.67,
+      1.71
+    ],
+    "Docentes": [
+      "RAFAELLA MAYANA ALVES ALMEIDA CARDINS",
+      "SERGIO ALEXANDRE DE MORAES BRAGA JUNIOR",
+      "FERNANDA HOLANDA FERNANDES",
+      "MARIANA DE SIQUEIRA",
+      "SHEILA SAMPAIO GONCALVES BARRETO"
+    ],
+    "DesvioDeNotas": 0.41045706230981077,
+    "MediaDeNotas": 8.975,
+    "MediaDeDesvios": 1.9474999999999998,
+    "NotaMediana": 9.01
+  },
+  "DPU0225 - DIREITO ADMINISTRATIVO III": {
+    "Notas": [
+      8.61,
+      8.68,
+      9.31,
+      9.41,
+      9.77,
+      9.82
+    ],
+    "Desvios": [
+      1.79,
+      1.04,
+      1.97,
+      1.32,
+      2.31,
+      1.59
+    ],
+    "Docentes": [
+      "ROMULO LIMA SILVA DE GOIS",
+      "KAROLINE LINS CAMARA MARINHO DE SOUZA",
+      "VLADIMIR DA ROCHA FRANCA"
+    ],
+    "DesvioDeNotas": 0.47562823951298605,
+    "MediaDeNotas": 9.266666666666667,
+    "MediaDeDesvios": 1.67,
+    "NotaMediana": 9.41
+  },
+  "DPU0135 - LEGISLACAO AMBIENTAL": {
+    "Notas": [
+      9.81,
+      9.87
+    ],
+    "Desvios": [
+      1.23,
+      0.86
+    ],
+    "Docentes": [
+      "MARISE COSTA DE SOUZA DUARTE"
+    ],
+    "DesvioDeNotas": 0.02999999999999936,
+    "MediaDeNotas": 9.84,
+    "MediaDeDesvios": 1.045,
+    "NotaMediana": 9.87
+  },
+  "DPU0050 - ELEMENTOS DE DIREITO CONSTITUCIONAL E ADMINISTRATIVO": {
+    "Notas": [
+      9.56
+    ],
+    "Desvios": [
+      1.57
+    ],
+    "Docentes": [
+      "SERGIO ALEXANDRE DE MORAES BRAGA JUNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.56,
+    "MediaDeDesvios": 1.57,
+    "NotaMediana": 9.56
+  },
+  "DPU0099 - INTRODUÇÃO AO DIREITO ADMINISTRATIVO": {
+    "Notas": [
+      8.56,
+      8.91
+    ],
+    "Desvios": [
+      1.77,
+      1.77
+    ],
+    "Docentes": [
+      "OTACILIO DOS SANTOS SILVEIRA NETO",
+      "SHEILA SAMPAIO GONCALVES BARRETO"
+    ],
+    "DesvioDeNotas": 0.17499999999999982,
+    "MediaDeNotas": 8.735,
+    "MediaDeDesvios": 1.77,
+    "NotaMediana": 8.91
+  },
+  "DPR0205 - DIREITO CIVIL VI": {
+    "Notas": [
+      8.27,
+      8.38,
+      8.88,
+      9.07,
+      9.15,
+      9.18,
+      9.23,
+      9.5
+    ],
+    "Desvios": [
+      1.9,
+      1.69,
+      1.45,
+      2.25,
+      2.21,
+      2.45,
+      1.22,
+      1.4
+    ],
+    "Docentes": [
+      "ANA BEATRIZ FERREIRA REBELLO PRESGRAVE",
+      "ERICA VERICIA CANUTO DE OLIVEIRA VERAS"
+    ],
+    "DesvioDeNotas": 0.39999218742370457,
+    "MediaDeNotas": 8.957500000000001,
+    "MediaDeDesvios": 1.82125,
+    "NotaMediana": 9.15
+  },
+  "DPR3207 - PRÁTICA DE AÇÕES CONSTITUCIONAIS": {
+    "Notas": [
+      9.45,
+      9.56,
+      9.78
+    ],
+    "Desvios": [
+      1.43,
+      1.64,
+      1.51
+    ],
+    "Docentes": [
+      "ANA BEATRIZ FERREIRA REBELLO PRESGRAVE"
+    ],
+    "DesvioDeNotas": 0.1371941041817111,
+    "MediaDeNotas": 9.596666666666666,
+    "MediaDeDesvios": 1.5266666666666666,
+    "NotaMediana": 9.56
+  },
+  "DPR3206 - PRÁTICA DE RECURSOS": {
+    "Notas": [
+      9.27,
+      9.47,
+      9.62,
+      9.7,
+      9.79,
+      9.82
+    ],
+    "Desvios": [
+      1.49,
+      1.79,
+      1.36,
+      1.12,
+      1.15,
+      0.96
+    ],
+    "Docentes": [
+      "ANA BEATRIZ FERREIRA REBELLO PRESGRAVE",
+      "CARLOS WAGNER DIAS FERREIRA"
+    ],
+    "DesvioDeNotas": 0.1914346421686059,
+    "MediaDeNotas": 9.611666666666666,
+    "MediaDeDesvios": 1.3116666666666668,
+    "NotaMediana": 9.7
+  },
+  "DPR3224 - PRÁTICA DO DIREITO INTERTEMPORAL": {
+    "Notas": [
+      9.4,
+      9.54,
+      9.65,
+      9.86
+    ],
+    "Desvios": [
+      1.35,
+      1.47,
+      1.77,
+      1.22
+    ],
+    "Docentes": [
+      "ANA BEATRIZ FERREIRA REBELLO PRESGRAVE"
+    ],
+    "DesvioDeNotas": 0.16813313177360353,
+    "MediaDeNotas": 9.612499999999999,
+    "MediaDeDesvios": 1.4525,
+    "NotaMediana": 9.65
+  },
+  "DPR0042 - DIREITO AUTORAL E DA PROPRIEDADE INDUSTRIAL": {
+    "Notas": [
+      9.41,
+      9.52,
+      9.87
+    ],
+    "Desvios": [
+      1.72,
+      1.2,
+      1.37
+    ],
+    "Docentes": [
+      "ANDERSON SOUZA DA SILVA LANZILLO"
+    ],
+    "DesvioDeNotas": 0.19612920911140833,
+    "MediaDeNotas": 9.6,
+    "MediaDeDesvios": 1.43,
+    "NotaMediana": 9.52
+  },
+  "DPR0210 - DIREITO EMPRESARIAL III": {
+    "Notas": [
+      9.05,
+      9.3,
+      9.4,
+      9.49,
+      9.49,
+      9.51,
+      9.54,
+      9.57
+    ],
+    "Desvios": [
+      1.73,
+      1.9,
+      1.71,
+      1.48,
+      2.25,
+      1.74,
+      1.59,
+      1.56
+    ],
+    "Docentes": [
+      "ANDERSON SOUZA DA SILVA LANZILLO"
+    ],
+    "DesvioDeNotas": 0.16065782738478665,
+    "MediaDeNotas": 9.418749999999998,
+    "MediaDeDesvios": 1.745,
+    "NotaMediana": 9.49
+  },
+  "DPR0215 - DIREITO DO TRABALHO I": {
+    "Notas": [
+      6.18,
+      6.31,
+      7.29,
+      7.46,
+      7.75,
+      8.15,
+      8.23,
+      8.31,
+      9.13,
+      9.34,
+      9.62,
+      9.89
+    ],
+    "Desvios": [
+      2.29,
+      2.64,
+      1.95,
+      2.08,
+      2.77,
+      1.68,
+      3.13,
+      2.65,
+      2.19,
+      1.83,
+      1.91,
+      0.85
+    ],
+    "Docentes": [
+      "BENTO HERCULANO DUARTE NETO",
+      "NADJA CALDAS LOPES CARDOSO",
+      "ZEU PALMEIRA SOBRINHO"
+    ],
+    "DesvioDeNotas": 1.1632414003789393,
+    "MediaDeNotas": 8.138333333333334,
+    "MediaDeDesvios": 2.164166666666667,
+    "NotaMediana": 8.23
+  },
+  "DPR0216 - DIREITO DO TRABALHO II": {
+    "Notas": [
+      7.52,
+      7.78,
+      7.92,
+      8.06,
+      8.38,
+      8.5,
+      8.54,
+      8.63,
+      9.39,
+      9.66
+    ],
+    "Desvios": [
+      2.82,
+      2.78,
+      1.68,
+      2.54,
+      3.01,
+      1.1,
+      3.18,
+      2.77,
+      2.57,
+      1.86
+    ],
+    "Docentes": [
+      "BENTO HERCULANO DUARTE NETO",
+      "NADJA CALDAS LOPES CARDOSO",
+      "YARA MARIA PEREIRA GURGEL"
+    ],
+    "DesvioDeNotas": 0.6435029137463172,
+    "MediaDeNotas": 8.437999999999999,
+    "MediaDeDesvios": 2.431,
+    "NotaMediana": 8.5
+  },
+  "DPR0200 - DIREITO CIVIL I": {
+    "Notas": [
+      7.33,
+      9.52,
+      9.53,
+      9.55,
+      9.6,
+      9.61,
+      9.7,
+      9.73,
+      9.86
+    ],
+    "Desvios": [
+      1.45,
+      1.58,
+      1.32,
+      1.59,
+      1.58,
+      1.53,
+      1.4,
+      1.25,
+      2.22
+    ],
+    "Docentes": [
+      "CIRLIA NATASHA LUCENA DA ROCHA",
+      "FABIANA DANTAS SOARES ALVES DA MOTA",
+      "ANNA EMANUELLA NELSON DOS SANTOS CAVALCANTI DA ROCHA",
+      "MARCO BRUNO MIRANDA CLEMENTINO"
+    ],
+    "DesvioDeNotas": 0.7325821068043338,
+    "MediaDeNotas": 9.38111111111111,
+    "MediaDeDesvios": 1.5466666666666669,
+    "NotaMediana": 9.6
+  },
+  "DPR0053 - DIREITO DO TRABALHO E DA SEGURIDADE SOCIAL PARA ADMINISTRAÇÃO": {
+    "Notas": [
+      8.15,
+      8.45,
+      8.51,
+      8.55,
+      8.93,
+      9.78
+    ],
+    "Desvios": [
+      2.91,
+      2.76,
+      1.78,
+      2.23,
+      2.53,
+      2.83
+    ],
+    "Docentes": [
+      "CIRLIA NATASHA LUCENA DA ROCHA",
+      "JOSE MIQUEIAS ANTAS DE GOUVEIA",
+      "HELENO ALVES DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0.5225073098903867,
+    "MediaDeNotas": 8.728333333333333,
+    "MediaDeDesvios": 2.5066666666666664,
+    "NotaMediana": 8.55
+  },
+  "DPR0209 - DIREITO EMPRESARIAL II": {
+    "Notas": [
+      8.54,
+      8.75,
+      9.06,
+      9.14,
+      9.27,
+      9.3,
+      9.32,
+      9.52
+    ],
+    "Desvios": [
+      1.85,
+      1.73,
+      1.56,
+      2.19,
+      2.15,
+      1.92,
+      1.44,
+      1.46
+    ],
+    "Docentes": [
+      "CLEANTO FORTUNATO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.30243801017729255,
+    "MediaDeNotas": 9.1125,
+    "MediaDeDesvios": 1.7875,
+    "NotaMediana": 9.27
+  },
+  "DPR3401 - ATENDIMENTOS - ANDAMENTOS PROCESSUAIS": {
+    "Notas": [
+      8.18,
+      9.01,
+      9.18,
+      9.29,
+      9.47,
+      9.84
+    ],
+    "Desvios": [
+      1,
+      2.13,
+      0.88,
+      1.7,
+      1.29,
+      1.46
+    ],
+    "Docentes": [
+      "ERICA VERICIA CANUTO DE OLIVEIRA VERAS",
+      "ANA BEATRIZ FERREIRA REBELLO PRESGRAVE"
+    ],
+    "DesvioDeNotas": 0.5096867229539687,
+    "MediaDeNotas": 9.161666666666667,
+    "MediaDeDesvios": 1.4100000000000001,
+    "NotaMediana": 9.29
+  },
+  "DPR3305 - ORGANIZAÇÃO E FUNCIONAMENTO DO PODER JUDICIÁRIO (VISITAS A FÓRUNS E SEÇÕES)": {
+    "Notas": [
+      8.38,
+      8.52,
+      8.62,
+      8.8,
+      9.15,
+      9.29,
+      9.47,
+      9.53
+    ],
+    "Desvios": [
+      1.65,
+      1.2,
+      1.67,
+      2.02,
+      2.24,
+      2.35,
+      1.61,
+      1.65
+    ],
+    "Docentes": [
+      "ERICK WILSON PEREIRA"
+    ],
+    "DesvioDeNotas": 0.4183897704294405,
+    "MediaDeNotas": 8.97,
+    "MediaDeDesvios": 1.7987499999999998,
+    "NotaMediana": 9.15
+  },
+  "DPR3103 - PEÇAS JURÍDICAS I (JUDICIAIS)": {
+    "Notas": [
+      4.46,
+      6.56,
+      7.6,
+      7.77,
+      8.02,
+      8.1,
+      8.19,
+      8.34
+    ],
+    "Desvios": [
+      2.32,
+      2.1,
+      2.34,
+      2.11,
+      3.21,
+      3.7,
+      1.95,
+      2.16
+    ],
+    "Docentes": [
+      "ERICK WILSON PEREIRA"
+    ],
+    "DesvioDeNotas": 1.219887289875585,
+    "MediaDeNotas": 7.38,
+    "MediaDeDesvios": 2.4862499999999996,
+    "NotaMediana": 8.02
+  },
+  "DPR3212 - PRÁTICA DE DIREITO ELEITORAL": {
+    "Notas": [
+      7.99,
+      8.54,
+      9.05,
+      9.55
+    ],
+    "Desvios": [
+      1.17,
+      1.97,
+      2.44,
+      2.01
+    ],
+    "Docentes": [
+      "ERICK WILSON PEREIRA"
+    ],
+    "DesvioDeNotas": 0.5804039541560692,
+    "MediaDeNotas": 8.7825,
+    "MediaDeDesvios": 1.8975,
+    "NotaMediana": 9.05
+  },
+  "DPR3309 - PRÁTICA JURÍDICA FORENSE": {
+    "Notas": [
+      7.53,
+      8.9,
+      8.91
+    ],
+    "Desvios": [
+      1.46,
+      2.31,
+      1.49
+    ],
+    "Docentes": [
+      "ERICK WILSON PEREIRA",
+      "JOAO PAULO DOS SANTOS MELO"
+    ],
+    "DesvioDeNotas": 0.6481940724470994,
+    "MediaDeNotas": 8.446666666666667,
+    "MediaDeDesvios": 1.7533333333333332,
+    "NotaMediana": 8.9
+  },
+  "DPR3301 - PRÁTICA JURÍDICA III - ATENDIMENTOS": {
+    "Notas": [
+      6.26,
+      6.79,
+      7.03,
+      7.7,
+      7.7,
+      8.05,
+      8.21,
+      8.54,
+      8.56,
+      8.79,
+      8.8,
+      8.97,
+      9.11,
+      9.18,
+      9.21,
+      9.35,
+      9.48,
+      9.67
+    ],
+    "Desvios": [
+      1.7,
+      1.64,
+      1.24,
+      1.18,
+      2.03,
+      1.69,
+      2.56,
+      2.43,
+      1.62,
+      2.49,
+      2.46,
+      2.55,
+      1.41,
+      2.68,
+      3.48,
+      1.58,
+      1.71,
+      1.58
+    ],
+    "Docentes": [
+      "ERICK WILSON PEREIRA",
+      "JOAO PAULO DOS SANTOS MELO",
+      "YARA MARIA PEREIRA GURGEL",
+      "GLEYDSON KLEBER LOPES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.9521197922349016,
+    "MediaDeNotas": 8.411111111111113,
+    "MediaDeDesvios": 2.001666666666667,
+    "NotaMediana": 8.79
+  },
+  "DPR3307 - ANÁLISE DE CASOS CONCRETOS II": {
+    "Notas": [
+      8.47,
+      8.78,
+      9.28,
+      9.36,
+      9.5,
+      9.57,
+      9.61,
+      9.65,
+      9.86,
+      9.89,
+      9.9,
+      9.97
+    ],
+    "Desvios": [
+      1.51,
+      0.74,
+      1.15,
+      1.37,
+      1.25,
+      1.44,
+      0.67,
+      1.82,
+      2.3,
+      0.44,
+      1.33,
+      1.27
+    ],
+    "Docentes": [
+      "FABIANA DANTAS SOARES ALVES DA MOTA",
+      "MARCO BRUNO MIRANDA CLEMENTINO",
+      "YARA MARIA PEREIRA GURGEL",
+      "ANA BEATRIZ FERREIRA REBELLO PRESGRAVE",
+      "HELENO ALVES DE CARVALHO"
+    ],
+    "DesvioDeNotas": 0.44227316847798454,
+    "MediaDeNotas": 9.486666666666666,
+    "MediaDeDesvios": 1.2741666666666667,
+    "NotaMediana": 9.61
+  },
+  "DPR3306 - COMISSÕES DE CONCILIAÇÃO": {
+    "Notas": [
+      8.96,
+      9.23,
+      9.57,
+      9.78,
+      9.85
+    ],
+    "Desvios": [
+      1.05,
+      0.93,
+      1.68,
+      0.85,
+      1.65
+    ],
+    "Docentes": [
+      "FABIANA DANTAS SOARES ALVES DA MOTA",
+      "Lívio Coêlho Cavalcanti",
+      "JOAO PAULO DOS SANTOS MELO"
+    ],
+    "DesvioDeNotas": 0.3370103855966454,
+    "MediaDeNotas": 9.478,
+    "MediaDeDesvios": 1.232,
+    "NotaMediana": 9.57
+  },
+  "DPR0204 - DIREITO CIVIL V": {
+    "Notas": [
+      8.71,
+      8.77,
+      8.87,
+      8.91,
+      8.95,
+      9.07,
+      9.16,
+      9.31
+    ],
+    "Desvios": [
+      2.05,
+      1.79,
+      1.82,
+      1.68,
+      2.11,
+      1.71,
+      1.77,
+      1.75
+    ],
+    "Docentes": [
+      "FRANCISCO DE SALES MATOS"
+    ],
+    "DesvioDeNotas": 0.18817794105579974,
+    "MediaDeNotas": 8.96875,
+    "MediaDeDesvios": 1.835,
+    "NotaMediana": 8.95
+  },
+  "DPR0202 - DIREITO CIVIL III": {
+    "Notas": [
+      4.39,
+      5.11,
+      5.17,
+      6.29,
+      6.76,
+      7.36,
+      7.89,
+      9.58
+    ],
+    "Desvios": [
+      3.54,
+      2.49,
+      3.71,
+      2.9,
+      3.02,
+      3.66,
+      2.61,
+      1.22
+    ],
+    "Docentes": [
+      "GLEYDSON KLEBER LOPES DE OLIVEIRA",
+      "HELENO ALVES DE CARVALHO",
+      "CIRLIA NATASHA LUCENA DA ROCHA",
+      "Lívio Coêlho Cavalcanti"
+    ],
+    "DesvioDeNotas": 1.5962881749546352,
+    "MediaDeNotas": 6.56875,
+    "MediaDeDesvios": 2.89375,
+    "NotaMediana": 6.76
+  },
+  "DPR0203 - DIREITO CIVIL IV": {
+    "Notas": [
+      5.62,
+      6.43,
+      6.52,
+      6.72,
+      7.33,
+      7.34,
+      9.07,
+      9.58
+    ],
+    "Desvios": [
+      3.4,
+      2.77,
+      3.36,
+      2.54,
+      1.67,
+      3.14,
+      2.61,
+      1.58
+    ],
+    "Docentes": [
+      "GLEYDSON KLEBER LOPES DE OLIVEIRA",
+      "HELENO ALVES DE CARVALHO",
+      "CIRLIA NATASHA LUCENA DA ROCHA",
+      "Lívio Coêlho Cavalcanti"
+    ],
+    "DesvioDeNotas": 1.26749691814221,
+    "MediaDeNotas": 7.32625,
+    "MediaDeDesvios": 2.63375,
+    "NotaMediana": 7.33
+  },
+  "DDP0210 - DIREITO PROCESSUAL CIVIL I": {
+    "Notas": [
+      4.93,
+      5.63,
+      6.08,
+      6.2,
+      8.54,
+      9.14,
+      9.18,
+      9.52
+    ],
+    "Desvios": [
+      3.49,
+      1.44,
+      1.78,
+      3.38,
+      1.83,
+      3.6,
+      1.48,
+      2.9
+    ],
+    "Docentes": [
+      "GLEYDSON KLEBER LOPES DE OLIVEIRA",
+      "DANIEL MONTEIRO DA SILVA"
+    ],
+    "DesvioDeNotas": 1.7466449982752648,
+    "MediaDeNotas": 7.402500000000001,
+    "MediaDeDesvios": 2.4875,
+    "NotaMediana": 8.54
+  },
+  "DPR3214 - PRÁTICA DE DIREITO IMOBILIÁRIO": {
+    "Notas": [
+      4.64,
+      8.36,
+      8.57
+    ],
+    "Desvios": [
+      1.89,
+      2.17,
+      3.41
+    ],
+    "Docentes": [
+      "GLEYDSON KLEBER LOPES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 1.8051592727512995,
+    "MediaDeNotas": 7.19,
+    "MediaDeDesvios": 2.4899999999999998,
+    "NotaMediana": 8.36
+  },
+  "DPR0038 - DIREITO E LEGISLAÇÃO TRABALHISTA": {
+    "Notas": [
+      4.88,
+      9.64,
+      9.7,
+      9.8,
+      9.88,
+      9.91,
+      9.91,
+      9.91,
+      9.91,
+      9.93,
+      9.96
+    ],
+    "Desvios": [
+      3.89,
+      1.5,
+      1.46,
+      1.59,
+      1.63,
+      1.83,
+      1.77,
+      1.23,
+      1.21,
+      1.32,
+      1.63
+    ],
+    "Docentes": [
+      "HELENO ALVES DE CARVALHO",
+      "HIGOR KALLIANO FERNANDES QUEIROZ DE SOUSA",
+      "Lívio Coêlho Cavalcanti",
+      "ANGELO JOSE MENEZES SILVINO"
+    ],
+    "DesvioDeNotas": 1.4334706193462514,
+    "MediaDeNotas": 9.402727272727274,
+    "MediaDeDesvios": 1.7327272727272727,
+    "NotaMediana": 9.91
+  },
+  "DPR3102 - AUTOCOMPOSIÇÃO DE CONFLITOS: NEGOCIAÇÃO, CONCILIAÇÃO E MEDIAÇÃO": {
+    "Notas": [
+      8.04,
+      8.07,
+      8.96,
+      9.02,
+      9.21,
+      9.28,
+      9.29,
+      9.31
+    ],
+    "Desvios": [
+      2.86,
+      1.87,
+      2.77,
+      1.78,
+      2,
+      1.71,
+      1.68,
+      1.59
+    ],
+    "Docentes": [
+      "JOAO PAULO DOS SANTOS MELO",
+      "CARLOS WAGNER DIAS FERREIRA"
+    ],
+    "DesvioDeNotas": 0.5008929526355907,
+    "MediaDeNotas": 8.8975,
+    "MediaDeDesvios": 2.0324999999999998,
+    "NotaMediana": 9.21
+  },
+  "DPR0206 - DIREITO CIVIL VII": {
+    "Notas": [
+      8.49,
+      8.5,
+      8.75,
+      8.86,
+      9.02,
+      9.08,
+      9.15,
+      9.24
+    ],
+    "Desvios": [
+      2.49,
+      2.57,
+      2.42,
+      2.53,
+      2.28,
+      1.91,
+      1.87,
+      1.53
+    ],
+    "Docentes": [
+      "JOSE MIQUEIAS ANTAS DE GOUVEIA"
+    ],
+    "DesvioDeNotas": 0.2682320590458941,
+    "MediaDeNotas": 8.88625,
+    "MediaDeDesvios": 2.2,
+    "NotaMediana": 9.02
+  },
+  "DPR0217 - DIREITO DO TRABALHO III": {
+    "Notas": [
+      8.32,
+      8.69,
+      8.78,
+      8.85,
+      8.88,
+      8.92,
+      9.48,
+      9.56
+    ],
+    "Desvios": [
+      2.88,
+      2.49,
+      2.62,
+      2.27,
+      2.46,
+      2.14,
+      1.32,
+      1.29
+    ],
+    "Docentes": [
+      "JOSE MIQUEIAS ANTAS DE GOUVEIA"
+    ],
+    "DesvioDeNotas": 0.38085430285084104,
+    "MediaDeNotas": 8.935,
+    "MediaDeDesvios": 2.18375,
+    "NotaMediana": 8.88
+  },
+  "DPR0052 - DIREITO EMPRESARIAL PARA ADMINISTRAÇÃO": {
+    "Notas": [
+      8.6,
+      8.78,
+      9.02,
+      9.15,
+      9.3,
+      9.32,
+      9.39,
+      9.46
+    ],
+    "Desvios": [
+      2.37,
+      1.82,
+      1.65,
+      1.78,
+      1.14,
+      2.41,
+      2.1,
+      2.58
+    ],
+    "Docentes": [
+      "Lívio Coêlho Cavalcanti",
+      "ANGELO JOSE MENEZES SILVINO",
+      "LIDIO SANZIO GURGEL MARTINIANO"
+    ],
+    "DesvioDeNotas": 0.28665092011015814,
+    "MediaDeNotas": 9.1275,
+    "MediaDeDesvios": 1.98125,
+    "NotaMediana": 9.3
+  },
+  "DPR0039 - ELEMENTOS DE DIREITO EMPRESARIAL": {
+    "Notas": [
+      8.22,
+      8.61,
+      8.82,
+      9.09,
+      9.2,
+      9.3,
+      9.37,
+      9.62,
+      9.74,
+      9.88
+    ],
+    "Desvios": [
+      1.65,
+      1.89,
+      1.58,
+      2.19,
+      2.19,
+      1.68,
+      2.27,
+      1.82,
+      1.75,
+      1.73
+    ],
+    "Docentes": [
+      "Lívio Coêlho Cavalcanti",
+      "MICHELE NOBREGA ELALI",
+      "HIGOR KALLIANO FERNANDES QUEIROZ DE SOUSA",
+      "LUCAS WALLACE FERREIRA DOS SANTOS BULLIO",
+      "LIDIO SANZIO GURGEL MARTINIANO"
+    ],
+    "DesvioDeNotas": 0.4931581896308729,
+    "MediaDeNotas": 9.185000000000002,
+    "MediaDeDesvios": 1.875,
+    "NotaMediana": 9.3
+  },
+  "DPR3217 - ANÁLISE DE CASOS CONCRETOS I": {
+    "Notas": [
+      8.87,
+      9.13,
+      9.47,
+      9.49,
+      9.6,
+      9.89,
+      9.91
+    ],
+    "Desvios": [
+      1.3,
+      1.58,
+      1.48,
+      1.29,
+      1.54,
+      1.79,
+      0.47
+    ],
+    "Docentes": [
+      "MARCO BRUNO MIRANDA CLEMENTINO",
+      "YARA MARIA PEREIRA GURGEL",
+      "MICHELE NOBREGA ELALI"
+    ],
+    "DesvioDeNotas": 0.35095787292982716,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 1.35,
+    "NotaMediana": 9.49
+  },
+  "DPR3101 - CARREIRAS JURÍDICAS": {
+    "Notas": [
+      8.68,
+      9,
+      9.16,
+      9.32,
+      9.39,
+      9.41,
+      9.57,
+      9.61
+    ],
+    "Desvios": [
+      1.64,
+      1.58,
+      1.63,
+      1.74,
+      1.64,
+      1.37,
+      1.59,
+      1.55
+    ],
+    "Docentes": [
+      "MARCO BRUNO MIRANDA CLEMENTINO",
+      "MICHELE NOBREGA ELALI"
+    ],
+    "DesvioDeNotas": 0.2905060240339261,
+    "MediaDeNotas": 9.267499999999998,
+    "MediaDeDesvios": 1.5925000000000002,
+    "NotaMediana": 9.39
+  },
+  "DPR0035 - DIREITO INTERNACIONAL PRIVADO": {
+    "Notas": [
+      9.04,
+      9.45,
+      9.59,
+      9.73
+    ],
+    "Desvios": [
+      1.39,
+      1.38,
+      1.07,
+      1.45
+    ],
+    "Docentes": [
+      "MARCO BRUNO MIRANDA CLEMENTINO"
+    ],
+    "DesvioDeNotas": 0.2579122912929902,
+    "MediaDeNotas": 9.4525,
+    "MediaDeDesvios": 1.3225,
+    "NotaMediana": 9.59
+  },
+  "DPR3210 - PRÁTICA DE DIREITO INTERNACIONAL": {
+    "Notas": [
+      9.28,
+      9.57,
+      9.62,
+      9.91
+    ],
+    "Desvios": [
+      1.32,
+      0.88,
+      1.59,
+      1.21
+    ],
+    "Docentes": [
+      "MARCO BRUNO MIRANDA CLEMENTINO"
+    ],
+    "DesvioDeNotas": 0.22343902971504354,
+    "MediaDeNotas": 9.595,
+    "MediaDeDesvios": 1.25,
+    "NotaMediana": 9.62
+  },
+  "DPR3213 - PRÁTICA DE PROCESSO ELETRÔNICO": {
+    "Notas": [
+      9.77
+    ],
+    "Desvios": [
+      1.22
+    ],
+    "Docentes": [
+      "MARCO BRUNO MIRANDA CLEMENTINO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.77,
+    "MediaDeDesvios": 1.22,
+    "NotaMediana": 9.77
+  },
+  "DPR3201 - PRÁTICA TRIBUTÁRIA (ADMINISTRATIVA E JUDICIAL)": {
+    "Notas": [
+      9.61,
+      9.66,
+      9.78
+    ],
+    "Desvios": [
+      1.24,
+      1.51,
+      1.04
+    ],
+    "Docentes": [
+      "MARCO BRUNO MIRANDA CLEMENTINO"
+    ],
+    "DesvioDeNotas": 0.07133644853010888,
+    "MediaDeNotas": 9.683333333333332,
+    "MediaDeDesvios": 1.2633333333333334,
+    "NotaMediana": 9.66
+  },
+  "DPR0207 - DIREITO CIVIL VIII": {
+    "Notas": [
+      7.86,
+      9.15,
+      9.19,
+      9.35,
+      9.36,
+      9.51,
+      9.66,
+      9.68
+    ],
+    "Desvios": [
+      1.76,
+      1.79,
+      1.9,
+      1.75,
+      2.09,
+      2.92,
+      1.05,
+      1.33
+    ],
+    "Docentes": [
+      "MARIA DO PERPETUO SOCORRO WANDERLEY DE CASTRO",
+      "ANNA EMANUELLA NELSON DOS SANTOS CAVALCANTI DA ROCHA"
+    ],
+    "DesvioDeNotas": 0.5455730931781734,
+    "MediaDeNotas": 9.22,
+    "MediaDeDesvios": 1.82375,
+    "NotaMediana": 9.36
+  },
+  "DPR3104 - PEÇAS JURÍDICAS II (EXTRAJUDICIAIS)": {
+    "Notas": [
+      8.23,
+      8.24,
+      8.64,
+      8.82,
+      9.03,
+      9.06,
+      9.21,
+      9.45
+    ],
+    "Desvios": [
+      2.5,
+      2.12,
+      2.56,
+      2.01,
+      1.93,
+      1.47,
+      1.41,
+      1.95
+    ],
+    "Docentes": [
+      "MICHELE NOBREGA ELALI"
+    ],
+    "DesvioDeNotas": 0.4131888188225812,
+    "MediaDeNotas": 8.835,
+    "MediaDeDesvios": 1.99375,
+    "NotaMediana": 9.03
+  },
+  "DPR0208 - DIREITO EMPRESARIAL I": {
+    "Notas": [
+      6.21,
+      6.92,
+      7.32,
+      7.45,
+      7.57,
+      7.68,
+      7.69,
+      7.95
+    ],
+    "Desvios": [
+      2.9,
+      2.56,
+      2.52,
+      2.59,
+      2.51,
+      2.58,
+      1.92,
+      2.06
+    ],
+    "Docentes": [
+      "VIRGILIO FERNANDES DE MACEDO JUNIOR"
+    ],
+    "DesvioDeNotas": 0.5157867170643309,
+    "MediaDeNotas": 7.348750000000001,
+    "MediaDeDesvios": 2.4549999999999996,
+    "NotaMediana": 7.57
+  },
+  "DPR0201 - DIREITO CIVIL II": {
+    "Notas": [
+      8.34,
+      8.82,
+      8.86,
+      8.9,
+      9.13,
+      9.18,
+      9.55,
+      9.68
+    ],
+    "Desvios": [
+      1.86,
+      1.73,
+      1.81,
+      1.92,
+      2.2,
+      1.83,
+      1.2,
+      1.38
+    ],
+    "Docentes": [
+      "XISTO TIAGO DE MEDEIROS NETO"
+    ],
+    "DesvioDeNotas": 0.4008350658313218,
+    "MediaDeNotas": 9.0575,
+    "MediaDeDesvios": 1.74125,
+    "NotaMediana": 9.13
+  },
+  "DPR3202 - PRÁTICA TRABALHISTA": {
+    "Notas": [
+      9.51,
+      9.53
+    ],
+    "Desvios": [
+      1.43,
+      1.29
+    ],
+    "Docentes": [
+      "YARA MARIA PEREIRA GURGEL"
+    ],
+    "DesvioDeNotas": 0.009999999999999787,
+    "MediaDeNotas": 9.52,
+    "MediaDeDesvios": 1.3599999999999999,
+    "NotaMediana": 9.53
+  },
+  "DPR0016 - DIREITO PREVIDENCIARIO": {
+    "Notas": [
+      9.54,
+      9.73,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.51,
+      1.12,
+      1.63,
+      1.2
+    ],
+    "Docentes": [
+      "ZEU PALMEIRA SOBRINHO"
+    ],
+    "DesvioDeNotas": 0.11861176164276495,
+    "MediaDeNotas": 9.7325,
+    "MediaDeDesvios": 1.365,
+    "NotaMediana": 9.82
+  },
+  "DPR0019 - DIREITO E LEGISLACAO SOCIAL": {
+    "Notas": [
+      6.2,
+      6.52,
+      8.71,
+      9.65
+    ],
+    "Desvios": [
+      2.87,
+      2.94,
+      2.02,
+      1.8
+    ],
+    "Docentes": [
+      "HELENO ALVES DE CARVALHO",
+      "LUCAS WALLACE FERREIRA DOS SANTOS BULLIO",
+      "LIDIO SANZIO GURGEL MARTINIANO"
+    ],
+    "DesvioDeNotas": 1.4530485194927252,
+    "MediaDeNotas": 7.77,
+    "MediaDeDesvios": 2.4075,
+    "NotaMediana": 8.71
+  },
+  "DPR0043 - DIREITO DIGITAL": {
+    "Notas": [
+      8.74
+    ],
+    "Desvios": [
+      1.78
+    ],
+    "Docentes": [
+      "MICHELE NOBREGA ELALI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.74,
+    "MediaDeDesvios": 1.78,
+    "NotaMediana": 8.74
+  },
+  "DDP0053 - DIREITO TRIBUTÁRIO E INDÚSTRIA DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS": {
+    "Notas": [
+      9.54
+    ],
+    "Desvios": [
+      1.27
+    ],
+    "Docentes": [
+      "ANDERSON SOUZA DA SILVA LANZILLO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.54,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.54
+  },
+  "DPR3302 - PRÁTICAS SIMULADAS": {
+    "Notas": [
+      9.05,
+      9.21,
+      9.32,
+      9.44,
+      9.65
+    ],
+    "Desvios": [
+      2.19,
+      1.77,
+      1.45,
+      1.42,
+      1.51
+    ],
+    "Docentes": [
+      "ANNA EMANUELLA NELSON DOS SANTOS CAVALCANTI DA ROCHA",
+      "CIRLIA NATASHA LUCENA DA ROCHA",
+      "FABIANA DANTAS SOARES ALVES DA MOTA",
+      "MICHELE NOBREGA ELALI"
+    ],
+    "DesvioDeNotas": 0.20362711017936658,
+    "MediaDeNotas": 9.334,
+    "MediaDeDesvios": 1.668,
+    "NotaMediana": 9.32
+  },
+  "DPR0131 - NOÇÕES DE DIREITO CIVIL E COMERCIAL": {
+    "Notas": [
+      9.36,
+      9.46
+    ],
+    "Desvios": [
+      1.64,
+      1.85
+    ],
+    "Docentes": [
+      "ANDERSON SOUZA DA SILVA LANZILLO",
+      "JOSE MIQUEIAS ANTAS DE GOUVEIA"
+    ],
+    "DesvioDeNotas": 0.05000000000000071,
+    "MediaDeNotas": 9.41,
+    "MediaDeDesvios": 1.745,
+    "NotaMediana": 9.46
+  },
+  "DPR0024 - LEGISLACAO SOCIAL E TRABALHISTA": {
+    "Notas": [
+      9.64,
+      9.78,
+      9.8
+    ],
+    "Desvios": [
+      1.45,
+      1.08,
+      1.17
+    ],
+    "Docentes": [
+      "HIGOR KALLIANO FERNANDES QUEIROZ DE SOUSA",
+      "Lívio Coêlho Cavalcanti"
+    ],
+    "DesvioDeNotas": 0.07118052168020855,
+    "MediaDeNotas": 9.74,
+    "MediaDeDesvios": 1.2333333333333334,
+    "NotaMediana": 9.78
+  },
+  "DDP0235 - ÉTICA GERAL E PROFISSIONAL": {
+    "Notas": [
+      8.96,
+      9.04,
+      9.33,
+      9.36,
+      9.39,
+      9.43,
+      9.46,
+      9.62
+    ],
+    "Desvios": [
+      1.95,
+      2.22,
+      2.02,
+      2.13,
+      1.43,
+      2.18,
+      1.6,
+      1.66
+    ],
+    "Docentes": [
+      "ADAMO PERRUCCI"
+    ],
+    "DesvioDeNotas": 0.2049961889889662,
+    "MediaDeNotas": 9.32375,
+    "MediaDeDesvios": 1.89875,
+    "NotaMediana": 9.39
+  },
+  "DDP0212 - DIREITO PROCESSUAL CIVIL III": {
+    "Notas": [
+      9.29,
+      9.44,
+      9.46,
+      9.56,
+      9.66,
+      9.7,
+      9.77,
+      9.78
+    ],
+    "Desvios": [
+      1.65,
+      1.31,
+      1.58,
+      1.68,
+      1.2,
+      1.55,
+      1.42,
+      1.54
+    ],
+    "Docentes": [
+      "ANGELO JOSE MENEZES SILVINO",
+      "MARCUS AURELIO DE FREITAS BARROS",
+      "CLAUDIA VECHI TORRES"
+    ],
+    "DesvioDeNotas": 0.164069345095298,
+    "MediaDeNotas": 9.5825,
+    "MediaDeDesvios": 1.49125,
+    "NotaMediana": 9.66
+  },
+  "DDP0201 - HISTÓRIA DO DIREITO": {
+    "Notas": [
+      7.41,
+      9.5,
+      9.62,
+      9.63,
+      9.75,
+      9.87,
+      9.93
+    ],
+    "Desvios": [
+      1.82,
+      1.6,
+      1.46,
+      1.51,
+      3.13,
+      1.77,
+      0.98
+    ],
+    "Docentes": [
+      "ANGELO JOSE MENEZES SILVINO",
+      "MORTON LUIZ FARIA DE MEDEIROS",
+      "JOAO DANTAS PEREIRA"
+    ],
+    "DesvioDeNotas": 0.8189316086168835,
+    "MediaDeNotas": 9.387142857142859,
+    "MediaDeDesvios": 1.752857142857143,
+    "NotaMediana": 9.63
+  },
+  "DDP0127 - SOCIOLOGIA JURÍDICA": {
+    "Notas": [
+      8.33,
+      8.84,
+      8.86,
+      9.1,
+      9.25,
+      9.31,
+      9.58,
+      9.59
+    ],
+    "Desvios": [
+      1.78,
+      1.24,
+      2.06,
+      1.95,
+      2.29,
+      2.56,
+      1.67,
+      1.29
+    ],
+    "Docentes": [
+      "ANGELO JOSE MENEZES SILVINO",
+      "CLAUDIA VECHI TORRES"
+    ],
+    "DesvioDeNotas": 0.39603503632885817,
+    "MediaDeNotas": 9.1075,
+    "MediaDeDesvios": 1.855,
+    "NotaMediana": 9.25
+  },
+  "DDP0213 - DIREITO PROCESSUAL CIVIL IV": {
+    "Notas": [
+      9.45,
+      9.45,
+      9.5,
+      9.56,
+      9.57,
+      9.57,
+      9.71,
+      9.77
+    ],
+    "Desvios": [
+      1.46,
+      1.66,
+      1.44,
+      1.44,
+      1.18,
+      1.73,
+      1.34,
+      1.15
+    ],
+    "Docentes": [
+      "CARLOS WAGNER DIAS FERREIRA",
+      "ANGELO JOSE MENEZES SILVINO",
+      "CLAUDIA VECHI TORRES",
+      "ANA CAROLINA GUILHERME COÊLHO"
+    ],
+    "DesvioDeNotas": 0.10802198850234174,
+    "MediaDeNotas": 9.572499999999998,
+    "MediaDeDesvios": 1.425,
+    "NotaMediana": 9.57
+  },
+  "DDP0203 - TEORIA GERAL DO PROCESSO": {
+    "Notas": [
+      8.44,
+      8.7,
+      8.82,
+      8.87,
+      9.24,
+      9.32,
+      9.49,
+      9.5
+    ],
+    "Desvios": [
+      1.9,
+      2.03,
+      1.98,
+      2.12,
+      2.02,
+      2.24,
+      1.35,
+      1.41
+    ],
+    "Docentes": [
+      "DANIEL MONTEIRO DA SILVA",
+      "RICARDO TINOCO DE GOES"
+    ],
+    "DesvioDeNotas": 0.3682645109157278,
+    "MediaDeNotas": 9.0475,
+    "MediaDeDesvios": 1.88125,
+    "NotaMediana": 9.24
+  },
+  "DDP0013 - CRIMINOLOGIA E JUSTIÇA RESTAURATIVA": {
+    "Notas": [
+      9.65
+    ],
+    "Desvios": [
+      1.62
+    ],
+    "Docentes": [
+      "FABIO WELLINGTON ATAIDE ALVES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.65,
+    "MediaDeDesvios": 1.62,
+    "NotaMediana": 9.65
+  },
+  "DIR0152 - DIREITO DO CONSUMIDOR": {
+    "Notas": [
+      9.81,
+      9.82
+    ],
+    "Desvios": [
+      1.19,
+      1.44
+    ],
+    "Docentes": [
+      "FABRICIO GERMANO ALVES"
+    ],
+    "DesvioDeNotas": 0.004999999999999893,
+    "MediaDeNotas": 9.815000000000001,
+    "MediaDeDesvios": 1.315,
+    "NotaMediana": 9.82
+  },
+  "DDP0115 - DIREITO PROCESSUAL DO TRABALHO": {
+    "Notas": [
+      6.6,
+      6.7,
+      7.1,
+      8.65,
+      8.95,
+      9.16,
+      9.26,
+      9.71
+    ],
+    "Desvios": [
+      1.42,
+      2.95,
+      1.36,
+      2.79,
+      1.5,
+      2.71,
+      1,
+      1.67
+    ],
+    "Docentes": [
+      "FABRICIO GERMANO ALVES",
+      "JOSE DINIZ DE MORAES",
+      "CLAUDIA VECHI TORRES",
+      "ANA CAROLINA GUILHERME COÊLHO"
+    ],
+    "DesvioDeNotas": 1.1766046224199531,
+    "MediaDeNotas": 8.266250000000001,
+    "MediaDeDesvios": 1.925,
+    "NotaMediana": 8.95
+  },
+  "DDP0202 - HERMENÊUTICA JURÍDICA E TEORIA DA ARGUMENTAÇÃO": {
+    "Notas": [
+      7.1,
+      8.29,
+      9.02,
+      9.49,
+      9.5,
+      9.64,
+      9.66,
+      9.68
+    ],
+    "Desvios": [
+      2.09,
+      1.69,
+      1.76,
+      3.18,
+      1.37,
+      1.92,
+      1.49,
+      1.42
+    ],
+    "Docentes": [
+      "FABRICIO GERMANO ALVES",
+      "ANGELO JOSE MENEZES SILVINO",
+      "JOAO DANTAS PEREIRA",
+      "ANA CAROLINA GUILHERME COÊLHO",
+      "RICARDO TINOCO DE GOES"
+    ],
+    "DesvioDeNotas": 0.8583523460677441,
+    "MediaDeNotas": 9.0475,
+    "MediaDeDesvios": 1.865,
+    "NotaMediana": 9.5
+  },
+  "DDP0126 - DIREITO PROCESSUAL COLETIVO": {
+    "Notas": [
+      8.43,
+      8.93,
+      8.99,
+      9.05,
+      9.06,
+      9.12,
+      9.48,
+      9.72
+    ],
+    "Desvios": [
+      2.34,
+      2.05,
+      1.85,
+      1.31,
+      2.42,
+      2.55,
+      1.58,
+      1.82
+    ],
+    "Docentes": [
+      "FRANCISCO BARROS DIAS"
+    ],
+    "DesvioDeNotas": 0.3576223566836953,
+    "MediaDeNotas": 9.0975,
+    "MediaDeDesvios": 1.99,
+    "NotaMediana": 9.06
+  },
+  "DDP0211 - DIREITO PROCESSUAL CIVIL II": {
+    "Notas": [
+      6.18,
+      6.42,
+      6.6,
+      7.27,
+      9.25,
+      9.43,
+      9.47,
+      9.49
+    ],
+    "Desvios": [
+      3.28,
+      1.43,
+      3.47,
+      1.52,
+      3.27,
+      1.38,
+      2.53,
+      1.43
+    ],
+    "Docentes": [
+      "GLEYDSON KLEBER LOPES DE OLIVEIRA",
+      "MARCUS AURELIO DE FREITAS BARROS"
+    ],
+    "DesvioDeNotas": 1.4269104518153901,
+    "MediaDeNotas": 8.013749999999998,
+    "MediaDeDesvios": 2.28875,
+    "NotaMediana": 9.25
+  },
+  "DDP0116 - FILOSOFIA DO DIREITO": {
+    "Notas": [
+      7,
+      7.37,
+      7.47,
+      8.06,
+      8.34,
+      8.66,
+      8.73,
+      9.32
+    ],
+    "Desvios": [
+      2.4,
+      2.14,
+      3.24,
+      2.72,
+      3.16,
+      3.11,
+      2.29,
+      1.69
+    ],
+    "Docentes": [
+      "JOAO DANTAS PEREIRA",
+      "LIDIO SANZIO GURGEL MARTINIANO",
+      "MARCONI ANTAS FALCONE DE MELO"
+    ],
+    "DesvioDeNotas": 0.7412057322363341,
+    "MediaDeNotas": 8.11875,
+    "MediaDeDesvios": 2.59375,
+    "NotaMediana": 8.34
+  },
+  "MCL0040.1 - PSIQUIATRIA - PRÁTICA": {
+    "Notas": [
+      10,
+      10,
+      10,
+      8.88,
+      9.11,
+      9.11,
+      9.13,
+      9.15,
+      9.41,
+      9.46,
+      9.5,
+      9.64,
+      9.78,
+      9.86,
+      9.93,
+      9.97,
+      9.99,
+      9.99
+    ],
+    "Desvios": [
+      1.62,
+      1.56,
+      1.39,
+      0.36,
+      0,
+      1,
+      0.11,
+      0.32,
+      1.12,
+      1.12,
+      1.2,
+      0.2,
+      0.74,
+      1.33,
+      0.78,
+      1.44,
+      1.12,
+      2.32
+    ],
+    "Docentes": [
+      "JOAO DANTAS PEREIRA"
+    ],
+    "DesvioDeNotas": 0.38141751531314644,
+    "MediaDeNotas": 9.606111111111112,
+    "MediaDeDesvios": 0.985,
+    "NotaMediana": 9.46
+  },
+  "MCL0040.0 - PSIQUIATRIA - TEÓRICA": {
+    "Notas": [
+      8.75,
+      9.48,
+      9.68
+    ],
+    "Desvios": [
+      2.29,
+      0.97,
+      1.71
+    ],
+    "Docentes": [
+      "JOAO DANTAS PEREIRA"
+    ],
+    "DesvioDeNotas": 0.39969432764996243,
+    "MediaDeNotas": 9.303333333333333,
+    "MediaDeDesvios": 1.6566666666666665,
+    "NotaMediana": 9.48
+  },
+  "DDP0200 - INTRODUÇÃO AO ESTUDO DO DIREITO": {
+    "Notas": [
+      6.33,
+      6.69,
+      6.75,
+      7.45,
+      9.49,
+      9.66,
+      9.69,
+      9.78
+    ],
+    "Desvios": [
+      2.95,
+      1.64,
+      2.83,
+      1.59,
+      2.95,
+      1.59,
+      2.08,
+      1.09
+    ],
+    "Docentes": [
+      "JOSE DINIZ DE MORAES",
+      "MORTON LUIZ FARIA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 1.4554638435907639,
+    "MediaDeNotas": 8.23,
+    "MediaDeDesvios": 2.0900000000000003,
+    "NotaMediana": 9.49
+  },
+  "DDP0027 - INSTITUICOES DO DIREITO PUBLICO E PRIVADO": {
+    "Notas": [
+      9.38,
+      9.41,
+      9.61,
+      9.61,
+      9.64,
+      9.89,
+      9.91
+    ],
+    "Desvios": [
+      2.09,
+      2.08,
+      1.45,
+      1.99,
+      1.6,
+      1.77,
+      1.46
+    ],
+    "Docentes": [
+      "LIDIO SANZIO GURGEL MARTINIANO"
+    ],
+    "DesvioDeNotas": 0.19182262214699008,
+    "MediaDeNotas": 9.635714285714286,
+    "MediaDeDesvios": 1.7771428571428574,
+    "NotaMediana": 9.61
+  },
+  "DDP0214 - DIREITO PROCESSUAL PENAL I": {
+    "Notas": [
+      8.33,
+      8.5,
+      9.07,
+      9.18,
+      9.23,
+      9.25,
+      9.52,
+      9.64
+    ],
+    "Desvios": [
+      1.97,
+      1.97,
+      1.67,
+      1.71,
+      2,
+      1.72,
+      1.58,
+      2
+    ],
+    "Docentes": [
+      "PAULO ROBERTO DANTAS DE SOUZA LEAO",
+      "WALTER NUNES DA SILVA JUNIOR"
+    ],
+    "DesvioDeNotas": 0.4281938813201328,
+    "MediaDeNotas": 9.09,
+    "MediaDeDesvios": 1.8275000000000001,
+    "NotaMediana": 9.23
+  },
+  "DDP0215 - DIREITO PROCESSUAL PENAL II": {
+    "Notas": [
+      8.75,
+      8.79,
+      8.86,
+      9.14,
+      9.21,
+      9.37,
+      9.41,
+      9.8
+    ],
+    "Desvios": [
+      2.07,
+      2.03,
+      1.76,
+      1.66,
+      1.82,
+      1.33,
+      1.4,
+      1.51
+    ],
+    "Docentes": [
+      "PAULO ROBERTO DANTAS DE SOUZA LEAO",
+      "WALTER NUNES DA SILVA JUNIOR"
+    ],
+    "DesvioDeNotas": 0.3379695807317579,
+    "MediaDeNotas": 9.16625,
+    "MediaDeDesvios": 1.6975,
+    "NotaMediana": 9.21
+  },
+  "DDP0011 - DIREITO PÚBLICO ALEMÃO": {
+    "Notas": [
+      9.71
+    ],
+    "Desvios": [
+      1.39
+    ],
+    "Docentes": [
+      "YANKO MARCIUS DE ALENCAR XAVIER"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.71,
+    "MediaDeDesvios": 1.39,
+    "NotaMediana": 9.71
+  },
+  "DDP0012 - TEORIA DA RAZÃO PÚBLICA": {
+    "Notas": [
+      9.64
+    ],
+    "Desvios": [
+      1.93
+    ],
+    "Docentes": [
+      "ADAMO PERRUCCI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.64,
+    "MediaDeDesvios": 1.93,
+    "NotaMediana": 9.64
+  },
+  "DDP0006 - TEORIAS DA JUSTIÇA": {
+    "Notas": [
+      9.07,
+      9.46,
+      9.48
+    ],
+    "Desvios": [
+      1.03,
+      1.9,
+      1.06
+    ],
+    "Docentes": [
+      "ANGELO JOSE MENEZES SILVINO",
+      "CLAUDIA VECHI TORRES",
+      "JOSE ORLANDO RIBEIRO ROSARIO"
+    ],
+    "DesvioDeNotas": 0.1887385022252277,
+    "MediaDeNotas": 9.336666666666668,
+    "MediaDeDesvios": 1.3299999999999998,
+    "NotaMediana": 9.46
+  },
+  "DPR3220 - PRÁTICA DAS AUDIÊNCIAS NO PROCESSO CIVIL": {
+    "Notas": [
+      9.54,
+      9.6,
+      9.85
+    ],
+    "Desvios": [
+      1.44,
+      1.31,
+      1.05
+    ],
+    "Docentes": [
+      "CARLOS WAGNER DIAS FERREIRA"
+    ],
+    "DesvioDeNotas": 0.1342468704373486,
+    "MediaDeNotas": 9.663333333333334,
+    "MediaDeDesvios": 1.2666666666666666,
+    "NotaMediana": 9.6
+  },
+  "DPR3211 - PRÁTICA DE DIREITO PREVIDENCIÁRIO": {
+    "Notas": [
+      9.41,
+      9.46,
+      9.84
+    ],
+    "Desvios": [
+      1.2,
+      1.7,
+      1.51
+    ],
+    "Docentes": [
+      "CARLOS WAGNER DIAS FERREIRA"
+    ],
+    "DesvioDeNotas": 0.19200694431886198,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.47,
+    "NotaMediana": 9.46
+  },
+  "DPR3205 - PRÁTICA DE JUIZADOS ESPECIAIS": {
+    "Notas": [
+      9.57,
+      9.67,
+      9.71
+    ],
+    "Desvios": [
+      1.15,
+      1.12,
+      1.2
+    ],
+    "Docentes": [
+      "CARLOS WAGNER DIAS FERREIRA"
+    ],
+    "DesvioDeNotas": 0.05887840577551913,
+    "MediaDeNotas": 9.65,
+    "MediaDeDesvios": 1.1566666666666665,
+    "NotaMediana": 9.67
+  },
+  "DDP0232 - CRIMINOLOGIA": {
+    "Notas": [
+      8.84,
+      9.06,
+      9.09
+    ],
+    "Desvios": [
+      1.79,
+      2.01,
+      1.73
+    ],
+    "Docentes": [
+      "FABIO WELLINGTON ATAIDE ALVES"
+    ],
+    "DesvioDeNotas": 0.11145502331533672,
+    "MediaDeNotas": 8.996666666666666,
+    "MediaDeDesvios": 1.843333333333333,
+    "NotaMediana": 9.06
+  },
+  "DIR0160 - HERMENÊUTICA JURÍDICA": {
+    "Notas": [
+      9.75
+    ],
+    "Desvios": [
+      1.35
+    ],
+    "Docentes": [
+      "FABRICIO GERMANO ALVES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.35,
+    "NotaMediana": 9.75
+  },
+  "DIR0107 - METODOLOGIA DA PESQUISA CIENTÍFICA": {
+    "Notas": [
+      9.59,
+      9.64
+    ],
+    "Desvios": [
+      1.49,
+      1.3
+    ],
+    "Docentes": [
+      "FABRICIO GERMANO ALVES"
+    ],
+    "DesvioDeNotas": 0.025000000000000355,
+    "MediaDeNotas": 9.615,
+    "MediaDeDesvios": 1.395,
+    "NotaMediana": 9.64
+  },
+  "DDP0136 - ÉTICA E DIREITO": {
+    "Notas": [
+      8.84,
+      9.46,
+      9.64,
+      9.77,
+      9.98
+    ],
+    "Desvios": [
+      1.62,
+      1.99,
+      2,
+      1.08,
+      1.54
+    ],
+    "Docentes": [
+      "LIDIO SANZIO GURGEL MARTINIANO"
+    ],
+    "DesvioDeNotas": 0.3880412349222697,
+    "MediaDeNotas": 9.538,
+    "MediaDeDesvios": 1.6460000000000001,
+    "NotaMediana": 9.64
+  },
+  "DPP0111 - DIREITO E TECNOLOGIA DA INFORMAÇÃO": {
+    "Notas": [
+      7.89,
+      8.46,
+      8.63
+    ],
+    "Desvios": [
+      2.1,
+      2.18,
+      2.21
+    ],
+    "Docentes": [
+      "PATRICIA BORBA VILAR GUIMARAES",
+      "ADRIANA CARLA SILVA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.3164736253711451,
+    "MediaDeNotas": 8.326666666666666,
+    "MediaDeDesvios": 2.1633333333333336,
+    "NotaMediana": 8.46
+  },
+  "DDP0010 - DIREITO PRIVADO ALEMÃO": {
+    "Notas": [
+      9.99
+    ],
+    "Desvios": [
+      0.79
+    ],
+    "Docentes": [
+      "YANKO MARCIUS DE ALENCAR XAVIER"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.99,
+    "MediaDeDesvios": 0.79,
+    "NotaMediana": 9.99
+  },
+  "DDP0233 - EXECUÇÃO PENAL": {
+    "Notas": [
+      8.6,
+      8.94
+    ],
+    "Desvios": [
+      1.87,
+      1.81
+    ],
+    "Docentes": [
+      "FABIO WELLINGTON ATAIDE ALVES"
+    ],
+    "DesvioDeNotas": 0.16999999999999993,
+    "MediaDeNotas": 8.77,
+    "MediaDeDesvios": 1.84,
+    "NotaMediana": 8.94
+  },
+  "DIR0144 - DIREITO CIVIL VII": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      1.49
+    ],
+    "Docentes": [
+      "FABRICIO GERMANO ALVES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.57
+  },
+  "COP0013 - LEGISLAÇÃO E GESTÃO AMBIENTAL": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      1.13
+    ],
+    "Docentes": [
+      "FABRICIO GERMANO ALVES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.57
+  },
+  "DDP0049 - RESPONSABILIDADE CIVIL E INDÚSTRIA DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS": {
+    "Notas": [
+      9.55
+    ],
+    "Desvios": [
+      0.77
+    ],
+    "Docentes": [
+      "YANKO MARCIUS DE ALENCAR XAVIER"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.55,
+    "MediaDeDesvios": 0.77,
+    "NotaMediana": 9.55
+  },
+  "DIR0116 - DIREITO CIVIL II": {
+    "Notas": [
+      9.89
+    ],
+    "Desvios": [
+      1.04
+    ],
+    "Docentes": [
+      "FABRICIO GERMANO ALVES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.89,
+    "MediaDeDesvios": 1.04,
+    "NotaMediana": 9.89
+  },
+  "DDP0052 - ARBITRAGEM E MEDIAÇÃO": {
+    "Notas": [
+      9.11
+    ],
+    "Desvios": [
+      1.39
+    ],
+    "Docentes": [
+      "PATRICIA BORBA VILAR GUIMARAES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.11,
+    "MediaDeDesvios": 1.39,
+    "NotaMediana": 9.11
+  },
+  "DDP0048 - CONTRATOS E INDÚSTRIA DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS": {
+    "Notas": [
+      9.41
+    ],
+    "Desvios": [
+      1.27
+    ],
+    "Docentes": [
+      "YANKO MARCIUS DE ALENCAR XAVIER"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.41,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.41
+  }
+}

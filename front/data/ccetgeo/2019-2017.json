@@ -1,0 +1,2387 @@
+[
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "23",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0306 - GEOLOGIA ESTRUTURAL I",
+        "Turma": "1",
+        "Horário": "35M345",
+        "Discentes": "25",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0401 - INTRODUCAO AOS METODOS SISMICOS",
+        "Turma": "1",
+        "Horário": "2T345",
+        "Discentes": "12",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "DAVID LOPES DE CASTRO",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "3",
+        "Horário": "35T34",
+        "Discentes": "20",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "23",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0424 - GEOLOGIA DAS BACIAS SEDIMENTARES BRASILEIRAS",
+        "Turma": "1",
+        "Horário": "2T2345",
+        "Discentes": "5",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "2.73"
+    },
+    {
+        "Docente": "EMANUEL FERRAZ JARDIM DE SA",
+        "Componente Curricular": "GEO0416 - GEOLOGIA DE CAMPO III",
+        "Turma": "4",
+        "Horário": "6T12 7T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "EMANUEL FERRAZ JARDIM DE SA",
+        "Componente Curricular": "GEO0306 - GEOLOGIA ESTRUTURAL I",
+        "Turma": "1",
+        "Horário": "35M345",
+        "Discentes": "25",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "FERNANDO CESAR ALVES DA SILVA",
+        "Componente Curricular": "GEO0416 - GEOLOGIA DE CAMPO III",
+        "Turma": "3",
+        "Horário": "6T12 7T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "FERNANDO CESAR ALVES DA SILVA",
+        "Componente Curricular": "GEO0327 - GEOTECTONICA E GEOCRONOLOGIA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "19",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "FRANCISCO HILARIO REGO BEZERRA",
+        "Componente Curricular": "GEO0610 - FUNDAMENTOS DE GEOLOGIA ESTRUTURAL",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "8",
+        "Média Geral": "8.79",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "FRANCISCO HILARIO REGO BEZERRA",
+        "Componente Curricular": "GEO0304 - SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "2M34 4T3456",
+        "Discentes": "7",
+        "Média Geral": "8.67",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "FRANCISCO HILARIO REGO BEZERRA",
+        "Componente Curricular": "GEO0304 - SENSORIAMENTO REMOTO",
+        "Turma": "2",
+        "Horário": "2M12 4M1234",
+        "Discentes": "15",
+        "Média Geral": "8",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0610 - FUNDAMENTOS DE GEOLOGIA ESTRUTURAL",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "8",
+        "Média Geral": "8.75",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0419 - GEOLOGIA DE CAMPO V",
+        "Turma": "2",
+        "Horário": "5M12 7M456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "8.78",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0442 - GEOLOGIA GERAL I",
+        "Turma": "1",
+        "Horário": "35T345",
+        "Discentes": "29",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0447 - RECURSOS MINERAIS METÁLICOS",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "19",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "FRANCISCO PINHEIRO LIMA FILHO",
+        "Componente Curricular": "GEO0442 - GEOLOGIA GERAL I",
+        "Turma": "1",
+        "Horário": "35T345",
+        "Discentes": "29",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "FRANCISCO PINHEIRO LIMA FILHO",
+        "Componente Curricular": "GEO0445 - TÓPICOS ESPECIAIS EM GEOLOGIA I",
+        "Turma": "1",
+        "Horário": "7M23 (11/02/2019 - 29/06/2019)",
+        "Discentes": "6",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0422 - INTRODUÇÃO A MINERALOGIA E PETROGRAFIA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "20",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0422 - INTRODUÇÃO A MINERALOGIA E PETROGRAFIA",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "15",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0371 - PETROLOGIA IGNEA II",
+        "Turma": "1",
+        "Horário": "3T23",
+        "Discentes": "6",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.17"
+    },
+    {
+        "Docente": "GERMANO MELO JUNIOR",
+        "Componente Curricular": "GEO0407 - GEOQUÍMICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "23",
+        "Média Geral": "8.48",
+        "Desvio Padrão Geral": "2.6"
+    },
+    {
+        "Docente": "HEITOR NEVES MAIA",
+        "Componente Curricular": "GEO0419 - GEOLOGIA DE CAMPO V",
+        "Turma": "1",
+        "Horário": "5M12 7M456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "HEITOR NEVES MAIA",
+        "Componente Curricular": "GEO0448 - GEOLOGIA INTRODUTÓRIA",
+        "Turma": "1",
+        "Horário": "4T5 (11/02/2019 - 29/06/2019)",
+        "Discentes": "30",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "HELENICE VITAL",
+        "Componente Curricular": "GEO0580 - GEOLOGIA MARINHA",
+        "Turma": "1",
+        "Horário": "6M1234",
+        "Discentes": "14",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "HELENICE VITAL",
+        "Componente Curricular": "GEO0450 - TÓPICOS ESPECIAIS EM GEOLOGIA II",
+        "Turma": "1",
+        "Horário": "3M12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "9",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "JOSE BRAZ DINIZ FILHO",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "14",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "JOSE BRAZ DINIZ FILHO",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "1",
+        "Horário": "2M45 4N12",
+        "Discentes": "10",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "GEO0416 - GEOLOGIA DE CAMPO III",
+        "Turma": "1",
+        "Horário": "6T12 7T1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "GEO0419 - GEOLOGIA DE CAMPO V",
+        "Turma": "3",
+        "Horário": "5M12 7M456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "9",
+        "Média Geral": "8.54",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "DGE0230 - GEOQUIMICA PARA AMBIENTES EXOGENOS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "37",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0601 - FUNDAMENTOS DE PETROLOGIA",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "20",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0371 - PETROLOGIA IGNEA II",
+        "Turma": "1",
+        "Horário": "3T23",
+        "Discentes": "6",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.53"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0449 - TÓPICOS AVANÇADOS EM GEOLOGIA I",
+        "Turma": "3",
+        "Horário": "6M34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "6",
+        "Média Geral": "9.94",
+        "Desvio Padrão Geral": "0.31"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0451 - TÓPICOS AVANÇADOS EM GEOLOGIA II",
+        "Turma": "1",
+        "Horário": "6T34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "16",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "MICHAEL VANDESTEEN SILVA SOUTO",
+        "Componente Curricular": "GEO0351 - PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Turma": "1",
+        "Horário": "5T123",
+        "Discentes": "12",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "MICHAEL VANDESTEEN SILVA SOUTO",
+        "Componente Curricular": "GEO0304 - SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "2M34 4T3456",
+        "Discentes": "7",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "MICHAEL VANDESTEEN SILVA SOUTO",
+        "Componente Curricular": "GEO0304 - SENSORIAMENTO REMOTO",
+        "Turma": "2",
+        "Horário": "2M12 4M1234",
+        "Discentes": "15",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "MOAB PRAXEDES GOMES",
+        "Componente Curricular": "GEO0580 - GEOLOGIA MARINHA",
+        "Turma": "1",
+        "Horário": "6M1234",
+        "Discentes": "14",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "NARENDRA KUMAR SRIVASTAVA",
+        "Componente Curricular": "GEO0361 - BIOESTRATIGRAFIA",
+        "Turma": "1",
+        "Horário": "6T345",
+        "Discentes": "5",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "5",
+        "Horário": "24M12",
+        "Discentes": "7",
+        "Média Geral": "7.32",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+        "Componente Curricular": "GEO0043 - MINERALOGIA APLICADA",
+        "Turma": "2",
+        "Horário": "246N34",
+        "Discentes": "9",
+        "Média Geral": "8.07",
+        "Desvio Padrão Geral": "2.45"
+    },
+    {
+        "Docente": "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+        "Componente Curricular": "GEO0023 - PEDOLOGIA",
+        "Turma": "1",
+        "Horário": "5M234",
+        "Discentes": "10",
+        "Média Geral": "7.74",
+        "Desvio Padrão Geral": "2.62"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0043 - MINERALOGIA APLICADA",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "20",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0354 - MINERALOGIA DE MINERAIS OPACOS",
+        "Turma": "2",
+        "Horário": "4M56",
+        "Discentes": "6",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "1",
+        "Horário": "2M45 4N12",
+        "Discentes": "10",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0311 - GEOMORFOLOGIA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "21",
+        "Média Geral": "8.62",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "RICARDO GUIMARAES SALLET",
+        "Componente Curricular": "GEO0016 - RECURSOS ENERGETICOS",
+        "Turma": "1",
+        "Horário": "3T456",
+        "Discentes": "14",
+        "Média Geral": "8.03",
+        "Desvio Padrão Geral": "2.36"
+    },
+    {
+        "Docente": "RICARDO GUIMARAES SALLET",
+        "Componente Curricular": "GEO0446 - RECURSOS MINERAIS INDUSTRIAIS",
+        "Turma": "1",
+        "Horário": "5T456",
+        "Discentes": "19",
+        "Média Geral": "8.09",
+        "Desvio Padrão Geral": "2.61"
+    },
+    {
+        "Docente": "RICARDO GUIMARAES SALLET",
+        "Componente Curricular": "GEO0445 - TÓPICOS ESPECIAIS EM GEOLOGIA I",
+        "Turma": "3",
+        "Horário": "4T56 (11/02/2019 - 29/06/2019)",
+        "Discentes": "14",
+        "Média Geral": "8.18",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "VALERIA CENTURION CORDOBA",
+        "Componente Curricular": "GEO0312 - ESTRATIGRAFIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "22",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "4",
+        "Horário": "35N34",
+        "Discentes": "24",
+        "Média Geral": "8.02",
+        "Desvio Padrão Geral": "2.94"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "1",
+        "Horário": "2M45 4N12",
+        "Discentes": "10",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0442 - GEOLOGIA GERAL I",
+        "Turma": "1",
+        "Horário": "35T345",
+        "Discentes": "29",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "2.3"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0311 - GEOMORFOLOGIA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "21",
+        "Média Geral": "6.85",
+        "Desvio Padrão Geral": "2.85"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0394 - GESTAO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "6M56",
+        "Discentes": "16",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0327 - GEOTECTONICA E GEOCRONOLOGIA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "19",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0004 - OTICA CRISTALINA",
+        "Turma": "2",
+        "Horário": "24M34",
+        "Discentes": "10",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0004 - OTICA CRISTALINA",
+        "Turma": "3",
+        "Horário": "24M56",
+        "Discentes": "10",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0449 - TÓPICOS AVANÇADOS EM GEOLOGIA I",
+        "Turma": "2",
+        "Horário": "6M56 (11/02/2019 - 29/06/2019)",
+        "Discentes": "10",
+        "Média Geral": "8.72",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0406 - DESENHO GEOLÓGICO",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "20",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0608 - DESENHO GEOLÓGICO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "23",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "2.43"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0609 - GEOLOGIA DE CAMPO",
+        "Turma": "1",
+        "Horário": "67T12",
+        "Discentes": "8",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "2.35"
+    },
+    {
+        "Docente": "DAVID LOPES DE CASTRO",
+        "Componente Curricular": "GEO0410 - GEOFÍSICA",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "DAVID LOPES DE CASTRO",
+        "Componente Curricular": "GEO0334 - PROSPECCAO",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "24",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "2.5"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0602 - FUNDAMENTOS DE SEDIMENTOLOGIA E ESTRATIGRAFIA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "14",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0609 - GEOLOGIA DE CAMPO",
+        "Turma": "2",
+        "Horário": "67T12",
+        "Discentes": "11",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0021 - GEOLOGIA DO BRASIL",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "26",
+        "Média Geral": "8.5",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0363 - SISTEMAS DEPOSICIONAIS",
+        "Turma": "1",
+        "Horário": "3T234",
+        "Discentes": "8",
+        "Média Geral": "7.79",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "EMANUEL FERRAZ JARDIM DE SA",
+        "Componente Curricular": "GEO0444 - GEOLOGIA DE CAMPO II",
+        "Turma": "5",
+        "Horário": "6T456 7T3456 (30/07/2018 - 15/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "FERNANDO CESAR ALVES DA SILVA",
+        "Componente Curricular": "GEO0418 - GEOLOGIA DE CAMPO IV",
+        "Turma": "4",
+        "Horário": "6T56 7T12345 (30/07/2018 - 15/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "7.13",
+        "Desvio Padrão Geral": "2.43"
+    },
+    {
+        "Docente": "FERNANDO CESAR ALVES DA SILVA",
+        "Componente Curricular": "GEO0021 - GEOLOGIA DO BRASIL",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "26",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.35"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0418 - GEOLOGIA DE CAMPO IV",
+        "Turma": "6",
+        "Horário": "6T56 7T12345 (30/07/2018 - 15/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0443 - GEOLOGIA GERAL II",
+        "Turma": "2",
+        "Horário": "5T56",
+        "Discentes": "13",
+        "Média Geral": "7.21",
+        "Desvio Padrão Geral": "2.88"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0352 - GEOQUIMICA DE MINERALIZACOES HIDROTERMAIS",
+        "Turma": "1",
+        "Horário": "2T456",
+        "Discentes": "15",
+        "Média Geral": "8.43",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0334 - PROSPECCAO",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "24",
+        "Média Geral": "8.17",
+        "Desvio Padrão Geral": "2.54"
+    },
+    {
+        "Docente": "FRANCISCO PINHEIRO LIMA FILHO",
+        "Componente Curricular": "GEO0320 - SEDIMENTOLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "26",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "FRANCISCO PINHEIRO LIMA FILHO",
+        "Componente Curricular": "GEO0445 - TÓPICOS ESPECIAIS EM GEOLOGIA I",
+        "Turma": "1",
+        "Horário": "7M12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "5",
+        "Média Geral": "8.39",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0404 - MINERALOGIA",
+        "Turma": "1",
+        "Horário": "3T345 5T34",
+        "Discentes": "14",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.77"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0404 - MINERALOGIA",
+        "Turma": "2",
+        "Horário": "2T345 4T34",
+        "Discentes": "15",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.71"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0043 - MINERALOGIA APLICADA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "18",
+        "Média Geral": "9.92",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0325 - PETROLOGIA IGNEA I",
+        "Turma": "3",
+        "Horário": "35M34",
+        "Discentes": "10",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "GERMANO MELO JUNIOR",
+        "Componente Curricular": "GEO0423 - GEOQUÍMICA DO PETRÓLEO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "16",
+        "Média Geral": "8.46",
+        "Desvio Padrão Geral": "2.65"
+    },
+    {
+        "Docente": "GERMANO MELO JUNIOR",
+        "Componente Curricular": "GEO0334 - PROSPECCAO",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "24",
+        "Média Geral": "8.11",
+        "Desvio Padrão Geral": "2.66"
+    },
+    {
+        "Docente": "GERMANO MELO JUNIOR",
+        "Componente Curricular": "GEO0450 - TÓPICOS ESPECIAIS EM GEOLOGIA II",
+        "Turma": "2",
+        "Horário": "5T34 (30/07/2018 - 15/12/2018)",
+        "Discentes": "7",
+        "Média Geral": "8.48",
+        "Desvio Padrão Geral": "2.84"
+    },
+    {
+        "Docente": "HEITOR NEVES MAIA",
+        "Componente Curricular": "GEO0408 - GEOLOGIA DE CAMPO I",
+        "Turma": "3",
+        "Horário": "67M12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "HELENICE VITAL",
+        "Componente Curricular": "GEO0308 - GEOLOGIA AMBIENTAL I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "22",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "JOSE BRAZ DINIZ FILHO",
+        "Componente Curricular": "GEO0415 - HIDROGEOLOGIA",
+        "Turma": "2",
+        "Horário": "24M12 6M2",
+        "Discentes": "8",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "JOSE BRAZ DINIZ FILHO",
+        "Componente Curricular": "GEO0069 - TÓPICOS EM GEOLOGIA PARA ECOLOGIA",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "48",
+        "Média Geral": "7.59",
+        "Desvio Padrão Geral": "2.72"
+    },
+    {
+        "Docente": "JOSE GERALDO DE MELO",
+        "Componente Curricular": "GEO0415 - HIDROGEOLOGIA",
+        "Turma": "1",
+        "Horário": "3T34 5T234",
+        "Discentes": "11",
+        "Média Geral": "8.07",
+        "Desvio Padrão Geral": "2.75"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "GEO0408 - GEOLOGIA DE CAMPO I",
+        "Turma": "1",
+        "Horário": "67M12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "1",
+        "Horário": "6T2345",
+        "Discentes": "8",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "3",
+        "Horário": "35T56",
+        "Discentes": "5",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "GEO0326 - PETROLOGIA METAMORFICA I",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "7",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0608 - DESENHO GEOLÓGICO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "23",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0602 - FUNDAMENTOS DE SEDIMENTOLOGIA E ESTRATIGRAFIA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "14",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0444 - GEOLOGIA DE CAMPO II",
+        "Turma": "6",
+        "Horário": "6T456 7T3456 (30/07/2018 - 15/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.28"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "1",
+        "Horário": "6T2345",
+        "Discentes": "8",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "8",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "3",
+        "Horário": "35T56",
+        "Discentes": "5",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0524 - GEODIVERSIDADE E GEOCONSERVAÇÃO",
+        "Turma": "1",
+        "Horário": "4T23",
+        "Discentes": "31",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "8",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0325 - PETROLOGIA IGNEA I",
+        "Turma": "3",
+        "Horário": "35M34",
+        "Discentes": "10",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0326 - PETROLOGIA METAMORFICA I",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "11",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "MICHAEL VANDESTEEN SILVA SOUTO",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "3",
+        "Horário": "46N34",
+        "Discentes": "7",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "MICHAEL VANDESTEEN SILVA SOUTO",
+        "Componente Curricular": "GEO0351 - PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "12",
+        "Média Geral": "8.74",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "MICHAEL VANDESTEEN SILVA SOUTO",
+        "Componente Curricular": "GEO0069 - TÓPICOS EM GEOLOGIA PARA ECOLOGIA",
+        "Turma": "2",
+        "Horário": "2N12",
+        "Discentes": "47",
+        "Média Geral": "7.78",
+        "Desvio Padrão Geral": "3.01"
+    },
+    {
+        "Docente": "NARENDRA KUMAR SRIVASTAVA",
+        "Componente Curricular": "GEO0408 - GEOLOGIA DE CAMPO I",
+        "Turma": "2",
+        "Horário": "67M12 (30/07/2018 - 15/12/2018)",
+        "Discentes": "7",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "31",
+        "Média Geral": "5.56",
+        "Desvio Padrão Geral": "2.98"
+    },
+    {
+        "Docente": "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+        "Componente Curricular": "GEO0023 - PEDOLOGIA",
+        "Turma": "2",
+        "Horário": "5M234",
+        "Discentes": "5",
+        "Média Geral": "5.57",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "PAULO ROBERTO CORDEIRO DE FARIAS",
+        "Componente Curricular": "GEO0365 - ANALISE DE BACIAS",
+        "Turma": "1",
+        "Horário": "2T456",
+        "Discentes": "26",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "PAULO ROBERTO CORDEIRO DE FARIAS",
+        "Componente Curricular": "GEO0032 - GEOLOGIA DO PETROLEO",
+        "Turma": "1",
+        "Horário": "6T123",
+        "Discentes": "11",
+        "Média Geral": "8.92",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0404 - MINERALOGIA",
+        "Turma": "1",
+        "Horário": "3T345 5T34",
+        "Discentes": "14",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0404 - MINERALOGIA",
+        "Turma": "2",
+        "Horário": "2T345 4T34",
+        "Discentes": "15",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.72"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0043 - MINERALOGIA APLICADA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "18",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0354 - MINERALOGIA DE MINERAIS OPACOS",
+        "Turma": "1",
+        "Horário": "2M12",
+        "Discentes": "6",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0354 - MINERALOGIA DE MINERAIS OPACOS",
+        "Turma": "2",
+        "Horário": "4M12",
+        "Discentes": "6",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "RICARDO GUIMARAES SALLET",
+        "Componente Curricular": "GEO0364 - GEOLOGIA DAS ARGILAS",
+        "Turma": "1",
+        "Horário": "3T56",
+        "Discentes": "7",
+        "Média Geral": "8.63",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "RICARDO GUIMARAES SALLET",
+        "Componente Curricular": "GEO0045 - TOPICOS ESPECIAIS EM GEOLOGIA",
+        "Turma": "1",
+        "Horário": "5T56",
+        "Discentes": "15",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "VALERIA CENTURION CORDOBA",
+        "Componente Curricular": "GEO0403 - ESTRATIGRAFIA DE SEQUENCIAS",
+        "Turma": "1",
+        "Horário": "6M345",
+        "Discentes": "14",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "VALERIA CENTURION CORDOBA",
+        "Componente Curricular": "GEO0363 - SISTEMAS DEPOSICIONAIS",
+        "Turma": "1",
+        "Horário": "3T234",
+        "Discentes": "8",
+        "Média Geral": "8.5",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "2",
+        "Horário": "35N34",
+        "Discentes": "17",
+        "Média Geral": "7.53",
+        "Desvio Padrão Geral": "3.01"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0443 - GEOLOGIA GERAL II",
+        "Turma": "1",
+        "Horário": "4T56",
+        "Discentes": "11",
+        "Média Geral": "6.77",
+        "Desvio Padrão Geral": "2.62"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0450 - TÓPICOS ESPECIAIS EM GEOLOGIA II",
+        "Turma": "1",
+        "Horário": "4M56 (30/07/2018 - 15/12/2018)",
+        "Discentes": "13",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0418 - GEOLOGIA DE CAMPO IV",
+        "Turma": "5",
+        "Horário": "6T56 7T12345 (30/07/2018 - 15/12/2018)",
+        "Discentes": "10",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "2.42"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "1",
+        "Horário": "6T2345",
+        "Discentes": "8",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "8",
+        "Média Geral": "8.11",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "3",
+        "Horário": "35T56",
+        "Discentes": "5",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0325 - PETROLOGIA IGNEA I",
+        "Turma": "1",
+        "Horário": "3M34 4M56",
+        "Discentes": "7",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "0.57"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "22",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0306 - GEOLOGIA ESTRUTURAL I",
+        "Turma": "1",
+        "Horário": "35M345",
+        "Discentes": "26",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0401 - INTRODUCAO AOS METODOS SISMICOS",
+        "Turma": "1",
+        "Horário": "2T345",
+        "Discentes": "10",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.63"
+    },
+    {
+        "Docente": "DAVID LOPES DE CASTRO",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "3",
+        "Horário": "35T34",
+        "Discentes": "23",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "22",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0424 - GEOLOGIA DAS BACIAS SEDIMENTARES BRASILEIRAS",
+        "Turma": "1",
+        "Horário": "2T2345",
+        "Discentes": "9",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0363 - SISTEMAS DEPOSICIONAIS",
+        "Turma": "1",
+        "Horário": "4M456",
+        "Discentes": "17",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "EMANUEL FERRAZ JARDIM DE SA",
+        "Componente Curricular": "GEO0416 - GEOLOGIA DE CAMPO III",
+        "Turma": "5",
+        "Horário": "6T12 7T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.64"
+    },
+    {
+        "Docente": "EMANUEL FERRAZ JARDIM DE SA",
+        "Componente Curricular": "GEO0306 - GEOLOGIA ESTRUTURAL I",
+        "Turma": "1",
+        "Horário": "35M345",
+        "Discentes": "26",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "FERNANDO CESAR ALVES DA SILVA",
+        "Componente Curricular": "GEO0416 - GEOLOGIA DE CAMPO III",
+        "Turma": "4",
+        "Horário": "6T12 7T1234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "FERNANDO CESAR ALVES DA SILVA",
+        "Componente Curricular": "GEO0327 - GEOTECTONICA E GEOCRONOLOGIA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "25",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "2.59"
+    },
+    {
+        "Docente": "FRANCISCO HILARIO REGO BEZERRA",
+        "Componente Curricular": "GEO0610 - FUNDAMENTOS DE GEOLOGIA ESTRUTURAL",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "14",
+        "Média Geral": "6.64",
+        "Desvio Padrão Geral": "3"
+    },
+    {
+        "Docente": "FRANCISCO HILARIO REGO BEZERRA",
+        "Componente Curricular": "GEO0304 - SENSORIAMENTO REMOTO",
+        "Turma": "2",
+        "Horário": "2M34 4M1234",
+        "Discentes": "10",
+        "Média Geral": "8.46",
+        "Desvio Padrão Geral": "2.5"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0610 - FUNDAMENTOS DE GEOLOGIA ESTRUTURAL",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "14",
+        "Média Geral": "7.19",
+        "Desvio Padrão Geral": "2.77"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0419 - GEOLOGIA DE CAMPO V",
+        "Turma": "2",
+        "Horário": "7M345 6T12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "11",
+        "Média Geral": "8.67",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0442 - GEOLOGIA GERAL I",
+        "Turma": "1",
+        "Horário": "35T345",
+        "Discentes": "27",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0447 - RECURSOS MINERAIS METÁLICOS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "25",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "FRANCISCO PINHEIRO LIMA FILHO",
+        "Componente Curricular": "GEO0442 - GEOLOGIA GERAL I",
+        "Turma": "1",
+        "Horário": "35T345",
+        "Discentes": "27",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0422 - INTRODUÇÃO A MINERALOGIA E PETROGRAFIA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "22",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0422 - INTRODUÇÃO A MINERALOGIA E PETROGRAFIA",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "20",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0371 - PETROLOGIA IGNEA II",
+        "Turma": "1",
+        "Horário": "3T23",
+        "Discentes": "16",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "0.82"
+    },
+    {
+        "Docente": "GERMANO MELO JUNIOR",
+        "Componente Curricular": "GEO0407 - GEOQUÍMICA",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "16",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "GERMANO MELO JUNIOR",
+        "Componente Curricular": "GEO0357 - PROSPECCAO GEOQUIMICA",
+        "Turma": "1",
+        "Horário": "2M456",
+        "Discentes": "8",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "HEITOR NEVES MAIA",
+        "Componente Curricular": "GEO0419 - GEOLOGIA DE CAMPO V",
+        "Turma": "1",
+        "Horário": "5M12 7M456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "6",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "HEITOR NEVES MAIA",
+        "Componente Curricular": "GEO0383 - GEOLOGIA DE CAMPO VI",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "8",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "HEITOR NEVES MAIA",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "2",
+        "Horário": "24M23",
+        "Discentes": "9",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "HEITOR NEVES MAIA",
+        "Componente Curricular": "GEO0448 - GEOLOGIA INTRODUTÓRIA",
+        "Turma": "1",
+        "Horário": "4T5 (19/02/2018 - 07/07/2018)",
+        "Discentes": "30",
+        "Média Geral": "8.77",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "HELENICE VITAL",
+        "Componente Curricular": "GEO0604 - GEOFÍSICA MARINHA",
+        "Turma": "1",
+        "Horário": "4M1234",
+        "Discentes": "7",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "JOSE BRAZ DINIZ FILHO",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "9",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "JOSE BRAZ DINIZ FILHO",
+        "Componente Curricular": "GEO0383 - GEOLOGIA DE CAMPO VI",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "8",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "JOSE BRAZ DINIZ FILHO",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "2",
+        "Horário": "24M23",
+        "Discentes": "9",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "JOSE BRAZ DINIZ FILHO",
+        "Componente Curricular": "GEO0449 - TÓPICOS AVANÇADOS EM GEOLOGIA I",
+        "Turma": "3",
+        "Horário": "5M12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "JOSE GERALDO DE MELO",
+        "Componente Curricular": "GEO0044 - HIDROGEOLOGIA AVANCADA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "20",
+        "Média Geral": "6.6",
+        "Desvio Padrão Geral": "3.21"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "GEO0419 - GEOLOGIA DE CAMPO V",
+        "Turma": "3",
+        "Horário": "5M12 7M234 (19/02/2018 - 07/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "DGE0230 - GEOQUIMICA PARA AMBIENTES EXOGENOS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "30",
+        "Média Geral": "8.46",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0367 - PETROLOGIA SEDIMENTAR",
+        "Turma": "1",
+        "Horário": "25M12",
+        "Discentes": "10",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0367 - PETROLOGIA SEDIMENTAR",
+        "Turma": "2",
+        "Horário": "36M12",
+        "Discentes": "13",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0601 - FUNDAMENTOS DE PETROLOGIA",
+        "Turma": "1",
+        "Horário": "24T23",
+        "Discentes": "16",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0371 - PETROLOGIA IGNEA II",
+        "Turma": "1",
+        "Horário": "3T23",
+        "Discentes": "16",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0451 - TÓPICOS AVANÇADOS EM GEOLOGIA II",
+        "Turma": "1",
+        "Horário": "6T34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "19",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "MOAB PRAXEDES GOMES",
+        "Componente Curricular": "GEO0604 - GEOFÍSICA MARINHA",
+        "Turma": "1",
+        "Horário": "4M1234",
+        "Discentes": "7",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "NARENDRA KUMAR SRIVASTAVA",
+        "Componente Curricular": "GEO0361 - BIOESTRATIGRAFIA",
+        "Turma": "1",
+        "Horário": "5T123",
+        "Discentes": "10",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "4",
+        "Horário": "24M12",
+        "Discentes": "17",
+        "Média Geral": "6.43",
+        "Desvio Padrão Geral": "3.08"
+    },
+    {
+        "Docente": "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+        "Componente Curricular": "GEO0043 - MINERALOGIA APLICADA",
+        "Turma": "2",
+        "Horário": "246N34",
+        "Discentes": "13",
+        "Média Geral": "8.35",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "PAULO ROBERTO CORDEIRO DE FARIAS",
+        "Componente Curricular": "GEO0032 - GEOLOGIA DO PETROLEO",
+        "Turma": "2",
+        "Horário": "2M456",
+        "Discentes": "21",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0043 - MINERALOGIA APLICADA",
+        "Turma": "1",
+        "Horário": "246M12",
+        "Discentes": "16",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0383 - GEOLOGIA DE CAMPO VI",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "8",
+        "Média Geral": "7.98",
+        "Desvio Padrão Geral": "2.78"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "2",
+        "Horário": "24M23",
+        "Discentes": "9",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0311 - GEOMORFOLOGIA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "25",
+        "Média Geral": "8.38",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0391 - SISTEMA DE INFORMACOES GEOGRAFICAS I",
+        "Turma": "2",
+        "Horário": "6M234",
+        "Discentes": "8",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "RICARDO GUIMARAES SALLET",
+        "Componente Curricular": "GEO0407 - GEOQUÍMICA",
+        "Turma": "2",
+        "Horário": "26T56",
+        "Discentes": "5",
+        "Média Geral": "7.84",
+        "Desvio Padrão Geral": "3.25"
+    },
+    {
+        "Docente": "RICARDO GUIMARAES SALLET",
+        "Componente Curricular": "GEO0016 - RECURSOS ENERGETICOS",
+        "Turma": "1",
+        "Horário": "3T456",
+        "Discentes": "10",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "RICARDO GUIMARAES SALLET",
+        "Componente Curricular": "GEO0446 - RECURSOS MINERAIS INDUSTRIAIS",
+        "Turma": "1",
+        "Horário": "5T456",
+        "Discentes": "24",
+        "Média Geral": "8.22",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "VALERIA CENTURION CORDOBA",
+        "Componente Curricular": "GEO0312 - ESTRATIGRAFIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "24",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "5",
+        "Horário": "35N34",
+        "Discentes": "10",
+        "Média Geral": "8.31",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0383 - GEOLOGIA DE CAMPO VI",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "8",
+        "Média Geral": "8.78",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "2",
+        "Horário": "24M23",
+        "Discentes": "9",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0442 - GEOLOGIA GERAL I",
+        "Turma": "1",
+        "Horário": "35T345",
+        "Discentes": "27",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0311 - GEOMORFOLOGIA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "25",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2.23"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0327 - GEOTECTONICA E GEOCRONOLOGIA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "25",
+        "Média Geral": "7.86",
+        "Desvio Padrão Geral": "3.15"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0004 - OTICA CRISTALINA",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "11",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0004 - OTICA CRISTALINA",
+        "Turma": "3",
+        "Horário": "24M34",
+        "Discentes": "6",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0004 - OTICA CRISTALINA",
+        "Turma": "4",
+        "Horário": "24T12",
+        "Discentes": "10",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0420 - PROJETO EM GEOLOGIA",
+        "Turma": "5",
+        "Horário": "67M56 (19/02/2018 - 07/07/2018)",
+        "Discentes": "5",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.68"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0406 - DESENHO GEOLÓGICO",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "23",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0609 - GEOLOGIA DE CAMPO",
+        "Turma": "1",
+        "Horário": "67T12",
+        "Discentes": "10",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "ALEX FRANCISCO ANTUNES",
+        "Componente Curricular": "GEO0370 - GEOLOGIA ESTRUTURAL II",
+        "Turma": "3",
+        "Horário": "24T23",
+        "Discentes": "5",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.71"
+    },
+    {
+        "Docente": "DAVID LOPES DE CASTRO",
+        "Componente Curricular": "GEO0410 - GEOFÍSICA",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "25",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "DAVID LOPES DE CASTRO",
+        "Componente Curricular": "GEO0334 - PROSPECCAO",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "27",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0602 - FUNDAMENTOS DE SEDIMENTOLOGIA E ESTRATIGRAFIA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "9",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0609 - GEOLOGIA DE CAMPO",
+        "Turma": "3",
+        "Horário": "67T12",
+        "Discentes": "7",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0021 - GEOLOGIA DO BRASIL",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "27",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "DEBORA DO CARMO SOUSA",
+        "Componente Curricular": "GEO0363 - SISTEMAS DEPOSICIONAIS",
+        "Turma": "1",
+        "Horário": "3T234",
+        "Discentes": "9",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "EMANUEL FERRAZ JARDIM DE SA",
+        "Componente Curricular": "GEO0370 - GEOLOGIA ESTRUTURAL II",
+        "Turma": "2",
+        "Horário": "24T23",
+        "Discentes": "5",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.75"
+    },
+    {
+        "Docente": "FERNANDO CESAR ALVES DA SILVA",
+        "Componente Curricular": "GEO0418 - GEOLOGIA DE CAMPO IV",
+        "Turma": "1",
+        "Horário": "6M56 7T12345 (24/07/2017 - 16/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "FERNANDO CESAR ALVES DA SILVA",
+        "Componente Curricular": "GEO0021 - GEOLOGIA DO BRASIL",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "27",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "FRANCISCO HILARIO REGO BEZERRA",
+        "Componente Curricular": "GEO0444 - GEOLOGIA DE CAMPO II",
+        "Turma": "1",
+        "Horário": "6T456 7T3456 (24/07/2017 - 02/12/2017)",
+        "Discentes": "6",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0418 - GEOLOGIA DE CAMPO IV",
+        "Turma": "2",
+        "Horário": "6M56 7T12345 (24/07/2017 - 16/12/2017)",
+        "Discentes": "8",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0443 - GEOLOGIA GERAL II",
+        "Turma": "2",
+        "Horário": "5T56",
+        "Discentes": "15",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "FRANCISCO OLIVEIRA DA SILVA",
+        "Componente Curricular": "GEO0352 - GEOQUIMICA DE MINERALIZACOES HIDROTERMAIS",
+        "Turma": "2",
+        "Horário": "2T564",
+        "Discentes": "28",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "FRANCISCO PINHEIRO LIMA FILHO",
+        "Componente Curricular": "GEO0444 - GEOLOGIA DE CAMPO II",
+        "Turma": "2",
+        "Horário": "6T456 7T3456 (24/07/2017 - 02/12/2017)",
+        "Discentes": "6",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "FRANCISCO PINHEIRO LIMA FILHO",
+        "Componente Curricular": "GEO0320 - SEDIMENTOLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "28",
+        "Média Geral": "8.4",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0404 - MINERALOGIA",
+        "Turma": "1",
+        "Horário": "3T534 5T34",
+        "Discentes": "14",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.76"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0404 - MINERALOGIA",
+        "Turma": "2",
+        "Horário": "2T345 4T34",
+        "Discentes": "15",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.76"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0043 - MINERALOGIA APLICADA",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "17",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "FREDERICO CASTRO JOBIM VILALVA",
+        "Componente Curricular": "GEO0325 - PETROLOGIA IGNEA I",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "10",
+        "Média Geral": "9.92",
+        "Desvio Padrão Geral": "0.81"
+    },
+    {
+        "Docente": "GERMANO MELO JUNIOR",
+        "Componente Curricular": "GEO0423 - GEOQUÍMICA DO PETRÓLEO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "12",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "GERMANO MELO JUNIOR",
+        "Componente Curricular": "GEO0334 - PROSPECCAO",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "27",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "GERMANO MELO JUNIOR",
+        "Componente Curricular": "GEO0450 - TÓPICOS ESPECIAIS EM GEOLOGIA II",
+        "Turma": "3",
+        "Horário": "6T23 (24/07/2017 - 16/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "HEITOR NEVES MAIA",
+        "Componente Curricular": "GEO0408 - GEOLOGIA DE CAMPO I",
+        "Turma": "3",
+        "Horário": "67M12 (24/07/2017 - 02/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "HEITOR NEVES MAIA",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "HEITOR NEVES MAIA",
+        "Componente Curricular": "GEO0334 - PROSPECCAO",
+        "Turma": "1",
+        "Horário": "246M34",
+        "Discentes": "27",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "HELENICE VITAL",
+        "Componente Curricular": "GEO0308 - GEOLOGIA AMBIENTAL I",
+        "Turma": "2",
+        "Horário": "35M12",
+        "Discentes": "15",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "HELENICE VITAL",
+        "Componente Curricular": "GEO0451 - TÓPICOS AVANÇADOS EM GEOLOGIA II",
+        "Turma": "1",
+        "Horário": "5T12 (24/07/2017 - 16/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "8.05",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "JAZIEL MARTINS SA",
+        "Componente Curricular": "GEO0418 - GEOLOGIA DE CAMPO IV",
+        "Turma": "3",
+        "Horário": "6M56 7T12345 (24/07/2017 - 16/12/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "JAZIEL MARTINS SA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "10",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "JAZIEL MARTINS SA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "14",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "JOSE BRAZ DINIZ FILHO",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "JOSE BRAZ DINIZ FILHO",
+        "Componente Curricular": "GEO0415 - HIDROGEOLOGIA",
+        "Turma": "2",
+        "Horário": "3T34 5T234",
+        "Discentes": "10",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JOSE GERALDO DE MELO",
+        "Componente Curricular": "GEO0415 - HIDROGEOLOGIA",
+        "Turma": "1",
+        "Horário": "3T12 5T123",
+        "Discentes": "15",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "GEO0408 - GEOLOGIA DE CAMPO I",
+        "Turma": "1",
+        "Horário": "67M12 (24/07/2017 - 02/12/2017)",
+        "Discentes": "6",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "GEO0326 - PETROLOGIA METAMORFICA I",
+        "Turma": "2",
+        "Horário": "46M56",
+        "Discentes": "9",
+        "Média Geral": "7.78",
+        "Desvio Padrão Geral": "2.42"
+    },
+    {
+        "Docente": "LAECIO CUNHA DE SOUZA",
+        "Componente Curricular": "GEO0326 - PETROLOGIA METAMORFICA I",
+        "Turma": "3",
+        "Horário": "3M56 6M34",
+        "Discentes": "7",
+        "Média Geral": "8.05",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0608 - DESENHO GEOLÓGICO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "28",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0602 - FUNDAMENTOS DE SEDIMENTOLOGIA E ESTRATIGRAFIA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "9",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0609 - GEOLOGIA DE CAMPO",
+        "Turma": "2",
+        "Horário": "67T12",
+        "Discentes": "9",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "10",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "MARCELA MARQUES VIEIRA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "14",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0325 - PETROLOGIA IGNEA I",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "10",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "0.75"
+    },
+    {
+        "Docente": "MARCOS ANTONIO LEITE DO NASCIMENTO",
+        "Componente Curricular": "GEO0326 - PETROLOGIA METAMORFICA I",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "9",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.42"
+    },
+    {
+        "Docente": "NARENDRA KUMAR SRIVASTAVA",
+        "Componente Curricular": "GEO0408 - GEOLOGIA DE CAMPO I",
+        "Turma": "2",
+        "Horário": "67M12 (24/07/2017 - 02/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "NARENDRA KUMAR SRIVASTAVA",
+        "Componente Curricular": "GEO0444 - GEOLOGIA DE CAMPO II",
+        "Turma": "3",
+        "Horário": "6T456 7T3456 (24/07/2017 - 02/12/2017)",
+        "Discentes": "5",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "24",
+        "Média Geral": "7.97",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "4",
+        "Horário": "46N34",
+        "Discentes": "11",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "PAULO ROBERTO CORDEIRO DE FARIAS",
+        "Componente Curricular": "GEO0450 - TÓPICOS ESPECIAIS EM GEOLOGIA II",
+        "Turma": "4",
+        "Horário": "4T56 (24/07/2017 - 09/12/2017)",
+        "Discentes": "7",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0404 - MINERALOGIA",
+        "Turma": "1",
+        "Horário": "3T534 5T34",
+        "Discentes": "14",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.8"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0404 - MINERALOGIA",
+        "Turma": "2",
+        "Horário": "2T345 4T34",
+        "Discentes": "15",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "0.86"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0354 - MINERALOGIA DE MINERAIS OPACOS",
+        "Turma": "1",
+        "Horário": "2M12",
+        "Discentes": "6",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "0.73"
+    },
+    {
+        "Docente": "RAQUEL FRANCO DE SOUZA",
+        "Componente Curricular": "GEO0354 - MINERALOGIA DE MINERAIS OPACOS",
+        "Turma": "2",
+        "Horário": "4M12",
+        "Discentes": "6",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "0.89"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0308 - GEOLOGIA AMBIENTAL I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "7",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "8.72",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0391 - SISTEMA DE INFORMACOES GEOGRAFICAS I",
+        "Turma": "1",
+        "Horário": "4T456",
+        "Discentes": "11",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0045 - TOPICOS ESPECIAIS EM GEOLOGIA",
+        "Turma": "1",
+        "Horário": "6T23",
+        "Discentes": "11",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "RICARDO FARIAS DO AMARAL",
+        "Componente Curricular": "GEO0069 - TÓPICOS EM GEOLOGIA PARA ECOLOGIA",
+        "Turma": "2",
+        "Horário": "2T12",
+        "Discentes": "49",
+        "Média Geral": "8.3",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "RICARDO GUIMARAES SALLET",
+        "Componente Curricular": "GEO0364 - GEOLOGIA DAS ARGILAS",
+        "Turma": "2",
+        "Horário": "2N23",
+        "Discentes": "15",
+        "Média Geral": "8.2",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "VALERIA CENTURION CORDOBA",
+        "Componente Curricular": "GEO0403 - ESTRATIGRAFIA DE SEQUENCIAS",
+        "Turma": "1",
+        "Horário": "5M234",
+        "Discentes": "15",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "VALERIA CENTURION CORDOBA",
+        "Componente Curricular": "GEO0363 - SISTEMAS DEPOSICIONAIS",
+        "Turma": "1",
+        "Horário": "3T234",
+        "Discentes": "9",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0042 - ELEMENTOS DE GEOLOGIA",
+        "Turma": "2",
+        "Horário": "35N34",
+        "Discentes": "23",
+        "Média Geral": "8.48",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0443 - GEOLOGIA GERAL II",
+        "Turma": "1",
+        "Horário": "4T56",
+        "Discentes": "13",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "VANILDO PEREIRA DA FONSECA",
+        "Componente Curricular": "GEO0450 - TÓPICOS ESPECIAIS EM GEOLOGIA II",
+        "Turma": "2",
+        "Horário": "6T12 (24/07/2017 - 16/12/2017)",
+        "Discentes": "7",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "10",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0405 - PETROGRAFIA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "14",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0325 - PETROLOGIA IGNEA I",
+        "Turma": "1",
+        "Horário": "3M34 5M56",
+        "Discentes": "9",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "ZORANO SERGIO DE SOUZA",
+        "Componente Curricular": "GEO0325 - PETROLOGIA IGNEA I",
+        "Turma": "3",
+        "Horário": "2M56 3M34",
+        "Discentes": "9",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.48"
+    }
+]

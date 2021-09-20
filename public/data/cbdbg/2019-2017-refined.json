@@ -1,0 +1,1772 @@
+{
+  "ADRIANA FERREIRA UCHOA": {
+    "Notas": [
+      9.54,
+      9.62,
+      9.62,
+      9.78,
+      9.81,
+      9.83,
+      9.98
+    ],
+    "Desvios": [
+      1.24,
+      1.85,
+      1.57,
+      1.74,
+      1.14,
+      1.88,
+      1.34
+    ],
+    "Componentes": {
+      "DBG0006 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.62,
+          9.81,
+          9.83,
+          9.98
+        ],
+        "Desvios": [
+          1.24,
+          1.57,
+          1.14,
+          1.34
+        ],
+        "DesvioDeNotas": 0.12786711852544466,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.3225,
+        "NotaMediana": 9.83
+      },
+      "DBG0013 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.54,
+          9.62
+        ],
+        "Desvios": [
+          1.85,
+          1.88
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.579999999999998,
+        "MediaDeDesvios": 1.865,
+        "NotaMediana": 9.62
+      },
+      "DBG0002 - BIOLOGIA CELULAR": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.78
+      }
+    },
+    "DesvioDeNotas": 0.1419255337945124,
+    "MediaDeNotas": 9.739999999999998,
+    "MediaDeDesvios": 1.5371428571428571,
+    "NotaMediana": 9.78
+  },
+  "CARLOS ALFREDO GALINDO BLAHA": {
+    "Notas": [
+      6.33,
+      7.18,
+      7.74,
+      7.89,
+      8.27,
+      8.57,
+      8.71,
+      8.8,
+      8.87,
+      8.92,
+      9.22
+    ],
+    "Desvios": [
+      2.42,
+      3.13,
+      2.78,
+      3.35,
+      1.66,
+      2.32,
+      2.13,
+      2.45,
+      2.75,
+      2.12,
+      2.11
+    ],
+    "Componentes": {
+      "DBG0055 - BIOLOGIA CELULAR": {
+        "Notas": [
+          7.74,
+          8.92
+        ],
+        "Desvios": [
+          2.42,
+          2.13
+        ],
+        "DesvioDeNotas": 0.5899999999999999,
+        "MediaDeNotas": 8.33,
+        "MediaDeDesvios": 2.275,
+        "NotaMediana": 8.92
+      },
+      "DBG0003 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          6.33,
+          7.18,
+          8.27,
+          8.71
+        ],
+        "Desvios": [
+          3.13,
+          3.35,
+          2.45,
+          2.12
+        ],
+        "DesvioDeNotas": 0.9311652646012953,
+        "MediaDeNotas": 7.6225000000000005,
+        "MediaDeDesvios": 2.7625,
+        "NotaMediana": 8.27
+      },
+      "DBG0071 - BIOLOGIA E ECOLOGIA": {
+        "Notas": [
+          7.89
+        ],
+        "Desvios": [
+          2.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.89,
+        "MediaDeDesvios": 2.78,
+        "NotaMediana": 7.89
+      },
+      "DBG0011 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.22
+      },
+      "DBG0013 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          8.57,
+          8.8,
+          8.87
+        ],
+        "Desvios": [
+          2.32,
+          2.75,
+          2.11
+        ],
+        "DesvioDeNotas": 0.12814921857827363,
+        "MediaDeNotas": 8.746666666666668,
+        "MediaDeDesvios": 2.393333333333333,
+        "NotaMediana": 8.8
+      }
+    },
+    "DesvioDeNotas": 0.8315603177061008,
+    "MediaDeNotas": 8.227272727272727,
+    "MediaDeDesvios": 2.4745454545454546,
+    "NotaMediana": 8.57
+  },
+  "CRISTIANE ELIZABETH COSTA DE MACEDO": {
+    "Notas": [
+      8.7,
+      9.2,
+      9.2,
+      9.3,
+      9.45,
+      9.48,
+      9.52,
+      9.53
+    ],
+    "Desvios": [
+      1.68,
+      1.86,
+      2.05,
+      1.67,
+      1.82,
+      1.95,
+      1.81,
+      1.24
+    ],
+    "Componentes": {
+      "DBG0011 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.2,
+          9.2,
+          9.3,
+          9.48,
+          9.52,
+          9.53
+        ],
+        "Desvios": [
+          1.68,
+          1.86,
+          2.05,
+          1.67,
+          1.82,
+          1.24
+        ],
+        "DesvioDeNotas": 0.14311029157805383,
+        "MediaDeNotas": 9.371666666666664,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.48
+      },
+      "DBG0052 - BIOLOGIA CELULAR PARA ECOLOGIA": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.95,
+        "NotaMediana": 9.45
+      },
+      "DBG0003 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          8.7
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.7,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 8.7
+      }
+    },
+    "DesvioDeNotas": 0.2588797983620971,
+    "MediaDeNotas": 9.2975,
+    "MediaDeDesvios": 1.76,
+    "NotaMediana": 9.45
+  },
+  "DANIELLA REGINA ARANTES MARTINS SALHA": {
+    "Notas": [
+      9.18,
+      9.43,
+      9.44,
+      9.49,
+      9.63,
+      9.64,
+      9.75,
+      9.75,
+      9.84,
+      9.86,
+      9.89,
+      9.9,
+      9.91,
+      9.96
+    ],
+    "Desvios": [
+      1.38,
+      0.86,
+      2.2,
+      1.34,
+      1.44,
+      1.71,
+      1.08,
+      1.1,
+      1.68,
+      1.97,
+      1.07,
+      1.41,
+      1.27,
+      1.45
+    ],
+    "Componentes": {
+      "DBG0009 - GENETICA PARA NUTRIÇÃO": {
+        "Notas": [
+          9.43,
+          9.86,
+          9.89,
+          9.91
+        ],
+        "Desvios": [
+          1.38,
+          1.44,
+          1.1,
+          1.41
+        ],
+        "DesvioDeNotas": 0.1985415573626843,
+        "MediaDeNotas": 9.7725,
+        "MediaDeDesvios": 1.3325,
+        "NotaMediana": 9.89
+      },
+      "DBG0146 - GENÉTICA": {
+        "Notas": [
+          9.96
+        ],
+        "Desvios": [
+          0.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.96,
+        "MediaDeDesvios": 0.86,
+        "NotaMediana": 9.96
+      },
+      "DBG0014 - GENÉTICA": {
+        "Notas": [
+          9.18,
+          9.44,
+          9.63,
+          9.64
+        ],
+        "Desvios": [
+          2.2,
+          1.71,
+          1.97,
+          1.45
+        ],
+        "DesvioDeNotas": 0.18673175948402607,
+        "MediaDeNotas": 9.4725,
+        "MediaDeDesvios": 1.8325,
+        "NotaMediana": 9.63
+      },
+      "DBG0012 - GENETICA HUMANA": {
+        "Notas": [
+          9.75,
+          9.84,
+          9.9
+        ],
+        "Desvios": [
+          1.34,
+          1.08,
+          1.07
+        ],
+        "DesvioDeNotas": 0.061644140029689896,
+        "MediaDeNotas": 9.83,
+        "MediaDeDesvios": 1.1633333333333333,
+        "NotaMediana": 9.84
+      },
+      "DBG0142 - GENETICA VII": {
+        "Notas": [
+          9.49,
+          9.75
+        ],
+        "Desvios": [
+          1.68,
+          1.27
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.620000000000001,
+        "MediaDeDesvios": 1.475,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.22365356775009654,
+    "MediaDeNotas": 9.690714285714288,
+    "MediaDeDesvios": 1.4257142857142855,
+    "NotaMediana": 9.75
+  },
+  "DELANDO NASARIO MEDEIROS": {
+    "Notas": [
+      8.05,
+      8.12,
+      8.53,
+      9.36,
+      9.38,
+      9.47,
+      9.49,
+      9.54,
+      9.59,
+      9.6,
+      9.66,
+      9.68,
+      9.81
+    ],
+    "Desvios": [
+      1.79,
+      1.41,
+      1.7,
+      2.95,
+      1.58,
+      1.48,
+      2.98,
+      2.2,
+      1.62,
+      2.41,
+      1.83,
+      1.29,
+      1.29
+    ],
+    "Componentes": {
+      "DBG0002 - BIOLOGIA CELULAR": {
+        "Notas": [
+          9.38,
+          9.6,
+          9.81
+        ],
+        "Desvios": [
+          1.79,
+          1.58,
+          1.29
+        ],
+        "DesvioDeNotas": 0.17556258776351577,
+        "MediaDeNotas": 9.596666666666666,
+        "MediaDeDesvios": 1.5533333333333335,
+        "NotaMediana": 9.6
+      },
+      "DBG0008 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.66
+      },
+      "DBG0005 - BIOLOGIA CELULAR I": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.68
+      },
+      "DBG0052 - BIOLOGIA CELULAR PARA ECOLOGIA": {
+        "Notas": [
+          8.05,
+          8.53
+        ],
+        "Desvios": [
+          2.95,
+          2.41
+        ],
+        "DesvioDeNotas": 0.23999999999999932,
+        "MediaDeNotas": 8.29,
+        "MediaDeDesvios": 2.68,
+        "NotaMediana": 8.53
+      },
+      "DBG0011 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.47,
+          9.54
+        ],
+        "Desvios": [
+          1.48,
+          1.62
+        ],
+        "DesvioDeNotas": 0.034999999999999254,
+        "MediaDeNotas": 9.504999999999999,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.54
+      },
+      "DBG0071 - BIOLOGIA E ECOLOGIA": {
+        "Notas": [
+          8.12
+        ],
+        "Desvios": [
+          2.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.12,
+        "MediaDeDesvios": 2.98,
+        "NotaMediana": 8.12
+      },
+      "DBG0033 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          2.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 2.2,
+        "NotaMediana": 9.36
+      },
+      "DBG0023 - BIOLOGIA E ECOLOGIA": {
+        "Notas": [
+          9.49,
+          9.59
+        ],
+        "Desvios": [
+          1.83,
+          1.29
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.5790596335193792,
+    "MediaDeNotas": 9.252307692307692,
+    "MediaDeDesvios": 1.886923076923077,
+    "NotaMediana": 9.49
+  },
+  "EDUARDO LUIZ VOIGT": {
+    "Notas": [
+      9.43,
+      9.7,
+      9.75,
+      9.76,
+      9.79,
+      9.82,
+      9.99
+    ],
+    "Desvios": [
+      1.89,
+      1.61,
+      1.63,
+      1.95,
+      1.77,
+      1.62,
+      1.06
+    ],
+    "Componentes": {
+      "DBG0055 - BIOLOGIA CELULAR": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.75
+      },
+      "DBG0002 - BIOLOGIA CELULAR": {
+        "Notas": [
+          9.76,
+          9.79,
+          9.82
+        ],
+        "Desvios": [
+          1.61,
+          1.63,
+          1.06
+        ],
+        "DesvioDeNotas": 0.024494897427831983,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.4333333333333336,
+        "NotaMediana": 9.79
+      },
+      "DBG0013 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.95,
+        "NotaMediana": 9.43
+      },
+      "DBG0040 - BIOLOGIA CELULAR E MOLECULAR VEGETAL": {
+        "Notas": [
+          9.99
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.99,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.99
+      },
+      "DBG0005 - BIOLOGIA CELULAR I": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.15541911735953326,
+    "MediaDeNotas": 9.748571428571429,
+    "MediaDeDesvios": 1.647142857142857,
+    "NotaMediana": 9.76
+  },
+  "ELIZANGELA EMIDIO CUNHA": {
+    "Notas": [
+      7.61,
+      8.65,
+      8.91,
+      8.95,
+      9.01,
+      9.32
+    ],
+    "Desvios": [
+      1.76,
+      2.36,
+      2.86,
+      2.54,
+      2.1,
+      1.83
+    ],
+    "Componentes": {
+      "DBG0140 - GENETICA DE ORGANISMOS AQUATICOS CULTIVAVEIS": {
+        "Notas": [
+          9.01,
+          9.32
+        ],
+        "Desvios": [
+          1.76,
+          1.83
+        ],
+        "DesvioDeNotas": 0.15500000000000025,
+        "MediaDeNotas": 9.165,
+        "MediaDeDesvios": 1.795,
+        "NotaMediana": 9.32
+      },
+      "DBG0141 - GENETICA HUMANA III": {
+        "Notas": [
+          8.91
+        ],
+        "Desvios": [
+          2.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.91,
+        "MediaDeDesvios": 2.36,
+        "NotaMediana": 8.91
+      },
+      "DBG0146 - GENÉTICA": {
+        "Notas": [
+          7.61
+        ],
+        "Desvios": [
+          2.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.61,
+        "MediaDeDesvios": 2.86,
+        "NotaMediana": 7.61
+      },
+      "DBG0051 - GENÉTICA PARA ECOLOGIA": {
+        "Notas": [
+          8.65
+        ],
+        "Desvios": [
+          2.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 2.54,
+        "NotaMediana": 8.65
+      },
+      "DBG0113 - FUNDAMENTOS DE GENETICA": {
+        "Notas": [
+          8.95
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 8.95
+      }
+    },
+    "DesvioDeNotas": 0.542722048771028,
+    "MediaDeNotas": 8.741666666666665,
+    "MediaDeDesvios": 2.2416666666666667,
+    "NotaMediana": 8.95
+  },
+  "JOAO MARIA GOMES ALENCAR DE SOUZA": {
+    "Notas": [
+      6.17,
+      8.39,
+      8.53,
+      8.57,
+      8.61,
+      8.62,
+      8.71,
+      9.14,
+      9.14,
+      9.24,
+      9.59,
+      9.69
+    ],
+    "Desvios": [
+      2.06,
+      1.77,
+      2.01,
+      2.07,
+      2.2,
+      3.17,
+      1.74,
+      2.32,
+      1.99,
+      1.23,
+      1.83,
+      1.28
+    ],
+    "Componentes": {
+      "DBG0009 - GENETICA PARA NUTRIÇÃO": {
+        "Notas": [
+          8.39,
+          8.57,
+          8.61,
+          8.62
+        ],
+        "Desvios": [
+          2.06,
+          2.2,
+          2.32,
+          1.83
+        ],
+        "DesvioDeNotas": 0.09283722313813524,
+        "MediaDeNotas": 8.5475,
+        "MediaDeDesvios": 2.1025,
+        "NotaMediana": 8.61
+      },
+      "DBG0146 - GENÉTICA": {
+        "Notas": [
+          8.53
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.53,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 8.53
+      },
+      "DBG0070 - GENÉTICA HUMANA": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          2.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 2.01,
+        "NotaMediana": 9.24
+      },
+      "DBG0012 - GENETICA HUMANA": {
+        "Notas": [
+          8.71,
+          9.14,
+          9.59
+        ],
+        "Desvios": [
+          2.07,
+          1.74,
+          1.23
+        ],
+        "DesvioDeNotas": 0.3592894221778434,
+        "MediaDeNotas": 9.146666666666667,
+        "MediaDeDesvios": 1.6799999999999997,
+        "NotaMediana": 9.14
+      },
+      "DBG0049 - GENÉTICA BÁSICA PARA BIOMENDICINA": {
+        "Notas": [
+          6.17
+        ],
+        "Desvios": [
+          3.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.17,
+        "MediaDeDesvios": 3.17,
+        "NotaMediana": 6.17
+      },
+      "DBG0142 - GENETICA VII": {
+        "Notas": [
+          9.14,
+          9.69
+        ],
+        "Desvios": [
+          1.99,
+          1.28
+        ],
+        "DesvioDeNotas": 0.27499999999999947,
+        "MediaDeNotas": 9.415,
+        "MediaDeDesvios": 1.635,
+        "NotaMediana": 9.69
+      }
+    },
+    "DesvioDeNotas": 0.8664294547163087,
+    "MediaDeNotas": 8.700000000000001,
+    "MediaDeDesvios": 1.9725000000000001,
+    "NotaMediana": 8.71
+  },
+  "KATIA CASTANHO SCORTECCI": {
+    "Notas": [
+      9.36,
+      9.53,
+      9.59,
+      9.63,
+      9.73,
+      9.76,
+      9.81
+    ],
+    "Desvios": [
+      1.62,
+      1.27,
+      1.95,
+      1.83,
+      1.43,
+      1.64,
+      1.76
+    ],
+    "Componentes": {
+      "DBG0002 - BIOLOGIA CELULAR": {
+        "Notas": [
+          9.36,
+          9.53,
+          9.59,
+          9.76,
+          9.81
+        ],
+        "Desvios": [
+          1.62,
+          1.95,
+          1.83,
+          1.43,
+          1.76
+        ],
+        "DesvioDeNotas": 0.16235762994081956,
+        "MediaDeNotas": 9.610000000000001,
+        "MediaDeDesvios": 1.718,
+        "NotaMediana": 9.59
+      },
+      "DBG0006 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.63,
+          9.73
+        ],
+        "Desvios": [
+          1.27,
+          1.64
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.455,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.14332779612781757,
+    "MediaDeNotas": 9.629999999999999,
+    "MediaDeDesvios": 1.6428571428571428,
+    "NotaMediana": 9.63
+  },
+  "LUCYMARA FASSARELLA AGNEZ LIMA": {
+    "Notas": [
+      8.82,
+      8.91,
+      9.23,
+      9.64
+    ],
+    "Desvios": [
+      2.06,
+      1.85,
+      1.25,
+      1.51
+    ],
+    "Componentes": {
+      "DBG0146 - GENÉTICA": {
+        "Notas": [
+          8.82,
+          8.91,
+          9.23,
+          9.64
+        ],
+        "Desvios": [
+          2.06,
+          1.85,
+          1.25,
+          1.51
+        ],
+        "DesvioDeNotas": 0.32132538026119273,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.6675,
+        "NotaMediana": 9.23
+      }
+    },
+    "DesvioDeNotas": 0.32132538026119273,
+    "MediaDeNotas": 9.15,
+    "MediaDeDesvios": 1.6675,
+    "NotaMediana": 9.23
+  },
+  "PAULO SERGIO MARINHO LUCIO": {
+    "Notas": [
+      8.94,
+      9.02,
+      9.13,
+      9.31,
+      9.37,
+      9.39,
+      9.52,
+      9.56,
+      9.57,
+      9.67,
+      9.7,
+      9.71,
+      9.73,
+      9.81
+    ],
+    "Desvios": [
+      2.18,
+      2.34,
+      1.48,
+      1.5,
+      1.28,
+      1.88,
+      2.01,
+      1.55,
+      1.71,
+      1.15,
+      1.02,
+      1.21,
+      1.15,
+      1.43
+    ],
+    "Componentes": {
+      "DBG0034 - BIOSSEGURANÇA": {
+        "Notas": [
+          9.02,
+          9.31,
+          9.37,
+          9.56,
+          9.67,
+          9.73
+        ],
+        "Desvios": [
+          2.18,
+          2.34,
+          1.5,
+          2.01,
+          1.02,
+          1.21
+        ],
+        "DesvioDeNotas": 0.2413618767650676,
+        "MediaDeNotas": 9.443333333333333,
+        "MediaDeDesvios": 1.7099999999999997,
+        "NotaMediana": 9.56
+      },
+      "DBG0014 - GENÉTICA": {
+        "Notas": [
+          8.94,
+          9.13,
+          9.52,
+          9.57
+        ],
+        "Desvios": [
+          1.48,
+          1.88,
+          1.71,
+          1.43
+        ],
+        "DesvioDeNotas": 0.2642915057280502,
+        "MediaDeNotas": 9.290000000000001,
+        "MediaDeDesvios": 1.625,
+        "NotaMediana": 9.52
+      },
+      "DBG0141 - GENETICA HUMANA III": {
+        "Notas": [
+          9.7,
+          9.71,
+          9.81
+        ],
+        "Desvios": [
+          1.28,
+          1.55,
+          1.15
+        ],
+        "DesvioDeNotas": 0.04966554808583805,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.3266666666666667,
+        "NotaMediana": 9.71
+      },
+      "DBQ0031 - BIOQUIMICA METABOLICA": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.2664170813301765,
+    "MediaDeNotas": 9.459285714285715,
+    "MediaDeDesvios": 1.5635714285714284,
+    "NotaMediana": 9.56
+  },
+  "RAQUEL CORDEIRO THEODORO": {
+    "Notas": [
+      9.68,
+      9.75,
+      9.75,
+      9.79,
+      9.86,
+      9.95
+    ],
+    "Desvios": [
+      1.06,
+      1.79,
+      1.1,
+      1.24,
+      0.87,
+      1.29
+    ],
+    "Componentes": {
+      "DBG0145 - GENÉTICA": {
+        "Notas": [
+          9.86,
+          9.95
+        ],
+        "Desvios": [
+          1.06,
+          1.1
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.905,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.95
+      },
+      "DBG0014 - GENÉTICA": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.68
+      },
+      "DBG0034 - BIOSSEGURANÇA": {
+        "Notas": [
+          9.75,
+          9.79
+        ],
+        "Desvios": [
+          1.24,
+          0.87
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.055,
+        "NotaMediana": 9.79
+      },
+      "DBG0146 - GENÉTICA": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.08711422896914633,
+    "MediaDeNotas": 9.796666666666665,
+    "MediaDeDesvios": 1.225,
+    "NotaMediana": 9.79
+  },
+  "RIVA DE PAULA OLIVEIRA": {
+    "Notas": [
+      8.36,
+      9.23,
+      9.26,
+      9.39,
+      9.4,
+      9.68,
+      9.8
+    ],
+    "Desvios": [
+      2.84,
+      2,
+      1.66,
+      1.63,
+      1.76,
+      1.93,
+      0.97
+    ],
+    "Componentes": {
+      "DBG0060 - GENÉTICA BIOMÉDICA": {
+        "Notas": [
+          8.36,
+          9.26,
+          9.39,
+          9.8
+        ],
+        "Desvios": [
+          2.84,
+          1.66,
+          1.63,
+          0.97
+        ],
+        "DesvioDeNotas": 0.525660299052535,
+        "MediaDeNotas": 9.2025,
+        "MediaDeDesvios": 1.775,
+        "NotaMediana": 9.39
+      },
+      "DBG0049 - GENÉTICA BÁSICA PARA BIOMENDICINA": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 9.23
+      },
+      "DBG0059 - BIOLOGIA MOLECULAR": {
+        "Notas": [
+          9.4,
+          9.68
+        ],
+        "Desvios": [
+          1.76,
+          1.93
+        ],
+        "DesvioDeNotas": 0.13999999999999968,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.845,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.4313670722486922,
+    "MediaDeNotas": 9.302857142857144,
+    "MediaDeDesvios": 1.827142857142857,
+    "NotaMediana": 9.39
+  },
+  "SILVIA REGINA BATISTUZZO DE MEDEIROS": {
+    "Notas": [
+      8.41,
+      8.54,
+      9.05,
+      9.29,
+      9.47,
+      9.59,
+      9.6,
+      9.86
+    ],
+    "Desvios": [
+      2.87,
+      1.25,
+      2.58,
+      1.73,
+      1.54,
+      1.9,
+      1.8,
+      1.16
+    ],
+    "Componentes": {
+      "DBG0059 - BIOLOGIA MOLECULAR": {
+        "Notas": [
+          8.41,
+          9.05,
+          9.6
+        ],
+        "Desvios": [
+          2.87,
+          1.73,
+          1.8
+        ],
+        "DesvioDeNotas": 0.48627838391878625,
+        "MediaDeNotas": 9.02,
+        "MediaDeDesvios": 2.1333333333333333,
+        "NotaMediana": 9.05
+      },
+      "DBG0145 - GENÉTICA": {
+        "Notas": [
+          9.47,
+          9.86
+        ],
+        "Desvios": [
+          1.25,
+          1.54
+        ],
+        "DesvioDeNotas": 0.1949999999999994,
+        "MediaDeNotas": 9.665,
+        "MediaDeDesvios": 1.395,
+        "NotaMediana": 9.86
+      },
+      "DBG0070 - GENÉTICA HUMANA": {
+        "Notas": [
+          8.54
+        ],
+        "Desvios": [
+          2.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.54,
+        "MediaDeDesvios": 2.58,
+        "NotaMediana": 8.54
+      },
+      "DBG0056 - BIOLOGIA MOLECULAR APLICADA AO DIAGNÓSTICO DE DOENÇAS INFECTO- CONTAGIOSAS": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.29
+      },
+      "DBG0139 - GENETICA HUMANA": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.16,
+        "NotaMediana": 9.59
+      }
+    },
+    "DesvioDeNotas": 0.4880301604409301,
+    "MediaDeNotas": 9.22625,
+    "MediaDeDesvios": 1.85375,
+    "NotaMediana": 9.47
+  },
+  "SUSANA MARGARIDA GOMES MOREIRA": {
+    "Notas": [
+      9.15,
+      9.54,
+      9.56,
+      9.64,
+      9.67,
+      9.7,
+      9.84
+    ],
+    "Desvios": [
+      1.69,
+      1.84,
+      1.65,
+      1.71,
+      2.23,
+      1.27,
+      1.54
+    ],
+    "Componentes": {
+      "DBG0002 - BIOLOGIA CELULAR": {
+        "Notas": [
+          9.15,
+          9.54
+        ],
+        "Desvios": [
+          1.69,
+          2.23
+        ],
+        "DesvioDeNotas": 0.1949999999999994,
+        "MediaDeNotas": 9.344999999999999,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 9.54
+      },
+      "DBG0013 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.56,
+          9.64,
+          9.67
+        ],
+        "Desvios": [
+          1.84,
+          1.65,
+          1.54
+        ],
+        "DesvioDeNotas": 0.04642796092394688,
+        "MediaDeNotas": 9.623333333333335,
+        "MediaDeDesvios": 1.6766666666666667,
+        "NotaMediana": 9.64
+      },
+      "DBG0055 - BIOLOGIA CELULAR": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.7
+      },
+      "DBG0008 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.20013260909829195,
+    "MediaDeNotas": 9.585714285714285,
+    "MediaDeDesvios": 1.7042857142857142,
+    "NotaMediana": 9.64
+  },
+  "TIRZAH BRAZ PETTA LAJUS": {
+    "Notas": [
+      8.07,
+      8.15,
+      8.35,
+      9.46,
+      9.53,
+      9.59,
+      9.59,
+      9.66,
+      9.68,
+      9.76,
+      9.87
+    ],
+    "Desvios": [
+      1.58,
+      2.3,
+      1.6,
+      1.57,
+      2.77,
+      1.81,
+      2.7,
+      1.91,
+      0.98,
+      1.27,
+      0.98
+    ],
+    "Componentes": {
+      "DBG0052 - BIOLOGIA CELULAR PARA ECOLOGIA": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.68
+      },
+      "DBG0009 - GENETICA PARA NUTRIÇÃO": {
+        "Notas": [
+          8.35
+        ],
+        "Desvios": [
+          2.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.35,
+        "MediaDeDesvios": 2.3,
+        "NotaMediana": 8.35
+      },
+      "DBQ0105 - MÓDULO CELULAR, MOLECULAR E MACROMOLECULAR": {
+        "Notas": [
+          8.15,
+          9.46,
+          9.59,
+          9.76
+        ],
+        "Desvios": [
+          1.6,
+          2.77,
+          1.91,
+          0.98
+        ],
+        "DesvioDeNotas": 0.6382397668588191,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 1.815,
+        "NotaMediana": 9.59
+      },
+      "DBG0139 - GENETICA HUMANA": {
+        "Notas": [
+          9.59,
+          9.66
+        ],
+        "Desvios": [
+          1.57,
+          1.27
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.625,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.66
+      },
+      "DBG0013 - BIOLOGIA CELULAR E MOLECULAR": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.53
+      },
+      "DBG0056 - BIOLOGIA MOLECULAR APLICADA AO DIAGNÓSTICO DE DOENÇAS INFECTO- CONTAGIOSAS": {
+        "Notas": [
+          8.07
+        ],
+        "Desvios": [
+          2.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.07,
+        "MediaDeDesvios": 2.7,
+        "NotaMediana": 8.07
+      },
+      "DBG0054 - BIOLOGIA DO CÃNCER": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.87
+      }
+    },
+    "DesvioDeNotas": 0.6580587529347584,
+    "MediaDeNotas": 9.246363636363638,
+    "MediaDeDesvios": 1.7700000000000002,
+    "NotaMediana": 9.59
+  },
+  "VIVIANE SOUZA DO AMARAL": {
+    "Notas": [
+      9.61,
+      9.62,
+      9.67,
+      9.68,
+      9.72,
+      9.79
+    ],
+    "Desvios": [
+      1.19,
+      1.66,
+      1.58,
+      1.7,
+      1.35,
+      1.29
+    ],
+    "Componentes": {
+      "DBG0202 - GENETICA HUMANA": {
+        "Notas": [
+          9.61,
+          9.62,
+          9.68,
+          9.72
+        ],
+        "Desvios": [
+          1.19,
+          1.58,
+          1.35,
+          1.29
+        ],
+        "DesvioDeNotas": 0.04493050188902907,
+        "MediaDeNotas": 9.657499999999999,
+        "MediaDeDesvios": 1.3525,
+        "NotaMediana": 9.68
+      },
+      "DBG0049 - GENÉTICA BÁSICA PARA BIOMENDICINA": {
+        "Notas": [
+          9.67
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.67
+      },
+      "DBG0070 - GENÉTICA HUMANA": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.06094168432927413,
+    "MediaDeNotas": 9.681666666666667,
+    "MediaDeDesvios": 1.4616666666666667,
+    "NotaMediana": 9.68
+  },
+  "WAGNER FRANCO MOLINA": {
+    "Notas": [
+      8.84,
+      9.13,
+      9.15,
+      9.39,
+      9.48,
+      9.54,
+      9.55
+    ],
+    "Desvios": [
+      1.75,
+      1.54,
+      1.47,
+      2.14,
+      2.19,
+      1.41,
+      1.9
+    ],
+    "Componentes": {
+      "DBG0147 - EVOLUÇÃO": {
+        "Notas": [
+          8.84,
+          9.13,
+          9.15,
+          9.39,
+          9.48,
+          9.54,
+          9.55
+        ],
+        "Desvios": [
+          1.75,
+          1.54,
+          1.47,
+          2.14,
+          2.19,
+          1.41,
+          1.9
+        ],
+        "DesvioDeNotas": 0.24597992285749581,
+        "MediaDeNotas": 9.297142857142857,
+        "MediaDeDesvios": 1.7714285714285716,
+        "NotaMediana": 9.39
+      }
+    },
+    "DesvioDeNotas": 0.24597992285749581,
+    "MediaDeNotas": 9.297142857142857,
+    "MediaDeDesvios": 1.7714285714285716,
+    "NotaMediana": 9.39
+  },
+  "MAYARA COSTA MANSUR TAVARES": {
+    "Notas": [
+      9.52,
+      9.61,
+      9.62,
+      9.68,
+      9.73,
+      9.74,
+      9.84,
+      9.88
+    ],
+    "Desvios": [
+      1.49,
+      1.44,
+      1.86,
+      1.46,
+      1.4,
+      1.49,
+      1.19,
+      1.29
+    ],
+    "Componentes": {
+      "DBG0059 - BIOLOGIA MOLECULAR": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.68
+      },
+      "DBG0049 - GENÉTICA BÁSICA PARA BIOMENDICINA": {
+        "Notas": [
+          9.84,
+          9.88
+        ],
+        "Desvios": [
+          1.44,
+          1.4
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.88
+      },
+      "DBG0051 - GENÉTICA PARA ECOLOGIA": {
+        "Notas": [
+          9.61,
+          9.62,
+          9.73
+        ],
+        "Desvios": [
+          1.86,
+          1.19,
+          1.29
+        ],
+        "DesvioDeNotas": 0.054365021434334145,
+        "MediaDeNotas": 9.653333333333332,
+        "MediaDeDesvios": 1.4466666666666665,
+        "NotaMediana": 9.62
+      },
+      "DBG0145 - GENÉTICA": {
+        "Notas": [
+          9.52,
+          9.74
+        ],
+        "Desvios": [
+          1.46,
+          1.49
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 9.629999999999999,
+        "MediaDeDesvios": 1.475,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.11277743568639999,
+    "MediaDeNotas": 9.702500000000002,
+    "MediaDeDesvios": 1.4525000000000001,
+    "NotaMediana": 9.73
+  },
+  "TIARA SOUSA CABRAL": {
+    "Notas": [
+      10,
+      8.7,
+      9.44,
+      9.77
+    ],
+    "Desvios": [
+      1.28,
+      0.42,
+      2.19,
+      1.21
+    ],
+    "Componentes": {
+      "DBG0146 - GENÉTICA": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.77
+      },
+      "DBG0048 - EVOLUÇÃO": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          0.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 0.42,
+        "NotaMediana": 10
+      },
+      "DBG0049 - GENÉTICA BÁSICA PARA BIOMENDICINA": {
+        "Notas": [
+          8.7,
+          9.44
+        ],
+        "Desvios": [
+          2.19,
+          1.21
+        ],
+        "DesvioDeNotas": 0.3700000000000001,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.44
+      }
+    },
+    "DesvioDeNotas": 0.49103844045043993,
+    "MediaDeNotas": 9.4775,
+    "MediaDeDesvios": 1.275,
+    "NotaMediana": 9.44
+  },
+  "MARBELLA MARIA BERNARDES DA FONSECA": {
+    "Notas": [
+      10
+    ],
+    "Desvios": [
+      0
+    ],
+    "Componentes": {
+      "DBG0146 - GENÉTICA": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          0
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 0,
+        "NotaMediana": 10
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 10,
+    "MediaDeDesvios": 0,
+    "NotaMediana": 10
+  },
+  "MARCOS FELIPE DE OLIVEIRA GALVÃO": {
+    "Notas": [
+      9.67
+    ],
+    "Desvios": [
+      1.3
+    ],
+    "Componentes": {
+      "DBG0059 - BIOLOGIA MOLECULAR": {
+        "Notas": [
+          9.67
+        ],
+        "Desvios": [
+          1.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.67
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.3,
+    "NotaMediana": 9.67
+  }
+}

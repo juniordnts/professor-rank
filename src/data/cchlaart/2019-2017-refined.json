@@ -1,0 +1,4916 @@
+{
+  "ADRIANO MORAES DE OLIVEIRA": {
+    "Notas": [
+      9.04,
+      9.25,
+      9.39,
+      9.57,
+      9.67
+    ],
+    "Desvios": [
+      1.68,
+      1.6,
+      0.92,
+      1.64,
+      1.37
+    ],
+    "Componentes": {
+      "ART0290 - TCC - ESPETÁCULO": {
+        "Notas": [
+          9.04
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.04
+      },
+      "ART0121 - TEATRO E IMAGINÁRIOS": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.25
+      },
+      "ART0207 - ATUACAO I": {
+        "Notas": [
+          9.39,
+          9.67
+        ],
+        "Desvios": [
+          0.92,
+          1.64
+        ],
+        "DesvioDeNotas": 0.13999999999999968,
+        "MediaDeNotas": 9.530000000000001,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.67
+      },
+      "ART0176 - ENCENAÇÃO II": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.22481992794234262,
+    "MediaDeNotas": 9.384,
+    "MediaDeDesvios": 1.442,
+    "NotaMediana": 9.39
+  },
+  "ALGONIZ ALEX CORDEIRO DINIZ": {
+    "Notas": [
+      7.06,
+      7.61,
+      7.78
+    ],
+    "Desvios": [
+      2.72,
+      2.29,
+      2.71
+    ],
+    "Componentes": {
+      "ART0175 - ENCENAÇÃO I": {
+        "Notas": [
+          7.78
+        ],
+        "Desvios": [
+          2.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.78,
+        "MediaDeDesvios": 2.72,
+        "NotaMediana": 7.78
+      },
+      "ART0167 - HISTORIA DO TEATRO BRASILEIRO I": {
+        "Notas": [
+          7.06
+        ],
+        "Desvios": [
+          2.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.06,
+        "MediaDeDesvios": 2.29,
+        "NotaMediana": 7.06
+      },
+      "ART0165 - METODOLOGIA DE PESQUISA EM ARTES": {
+        "Notas": [
+          7.61
+        ],
+        "Desvios": [
+          2.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.61,
+        "MediaDeDesvios": 2.71,
+        "NotaMediana": 7.61
+      }
+    },
+    "DesvioDeNotas": 0.30728199137310735,
+    "MediaDeNotas": 7.483333333333333,
+    "MediaDeDesvios": 2.5733333333333333,
+    "NotaMediana": 7.61
+  },
+  "ANA CALDAS LEWINSOHN": {
+    "Notas": [
+      8.68,
+      8.87,
+      9.05,
+      9.4,
+      9.47,
+      9.49,
+      9.55,
+      9.64,
+      9.89
+    ],
+    "Desvios": [
+      0.9,
+      1.79,
+      1.29,
+      1.66,
+      1.12,
+      1.56,
+      1.38,
+      1.41,
+      1.28
+    ],
+    "Componentes": {
+      "ART0208 - ATUACAO II": {
+        "Notas": [
+          9.47,
+          9.89
+        ],
+        "Desvios": [
+          0.9,
+          1.79
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.345,
+        "NotaMediana": 9.89
+      },
+      "ART0116 - DANÇAS BRASILEIRAS": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.55
+      },
+      "ART0171 - ATUAÇÃO III": {
+        "Notas": [
+          9.05,
+          9.64
+        ],
+        "Desvios": [
+          1.66,
+          1.12
+        ],
+        "DesvioDeNotas": 0.29499999999999993,
+        "MediaDeNotas": 9.345,
+        "MediaDeDesvios": 1.3900000000000001,
+        "NotaMediana": 9.64
+      },
+      "ART0218 - PEDAGOGIA DO CORPO": {
+        "Notas": [
+          9.4,
+          9.49
+        ],
+        "Desvios": [
+          1.56,
+          1.28
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.445,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.49
+      },
+      "ART0207 - ATUACAO I": {
+        "Notas": [
+          8.68,
+          8.87
+        ],
+        "Desvios": [
+          1.38,
+          1.41
+        ],
+        "DesvioDeNotas": 0.09499999999999975,
+        "MediaDeNotas": 8.774999999999999,
+        "MediaDeDesvios": 1.395,
+        "NotaMediana": 8.87
+      }
+    },
+    "DesvioDeNotas": 0.3682021720552081,
+    "MediaDeNotas": 9.33777777777778,
+    "MediaDeDesvios": 1.3766666666666665,
+    "NotaMediana": 9.47
+  },
+  "ANDRE CARRICO": {
+    "Notas": [
+      9.09,
+      9.09,
+      9.11,
+      9.38,
+      9.38,
+      9.41,
+      9.43,
+      9.45,
+      9.48,
+      9.94
+    ],
+    "Desvios": [
+      1.62,
+      1.5,
+      1.26,
+      1.87,
+      1.41,
+      1.32,
+      1.58,
+      1.58,
+      1.6,
+      0.51
+    ],
+    "Componentes": {
+      "ART0166 - DRAMATURGIA II": {
+        "Notas": [
+          9.41,
+          9.48
+        ],
+        "Desvios": [
+          1.62,
+          1.32
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.445,
+        "MediaDeDesvios": 1.4700000000000002,
+        "NotaMediana": 9.48
+      },
+      "ART0205 - HISTORIA DO TEATRO III": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.45
+      },
+      "ART0170 - DRAMATURGIA III": {
+        "Notas": [
+          9.09,
+          9.38
+        ],
+        "Desvios": [
+          1.26,
+          1.58
+        ],
+        "DesvioDeNotas": 0.14500000000000046,
+        "MediaDeNotas": 9.235,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.38
+      },
+      "ART0204 - HISTORIA DO TEATRO II": {
+        "Notas": [
+          9.09,
+          9.11
+        ],
+        "Desvios": [
+          1.87,
+          1.6
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 1.735,
+        "NotaMediana": 9.11
+      },
+      "ART0181 - TEATRO E CULTURA BRASILEIRA": {
+        "Notas": [
+          9.38,
+          9.94
+        ],
+        "Desvios": [
+          1.41,
+          0.51
+        ],
+        "DesvioDeNotas": 0.27999999999999936,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 0.96,
+        "NotaMediana": 9.94
+      },
+      "ART0167 - HISTORIA DO TEATRO BRASILEIRO I": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.43
+      }
+    },
+    "DesvioDeNotas": 0.23934076125892134,
+    "MediaDeNotas": 9.376000000000001,
+    "MediaDeDesvios": 1.425,
+    "NotaMediana": 9.41
+  },
+  "BETTINA RUPP": {
+    "Notas": [
+      9.34,
+      9.43,
+      9.5,
+      9.75,
+      9.76,
+      9.78,
+      9.78,
+      9.81,
+      9.87,
+      9.93,
+      9.95,
+      9.95
+    ],
+    "Desvios": [
+      1.17,
+      2,
+      1.32,
+      0.97,
+      0.85,
+      1.18,
+      1.4,
+      1.13,
+      1.22,
+      1.07,
+      1.55,
+      1.11
+    ],
+    "Componentes": {
+      "DAT0149 - PESQUISA EM ARTES VISUAIS": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.5
+      },
+      "DAT0109 - PINTURA I": {
+        "Notas": [
+          9.43,
+          9.76,
+          9.78,
+          9.81
+        ],
+        "Desvios": [
+          2,
+          1.32,
+          1.4,
+          1.13
+        ],
+        "DesvioDeNotas": 0.15402921800749375,
+        "MediaDeNotas": 9.695,
+        "MediaDeDesvios": 1.4625000000000001,
+        "NotaMediana": 9.78
+      },
+      "DAT0225 - PERSPECTIVAS EM ARTE CONTEMPORÂNEA: DIVERSIDADE CULTURAL E DIREITOS HUMANOS": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          0.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 0.97,
+        "NotaMediana": 9.95
+      },
+      "DAT0128 - PINTURA II": {
+        "Notas": [
+          9.75,
+          9.87
+        ],
+        "Desvios": [
+          0.85,
+          1.07
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.809999999999999,
+        "MediaDeDesvios": 0.96,
+        "NotaMediana": 9.87
+      },
+      "ART0245 - PINTURA III": {
+        "Notas": [
+          9.95
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.95,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.95
+      },
+      "ART0244 - TEORIA DA COR E PINTURA": {
+        "Notas": [
+          9.78,
+          9.93
+        ],
+        "Desvios": [
+          1.22,
+          1.11
+        ],
+        "DesvioDeNotas": 0.07500000000000018,
+        "MediaDeNotas": 9.855,
+        "MediaDeDesvios": 1.165,
+        "NotaMediana": 9.93
+      },
+      "DGN0305 - PROGRAMAÇÃO VISUAL E MÍDIAS INFORMÁTICAS II": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.34
+      }
+    },
+    "DesvioDeNotas": 0.19651653874419817,
+    "MediaDeNotas": 9.737500000000002,
+    "MediaDeDesvios": 1.2475,
+    "NotaMediana": 9.78
+  },
+  "CAMILA MARIA GRAZIELLE FREITAS": {
+    "Notas": [
+      7.69,
+      8.29,
+      9.2,
+      9.26,
+      9.4
+    ],
+    "Desvios": [
+      1.94,
+      1.89,
+      1.87,
+      3.02,
+      1.5
+    ],
+    "Componentes": {
+      "ART0206 - DRAMATURGIA I": {
+        "Notas": [
+          7.69,
+          9.26
+        ],
+        "Desvios": [
+          1.94,
+          3.02
+        ],
+        "DesvioDeNotas": 0.7849999999999997,
+        "MediaDeNotas": 8.475,
+        "MediaDeDesvios": 2.48,
+        "NotaMediana": 9.26
+      },
+      "ART0203 - HISTORIA DO TEATRO I": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.2
+      },
+      "ART0100 - ÉTICA E PROCESSOS DE FORMAÇÃO": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.4
+      },
+      "ART0223 - O TEXTO NA CENA": {
+        "Notas": [
+          8.29
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.29,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 8.29
+      }
+    },
+    "DesvioDeNotas": 0.6661351214280777,
+    "MediaDeNotas": 8.767999999999999,
+    "MediaDeDesvios": 2.044,
+    "NotaMediana": 9.2
+  },
+  "CLAYTON RODRIGO DA FONSECA MARINHO": {
+    "Notas": [
+      9.09,
+      9.58,
+      9.99
+    ],
+    "Desvios": [
+      1.93,
+      1.37,
+      0.68
+    ],
+    "Componentes": {
+      "DAT0113 - HISTORIA DAS ARTES II": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.09
+      },
+      "DAT0114 - HISTORIA DAS ARTES III": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.58
+      },
+      "DAT0149 - PESQUISA EM ARTES VISUAIS": {
+        "Notas": [
+          9.99
+        ],
+        "Desvios": [
+          0.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.99,
+        "MediaDeDesvios": 0.68,
+        "NotaMediana": 9.99
+      }
+    },
+    "DesvioDeNotas": 0.36790699307780994,
+    "MediaDeNotas": 9.553333333333335,
+    "MediaDeDesvios": 1.3266666666666667,
+    "NotaMediana": 9.58
+  },
+  "DINO LINCOLN FIGUEIROA SANTOS": {
+    "Notas": [
+      7.51,
+      8.63,
+      8.85,
+      9.1,
+      9.1,
+      9.23,
+      9.28,
+      9.32,
+      9.45,
+      9.63,
+      9.68,
+      9.75,
+      9.84
+    ],
+    "Desvios": [
+      2.28,
+      2.32,
+      1.79,
+      1.95,
+      2.01,
+      1.39,
+      2.7,
+      1.61,
+      2.46,
+      1.91,
+      1.43,
+      1.35,
+      1.73
+    ],
+    "Componentes": {
+      "DGN0140 - DESIGN SUSTENTAVEL": {
+        "Notas": [
+          8.85,
+          9.68
+        ],
+        "Desvios": [
+          2.28,
+          1.61
+        ],
+        "DesvioDeNotas": 0.41500000000000004,
+        "MediaDeNotas": 9.265,
+        "MediaDeDesvios": 1.9449999999999998,
+        "NotaMediana": 9.68
+      },
+      "DAT0102 - EXPRESSAO VISUAL II": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          2.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 2.32,
+        "NotaMediana": 9.32
+      },
+      "DGN0203 - PROJETO DE PRODUTO IV": {
+        "Notas": [
+          8.63,
+          9.1,
+          9.23,
+          9.28
+        ],
+        "Desvios": [
+          1.79,
+          1.95,
+          2.46,
+          1.91
+        ],
+        "DesvioDeNotas": 0.25680732076792473,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 2.0275,
+        "NotaMediana": 9.23
+      },
+      "DGN0110 - LEGISLAÇÃO E PROPRIEDADE INTELECTUAL": {
+        "Notas": [
+          9.1,
+          9.63
+        ],
+        "Desvios": [
+          2.01,
+          1.43
+        ],
+        "DesvioDeNotas": 0.26500000000000057,
+        "MediaDeNotas": 9.365,
+        "MediaDeDesvios": 1.7199999999999998,
+        "NotaMediana": 9.63
+      },
+      "DGN0204 - PROJETO DE PRODUTO V": {
+        "Notas": [
+          7.51,
+          9.45,
+          9.75,
+          9.84
+        ],
+        "Desvios": [
+          1.39,
+          2.7,
+          1.35,
+          1.73
+        ],
+        "DesvioDeNotas": 0.9506675286344853,
+        "MediaDeNotas": 9.1375,
+        "MediaDeDesvios": 1.7925,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.590373465191625,
+    "MediaDeNotas": 9.182307692307692,
+    "MediaDeDesvios": 1.917692307692308,
+    "NotaMediana": 9.28
+  },
+  "ELIZABETH ROMANI": {
+    "Notas": [
+      9.4,
+      9.65,
+      9.65,
+      9.66,
+      9.69,
+      9.72,
+      9.74,
+      9.76,
+      9.77,
+      9.77,
+      9.79,
+      9.83,
+      9.84
+    ],
+    "Desvios": [
+      1.03,
+      1.26,
+      1.54,
+      1.17,
+      1.22,
+      1.32,
+      1.54,
+      1.65,
+      1.35,
+      1.29,
+      1.28,
+      1.66,
+      1.48
+    ],
+    "Componentes": {
+      "DGN0860 - OFICINA DE PROCESSOS GRÁFICOS 2": {
+        "Notas": [
+          9.76,
+          9.77
+        ],
+        "Desvios": [
+          1.03,
+          1.65
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.765,
+        "MediaDeDesvios": 1.3399999999999999,
+        "NotaMediana": 9.77
+      },
+      "DGN0302 - PROGRAMAÇÃO VISUAL III": {
+        "Notas": [
+          9.66,
+          9.74,
+          9.83,
+          9.84
+        ],
+        "Desvios": [
+          1.26,
+          1.54,
+          1.35,
+          1.29
+        ],
+        "DesvioDeNotas": 0.07327175444876413,
+        "MediaDeNotas": 9.7675,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.83
+      },
+      "DGN0841 - DESIGN INCLUSIVO E ARTEFATOS GRÁFICOS": {
+        "Notas": [
+          9.65
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.65
+      },
+      "DGN0303 - PROGRAMAÇÃO VISUAL IV": {
+        "Notas": [
+          9.4,
+          9.72,
+          9.77,
+          9.79
+        ],
+        "Desvios": [
+          1.22,
+          1.32,
+          1.28,
+          1.66
+        ],
+        "DesvioDeNotas": 0.1579556899893128,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.77
+      },
+      "DAT0107 - TECNICAS DE REPRODUCAO GRAFICA": {
+        "Notas": [
+          9.65,
+          9.69
+        ],
+        "Desvios": [
+          1.54,
+          1.48
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.69
+      }
+    },
+    "DesvioDeNotas": 0.10900844112584286,
+    "MediaDeNotas": 9.713076923076924,
+    "MediaDeDesvios": 1.3684615384615384,
+    "NotaMediana": 9.74
+  },
+  "EVERARDO ARAUJO RAMOS": {
+    "Notas": [
+      9.06,
+      9.88
+    ],
+    "Desvios": [
+      2.31,
+      0.81
+    ],
+    "Componentes": {
+      "DAT0112 - HISTORIA DAS ARTES I": {
+        "Notas": [
+          9.06
+        ],
+        "Desvios": [
+          2.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 2.31,
+        "NotaMediana": 9.06
+      },
+      "DAT0149 - PESQUISA EM ARTES VISUAIS": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          0.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 0.81,
+        "NotaMediana": 9.88
+      }
+    },
+    "DesvioDeNotas": 0.41000000000000014,
+    "MediaDeNotas": 9.47,
+    "MediaDeDesvios": 1.56,
+    "NotaMediana": 9.88
+  },
+  "HELENA RUGAI BASTOS": {
+    "Notas": [
+      9.01,
+      9.31,
+      9.33,
+      9.43,
+      9.46,
+      9.47,
+      9.48,
+      9.55
+    ],
+    "Desvios": [
+      2.16,
+      1.85,
+      1.66,
+      1.43,
+      1.72,
+      2.25,
+      1.53,
+      1.57
+    ],
+    "Componentes": {
+      "DGN0107 - HISTÓRIA DO DESIGN E DA ARQUITETURA": {
+        "Notas": [
+          9.31,
+          9.55
+        ],
+        "Desvios": [
+          2.16,
+          1.72
+        ],
+        "DesvioDeNotas": 0.1200000000000001,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.55
+      },
+      "DGN0104 - METODOLOGIA DE PROJETO": {
+        "Notas": [
+          9.01,
+          9.33
+        ],
+        "Desvios": [
+          1.85,
+          2.25
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 9.33
+      },
+      "DGN0301 - PROGRAMAÇÃO VISUAL II": {
+        "Notas": [
+          9.43,
+          9.46,
+          9.47,
+          9.48
+        ],
+        "Desvios": [
+          1.66,
+          1.43,
+          1.53,
+          1.57
+        ],
+        "DesvioDeNotas": 0.01870828693387002,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.5475,
+        "NotaMediana": 9.47
+      }
+    },
+    "DesvioDeNotas": 0.158192920195564,
+    "MediaDeNotas": 9.38,
+    "MediaDeDesvios": 1.77125,
+    "NotaMediana": 9.46
+  },
+  "JOANA VIEIRA VIANA": {
+    "Notas": [
+      9.09,
+      9.14,
+      9.32,
+      9.38,
+      9.55
+    ],
+    "Desvios": [
+      1.5,
+      1.79,
+      1.39,
+      1.2,
+      1.14
+    ],
+    "Componentes": {
+      "ART0226 - APRECIACAO CRITICA DO ESPETACULO": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.09
+      },
+      "ART0124 - CENOTEC VII - INTRODUÇÃO AO TEATRO DAS FORMAS ANIMADAS": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.32
+      },
+      "ART0167 - HISTORIA DO TEATRO BRASILEIRO I": {
+        "Notas": [
+          9.14
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.14
+      },
+      "ART0187 - ESTUDOS DA PERFORMANCE": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.55
+      },
+      "ART0168 - HISTORIA DO TEATRO BRASILEIRO II": {
+        "Notas": [
+          9.38
+        ],
+        "Desvios": [
+          1.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.14,
+        "NotaMediana": 9.38
+      }
+    },
+    "DesvioDeNotas": 0.1666853322881173,
+    "MediaDeNotas": 9.296000000000001,
+    "MediaDeDesvios": 1.404,
+    "NotaMediana": 9.32
+  },
+  "JOSE GUILHERME DA SILVA SANTA ROSA": {
+    "Notas": [
+      6.15,
+      7.43,
+      7.81,
+      8.23,
+      8.37,
+      8.56,
+      9.18,
+      9.5
+    ],
+    "Desvios": [
+      2.42,
+      2.73,
+      2.26,
+      2.83,
+      1.86,
+      1.88,
+      1.83,
+      2.03
+    ],
+    "Componentes": {
+      "DGN0304 - PROGRAMAÇÃO VISUAL E MÍDIAS INFORMÁTICAS I": {
+        "Notas": [
+          7.81,
+          8.23,
+          9.18,
+          9.5
+        ],
+        "Desvios": [
+          2.42,
+          2.73,
+          1.86,
+          1.88
+        ],
+        "DesvioDeNotas": 0.6858935777509512,
+        "MediaDeNotas": 8.68,
+        "MediaDeDesvios": 2.2225,
+        "NotaMediana": 9.18
+      },
+      "DGN0123 - ERGONOMIA INFORMACIONAL": {
+        "Notas": [
+          6.15,
+          7.43,
+          8.37,
+          8.56
+        ],
+        "Desvios": [
+          2.26,
+          2.83,
+          1.83,
+          2.03
+        ],
+        "DesvioDeNotas": 0.9543158544213753,
+        "MediaDeNotas": 7.6274999999999995,
+        "MediaDeDesvios": 2.2375,
+        "NotaMediana": 8.37
+      }
+    },
+    "DesvioDeNotas": 0.9836276925239548,
+    "MediaDeNotas": 8.153749999999999,
+    "MediaDeDesvios": 2.23,
+    "NotaMediana": 8.37
+  },
+  "JOSE SAVIO OLIVEIRA DE ARAUJO": {
+    "Notas": [
+      7.84,
+      8.19,
+      8.47,
+      8.54,
+      8.72,
+      8.81,
+      9.13
+    ],
+    "Desvios": [
+      1.96,
+      2.09,
+      2.84,
+      1.85,
+      2.75,
+      1.44,
+      1.95
+    ],
+    "Componentes": {
+      "ART0117 - CENOTEC I: INTRODUÇÃO À CENOGRAFIA": {
+        "Notas": [
+          9.13
+        ],
+        "Desvios": [
+          1.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.13,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 9.13
+      },
+      "ART0234 - MÚSICA NA CENA": {
+        "Notas": [
+          8.54
+        ],
+        "Desvios": [
+          2.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.54,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 8.54
+      },
+      "ART0193 - CENOTEC II: FIGURINO": {
+        "Notas": [
+          7.84,
+          8.81
+        ],
+        "Desvios": [
+          2.84,
+          1.44
+        ],
+        "DesvioDeNotas": 0.4850000000000003,
+        "MediaDeNotas": 8.325,
+        "MediaDeDesvios": 2.1399999999999997,
+        "NotaMediana": 8.81
+      },
+      "ART0195 - CENOTEC IV: MAQUIAGEM": {
+        "Notas": [
+          8.47,
+          8.72
+        ],
+        "Desvios": [
+          1.85,
+          1.95
+        ],
+        "DesvioDeNotas": 0.125,
+        "MediaDeNotas": 8.595,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 8.72
+      },
+      "ART0192 - CENOTEC I: CENÁRIOS": {
+        "Notas": [
+          8.19
+        ],
+        "Desvios": [
+          2.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.19,
+        "MediaDeDesvios": 2.75,
+        "NotaMediana": 8.19
+      }
+    },
+    "DesvioDeNotas": 0.3909486108512612,
+    "MediaDeNotas": 8.528571428571428,
+    "MediaDeDesvios": 2.1257142857142854,
+    "NotaMediana": 8.54
+  },
+  "JOSE VERISSIMO DE SOUSA": {
+    "Notas": [
+      7.52,
+      7.91,
+      8.08,
+      8.82,
+      8.91,
+      9.13,
+      9.2,
+      9.38,
+      9.52,
+      9.73
+    ],
+    "Desvios": [
+      1.89,
+      2.4,
+      2.01,
+      2.22,
+      1.42,
+      2.16,
+      2.94,
+      2.97,
+      2.77,
+      2.26
+    ],
+    "Componentes": {
+      "DAT0263 - ANIMAÇÃO DE MODELOS PARA JOGOS": {
+        "Notas": [
+          9.38
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.38
+      },
+      "DGN0927 - DESIGN DE INTERFACES PARA JOGOS": {
+        "Notas": [
+          7.91,
+          8.91,
+          9.13,
+          9.2
+        ],
+        "Desvios": [
+          2.4,
+          2.01,
+          2.77,
+          2.26
+        ],
+        "DesvioDeNotas": 0.5178018443381599,
+        "MediaDeNotas": 8.7875,
+        "MediaDeDesvios": 2.36,
+        "NotaMediana": 9.13
+      },
+      "DGN0106 - TEORIA DAS MÍDIAS": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          2.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 2.22,
+        "NotaMediana": 8.82
+      },
+      "DGN0926 - CRIAÇÃO DE MODELOS PARA JOGOS": {
+        "Notas": [
+          9.52,
+          9.73
+        ],
+        "Desvios": [
+          1.42,
+          2.16
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.625,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.73
+      },
+      "DGN0305 - PROGRAMAÇÃO VISUAL E MÍDIAS INFORMÁTICAS II": {
+        "Notas": [
+          7.52,
+          8.08
+        ],
+        "Desvios": [
+          2.94,
+          2.97
+        ],
+        "DesvioDeNotas": 0.28000000000000025,
+        "MediaDeNotas": 7.8,
+        "MediaDeDesvios": 2.955,
+        "NotaMediana": 8.08
+      }
+    },
+    "DesvioDeNotas": 0.7032780389006899,
+    "MediaDeNotas": 8.819999999999999,
+    "MediaDeDesvios": 2.304,
+    "NotaMediana": 9.13
+  },
+  "JUAREZ ALVES TORRES": {
+    "Notas": [
+      9.32,
+      9.42,
+      9.5,
+      9.54,
+      9.54,
+      9.6,
+      9.62,
+      9.63,
+      9.7,
+      9.74,
+      9.77,
+      9.77,
+      9.78,
+      9.9
+    ],
+    "Desvios": [
+      1.91,
+      1.42,
+      1.64,
+      1.56,
+      2.18,
+      1.83,
+      1.68,
+      1.73,
+      1.89,
+      1.51,
+      1.11,
+      1.44,
+      1.24,
+      1.44
+    ],
+    "Componentes": {
+      "DGN0103 - DESENHO TECNICO": {
+        "Notas": [
+          9.62,
+          9.7,
+          9.74,
+          9.77
+        ],
+        "Desvios": [
+          1.91,
+          1.42,
+          1.73,
+          1.89
+        ],
+        "DesvioDeNotas": 0.056291651245988755,
+        "MediaDeNotas": 9.7075,
+        "MediaDeDesvios": 1.7375,
+        "NotaMediana": 9.74
+      },
+      "DAT0134 - DESENHO EM COMPUTADOR III": {
+        "Notas": [
+          9.5,
+          9.77,
+          9.78,
+          9.9
+        ],
+        "Desvios": [
+          1.64,
+          1.56,
+          1.51,
+          1.11
+        ],
+        "DesvioDeNotas": 0.14635146053251402,
+        "MediaDeNotas": 9.7375,
+        "MediaDeDesvios": 1.455,
+        "NotaMediana": 9.78
+      },
+      "DGN0101 - DESENHO GEOMÉTRICO": {
+        "Notas": [
+          9.32,
+          9.42,
+          9.54,
+          9.6
+        ],
+        "Desvios": [
+          2.18,
+          1.83,
+          1.44,
+          1.24
+        ],
+        "DesvioDeNotas": 0.10816653826391935,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.6724999999999999,
+        "NotaMediana": 9.54
+      },
+      "DAT0106 - REPRESENTACAO GRAFICA": {
+        "Notas": [
+          9.54,
+          9.63
+        ],
+        "Desvios": [
+          1.68,
+          1.44
+        ],
+        "DesvioDeNotas": 0.04500000000000082,
+        "MediaDeNotas": 9.585,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.15257149545209875,
+    "MediaDeNotas": 9.630714285714285,
+    "MediaDeDesvios": 1.612857142857143,
+    "NotaMediana": 9.63
+  },
+  "KARENINE DE OLIVEIRA PORPINO": {
+    "Notas": [
+      9.36,
+      9.59,
+      9.66,
+      9.71,
+      9.79,
+      9.84,
+      9.85
+    ],
+    "Desvios": [
+      1.26,
+      1.05,
+      1.67,
+      1.2,
+      1.41,
+      0.76,
+      1.51
+    ],
+    "Componentes": {
+      "ART0219 - TECNICA E ESTETICA DA DANCA": {
+        "Notas": [
+          9.66,
+          9.71
+        ],
+        "Desvios": [
+          1.26,
+          1.41
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.685,
+        "MediaDeDesvios": 1.335,
+        "NotaMediana": 9.71
+      },
+      "ART0315 - TRABALHO DE CONCLUSÃO DE CURSO I": {
+        "Notas": [
+          9.85
+        ],
+        "Desvios": [
+          1.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.85,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.85
+      },
+      "ART0317 - DANÇA E EDUCAÇÃO": {
+        "Notas": [
+          9.36,
+          9.59
+        ],
+        "Desvios": [
+          1.67,
+          1.51
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.475,
+        "MediaDeDesvios": 1.5899999999999999,
+        "NotaMediana": 9.59
+      },
+      "ART0218 - PEDAGOGIA DO CORPO": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.84
+      },
+      "DAT0158 - CORPO E ESPAÇO": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          0.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 0.76,
+        "NotaMediana": 9.79
+      }
+    },
+    "DesvioDeNotas": 0.15954015552358536,
+    "MediaDeNotas": 9.685714285714285,
+    "MediaDeDesvios": 1.2657142857142856,
+    "NotaMediana": 9.71
+  },
+  "KILDER CESAR DE ARAUJO RIBEIRO": {
+    "Notas": [
+      6.55,
+      7.89,
+      8.23,
+      8.26,
+      8.37,
+      8.39,
+      8.4,
+      8.66,
+      8.7,
+      8.84,
+      8.89,
+      9.18,
+      9.46,
+      9.68
+    ],
+    "Desvios": [
+      2.17,
+      2.06,
+      2.47,
+      1.95,
+      2.19,
+      2.16,
+      1.97,
+      2.1,
+      2.97,
+      2.78,
+      1.53,
+      3.12,
+      1.28,
+      1.77
+    ],
+    "Componentes": {
+      "DGN0109 - DESIGN E INDÚSTRIA": {
+        "Notas": [
+          7.89,
+          8.66
+        ],
+        "Desvios": [
+          2.17,
+          2.97
+        ],
+        "DesvioDeNotas": 0.38500000000000023,
+        "MediaDeNotas": 8.275,
+        "MediaDeDesvios": 2.5700000000000003,
+        "NotaMediana": 8.66
+      },
+      "DGN0108 - DESIGN, PUBLICIDADE E MERCADO": {
+        "Notas": [
+          8.26,
+          8.7
+        ],
+        "Desvios": [
+          2.06,
+          2.78
+        ],
+        "DesvioDeNotas": 0.21999999999999975,
+        "MediaDeNotas": 8.48,
+        "MediaDeDesvios": 2.42,
+        "NotaMediana": 8.7
+      },
+      "DAT0102 - EXPRESSAO VISUAL II": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          2.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 2.47,
+        "NotaMediana": 8.84
+      },
+      "DGN0201 - PROJETO DE PRODUTO II": {
+        "Notas": [
+          6.55,
+          8.37,
+          9.18,
+          9.46
+        ],
+        "Desvios": [
+          1.95,
+          2.19,
+          1.53,
+          3.12
+        ],
+        "DesvioDeNotas": 1.135231253974273,
+        "MediaDeNotas": 8.389999999999999,
+        "MediaDeDesvios": 2.1975,
+        "NotaMediana": 9.18
+      },
+      "DGN0830 - HISTÓRIA DO CALÇADO E DO VESTUÁRIO": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 9.68
+      },
+      "DGN0206 - PROJETO DE PRODUTO VII": {
+        "Notas": [
+          8.23,
+          8.39,
+          8.4,
+          8.89
+        ],
+        "Desvios": [
+          1.97,
+          2.1,
+          1.28,
+          1.77
+        ],
+        "DesvioDeNotas": 0.2475252512371213,
+        "MediaDeNotas": 8.477500000000001,
+        "MediaDeDesvios": 1.7800000000000002,
+        "NotaMediana": 8.4
+      }
+    },
+    "DesvioDeNotas": 0.7287926834911312,
+    "MediaDeNotas": 8.535714285714285,
+    "MediaDeDesvios": 2.18,
+    "NotaMediana": 8.66
+  },
+  "LARISSA KELLY DE OLIVEIRA MARQUES": {
+    "Notas": [
+      9.42,
+      9.43,
+      9.61,
+      9.65,
+      9.69,
+      9.7,
+      9.77,
+      9.82
+    ],
+    "Desvios": [
+      1.36,
+      1.32,
+      1.67,
+      1.63,
+      1.51,
+      1.17,
+      1.26,
+      0.74
+    ],
+    "Componentes": {
+      "ART0306 - COREOLOGIA": {
+        "Notas": [
+          9.61,
+          9.7
+        ],
+        "Desvios": [
+          1.36,
+          1.51
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.655,
+        "MediaDeDesvios": 1.435,
+        "NotaMediana": 9.7
+      },
+      "ART0239 - METODOLOGIA DO ENSINO DA DANÇA": {
+        "Notas": [
+          9.65,
+          9.69
+        ],
+        "Desvios": [
+          1.32,
+          1.17
+        ],
+        "DesvioDeNotas": 0.019999999999999574,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.245,
+        "NotaMediana": 9.69
+      },
+      "ART0242 - COREOLOGIA II": {
+        "Notas": [
+          9.42,
+          9.77
+        ],
+        "Desvios": [
+          1.67,
+          1.26
+        ],
+        "DesvioDeNotas": 0.17499999999999982,
+        "MediaDeNotas": 9.594999999999999,
+        "MediaDeDesvios": 1.4649999999999999,
+        "NotaMediana": 9.77
+      },
+      "ART0303 - PRÁTICAS EDUCATIVAS EM DANÇA CLÁSSICA": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.43
+      },
+      "DAT0158 - CORPO E ESPAÇO": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          0.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 0.74,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.13637608844661883,
+    "MediaDeNotas": 9.63625,
+    "MediaDeDesvios": 1.3325,
+    "NotaMediana": 9.69
+  },
+  "LAURA MARIA DE FIGUEIREDO": {
+    "Notas": [
+      8.49,
+      8.61,
+      9.12,
+      9.12,
+      9.15,
+      9.55,
+      9.63,
+      9.77,
+      9.8
+    ],
+    "Desvios": [
+      0.88,
+      1.17,
+      1.52,
+      1.67,
+      1.69,
+      2.04,
+      1.27,
+      0.74,
+      1.23
+    ],
+    "Componentes": {
+      "ART0127 - CENOTEC X - ESTUDOS ESTÉTICOS DE ILUMINAÇÃO CÊNICA": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          0.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 0.88,
+        "NotaMediana": 9.63
+      },
+      "ART0196 - CENOTEC V: SONOPLASTIA": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.55
+      },
+      "ART0123 - PRÁTICAS PEDAGÓGICAS DO TEATRO": {
+        "Notas": [
+          9.12
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.12,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.12
+      },
+      "ART0179 - PRODUÇÃO TEATRAL": {
+        "Notas": [
+          8.61,
+          9.12
+        ],
+        "Desvios": [
+          1.67,
+          1.23
+        ],
+        "DesvioDeNotas": 0.2549999999999999,
+        "MediaDeNotas": 8.864999999999998,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.12
+      },
+      "ART0194 - CENOTEC III: ILUMINAÇÃO": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.15
+      },
+      "ART0178 - TEATRO E EDUCAÇÃO: PRATICAS PEDAGOGICAS DO TEATRO": {
+        "Notas": [
+          8.49
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.49,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 8.49
+      },
+      "ART0197 - CENOTEC VI: ARQUITETURA E TECNOLOGIA TEATRAL": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.77
+      },
+      "ART0230 - ILUMINACAO CENICA": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.74,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.4519450419991955,
+    "MediaDeNotas": 9.248888888888889,
+    "MediaDeDesvios": 1.3566666666666665,
+    "NotaMediana": 9.15
+  },
+  "LAURITA RICARDO DE SALLES": {
+    "Notas": [
+      8.86,
+      9.41,
+      9.48,
+      9.53,
+      9.64,
+      9.66
+    ],
+    "Desvios": [
+      1.22,
+      2.16,
+      1.38,
+      1.65,
+      1.04,
+      0.98
+    ],
+    "Componentes": {
+      "DAT0127 - GRAVURA II": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.48
+      },
+      "DAT0107 - TECNICAS DE REPRODUCAO GRAFICA": {
+        "Notas": [
+          8.86
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.86,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 8.86
+      },
+      "DAT0105 - GRAVURA I": {
+        "Notas": [
+          9.64,
+          9.66
+        ],
+        "Desvios": [
+          1.38,
+          1.65
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.515,
+        "NotaMediana": 9.66
+      },
+      "DAT0149 - PESQUISA EM ARTES VISUAIS": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.41
+      },
+      "DAT0108 - PROJETO GRAFICO": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.53
+      }
+    },
+    "DesvioDeNotas": 0.26919633479426647,
+    "MediaDeNotas": 9.43,
+    "MediaDeDesvios": 1.405,
+    "NotaMediana": 9.53
+  },
+  "LEONIDAS DE OLIVEIRA NETO": {
+    "Notas": [
+      8.27,
+      8.63,
+      8.64,
+      8.7,
+      8.88,
+      9.2,
+      9.2,
+      9.28,
+      9.43,
+      9.47,
+      9.53,
+      9.57,
+      9.57,
+      9.59,
+      9.61,
+      9.73
+    ],
+    "Desvios": [
+      1.46,
+      1.66,
+      2.31,
+      1.43,
+      1.35,
+      1.86,
+      2.61,
+      1.08,
+      1.3,
+      1.98,
+      1.49,
+      1.6,
+      1.85,
+      1.81,
+      2.17,
+      1.14
+    ],
+    "Componentes": {
+      "ART0272 - CINESIOLOGIA": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.2
+      },
+      "ART0217 - CONSCIENTIZACAO CORPORAL": {
+        "Notas": [
+          9.2,
+          9.28
+        ],
+        "Desvios": [
+          1.66,
+          1.85
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.239999999999998,
+        "MediaDeDesvios": 1.755,
+        "NotaMediana": 9.28
+      },
+      "DEF0151 - DESENVOLVIMENTO MOTOR": {
+        "Notas": [
+          8.64
+        ],
+        "Desvios": [
+          2.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.64,
+        "MediaDeDesvios": 2.31,
+        "NotaMediana": 8.64
+      },
+      "DOD0204 - DETERMINANTES BIOLÓGICOS E SOCIAIS DAS DOENÇAS BIOFILME-DEPENDENTES": {
+        "Notas": [
+          8.88,
+          9.57,
+          9.57,
+          9.73
+        ],
+        "Desvios": [
+          1.43,
+          1.35,
+          1.86,
+          2.61
+        ],
+        "DesvioDeNotas": 0.3284337832805874,
+        "MediaDeNotas": 9.4375,
+        "MediaDeDesvios": 1.8125,
+        "NotaMediana": 9.57
+      },
+      "ART0277 - FISIOLOGIA DO MOVIMENTO APLICADA À DANÇA": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.53
+      },
+      "DEF0057 - METODOLOGIA DA MUSCULACAO": {
+        "Notas": [
+          9.43,
+          9.61
+        ],
+        "Desvios": [
+          1.3,
+          1.14
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.61
+      },
+      "DSC0090 - SAUDE E CIDADANIA": {
+        "Notas": [
+          8.7
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.7,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 8.7
+      },
+      "DEF0647 - CINESIOLOGIA": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.59
+      },
+      "ART0266 - ASPECTOS BIODINÂMICOS E FISIOPATOLÓGICOS APLICADOS À DANÇA": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.47
+      },
+      "ART0093 - ESTÁGIO SUPERVISIONADO OBRIGATÓRIO II": {
+        "Notas": [
+          8.63
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.63,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 8.63
+      },
+      "ART0096 - ESTÁGIO SUPERVISIONADO OBRIGATÓRIO IV": {
+        "Notas": [
+          8.27
+        ],
+        "Desvios": [
+          2.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.27,
+        "MediaDeDesvios": 2.17,
+        "NotaMediana": 8.27
+      }
+    },
+    "DesvioDeNotas": 0.4309274155817891,
+    "MediaDeNotas": 9.20625,
+    "MediaDeDesvios": 1.69375,
+    "NotaMediana": 9.43
+  },
+  "LORENA GOMES TORRES DE OLIVEIRA": {
+    "Notas": [
+      9.24,
+      9.29,
+      9.38,
+      9.45,
+      9.54,
+      9.59,
+      9.64,
+      9.66,
+      9.67,
+      9.72,
+      9.74,
+      9.74,
+      9.88,
+      9.9
+    ],
+    "Desvios": [
+      1.1,
+      1.62,
+      1.67,
+      1.71,
+      1.98,
+      1.95,
+      1.79,
+      1.61,
+      1.12,
+      1.75,
+      1.18,
+      1,
+      1.49,
+      1.31
+    ],
+    "Componentes": {
+      "DAT0139 - ANTROPOLOGIA CULTURAL": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.64
+      },
+      "DGN0121 - ERGONOMIA DO PRODUTO I": {
+        "Notas": [
+          9.54,
+          9.59
+        ],
+        "Desvios": [
+          1.62,
+          1.61
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.565,
+        "MediaDeDesvios": 1.6150000000000002,
+        "NotaMediana": 9.59
+      },
+      "DGN0205 - PROJETO DE PRODUTO VI": {
+        "Notas": [
+          9.38,
+          9.67,
+          9.72,
+          9.88
+        ],
+        "Desvios": [
+          1.67,
+          1.71,
+          1.12,
+          1.75
+        ],
+        "DesvioDeNotas": 0.1806066167115701,
+        "MediaDeNotas": 9.662500000000001,
+        "MediaDeDesvios": 1.5625,
+        "NotaMediana": 9.72
+      },
+      "DGN0122 - ERGONOMIA DO PRODUTO II": {
+        "Notas": [
+          9.24,
+          9.45
+        ],
+        "Desvios": [
+          1.98,
+          1.49
+        ],
+        "DesvioDeNotas": 0.10499999999999954,
+        "MediaDeNotas": 9.344999999999999,
+        "MediaDeDesvios": 1.7349999999999999,
+        "NotaMediana": 9.45
+      },
+      "DGN0125 - OFICINA DE MODELOS E MATERIAIS II": {
+        "Notas": [
+          9.29,
+          9.74
+        ],
+        "Desvios": [
+          1.95,
+          1.79
+        ],
+        "DesvioDeNotas": 0.22500000000000053,
+        "MediaDeNotas": 9.515,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.74
+      },
+      "DGN0330 - DESIGN DE SERVIÇOS": {
+        "Notas": [
+          9.74,
+          9.9
+        ],
+        "Desvios": [
+          1.18,
+          1
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.0899999999999999,
+        "NotaMediana": 9.9
+      },
+      "DGN0131 - USO DA COR NO DESIGN": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.31
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.19498822570418298,
+    "MediaDeNotas": 9.602857142857143,
+    "MediaDeDesvios": 1.5199999999999998,
+    "NotaMediana": 9.66
+  },
+  "LUCIANO CESAR BEZERRA BARBOSA": {
+    "Notas": [
+      8.65,
+      8.69,
+      8.8,
+      8.91,
+      9.07,
+      9.23,
+      9.3,
+      9.48,
+      9.53,
+      9.64,
+      9.66,
+      9.74,
+      9.77,
+      9.8
+    ],
+    "Desvios": [
+      1.27,
+      2.07,
+      2.02,
+      1.85,
+      1.54,
+      1.79,
+      1.74,
+      2.93,
+      2.05,
+      1.47,
+      1.52,
+      1.07,
+      1.49,
+      1.91
+    ],
+    "Componentes": {
+      "DGN0880 - PROJETO DE INTERIORES": {
+        "Notas": [
+          9.64,
+          9.8
+        ],
+        "Desvios": [
+          1.27,
+          1.47
+        ],
+        "DesvioDeNotas": 0.08000000000000007,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.8
+      },
+      "DGN0201 - PROJETO DE PRODUTO II": {
+        "Notas": [
+          8.69,
+          9.07
+        ],
+        "Desvios": [
+          2.07,
+          2.02
+        ],
+        "DesvioDeNotas": 0.1900000000000004,
+        "MediaDeNotas": 8.879999999999999,
+        "MediaDeDesvios": 2.045,
+        "NotaMediana": 9.07
+      },
+      "DAT0134 - DESENHO EM COMPUTADOR III": {
+        "Notas": [
+          9.48,
+          9.53,
+          9.66,
+          9.74
+        ],
+        "Desvios": [
+          1.85,
+          1.54,
+          1.52,
+          1.07
+        ],
+        "DesvioDeNotas": 0.10304731922762482,
+        "MediaDeNotas": 9.6025,
+        "MediaDeDesvios": 1.495,
+        "NotaMediana": 9.66
+      },
+      "DGN0202 - PROJETO DE PRODUTO III": {
+        "Notas": [
+          8.8,
+          8.91,
+          9.23,
+          9.3
+        ],
+        "Desvios": [
+          1.79,
+          1.74,
+          1.49,
+          1.91
+        ],
+        "DesvioDeNotas": 0.210119013894507,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 1.7325000000000002,
+        "NotaMediana": 9.23
+      },
+      "DAT0111 - DESENHO EM COMPUTADOR II": {
+        "Notas": [
+          8.65,
+          9.77
+        ],
+        "Desvios": [
+          2.93,
+          2.05
+        ],
+        "DesvioDeNotas": 0.5599999999999996,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 2.49,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.4008161316970307,
+    "MediaDeNotas": 9.305000000000001,
+    "MediaDeDesvios": 1.7657142857142853,
+    "NotaMediana": 9.48
+  },
+  "LUIZA FALCAO SOARES CUNHA": {
+    "Notas": [
+      9.47,
+      9.53,
+      9.57,
+      9.57,
+      9.61,
+      9.62,
+      9.64,
+      9.69,
+      9.7,
+      9.75,
+      9.89
+    ],
+    "Desvios": [
+      1.96,
+      1.24,
+      1.6,
+      1.59,
+      1.51,
+      0.77,
+      1.62,
+      1.2,
+      1.51,
+      1.86,
+      1.48
+    ],
+    "Componentes": {
+      "DGN0300 - PROGRAMAÇÃO VISUAL I": {
+        "Notas": [
+          9.53,
+          9.61,
+          9.7,
+          9.75
+        ],
+        "Desvios": [
+          1.96,
+          1.24,
+          1.62,
+          1.2
+        ],
+        "DesvioDeNotas": 0.0843726851534312,
+        "MediaDeNotas": 9.647499999999999,
+        "MediaDeDesvios": 1.5050000000000001,
+        "NotaMediana": 9.7
+      },
+      "DAT0101 - EXPRESSAO VISUAL I": {
+        "Notas": [
+          9.47,
+          9.57,
+          9.64,
+          9.69
+        ],
+        "Desvios": [
+          1.6,
+          1.59,
+          1.51,
+          1.86
+        ],
+        "DesvioDeNotas": 0.0825757228245684,
+        "MediaDeNotas": 9.5925,
+        "MediaDeDesvios": 1.6400000000000001,
+        "NotaMediana": 9.64
+      },
+      "DAT0115 - FUNDAMENTOS DA LINGUAGEM VISUAL": {
+        "Notas": [
+          9.57,
+          9.62
+        ],
+        "Desvios": [
+          1.51,
+          1.48
+        ],
+        "DesvioDeNotas": 0.02499999999999947,
+        "MediaDeNotas": 9.594999999999999,
+        "MediaDeDesvios": 1.495,
+        "NotaMediana": 9.62
+      },
+      "DGN0870 - DESENHO DE TIPOS": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          0.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 0.77,
+        "NotaMediana": 9.89
+      }
+    },
+    "DesvioDeNotas": 0.10987596312536822,
+    "MediaDeNotas": 9.64,
+    "MediaDeDesvios": 1.4854545454545451,
+    "NotaMediana": 9.62
+  },
+  "MAKARIOS MAIA BARBOSA": {
+    "Notas": [
+      7.41,
+      7.67,
+      7.96,
+      9.6
+    ],
+    "Desvios": [
+      2.67,
+      2.42,
+      2.57,
+      1.74
+    ],
+    "Componentes": {
+      "ART0175 - ENCENAÇÃO I": {
+        "Notas": [
+          7.41,
+          7.67
+        ],
+        "Desvios": [
+          2.67,
+          2.57
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 7.54,
+        "MediaDeDesvios": 2.62,
+        "NotaMediana": 7.67
+      },
+      "ART0224 - ANALISE DAS FORMAS ESPETACULARES": {
+        "Notas": [
+          7.96
+        ],
+        "Desvios": [
+          2.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.96,
+        "MediaDeDesvios": 2.42,
+        "NotaMediana": 7.96
+      },
+      "ART0028 - ENCENACAO I": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.8538442480921211,
+    "MediaDeNotas": 8.16,
+    "MediaDeDesvios": 2.35,
+    "NotaMediana": 7.96
+  },
+  "MARCILIO DE SOUZA VIEIRA": {
+    "Notas": [
+      7.65,
+      8.22,
+      8.84,
+      9.09,
+      9.21,
+      9.45
+    ],
+    "Desvios": [
+      1.78,
+      1.77,
+      1.91,
+      2.41,
+      2.42,
+      1.74
+    ],
+    "Componentes": {
+      "ART0304 - PRÁTICAS EDUCATIVAS EM DANÇA MODERNA": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.78
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.45
+      },
+      "ART0302 - PRÁTICAS EDUCATIVAS EM DANÇA POPULAR": {
+        "Notas": [
+          8.22,
+          9.21
+        ],
+        "Desvios": [
+          1.77,
+          2.42
+        ],
+        "DesvioDeNotas": 0.4950000000000001,
+        "MediaDeNotas": 8.715,
+        "MediaDeDesvios": 2.0949999999999998,
+        "NotaMediana": 9.21
+      },
+      "ART0220 - DANCA NO RN": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          1.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 8.84
+      },
+      "ART0305 - PRÁTICAS EDUCATIVAS EM DANÇA CONTEMPORÂNEA": {
+        "Notas": [
+          7.65
+        ],
+        "Desvios": [
+          2.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.65,
+        "MediaDeDesvios": 2.41,
+        "NotaMediana": 7.65
+      },
+      "ART0315 - TRABALHO DE CONCLUSÃO DE CURSO I": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.09
+      }
+    },
+    "DesvioDeNotas": 0.6212800406329568,
+    "MediaDeNotas": 8.743333333333332,
+    "MediaDeDesvios": 2.005,
+    "NotaMediana": 9.09
+  },
+  "MARCOS ALBERTO ANDRUCHAK": {
+    "Notas": [
+      6.84,
+      7.09,
+      7.45,
+      7.65,
+      7.65,
+      7.67,
+      7.7,
+      7.99,
+      8.1,
+      8.25,
+      8.31,
+      8.98,
+      8.99
+    ],
+    "Desvios": [
+      2.59,
+      3.38,
+      2.74,
+      2.43,
+      2.96,
+      2.91,
+      1.75,
+      3.03,
+      2.53,
+      2.49,
+      1.55,
+      1.94,
+      1.86
+    ],
+    "Componentes": {
+      "DAT0102 - EXPRESSAO VISUAL II": {
+        "Notas": [
+          7.09,
+          7.65,
+          7.65,
+          8.1
+        ],
+        "Desvios": [
+          2.59,
+          3.38,
+          3.03,
+          2.53
+        ],
+        "DesvioDeNotas": 0.3581462690019261,
+        "MediaDeNotas": 7.6225000000000005,
+        "MediaDeDesvios": 2.8825,
+        "NotaMediana": 7.65
+      },
+      "DAT0104 - DESENHO DE OBSERVACAO I": {
+        "Notas": [
+          6.84,
+          7.99,
+          8.31,
+          8.99
+        ],
+        "Desvios": [
+          2.74,
+          2.43,
+          2.49,
+          1.55
+        ],
+        "DesvioDeNotas": 0.7774437278671686,
+        "MediaDeNotas": 8.0325,
+        "MediaDeDesvios": 2.3025,
+        "NotaMediana": 8.31
+      },
+      "DGN0120 - DESIGN GRAFICO,ANIMADO E INTERATIVO": {
+        "Notas": [
+          7.45,
+          7.67,
+          7.7,
+          8.25
+        ],
+        "Desvios": [
+          2.96,
+          2.91,
+          1.94,
+          1.86
+        ],
+        "DesvioDeNotas": 0.29481986025368095,
+        "MediaDeNotas": 7.7675,
+        "MediaDeDesvios": 2.4175,
+        "NotaMediana": 7.7
+      },
+      "DAT0134 - DESENHO EM COMPUTADOR III": {
+        "Notas": [
+          8.98
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 8.98
+      }
+    },
+    "DesvioDeNotas": 0.613516394943041,
+    "MediaDeNotas": 7.897692307692308,
+    "MediaDeDesvios": 2.473846153846154,
+    "NotaMediana": 7.7
+  },
+  "MARCOS BRAGATO": {
+    "Notas": [
+      8.9,
+      8.97,
+      9.03,
+      9.07,
+      9.16,
+      9.31,
+      9.47
+    ],
+    "Desvios": [
+      2.06,
+      2.27,
+      1.8,
+      1.72,
+      1.34,
+      1.83,
+      1.67
+    ],
+    "Componentes": {
+      "ART0307 - COMPOSIÇÃO COREOGRAFICA": {
+        "Notas": [
+          8.9
+        ],
+        "Desvios": [
+          2.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 2.06,
+        "NotaMediana": 8.9
+      },
+      "ART0301 - HISTÓRIA DA DANÇA": {
+        "Notas": [
+          8.97,
+          9.47
+        ],
+        "Desvios": [
+          2.27,
+          1.72
+        ],
+        "DesvioDeNotas": 0.25,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.995,
+        "NotaMediana": 9.47
+      },
+      "ART0308 - FILOSOFIAS DO CORPO": {
+        "Notas": [
+          9.03,
+          9.31
+        ],
+        "Desvios": [
+          1.8,
+          1.83
+        ],
+        "DesvioDeNotas": 0.14000000000000057,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 1.815,
+        "NotaMediana": 9.31
+      },
+      "ART0240 - METODOLOGIA DO TRABALHO CIENTÍFICO": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.07
+      },
+      "ART0303 - PRÁTICAS EDUCATIVAS EM DANÇA CLÁSSICA": {
+        "Notas": [
+          9.16
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.16
+      }
+    },
+    "DesvioDeNotas": 0.18554937733275065,
+    "MediaDeNotas": 9.129999999999999,
+    "MediaDeDesvios": 1.8128571428571427,
+    "NotaMediana": 9.07
+  },
+  "MARIA DE LURDES BARROS DA PAIXAO": {
+    "Notas": [
+      8.75,
+      8.79,
+      9.24,
+      9.32,
+      9.37,
+      9.43,
+      9.5
+    ],
+    "Desvios": [
+      1.39,
+      2.33,
+      2.57,
+      2.17,
+      1.56,
+      1.71,
+      1.63
+    ],
+    "Componentes": {
+      "ART0307 - COMPOSIÇÃO COREOGRAFICA": {
+        "Notas": [
+          9.24,
+          9.5
+        ],
+        "Desvios": [
+          1.39,
+          2.17
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.370000000000001,
+        "MediaDeDesvios": 1.7799999999999998,
+        "NotaMediana": 9.5
+      },
+      "ART0241 - DANÇA E NOVAS TECNOLOGIAS": {
+        "Notas": [
+          8.79,
+          9.43
+        ],
+        "Desvios": [
+          2.33,
+          1.71
+        ],
+        "DesvioDeNotas": 0.3200000000000003,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 9.43
+      },
+      "ART0310 - LABORATÓRIO DE COMPOSIÇÃO COREOGRÁFICA I": {
+        "Notas": [
+          8.75,
+          9.32
+        ],
+        "Desvios": [
+          2.57,
+          1.63
+        ],
+        "DesvioDeNotas": 0.28500000000000014,
+        "MediaDeNotas": 9.035,
+        "MediaDeDesvios": 2.0999999999999996,
+        "NotaMediana": 9.32
+      },
+      "ART0267 - DANÇA, AFRODESCENDÊNCIA E QUESTÕES CONTEMPORÂNEAS ESPETACULARES": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.2824383624287406,
+    "MediaDeNotas": 9.200000000000001,
+    "MediaDeDesvios": 1.9085714285714286,
+    "NotaMediana": 9.32
+  },
+  "MARIA HELENA BRAGA E VAZ DA COSTA": {
+    "Notas": [
+      8.84,
+      9.12,
+      9.48,
+      9.61,
+      9.65,
+      9.68,
+      9.82
+    ],
+    "Desvios": [
+      1.91,
+      2.18,
+      1.6,
+      1.78,
+      1.63,
+      0.97,
+      2.02
+    ],
+    "Componentes": {
+      "DAT0129 - CINEMA I": {
+        "Notas": [
+          9.61,
+          9.65
+        ],
+        "Desvios": [
+          1.91,
+          1.63
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.629999999999999,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.65
+      },
+      "DAT0142 - PSICOLOGIA DAS ARTES": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          2.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 2.18,
+        "NotaMediana": 8.84
+      },
+      "DAT0130 - CINEMA II": {
+        "Notas": [
+          9.68,
+          9.82
+        ],
+        "Desvios": [
+          1.6,
+          0.97
+        ],
+        "DesvioDeNotas": 0.07000000000000028,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.2850000000000001,
+        "NotaMediana": 9.82
+      },
+      "DAT0148 - MÉTODOS E TÉCNICAS DE PESQUISA": {
+        "Notas": [
+          9.12,
+          9.48
+        ],
+        "Desvios": [
+          1.78,
+          2.02
+        ],
+        "DesvioDeNotas": 0.1800000000000006,
+        "MediaDeNotas": 9.3,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.48
+      }
+    },
+    "DesvioDeNotas": 0.3244650227996976,
+    "MediaDeNotas": 9.457142857142857,
+    "MediaDeDesvios": 1.727142857142857,
+    "NotaMediana": 9.61
+  },
+  "MAYRA MONTENEGRO DE SOUZA": {
+    "Notas": [
+      9,
+      9.27,
+      9.28,
+      9.36,
+      9.38,
+      9.45,
+      9.51,
+      9.53,
+      9.55,
+      9.56,
+      9.56,
+      9.57,
+      9.6,
+      9.61,
+      9.62,
+      9.63,
+      9.66,
+      9.67,
+      9.73,
+      9.77,
+      9.84
+    ],
+    "Desvios": [
+      1.32,
+      1.47,
+      1.14,
+      1.06,
+      1.3,
+      1.64,
+      1.05,
+      1.13,
+      1.31,
+      1.01,
+      1.04,
+      1.22,
+      1.23,
+      1.19,
+      1.57,
+      0.97,
+      1.37,
+      1.31,
+      1.17,
+      1.13,
+      1.55
+    ],
+    "Componentes": {
+      "ART0115 - CANTO PARA ATUAÇÃO": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.56
+      },
+      "ART0111 - PRÁTICAS VOCAIS I": {
+        "Notas": [
+          9.62,
+          9.67
+        ],
+        "Desvios": [
+          1.47,
+          1.14
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.645,
+        "MediaDeDesvios": 1.305,
+        "NotaMediana": 9.67
+      },
+      "ART0113 - PRÁTICAS VOCAIS III": {
+        "Notas": [
+          9.36,
+          9.77
+        ],
+        "Desvios": [
+          1.06,
+          1.3
+        ],
+        "DesvioDeNotas": 0.20500000000000007,
+        "MediaDeNotas": 9.565,
+        "MediaDeDesvios": 1.1800000000000002,
+        "NotaMediana": 9.77
+      },
+      "ART0173 - CANTO PARA O ATOR I": {
+        "Notas": [
+          9.38,
+          9.6,
+          9.66
+        ],
+        "Desvios": [
+          1.64,
+          1.05,
+          1.37
+        ],
+        "DesvioDeNotas": 0.12036980056845156,
+        "MediaDeNotas": 9.546666666666667,
+        "MediaDeDesvios": 1.3533333333333335,
+        "NotaMediana": 9.6
+      },
+      "ART0154 - EXPRESSÃO VOCAL II": {
+        "Notas": [
+          9,
+          9.28,
+          9.45,
+          9.53
+        ],
+        "Desvios": [
+          1.13,
+          1.31,
+          1.31,
+          1.17
+        ],
+        "DesvioDeNotas": 0.20303940504246926,
+        "MediaDeNotas": 9.315,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.45
+      },
+      "ART0164 - EXPRESSÃO VOCAL IV": {
+        "Notas": [
+          9.27,
+          9.61,
+          9.63
+        ],
+        "Desvios": [
+          1.01,
+          1.13,
+          1.55
+        ],
+        "DesvioDeNotas": 0.16519348924485183,
+        "MediaDeNotas": 9.503333333333332,
+        "MediaDeDesvios": 1.2299999999999998,
+        "NotaMediana": 9.61
+      },
+      "ART0234 - MÚSICA NA CENA": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.55
+      },
+      "ART0174 - CANTO PARA O ATOR II": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.57
+      },
+      "ART0153 - EXPRESSÃO VOCAL I": {
+        "Notas": [
+          9.51,
+          9.84
+        ],
+        "Desvios": [
+          1.23,
+          1.19
+        ],
+        "DesvioDeNotas": 0.16500000000000004,
+        "MediaDeNotas": 9.675,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.84
+      },
+      "ART0163 - EXPRESSÃO VOCAL III": {
+        "Notas": [
+          9.56,
+          9.73
+        ],
+        "Desvios": [
+          1.57,
+          0.97
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.645,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.18677475004998895,
+    "MediaDeNotas": 9.53095238095238,
+    "MediaDeDesvios": 1.2466666666666666,
+    "NotaMediana": 9.56
+  },
+  "MELISSA DOS SANTOS LOPES": {
+    "Notas": [
+      8.68,
+      8.81,
+      8.95,
+      8.95,
+      9.23,
+      9.24,
+      9.25,
+      9.28,
+      9.32,
+      9.33,
+      9.47,
+      9.47,
+      9.49,
+      9.61,
+      9.61,
+      9.64,
+      9.69,
+      9.71
+    ],
+    "Desvios": [
+      2.13,
+      1.81,
+      1.45,
+      1.3,
+      1.66,
+      1.52,
+      1.65,
+      1.38,
+      1.45,
+      1.28,
+      1.79,
+      1.39,
+      1.49,
+      1.44,
+      1.37,
+      1.44,
+      1.28,
+      1.45
+    ],
+    "Componentes": {
+      "ART0107 - PRÁTICAS CORPORAIS I": {
+        "Notas": [
+          8.68,
+          9.25
+        ],
+        "Desvios": [
+          2.13,
+          1.81
+        ],
+        "DesvioDeNotas": 0.28500000000000014,
+        "MediaDeNotas": 8.965,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.25
+      },
+      "ART0109 - PRÁTICAS CORPORAIS III": {
+        "Notas": [
+          9.64,
+          9.71
+        ],
+        "Desvios": [
+          1.45,
+          1.3
+        ],
+        "DesvioDeNotas": 0.03500000000000014,
+        "MediaDeNotas": 9.675,
+        "MediaDeDesvios": 1.375,
+        "NotaMediana": 9.71
+      },
+      "ART0150 - EXPRESSÃO CORPORAL II": {
+        "Notas": [
+          8.81,
+          9.24,
+          9.32,
+          9.47
+        ],
+        "Desvios": [
+          1.66,
+          1.52,
+          1.49,
+          1.44
+        ],
+        "DesvioDeNotas": 0.2452549693686144,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.5274999999999999,
+        "NotaMediana": 9.32
+      },
+      "ART0152 - EXPRESSÃO CORPORAL IV": {
+        "Notas": [
+          9.28,
+          9.33,
+          9.61,
+          9.61
+        ],
+        "Desvios": [
+          1.65,
+          1.38,
+          1.37,
+          1.44
+        ],
+        "DesvioDeNotas": 0.15352117117844027,
+        "MediaDeNotas": 9.4575,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.61
+      },
+      "ART0145 - EXPRESSÃO CORPORAL I": {
+        "Notas": [
+          9.47,
+          9.69
+        ],
+        "Desvios": [
+          1.45,
+          1.28
+        ],
+        "DesvioDeNotas": 0.10999999999999943,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.365,
+        "NotaMediana": 9.69
+      },
+      "ART0151 - EXPRESSÃO CORPORAL III": {
+        "Notas": [
+          9.23,
+          9.49
+        ],
+        "Desvios": [
+          1.79,
+          1.39
+        ],
+        "DesvioDeNotas": 0.1299999999999999,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.5899999999999999,
+        "NotaMediana": 9.49
+      },
+      "ART0201 - JOGO E CENA II": {
+        "Notas": [
+          8.95,
+          8.95
+        ],
+        "Desvios": [
+          1.28,
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 1.365,
+        "NotaMediana": 8.95
+      }
+    },
+    "DesvioDeNotas": 0.29796066108725766,
+    "MediaDeNotas": 9.318333333333332,
+    "MediaDeDesvios": 1.5155555555555555,
+    "NotaMediana": 9.33
+  },
+  "NAIRA NEIDE CIOTTI": {
+    "Notas": [
+      7.84,
+      8.38,
+      8.64,
+      9.25,
+      9.46
+    ],
+    "Desvios": [
+      2.57,
+      1.66,
+      1.39,
+      1.84,
+      1.09
+    ],
+    "Componentes": {
+      "ART0104 - ESTUDOS DA PERFORMANCE I": {
+        "Notas": [
+          7.84
+        ],
+        "Desvios": [
+          2.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.84,
+        "MediaDeDesvios": 2.57,
+        "NotaMediana": 7.84
+      },
+      "ART0290 - TCC - ESPETÁCULO": {
+        "Notas": [
+          8.64
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.64,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 8.64
+      },
+      "ART0187 - ESTUDOS DA PERFORMANCE": {
+        "Notas": [
+          9.25,
+          9.46
+        ],
+        "Desvios": [
+          1.39,
+          1.09
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.355,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.46
+      },
+      "ART0176 - ENCENAÇÃO II": {
+        "Notas": [
+          8.38
+        ],
+        "Desvios": [
+          1.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.38,
+        "MediaDeDesvios": 1.84,
+        "NotaMediana": 8.38
+      }
+    },
+    "DesvioDeNotas": 0.5873193339232076,
+    "MediaDeNotas": 8.714,
+    "MediaDeDesvios": 1.7099999999999997,
+    "NotaMediana": 8.64
+  },
+  "REGINA HELENA PEREIRA JOHAS": {
+    "Notas": [
+      8.79,
+      8.91,
+      9.17,
+      9.27,
+      9.29,
+      9.44,
+      9.53,
+      9.56,
+      9.66,
+      9.8
+    ],
+    "Desvios": [
+      2.28,
+      2.06,
+      1.99,
+      1.67,
+      1.69,
+      1.04,
+      1.86,
+      1.2,
+      1.67,
+      0.77
+    ],
+    "Componentes": {
+      "DAT0101 - EXPRESSAO VISUAL I": {
+        "Notas": [
+          8.91,
+          9.29
+        ],
+        "Desvios": [
+          2.28,
+          2.06
+        ],
+        "DesvioDeNotas": 0.1899999999999995,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 2.17,
+        "NotaMediana": 9.29
+      },
+      "DAT0147 - PRODUÇÃO TRIDIMENSIONAL I": {
+        "Notas": [
+          8.79,
+          9.17,
+          9.27,
+          9.56
+        ],
+        "Desvios": [
+          1.99,
+          1.67,
+          1.86,
+          1.2
+        ],
+        "DesvioDeNotas": 0.27544282528321595,
+        "MediaDeNotas": 9.1975,
+        "MediaDeDesvios": 1.6800000000000002,
+        "NotaMediana": 9.27
+      },
+      "DAT0155 - PRODUÇÃO TRIDIMENSIONAL II": {
+        "Notas": [
+          9.44
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.44,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.44
+      },
+      "DAT0156 - TÓPICOS EM ARTE CONTEMPORANEA": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.66
+      },
+      "DAT0158 - CORPO E ESPAÇO": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.53
+      },
+      "DAT0149 - PESQUISA EM ARTES VISUAIS": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.77,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.30531295419618243,
+    "MediaDeNotas": 9.341999999999999,
+    "MediaDeDesvios": 1.623,
+    "NotaMediana": 9.44
+  },
+  "RENATA CELINA DE MORAIS OTELO": {
+    "Notas": [
+      9.31,
+      9.63,
+      9.68,
+      9.72,
+      9.74,
+      9.78,
+      9.8,
+      9.8,
+      9.84,
+      9.91,
+      9.98
+    ],
+    "Desvios": [
+      1.35,
+      1.14,
+      1.15,
+      1.3,
+      1.23,
+      1.04,
+      0.84,
+      0.75,
+      1.03,
+      1.27,
+      1.18
+    ],
+    "Componentes": {
+      "ART0260 - DANÇA PARA CRIANÇA": {
+        "Notas": [
+          9.68,
+          9.74
+        ],
+        "Desvios": [
+          1.35,
+          1.23
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.74
+      },
+      "ART0091 - ESTÁGIO SUPERVISIONADO OBRIGATÓRIO I": {
+        "Notas": [
+          9.78,
+          9.84
+        ],
+        "Desvios": [
+          1.14,
+          1.03
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.809999999999999,
+        "MediaDeDesvios": 1.085,
+        "NotaMediana": 9.84
+      },
+      "ART0095 - ESTÁGIO SUPERVISIONADO OBRIGATÓRIO III": {
+        "Notas": [
+          9.63,
+          9.8
+        ],
+        "Desvios": [
+          1.15,
+          1.27
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.715,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.8
+      },
+      "ART0221 - TOPICOS ESPECIAIS EM DANCA": {
+        "Notas": [
+          9.31,
+          9.98
+        ],
+        "Desvios": [
+          1.3,
+          0.75
+        ],
+        "DesvioDeNotas": 0.33499999999999996,
+        "MediaDeNotas": 9.645,
+        "MediaDeDesvios": 1.025,
+        "NotaMediana": 9.98
+      },
+      "ART0093 - ESTÁGIO SUPERVISIONADO OBRIGATÓRIO II": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.91
+      },
+      "ART0096 - ESTÁGIO SUPERVISIONADO OBRIGATÓRIO IV": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.84
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.84,
+        "NotaMediana": 9.8
+      },
+      "ART0239 - METODOLOGIA DO ENSINO DA DANÇA": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.72
+      }
+    },
+    "DesvioDeNotas": 0.166807653866451,
+    "MediaDeNotas": 9.744545454545454,
+    "MediaDeDesvios": 1.1163636363636362,
+    "NotaMediana": 9.78
+  },
+  "ROBSON CARLOS HADERCHPEK": {
+    "Notas": [
+      9.6,
+      9.65,
+      9.68,
+      9.75,
+      9.78,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.08,
+      1.38,
+      1.07,
+      1.18,
+      1.12,
+      1.23,
+      0.93
+    ],
+    "Componentes": {
+      "ART0222 - ELEMENTOS DE TREINAMENTO PRE-EXPRESSIVO": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.78
+      },
+      "ART0200 - JOGO E CENA I": {
+        "Notas": [
+          9.6,
+          9.75,
+          9.82,
+          9.84
+        ],
+        "Desvios": [
+          1.38,
+          1.07,
+          1.18,
+          1.12
+        ],
+        "DesvioDeNotas": 0.09417404100918698,
+        "MediaDeNotas": 9.752500000000001,
+        "MediaDeDesvios": 1.1875,
+        "NotaMediana": 9.82
+      },
+      "ART0171 - ATUAÇÃO III": {
+        "Notas": [
+          9.65,
+          9.68
+        ],
+        "Desvios": [
+          1.23,
+          0.93
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.665,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.08356837601262668,
+    "MediaDeNotas": 9.731428571428571,
+    "MediaDeDesvios": 1.1414285714285715,
+    "NotaMediana": 9.75
+  },
+  "RODRIGO MONTANDON BORN": {
+    "Notas": [
+      9.43,
+      9.52,
+      9.59,
+      9.6,
+      9.62,
+      9.85,
+      9.92
+    ],
+    "Desvios": [
+      2.13,
+      1.62,
+      1.27,
+      1.83,
+      1.71,
+      2.12,
+      1.23
+    ],
+    "Componentes": {
+      "DAT0146 - DESENHO I": {
+        "Notas": [
+          9.6,
+          9.62
+        ],
+        "Desvios": [
+          2.13,
+          1.62
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.875,
+        "NotaMediana": 9.62
+      },
+      "DAT0251 - DESENHO III - TÓPICOS ESPECIAIS EM DESENHO": {
+        "Notas": [
+          9.92
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.92,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.92
+      },
+      "DAT0262 - PERSONAGENS E NARRATIVAS PARA JOGOS": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.52
+      },
+      "DAT0157 - DESENHO II": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.59
+      },
+      "DAT0261 - TÉCNICAS DE ILUSTRAÇÃO E STORYBOARD": {
+        "Notas": [
+          9.43,
+          9.85
+        ],
+        "Desvios": [
+          2.12,
+          1.23
+        ],
+        "DesvioDeNotas": 0.20999999999999996,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.675,
+        "NotaMediana": 9.85
+      }
+    },
+    "DesvioDeNotas": 0.1626314225229453,
+    "MediaDeNotas": 9.647142857142857,
+    "MediaDeDesvios": 1.7014285714285715,
+    "NotaMediana": 9.6
+  },
+  "RODRIGO NAUMANN BOUFLEUR": {
+    "Notas": [
+      5.36,
+      5.44,
+      5.48,
+      5.56,
+      5.92,
+      6.04,
+      6.36,
+      6.46,
+      6.52,
+      7.18,
+      8.13,
+      8.67,
+      8.77,
+      8.79,
+      9.34,
+      9.61
+    ],
+    "Desvios": [
+      3.13,
+      3.05,
+      3.38,
+      3.21,
+      3.25,
+      3.06,
+      3.95,
+      3.37,
+      2.88,
+      2.03,
+      3.18,
+      3.22,
+      2.76,
+      2.06,
+      1.4,
+      1.73
+    ],
+    "Componentes": {
+      "DAT0111 - DESENHO EM COMPUTADOR II": {
+        "Notas": [
+          5.48,
+          6.04,
+          8.13,
+          9.61
+        ],
+        "Desvios": [
+          3.13,
+          3.05,
+          2.88,
+          2.03
+        ],
+        "DesvioDeNotas": 1.65258131418699,
+        "MediaDeNotas": 7.3149999999999995,
+        "MediaDeDesvios": 2.7724999999999995,
+        "NotaMediana": 8.13
+      },
+      "DAT0102 - EXPRESSAO VISUAL II": {
+        "Notas": [
+          5.36
+        ],
+        "Desvios": [
+          3.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 5.36,
+        "MediaDeDesvios": 3.38,
+        "NotaMediana": 5.36
+      },
+      "DGN0102 - OFICINA DE MODELOS E MATERIAIS I": {
+        "Notas": [
+          5.56,
+          5.92,
+          6.46,
+          8.67
+        ],
+        "Desvios": [
+          3.21,
+          3.25,
+          3.22,
+          2.76
+        ],
+        "DesvioDeNotas": 1.20804335601004,
+        "MediaDeNotas": 6.6525,
+        "MediaDeDesvios": 3.11,
+        "NotaMediana": 6.46
+      },
+      "DGN0100 - INTRODUÇÃO AO ESTUDO DO DESIGN": {
+        "Notas": [
+          6.52,
+          8.79
+        ],
+        "Desvios": [
+          3.06,
+          2.06
+        ],
+        "DesvioDeNotas": 1.1349999999999998,
+        "MediaDeNotas": 7.654999999999999,
+        "MediaDeDesvios": 2.56,
+        "NotaMediana": 8.79
+      },
+      "DGN0200 - PROJETO DE PRODUTO I": {
+        "Notas": [
+          5.44,
+          6.36,
+          8.77,
+          9.34
+        ],
+        "Desvios": [
+          3.95,
+          3.37,
+          1.4,
+          1.73
+        ],
+        "DesvioDeNotas": 1.6232432812120303,
+        "MediaDeNotas": 7.4775,
+        "MediaDeDesvios": 2.6125000000000003,
+        "NotaMediana": 8.77
+      },
+      "DGN0840 - DESIGN E SOCIEDADE": {
+        "Notas": [
+          7.18
+        ],
+        "Desvios": [
+          3.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.18,
+        "MediaDeDesvios": 3.18,
+        "NotaMediana": 7.18
+      }
+    },
+    "DesvioDeNotas": 1.480786187933626,
+    "MediaDeNotas": 7.101874999999999,
+    "MediaDeDesvios": 2.85375,
+    "NotaMediana": 6.52
+  },
+  "ROGERIO JUNIOR CORREIA TAVARES": {
+    "Notas": [
+      9.06,
+      9.52,
+      9.53,
+      9.54,
+      9.59,
+      9.73,
+      9.74,
+      9.8,
+      9.84
+    ],
+    "Desvios": [
+      1.59,
+      1.87,
+      1.86,
+      1.15,
+      1.68,
+      1.99,
+      1.38,
+      1.41,
+      2.07
+    ],
+    "Componentes": {
+      "DAT0110 - DESENHO EM COMPUTADOR I": {
+        "Notas": [
+          9.06,
+          9.54,
+          9.73,
+          9.8
+        ],
+        "Desvios": [
+          1.59,
+          1.87,
+          1.38,
+          1.41
+        ],
+        "DesvioDeNotas": 0.28890958793366484,
+        "MediaDeNotas": 9.5325,
+        "MediaDeDesvios": 1.5625,
+        "NotaMediana": 9.73
+      },
+      "DAT0262 - PERSONAGENS E NARRATIVAS PARA JOGOS": {
+        "Notas": [
+          9.53,
+          9.59
+        ],
+        "Desvios": [
+          1.86,
+          2.07
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.559999999999999,
+        "MediaDeDesvios": 1.9649999999999999,
+        "NotaMediana": 9.59
+      },
+      "DAT0111 - DESENHO EM COMPUTADOR II": {
+        "Notas": [
+          9.74,
+          9.84
+        ],
+        "Desvios": [
+          1.15,
+          1.68
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.415,
+        "NotaMediana": 9.84
+      },
+      "DAT0253 - ARTE, INOVAÇÃO E ECONOMIA CRIATIVA": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.22121438124393225,
+    "MediaDeNotas": 9.594444444444443,
+    "MediaDeDesvios": 1.6666666666666667,
+    "NotaMediana": 9.59
+  },
+  "TASSOS LYCURGO GALVAO NUNES": {
+    "Notas": [
+      8.35,
+      8.53,
+      8.84,
+      8.99
+    ],
+    "Desvios": [
+      1.77,
+      2.59,
+      2.04,
+      2.12
+    ],
+    "Componentes": {
+      "DAT0257 - A ARTE COMO REPRESENTAÇÃO DO SAGRADO": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 8.84
+      },
+      "DAT0143 - REDACAO CRIATIVA": {
+        "Notas": [
+          8.53,
+          8.99
+        ],
+        "Desvios": [
+          2.59,
+          2.12
+        ],
+        "DesvioDeNotas": 0.23000000000000043,
+        "MediaDeNotas": 8.76,
+        "MediaDeDesvios": 2.355,
+        "NotaMediana": 8.99
+      },
+      "DAT0149 - PESQUISA EM ARTES VISUAIS": {
+        "Notas": [
+          8.35
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.35,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 8.35
+      }
+    },
+    "DesvioDeNotas": 0.25153280104193193,
+    "MediaDeNotas": 8.6775,
+    "MediaDeDesvios": 2.13,
+    "NotaMediana": 8.84
+  },
+  "ARTUR LUIZ DE SOUZA MACIEL": {
+    "Notas": [
+      8.29,
+      8.74,
+      8.84,
+      9.26,
+      9.28,
+      9.38,
+      9.59,
+      9.63,
+      9.73,
+      9.94
+    ],
+    "Desvios": [
+      1.81,
+      1.36,
+      1.92,
+      1.83,
+      1.73,
+      0.82,
+      1.77,
+      1.44,
+      1.14,
+      0.91
+    ],
+    "Componentes": {
+      "DAT0105 - GRAVURA I": {
+        "Notas": [
+          8.74,
+          9.26
+        ],
+        "Desvios": [
+          1.81,
+          1.36
+        ],
+        "DesvioDeNotas": 0.2599999999999998,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 1.585,
+        "NotaMediana": 9.26
+      },
+      "DAT0108 - PROJETO GRAFICO": {
+        "Notas": [
+          8.29
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.29,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 8.29
+      },
+      "DAT0146 - DESENHO I": {
+        "Notas": [
+          9.59,
+          9.63
+        ],
+        "Desvios": [
+          1.83,
+          1.73
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.63
+      },
+      "DAT0127 - GRAVURA II": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          0.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 0.82,
+        "NotaMediana": 9.94
+      },
+      "DAT0107 - TECNICAS DE REPRODUCAO GRAFICA": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 8.84
+      },
+      "DAT0157 - DESENHO II": {
+        "Notas": [
+          9.38
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.38
+      },
+      "DAT0252 - DESENHO IV - PROJETO INDIVIDUAL EM DESENHO": {
+        "Notas": [
+          9.28
+        ],
+        "Desvios": [
+          1.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.28,
+        "MediaDeDesvios": 1.14,
+        "NotaMediana": 9.28
+      },
+      "DAT0138 - HISTORIA DO DESENHO": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          0.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 0.91,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.48280016570005463,
+    "MediaDeNotas": 9.267999999999999,
+    "MediaDeDesvios": 1.473,
+    "NotaMediana": 9.38
+  },
+  "DIEGO SOUZA DE PAIVA": {
+    "Notas": [
+      8.97,
+      9.16,
+      9.24,
+      9.32,
+      9.37,
+      9.59,
+      9.66,
+      9.72,
+      9.9
+    ],
+    "Desvios": [
+      1.63,
+      1.89,
+      0.92,
+      2.02,
+      1.41,
+      1.74,
+      1.34,
+      1.53,
+      0.81
+    ],
+    "Componentes": {
+      "DAT0113 - HISTORIA DAS ARTES II": {
+        "Notas": [
+          9.37,
+          9.59
+        ],
+        "Desvios": [
+          1.63,
+          1.34
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.4849999999999999,
+        "NotaMediana": 9.59
+      },
+      "DAT0114 - HISTORIA DAS ARTES III": {
+        "Notas": [
+          8.97,
+          9.32,
+          9.66
+        ],
+        "Desvios": [
+          1.89,
+          1.41,
+          1.53
+        ],
+        "DesvioDeNotas": 0.2817011813172878,
+        "MediaDeNotas": 9.316666666666668,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.32
+      },
+      "DAT0159 - HISTÓRIA DA ARTE NO BRASIL": {
+        "Notas": [
+          9.16,
+          9.9
+        ],
+        "Desvios": [
+          0.92,
+          1.74
+        ],
+        "DesvioDeNotas": 0.3700000000000001,
+        "MediaDeNotas": 9.530000000000001,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.9
+      },
+      "DAT0112 - HISTORIA DAS ARTES I": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          2.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 9.24
+      },
+      "DAT0156 - TÓPICOS EM ARTE CONTEMPORANEA": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          0.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 0.81,
+        "NotaMediana": 9.72
+      }
+    },
+    "DesvioDeNotas": 0.282724836781867,
+    "MediaDeNotas": 9.436666666666666,
+    "MediaDeDesvios": 1.4766666666666666,
+    "NotaMediana": 9.37
+  },
+  "MONIZE OLIVEIRA MOURA": {
+    "Notas": [
+      8.29,
+      9.25,
+      9.55,
+      9.57,
+      9.58,
+      9.61
+    ],
+    "Desvios": [
+      1.15,
+      1.69,
+      1.32,
+      1.34,
+      2.72,
+      1.24
+    ],
+    "Componentes": {
+      "ART0165 - METODOLOGIA DE PESQUISA EM ARTES": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.61
+      },
+      "ART0226 - APRECIACAO CRITICA DO ESPETACULO": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.25
+      },
+      "ART0099 - ETICA E LEGISLAÇÃO TEATRAL": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.58
+      },
+      "ART0203 - HISTORIA DO TEATRO I": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.57
+      },
+      "ART0204 - HISTORIA DO TEATRO II": {
+        "Notas": [
+          8.29
+        ],
+        "Desvios": [
+          2.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.29,
+        "MediaDeDesvios": 2.72,
+        "NotaMediana": 8.29
+      },
+      "ART0168 - HISTORIA DO TEATRO BRASILEIRO II": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.471183498107573,
+    "MediaDeNotas": 9.308333333333332,
+    "MediaDeDesvios": 1.5766666666666669,
+    "NotaMediana": 9.57
+  },
+  "OLAVO FONTES MAGALHAES BESSA": {
+    "Notas": [
+      8.62,
+      8.94,
+      8.95,
+      9.23,
+      9.29
+    ],
+    "Desvios": [
+      1.47,
+      2.18,
+      1.54,
+      1.54,
+      1.75
+    ],
+    "Componentes": {
+      "DGN0330 - DESIGN DE SERVIÇOS": {
+        "Notas": [
+          9.29
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.29,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.29
+      },
+      "DGN0105 - TEORIA DOS SIGNOS": {
+        "Notas": [
+          8.94,
+          8.95
+        ],
+        "Desvios": [
+          2.18,
+          1.75
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 8.945,
+        "MediaDeDesvios": 1.965,
+        "NotaMediana": 8.95
+      },
+      "DGN0125 - OFICINA DE MODELOS E MATERIAIS II": {
+        "Notas": [
+          8.62,
+          9.23
+        ],
+        "Desvios": [
+          1.54,
+          1.54
+        ],
+        "DesvioDeNotas": 0.3050000000000006,
+        "MediaDeNotas": 8.925,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.23
+      }
+    },
+    "DesvioDeNotas": 0.23971649922356217,
+    "MediaDeNotas": 9.006,
+    "MediaDeDesvios": 1.6960000000000002,
+    "NotaMediana": 8.95
+  },
+  "SOFIA PORTO BAUCHWITZ": {
+    "Notas": [
+      9.04,
+      9.09,
+      9.21,
+      9.23,
+      9.43,
+      9.86
+    ],
+    "Desvios": [
+      1.61,
+      1.66,
+      1.67,
+      2.11,
+      2.11,
+      1.01
+    ],
+    "Componentes": {
+      "DAT0102 - EXPRESSAO VISUAL II": {
+        "Notas": [
+          9.09,
+          9.43
+        ],
+        "Desvios": [
+          1.61,
+          1.66
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 9.26,
+        "MediaDeDesvios": 1.635,
+        "NotaMediana": 9.43
+      },
+      "DAT0115 - FUNDAMENTOS DA LINGUAGEM VISUAL": {
+        "Notas": [
+          9.04
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.04
+      },
+      "DAT0101 - EXPRESSAO VISUAL I": {
+        "Notas": [
+          9.21,
+          9.23
+        ],
+        "Desvios": [
+          2.11,
+          2.11
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 9.23
+      },
+      "DAT0250 - PROCESSOS DE CRIAÇÃO NAS ARTES VISUAIS": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.01,
+        "NotaMediana": 9.86
+      }
+    },
+    "DesvioDeNotas": 0.27525745524266293,
+    "MediaDeNotas": 9.31,
+    "MediaDeDesvios": 1.6949999999999996,
+    "NotaMediana": 9.23
+  },
+  "VICENTE VITORIANO MARQUES CARVALHO": {
+    "Notas": [
+      8.19,
+      8.73,
+      9.55,
+      9.66
+    ],
+    "Desvios": [
+      2,
+      0.87,
+      2.08,
+      1.06
+    ],
+    "Componentes": {
+      "DAT0149 - PESQUISA EM ARTES VISUAIS": {
+        "Notas": [
+          8.73,
+          9.55,
+          9.66
+        ],
+        "Desvios": [
+          2,
+          0.87,
+          1.06
+        ],
+        "DesvioDeNotas": 0.4149163235588057,
+        "MediaDeNotas": 9.313333333333334,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.55
+      },
+      "DAT0119 - HISTORIA E METODOLOGIA DO ENSINO EM ARTES VISUAIS": {
+        "Notas": [
+          8.19
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.19,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 8.19
+      }
+    },
+    "DesvioDeNotas": 0.6047468478628065,
+    "MediaDeNotas": 9.032499999999999,
+    "MediaDeDesvios": 1.5025,
+    "NotaMediana": 9.55
+  },
+  "ALEX BEIGUI DE PAIVA CAVALCANTE": {
+    "Notas": [
+      8.94,
+      9.03,
+      9.07,
+      9.27,
+      9.52
+    ],
+    "Desvios": [
+      1.59,
+      1.29,
+      2.04,
+      1.35,
+      1.47
+    ],
+    "Componentes": {
+      "ART0183 - CINEMA": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.07
+      },
+      "ART0097 - ESTETICA TEATRAL I": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.29
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.52
+      },
+      "ART0098 - ESTETICA TEATRAL II": {
+        "Notas": [
+          8.94
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.94,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 8.94
+      },
+      "ART0206 - DRAMATURGIA I": {
+        "Notas": [
+          9.03
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.03,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.03
+      },
+      "ART0165 - METODOLOGIA DE PESQUISA EM ARTES": {
+        "Notas": [
+          9.27
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.27
+      }
+    },
+    "DesvioDeNotas": 0.20732583051805192,
+    "MediaDeNotas": 9.166,
+    "MediaDeDesvios": 1.5479999999999998,
+    "NotaMediana": 9.07
+  },
+  "DIOGO DE OLIVEIRA SPINELLI": {
+    "Notas": [
+      8.65,
+      9.41,
+      9.52,
+      9.58,
+      9.75
+    ],
+    "Desvios": [
+      1.21,
+      1.14,
+      1.54,
+      1.31,
+      0.76
+    ],
+    "Componentes": {
+      "ART0208 - ATUACAO II": {
+        "Notas": [
+          9.52,
+          9.75
+        ],
+        "Desvios": [
+          1.21,
+          1.14
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.635,
+        "MediaDeDesvios": 1.1749999999999998,
+        "NotaMediana": 9.75
+      },
+      "ART0290 - TCC - ESPETÁCULO": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.41
+      },
+      "ART0207 - ATUACAO I": {
+        "Notas": [
+          8.65,
+          9.58
+        ],
+        "Desvios": [
+          1.31,
+          0.76
+        ],
+        "DesvioDeNotas": 0.46499999999999986,
+        "MediaDeNotas": 9.115,
+        "MediaDeDesvios": 1.0350000000000001,
+        "NotaMediana": 9.58
+      }
+    },
+    "DesvioDeNotas": 0.38217273581457883,
+    "MediaDeNotas": 9.382,
+    "MediaDeDesvios": 1.1919999999999997,
+    "NotaMediana": 9.52
+  },
+  "PATRICIA GARCIA LEAL": {
+    "Notas": [
+      9.3,
+      9.68,
+      9.73,
+      9.82
+    ],
+    "Desvios": [
+      1.05,
+      0.91,
+      0.74,
+      1.57
+    ],
+    "Componentes": {
+      "ART0311 - LABORATÓRIO DE COMPOSIÇÃO COREOGRÁFICA II": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.68
+      },
+      "ART0304 - PRÁTICAS EDUCATIVAS EM DANÇA MODERNA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          0.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 0.91,
+        "NotaMediana": 9.82
+      },
+      "ART0268 - IMPROVISAÇÃO": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          0.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 0.74,
+        "NotaMediana": 9.73
+      },
+      "ART0305 - PRÁTICAS EDUCATIVAS EM DANÇA CONTEMPORÂNEA": {
+        "Notas": [
+          9.3
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.3,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.3
+      }
+    },
+    "DesvioDeNotas": 0.19841559918514454,
+    "MediaDeNotas": 9.6325,
+    "MediaDeDesvios": 1.0675000000000001,
+    "NotaMediana": 9.73
+  },
+  "JUSCELINO NECO DE SOUZA JUNIOR": {
+    "Notas": [
+      8.82,
+      8.96,
+      9.28,
+      9.48,
+      9.55
+    ],
+    "Desvios": [
+      1.37,
+      1.48,
+      2.04,
+      1.67,
+      1.23
+    ],
+    "Componentes": {
+      "DAT0111 - DESENHO EM COMPUTADOR II": {
+        "Notas": [
+          8.82,
+          9.48
+        ],
+        "Desvios": [
+          1.37,
+          1.48
+        ],
+        "DesvioDeNotas": 0.33000000000000007,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.425,
+        "NotaMediana": 9.48
+      },
+      "COM0330 - INTRODUÇÃO ÁS HISTÓRIAS EM QUADRINHOS": {
+        "Notas": [
+          8.96
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 8.96
+      },
+      "DAT0261 - TÉCNICAS DE ILUSTRAÇÃO E STORYBOARD": {
+        "Notas": [
+          9.28,
+          9.55
+        ],
+        "Desvios": [
+          1.67,
+          1.23
+        ],
+        "DesvioDeNotas": 0.13500000000000068,
+        "MediaDeNotas": 9.415,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.28554509276119594,
+    "MediaDeNotas": 9.218,
+    "MediaDeDesvios": 1.5580000000000003,
+    "NotaMediana": 9.28
+  },
+  "LAIS GUARALDO": {
+    "Notas": [
+      9.43,
+      9.53,
+      9.54,
+      9.72
+    ],
+    "Desvios": [
+      1.57,
+      1.53,
+      1.53,
+      0.91
+    ],
+    "Componentes": {
+      "DAT0102 - EXPRESSAO VISUAL II": {
+        "Notas": [
+          9.43,
+          9.72
+        ],
+        "Desvios": [
+          1.57,
+          1.53
+        ],
+        "DesvioDeNotas": 0.14500000000000046,
+        "MediaDeNotas": 9.575,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.72
+      },
+      "DAT0115 - FUNDAMENTOS DA LINGUAGEM VISUAL": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.54
+      },
+      "DAT0149 - PESQUISA EM ARTES VISUAIS": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          0.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 0.91,
+        "NotaMediana": 9.53
+      }
+    },
+    "DesvioDeNotas": 0.10452272480183476,
+    "MediaDeNotas": 9.555,
+    "MediaDeDesvios": 1.385,
+    "NotaMediana": 9.54
+  },
+  "TEODORA DE ARAUJO ALVES": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.28
+    ],
+    "Componentes": {
+      "ART0260 - DANÇA PARA CRIANÇA": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.28,
+    "NotaMediana": 9.66
+  }
+}

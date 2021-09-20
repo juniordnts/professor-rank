@@ -1,0 +1,4538 @@
+[
+    {
+        "Docente": "ADRIANO HENRIQUE DO NASCIMENTO RANGEL",
+        "Componente Curricular": "ZOO0466 - JULGAMENTO DE ANIMAIS",
+        "Turma": "1",
+        "Horário": "4M23",
+        "Discentes": "11",
+        "Média Geral": "8.2",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "ADRIANO HENRIQUE DO NASCIMENTO RANGEL",
+        "Componente Curricular": "ZOO0315 - TECNOLOGIA E INDUSTRIALIZAÇÃO DE PRODUTOS DE ORIGEM ANIMAL",
+        "Turma": "1",
+        "Horário": "26M23",
+        "Discentes": "10",
+        "Média Geral": "8.01",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "ALESSANDRA MENDES PACHECO GUERRA VALE",
+        "Componente Curricular": "TAD0018 - PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Turma": "1",
+        "Horário": "23T12",
+        "Discentes": "21",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "ALESSANDRA MENDES PACHECO GUERRA VALE",
+        "Componente Curricular": "TAD0012 - PROCESSO DE DESENVOLVIMENTO DE SOFTWARE",
+        "Turma": "1",
+        "Horário": "4M123",
+        "Discentes": "43",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "ALEXANDRE SANTOS PIMENTA",
+        "Componente Curricular": "EFL0312 - ANATOMIA DA MADEIRA",
+        "Turma": "1",
+        "Horário": "2M2345",
+        "Discentes": "17",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "ALEXANDRE SANTOS PIMENTA",
+        "Componente Curricular": "EFL0331 - TECNOLOGIA DE PRODUTOS FLORESTAIS",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "20",
+        "Média Geral": "8.22",
+        "Desvio Padrão Geral": "2.55"
+    },
+    {
+        "Docente": "ANA ISABEL RODRIGUES CASTRO",
+        "Componente Curricular": "CCA0104 - AGROINFORMÁTICA",
+        "Turma": "1",
+        "Horário": "5M23 3T12",
+        "Discentes": "31",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "ANA ISABEL RODRIGUES CASTRO",
+        "Componente Curricular": "TAD0022 - ESTATISTICA APLICADA",
+        "Turma": "1",
+        "Horário": "5T345",
+        "Discentes": "24",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "ANA ISABEL RODRIGUES CASTRO",
+        "Componente Curricular": "TAD0005 - MATEMATICA APLICADA I",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "40",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "ANA ISABEL RODRIGUES CASTRO",
+        "Componente Curricular": "TAD0057 - PROJETOS APLICADOS II",
+        "Turma": "1",
+        "Horário": "2M56 4M45 (11/02/2019 - 29/06/2019)",
+        "Discentes": "13",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "CARLOS HENRIQUE GRILO DINIZ",
+        "Componente Curricular": "TAD0008 - CONTEXTO GEOGRAFICO REGIONAL",
+        "Turma": "1",
+        "Horário": "4M23 6M45",
+        "Discentes": "12",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "CASSIA REGINA DE ALMEIDA MORAES",
+        "Componente Curricular": "AGR0316 - CULTURAS AGRÍCOLAS I",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "24",
+        "Média Geral": "7.89",
+        "Desvio Padrão Geral": "2.42"
+    },
+    {
+        "Docente": "CASSIA REGINA DE ALMEIDA MORAES",
+        "Componente Curricular": "CCA0120 - FISIOLOGIA VEGETAL",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "32",
+        "Média Geral": "7.97",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "CIBELE SOARES PONTES",
+        "Componente Curricular": "CCA0132 - AQUICULTURA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "6",
+        "Média Geral": "8.27",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "CLAUDIA SOUZA MACEDO",
+        "Componente Curricular": "CCA0127 - PÓS-COLHEITA E PROCESSAMENTO DE PRODUTOS AGROPECUÁRIOS",
+        "Turma": "1",
+        "Horário": "4T1234",
+        "Discentes": "13",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "DAMIANA CLEUMA DE MEDEIROS",
+        "Componente Curricular": "AGR0322 - CONTROLE DE PLANTAS DANINHAS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "16",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "DAMIANA CLEUMA DE MEDEIROS",
+        "Componente Curricular": "AGR0315 - SOCIOLOGIA E EXTENSÃO RURAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "7",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "DAMIANA CLEUMA DE MEDEIROS",
+        "Componente Curricular": "CCA0119 - SOCIOLOGIA E EXTENSÃO RURAL",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "40",
+        "Média Geral": "7.94",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "CCA0114 - ESTATÍSTICA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "15",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "CCA0123 - GENÉTICA GERAL",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "41",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "CCA0117 - AGROMETEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "23M23",
+        "Discentes": "23",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "CCA0106 - DESENHO TÉCNICO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "41",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "CCA0106 - DESENHO TÉCNICO",
+        "Turma": "2",
+        "Horário": "35M45",
+        "Discentes": "38",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "EFL0321 - SISTEMAS AGROFLORESTAIS",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "12",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "DINARTE AEDA DA SILVA",
+        "Componente Curricular": "AGR0323 - CONSTRUÇÕES RURAIS",
+        "Turma": "2",
+        "Horário": "6M2345",
+        "Discentes": "30",
+        "Média Geral": "6.76",
+        "Desvio Padrão Geral": "2.75"
+    },
+    {
+        "Docente": "DINARTE AEDA DA SILVA",
+        "Componente Curricular": "ZOO0308 - INSTALAÇÕES ZOOTÉCNICAS TROPICAIS",
+        "Turma": "1",
+        "Horário": "2M45 4M56",
+        "Discentes": "35",
+        "Média Geral": "6.47",
+        "Desvio Padrão Geral": "3.2"
+    },
+    {
+        "Docente": "DINARTE AEDA DA SILVA",
+        "Componente Curricular": "CIV0446 - IRRIGAÇÃO E DRENAGEM",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "8",
+        "Média Geral": "7.37",
+        "Desvio Padrão Geral": "3.49"
+    },
+    {
+        "Docente": "EDSON MOREIRA SILVA NETO",
+        "Componente Curricular": "TAD0006 - SISTEMAS OPERACIONAIS",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "43",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "EDUARDO ALEXANDRE FERREIRA SILVA",
+        "Componente Curricular": "TAD0003 - BANCO DE DADOS I",
+        "Turma": "1",
+        "Horário": "25M56",
+        "Discentes": "40",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "EDUARDO ALEXANDRE FERREIRA SILVA",
+        "Componente Curricular": "TAD0021 - ENGENHARIA DE SOFTWARE",
+        "Turma": "1",
+        "Horário": "2T345",
+        "Discentes": "24",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "EDUARDO ALEXANDRE FERREIRA SILVA",
+        "Componente Curricular": "TAD0012 - PROCESSO DE DESENVOLVIMENTO DE SOFTWARE",
+        "Turma": "1",
+        "Horário": "4M123",
+        "Discentes": "43",
+        "Média Geral": "9.01",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "EDUARDO ALEXANDRE FERREIRA SILVA",
+        "Componente Curricular": "TAD0057 - PROJETOS APLICADOS II",
+        "Turma": "1",
+        "Horário": "2M56 4M45 (11/02/2019 - 29/06/2019)",
+        "Discentes": "13",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "ELAINY CRISTINA LOPES",
+        "Componente Curricular": "ZOO0404 - BIOSSEGURANÇA NA PRODUÇÃO ANIMAL",
+        "Turma": "1",
+        "Horário": "6M456",
+        "Discentes": "12",
+        "Média Geral": "8.77",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "ELAINY CRISTINA LOPES",
+        "Componente Curricular": "ZOO0461 - CRIAÇÃO DE ANIMAIS DE ESTIMAÇÃO",
+        "Turma": "1",
+        "Horário": "4T123",
+        "Discentes": "13",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "ELAINY CRISTINA LOPES",
+        "Componente Curricular": "ZOO0433 - IMPACTOS AMBIENTAIS NA PRODUÇÃO DE ANIMAIS",
+        "Turma": "1",
+        "Horário": "3M56",
+        "Discentes": "5",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "ELAINY CRISTINA LOPES",
+        "Componente Curricular": "ZOO0445 - NUTRIÇÃO DE EQÜINOS",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "22",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "ELAINY CRISTINA LOPES",
+        "Componente Curricular": "ZOO0307 - NUTRIÇÃO E ALIMENTAÇÃO DE MONOGÁSTRICOS",
+        "Turma": "1",
+        "Horário": "3M234 6M23",
+        "Discentes": "13",
+        "Média Geral": "9.17",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "EMERSON MOREIRA DE AGUIAR",
+        "Componente Curricular": "ZOO0415 - CONSERVAÇÃO DE FORRAGENS",
+        "Turma": "1",
+        "Horário": "6T123",
+        "Discentes": "6",
+        "Média Geral": "8.54",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "EMERSON MOREIRA DE AGUIAR",
+        "Componente Curricular": "AGR0314 - FORRAGICULTURA",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "26",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "EMERSON MOREIRA DE AGUIAR",
+        "Componente Curricular": "ZOO0305 - FORRAGICULTURA",
+        "Turma": "1",
+        "Horário": "25M23",
+        "Discentes": "18",
+        "Média Geral": "8.67",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "34",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "2",
+        "Horário": "2T45 4T34",
+        "Discentes": "26",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "AGR0312 - MANEJO E CONSERVAÇÃO DOS SOLOS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "20",
+        "Média Geral": "8.61",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "AGR0313 - NUTRIÇÃO MINERAL DAS PLANTAS",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "27",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "FABIO DE ALMEIDA VIEIRA",
+        "Componente Curricular": "EFL0313 - GENETICA GERAL",
+        "Turma": "1",
+        "Horário": "36M45",
+        "Discentes": "17",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "FABIO DE ALMEIDA VIEIRA",
+        "Componente Curricular": "EFL0324 - MELHORAMENTO FLORESTAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "9",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0106 - DESENHO TÉCNICO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "41",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0106 - DESENHO TÉCNICO",
+        "Turma": "2",
+        "Horário": "35M45",
+        "Discentes": "38",
+        "Média Geral": "8.36",
+        "Desvio Padrão Geral": "2.74"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "EFL0342 - DESENHO TÉCNICO E CONSTRUÇÕES RURAIS",
+        "Turma": "1",
+        "Horário": "2M2345",
+        "Discentes": "29",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0124 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "7",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0124 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO",
+        "Turma": "2",
+        "Horário": "6M2345",
+        "Discentes": "33",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "FRANCISCO ALEXANDRE DA COSTA",
+        "Componente Curricular": "CCA0101 - CÁLCULO I",
+        "Turma": "2",
+        "Horário": "46M23",
+        "Discentes": "37",
+        "Média Geral": "7.72",
+        "Desvio Padrão Geral": "2.99"
+    },
+    {
+        "Docente": "FRANCISCO ALEXANDRE DA COSTA",
+        "Componente Curricular": "CCA0101 - CÁLCULO I",
+        "Turma": "3",
+        "Horário": "46M45",
+        "Discentes": "6",
+        "Média Geral": "8.52",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "FRANCISCO ALEXANDRE DA COSTA",
+        "Componente Curricular": "CCA0101 - CÁLCULO I",
+        "Turma": "4",
+        "Horário": "24T12",
+        "Discentes": "40",
+        "Média Geral": "8.73",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "GERBSON AZEVEDO DE MENDONCA",
+        "Componente Curricular": "EFL0315 - ENTOMOLOGIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "18",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "GERBSON AZEVEDO DE MENDONCA",
+        "Componente Curricular": "AGR0328 - PRAGAS DAS PLANTAS CULTIVADAS",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "19",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "34",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "2",
+        "Horário": "2T45 4T34",
+        "Discentes": "26",
+        "Média Geral": "8.62",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "AGR0312 - MANEJO E CONSERVAÇÃO DOS SOLOS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "20",
+        "Média Geral": "8.41",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "EFL0314 - NUTRICAO MINERAL DAS ARVORES",
+        "Turma": "1",
+        "Horário": "46M45",
+        "Discentes": "13",
+        "Média Geral": "7.62",
+        "Desvio Padrão Geral": "2.7"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "CCA0128 - FITOPATOLOGIA II",
+        "Turma": "1",
+        "Horário": "6M2345",
+        "Discentes": "12",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "CCA0105 - MICROBIOLOGIA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "5",
+        "Média Geral": "8.63",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "AGR0333 - PLANEJAMENTO ESTRATÉGICO DA PRODUÇÃO AGROPECUÁRIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "10",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "HENRIQUE ROCHA DE MEDEIROS",
+        "Componente Curricular": "ZOO0330 - ECONOMIA RURAL",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "9",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "HENRIQUE ROCHA DE MEDEIROS",
+        "Componente Curricular": "ZOO0312 - PARASITOLOGIA, HIGIENE E PROFILAXIA ZOOTÉCNICA",
+        "Turma": "1",
+        "Horário": "26M456",
+        "Discentes": "11",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "IVAN MAX FREIRE DE LACERDA",
+        "Componente Curricular": "TAD0007 - INSTALACAO E ARQUITETURA DE COMPUTADORES",
+        "Turma": "1",
+        "Horário": "5M234",
+        "Discentes": "39",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "IVAN MAX FREIRE DE LACERDA",
+        "Componente Curricular": "TAD0035 - LEGISLACAO E ETICA EM TI",
+        "Turma": "1",
+        "Horário": "2M234",
+        "Discentes": "12",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "ZOO0467 - AVICULTURA",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "8",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "ZOO0318 - METODOLOGIA DA PESQUISA CIENTIFICA",
+        "Turma": "1",
+        "Horário": "6M456",
+        "Discentes": "22",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "CCA0110 - ZOOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "18",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "CCA0110 - ZOOLOGIA GERAL",
+        "Turma": "2",
+        "Horário": "24M45",
+        "Discentes": "36",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "JOSE APARECIDO MOREIRA",
+        "Componente Curricular": "CCA0121 - BIOQUÍMICA",
+        "Turma": "2",
+        "Horário": "46T12",
+        "Discentes": "29",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "JOSE APARECIDO MOREIRA",
+        "Componente Curricular": "ZOO0469 - SUINOCULTURA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "6",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "JOSE HAMILTON DA COSTA FILHO",
+        "Componente Curricular": "AGR0327 - CULTURAS AGRICOLAS III",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "18",
+        "Média Geral": "7.55",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "JOSE HAMILTON DA COSTA FILHO",
+        "Componente Curricular": "CCA0123 - GENÉTICA GERAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "14",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "JOSE HAMILTON DA COSTA FILHO",
+        "Componente Curricular": "AGR0324 - MECANIZAÇÃO AGRÍCOLA",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "14",
+        "Média Geral": "6.67",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "JOSE RIBAMAR SILVA DO NASCIMENTO JUNIOR",
+        "Componente Curricular": "CCA0107 - ECOLOGIA GERAL",
+        "Turma": "2",
+        "Horário": "24M45",
+        "Discentes": "38",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "JOSE RIBAMAR SILVA DO NASCIMENTO JUNIOR",
+        "Componente Curricular": "CCA0107 - ECOLOGIA GERAL",
+        "Turma": "3",
+        "Horário": "24M23",
+        "Discentes": "25",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "JOSENALDE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "TAD0001 - FUNDAMENTOS DA COMPUTACAO",
+        "Turma": "1",
+        "Horário": "3M56 6M12",
+        "Discentes": "40",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "JOSENALDE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "TAD0036 - SISTEMAS EMBARCADOS",
+        "Turma": "1",
+        "Horário": "3M1234",
+        "Discentes": "6",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "JOSENILDA APRIGIO DANTAS DE MEDEIROS",
+        "Componente Curricular": "EFL0316 - MANEJO DE BACIAS HIDROGRAFICAS",
+        "Turma": "1",
+        "Horário": "4M234",
+        "Discentes": "15",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "JOSENILDA APRIGIO DANTAS DE MEDEIROS",
+        "Componente Curricular": "EFL0332 - RECUPERACAO DE AREAS DEGRADADAS",
+        "Turma": "1",
+        "Horário": "26M23",
+        "Discentes": "6",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "JOSENILDA APRIGIO DANTAS DE MEDEIROS",
+        "Componente Curricular": "EFL0400 - SOLOS FLORESTAIS",
+        "Turma": "1",
+        "Horário": "6T123",
+        "Discentes": "17",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "JOSIMAR TORRES GOMES",
+        "Componente Curricular": "ZOO0400 - AGRICULTURA FAMILIAR",
+        "Turma": "1",
+        "Horário": "4M56",
+        "Discentes": "11",
+        "Média Geral": "5.57",
+        "Desvio Padrão Geral": "3.8"
+    },
+    {
+        "Docente": "JOSIMAR TORRES GOMES",
+        "Componente Curricular": "ZOO0462 - BOVINOCULTURA DE CORTE",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "10",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "JULIANA LORENSI DO CANTO",
+        "Componente Curricular": "EFL0310 - DENDROMETRIA",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "19",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "JULIANA LORENSI DO CANTO",
+        "Componente Curricular": "EFL0330 - EXPLORACAO E TRANSPORTE FLORESTAL",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "5",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "JULIO GOMES JUNIOR",
+        "Componente Curricular": "CCA0127 - PÓS-COLHEITA E PROCESSAMENTO DE PRODUTOS AGROPECUÁRIOS",
+        "Turma": "1",
+        "Horário": "4T1234",
+        "Discentes": "13",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "ZOO0311 - GESTÃO DE RECURSOS AMBIENTAIS",
+        "Turma": "1",
+        "Horário": "3M56 5M45",
+        "Discentes": "22",
+        "Média Geral": "8.3",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "AGR0331 - GESTÃO DE RECURSOS NATURAIS",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "11",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "AGR0345 - LEGISLAÇÃO E LICENCIAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "4M23",
+        "Discentes": "36",
+        "Média Geral": "7.99",
+        "Desvio Padrão Geral": "2.4"
+    },
+    {
+        "Docente": "KARINA RIBEIRO",
+        "Componente Curricular": "ZOO0411 - CARCINOCULTURA",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "6",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA",
+        "Componente Curricular": "TAD0065 - APRENDIZADO DE MAQUINA",
+        "Turma": "1",
+        "Horário": "5M45 6M23",
+        "Discentes": "10",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA",
+        "Componente Curricular": "TAD0002 - LOGICA COMPUTACIONAL E ALGORITMOS",
+        "Turma": "1",
+        "Horário": "2M234 4M456",
+        "Discentes": "49",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA",
+        "Componente Curricular": "TAD0032 - METODOLOGIA DO TRABALHO CIENTIFICO",
+        "Turma": "1",
+        "Horário": "5M23",
+        "Discentes": "8",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "LEONARDO RODRIGUES DE LIMA TEIXEIRA",
+        "Componente Curricular": "TAD0023 - CIRCUITOS DIGITAIS",
+        "Turma": "1",
+        "Horário": "3T345",
+        "Discentes": "23",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "LUCIANO PATTO NOVAES",
+        "Componente Curricular": "ZOO0408 - BUBALINOCULTURA",
+        "Turma": "1",
+        "Horário": "2M456",
+        "Discentes": "11",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "LUIS HENRIQUE FERNANDES BORBA",
+        "Componente Curricular": "ZOO0470 - GENÉTICA QUANTITATIVA",
+        "Turma": "1",
+        "Horário": "4M234 6M45",
+        "Discentes": "37",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "LUIZ EDUARDO SANTOS LAZZARINI",
+        "Componente Curricular": "EFL0315 - ENTOMOLOGIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "18",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "LUIZ EDUARDO SANTOS LAZZARINI",
+        "Componente Curricular": "AGR0328 - PRAGAS DAS PLANTAS CULTIVADAS",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "19",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "MALCON DO PRADO COSTA",
+        "Componente Curricular": "EFL0317 - SILVICULTURA",
+        "Turma": "1",
+        "Horário": "25M45",
+        "Discentes": "12",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "2.47"
+    },
+    {
+        "Docente": "MARCIO DIAS PEREIRA",
+        "Componente Curricular": "AGR0327 - CULTURAS AGRICOLAS III",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "18",
+        "Média Geral": "7.83",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "MARCIO DIAS PEREIRA",
+        "Componente Curricular": "TAD0016 - VERTENTES PRODUTIVAS NAS CIENCIAS AGRARIAS",
+        "Turma": "1",
+        "Horário": "6T345",
+        "Discentes": "25",
+        "Média Geral": "8.54",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "MARCONE GERALDO COSTA",
+        "Componente Curricular": "ZOO0323 - ANÁLISES DE ALIMENTOS",
+        "Turma": "1",
+        "Horário": "26T12",
+        "Discentes": "24",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "MARCONE GERALDO COSTA",
+        "Componente Curricular": "CCA0121 - BIOQUÍMICA",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "29",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "MARCONE GERALDO COSTA",
+        "Componente Curricular": "ZOO0425 - FISIOLOGIA DA DIGESTÃO",
+        "Turma": "1",
+        "Horário": "4T123",
+        "Discentes": "6",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.23"
+    },
+    {
+        "Docente": "MARCONE GERALDO COSTA",
+        "Componente Curricular": "ZOO0318 - METODOLOGIA DA PESQUISA CIENTIFICA",
+        "Turma": "1",
+        "Horário": "6M456",
+        "Discentes": "22",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "MARIA LUCIANA LIRA DE ANDRADE",
+        "Componente Curricular": "CCA0102 - BIOLOGIA CELULAR E MOLECULAR",
+        "Turma": "2",
+        "Horário": "35M45",
+        "Discentes": "29",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "MARIA LUCIANA LIRA DE ANDRADE",
+        "Componente Curricular": "CCA0102 - BIOLOGIA CELULAR E MOLECULAR",
+        "Turma": "3",
+        "Horário": "35M23",
+        "Discentes": "38",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "MARIA LUCIANA LIRA DE ANDRADE",
+        "Componente Curricular": "CCA0102 - BIOLOGIA CELULAR E MOLECULAR",
+        "Turma": "4",
+        "Horário": "24M23",
+        "Discentes": "41",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "MAURO VASCONCELOS PACHECO",
+        "Componente Curricular": "EFL0311 - VIVEIROS FLORESTAIS",
+        "Turma": "1",
+        "Horário": "46M23",
+        "Discentes": "15",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "NESIO ANTONIO MOREIRA TEIXEIRA DE BARROS",
+        "Componente Curricular": "ZOO0302 - BIOCLIMATOLOGIA ANIMAL",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "7",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "NESIO ANTONIO MOREIRA TEIXEIRA DE BARROS",
+        "Componente Curricular": "ZOO0300 - ZOOTECNIA GERAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "37",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "PAULO MARIO CARVALHO DE FARIA",
+        "Componente Curricular": "ZOO0450 - PISCICULTURA",
+        "Turma": "1",
+        "Horário": "3T345",
+        "Discentes": "9",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "PAULO ROGERIO SOARES DE OLIVEIRA",
+        "Componente Curricular": "EFL0417 - ETICA E EXERCICIO PROFISSIONAL",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "19",
+        "Média Geral": "6.46",
+        "Desvio Padrão Geral": "3.77"
+    },
+    {
+        "Docente": "PAULO ROGERIO SOARES DE OLIVEIRA",
+        "Componente Curricular": "EFL0326 - MANEJO FLORESTAL",
+        "Turma": "1",
+        "Horário": "26M23",
+        "Discentes": "14",
+        "Média Geral": "6.02",
+        "Desvio Padrão Geral": "3.25"
+    },
+    {
+        "Docente": "PAULO ROGERIO SOARES DE OLIVEIRA",
+        "Componente Curricular": "EFL0334 - POLITICA, ADMINISTRACAO E LEGISLACAO FLORESTAL",
+        "Turma": "1",
+        "Horário": "2M45 4M23",
+        "Discentes": "6",
+        "Média Geral": "7.92",
+        "Desvio Padrão Geral": "2.89"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "ZOO0430 - FUNDAMENTOS DE HIDROLOGIA E IRRIGAÇÃO",
+        "Turma": "1",
+        "Horário": "4M234",
+        "Discentes": "5",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "ZOO0308 - INSTALAÇÕES ZOOTÉCNICAS TROPICAIS",
+        "Turma": "1",
+        "Horário": "2M45 4M56",
+        "Discentes": "35",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "CCA0105 - MICROBIOLOGIA",
+        "Turma": "2",
+        "Horário": "35M23",
+        "Discentes": "30",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "CCA0119 - SOCIOLOGIA E EXTENSÃO RURAL",
+        "Turma": "2",
+        "Horário": "35M45",
+        "Discentes": "34",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "CCA0110 - ZOOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "18",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "CCA0110 - ZOOLOGIA GERAL",
+        "Turma": "2",
+        "Horário": "24M45",
+        "Discentes": "36",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "RENATA MARTINS BRAGA",
+        "Componente Curricular": "CCA0103 - QUÍMICA GERAL",
+        "Turma": "1",
+        "Horário": "46M45",
+        "Discentes": "31",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "RENATA MARTINS BRAGA",
+        "Componente Curricular": "CCA0103 - QUÍMICA GERAL",
+        "Turma": "2",
+        "Horário": "35M45",
+        "Discentes": "39",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "RENATA MARTINS BRAGA",
+        "Componente Curricular": "CCA0103 - QUÍMICA GERAL",
+        "Turma": "3",
+        "Horário": "24M23",
+        "Discentes": "37",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "ROSIMEIRE CAVALCANTE DOS SANTOS",
+        "Componente Curricular": "AGR0341 - BIOENERGIAS",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "18",
+        "Média Geral": "7.97",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "ROSIMEIRE CAVALCANTE DOS SANTOS",
+        "Componente Curricular": "AGR0329 - PLANEJAMENTO AGROENERGETICO",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "16",
+        "Média Geral": "8.05",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "SERGIO MARQUES JUNIOR",
+        "Componente Curricular": "EFL0335 - AVALIACAO E MITIGACAO DE IMPACTOS AMBIENTAIS",
+        "Turma": "1",
+        "Horário": "46M45",
+        "Discentes": "11",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "SERGIO MARQUES JUNIOR",
+        "Componente Curricular": "AGR0390 - ECONOMIA RURAL",
+        "Turma": "1",
+        "Horário": "3M23 5M45",
+        "Discentes": "24",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "SERGIO MARQUES JUNIOR",
+        "Componente Curricular": "AGR0318 - IRRIGAÇÃO E DRENAGEM",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "32",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "SEVERINO PAULO GOMES NETO",
+        "Componente Curricular": "CCA0104 - AGROINFORMÁTICA",
+        "Turma": "2",
+        "Horário": "46M45",
+        "Discentes": "40",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "SEVERINO PAULO GOMES NETO",
+        "Componente Curricular": "TAD0003 - BANCO DE DADOS I",
+        "Turma": "1",
+        "Horário": "25M56",
+        "Discentes": "40",
+        "Média Geral": "8.61",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "SEVERINO PAULO GOMES NETO",
+        "Componente Curricular": "TAD0005 - MATEMATICA APLICADA I",
+        "Turma": "1",
+        "Horário": "3M234",
+        "Discentes": "40",
+        "Média Geral": "8.75",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0121 - BIOQUÍMICA",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "29",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0121 - BIOQUÍMICA",
+        "Turma": "2",
+        "Horário": "46T12",
+        "Discentes": "29",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0103 - QUÍMICA GERAL",
+        "Turma": "2",
+        "Horário": "35M45",
+        "Discentes": "39",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "SIDNEY CARLOS PRAXEDES",
+        "Componente Curricular": "EFL0308 - FISIOLOGIA DAS ARVORES",
+        "Turma": "1",
+        "Horário": "2M45 5M23",
+        "Discentes": "18",
+        "Média Geral": "6.86",
+        "Desvio Padrão Geral": "2.59"
+    },
+    {
+        "Docente": "SIDNEY CARLOS PRAXEDES",
+        "Componente Curricular": "CCA0120 - FISIOLOGIA VEGETAL",
+        "Turma": "1",
+        "Horário": "56T12",
+        "Discentes": "13",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "SIDNEY CARLOS PRAXEDES",
+        "Componente Curricular": "EFL0402 - UNIDADES DE CONSERVACAO",
+        "Turma": "1",
+        "Horário": "2T12",
+        "Discentes": "9",
+        "Média Geral": "6.65",
+        "Desvio Padrão Geral": "3.53"
+    },
+    {
+        "Docente": "STELA ANTAS URBANO",
+        "Componente Curricular": "ZOO0462 - BOVINOCULTURA DE CORTE",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "10",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "STELA ANTAS URBANO",
+        "Componente Curricular": "ZOO0448 - ORGANIZAÇÃO DE EXPOSIÇÕES",
+        "Turma": "1",
+        "Horário": "3T123",
+        "Discentes": "19",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "STELA ANTAS URBANO",
+        "Componente Curricular": "ZOO0312 - PARASITOLOGIA, HIGIENE E PROFILAXIA ZOOTÉCNICA",
+        "Turma": "1",
+        "Horário": "26M456",
+        "Discentes": "11",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0021 - ENGENHARIA DE SOFTWARE",
+        "Turma": "1",
+        "Horário": "2T345",
+        "Discentes": "24",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0020 - ESTRUTURAS DE DADOS",
+        "Turma": "1",
+        "Horário": "4T34 5T12",
+        "Discentes": "18",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0019 - PROGRAMACAO WEB",
+        "Turma": "1",
+        "Horário": "46T12",
+        "Discentes": "15",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0057 - PROJETOS APLICADOS II",
+        "Turma": "1",
+        "Horário": "2M56 4M45 (11/02/2019 - 29/06/2019)",
+        "Discentes": "13",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "TATIANE KELLY BARBOSA DE AZEVEDO CARNAVAL",
+        "Componente Curricular": "EFL0300 - INTRODUCAO A ENGENHARIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "3M23",
+        "Discentes": "30",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "TATIANE KELLY BARBOSA DE AZEVEDO CARNAVAL",
+        "Componente Curricular": "EFL0301 - METODOS E TECNICAS DE PESQUISAS",
+        "Turma": "1",
+        "Horário": "5T12",
+        "Discentes": "5",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "TATIANE KELLY BARBOSA DE AZEVEDO CARNAVAL",
+        "Componente Curricular": "EFL0403 - PRODUTOS FLORESTAIS NAO-MADEIREIROS",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "8",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "THIAGO MANCHINI DE CAMPOS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "6",
+        "Horário": "35M56",
+        "Discentes": "42",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "AGR0325 - ELETRIFICAÇÃO RURAL",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "7",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "CCA0108 - FÍSICA GERAL E EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "41",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "ZOO0438 - MÁQUINAS E MOTORES AGRÍCOLAS",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "5",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "VALDI DE LIMA JUNIOR",
+        "Componente Curricular": "ZOO0410 - CAPRINOCULTURA E OVINOCULTURA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "16",
+        "Média Geral": "7.73",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "CCA0117 - AGROMETEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "23M23",
+        "Discentes": "23",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "AGR0318 - IRRIGAÇÃO E DRENAGEM",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "32",
+        "Média Geral": "8.4",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "AGR0324 - MECANIZAÇÃO AGRÍCOLA",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "14",
+        "Média Geral": "8.07",
+        "Desvio Padrão Geral": "2.2"
+    },
+    {
+        "Docente": "VIVIANE DA SILVA MEDEIROS",
+        "Componente Curricular": "ZOO0461 - CRIAÇÃO DE ANIMAIS DE ESTIMAÇÃO",
+        "Turma": "1",
+        "Horário": "4T123",
+        "Discentes": "13",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "WIARA DE ASSIS GOMES",
+        "Componente Curricular": "AGR0357 - AGRICULTURA FAMILIAR",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "8",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "WIARA DE ASSIS GOMES",
+        "Componente Curricular": "CCA0107 - ECOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "44",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "WIARA DE ASSIS GOMES",
+        "Componente Curricular": "AGR0400 - FRUTICULTURA TROPICAL",
+        "Turma": "1",
+        "Horário": "2T1234",
+        "Discentes": "5",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "ADRIANO HENRIQUE DO NASCIMENTO RANGEL",
+        "Componente Curricular": "ZOO0464 - CARNES E TIPIFICAÇÃO DE CARCAÇA",
+        "Turma": "1",
+        "Horário": "2M234",
+        "Discentes": "12",
+        "Média Geral": "8.09",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "ALEXANDRE SANTOS PIMENTA",
+        "Componente Curricular": "EFL0340 - ENERGIA DA BIOMASSA FLORESTAL",
+        "Turma": "1",
+        "Horário": "6M2345",
+        "Discentes": "9",
+        "Média Geral": "8.46",
+        "Desvio Padrão Geral": "2.35"
+    },
+    {
+        "Docente": "ALEXANDRE SANTOS PIMENTA",
+        "Componente Curricular": "EFL0320 - PROPRIEDADES DA MADEIRA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "19",
+        "Média Geral": "8.5",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "CAIO CESAR PEREIRA LEAL",
+        "Componente Curricular": "AGR0357 - AGRICULTURA FAMILIAR",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "17",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "CAIO CESAR PEREIRA LEAL",
+        "Componente Curricular": "AGR0332 - FRUTICULTURA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "15",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "CARLA DA COSTA FERNANDES CURVELO",
+        "Componente Curricular": "TAD0004 - ANALISE E PROJETO ORIENTADO A OBJETOS",
+        "Turma": "1",
+        "Horário": "3T123",
+        "Discentes": "23",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "CARLA DA COSTA FERNANDES CURVELO",
+        "Componente Curricular": "TAD0010 - BANCO DE DADOS II",
+        "Turma": "1",
+        "Horário": "6T123",
+        "Discentes": "24",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "CARLA DA COSTA FERNANDES CURVELO",
+        "Componente Curricular": "TAD0028 - PLANEJAMENTO E GERENCIA DE PROJETOS",
+        "Turma": "1",
+        "Horário": "5M456",
+        "Discentes": "10",
+        "Média Geral": "8.94",
+        "Desvio Padrão Geral": "2.46"
+    },
+    {
+        "Docente": "CARLA DA COSTA FERNANDES CURVELO",
+        "Componente Curricular": "TAD0056 - PROJETOS APLICADOS I",
+        "Turma": "1",
+        "Horário": "2M56 6M45 (30/07/2018 - 22/12/2018)",
+        "Discentes": "17",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "CASSIA REGINA DE ALMEIDA MORAES",
+        "Componente Curricular": "AGR0320 - CULTURAS AGRICOLAS II",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "15",
+        "Média Geral": "8.19",
+        "Desvio Padrão Geral": "2.38"
+    },
+    {
+        "Docente": "CASSIA REGINA DE ALMEIDA MORAES",
+        "Componente Curricular": "CCA0112 - MORFOLOGIA E SISTEMÁTICA VEGETAL",
+        "Turma": "4",
+        "Horário": "24M45",
+        "Discentes": "28",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "CIBELE SOARES PONTES",
+        "Componente Curricular": "DOL0095 - CARCINICULTURA II",
+        "Turma": "2",
+        "Horário": "24M23",
+        "Discentes": "9",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "DAMIANA CLEUMA DE MEDEIROS",
+        "Componente Curricular": "AGR0322 - CONTROLE DE PLANTAS DANINHAS",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "10",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "DAMIANA CLEUMA DE MEDEIROS",
+        "Componente Curricular": "AGR0315 - SOCIOLOGIA E EXTENSÃO RURAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "19",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "CCA0114 - ESTATÍSTICA",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "27",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "CCA0114 - ESTATÍSTICA",
+        "Turma": "3",
+        "Horário": "35T34",
+        "Discentes": "13",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "CCA0105 - MICROBIOLOGIA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "23",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "2.4"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "CCA0117 - AGROMETEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "28",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "CCA0117 - AGROMETEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "2",
+        "Horário": "25T34",
+        "Discentes": "16",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "AGR0321 - ENTOMOLOGIA AGRICOLA",
+        "Turma": "2",
+        "Horário": "35M45",
+        "Discentes": "22",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "EFL0306 - IRRIGACAO E DRENAGEM",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "15",
+        "Média Geral": "8.27",
+        "Desvio Padrão Geral": "2.6"
+    },
+    {
+        "Docente": "DINARTE AEDA DA SILVA",
+        "Componente Curricular": "CIV0446 - IRRIGAÇÃO E DRENAGEM",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "19",
+        "Média Geral": "8.83",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "EDSON MOREIRA SILVA NETO",
+        "Componente Curricular": "TAD0014 - REDES DE COMPUTADORES",
+        "Turma": "1",
+        "Horário": "56T456",
+        "Discentes": "26",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "EMERSON MOREIRA DE AGUIAR",
+        "Componente Curricular": "ZOO0309 - FORRAGICULTURA TROPICAL",
+        "Turma": "1",
+        "Horário": "2M23 5M45",
+        "Discentes": "16",
+        "Média Geral": "8.64",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "27",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "2.05"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "AGR0306 - FERTILIDADE DO SOLO",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "34",
+        "Média Geral": "8.85",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "AGR0312 - MANEJO E CONSERVAÇÃO DOS SOLOS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "5",
+        "Média Geral": "8.04",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "FABIO DE ALMEIDA VIEIRA",
+        "Componente Curricular": "EFL0302 - ESTATISTICA FLORESTAL",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "25",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "FABIO DE ALMEIDA VIEIRA",
+        "Componente Curricular": "EFL0304 - EXPERIMENTACAO FLORESTAL",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "15",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0111 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "36",
+        "Média Geral": "7.4",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0126 - TOPOGRAFIA AGRÍCOLA E GEORREFERENCIAMENTO",
+        "Turma": "1",
+        "Horário": "6M2345",
+        "Discentes": "29",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0126 - TOPOGRAFIA AGRÍCOLA E GEORREFERENCIAMENTO",
+        "Turma": "2",
+        "Horário": "2T1234",
+        "Discentes": "35",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "27",
+        "Média Geral": "8.5",
+        "Desvio Padrão Geral": "2.35"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "AGR0306 - FERTILIDADE DO SOLO",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "34",
+        "Média Geral": "8.75",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "AGR0312 - MANEJO E CONSERVAÇÃO DOS SOLOS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "5",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "AGR0310 - FITOPATOLOGIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "34",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "EFL0341 - FITOPATOLOGIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "20",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "CCA0105 - MICROBIOLOGIA",
+        "Turma": "2",
+        "Horário": "35M23",
+        "Discentes": "26",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "HENRIQUE ROCHA DE MEDEIROS",
+        "Componente Curricular": "ZOO0314 - ECONOMIA E ADMINISTRAÇÃO RURAL",
+        "Turma": "1",
+        "Horário": "35M456",
+        "Discentes": "45",
+        "Média Geral": "8.45",
+        "Desvio Padrão Geral": "2.28"
+    },
+    {
+        "Docente": "HENRIQUE ROCHA DE MEDEIROS",
+        "Componente Curricular": "ZOO0313 - EXTENSÃO E COMUNICAÇÃO RURAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "16",
+        "Média Geral": "8.08",
+        "Desvio Padrão Geral": "2.55"
+    },
+    {
+        "Docente": "IASMIM SANTOS MANGABEIRA E SILVA",
+        "Componente Curricular": "ZOO0468 - EQUIDEOCULTURA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "19",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "IASMIM SANTOS MANGABEIRA E SILVA",
+        "Componente Curricular": "CCA0114 - ESTATÍSTICA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "25",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "IASMIM SANTOS MANGABEIRA E SILVA",
+        "Componente Curricular": "ZOO0313 - EXTENSÃO E COMUNICAÇÃO RURAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "16",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "IVAN MAX FREIRE DE LACERDA",
+        "Componente Curricular": "TAD0034 - TOPICOS EM REDES DE COMPUTADORES",
+        "Turma": "1",
+        "Horário": "5M456",
+        "Discentes": "26",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "ZOO0467 - AVICULTURA",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "8",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "ZOO0476 - COTURNICULTURA",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "10",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "CCA0116 - MÉTODOS E TÉCNICAS DE PESQUISA",
+        "Turma": "1",
+        "Horário": "6M45",
+        "Discentes": "25",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "JOSE APARECIDO MOREIRA",
+        "Componente Curricular": "ZOO0429 - FORMULAÇÃO DE RAÇÕES",
+        "Turma": "1",
+        "Horário": "6M456",
+        "Discentes": "13",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "JOSE APARECIDO MOREIRA",
+        "Componente Curricular": "ZOO0447 - NUTRIÇÃO DE SUÍNOS",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "24",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "JOSE AUGUSTO DA SILVA SANTANA",
+        "Componente Curricular": "EFL0418 - MANEJO DA REGENERACAO NATURAL",
+        "Turma": "1",
+        "Horário": "3T123",
+        "Discentes": "13",
+        "Média Geral": "8.14",
+        "Desvio Padrão Geral": "2.34"
+    },
+    {
+        "Docente": "JOSE AUGUSTO DA SILVA SANTANA",
+        "Componente Curricular": "EFL0319 - PROTECAO FLORESTAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "21",
+        "Média Geral": "7.81",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "JOSE AUGUSTO DA SILVA SANTANA",
+        "Componente Curricular": "EFL0329 - SILVICULTURA REGIONAL",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "8",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "JOSE HAMILTON DA COSTA FILHO",
+        "Componente Curricular": "AGR0317 - MELHORAMENTO VEGETAL",
+        "Turma": "1",
+        "Horário": "46M45",
+        "Discentes": "11",
+        "Média Geral": "7.62",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "JULIANA LORENSI DO CANTO",
+        "Componente Curricular": "EFL0325 - MECANIZACAO FLORESTAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "9",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "JULIANA LORENSI DO CANTO",
+        "Componente Curricular": "AGR0334 - SILVICULTURA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "13",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "JULIANA PAULA FELIPE DE OLIVEIRA",
+        "Componente Curricular": "ZOO0468 - EQUIDEOCULTURA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "19",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "JULIANA PAULA FELIPE DE OLIVEIRA",
+        "Componente Curricular": "CCA0113 - QUÍMICA ORGÂNICA",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "44",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "ZOO0316 - AGRONEGÓCIO",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "30",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "AGR0331 - GESTÃO DE RECURSOS NATURAIS",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "22",
+        "Média Geral": "8.75",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "AGR0350 - GESTÃO EMPRESARIAL RURAL",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "15",
+        "Média Geral": "8.45",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "KARINA RIBEIRO",
+        "Componente Curricular": "ZOO0411 - CARCINOCULTURA",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "19",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA",
+        "Componente Curricular": "TAD0025 - INTELIGÊNCIA COMPUTACIONAL",
+        "Turma": "1",
+        "Horário": "34M23",
+        "Discentes": "8",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA",
+        "Componente Curricular": "TAD0009 - PROGRAMACAO ORIENTADA A OBJETOS",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "22",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "LEONARDO RODRIGUES DE LIMA TEIXEIRA",
+        "Componente Curricular": "TAD0030 - MICROCONTROLADORES",
+        "Turma": "1",
+        "Horário": "56M23",
+        "Discentes": "10",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "LUIS HENRIQUE FERNANDES BORBA",
+        "Componente Curricular": "ZOO0471 - MELHORAMENTO GENÉTICO ANIMAL",
+        "Turma": "1",
+        "Horário": "3M45 6M456",
+        "Discentes": "16",
+        "Média Geral": "8.39",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "MAGDA MARIA GUILHERMINO",
+        "Componente Curricular": "ZOO0400 - AGRICULTURA FAMILIAR",
+        "Turma": "1",
+        "Horário": "2M45",
+        "Discentes": "6",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "MALCON DO PRADO COSTA",
+        "Componente Curricular": "EFL0303 - DENDROLOGIA",
+        "Turma": "1",
+        "Horário": "6M2345",
+        "Discentes": "19",
+        "Média Geral": "6.64",
+        "Desvio Padrão Geral": "3.35"
+    },
+    {
+        "Docente": "MALCON DO PRADO COSTA",
+        "Componente Curricular": "EFL0322 - ECOLOGIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "19",
+        "Média Geral": "6.43",
+        "Desvio Padrão Geral": "3.43"
+    },
+    {
+        "Docente": "MARCONE GERALDO COSTA",
+        "Componente Curricular": "ZOO0306 - NUTRIÇÃO E ALIMENTAÇÃO DE RUMINANTES",
+        "Turma": "1",
+        "Horário": "2M456 6M45",
+        "Discentes": "19",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "MARIA LUCIANA LIRA DE ANDRADE",
+        "Componente Curricular": "AGR0326 - BIOTECNOLOGIA AGRICOLA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "14",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "MAURO VASCONCELOS PACHECO",
+        "Componente Curricular": "EFL0307 - SEMENTES FLORESTAIS",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "17",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "NESIO ANTONIO MOREIRA TEIXEIRA DE BARROS",
+        "Componente Curricular": "ZOO0302 - BIOCLIMATOLOGIA ANIMAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "17",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "NESIO ANTONIO MOREIRA TEIXEIRA DE BARROS",
+        "Componente Curricular": "CCA0109 - ZOOTECNIA GERAL",
+        "Turma": "1",
+        "Horário": "46T34",
+        "Discentes": "23",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "PAULO MARIO CARVALHO DE FARIA",
+        "Componente Curricular": "ZOO0450 - PISCICULTURA",
+        "Turma": "1",
+        "Horário": "4T345",
+        "Discentes": "25",
+        "Média Geral": "8.29",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "PAULO ROGERIO SOARES DE OLIVEIRA",
+        "Componente Curricular": "EFL0318 - ECONOMIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "14",
+        "Média Geral": "7.06",
+        "Desvio Padrão Geral": "2.4"
+    },
+    {
+        "Docente": "PAULO ROGERIO SOARES DE OLIVEIRA",
+        "Componente Curricular": "EFL0323 - INVENTARIO FLORESTAL",
+        "Turma": "1",
+        "Horário": "6M2345",
+        "Discentes": "16",
+        "Média Geral": "7.01",
+        "Desvio Padrão Geral": "2.97"
+    },
+    {
+        "Docente": "PAULO ROGERIO SOARES DE OLIVEIRA",
+        "Componente Curricular": "EFL0334 - POLITICA, ADMINISTRACAO E LEGISLACAO FLORESTAL",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "8",
+        "Média Geral": "8.64",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "RENATA MARTINS BRAGA",
+        "Componente Curricular": "CCA0121 - BIOQUÍMICA",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "17",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "RENATA MARTINS BRAGA",
+        "Componente Curricular": "CCA0103 - QUÍMICA GERAL",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "18",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "RODRIGO ANTONIO PONCE DE LEON FERREIRA DE CARVALHO",
+        "Componente Curricular": "DEQ0618 - TECNOLOGIA DE PESCADOS",
+        "Turma": "1",
+        "Horário": "2T345",
+        "Discentes": "9",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "ROSIMEIRE CAVALCANTE DOS SANTOS",
+        "Componente Curricular": "AGR0319 - ENERGIA DA BIOMASSA",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "27",
+        "Média Geral": "8.54",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "SERGIO MARQUES JUNIOR",
+        "Componente Curricular": "EFL0335 - AVALIACAO E MITIGACAO DE IMPACTOS AMBIENTAIS",
+        "Turma": "1",
+        "Horário": "5M2345",
+        "Discentes": "18",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "SERGIO MARQUES JUNIOR",
+        "Componente Curricular": "AGR0339 - GESTÃO DE PROJETOS",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "18",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "SEVERINO PAULO GOMES NETO",
+        "Componente Curricular": "TAD0015 - EMPREENDEDORISMO",
+        "Turma": "1",
+        "Horário": "4T345",
+        "Discentes": "28",
+        "Média Geral": "6.17",
+        "Desvio Padrão Geral": "3.26"
+    },
+    {
+        "Docente": "SEVERINO PAULO GOMES NETO",
+        "Componente Curricular": "TAD0011 - PROGRAMACAO VISUAL E AUTORIA WEB",
+        "Turma": "1",
+        "Horário": "3T456",
+        "Discentes": "22",
+        "Média Geral": "6",
+        "Desvio Padrão Geral": "3.22"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0121 - BIOQUÍMICA",
+        "Turma": "2",
+        "Horário": "24M45",
+        "Discentes": "15",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0113 - QUÍMICA ORGÂNICA",
+        "Turma": "3",
+        "Horário": "35M45",
+        "Discentes": "24",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "SIDNEY CARLOS PRAXEDES",
+        "Componente Curricular": "CCA0115 - ANATOMIA VEGETAL",
+        "Turma": "1",
+        "Horário": "26M23",
+        "Discentes": "28",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "SIDNEY CARLOS PRAXEDES",
+        "Componente Curricular": "CCA0112 - MORFOLOGIA E SISTEMÁTICA VEGETAL",
+        "Turma": "2",
+        "Horário": "26T12",
+        "Discentes": "25",
+        "Média Geral": "7.88",
+        "Desvio Padrão Geral": "2.66"
+    },
+    {
+        "Docente": "STELA ANTAS URBANO",
+        "Componente Curricular": "ZOO0304 - FISIOLOGIA DOS ANIMAIS DOMÉSTICOS",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "37",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0029 - ARQUITETURA DE SOFTWARE",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "9",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0027 - PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
+        "Turma": "1",
+        "Horário": "2M234 4M456",
+        "Discentes": "9",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "TASIA MOURA CARDOSO DO VALE",
+        "Componente Curricular": "TAD0013 - MATEMATICA APLICADA II",
+        "Turma": "1",
+        "Horário": "2T34 5T23",
+        "Discentes": "24",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "TATIANE KELLY BARBOSA DE AZEVEDO CARNAVAL",
+        "Componente Curricular": "EFL0301 - METODOS E TECNICAS DE PESQUISAS",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "17",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "TATIANE KELLY BARBOSA DE AZEVEDO CARNAVAL",
+        "Componente Curricular": "EFL0403 - PRODUTOS FLORESTAIS NAO-MADEIREIROS",
+        "Turma": "1",
+        "Horário": "5T123",
+        "Discentes": "11",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "THIAGO MANCHINI DE CAMPOS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "9",
+        "Horário": "3N1234",
+        "Discentes": "24",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "CCA0101 - CÁLCULO I",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "15",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "CCA0108 - FÍSICA GERAL E EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "22",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "CCA0108 - FÍSICA GERAL E EXPERIMENTAL",
+        "Turma": "2",
+        "Horário": "35M23",
+        "Discentes": "28",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "2.38"
+    },
+    {
+        "Docente": "UBIRATAN CORREIA SILVA",
+        "Componente Curricular": "CCA0108 - FÍSICA GERAL E EXPERIMENTAL",
+        "Turma": "3",
+        "Horário": "35T34",
+        "Discentes": "10",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "VALDI DE LIMA JUNIOR",
+        "Componente Curricular": "ZOO0310 - GERENCIAMENTO DE REBANHOS EM REPRODUÇÃO",
+        "Turma": "1",
+        "Horário": "46M23",
+        "Discentes": "20",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "AGR0323 - CONSTRUÇÕES RURAIS",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "12",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "AGR0307 - HIDRAULICA APLICADA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "32",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "AGR0307 - HIDRAULICA APLICADA",
+        "Turma": "2",
+        "Horário": "3T34 4T12",
+        "Discentes": "16",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "VIVIANE DA SILVA MEDEIROS",
+        "Componente Curricular": "ZOO0325 - BEM ESTAR ANIMAL",
+        "Turma": "1",
+        "Horário": "4M234",
+        "Discentes": "11",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "WIARA DE ASSIS GOMES",
+        "Componente Curricular": "ZOO0303 - FISIOLOGIA DAS PLANTAS FORRAGEIRAS",
+        "Turma": "1",
+        "Horário": "4M45 6M23",
+        "Discentes": "13",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "WIARA DE ASSIS GOMES",
+        "Componente Curricular": "CCA0112 - MORFOLOGIA E SISTEMÁTICA VEGETAL",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "26",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "ADRIANO HENRIQUE DO NASCIMENTO RANGEL",
+        "Componente Curricular": "ZOO0463 - BOVINOCULTURA DE LEITE",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "8",
+        "Média Geral": "7.22",
+        "Desvio Padrão Geral": "2.92"
+    },
+    {
+        "Docente": "ADRIANO HENRIQUE DO NASCIMENTO RANGEL",
+        "Componente Curricular": "ZOO0437 - JULGAMENTO DE ANIMAIS",
+        "Turma": "1",
+        "Horário": "4M234",
+        "Discentes": "11",
+        "Média Geral": "7.58",
+        "Desvio Padrão Geral": "2.4"
+    },
+    {
+        "Docente": "ADRIANO HENRIQUE DO NASCIMENTO RANGEL",
+        "Componente Curricular": "ZOO0315 - TECNOLOGIA E INDUSTRIALIZAÇÃO DE PRODUTOS DE ORIGEM ANIMAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "26",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "ALESSANDRA MENDES PACHECO GUERRA VALE",
+        "Componente Curricular": "TAD0018 - PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Turma": "1",
+        "Horário": "4M3456",
+        "Discentes": "16",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "ALEXANDRE SANTOS PIMENTA",
+        "Componente Curricular": "EFL0312 - ANATOMIA DA MADEIRA",
+        "Turma": "1",
+        "Horário": "2M2345",
+        "Discentes": "20",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "2.34"
+    },
+    {
+        "Docente": "ALEXANDRE SANTOS PIMENTA",
+        "Componente Curricular": "EFL0331 - TECNOLOGIA DE PRODUTOS FLORESTAIS",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "8",
+        "Média Geral": "8.04",
+        "Desvio Padrão Geral": "2.55"
+    },
+    {
+        "Docente": "ARISTOTELINA PEREIRA BARRETO ROCHA",
+        "Componente Curricular": "TAD0008 - CONTEXTO GEOGRAFICO REGIONAL",
+        "Turma": "1",
+        "Horário": "5M2345",
+        "Discentes": "10",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "CAIO CESAR PEREIRA LEAL",
+        "Componente Curricular": "AGR0357 - AGRICULTURA FAMILIAR",
+        "Turma": "1",
+        "Horário": "5M45 3T12",
+        "Discentes": "6",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "CAIO CESAR PEREIRA LEAL",
+        "Componente Curricular": "CCA0107 - ECOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "38",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "CASSIA REGINA DE ALMEIDA MORAES",
+        "Componente Curricular": "AGR0316 - CULTURAS AGRÍCOLAS I",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "13",
+        "Média Geral": "8.09",
+        "Desvio Padrão Geral": "2.28"
+    },
+    {
+        "Docente": "CASSIA REGINA DE ALMEIDA MORAES",
+        "Componente Curricular": "AGR0360 - FISIOLOGIA VEGETAL",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "14",
+        "Média Geral": "8.39",
+        "Desvio Padrão Geral": "2.87"
+    },
+    {
+        "Docente": "CASSIA REGINA DE ALMEIDA MORAES",
+        "Componente Curricular": "AGR0360 - FISIOLOGIA VEGETAL",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "14",
+        "Média Geral": "8.28",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "CLAUDIA SOUZA MACEDO",
+        "Componente Curricular": "CCA0127 - PÓS-COLHEITA E PROCESSAMENTO DE PRODUTOS AGROPECUÁRIOS",
+        "Turma": "1",
+        "Horário": "4T1234",
+        "Discentes": "17",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "CCA0102 - BIOLOGIA CELULAR E MOLECULAR",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "28",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "AGR0392 - ESTATÍSTICA EXPERIMENTAL AGRÍCOLA",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "6",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.56"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "EFL0304 - EXPERIMENTACAO FLORESTAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "10",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "EFL0313 - GENETICA GERAL",
+        "Turma": "1",
+        "Horário": "46M45",
+        "Discentes": "6",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "EFL0324 - MELHORAMENTO FLORESTAL",
+        "Turma": "1",
+        "Horário": "46M23",
+        "Discentes": "22",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "AGR0327 - CULTURAS AGRICOLAS III",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "18",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "CCA0123 - GENÉTICA GERAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "24",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "CCA0124 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO",
+        "Turma": "2",
+        "Horário": "6T1234",
+        "Discentes": "11",
+        "Média Geral": "8.81",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "CCA0119 - SOCIOLOGIA E EXTENSÃO RURAL",
+        "Turma": "1",
+        "Horário": "46M23",
+        "Discentes": "22",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "AGR0315 - SOCIOLOGIA E EXTENSÃO RURAL",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "19",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "DINARTE AEDA DA SILVA",
+        "Componente Curricular": "ZOO0308 - INSTALAÇÕES ZOOTÉCNICAS TROPICAIS",
+        "Turma": "1",
+        "Horário": "2M45 4M56",
+        "Discentes": "11",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "DINARTE AEDA DA SILVA",
+        "Componente Curricular": "CIV0446 - IRRIGAÇÃO E DRENAGEM",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "12",
+        "Média Geral": "7.95",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "EDSON MOREIRA SILVA NETO",
+        "Componente Curricular": "TAD0064 - REDES DE ALTA VELOCIDADE",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "7",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "EDSON MOREIRA SILVA NETO",
+        "Componente Curricular": "TAD0006 - SISTEMAS OPERACIONAIS",
+        "Turma": "1",
+        "Horário": "56T45",
+        "Discentes": "29",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "EMERSON MOREIRA DE AGUIAR",
+        "Componente Curricular": "ZOO0415 - CONSERVAÇÃO DE FORRAGENS",
+        "Turma": "1",
+        "Horário": "6T123",
+        "Discentes": "7",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "EMERSON MOREIRA DE AGUIAR",
+        "Componente Curricular": "AGR0314 - FORRAGICULTURA",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "16",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "EMERSON MOREIRA DE AGUIAR",
+        "Componente Curricular": "ZOO0305 - FORRAGICULTURA",
+        "Turma": "1",
+        "Horário": "2M23 6M45",
+        "Discentes": "20",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "33",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "2",
+        "Horário": "34M45",
+        "Discentes": "15",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "AGR0312 - MANEJO E CONSERVAÇÃO DOS SOLOS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "11",
+        "Média Geral": "7.75",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "AGR0313 - NUTRIÇÃO MINERAL DAS PLANTAS",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "16",
+        "Média Geral": "6.76",
+        "Desvio Padrão Geral": "2.67"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0106 - DESENHO TÉCNICO",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "39",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "EFL0342 - DESENHO TÉCNICO E CONSTRUÇÕES RURAIS",
+        "Turma": "1",
+        "Horário": "2M2345",
+        "Discentes": "26",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0124 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "6M2345",
+        "Discentes": "29",
+        "Média Geral": "8.69",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0124 - GEOPROCESSAMENTO E SENSORIAMENTO REMOTO",
+        "Turma": "2",
+        "Horário": "6T1234",
+        "Discentes": "11",
+        "Média Geral": "8.51",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "FRANCISCO ALEXANDRE DA COSTA",
+        "Componente Curricular": "CCA0101 - CÁLCULO I",
+        "Turma": "1",
+        "Horário": "46M23",
+        "Discentes": "29",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "FRANCISCO ALEXANDRE DA COSTA",
+        "Componente Curricular": "CCA0101 - CÁLCULO I",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "40",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "33",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "AGR0312 - MANEJO E CONSERVAÇÃO DOS SOLOS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "11",
+        "Média Geral": "7.76",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "EFL0314 - NUTRICAO MINERAL DAS ARVORES",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "30",
+        "Média Geral": "8.11",
+        "Desvio Padrão Geral": "2.86"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "AGR0313 - NUTRIÇÃO MINERAL DAS PLANTAS",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "16",
+        "Média Geral": "7.54",
+        "Desvio Padrão Geral": "2.38"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "CCA0128 - FITOPATOLOGIA II",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "10",
+        "Média Geral": "8.61",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "AGR0333 - PLANEJAMENTO ESTRATÉGICO DA PRODUÇÃO AGROPECUÁRIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "7",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "HENRIQUE ROCHA DE MEDEIROS",
+        "Componente Curricular": "CCA0107 - ECOLOGIA GERAL",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "6",
+        "Média Geral": "8.1",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "HENRIQUE ROCHA DE MEDEIROS",
+        "Componente Curricular": "ZOO0312 - PARASITOLOGIA, HIGIENE E PROFILAXIA ZOOTÉCNICA",
+        "Turma": "1",
+        "Horário": "35M456",
+        "Discentes": "17",
+        "Média Geral": "7.05",
+        "Desvio Padrão Geral": "3.02"
+    },
+    {
+        "Docente": "IASMIM SANTOS MANGABEIRA E SILVA",
+        "Componente Curricular": "CCA0102 - BIOLOGIA CELULAR E MOLECULAR",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "38",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "IASMIM SANTOS MANGABEIRA E SILVA",
+        "Componente Curricular": "CCA0123 - GENÉTICA GERAL",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "26",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "IVAN MAX FREIRE DE LACERDA",
+        "Componente Curricular": "TAD0007 - INSTALACAO E ARQUITETURA DE COMPUTADORES",
+        "Turma": "1",
+        "Horário": "5M456",
+        "Discentes": "29",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "CCA0110 - ZOOLOGIA GERAL",
+        "Turma": "1",
+        "Horário": "25M45",
+        "Discentes": "40",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "CCA0110 - ZOOLOGIA GERAL",
+        "Turma": "2",
+        "Horário": "6M23 3T34",
+        "Discentes": "7",
+        "Média Geral": "8.64",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "JOSE APARECIDO MOREIRA",
+        "Componente Curricular": "ZOO0469 - SUINOCULTURA",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "15",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "JOSE AUGUSTO DA SILVA SANTANA",
+        "Componente Curricular": "EFL0316 - MANEJO DE BACIAS HIDROGRAFICAS",
+        "Turma": "1",
+        "Horário": "2M234",
+        "Discentes": "11",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "JOSE AUGUSTO DA SILVA SANTANA",
+        "Componente Curricular": "EFL0332 - RECUPERACAO DE AREAS DEGRADADAS",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "15",
+        "Média Geral": "8.31",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "JOSE HAMILTON DA COSTA FILHO",
+        "Componente Curricular": "CCA0123 - GENÉTICA GERAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "24",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "JOSENALDE BARBOSA DE OLIVEIRA",
+        "Componente Curricular": "TAD0036 - SISTEMAS EMBARCADOS",
+        "Turma": "1",
+        "Horário": "46M12",
+        "Discentes": "12",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.89"
+    },
+    {
+        "Docente": "JULIANA LORENSI DO CANTO",
+        "Componente Curricular": "EFL0310 - DENDROMETRIA",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "31",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "JULIANA LORENSI DO CANTO",
+        "Componente Curricular": "EFL0330 - EXPLORACAO E TRANSPORTE FLORESTAL",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "14",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "JULIANA PAULA FELIPE DE OLIVEIRA",
+        "Componente Curricular": "CCA0121 - BIOQUÍMICA",
+        "Turma": "2",
+        "Horário": "46M56",
+        "Discentes": "9",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "JULIANA PAULA FELIPE DE OLIVEIRA",
+        "Componente Curricular": "ZOO0318 - METODOLOGIA DA PESQUISA CIENTIFICA",
+        "Turma": "1",
+        "Horário": "6T123",
+        "Discentes": "35",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "JULIANA PAULA FELIPE DE OLIVEIRA",
+        "Componente Curricular": "ZOO0307 - NUTRIÇÃO E ALIMENTAÇÃO DE MONOGÁSTRICOS",
+        "Turma": "1",
+        "Horário": "4M234 6M23",
+        "Discentes": "15",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "JULIO GOMES JUNIOR",
+        "Componente Curricular": "CCA0127 - PÓS-COLHEITA E PROCESSAMENTO DE PRODUTOS AGROPECUÁRIOS",
+        "Turma": "1",
+        "Horário": "4T1234",
+        "Discentes": "17",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "ZOO0311 - GESTÃO DE RECURSOS AMBIENTAIS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "23",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "AGR0331 - GESTÃO DE RECURSOS NATURAIS",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "25",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "AGR0350 - GESTÃO EMPRESARIAL RURAL",
+        "Turma": "1",
+        "Horário": "6M2345",
+        "Discentes": "19",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "AGR0345 - LEGISLAÇÃO E LICENCIAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "5M23",
+        "Discentes": "10",
+        "Média Geral": "8.71",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "KARINA RIBEIRO",
+        "Componente Curricular": "ZOO0411 - CARCINOCULTURA",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "16",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "KARLA DIANA DA SILVA SOMBRA",
+        "Componente Curricular": "ZOO0401 - APICULTURA",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "8",
+        "Média Geral": "7.8",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "KARLA DIANA DA SILVA SOMBRA",
+        "Componente Curricular": "EFL0315 - ENTOMOLOGIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "3T123",
+        "Discentes": "18",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "KARLA DIANA DA SILVA SOMBRA",
+        "Componente Curricular": "AGR0328 - PRAGAS DAS PLANTAS CULTIVADAS",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "15",
+        "Média Geral": "7.13",
+        "Desvio Padrão Geral": "2.46"
+    },
+    {
+        "Docente": "KARLA DIANA DA SILVA SOMBRA",
+        "Componente Curricular": "CCA0131 - TECNOLOGIA DE APLICAÇÃO DE PRODUTOS FITOSSANITÁRIOS",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "5",
+        "Média Geral": "7.77",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA",
+        "Componente Curricular": "CCA0104 - AGROINFORMÁTICA",
+        "Turma": "2",
+        "Horário": "46M23",
+        "Discentes": "34",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA",
+        "Componente Curricular": "TAD0002 - LOGICA COMPUTACIONAL E ALGORITMOS",
+        "Turma": "1",
+        "Horário": "24T123",
+        "Discentes": "37",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA",
+        "Componente Curricular": "TAD0032 - METODOLOGIA DO TRABALHO CIENTIFICO",
+        "Turma": "1",
+        "Horário": "2M23",
+        "Discentes": "13",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "LEONARDO RODRIGUES DE LIMA TEIXEIRA",
+        "Componente Curricular": "TAD0023 - CIRCUITOS DIGITAIS",
+        "Turma": "1",
+        "Horário": "2M123",
+        "Discentes": "14",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "LUIS HENRIQUE FERNANDES BORBA",
+        "Componente Curricular": "CCA0123 - GENÉTICA GERAL",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "26",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "LUIS HENRIQUE FERNANDES BORBA",
+        "Componente Curricular": "ZOO0470 - GENÉTICA QUANTITATIVA",
+        "Turma": "1",
+        "Horário": "3M34 5M234",
+        "Discentes": "11",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "MALCON DO PRADO COSTA",
+        "Componente Curricular": "CCA0107 - ECOLOGIA GERAL",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "6",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.6"
+    },
+    {
+        "Docente": "MALCON DO PRADO COSTA",
+        "Componente Curricular": "EFL0422 - FITOSSOCIOLOGIA",
+        "Turma": "1",
+        "Horário": "2T1234",
+        "Discentes": "5",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "MARCIO DIAS PEREIRA",
+        "Componente Curricular": "TAD0016 - VERTENTES PRODUTIVAS NAS CIENCIAS AGRARIAS",
+        "Turma": "1",
+        "Horário": "6M345",
+        "Discentes": "17",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "MARCONE GERALDO COSTA",
+        "Componente Curricular": "ZOO0323 - ANÁLISES DE ALIMENTOS",
+        "Turma": "1",
+        "Horário": "3T12 5T34",
+        "Discentes": "6",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "MARCONE GERALDO COSTA",
+        "Componente Curricular": "ZOO0425 - FISIOLOGIA DA DIGESTÃO",
+        "Turma": "1",
+        "Horário": "4T123",
+        "Discentes": "18",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "MARIA LUCIANA LIRA DE ANDRADE",
+        "Componente Curricular": "CCA0102 - BIOLOGIA CELULAR E MOLECULAR",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "28",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "MARIA LUCIANA LIRA DE ANDRADE",
+        "Componente Curricular": "CCA0102 - BIOLOGIA CELULAR E MOLECULAR",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "38",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "MAURO VASCONCELOS PACHECO",
+        "Componente Curricular": "EFL0311 - VIVEIROS FLORESTAIS",
+        "Turma": "1",
+        "Horário": "46M45",
+        "Discentes": "14",
+        "Média Geral": "8.46",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "NESIO ANTONIO MOREIRA TEIXEIRA DE BARROS",
+        "Componente Curricular": "ZOO0300 - ZOOTECNIA GERAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "40",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "2.41"
+    },
+    {
+        "Docente": "PAULO MARIO CARVALHO DE FARIA",
+        "Componente Curricular": "ZOO0450 - PISCICULTURA",
+        "Turma": "1",
+        "Horário": "3T345",
+        "Discentes": "12",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "PAULO ROGERIO SOARES DE OLIVEIRA",
+        "Componente Curricular": "EFL0417 - ETICA E EXERCICIO PROFISSIONAL",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "8",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "0.86"
+    },
+    {
+        "Docente": "PAULO ROGERIO SOARES DE OLIVEIRA",
+        "Componente Curricular": "EFL0416 - SOCIEDADE E MEIO AMBIENTE",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "15",
+        "Média Geral": "7.25",
+        "Desvio Padrão Geral": "2.71"
+    },
+    {
+        "Docente": "PEDRO ALEXANDRE APARECIDO DA SILVA",
+        "Componente Curricular": "TAD0003 - BANCO DE DADOS I",
+        "Turma": "1",
+        "Horário": "3T12 5T23",
+        "Discentes": "30",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "PEDRO ALEXANDRE APARECIDO DA SILVA",
+        "Componente Curricular": "TAD0021 - ENGENHARIA DE SOFTWARE",
+        "Turma": "1",
+        "Horário": "2M456",
+        "Discentes": "10",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "PEDRO ALEXANDRE APARECIDO DA SILVA",
+        "Componente Curricular": "TAD0012 - PROCESSO DE DESENVOLVIMENTO DE SOFTWARE",
+        "Turma": "1",
+        "Horário": "3T345",
+        "Discentes": "34",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "RENATA MARTINS BRAGA",
+        "Componente Curricular": "CCA0108 - FÍSICA GERAL E EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "39",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "RENATA MARTINS BRAGA",
+        "Componente Curricular": "CCA0400 - QUÍMICA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "14",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "RENATA MARTINS BRAGA",
+        "Componente Curricular": "CCA0103 - QUÍMICA GERAL",
+        "Turma": "1",
+        "Horário": "46M45",
+        "Discentes": "27",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "ROSIMEIRE CAVALCANTE DOS SANTOS",
+        "Componente Curricular": "AGR0341 - BIOENERGIAS",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "14",
+        "Média Geral": "7.47",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "SERGIO MARQUES JUNIOR",
+        "Componente Curricular": "AGR0336 - ANÁLISE DE VIABILIDADE DE PROJETOS AGROPECUÁRIOS",
+        "Turma": "1",
+        "Horário": "3M45 5M23",
+        "Discentes": "8",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "SERGIO MARQUES JUNIOR",
+        "Componente Curricular": "AGR0390 - ECONOMIA RURAL",
+        "Turma": "1",
+        "Horário": "3M23 5M45",
+        "Discentes": "13",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "SERGIO MARQUES JUNIOR",
+        "Componente Curricular": "EFL0328 - GESTAO DE PROJETOS FLORESTAIS",
+        "Turma": "1",
+        "Horário": "46M45",
+        "Discentes": "28",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "SEVERINO PAULO GOMES NETO",
+        "Componente Curricular": "CCA0104 - AGROINFORMÁTICA",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "26",
+        "Média Geral": "6.76",
+        "Desvio Padrão Geral": "3"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0121 - BIOQUÍMICA",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "32",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0103 - QUÍMICA GERAL",
+        "Turma": "2",
+        "Horário": "35M45",
+        "Discentes": "39",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0113 - QUÍMICA ORGÂNICA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "11",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "SIDNEY CARLOS PRAXEDES",
+        "Componente Curricular": "CCA0115 - ANATOMIA VEGETAL",
+        "Turma": "2",
+        "Horário": "25M45",
+        "Discentes": "5",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "SIDNEY CARLOS PRAXEDES",
+        "Componente Curricular": "CCA0120 - FISIOLOGIA VEGETAL",
+        "Turma": "1",
+        "Horário": "2M23 3M45",
+        "Discentes": "33",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "STELA ANTAS URBANO",
+        "Componente Curricular": "ZOO0462 - BOVINOCULTURA DE CORTE",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "27",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "STELA ANTAS URBANO",
+        "Componente Curricular": "ZOO0312 - PARASITOLOGIA, HIGIENE E PROFILAXIA ZOOTÉCNICA",
+        "Turma": "1",
+        "Horário": "35M456",
+        "Discentes": "17",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0020 - ESTRUTURAS DE DADOS",
+        "Turma": "1",
+        "Horário": "3M12 5M45",
+        "Discentes": "10",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0019 - PROGRAMACAO WEB",
+        "Turma": "1",
+        "Horário": "5M23 6M12",
+        "Discentes": "11",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0060 - SISTEMAS DISTRIBUIDOS",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "8",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.85"
+    },
+    {
+        "Docente": "TASIA MOURA CARDOSO DO VALE",
+        "Componente Curricular": "TAD0022 - ESTATISTICA APLICADA",
+        "Turma": "1",
+        "Horário": "3M345",
+        "Discentes": "12",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "TASIA MOURA CARDOSO DO VALE",
+        "Componente Curricular": "TAD0001 - FUNDAMENTOS DA COMPUTACAO",
+        "Turma": "1",
+        "Horário": "24T45",
+        "Discentes": "30",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "TASIA MOURA CARDOSO DO VALE",
+        "Componente Curricular": "TAD0035 - LEGISLACAO E ETICA EM TI",
+        "Turma": "1",
+        "Horário": "2M456",
+        "Discentes": "9",
+        "Média Geral": "7",
+        "Desvio Padrão Geral": "2.94"
+    },
+    {
+        "Docente": "TASIA MOURA CARDOSO DO VALE",
+        "Componente Curricular": "TAD0005 - MATEMATICA APLICADA I",
+        "Turma": "1",
+        "Horário": "6T123",
+        "Discentes": "31",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "2.1"
+    },
+    {
+        "Docente": "TATIANE KELLY BARBOSA DE AZEVEDO CARNAVAL",
+        "Componente Curricular": "EFL0300 - INTRODUCAO A ENGENHARIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "5T12",
+        "Discentes": "26",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "TATIANE KELLY BARBOSA DE AZEVEDO CARNAVAL",
+        "Componente Curricular": "EFL0333 - MANEJO DE AREAS NATURAIS PROTEGIDAS",
+        "Turma": "1",
+        "Horário": "2M234",
+        "Discentes": "12",
+        "Média Geral": "8.07",
+        "Desvio Padrão Geral": "2.6"
+    },
+    {
+        "Docente": "THIAGO MANCHINI DE CAMPOS",
+        "Componente Curricular": "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I",
+        "Turma": "8",
+        "Horário": "24N34",
+        "Discentes": "27",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "VALDI DE LIMA JUNIOR",
+        "Componente Curricular": "ZOO0327 - ALIMENTOS E ALIMENTAÇÃO",
+        "Turma": "1",
+        "Horário": "2M456",
+        "Discentes": "10",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "VALDI DE LIMA JUNIOR",
+        "Componente Curricular": "ZOO0410 - CAPRINOCULTURA E OVINOCULTURA",
+        "Turma": "1",
+        "Horário": "46M56",
+        "Discentes": "8",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "AGR0323 - CONSTRUÇÕES RURAIS",
+        "Turma": "1",
+        "Horário": "2M23 4M45",
+        "Discentes": "12",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "AGR0318 - IRRIGAÇÃO E DRENAGEM",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "13",
+        "Média Geral": "8.72",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "AGR0324 - MECANIZAÇÃO AGRÍCOLA",
+        "Turma": "1",
+        "Horário": "2M45 4M23",
+        "Discentes": "12",
+        "Média Geral": "8.94",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "VIVIANE DA SILVA MEDEIROS",
+        "Componente Curricular": "ZOO0325 - BEM ESTAR ANIMAL",
+        "Turma": "1",
+        "Horário": "4M234",
+        "Discentes": "6",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "WIARA DE ASSIS GOMES",
+        "Componente Curricular": "CCA0107 - ECOLOGIA GERAL",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "6",
+        "Média Geral": "5.5",
+        "Desvio Padrão Geral": "4.13"
+    },
+    {
+        "Docente": "ADRIANO HENRIQUE DO NASCIMENTO RANGEL",
+        "Componente Curricular": "ZOO0463 - BOVINOCULTURA DE LEITE",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "8",
+        "Média Geral": "8.26",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "ALEXANDRE SANTOS PIMENTA",
+        "Componente Curricular": "EFL0340 - ENERGIA DA BIOMASSA FLORESTAL",
+        "Turma": "1",
+        "Horário": "2M2345",
+        "Discentes": "16",
+        "Média Geral": "7.58",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "ALEXANDRE SANTOS PIMENTA",
+        "Componente Curricular": "EFL0320 - PROPRIEDADES DA MADEIRA",
+        "Turma": "1",
+        "Horário": "36M23",
+        "Discentes": "12",
+        "Média Geral": "8.46",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "CASSIA REGINA DE ALMEIDA MORAES",
+        "Componente Curricular": "AGR0320 - CULTURAS AGRICOLAS II",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "15",
+        "Média Geral": "8.77",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "CASSIA REGINA DE ALMEIDA MORAES",
+        "Componente Curricular": "AGR0360 - FISIOLOGIA VEGETAL",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "17",
+        "Média Geral": "8.15",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "CASSIA REGINA DE ALMEIDA MORAES",
+        "Componente Curricular": "CCA0112 - MORFOLOGIA E SISTEMÁTICA VEGETAL",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "39",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "CIBELE SOARES PONTES",
+        "Componente Curricular": "DOL0095 - CARCINICULTURA II",
+        "Turma": "1",
+        "Horário": "5M2345",
+        "Discentes": "20",
+        "Média Geral": "8.1",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "EFL0302 - ESTATISTICA FLORESTAL",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "24",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "EFL0304 - EXPERIMENTACAO FLORESTAL",
+        "Turma": "1",
+        "Horário": "5M23 6M45",
+        "Discentes": "7",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "EFL0313 - GENETICA GERAL",
+        "Turma": "1",
+        "Horário": "36M23",
+        "Discentes": "13",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "DANILO FLADEMIR ALVES DE OLIVEIRA",
+        "Componente Curricular": "EFL0301 - METODOS E TECNICAS DE PESQUISAS",
+        "Turma": "1",
+        "Horário": "4M34",
+        "Discentes": "23",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "AGR0322 - CONTROLE DE PLANTAS DANINHAS",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "19",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "DARLENE SAUSEN",
+        "Componente Curricular": "CCA0119 - SOCIOLOGIA E EXTENSÃO RURAL",
+        "Turma": "2",
+        "Horário": "56M45",
+        "Discentes": "22",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "DINARTE AEDA DA SILVA",
+        "Componente Curricular": "CIV0446 - IRRIGAÇÃO E DRENAGEM",
+        "Turma": "1",
+        "Horário": "6T1234",
+        "Discentes": "14",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "EDSON MOREIRA SILVA NETO",
+        "Componente Curricular": "TAD0014 - REDES DE COMPUTADORES",
+        "Turma": "1",
+        "Horário": "56T123",
+        "Discentes": "14",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "ELIDIEL DANTAS DA COSTA",
+        "Componente Curricular": "TAD0013 - MATEMATICA APLICADA II",
+        "Turma": "1",
+        "Horário": "56T45",
+        "Discentes": "12",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "ELIDIEL DANTAS DA COSTA",
+        "Componente Curricular": "TAD0011 - PROGRAMACAO VISUAL E AUTORIA WEB",
+        "Turma": "1",
+        "Horário": "3M123",
+        "Discentes": "16",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "EMERSON MOREIRA DE AGUIAR",
+        "Componente Curricular": "AGR0320 - CULTURAS AGRICOLAS II",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "15",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "EMERSON MOREIRA DE AGUIAR",
+        "Componente Curricular": "ZOO0309 - FORRAGICULTURA TROPICAL",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "19",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "EMERSON MOURA DE ALENCAR",
+        "Componente Curricular": "TAD0010 - BANCO DE DADOS II",
+        "Turma": "1",
+        "Horário": "4M456",
+        "Discentes": "17",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "AGR0357 - AGRICULTURA FAMILIAR",
+        "Turma": "4",
+        "Horário": "5T34 6T12",
+        "Discentes": "17",
+        "Média Geral": "8.28",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "14",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "ERMELINDA MARIA MOTA OLIVEIRA",
+        "Componente Curricular": "AGR0312 - MANEJO E CONSERVAÇÃO DOS SOLOS",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "16",
+        "Média Geral": "7.54",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "ARQ0002 - DESENHO TECNICO",
+        "Turma": "4",
+        "Horário": "2T1234",
+        "Discentes": "18",
+        "Média Geral": "8.28",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "FLAVO ELANO SOARES DE SOUZA",
+        "Componente Curricular": "CCA0126 - TOPOGRAFIA AGRÍCOLA E GEORREFERENCIAMENTO",
+        "Turma": "2",
+        "Horário": "5T12 6T34",
+        "Discentes": "41",
+        "Média Geral": "8.61",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "FRANCISCO ALEXANDRE DA COSTA",
+        "Componente Curricular": "CCA0101 - CÁLCULO I",
+        "Turma": "2",
+        "Horário": "36T12",
+        "Discentes": "14",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "FRANCISCO ALEXANDRE DA COSTA",
+        "Componente Curricular": "FIS0801 - FÍSICA GERAL I",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "20",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "GELSON DOS SANTOS DIFANTE",
+        "Componente Curricular": "ZOO0462 - BOVINOCULTURA DE CORTE",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "16",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.38"
+    },
+    {
+        "Docente": "GELSON DOS SANTOS DIFANTE",
+        "Componente Curricular": "ZOO0303 - FISIOLOGIA DAS PLANTAS FORRAGEIRAS",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "23",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "GELSON DOS SANTOS DIFANTE",
+        "Componente Curricular": "ZOO0423 - ÉTICA PROFISSIONAL E RESPONSABILIDADE TÉCNICA",
+        "Turma": "1",
+        "Horário": "3M45",
+        "Discentes": "9",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "14",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "CCA0122 - CIÊNCIA DO SOLO",
+        "Turma": "2",
+        "Horário": "24M23",
+        "Discentes": "20",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "AGR0306 - FERTILIDADE DO SOLO",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "17",
+        "Média Geral": "7.85",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "GUALTER GUENTHER COSTA DA SILVA",
+        "Componente Curricular": "AGR0312 - MANEJO E CONSERVAÇÃO DOS SOLOS",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "16",
+        "Média Geral": "7.91",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "AGR0310 - FITOPATOLOGIA",
+        "Turma": "1",
+        "Horário": "6M23 4T12",
+        "Discentes": "20",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "EFL0341 - FITOPATOLOGIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "45M45",
+        "Discentes": "20",
+        "Média Geral": "8.62",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "CCA0105 - MICROBIOLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "34",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "HAILSON ALVES FERREIRA PRESTON",
+        "Componente Curricular": "ZOO0451 - PRAGAS E DOENÇAS DAS PLANTAS FORRAGEIRAS",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "10",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "HENRIQUE ROCHA DE MEDEIROS",
+        "Componente Curricular": "ZOO0314 - ECONOMIA E ADMINISTRAÇÃO RURAL",
+        "Turma": "1",
+        "Horário": "24T123",
+        "Discentes": "28",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "HENRIQUE ROCHA DE MEDEIROS",
+        "Componente Curricular": "ZOO0468 - EQUIDEOCULTURA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "8",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "0.88"
+    },
+    {
+        "Docente": "HENRIQUE ROCHA DE MEDEIROS",
+        "Componente Curricular": "ZOO0337 - PARASITOLOGIA ZOOTÉCNICA",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "12",
+        "Média Geral": "7.9",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "ZOO0467 - AVICULTURA",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "10",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "JANETE GOUVEIA DE SOUZA",
+        "Componente Curricular": "ZOO0441 - NUTRIÇÃO DE AVES",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "17",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "JOSE APARECIDO MOREIRA",
+        "Componente Curricular": "ZOO0429 - FORMULAÇÃO DE RAÇÕES",
+        "Turma": "1",
+        "Horário": "6M456",
+        "Discentes": "15",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "JOSE AUGUSTO DA SILVA SANTANA",
+        "Componente Curricular": "EFL0319 - PROTECAO FLORESTAL",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "16",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "JOSE AUGUSTO DA SILVA SANTANA",
+        "Componente Curricular": "EFL0329 - SILVICULTURA REGIONAL",
+        "Turma": "1",
+        "Horário": "45M45",
+        "Discentes": "11",
+        "Média Geral": "7.56",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "JOSE HAMILTON DA COSTA FILHO",
+        "Componente Curricular": "CCA0114 - ESTATÍSTICA",
+        "Turma": "1",
+        "Horário": "46M12",
+        "Discentes": "30",
+        "Média Geral": "8.62",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "JOSE HAMILTON DA COSTA FILHO",
+        "Componente Curricular": "CCA0114 - ESTATÍSTICA",
+        "Turma": "3",
+        "Horário": "36T12",
+        "Discentes": "38",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "JOSE HAMILTON DA COSTA FILHO",
+        "Componente Curricular": "AGR0317 - MELHORAMENTO VEGETAL",
+        "Turma": "2",
+        "Horário": "36T34",
+        "Discentes": "20",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "JULIANA LORENSI DO CANTO",
+        "Componente Curricular": "EFL0325 - MECANIZACAO FLORESTAL",
+        "Turma": "1",
+        "Horário": "45M23",
+        "Discentes": "14",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "JULIANA LORENSI DO CANTO",
+        "Componente Curricular": "AGR0334 - SILVICULTURA",
+        "Turma": "1",
+        "Horário": "45M45",
+        "Discentes": "16",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "ZOO0316 - AGRONEGÓCIO",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "32",
+        "Média Geral": "7.74",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "KAREN MARIA DA COSTA MATTOS",
+        "Componente Curricular": "AGR0331 - GESTÃO DE RECURSOS NATURAIS",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "12",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "KARINA RIBEIRO",
+        "Componente Curricular": "ZOO0411 - CARCINOCULTURA",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "8",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "KARLA DIANA DA SILVA SOMBRA",
+        "Componente Curricular": "AGR0321 - ENTOMOLOGIA AGRICOLA",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "21",
+        "Média Geral": "8.69",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "KARLA DIANA DA SILVA SOMBRA",
+        "Componente Curricular": "CCA0114 - ESTATÍSTICA",
+        "Turma": "3",
+        "Horário": "36T12",
+        "Discentes": "38",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "KARLA DIANA DA SILVA SOMBRA",
+        "Componente Curricular": "ZOO0451 - PRAGAS E DOENÇAS DAS PLANTAS FORRAGEIRAS",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "10",
+        "Média Geral": "8.47",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "KARLA DIANA DA SILVA SOMBRA",
+        "Componente Curricular": "CCA0131 - TECNOLOGIA DE APLICAÇÃO DE PRODUTOS FITOSSANITÁRIOS",
+        "Turma": "1",
+        "Horário": "56M23",
+        "Discentes": "8",
+        "Média Geral": "8.48",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA",
+        "Componente Curricular": "TAD0025 - INTELIGÊNCIA COMPUTACIONAL",
+        "Turma": "1",
+        "Horário": "2M45 3M23",
+        "Discentes": "9",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "LAURA EMMANUELLA ALVES DOS SANTOS SANTANA DE OLIVEIRA",
+        "Componente Curricular": "TAD0009 - PROGRAMACAO ORIENTADA A OBJETOS",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "17",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "LEONARDO RODRIGUES DE LIMA TEIXEIRA",
+        "Componente Curricular": "TAD0030 - MICROCONTROLADORES",
+        "Turma": "1",
+        "Horário": "3M45 5M23",
+        "Discentes": "12",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "LUCIANO PATTO NOVAES",
+        "Componente Curricular": "ZOO0457 - SISTEMAS AGROSILVOPASTORIS",
+        "Turma": "1",
+        "Horário": "2M456",
+        "Discentes": "11",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "LUIS HENRIQUE FERNANDES BORBA",
+        "Componente Curricular": "ZOO0468 - EQUIDEOCULTURA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "8",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "0.78"
+    },
+    {
+        "Docente": "LUIS HENRIQUE FERNANDES BORBA",
+        "Componente Curricular": "CCA0114 - ESTATÍSTICA",
+        "Turma": "1",
+        "Horário": "46M12",
+        "Discentes": "30",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "LUIS HENRIQUE FERNANDES BORBA",
+        "Componente Curricular": "ZOO0471 - MELHORAMENTO GENÉTICO ANIMAL",
+        "Turma": "1",
+        "Horário": "3T12 5T123",
+        "Discentes": "11",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "MALCON DO PRADO COSTA",
+        "Componente Curricular": "EFL0303 - DENDROLOGIA",
+        "Turma": "1",
+        "Horário": "6M2345",
+        "Discentes": "19",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "MALCON DO PRADO COSTA",
+        "Componente Curricular": "EFL0322 - ECOLOGIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "23M45",
+        "Discentes": "20",
+        "Média Geral": "8.7",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "MARCELO CID DE AMORIM",
+        "Componente Curricular": "CCA0117 - AGROMETEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "22",
+        "Média Geral": "7.92",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "MARCELO CID DE AMORIM",
+        "Componente Curricular": "CCA0117 - AGROMETEOROLOGIA E CLIMATOLOGIA",
+        "Turma": "2",
+        "Horário": "24M45",
+        "Discentes": "25",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "MARCIO DIAS PEREIRA",
+        "Componente Curricular": "AGR0378 - PRODUÇÃO E TECNOLOGIA DE SEMENTES",
+        "Turma": "2",
+        "Horário": "35M45",
+        "Discentes": "12",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "MARCIO DIAS PEREIRA",
+        "Componente Curricular": "ZOO0459 - TECNOLOGIA E PRODUÇÃO DE SEMENTES FORRAGEIRAS",
+        "Turma": "2",
+        "Horário": "5T123",
+        "Discentes": "6",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "MARCONE GERALDO COSTA",
+        "Componente Curricular": "ZOO0306 - NUTRIÇÃO E ALIMENTAÇÃO DE RUMINANTES",
+        "Turma": "1",
+        "Horário": "3M45 5M456",
+        "Discentes": "34",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "MAURO VASCONCELOS PACHECO",
+        "Componente Curricular": "EFL0307 - SEMENTES FLORESTAIS",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "19",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "NESIO ANTONIO MOREIRA TEIXEIRA DE BARROS",
+        "Componente Curricular": "ZOO0302 - BIOCLIMATOLOGIA ANIMAL",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "6",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.58"
+    },
+    {
+        "Docente": "NESIO ANTONIO MOREIRA TEIXEIRA DE BARROS",
+        "Componente Curricular": "CCA0109 - ZOOTECNIA GERAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "21",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "PAULO MARIO CARVALHO DE FARIA",
+        "Componente Curricular": "ZOO0450 - PISCICULTURA",
+        "Turma": "2",
+        "Horário": "3T345",
+        "Discentes": "21",
+        "Média Geral": "8.71",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "PAULO ROGERIO SOARES DE OLIVEIRA",
+        "Componente Curricular": "EFL0318 - ECONOMIA FLORESTAL",
+        "Turma": "1",
+        "Horário": "23M45",
+        "Discentes": "14",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "PAULO ROGERIO SOARES DE OLIVEIRA",
+        "Componente Curricular": "EFL0323 - INVENTARIO FLORESTAL",
+        "Turma": "1",
+        "Horário": "45M45",
+        "Discentes": "9",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "PEDRO ALEXANDRE APARECIDO DA SILVA",
+        "Componente Curricular": "TAD0061 - GESTÃO DE SERVIÇOS DE TI",
+        "Turma": "1",
+        "Horário": "2T1234",
+        "Discentes": "13",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "PEDRO ALEXANDRE APARECIDO DA SILVA",
+        "Componente Curricular": "TAD0028 - PLANEJAMENTO E GERENCIA DE PROJETOS",
+        "Turma": "1",
+        "Horário": "4M456",
+        "Discentes": "11",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "PEDRO ALEXANDRE APARECIDO DA SILVA",
+        "Componente Curricular": "TAD0012 - PROCESSO DE DESENVOLVIMENTO DE SOFTWARE",
+        "Turma": "1",
+        "Horário": "2M456",
+        "Discentes": "17",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "ZOO0314 - ECONOMIA E ADMINISTRAÇÃO RURAL",
+        "Turma": "1",
+        "Horário": "24T123",
+        "Discentes": "28",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "ZOO0326 - EMBRIOLOGIA E REPRODUÇÃO ANIMAL",
+        "Turma": "1",
+        "Horário": "6M456",
+        "Discentes": "5",
+        "Média Geral": "8.38",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "ZOO0468 - EQUIDEOCULTURA",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "8",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.71"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "ZOO0313 - EXTENSÃO E COMUNICAÇÃO RURAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "23",
+        "Média Geral": "8.72",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "ZOO0304 - FISIOLOGIA DOS ANIMAIS DOMÉSTICOS",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "8",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "RENATA MARIA ALVES COUTINHO CAMPERO",
+        "Componente Curricular": "ZOO0337 - PARASITOLOGIA ZOOTÉCNICA",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "12",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "RENATA MARTINS BRAGA",
+        "Componente Curricular": "CCA0108 - FÍSICA GERAL E EXPERIMENTAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "7",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "ROSIMEIRE CAVALCANTE DOS SANTOS",
+        "Componente Curricular": "AGR0319 - ENERGIA DA BIOMASSA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "16",
+        "Média Geral": "7.84",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "ROSIMEIRE CAVALCANTE DOS SANTOS",
+        "Componente Curricular": "AGR0329 - PLANEJAMENTO AGROENERGETICO",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "14",
+        "Média Geral": "7.44",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "SERGIO MARQUES JUNIOR",
+        "Componente Curricular": "AGR0339 - GESTÃO DE PROJETOS",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "19",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "SEVERINO PAULO GOMES NETO",
+        "Componente Curricular": "TAD0015 - EMPREENDEDORISMO",
+        "Turma": "1",
+        "Horário": "3M456",
+        "Discentes": "19",
+        "Média Geral": "8.28",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0103 - QUÍMICA GERAL",
+        "Turma": "1",
+        "Horário": "35M23",
+        "Discentes": "7",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0113 - QUÍMICA ORGÂNICA",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "23",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "SHIRLLE KATIA DA SILVA NUNES",
+        "Componente Curricular": "CCA0113 - QUÍMICA ORGÂNICA",
+        "Turma": "3",
+        "Horário": "35M45",
+        "Discentes": "19",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "SIDNEY CARLOS PRAXEDES",
+        "Componente Curricular": "CCA0115 - ANATOMIA VEGETAL",
+        "Turma": "2",
+        "Horário": "24M23",
+        "Discentes": "33",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "SIDNEY CARLOS PRAXEDES",
+        "Componente Curricular": "EFL0321 - SISTEMAS AGROFLORESTAIS",
+        "Turma": "1",
+        "Horário": "2T1234",
+        "Discentes": "7",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "STELA ANTAS URBANO",
+        "Componente Curricular": "ZOO0462 - BOVINOCULTURA DE CORTE",
+        "Turma": "1",
+        "Horário": "24M23",
+        "Discentes": "16",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "STELA ANTAS URBANO",
+        "Componente Curricular": "ZOO0304 - FISIOLOGIA DOS ANIMAIS DOMÉSTICOS",
+        "Turma": "1",
+        "Horário": "24M45",
+        "Discentes": "8",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0029 - ARQUITETURA DE SOFTWARE",
+        "Turma": "1",
+        "Horário": "5M456",
+        "Discentes": "17",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "TANIRO CHACON RODRIGUES",
+        "Componente Curricular": "TAD0027 - PROGRAMACAO PARA DISPOSITIVOS MOVEIS",
+        "Turma": "1",
+        "Horário": "24M123",
+        "Discentes": "10",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "TATIANE KELLY BARBOSA DE AZEVEDO CARNAVAL",
+        "Componente Curricular": "EFL0333 - MANEJO DE AREAS NATURAIS PROTEGIDAS",
+        "Turma": "1",
+        "Horário": "3T123",
+        "Discentes": "7",
+        "Média Geral": "7.38",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "TATIANE KELLY BARBOSA DE AZEVEDO CARNAVAL",
+        "Componente Curricular": "EFL0403 - PRODUTOS FLORESTAIS NAO-MADEIREIROS",
+        "Turma": "1",
+        "Horário": "4T123",
+        "Discentes": "7",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "VALDI DE LIMA JUNIOR",
+        "Componente Curricular": "ZOO0310 - GERENCIAMENTO DE REBANHOS EM REPRODUÇÃO",
+        "Turma": "1",
+        "Horário": "35M45",
+        "Discentes": "8",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "AGR0323 - CONSTRUÇÕES RURAIS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "8",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "AGR0307 - HIDRAULICA APLICADA",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "28",
+        "Média Geral": "8.54",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "VANDA MARIA DE LIRA",
+        "Componente Curricular": "EFL0306 - IRRIGACAO E DRENAGEM",
+        "Turma": "1",
+        "Horário": "36M45",
+        "Discentes": "14",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "WIARA DE ASSIS GOMES",
+        "Componente Curricular": "AGR0326 - BIOTECNOLOGIA AGRICOLA",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "11",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "WIARA DE ASSIS GOMES",
+        "Componente Curricular": "AGR0332 - FRUTICULTURA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "13",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.14"
+    }
+]

@@ -1,0 +1,2463 @@
+{
+  "LET0478 - LEITURA E PRODUÇÃO DE TEXTO": {
+    "Notas": [
+      9.64,
+      9.73,
+      9.91,
+      9.94
+    ],
+    "Desvios": [
+      1.75,
+      1.82,
+      1.78,
+      1.21
+    ],
+    "Docentes": [
+      "ALESSANDRA CASTILHO FERREIRA DA COSTA",
+      "PATRICIA FERREIRA BOTELHO",
+      "CELIA MARIA DE MEDEIROS",
+      "ALBANYRA DOS SANTOS SOUZA"
+    ],
+    "DesvioDeNotas": 0.12459935794377076,
+    "MediaDeNotas": 9.805,
+    "MediaDeDesvios": 1.6400000000000001,
+    "NotaMediana": 9.91
+  },
+  "LET0579 - LEITURA E PRODUÇÃO DE TEXTO": {
+    "Notas": [
+      9.14,
+      9.23,
+      9.28,
+      9.41,
+      9.67
+    ],
+    "Desvios": [
+      2.17,
+      1.71,
+      1.91,
+      1.76,
+      1.73
+    ],
+    "Docentes": [
+      "ANA VIRGINIA LIMA DA SILVA ROCHA",
+      "PATRICIA FERREIRA BOTELHO",
+      "ALESSANDRA CASTILHO FERREIRA DA COSTA",
+      "NATALIA DE LIMA NOBRE"
+    ],
+    "DesvioDeNotas": 0.18402173784637496,
+    "MediaDeNotas": 9.346,
+    "MediaDeDesvios": 1.8559999999999999,
+    "NotaMediana": 9.28
+  },
+  "LET0301 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS I": {
+    "Notas": [
+      7.29,
+      7.62,
+      8.05,
+      8.93,
+      8.97,
+      9.04,
+      9.06,
+      9.12,
+      9.12,
+      9.14,
+      9.17,
+      9.25,
+      9.28,
+      9.29,
+      9.29,
+      9.31,
+      9.32,
+      9.35,
+      9.38,
+      9.4,
+      9.41,
+      9.44,
+      9.46,
+      9.46,
+      9.48,
+      9.5,
+      9.52,
+      9.57,
+      9.59,
+      9.61,
+      9.62,
+      9.62,
+      9.62,
+      9.63,
+      9.63,
+      9.65,
+      9.67,
+      9.67,
+      9.71,
+      9.73,
+      9.74,
+      9.74,
+      9.77,
+      9.82,
+      9.84,
+      9.84,
+      9.84,
+      9.87,
+      9.88,
+      9.89
+    ],
+    "Desvios": [
+      1.36,
+      1.62,
+      2.85,
+      1.93,
+      1.99,
+      2.13,
+      1.94,
+      2.33,
+      2.31,
+      1.7,
+      2.66,
+      1.7,
+      2.18,
+      1.9,
+      1.88,
+      1.8,
+      1.69,
+      1.65,
+      1.91,
+      2.21,
+      1.98,
+      1.95,
+      1.77,
+      1.94,
+      1.45,
+      1.24,
+      1.93,
+      1.65,
+      2.06,
+      1.96,
+      2.06,
+      1.73,
+      2.23,
+      2.12,
+      1.93,
+      2.03,
+      2.81,
+      1.65,
+      1.46,
+      1.57,
+      1.41,
+      0.81,
+      1.05,
+      1.34,
+      1.54,
+      1.31,
+      1.19,
+      1.17,
+      1.42,
+      1.59
+    ],
+    "Docentes": [
+      "ANA VIRGINIA LIMA DA SILVA ROCHA",
+      "CELLINA RODRIGUES MUNIZ",
+      "CLEBSON LUIZ DE BRITO",
+      "ERICA REVIGLIO ILIOVITZ",
+      "GILVANDO ALVES DE OLIVEIRA",
+      "JOAO MARIA PAIVA PALHANO",
+      "NATALIA DE LIMA NOBRE",
+      "ROBERTA DUARTE DE ARAUJO",
+      "SANDRA CRISTINA BEZERRA DE BARROS",
+      "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+      "SILVIA BARBALHO BRITO",
+      "JOSE DA LUZ DA COSTA",
+      "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+      "ALBANYRA DOS SANTOS SOUZA",
+      "JOSE LUIZ FERREIRA",
+      "MARIANA QUEIROGA TABOSA"
+    ],
+    "DesvioDeNotas": 0.5112103285341564,
+    "MediaDeNotas": 9.384,
+    "MediaDeDesvios": 1.8018,
+    "NotaMediana": 9.5
+  },
+  "LET0130 - LITERATURA GREGA I": {
+    "Notas": [
+      9.88,
+      9.88
+    ],
+    "Desvios": [
+      1.12,
+      1.1
+    ],
+    "Docentes": [
+      "ANDREY PEREIRA DE OLIVEIRA",
+      "MARCOS CESAR TINDO BARBOSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.88,
+    "MediaDeDesvios": 1.11,
+    "NotaMediana": 9.88
+  },
+  "LET0568 - LÍNGUA BRASILEIRA DE SINAIS - LIBRAS": {
+    "Notas": [
+      8.26,
+      8.88,
+      8.97,
+      9.14,
+      9.16,
+      9.22,
+      9.24,
+      9.29,
+      9.4,
+      9.41,
+      9.41,
+      9.42,
+      9.43,
+      9.46,
+      9.48,
+      9.52,
+      9.61,
+      9.66,
+      9.68,
+      9.73,
+      9.74,
+      9.78,
+      9.8,
+      9.83,
+      9.86,
+      9.91,
+      9.96
+    ],
+    "Desvios": [
+      1.45,
+      1.62,
+      1.65,
+      1.45,
+      0.97,
+      1.56,
+      0.75,
+      1.61,
+      1.55,
+      2.12,
+      1.85,
+      1.89,
+      1.23,
+      2.01,
+      1.11,
+      1.31,
+      1.82,
+      1.75,
+      1.79,
+      1.84,
+      2.13,
+      1.11,
+      1.52,
+      1.6,
+      1.08,
+      1.07,
+      1.25
+    ],
+    "Docentes": [
+      "AUGUSTO CARLOS DE AZEREDO",
+      "DANIELE CAROLINE GONÇALVES LIMA",
+      "GISELE OLIVEIRA DA SILVA PAIVA",
+      "IGOR DESSOLES BRAGA",
+      "MICHEL FREIRE MARQUES",
+      "SIMONE PATRICIA SOARES DE SOUZA",
+      "EZEQUIEL ADNEY LIMA DA PAIXAO",
+      "JOATAN DAVID FERREIRA DE MEDEIROS",
+      "MARIANE LINHARES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.36451030720729505,
+    "MediaDeNotas": 9.453703703703702,
+    "MediaDeDesvios": 1.521851851851852,
+    "NotaMediana": 9.46
+  },
+  "LET0517 - METODOLOGIA DE ENSINO EM LÍNGUA BRASILEIRA DE SINAIS COMO L1": {
+    "Notas": [
+      8.09,
+      8.15,
+      9.44
+    ],
+    "Desvios": [
+      2.26,
+      1.22,
+      2.09
+    ],
+    "Docentes": [
+      "AUGUSTO CARLOS DE AZEREDO",
+      "EZEQUIEL ADNEY LIMA DA PAIXAO"
+    ],
+    "DesvioDeNotas": 0.6227358990776103,
+    "MediaDeNotas": 8.56,
+    "MediaDeDesvios": 1.8566666666666665,
+    "NotaMediana": 8.15
+  },
+  "LET0420 - FONÉTICA E FONOLOGIA DA LÍNGUA PORTUGUESA": {
+    "Notas": [
+      9.25,
+      9.66,
+      9.81,
+      9.82
+    ],
+    "Desvios": [
+      1.52,
+      1.58,
+      2.12,
+      1.17
+    ],
+    "Docentes": [
+      "CARLA MARIA CUNHA",
+      "ERICA REVIGLIO ILIOVITZ"
+    ],
+    "DesvioDeNotas": 0.23113848662652456,
+    "MediaDeNotas": 9.635000000000002,
+    "MediaDeDesvios": 1.5975000000000001,
+    "NotaMediana": 9.81
+  },
+  "FPE2005 - ATELIÊ ARTICULADOR DE SABERES I": {
+    "Notas": [
+      7.7,
+      9.27,
+      9.54,
+      9.61,
+      9.61,
+      9.67,
+      9.71
+    ],
+    "Desvios": [
+      1.33,
+      1.84,
+      1.5,
+      1.35,
+      1.99,
+      1.95,
+      3.19
+    ],
+    "Docentes": [
+      "CELIA MARIA DE MEDEIROS",
+      "NATALIA DE LIMA NOBRE"
+    ],
+    "DesvioDeNotas": 0.6671566226784182,
+    "MediaDeNotas": 9.301428571428572,
+    "MediaDeDesvios": 1.8785714285714283,
+    "NotaMediana": 9.61
+  },
+  "LET0782 - LEITURA E PRODUÇÃO DE TEXTOS": {
+    "Notas": [
+      8.56,
+      9.02,
+      9.49,
+      9.77,
+      9.78,
+      9.82
+    ],
+    "Desvios": [
+      1.38,
+      2.32,
+      1.51,
+      1.37,
+      1.54,
+      1.72
+    ],
+    "Docentes": [
+      "CELIA MARIA DE MEDEIROS",
+      "NATALIA DE LIMA NOBRE"
+    ],
+    "DesvioDeNotas": 0.4682473230628824,
+    "MediaDeNotas": 9.406666666666666,
+    "MediaDeDesvios": 1.6400000000000003,
+    "NotaMediana": 9.77
+  },
+  "LET0002 - LINGUA PORTUGUESA II": {
+    "Notas": [
+      6.58,
+      7.92,
+      8.84,
+      8.84,
+      8.86,
+      8.87,
+      9.25,
+      9.28,
+      9.41,
+      9.68,
+      9.69,
+      9.74,
+      9.77,
+      9.78,
+      9.8,
+      9.9
+    ],
+    "Desvios": [
+      1.47,
+      1.4,
+      1.65,
+      2.21,
+      2.53,
+      1.53,
+      1.5,
+      3.08,
+      2.15,
+      2.19,
+      1.66,
+      1.46,
+      1.64,
+      1.46,
+      1.89,
+      1.83
+    ],
+    "Docentes": [
+      "CELIA MARIA DE MEDEIROS",
+      "ERICA REVIGLIO ILIOVITZ",
+      "JOAO BATISTA DA COSTA JUNIOR",
+      "TIAGO DE AGUIAR RODRIGUES",
+      "CELLINA RODRIGUES MUNIZ",
+      "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+      "LEDJA LORENA FERREIRA DA CRUZ MADEIRO"
+    ],
+    "DesvioDeNotas": 0.8385867482705651,
+    "MediaDeNotas": 9.138124999999999,
+    "MediaDeDesvios": 1.8531250000000004,
+    "NotaMediana": 9.41
+  },
+  "LET0428 - PESQUISA EM ESTUDOS LINGUÍSTICOS I": {
+    "Notas": [
+      9.47,
+      9.58,
+      9.74,
+      9.77,
+      9.83
+    ],
+    "Desvios": [
+      0.94,
+      1.12,
+      1.88,
+      1.56,
+      1.41
+    ],
+    "Docentes": [
+      "CELIA MARIA DE MEDEIROS",
+      "CLEBSON LUIZ DE BRITO",
+      "EDVALDO BALDUINO BISPO",
+      "MARIA DA PENHA CASADO ALVES"
+    ],
+    "DesvioDeNotas": 0.1328758819349845,
+    "MediaDeNotas": 9.678,
+    "MediaDeDesvios": 1.3820000000000001,
+    "NotaMediana": 9.74
+  },
+  "LET0263 - PRODUÇÃO DE TEXTO II": {
+    "Notas": [
+      8.6,
+      9.54,
+      9.84,
+      9.86
+    ],
+    "Desvios": [
+      1.21,
+      1.56,
+      2.35,
+      1.4
+    ],
+    "Docentes": [
+      "CELIA MARIA DE MEDEIROS",
+      "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS"
+    ],
+    "DesvioDeNotas": 0.5124451190127582,
+    "MediaDeNotas": 9.459999999999999,
+    "MediaDeDesvios": 1.63,
+    "NotaMediana": 9.84
+  },
+  "LET0001 - LINGUA PORTUGUESA I": {
+    "Notas": [
+      7.07,
+      7.22,
+      7.47,
+      7.67,
+      9.28,
+      9.38,
+      9.44,
+      9.57,
+      9.61,
+      9.71,
+      9.81,
+      9.82,
+      9.84,
+      9.86
+    ],
+    "Desvios": [
+      2.58,
+      1.74,
+      2.62,
+      1.83,
+      1.69,
+      1.47,
+      1.54,
+      2.52,
+      2.56,
+      1.92,
+      1.81,
+      1.41,
+      1.59,
+      1.43
+    ],
+    "Docentes": [
+      "CELLINA RODRIGUES MUNIZ",
+      "JOAO MARIA PAIVA PALHANO",
+      "NATALIA DE LIMA NOBRE",
+      "PATRICIA FERREIRA BOTELHO",
+      "ERICA REVIGLIO ILIOVITZ",
+      "SILVIA BARBALHO BRITO",
+      "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+      "MARIANA QUEIROGA TABOSA"
+    ],
+    "DesvioDeNotas": 1.0484626743913381,
+    "MediaDeNotas": 8.982142857142856,
+    "MediaDeDesvios": 1.9078571428571427,
+    "NotaMediana": 9.57
+  },
+  "LET0306 - PRATICA DE LEITURA E PRODUCAO DE TEXTOS II": {
+    "Notas": [
+      7.83,
+      8.57,
+      8.74,
+      8.98,
+      9.25,
+      9.31,
+      9.42,
+      9.43,
+      9.46,
+      9.5,
+      9.53,
+      9.57,
+      9.82
+    ],
+    "Desvios": [
+      1.93,
+      1.63,
+      1.97,
+      1.96,
+      2.06,
+      1.8,
+      2.14,
+      1.97,
+      2.1,
+      2.09,
+      1.74,
+      0.95,
+      1.45
+    ],
+    "Docentes": [
+      "CLEBSON LUIZ DE BRITO",
+      "JOAO BATISTA DA COSTA JUNIOR",
+      "NATALIA DE LIMA NOBRE",
+      "TIAGO DE AGUIAR RODRIGUES",
+      "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS",
+      "PATRICIA FERREIRA BOTELHO",
+      "LEDJA LORENA FERREIRA DA CRUZ MADEIRO",
+      "SYLVIA COUTINHO ABBOTT GALVAO",
+      "ALBANYRA DOS SANTOS SOUZA",
+      "MARIANA QUEIROGA TABOSA"
+    ],
+    "DesvioDeNotas": 0.514013100470816,
+    "MediaDeNotas": 9.185384615384617,
+    "MediaDeDesvios": 1.8299999999999998,
+    "NotaMediana": 9.42
+  },
+  "LET0487 - LÍNGUA BRASILEIRA DE SINAIS I": {
+    "Notas": [
+      9.04,
+      9.22
+    ],
+    "Desvios": [
+      1.39,
+      1.67
+    ],
+    "Docentes": [
+      "DANIELE CAROLINE GONÇALVES LIMA",
+      "GISELE OLIVEIRA DA SILVA PAIVA"
+    ],
+    "DesvioDeNotas": 0.09000000000000075,
+    "MediaDeNotas": 9.129999999999999,
+    "MediaDeDesvios": 1.5299999999999998,
+    "NotaMediana": 9.22
+  },
+  "LET0065 - LITERATURA BRASILEIRA I": {
+    "Notas": [
+      8.52,
+      8.56,
+      9.13,
+      9.81
+    ],
+    "Desvios": [
+      2.33,
+      1.93,
+      2.42,
+      1.19
+    ],
+    "Docentes": [
+      "DERIVALDO DOS SANTOS",
+      "PAULA PIRES FERREIRA",
+      "ANDREY PEREIRA DE OLIVEIRA",
+      "JOSE LUIZ FERREIRA"
+    ],
+    "DesvioDeNotas": 0.5236649692312827,
+    "MediaDeNotas": 9.005,
+    "MediaDeDesvios": 1.9674999999999998,
+    "NotaMediana": 9.13
+  },
+  "LET0358 - SINTAXE DA LINGUA PORTUGUESA I": {
+    "Notas": [
+      8.88,
+      9.7,
+      9.74,
+      9.85
+    ],
+    "Desvios": [
+      1.47,
+      1.48,
+      2.51,
+      1.23
+    ],
+    "Docentes": [
+      "EDVALDO BALDUINO BISPO",
+      "JOSE DA LUZ DA COSTA",
+      "CARLA MARIA CUNHA"
+    ],
+    "DesvioDeNotas": 0.3864178437908887,
+    "MediaDeNotas": 9.5425,
+    "MediaDeDesvios": 1.6724999999999999,
+    "NotaMediana": 9.74
+  },
+  "LET0575 - FUNDAMENTOS DOS ESTUDOS LINGUÍSTICOS": {
+    "Notas": [
+      8.82,
+      9.01,
+      9.48,
+      9.82
+    ],
+    "Desvios": [
+      2.2,
+      1.9,
+      1.58,
+      1.81
+    ],
+    "Docentes": [
+      "ERIK FERNANDO MILETTA MARTINS",
+      "MARCOS ANTONIO COSTA",
+      "JOAO GOMES DA SILVA NETO"
+    ],
+    "DesvioDeNotas": 0.3924522263919522,
+    "MediaDeNotas": 9.2825,
+    "MediaDeDesvios": 1.8725,
+    "NotaMediana": 9.48
+  },
+  "LET0046 - LINGUISTICA VIII": {
+    "Notas": [
+      9.61
+    ],
+    "Desvios": [
+      1.22
+    ],
+    "Docentes": [
+      "ERIK FERNANDO MILETTA MARTINS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.22,
+    "NotaMediana": 9.61
+  },
+  "LET0583 - CLÁSSICOS DA LITERATURA MEDIEVAL E MODERNA": {
+    "Notas": [
+      9.56
+    ],
+    "Desvios": [
+      1.73
+    ],
+    "Docentes": [
+      "FRANCISCO FABIO VIEIRA MARCOLINO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.56,
+    "MediaDeDesvios": 1.73,
+    "NotaMediana": 9.56
+  },
+  "LET0059 - TEORIA DA LITERATURA III": {
+    "Notas": [
+      9.81,
+      9.97
+    ],
+    "Desvios": [
+      1.54,
+      1.12
+    ],
+    "Docentes": [
+      "FRANCISCO FABIO VIEIRA MARCOLINO"
+    ],
+    "DesvioDeNotas": 0.08000000000000007,
+    "MediaDeNotas": 9.89,
+    "MediaDeDesvios": 1.33,
+    "NotaMediana": 9.97
+  },
+  "LET0490 - AQUISIÇÃO DA LINGUAGEM": {
+    "Notas": [
+      8.72,
+      9.25
+    ],
+    "Desvios": [
+      1.63,
+      1.67
+    ],
+    "Docentes": [
+      "GISELE OLIVEIRA DA SILVA PAIVA",
+      "JESSICA DO CARMO ALVES DE ANDRADE"
+    ],
+    "DesvioDeNotas": 0.2649999999999997,
+    "MediaDeNotas": 8.985,
+    "MediaDeDesvios": 1.65,
+    "NotaMediana": 9.25
+  },
+  "LET0057 - LITERATURA INFANTO-JUVENIL I": {
+    "Notas": [
+      8.89,
+      9.5,
+      9.74,
+      9.87
+    ],
+    "Desvios": [
+      1.76,
+      1.06,
+      2.19,
+      1.49
+    ],
+    "Docentes": [
+      "HENRIQUE EDUARDO DE SOUSA",
+      "JOAQUIM ADELINO DANTAS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.3763641853311759,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.625,
+    "NotaMediana": 9.74
+  },
+  "LET0061 - LITERATURA INFANTO-JUVENIL II": {
+    "Notas": [
+      9.66
+    ],
+    "Desvios": [
+      1.17
+    ],
+    "Docentes": [
+      "HENRIQUE EDUARDO DE SOUSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.66,
+    "MediaDeDesvios": 1.17,
+    "NotaMediana": 9.66
+  },
+  "LET0569 - TEORIA DO POEMA": {
+    "Notas": [
+      8.69,
+      9.26,
+      9.7
+    ],
+    "Desvios": [
+      2.36,
+      1.45,
+      2.22
+    ],
+    "Docentes": [
+      "HENRIQUE EDUARDO DE SOUSA",
+      "FRANCISCO FABIO VIEIRA MARCOLINO"
+    ],
+    "DesvioDeNotas": 0.41346772008895144,
+    "MediaDeNotas": 9.216666666666667,
+    "MediaDeDesvios": 2.01,
+    "NotaMediana": 9.26
+  },
+  "LET0515 - COMPREENSÃO DE TEXTOS EM LÍNGUA PORTUGUESA": {
+    "Notas": [
+      8.8,
+      8.91
+    ],
+    "Desvios": [
+      1.98,
+      1.26
+    ],
+    "Docentes": [
+      "IGOR DESSOLES BRAGA",
+      "SIMONE LORENA DA SILVA PEREIRA"
+    ],
+    "DesvioDeNotas": 0.054999999999999716,
+    "MediaDeNotas": 8.855,
+    "MediaDeDesvios": 1.62,
+    "NotaMediana": 8.91
+  },
+  "LET0527 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS IV": {
+    "Notas": [
+      8.81,
+      9.47
+    ],
+    "Desvios": [
+      0.91,
+      1.81
+    ],
+    "Docentes": [
+      "IGOR DESSOLES BRAGA",
+      "LARALIS NUNES DE SOUSA OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.33000000000000007,
+    "MediaDeNotas": 9.14,
+    "MediaDeDesvios": 1.36,
+    "NotaMediana": 9.47
+  },
+  "LET0518 - LAB. DE INTERPRETAÇÃO DE LÍNGUA BRASILEIRA DE SINAIS E LÍNGUA PORTUGUESA I": {
+    "Notas": [
+      8.02,
+      8.75
+    ],
+    "Desvios": [
+      2.19,
+      1.57
+    ],
+    "Docentes": [
+      "ISAACK SAYMON ALVES FEITOZA SILVA"
+    ],
+    "DesvioDeNotas": 0.3650000000000002,
+    "MediaDeNotas": 8.385,
+    "MediaDeDesvios": 1.88,
+    "NotaMediana": 8.75
+  },
+  "LET0549 - LITERATURA SURDA II": {
+    "Notas": [
+      8.45
+    ],
+    "Desvios": [
+      2.25
+    ],
+    "Docentes": [
+      "ISAACK SAYMON ALVES FEITOZA SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.45,
+    "MediaDeDesvios": 2.25,
+    "NotaMediana": 8.45
+  },
+  "LET0208 - LINGUISTICA IV": {
+    "Notas": [
+      9.06,
+      9.27,
+      9.38,
+      9.56
+    ],
+    "Desvios": [
+      1.54,
+      1.65,
+      1.8,
+      1.63
+    ],
+    "Docentes": [
+      "JOAO GOMES DA SILVA NETO",
+      "MARIA DO SOCORRO OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.18115946014492326,
+    "MediaDeNotas": 9.3175,
+    "MediaDeDesvios": 1.655,
+    "NotaMediana": 9.38
+  },
+  "LET0574 - FUNDAMENTOS DA LITERATURA OCIDENTAL": {
+    "Notas": [
+      9.49
+    ],
+    "Desvios": [
+      1.79
+    ],
+    "Docentes": [
+      "JOAQUIM ADELINO DANTAS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.79,
+    "NotaMediana": 9.49
+  },
+  "LET0196 - FUNDAMENTOS DA LITERATURA OCIDENTAL I": {
+    "Notas": [
+      9.79,
+      9.79
+    ],
+    "Desvios": [
+      1.18,
+      1.18
+    ],
+    "Docentes": [
+      "JOAQUIM ADELINO DANTAS DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.79,
+    "MediaDeDesvios": 1.18,
+    "NotaMediana": 9.79
+  },
+  "LET0058 - TEORIA DA LITERATURA II": {
+    "Notas": [
+      9.36,
+      9.4,
+      9.43,
+      9.72,
+      9.78,
+      9.89,
+      9.95,
+      9.99
+    ],
+    "Desvios": [
+      1.07,
+      1.77,
+      2.07,
+      1.48,
+      0.81,
+      0.96,
+      1.34,
+      1.7
+    ],
+    "Docentes": [
+      "JOAQUIM ADELINO DANTAS DE OLIVEIRA",
+      "FRANCISCO FABIO VIEIRA MARCOLINO",
+      "HENRIQUE EDUARDO DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.2416609194718915,
+    "MediaDeNotas": 9.690000000000001,
+    "MediaDeDesvios": 1.4,
+    "NotaMediana": 9.78
+  },
+  "LET0570 - TEORIA DA NARRATIVA": {
+    "Notas": [
+      9.09,
+      9.7
+    ],
+    "Desvios": [
+      1.44,
+      1.8
+    ],
+    "Docentes": [
+      "JOAQUIM ADELINO DANTAS DE OLIVEIRA",
+      "JOSE LUIZ FERREIRA"
+    ],
+    "DesvioDeNotas": 0.3049999999999997,
+    "MediaDeNotas": 9.395,
+    "MediaDeDesvios": 1.62,
+    "NotaMediana": 9.7
+  },
+  "LET0106 - ESTILISTICA DA LINGUA PORTUGUESA I": {
+    "Notas": [
+      9.63,
+      9.94
+    ],
+    "Desvios": [
+      1.29,
+      1.2
+    ],
+    "Docentes": [
+      "JOSE DA LUZ DA COSTA",
+      "JOAO MARIA PAIVA PALHANO"
+    ],
+    "DesvioDeNotas": 0.15499999999999936,
+    "MediaDeNotas": 9.785,
+    "MediaDeDesvios": 1.245,
+    "NotaMediana": 9.94
+  },
+  "LET0357 - MORFOLOGIA DA LINGUA PORTUGUESA I": {
+    "Notas": [
+      9.48,
+      9.52,
+      9.58,
+      9.76
+    ],
+    "Desvios": [
+      1.57,
+      1.49,
+      1.45,
+      1.69
+    ],
+    "Docentes": [
+      "JOSE DA LUZ DA COSTA",
+      "CARLA MARIA CUNHA"
+    ],
+    "DesvioDeNotas": 0.10712142642814264,
+    "MediaDeNotas": 9.585,
+    "MediaDeDesvios": 1.5499999999999998,
+    "NotaMediana": 9.58
+  },
+  "LET0359 - SINTAXE DA LINGUA PORTUGUESA II": {
+    "Notas": [
+      9.49,
+      9.63,
+      9.65,
+      9.8
+    ],
+    "Desvios": [
+      1.37,
+      1.79,
+      1.78,
+      1.52
+    ],
+    "Docentes": [
+      "JOSE DA LUZ DA COSTA",
+      "CARLA MARIA CUNHA"
+    ],
+    "DesvioDeNotas": 0.10985786271359933,
+    "MediaDeNotas": 9.6425,
+    "MediaDeDesvios": 1.6150000000000002,
+    "NotaMediana": 9.65
+  },
+  "LET0195 - TEORIA DA LITERATURA I": {
+    "Notas": [
+      8.93,
+      9.31,
+      9.41,
+      9.69,
+      9.81
+    ],
+    "Desvios": [
+      1,
+      1.47,
+      1.84,
+      2.32,
+      2.04
+    ],
+    "Docentes": [
+      "JOSE LUIZ FERREIRA",
+      "FRANCISCO FABIO VIEIRA MARCOLINO",
+      "HENRIQUE EDUARDO DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.3088041450499006,
+    "MediaDeNotas": 9.43,
+    "MediaDeDesvios": 1.7339999999999995,
+    "NotaMediana": 9.41
+  },
+  "LET0446 - LITERATURA BRASILEIRA III": {
+    "Notas": [
+      9.25,
+      9.64,
+      9.82,
+      9.84
+    ],
+    "Desvios": [
+      1.16,
+      1.34,
+      1.42,
+      1.93
+    ],
+    "Docentes": [
+      "JULIANE VARGAS WELTER",
+      "PAULA PIRES FERREIRA"
+    ],
+    "DesvioDeNotas": 0.23689396362085718,
+    "MediaDeNotas": 9.6375,
+    "MediaDeDesvios": 1.4625,
+    "NotaMediana": 9.82
+  },
+  "LET0529 - MORFOLOGIA": {
+    "Notas": [
+      9.32
+    ],
+    "Desvios": [
+      1.58
+    ],
+    "Docentes": [
+      "LARALIS NUNES DE SOUSA OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.32,
+    "MediaDeDesvios": 1.58,
+    "NotaMediana": 9.32
+  },
+  "DED0073 - ESTAGIO II - EDUCACAO INFANTIL": {
+    "Notas": [
+      9.69
+    ],
+    "Desvios": [
+      1.11
+    ],
+    "Docentes": [
+      "LEDJA LORENA FERREIRA DA CRUZ MADEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.69,
+    "MediaDeDesvios": 1.11,
+    "NotaMediana": 9.69
+  },
+  "DED0018 - LEITURA E PRODUÇÃO DE TEXTOS": {
+    "Notas": [
+      9.68
+    ],
+    "Desvios": [
+      1.44
+    ],
+    "Docentes": [
+      "LEDJA LORENA FERREIRA DA CRUZ MADEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.68,
+    "MediaDeDesvios": 1.44,
+    "NotaMediana": 9.68
+  },
+  "LMC0056 - PRÁTICA DE LEITURA E PRODUÇÃO DE TEXTOS": {
+    "Notas": [
+      9.61
+    ],
+    "Desvios": [
+      1.71
+    ],
+    "Docentes": [
+      "LEDJA LORENA FERREIRA DA CRUZ MADEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.71,
+    "NotaMediana": 9.61
+  },
+  "LET0205 - LINGUISTICA I": {
+    "Notas": [
+      8.41,
+      9,
+      9.18,
+      9.55,
+      9.75
+    ],
+    "Desvios": [
+      2.35,
+      2.46,
+      2.06,
+      1.54,
+      1.72
+    ],
+    "Docentes": [
+      "LUIS ALVARO SGADARI PASSEGGI",
+      "CLEMILTON LOPES PINHEIRO",
+      "ERIK FERNANDO MILETTA MARTINS",
+      "MARCOS ANTONIO COSTA"
+    ],
+    "DesvioDeNotas": 0.46627888650463256,
+    "MediaDeNotas": 9.178,
+    "MediaDeDesvios": 2.0260000000000002,
+    "NotaMediana": 9.18
+  },
+  "LET0197 - LINGUISTICA II": {
+    "Notas": [
+      8.44,
+      9.4,
+      9.44,
+      9.57,
+      9.69,
+      9.73
+    ],
+    "Desvios": [
+      2.49,
+      1.61,
+      1.57,
+      1.49,
+      1.57,
+      1.17
+    ],
+    "Docentes": [
+      "LUIS ALVARO SGADARI PASSEGGI",
+      "JOAO GOMES DA SILVA NETO",
+      "PAULO HENRIQUE DUQUE",
+      "ERIK FERNANDO MILETTA MARTINS"
+    ],
+    "DesvioDeNotas": 0.4363262031502987,
+    "MediaDeNotas": 9.378333333333332,
+    "MediaDeDesvios": 1.6500000000000001,
+    "NotaMediana": 9.57
+  },
+  "LET0577 - TEXTO E DISCURSO": {
+    "Notas": [
+      9.63
+    ],
+    "Desvios": [
+      1.69
+    ],
+    "Docentes": [
+      "MAHAYANA CRISTINA GODOY"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.63,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.63
+  },
+  "LET0194 - LINGUISTICA I": {
+    "Notas": [
+      8.22,
+      9.13,
+      9.27,
+      9.33,
+      9.69,
+      9.93
+    ],
+    "Desvios": [
+      1.49,
+      2.34,
+      2.15,
+      1.91,
+      2.49,
+      1.42
+    ],
+    "Docentes": [
+      "MARCOS ANTONIO COSTA",
+      "CLEMILTON LOPES PINHEIRO",
+      "LUIS ALVARO SGADARI PASSEGGI",
+      "ERIK FERNANDO MILETTA MARTINS",
+      "JOAO GOMES DA SILVA NETO"
+    ],
+    "DesvioDeNotas": 0.5380959228819913,
+    "MediaDeNotas": 9.261666666666667,
+    "MediaDeDesvios": 1.9666666666666668,
+    "NotaMediana": 9.33
+  },
+  "LET0198 - LINGUISTICA III": {
+    "Notas": [
+      8.89,
+      9.73,
+      9.78,
+      9.85,
+      9.96
+    ],
+    "Desvios": [
+      1.39,
+      0.9,
+      1.56,
+      1.46,
+      1.36
+    ],
+    "Docentes": [
+      "MARCOS ANTONIO COSTA",
+      "JOAO GOMES DA SILVA NETO",
+      "CLEMILTON LOPES PINHEIRO"
+    ],
+    "DesvioDeNotas": 0.38384371819791435,
+    "MediaDeNotas": 9.642,
+    "MediaDeDesvios": 1.334,
+    "NotaMediana": 9.78
+  },
+  "LET0585 - HISTÓRIA DA LÍNGUA PORTUGUESA": {
+    "Notas": [
+      9.49
+    ],
+    "Desvios": [
+      1.68
+    ],
+    "Docentes": [
+      "MARCOS CESAR TINDO BARBOSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.49,
+    "MediaDeDesvios": 1.68,
+    "NotaMediana": 9.49
+  },
+  "LET0048 - LINGUA LATINA II": {
+    "Notas": [
+      9,
+      9.29,
+      9.66,
+      9.68,
+      9.69,
+      9.69,
+      9.74,
+      9.79,
+      9.95
+    ],
+    "Desvios": [
+      1.75,
+      1.82,
+      1.66,
+      2.04,
+      1.62,
+      1.98,
+      1.02,
+      1.09,
+      1.56
+    ],
+    "Docentes": [
+      "MARCOS CESAR TINDO BARBOSA",
+      "NELSON FERREIRA DE SOUSA JUNIOR",
+      "TASSIANA DE BRITO VIANA MARQUES",
+      "MARIA HOZANETE ALVES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.27071920672329264,
+    "MediaDeNotas": 9.609999999999998,
+    "MediaDeDesvios": 1.6155555555555556,
+    "NotaMediana": 9.69
+  },
+  "LET0053 - LINGUISTICA ROMANICA": {
+    "Notas": [
+      8.48,
+      8.99,
+      9.38,
+      9.43,
+      9.52,
+      9.55,
+      9.68,
+      9.81
+    ],
+    "Desvios": [
+      1.87,
+      1.44,
+      2.23,
+      1.23,
+      1.51,
+      1.06,
+      1.89,
+      1.53
+    ],
+    "Docentes": [
+      "MARCOS CESAR TINDO BARBOSA",
+      "NELSON FERREIRA DE SOUSA JUNIOR",
+      "TASSIANA DE BRITO VIANA MARQUES"
+    ],
+    "DesvioDeNotas": 0.40046847566319116,
+    "MediaDeNotas": 9.354999999999999,
+    "MediaDeDesvios": 1.595,
+    "NotaMediana": 9.52
+  },
+  "LET0435 - TÓPICOS ESPECIAIS DE GRAMÁTICA DA LÍNGUA PORTUGUESA": {
+    "Notas": [
+      9.6,
+      9.82,
+      9.83
+    ],
+    "Desvios": [
+      1.53,
+      1.1,
+      1.58
+    ],
+    "Docentes": [
+      "MARIA ALICE TAVARES"
+    ],
+    "DesvioDeNotas": 0.10614455552060463,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.4033333333333333,
+    "NotaMediana": 9.82
+  },
+  "LET0356 - LINGUISTICA III": {
+    "Notas": [
+      8.14,
+      8.15,
+      9.77,
+      9.8
+    ],
+    "Desvios": [
+      2.47,
+      1.89,
+      1.8,
+      1.85
+    ],
+    "Docentes": [
+      "MARIA DO SOCORRO OLIVEIRA",
+      "MARCOS ANTONIO COSTA",
+      "CLEMILTON LOPES PINHEIRO"
+    ],
+    "DesvioDeNotas": 0.8200762159701985,
+    "MediaDeNotas": 8.965,
+    "MediaDeDesvios": 2.0025,
+    "NotaMediana": 9.77
+  },
+  "LET0586 - INTRODUÇÃO AO LATIM": {
+    "Notas": [
+      8.78,
+      8.9,
+      9.69
+    ],
+    "Desvios": [
+      1.44,
+      2.54,
+      2.14
+    ],
+    "Docentes": [
+      "MARIA HOZANETE ALVES DE LIMA",
+      "NELSON FERREIRA DE SOUSA JUNIOR",
+      "MARCOS CESAR TINDO BARBOSA"
+    ],
+    "DesvioDeNotas": 0.40367753907736237,
+    "MediaDeNotas": 9.123333333333333,
+    "MediaDeDesvios": 2.04,
+    "NotaMediana": 8.9
+  },
+  "LET0047 - LINGUA LATINA I": {
+    "Notas": [
+      9.31,
+      9.44,
+      9.54,
+      9.66,
+      9.71,
+      9.74
+    ],
+    "Desvios": [
+      1.92,
+      2.04,
+      1.78,
+      1.55,
+      2.15,
+      2.08
+    ],
+    "Docentes": [
+      "MARIA HOZANETE ALVES DE LIMA",
+      "MARCOS CESAR TINDO BARBOSA"
+    ],
+    "DesvioDeNotas": 0.1538036266007912,
+    "MediaDeNotas": 9.566666666666668,
+    "MediaDeDesvios": 1.92,
+    "NotaMediana": 9.66
+  },
+  "LET0079 - LITERATURA PORTUGUESA II": {
+    "Notas": [
+      8.47,
+      9.4,
+      9.7,
+      9.9
+    ],
+    "Desvios": [
+      1.38,
+      1.68,
+      2.34,
+      1.89
+    ],
+    "Docentes": [
+      "MARTA APARECIDA GARCIA GONCALVES",
+      "MAURO DUNDER",
+      "MARCIO DE LIMA DANTAS"
+    ],
+    "DesvioDeNotas": 0.5478765828176996,
+    "MediaDeNotas": 9.3675,
+    "MediaDeDesvios": 1.8224999999999998,
+    "NotaMediana": 9.7
+  },
+  "LET0507 - LITERATURA PORTUGUESA": {
+    "Notas": [
+      8.2,
+      9.13,
+      9.62
+    ],
+    "Desvios": [
+      2.33,
+      1.39,
+      1.91
+    ],
+    "Docentes": [
+      "MICHEL FREIRE MARQUES",
+      "JOATAN DAVID FERREIRA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.5889161419270339,
+    "MediaDeNotas": 8.983333333333334,
+    "MediaDeDesvios": 1.8766666666666667,
+    "NotaMediana": 9.13
+  },
+  "LET0510 - LITERATURA SURDA I": {
+    "Notas": [
+      8.3,
+      8.86
+    ],
+    "Desvios": [
+      2.29,
+      1.72
+    ],
+    "Docentes": [
+      "MICHEL FREIRE MARQUES",
+      "ISAACK SAYMON ALVES FEITOZA SILVA"
+    ],
+    "DesvioDeNotas": 0.27999999999999936,
+    "MediaDeNotas": 8.58,
+    "MediaDeDesvios": 2.005,
+    "NotaMediana": 8.86
+  },
+  "LET0580 - CLÁSSICOS DA LITERATURA GRECO-LATINA": {
+    "Notas": [
+      8.32,
+      8.86,
+      9.1
+    ],
+    "Desvios": [
+      2.52,
+      1.92,
+      1.76
+    ],
+    "Docentes": [
+      "NELSON FERREIRA DE SOUSA JUNIOR",
+      "MARCOS CESAR TINDO BARBOSA",
+      "MARIA HOZANETE ALVES DE LIMA"
+    ],
+    "DesvioDeNotas": 0.3261901286060015,
+    "MediaDeNotas": 8.76,
+    "MediaDeDesvios": 2.0666666666666664,
+    "NotaMediana": 8.86
+  },
+  "LET0479 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO": {
+    "Notas": [
+      9.7,
+      9.82,
+      9.91,
+      9.97
+    ],
+    "Desvios": [
+      1.86,
+      1.37,
+      1.08,
+      1.02
+    ],
+    "Docentes": [
+      "PATRICIA FERREIRA BOTELHO",
+      "CELIA MARIA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.10173494974687948,
+    "MediaDeNotas": 9.85,
+    "MediaDeDesvios": 1.3325,
+    "NotaMediana": 9.91
+  },
+  "LET0588 - NÍVEIS DE ANÁLISE E TEORIAS LINGUÍSTICAS": {
+    "Notas": [
+      9.62
+    ],
+    "Desvios": [
+      1.45
+    ],
+    "Docentes": [
+      "PAULO HENRIQUE DUQUE"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.62,
+    "MediaDeDesvios": 1.45,
+    "NotaMediana": 9.62
+  },
+  "LET0547 - LINGUÍSTICA APLICADA À APRENDIZAGEM DE SEGUNDA LÍNGUA": {
+    "Notas": [
+      7.31,
+      8.71,
+      9.15
+    ],
+    "Desvios": [
+      1.69,
+      1.7,
+      3.99
+    ],
+    "Docentes": [
+      "SIMONE LORENA DA SILVA PEREIRA",
+      "LARALIS NUNES DE SOUSA OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.7845168364456351,
+    "MediaDeNotas": 8.389999999999999,
+    "MediaDeDesvios": 2.46,
+    "NotaMediana": 8.71
+  },
+  "LET0519 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS II": {
+    "Notas": [
+      8.69,
+      8.96
+    ],
+    "Desvios": [
+      2,
+      1.55
+    ],
+    "Docentes": [
+      "SIMONE LORENA DA SILVA PEREIRA",
+      "JESSICA DO CARMO ALVES DE ANDRADE"
+    ],
+    "DesvioDeNotas": 0.13500000000000068,
+    "MediaDeNotas": 8.825,
+    "MediaDeDesvios": 1.775,
+    "NotaMediana": 8.96
+  },
+  "LET0548 - EDUCAÇÃO DE SURDOS E NOVAS TECNOLOGIAS": {
+    "Notas": [
+      8.48,
+      8.86
+    ],
+    "Desvios": [
+      1.59,
+      1.81
+    ],
+    "Docentes": [
+      "SIMONE PATRICIA SOARES DE SOUZA",
+      "SIMONE LORENA DA SILVA PEREIRA"
+    ],
+    "DesvioDeNotas": 0.1899999999999995,
+    "MediaDeNotas": 8.67,
+    "MediaDeDesvios": 1.7000000000000002,
+    "NotaMediana": 8.86
+  },
+  "LET0499 - LÍNGUA BRASILEIRA DE SINAIS III": {
+    "Notas": [
+      7.59,
+      8.16
+    ],
+    "Desvios": [
+      2.21,
+      2.3
+    ],
+    "Docentes": [
+      "SIMONE PATRICIA SOARES DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.28500000000000014,
+    "MediaDeNotas": 7.875,
+    "MediaDeDesvios": 2.255,
+    "NotaMediana": 8.16
+  },
+  "LET0578 - LEITURA E PRODUÇÃO DE TEXTO ACADÊMICO I": {
+    "Notas": [
+      8.32,
+      9.62,
+      9.87
+    ],
+    "Desvios": [
+      2.54,
+      1.84,
+      1.38
+    ],
+    "Docentes": [
+      "SYLVIA COUTINHO ABBOTT GALVAO",
+      "JOAO MARIA PAIVA PALHANO"
+    ],
+    "DesvioDeNotas": 0.6794605703546498,
+    "MediaDeNotas": 9.269999999999998,
+    "MediaDeDesvios": 1.92,
+    "NotaMediana": 9.62
+  },
+  "LET0262 - PRODUÇÃO DE TEXTO I": {
+    "Notas": [
+      9.01,
+      9.15,
+      9.25
+    ],
+    "Desvios": [
+      2.23,
+      1.91,
+      1.65
+    ],
+    "Docentes": [
+      "SYLVIA COUTINHO ABBOTT GALVAO",
+      "FLAVIA MAURICIA PEREIRA DE CARVALHO DIAS"
+    ],
+    "DesvioDeNotas": 0.09843215373488945,
+    "MediaDeNotas": 9.136666666666665,
+    "MediaDeDesvios": 1.9299999999999997,
+    "NotaMediana": 9.15
+  },
+  "LET0400 - LITERATURA AFRICANA EM LÍNGUA PORTUGUESA I": {
+    "Notas": [
+      9.84
+    ],
+    "Desvios": [
+      0.93
+    ],
+    "Docentes": [
+      "TANIA MARIA DE ARAUJO LIMA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.84,
+    "MediaDeDesvios": 0.93,
+    "NotaMediana": 9.84
+  },
+  "LET0449 - TÓPICOS DA POESIA BRASILEIRA": {
+    "Notas": [
+      9.29,
+      9.33
+    ],
+    "Desvios": [
+      1.8,
+      1.46
+    ],
+    "Docentes": [
+      "ANDREY PEREIRA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.020000000000000462,
+    "MediaDeNotas": 9.309999999999999,
+    "MediaDeDesvios": 1.63,
+    "NotaMediana": 9.33
+  },
+  "LET0498 - LINGUAGEM E SOCIEDADE": {
+    "Notas": [
+      9.29
+    ],
+    "Desvios": [
+      1.44
+    ],
+    "Docentes": [
+      "AUGUSTO CARLOS DE AZEREDO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.29,
+    "MediaDeDesvios": 1.44,
+    "NotaMediana": 9.29
+  },
+  "LET0419 - LEITURA E PRODUÇÃO DE TEXTO ARGUMENTATIVO": {
+    "Notas": [
+      8.65,
+      9.11,
+      9.78,
+      9.8,
+      9.85,
+      9.97
+    ],
+    "Desvios": [
+      1.88,
+      0.71,
+      1.51,
+      1.75,
+      1.43,
+      1.82
+    ],
+    "Docentes": [
+      "CLEBSON LUIZ DE BRITO",
+      "PATRICIA FERREIRA BOTELHO",
+      "SYLVIA COUTINHO ABBOTT GALVAO",
+      "ANA VIRGINIA LIMA DA SILVA ROCHA",
+      "CELLINA RODRIGUES MUNIZ"
+    ],
+    "DesvioDeNotas": 0.4799537014708352,
+    "MediaDeNotas": 9.526666666666667,
+    "MediaDeDesvios": 1.5166666666666666,
+    "NotaMediana": 9.8
+  },
+  "LET0494 - LÍNGUA BRASILEIRA DE SINAIS II": {
+    "Notas": [
+      8.7,
+      9.09,
+      9.12
+    ],
+    "Desvios": [
+      1.77,
+      1.31,
+      1.71
+    ],
+    "Docentes": [
+      "DANIELE CAROLINE GONÇALVES LIMA",
+      "EZEQUIEL ADNEY LIMA DA PAIXAO",
+      "MARIANE LINHARES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.19131126469709,
+    "MediaDeNotas": 8.97,
+    "MediaDeDesvios": 1.5966666666666667,
+    "NotaMediana": 9.09
+  },
+  "LET0509 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS I": {
+    "Notas": [
+      7.86,
+      9.32
+    ],
+    "Desvios": [
+      1.77,
+      1.8
+    ],
+    "Docentes": [
+      "IGOR DESSOLES BRAGA",
+      "SIMONE PATRICIA SOARES DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.73,
+    "MediaDeNotas": 8.59,
+    "MediaDeDesvios": 1.7850000000000001,
+    "NotaMediana": 9.32
+  },
+  "LET0520 - METODOLOGIAS DE ENSINO DE LÍNGUA PORTUGUESA COM O L2": {
+    "Notas": [
+      8.95,
+      9.68
+    ],
+    "Desvios": [
+      1.11,
+      1.34
+    ],
+    "Docentes": [
+      "IGOR DESSOLES BRAGA",
+      "JESSICA DO CARMO ALVES DE ANDRADE"
+    ],
+    "DesvioDeNotas": 0.3650000000000002,
+    "MediaDeNotas": 9.315,
+    "MediaDeDesvios": 1.225,
+    "NotaMediana": 9.68
+  },
+  "LET0488 - INTRODUÇÃO AOS ESTUDOS DA LITERATURA": {
+    "Notas": [
+      9,
+      9.52
+    ],
+    "Desvios": [
+      1.49,
+      1.34
+    ],
+    "Docentes": [
+      "ISAACK SAYMON ALVES FEITOZA SILVA",
+      "JOATAN DAVID FERREIRA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.2599999999999998,
+    "MediaDeNotas": 9.26,
+    "MediaDeDesvios": 1.415,
+    "NotaMediana": 9.52
+  },
+  "LET0489 - LÍNGUA, CULTURA E IDENTIDADE SURDA": {
+    "Notas": [
+      9.02,
+      9.1
+    ],
+    "Desvios": [
+      1.41,
+      1.57
+    ],
+    "Docentes": [
+      "ISAACK SAYMON ALVES FEITOZA SILVA"
+    ],
+    "DesvioDeNotas": 0.040000000000000036,
+    "MediaDeNotas": 9.059999999999999,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.1
+  },
+  "LET0360 - SEMANTICA DA LINGUA PORTUGUESA I": {
+    "Notas": [
+      9.67,
+      9.78,
+      9.86,
+      9.9
+    ],
+    "Desvios": [
+      1.43,
+      1.62,
+      1.29,
+      1.26
+    ],
+    "Docentes": [
+      "JOSE DA LUZ DA COSTA",
+      "MARIA ALICE TAVARES"
+    ],
+    "DesvioDeNotas": 0.08785641695402797,
+    "MediaDeNotas": 9.8025,
+    "MediaDeDesvios": 1.4,
+    "NotaMediana": 9.86
+  },
+  "LET0066 - LITERATURA BRASILEIRA II": {
+    "Notas": [
+      9.5,
+      9.61,
+      9.7,
+      9.86
+    ],
+    "Desvios": [
+      1.46,
+      1.5,
+      1.23,
+      1.33
+    ],
+    "Docentes": [
+      "JULIANE VARGAS WELTER",
+      "PAULA PIRES FERREIRA"
+    ],
+    "DesvioDeNotas": 0.13179055353097183,
+    "MediaDeNotas": 9.6675,
+    "MediaDeDesvios": 1.38,
+    "NotaMediana": 9.7
+  },
+  "LET0450 - TÓPICOS DA NARRATIVA BRASILEIRA": {
+    "Notas": [
+      9.92
+    ],
+    "Desvios": [
+      0.49
+    ],
+    "Docentes": [
+      "JULIANE VARGAS WELTER"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.92,
+    "MediaDeDesvios": 0.49,
+    "NotaMediana": 9.92
+  },
+  "LET0536 - FUNDAMENTOS DA EDUCAÇÃO DE SURDOS": {
+    "Notas": [
+      8.62
+    ],
+    "Desvios": [
+      2.48
+    ],
+    "Docentes": [
+      "LARALIS NUNES DE SOUSA OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.62,
+    "MediaDeDesvios": 2.48,
+    "NotaMediana": 8.62
+  },
+  "DED0622 - ESTÁGIO I (EDUCAÇÃO INFANTIL)": {
+    "Notas": [
+      9.75
+    ],
+    "Desvios": [
+      1.08
+    ],
+    "Docentes": [
+      "LEDJA LORENA FERREIRA DA CRUZ MADEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.08,
+    "NotaMediana": 9.75
+  },
+  "DED0405 - LEITURA E PRODUÇÃO DE TEXTO": {
+    "Notas": [
+      9.31
+    ],
+    "Desvios": [
+      1.77
+    ],
+    "Docentes": [
+      "LEDJA LORENA FERREIRA DA CRUZ MADEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.31,
+    "MediaDeDesvios": 1.77,
+    "NotaMediana": 9.31
+  },
+  "DED0429 - LINGUA PORTUGUESA NO ENSINO FUNDAMENTAL": {
+    "Notas": [
+      9.34
+    ],
+    "Desvios": [
+      1.41
+    ],
+    "Docentes": [
+      "LEDJA LORENA FERREIRA DA CRUZ MADEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.34,
+    "MediaDeDesvios": 1.41,
+    "NotaMediana": 9.34
+  },
+  "DED0533 - ORGANIZAÇÃO DA EDUCAÇÃO BRASILEIRA": {
+    "Notas": [
+      9.39
+    ],
+    "Desvios": [
+      1.47
+    ],
+    "Docentes": [
+      "LEDJA LORENA FERREIRA DA CRUZ MADEIRO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.39,
+    "MediaDeDesvios": 1.47,
+    "NotaMediana": 9.39
+  },
+  "LET0355 - LINGUISTICA II": {
+    "Notas": [
+      8.59,
+      9.4,
+      9.82
+    ],
+    "Desvios": [
+      2.27,
+      2.67,
+      1.35
+    ],
+    "Docentes": [
+      "MAHAYANA CRISTINA GODOY",
+      "CLEMILTON LOPES PINHEIRO",
+      "PAULO HENRIQUE DUQUE"
+    ],
+    "DesvioDeNotas": 0.510489960724009,
+    "MediaDeNotas": 9.270000000000001,
+    "MediaDeDesvios": 2.0966666666666662,
+    "NotaMediana": 9.4
+  },
+  "FON0011 - LINGUÍSTICA APLICADA A FONOAUDIOLOGIA": {
+    "Notas": [
+      9.52,
+      9.83
+    ],
+    "Desvios": [
+      1.87,
+      1.33
+    ],
+    "Docentes": [
+      "MAHAYANA CRISTINA GODOY"
+    ],
+    "DesvioDeNotas": 0.15500000000000025,
+    "MediaDeNotas": 9.675,
+    "MediaDeDesvios": 1.6,
+    "NotaMediana": 9.83
+  },
+  "LET0078 - LITERATURA PORTUGUESA I": {
+    "Notas": [
+      6.01,
+      6.4,
+      7.95,
+      9.52,
+      9.54,
+      9.7
+    ],
+    "Desvios": [
+      2.94,
+      3.12,
+      1.85,
+      2.3,
+      1.2,
+      1.24
+    ],
+    "Docentes": [
+      "MARCIO DE LIMA DANTAS",
+      "MAURO DUNDER"
+    ],
+    "DesvioDeNotas": 1.5212677461760484,
+    "MediaDeNotas": 8.186666666666666,
+    "MediaDeDesvios": 2.1083333333333334,
+    "NotaMediana": 9.52
+  },
+  "LET0044 - LINGUISTICA VI": {
+    "Notas": [
+      9.98
+    ],
+    "Desvios": [
+      0.93
+    ],
+    "Docentes": [
+      "MARCOS ANTONIO COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.98,
+    "MediaDeDesvios": 0.93,
+    "NotaMediana": 9.98
+  },
+  "LET0406 - LITERATURA AFRICANA EM LÍNGUA PORTUGUESA II": {
+    "Notas": [
+      9.9
+    ],
+    "Desvios": [
+      1.13
+    ],
+    "Docentes": [
+      "MARTA APARECIDA GARCIA GONCALVES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.9,
+    "MediaDeDesvios": 1.13,
+    "NotaMediana": 9.9
+  },
+  "LET0082 - TOPICOS DE LITERATURA PORTUGUESA II": {
+    "Notas": [
+      9.86
+    ],
+    "Desvios": [
+      1.23
+    ],
+    "Docentes": [
+      "MAURO DUNDER"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 1.23,
+    "NotaMediana": 9.86
+  },
+  "LET0508 - HISTÓRIA E CULTURA AFRO-BRASILEIRA E INDÍGENA": {
+    "Notas": [
+      8.64,
+      9.29
+    ],
+    "Desvios": [
+      1.93,
+      1.48
+    ],
+    "Docentes": [
+      "MICHEL FREIRE MARQUES",
+      "JOATAN DAVID FERREIRA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.3249999999999993,
+    "MediaDeNotas": 8.965,
+    "MediaDeDesvios": 1.705,
+    "NotaMediana": 9.29
+  },
+  "LET0497 - LITERATURA BRASILEIRA I": {
+    "Notas": [
+      7.78,
+      8.38
+    ],
+    "Desvios": [
+      2.39,
+      1.85
+    ],
+    "Docentes": [
+      "MICHEL FREIRE MARQUES",
+      "ISAACK SAYMON ALVES FEITOZA SILVA"
+    ],
+    "DesvioDeNotas": 0.30000000000000027,
+    "MediaDeNotas": 8.08,
+    "MediaDeDesvios": 2.12,
+    "NotaMediana": 8.38
+  },
+  "LET0073 - LITERATURA DO RIO GRANDE DO NORTE I": {
+    "Notas": [
+      9.86
+    ],
+    "Desvios": [
+      1.54
+    ],
+    "Docentes": [
+      "PAULA PIRES FERREIRA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 1.54,
+    "NotaMediana": 9.86
+  },
+  "LET0486 - ESTUDOS INTRODUTÓRIOS DA CIÊNCIA DA LINGUAGEM": {
+    "Notas": [
+      9.27,
+      9.39
+    ],
+    "Desvios": [
+      1.4,
+      1.25
+    ],
+    "Docentes": [
+      "SIMONE LORENA DA SILVA PEREIRA"
+    ],
+    "DesvioDeNotas": 0.0600000000000005,
+    "MediaDeNotas": 9.33,
+    "MediaDeDesvios": 1.325,
+    "NotaMediana": 9.39
+  },
+  "LET0526 - LÍNGUA PORTUGUESA PARA USUÁRIOS DE LIBRAS III": {
+    "Notas": [
+      7.48,
+      8.46
+    ],
+    "Desvios": [
+      1.72,
+      2.5
+    ],
+    "Docentes": [
+      "SIMONE LORENA DA SILVA PEREIRA"
+    ],
+    "DesvioDeNotas": 0.4900000000000002,
+    "MediaDeNotas": 7.970000000000001,
+    "MediaDeDesvios": 2.11,
+    "NotaMediana": 8.46
+  },
+  "LET0525 - LAB. DE INTERPRETAÇÃO DE LÍNGUA BRASILEIRA DE SINAIS E LÍNGUA PORTUGUESA II": {
+    "Notas": [
+      6.06,
+      8.51
+    ],
+    "Desvios": [
+      2.59,
+      1.82
+    ],
+    "Docentes": [
+      "SIMONE PATRICIA SOARES DE SOUZA"
+    ],
+    "DesvioDeNotas": 1.225,
+    "MediaDeNotas": 7.285,
+    "MediaDeDesvios": 2.205,
+    "NotaMediana": 8.51
+  },
+  "LET0500 - LÍNGUA BRASILEIRA DE SINAIS IV": {
+    "Notas": [
+      5.99,
+      8.99
+    ],
+    "Desvios": [
+      2.96,
+      1.59
+    ],
+    "Docentes": [
+      "SIMONE PATRICIA SOARES DE SOUZA",
+      "LARALIS NUNES DE SOUSA OLIVEIRA"
+    ],
+    "DesvioDeNotas": 1.5,
+    "MediaDeNotas": 7.49,
+    "MediaDeDesvios": 2.275,
+    "NotaMediana": 8.99
+  },
+  "LET0430 - LEITURA E PRODUÇÃO DE TEXTO ACADÊMICO II": {
+    "Notas": [
+      9.71
+    ],
+    "Desvios": [
+      1.01
+    ],
+    "Docentes": [
+      "SYLVIA COUTINHO ABBOTT GALVAO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.71,
+    "MediaDeDesvios": 1.01,
+    "NotaMediana": 9.71
+  },
+  "LET0438 - LEITURA E PRODUÇÃO DE TEXTO DA ORALIDADE": {
+    "Notas": [
+      9.96
+    ],
+    "Desvios": [
+      1.32
+    ],
+    "Docentes": [
+      "ALESSANDRA CASTILHO FERREIRA DA COSTA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.96,
+    "MediaDeDesvios": 1.32,
+    "NotaMediana": 9.96
+  },
+  "LET0418 - LEITURA E PRODUÇÃO DE TEXTO": {
+    "Notas": [
+      9.15,
+      9.46,
+      9.74,
+      9.87,
+      9.91
+    ],
+    "Desvios": [
+      1.66,
+      1.69,
+      1.55,
+      1.35,
+      1.66
+    ],
+    "Docentes": [
+      "ANA VIRGINIA LIMA DA SILVA ROCHA",
+      "CLEBSON LUIZ DE BRITO",
+      "ALESSANDRA CASTILHO FERREIRA DA COSTA",
+      "SULEMI FABIANO CAMPOS"
+    ],
+    "DesvioDeNotas": 0.28541899025818135,
+    "MediaDeNotas": 9.626,
+    "MediaDeDesvios": 1.582,
+    "NotaMediana": 9.74
+  },
+  "LET0354 - LINGUISTICA I": {
+    "Notas": [
+      9.28,
+      9.84
+    ],
+    "Desvios": [
+      1.97,
+      1.35
+    ],
+    "Docentes": [
+      "ERIK FERNANDO MILETTA MARTINS",
+      "MARCOS ANTONIO COSTA"
+    ],
+    "DesvioDeNotas": 0.28000000000000025,
+    "MediaDeNotas": 9.559999999999999,
+    "MediaDeDesvios": 1.6600000000000001,
+    "NotaMediana": 9.84
+  },
+  "LET0485 - ENSINO DE LITERATURA BRASILEIRA": {
+    "Notas": [
+      9.57
+    ],
+    "Desvios": [
+      1.69
+    ],
+    "Docentes": [
+      "HENRIQUE EDUARDO DE SOUSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.57,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.57
+  },
+  "LET0045 - LINGUISTICA VII": {
+    "Notas": [
+      9.33
+    ],
+    "Desvios": [
+      2.06
+    ],
+    "Docentes": [
+      "MAHAYANA CRISTINA GODOY"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.33,
+    "MediaDeDesvios": 2.06,
+    "NotaMediana": 9.33
+  },
+  "LET0128 - LINGUA GREGA I": {
+    "Notas": [
+      9.73
+    ],
+    "Desvios": [
+      1.54
+    ],
+    "Docentes": [
+      "MARCOS CESAR TINDO BARBOSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.73,
+    "MediaDeDesvios": 1.54,
+    "NotaMediana": 9.73
+  },
+  "LET0458 - LITERATURA BRASILEIRA E SISTEMAS SEMIÓTICOS": {
+    "Notas": [
+      9.25,
+      9.67
+    ],
+    "Desvios": [
+      1.38,
+      0.92
+    ],
+    "Docentes": [
+      "PAULA PIRES FERREIRA"
+    ],
+    "DesvioDeNotas": 0.20999999999999996,
+    "MediaDeNotas": 9.46,
+    "MediaDeDesvios": 1.15,
+    "NotaMediana": 9.67
+  },
+  "LET0429 - LEITURA E PRODUÇÃO DE TEXTO ACADÊMICO I": {
+    "Notas": [
+      9.91
+    ],
+    "Desvios": [
+      1.27
+    ],
+    "Docentes": [
+      "SYLVIA COUTINHO ABBOTT GALVAO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.91,
+    "MediaDeDesvios": 1.27,
+    "NotaMediana": 9.91
+  },
+  "LET0445 - LÍNGUA LATINA I": {
+    "Notas": [
+      8.88,
+      9.51
+    ],
+    "Desvios": [
+      2.22,
+      1.54
+    ],
+    "Docentes": [
+      "TASSIANA DE BRITO VIANA MARQUES",
+      "MARCOS CESAR TINDO BARBOSA"
+    ],
+    "DesvioDeNotas": 0.3149999999999995,
+    "MediaDeNotas": 9.195,
+    "MediaDeDesvios": 1.8800000000000001,
+    "NotaMediana": 9.51
+  },
+  "LET0475 - LEITURA E PRODUÇÃO DE TEXTOS I": {
+    "Notas": [
+      9.35,
+      9.66
+    ],
+    "Desvios": [
+      1.22,
+      1.37
+    ],
+    "Docentes": [
+      "ALBANYRA DOS SANTOS SOUZA",
+      "GILVANDO ALVES DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.15500000000000025,
+    "MediaDeNotas": 9.504999999999999,
+    "MediaDeDesvios": 1.295,
+    "NotaMediana": 9.66
+  },
+  "LET0091 - FONOLOGIA DA LINGUA PORTUGUESA II": {
+    "Notas": [
+      10
+    ],
+    "Desvios": [
+      0.15
+    ],
+    "Docentes": [
+      "CARLA MARIA CUNHA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 10,
+    "MediaDeDesvios": 0.15,
+    "NotaMediana": 10
+  },
+  "LET0090 - FONOLOGIA DA LINGUA PORTUGUESA I": {
+    "Notas": [
+      9.91
+    ],
+    "Desvios": [
+      1.22
+    ],
+    "Docentes": [
+      "ERICA REVIGLIO ILIOVITZ"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.91,
+    "MediaDeDesvios": 1.22,
+    "NotaMediana": 9.91
+  },
+  "LET0043 - LINGUISTICA V": {
+    "Notas": [
+      9.97
+    ],
+    "Desvios": [
+      1.08
+    ],
+    "Docentes": [
+      "ERIK FERNANDO MILETTA MARTINS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.97,
+    "MediaDeDesvios": 1.08,
+    "NotaMediana": 9.97
+  },
+  "LET0550 - ESCRITA DE SINAIS I": {
+    "Notas": [
+      9.31
+    ],
+    "Desvios": [
+      0.97
+    ],
+    "Docentes": [
+      "EZEQUIEL ADNEY LIMA DA PAIXAO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.31,
+    "MediaDeDesvios": 0.97,
+    "NotaMediana": 9.31
+  },
+  "LET0467 - PANORAMA DA LITERATURA BRASILEIRA": {
+    "Notas": [
+      9.86
+    ],
+    "Desvios": [
+      1.06
+    ],
+    "Docentes": [
+      "JULIANE VARGAS WELTER"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 1.06,
+    "NotaMediana": 9.86
+  },
+  "LET0049 - LINGUA LATINA III": {
+    "Notas": [
+      9.93
+    ],
+    "Desvios": [
+      1.22
+    ],
+    "Docentes": [
+      "MARCOS CESAR TINDO BARBOSA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.93,
+    "MediaDeDesvios": 1.22,
+    "NotaMediana": 9.93
+  },
+  "LET0460 - FUNDAMENTOS DE CULTURA E LITERATURA BRASILEIRAS": {
+    "Notas": [
+      9.71,
+      9.89
+    ],
+    "Desvios": [
+      1.14,
+      1.02
+    ],
+    "Docentes": [
+      "PAULA PIRES FERREIRA"
+    ],
+    "DesvioDeNotas": 0.08999999999999986,
+    "MediaDeNotas": 9.8,
+    "MediaDeDesvios": 1.08,
+    "NotaMediana": 9.89
+  }
+}

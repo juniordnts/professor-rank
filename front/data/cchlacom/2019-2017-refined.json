@@ -1,0 +1,5096 @@
+{
+  "ADRIANO CHARLES DA SILVA CRUZ": {
+    "Notas": [
+      8.88,
+      8.99,
+      9.5,
+      9.52,
+      9.56
+    ],
+    "Desvios": [
+      1.74,
+      1.84,
+      1.92,
+      1.49,
+      1.32
+    ],
+    "Componentes": {
+      "COM0194 - ARTES E TECNOLOGIAS": {
+        "Notas": [
+          9.56
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.56,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.56
+      },
+      "COM0187 - HISTÓRIA E TEORIA DO CINEMA": {
+        "Notas": [
+          8.99,
+          9.52
+        ],
+        "Desvios": [
+          1.84,
+          1.32
+        ],
+        "DesvioDeNotas": 0.2649999999999997,
+        "MediaDeNotas": 9.254999999999999,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.52
+      },
+      "COM0243 - INTERPRETAÇÃO NO AUDIOVISUAL": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.5
+      },
+      "COM0222 - DIRECAO E INTERPRETACAO": {
+        "Notas": [
+          8.88
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.88,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 8.88
+      }
+    },
+    "DesvioDeNotas": 0.2925747767665556,
+    "MediaDeNotas": 9.290000000000001,
+    "MediaDeDesvios": 1.6620000000000001,
+    "NotaMediana": 9.5
+  },
+  "ANTONINO CONDORELLI": {
+    "Notas": [
+      9.56,
+      9.6,
+      9.66,
+      9.68,
+      9.69,
+      9.73,
+      9.73,
+      9.77,
+      9.78,
+      9.82,
+      9.88,
+      9.91,
+      9.92
+    ],
+    "Desvios": [
+      1.45,
+      1.42,
+      1.35,
+      1.63,
+      1.51,
+      1.43,
+      1.63,
+      1.75,
+      1.1,
+      1.4,
+      1.14,
+      1.18,
+      0.98
+    ],
+    "Componentes": {
+      "COM0230 - COMUNICAÇÃO, DIREITOS HUMANOS E POLÍTICAS PÚBLICAS": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.77
+      },
+      "COM0231 - TÓPICOS ESPECIAIS EM JORNALISMO": {
+        "Notas": [
+          9.69,
+          9.73,
+          9.78
+        ],
+        "Desvios": [
+          1.42,
+          1.35,
+          1.4
+        ],
+        "DesvioDeNotas": 0.03681787005729078,
+        "MediaDeNotas": 9.733333333333333,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.73
+      },
+      "COM0038 - COMUNICACAO E OPINIAO PUBLICA": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.66
+      },
+      "COM0046 - ESTILOS JORNALISTICOS": {
+        "Notas": [
+          9.56,
+          9.82,
+          9.91
+        ],
+        "Desvios": [
+          1.51,
+          1.75,
+          1.14
+        ],
+        "DesvioDeNotas": 0.14839886193034696,
+        "MediaDeNotas": 9.763333333333334,
+        "MediaDeDesvios": 1.4666666666666666,
+        "NotaMediana": 9.82
+      },
+      "COM0306 - ESTÉTICA E PUBLICIDADE": {
+        "Notas": [
+          9.92
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.92,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.92
+      },
+      "COM0205 - LABORATÓRIO DE LINGUAGEM JORNALÍSTICA": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.73
+      },
+      "COM0209 - LABORATÓRIO DE PLANEJAMENTO E PESQUISA EM JORNALISMO": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.6
+      },
+      "COM0161 - JORNALISMO IMPRESSO": {
+        "Notas": [
+          9.68,
+          9.88
+        ],
+        "Desvios": [
+          1.18,
+          0.98
+        ],
+        "DesvioDeNotas": 0.10000000000000053,
+        "MediaDeNotas": 9.780000000000001,
+        "MediaDeDesvios": 1.08,
+        "NotaMediana": 9.88
+      }
+    },
+    "DesvioDeNotas": 0.10868770745341583,
+    "MediaDeNotas": 9.748461538461537,
+    "MediaDeDesvios": 1.3823076923076925,
+    "NotaMediana": 9.73
+  },
+  "BEN-HUR BERNARD PEREIRA COSTA": {
+    "Notas": [
+      9.39,
+      9.52,
+      9.68,
+      9.74
+    ],
+    "Desvios": [
+      1.73,
+      1.68,
+      1.66,
+      1.25
+    ],
+    "Componentes": {
+      "COM0084 - COMUNICACAO E ARTES VISUAIS": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.52
+      },
+      "COM0208 - COMUNICAÇÃO E ARTES VISUAIS": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.68
+      },
+      "COM0211 - PROJETO GRÁFICO E EDITORAÇÃO": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.39
+      },
+      "COM0215 - SOCIOLOGIA DA COMUNICAÇÃO": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.13718144918318934,
+    "MediaDeNotas": 9.5825,
+    "MediaDeDesvios": 1.58,
+    "NotaMediana": 9.68
+  },
+  "BRUNO SERGIO FRANKLIN DE FARIAS GOMES": {
+    "Notas": [
+      8.9,
+      8.97,
+      9.09,
+      9.28,
+      9.32,
+      9.36,
+      9.42,
+      9.6,
+      9.63,
+      9.73
+    ],
+    "Desvios": [
+      2.3,
+      2.08,
+      2.02,
+      1.86,
+      1.76,
+      1.97,
+      1.75,
+      1.53,
+      2.26,
+      1.07
+    ],
+    "Componentes": {
+      "COM0108 - DIRECAO DE PROGRAMAS RADIOFONICOS": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          2.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 2.3,
+        "NotaMediana": 9.09
+      },
+      "COM0168 - DIREÇÃO DE ARTE": {
+        "Notas": [
+          8.9
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 8.9
+      },
+      "COM0170 - LINGUAGEM MUSICAL": {
+        "Notas": [
+          9.42
+        ],
+        "Desvios": [
+          2.02
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.42,
+        "MediaDeDesvios": 2.02,
+        "NotaMediana": 9.42
+      },
+      "COM0166 - TÓPICOS ESPECIAIS EM TV": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.86
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.86,
+        "NotaMediana": 9.63
+      },
+      "COM0210 - FOTOJORNALISMO": {
+        "Notas": [
+          9.28
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.28,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.28
+      },
+      "COM0116 - FOTOJORNALISMO": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.36
+      },
+      "COM0313 - PUBLICIDADE ON-LINE": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 9.32
+      },
+      "COM0154 - TECNICAS DE VEICULACAO": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.73
+      },
+      "COM0245 - LINGUAGEM AUDIOVISUAL": {
+        "Notas": [
+          8.97
+        ],
+        "Desvios": [
+          2.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.97,
+        "MediaDeDesvios": 2.26,
+        "NotaMediana": 8.97
+      },
+      "COM0153 - TECNICAS DE APRESENTACAO DE TEXTOS NOS MCM": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.07,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.26581948762270985,
+    "MediaDeNotas": 9.33,
+    "MediaDeDesvios": 1.86,
+    "NotaMediana": 9.36
+  },
+  "CARLOS ANTONIO DOS SANTOS SEGUNDO": {
+    "Notas": [
+      9.56,
+      9.67,
+      9.68,
+      9.75,
+      9.76,
+      9.76,
+      9.78,
+      9.8,
+      9.81,
+      9.84,
+      9.84,
+      9.9
+    ],
+    "Desvios": [
+      1.54,
+      1.31,
+      1.41,
+      1.25,
+      1.2,
+      1.45,
+      1.35,
+      1.57,
+      1.01,
+      1.12,
+      0.74,
+      1.89
+    ],
+    "Componentes": {
+      "COM0169 - DIREÇÃO DE FOTOGRAFIA": {
+        "Notas": [
+          9.56,
+          9.75,
+          9.84
+        ],
+        "Desvios": [
+          1.54,
+          1.25,
+          1.35
+        ],
+        "DesvioDeNotas": 0.11671427600007704,
+        "MediaDeNotas": 9.716666666666667,
+        "MediaDeDesvios": 1.3800000000000001,
+        "NotaMediana": 9.75
+      },
+      "COM0192 - DIREÇÃO NO AUDIOVISUAL": {
+        "Notas": [
+          9.76,
+          9.84
+        ],
+        "Desvios": [
+          1.31,
+          1.2
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.255,
+        "NotaMediana": 9.84
+      },
+      "COM0168 - DIREÇÃO DE ARTE": {
+        "Notas": [
+          9.76,
+          9.81
+        ],
+        "Desvios": [
+          1.41,
+          1.45
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.785,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.81
+      },
+      "COM0187 - HISTÓRIA E TEORIA DO CINEMA": {
+        "Notas": [
+          9.67
+        ],
+        "Desvios": [
+          1.57
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.67
+      },
+      "COM0084 - COMUNICACAO E ARTES VISUAIS": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.01,
+        "NotaMediana": 9.8
+      },
+      "COM0190 - ECONOMIA POLÍTICA DO AUDIOVISUAL": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.12,
+        "NotaMediana": 9.78
+      },
+      "COM0245 - LINGUAGEM AUDIOVISUAL": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          0.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.74,
+        "NotaMediana": 9.9
+      },
+      "COM0138 - OFICINA DE PROD. E REALIZACAO EM RADIO E TV": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.08728545125048044,
+    "MediaDeNotas": 9.762500000000001,
+    "MediaDeDesvios": 1.32,
+    "NotaMediana": 9.78
+  },
+  "CARMEM DANIELLA SPINOLA DA HORA": {
+    "Notas": [
+      8.89,
+      9.12,
+      9.22,
+      9.36,
+      9.55,
+      9.59,
+      9.64,
+      9.66,
+      9.67,
+      9.68,
+      9.68,
+      9.7,
+      9.74,
+      9.87,
+      9.89,
+      9.9,
+      9.94,
+      9.99
+    ],
+    "Desvios": [
+      1.22,
+      1.18,
+      1.44,
+      1.62,
+      1.27,
+      0.99,
+      1.51,
+      1.64,
+      1.63,
+      1.35,
+      1.98,
+      1.32,
+      0.6,
+      0.95,
+      0.77,
+      1.26,
+      1.66,
+      1.7
+    ],
+    "Componentes": {
+      "COM0046 - ESTILOS JORNALISTICOS": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.68
+      },
+      "COM0214 - LABORATÓRIO DE RADIOJORNALISMO": {
+        "Notas": [
+          9.55,
+          9.59,
+          9.64,
+          9.66,
+          9.87,
+          9.89,
+          9.9,
+          9.94
+        ],
+        "Desvios": [
+          1.18,
+          1.44,
+          0.99,
+          1.51,
+          1.63,
+          1.35,
+          0.95,
+          0.77
+        ],
+        "DesvioDeNotas": 0.1492481155659928,
+        "MediaDeNotas": 9.755000000000003,
+        "MediaDeDesvios": 1.2274999999999998,
+        "NotaMediana": 9.87
+      },
+      "COM0314 - PUBLICIDADE E CIDADANIA": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.36
+      },
+      "COM0283 - ESTUDOS DIRIGIDOS EM JORNALISMO": {
+        "Notas": [
+          9.67
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.67
+      },
+      "COM0165 - FORMAÇÃO ECONÔMICA, SOCIAL E CULTURAL DO BRASIL": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.7
+      },
+      "COM0170 - LINGUAGEM MUSICAL": {
+        "Notas": [
+          9.12
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.12,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.12
+      },
+      "COM0281 - NOVOS FORMATOS E LINGUAGENS DO JORNALISMO": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.32,
+        "NotaMediana": 9.74
+      },
+      "COM0038 - COMUNICACAO E OPINIAO PUBLICA": {
+        "Notas": [
+          9.99
+        ],
+        "Desvios": [
+          0.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.99,
+        "MediaDeDesvios": 0.6,
+        "NotaMediana": 9.99
+      },
+      "COM0060 - LEGISLACAO JORNALISTICA": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.68
+      },
+      "COM0504 - MÍDIA DIGITAL": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.22
+      },
+      "COM0313 - PUBLICIDADE ON-LINE": {
+        "Notas": [
+          8.89
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.89,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 8.89
+      }
+    },
+    "DesvioDeNotas": 0.288831725113601,
+    "MediaDeNotas": 9.616111111111113,
+    "MediaDeDesvios": 1.3383333333333334,
+    "NotaMediana": 9.68
+  },
+  "DANIEL DANTAS LEMOS": {
+    "Notas": [
+      8.23,
+      8.49,
+      8.77,
+      8.91,
+      8.92,
+      8.99,
+      9.16,
+      9.23,
+      9.24,
+      9.41,
+      9.52
+    ],
+    "Desvios": [
+      2.47,
+      2.77,
+      1.92,
+      1.96,
+      1.91,
+      2.45,
+      1.99,
+      1.97,
+      1.43,
+      1.73,
+      1.73
+    ],
+    "Componentes": {
+      "COM0224 - COMUNICAÇÃO INTEGRADA": {
+        "Notas": [
+          8.23,
+          8.49,
+          8.77
+        ],
+        "Desvios": [
+          2.47,
+          2.77,
+          2.45
+        ],
+        "DesvioDeNotas": 0.2205044721138827,
+        "MediaDeNotas": 8.496666666666668,
+        "MediaDeDesvios": 2.5633333333333335,
+        "NotaMediana": 8.49
+      },
+      "COM0238 - ÉTICA JORNALÍSTICA": {
+        "Notas": [
+          8.99,
+          9.16,
+          9.23
+        ],
+        "Desvios": [
+          1.92,
+          1.91,
+          1.73
+        ],
+        "DesvioDeNotas": 0.10077477638553989,
+        "MediaDeNotas": 9.126666666666667,
+        "MediaDeDesvios": 1.8533333333333335,
+        "NotaMediana": 9.16
+      },
+      "COM0162 - ETICA JORNALISTICA": {
+        "Notas": [
+          8.91,
+          9.24,
+          9.41
+        ],
+        "Desvios": [
+          1.96,
+          1.99,
+          1.73
+        ],
+        "DesvioDeNotas": 0.2075786330258702,
+        "MediaDeNotas": 9.186666666666666,
+        "MediaDeDesvios": 1.8933333333333333,
+        "NotaMediana": 9.24
+      },
+      "COM0164 - ÉTICA E LEGISLAÇÃO DO AUDIOVISUAL": {
+        "Notas": [
+          8.92
+        ],
+        "Desvios": [
+          1.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.92,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 8.92
+      },
+      "COM0095 - ASSESSORIA DE COMUNICACAO": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.52
+      }
+    },
+    "DesvioDeNotas": 0.3684813596326063,
+    "MediaDeNotas": 8.988181818181816,
+    "MediaDeDesvios": 2.0300000000000002,
+    "NotaMediana": 8.99
+  },
+  "DANIEL RODRIGO MEIRINHO DE SOUZA": {
+    "Notas": [
+      9.47,
+      9.55,
+      9.64,
+      9.68,
+      9.7,
+      9.74,
+      9.75,
+      9.79,
+      9.81,
+      9.84,
+      9.88,
+      9.88,
+      9.91
+    ],
+    "Desvios": [
+      1.5,
+      1.48,
+      1.3,
+      1.72,
+      1.19,
+      1.74,
+      1.39,
+      1.45,
+      1.12,
+      1.25,
+      1.12,
+      1.25,
+      1.19
+    ],
+    "Componentes": {
+      "COM0038 - COMUNICACAO E OPINIAO PUBLICA": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.7
+      },
+      "COM0319 - FOTOGRAFIA PUBLICITÁRIA": {
+        "Notas": [
+          9.47,
+          9.79,
+          9.88,
+          9.88
+        ],
+        "Desvios": [
+          1.48,
+          1.72,
+          1.39,
+          1.12
+        ],
+        "DesvioDeNotas": 0.1685971530008736,
+        "MediaDeNotas": 9.755,
+        "MediaDeDesvios": 1.4275,
+        "NotaMediana": 9.88
+      },
+      "COM0503 - LINGUAGEM FOTOGRÁFICA": {
+        "Notas": [
+          9.68,
+          9.74,
+          9.75,
+          9.84
+        ],
+        "Desvios": [
+          1.3,
+          1.19,
+          1.45,
+          1.25
+        ],
+        "DesvioDeNotas": 0.05717298313014638,
+        "MediaDeNotas": 9.7525,
+        "MediaDeDesvios": 1.2975,
+        "NotaMediana": 9.75
+      },
+      "COM0064 - COMUNICAÇÃO, MÍDIAS E DIREITOS HUMANOS": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.64
+      },
+      "COM0526 - PROJETO EXPERIMENTAL II": {
+        "Notas": [
+          9.81,
+          9.91
+        ],
+        "Desvios": [
+          1.12,
+          1.19
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.155,
+        "NotaMediana": 9.91
+      },
+      "DAT0132 - FOTOGRAFIA": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.12702792871867272,
+    "MediaDeNotas": 9.741538461538461,
+    "MediaDeDesvios": 1.3615384615384618,
+    "NotaMediana": 9.75
+  },
+  "HELCIO PACHECO DE MEDEIROS": {
+    "Notas": [
+      8.13,
+      8.94,
+      9.18,
+      9.25,
+      9.36,
+      9.41,
+      9.48,
+      9.48,
+      9.57,
+      9.75
+    ],
+    "Desvios": [
+      1.85,
+      2.44,
+      1.24,
+      1.58,
+      1.72,
+      2.28,
+      1.46,
+      1.37,
+      1.13,
+      0.81
+    ],
+    "Componentes": {
+      "COM0137 - NOVAS TECNOLOGIAS DE COMUNICACAO": {
+        "Notas": [
+          8.94
+        ],
+        "Desvios": [
+          1.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.94,
+        "MediaDeDesvios": 1.85,
+        "NotaMediana": 8.94
+      },
+      "COM0191 - RÁDIO III": {
+        "Notas": [
+          8.13,
+          9.25
+        ],
+        "Desvios": [
+          2.44,
+          1.24
+        ],
+        "DesvioDeNotas": 0.5599999999999996,
+        "MediaDeNotas": 8.690000000000001,
+        "MediaDeDesvios": 1.8399999999999999,
+        "NotaMediana": 9.25
+      },
+      "COM0193 - TÓPICOS ESPECIAIS EM RÁDIO": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.48
+      },
+      "COM0108 - DIRECAO DE PROGRAMAS RADIOFONICOS": {
+        "Notas": [
+          9.36,
+          9.57
+        ],
+        "Desvios": [
+          1.72,
+          1.37
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.465,
+        "MediaDeDesvios": 1.545,
+        "NotaMediana": 9.57
+      },
+      "COM0145 - PRODUCAO EM RADIO": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          2.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 2.28,
+        "NotaMediana": 9.18
+      },
+      "COM0152 - SONOPLASTIA": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.48
+      },
+      "COM0173 - NOVAS FRONTEIRAS DO RADIO: A RADIO WEB": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.41
+      },
+      "COM0083 - OFICINA DE TEXTO IV": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          0.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 0.81,
+        "NotaMediana": 9.75
+      }
+    },
+    "DesvioDeNotas": 0.4302383060583982,
+    "MediaDeNotas": 9.254999999999999,
+    "MediaDeDesvios": 1.588,
+    "NotaMediana": 9.41
+  },
+  "ITAMAR DE MORAIS NOBRE": {
+    "Notas": [
+      8.55,
+      8.79,
+      8.89,
+      8.91,
+      8.99,
+      9.14,
+      9.31,
+      9.5,
+      9.64
+    ],
+    "Desvios": [
+      1.33,
+      2.04,
+      1.36,
+      2.23,
+      1.5,
+      2.13,
+      1.75,
+      1.75,
+      1.51
+    ],
+    "Componentes": {
+      "COM0259 - FOLKCOMUNICAÇÃO": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.31
+      },
+      "COM0210 - FOTOJORNALISMO": {
+        "Notas": [
+          8.79,
+          8.91,
+          9.14
+        ],
+        "Desvios": [
+          2.04,
+          2.13,
+          1.75
+        ],
+        "DesvioDeNotas": 0.1452201394052803,
+        "MediaDeNotas": 8.946666666666667,
+        "MediaDeDesvios": 1.9733333333333334,
+        "NotaMediana": 8.91
+      },
+      "COM0163 - PESQUISA EM COMUNICAÇÃO": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.5
+      },
+      "COM0167 - FOTOGRAFIA": {
+        "Notas": [
+          8.55,
+          8.89
+        ],
+        "Desvios": [
+          2.23,
+          1.75
+        ],
+        "DesvioDeNotas": 0.16999999999999993,
+        "MediaDeNotas": 8.72,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 8.89
+      },
+      "COM0116 - FOTOJORNALISMO": {
+        "Notas": [
+          8.99,
+          9.64
+        ],
+        "Desvios": [
+          1.5,
+          1.51
+        ],
+        "DesvioDeNotas": 0.3250000000000002,
+        "MediaDeNotas": 9.315000000000001,
+        "MediaDeDesvios": 1.505,
+        "NotaMediana": 9.64
+      }
+    },
+    "DesvioDeNotas": 0.33075670817082464,
+    "MediaDeNotas": 9.079999999999998,
+    "MediaDeDesvios": 1.7333333333333334,
+    "NotaMediana": 8.99
+  },
+  "IVAN MUSSA TAVARES GOMES": {
+    "Notas": [
+      9.24,
+      9.4,
+      9.53,
+      9.64
+    ],
+    "Desvios": [
+      1.83,
+      1.67,
+      1.93,
+      1.93
+    ],
+    "Componentes": {
+      "COM0066 - COMUNICAÇÃO PÚBLICA": {
+        "Notas": [
+          9.24
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.24,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.24
+      },
+      "COM0064 - COMUNICAÇÃO, MÍDIAS E DIREITOS HUMANOS": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.53
+      },
+      "COM0601 - CULTURA BRASILEIRA": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.64
+      },
+      "COM0164 - ÉTICA E LEGISLAÇÃO DO AUDIOVISUAL": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.4
+      }
+    },
+    "DesvioDeNotas": 0.1492271758092339,
+    "MediaDeNotas": 9.4525,
+    "MediaDeDesvios": 1.8399999999999999,
+    "NotaMediana": 9.53
+  },
+  "JANAINA DIAS BARCELOS": {
+    "Notas": [
+      8.41,
+      9.23,
+      9.24,
+      9.36,
+      9.41
+    ],
+    "Desvios": [
+      1.9,
+      1.46,
+      2.01,
+      1.72,
+      2.46
+    ],
+    "Componentes": {
+      "COM0209 - LABORATÓRIO DE PLANEJAMENTO E PESQUISA EM JORNALISMO": {
+        "Notas": [
+          9.23,
+          9.24
+        ],
+        "Desvios": [
+          1.9,
+          2.01
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.235,
+        "MediaDeDesvios": 1.9549999999999998,
+        "NotaMediana": 9.24
+      },
+      "COM0225 - PROJETO DE PESQUISA EM COMUNICAÇÃO E EM JORNALISMO": {
+        "Notas": [
+          8.41,
+          9.41
+        ],
+        "Desvios": [
+          1.46,
+          2.46
+        ],
+        "DesvioDeNotas": 0.5,
+        "MediaDeNotas": 8.91,
+        "MediaDeDesvios": 1.96,
+        "NotaMediana": 9.41
+      },
+      "COM0280 - OFICINA DE REDAÇÃO CRIATIVA": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.36
+      }
+    },
+    "DesvioDeNotas": 0.36655149706419143,
+    "MediaDeNotas": 9.129999999999999,
+    "MediaDeDesvios": 1.9099999999999997,
+    "NotaMediana": 9.24
+  },
+  "JANAINE SIBELLE FREIRES AIRES": {
+    "Notas": [
+      9.68,
+      9.75,
+      9.82,
+      9.82,
+      9.87,
+      9.93
+    ],
+    "Desvios": [
+      1.5,
+      1.79,
+      1.52,
+      1.41,
+      1.61,
+      1.5
+    ],
+    "Componentes": {
+      "COM0190 - ECONOMIA POLÍTICA DO AUDIOVISUAL": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.75
+      },
+      "COM0165 - FORMAÇÃO ECONÔMICA, SOCIAL E CULTURAL DO BRASIL": {
+        "Notas": [
+          9.82,
+          9.87
+        ],
+        "Desvios": [
+          1.79,
+          1.61
+        ],
+        "DesvioDeNotas": 0.02499999999999947,
+        "MediaDeNotas": 9.844999999999999,
+        "MediaDeDesvios": 1.7000000000000002,
+        "NotaMediana": 9.87
+      },
+      "COM0166 - TÓPICOS ESPECIAIS EM TV": {
+        "Notas": [
+          9.93
+        ],
+        "Desvios": [
+          1.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.93,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.93
+      },
+      "COM0307 - COMUNICAÇÃO E CULTURA": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.82
+      },
+      "COM0314 - PUBLICIDADE E CIDADANIA": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.08029459646963928,
+    "MediaDeNotas": 9.811666666666666,
+    "MediaDeDesvios": 1.5550000000000004,
+    "NotaMediana": 9.82
+  },
+  "JOHN WILLIAN LOPES": {
+    "Notas": [
+      9.07,
+      9.27,
+      9.62,
+      9.69
+    ],
+    "Desvios": [
+      1.94,
+      1.83,
+      1.65,
+      2
+    ],
+    "Componentes": {
+      "COM0137 - NOVAS TECNOLOGIAS DE COMUNICACAO": {
+        "Notas": [
+          9.27
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.27
+      },
+      "COM0526 - PROJETO EXPERIMENTAL II": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.62
+      },
+      "COM0304 - REDAÇÃO PUBLICITÁRIA NA MIDIA IMPRESSA": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.69
+      },
+      "COM0308 - REDAÇÃO PUBLICITÁRIA NA MIDIA SONORA": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 9.07
+      }
+    },
+    "DesvioDeNotas": 0.25380849079571755,
+    "MediaDeNotas": 9.4125,
+    "MediaDeDesvios": 1.855,
+    "NotaMediana": 9.62
+  },
+  "JOSENILDO SOARES BEZERRA": {
+    "Notas": [
+      8.03,
+      8.63,
+      8.93,
+      8.94,
+      8.95,
+      9.06,
+      9.21,
+      9.32,
+      9.38,
+      9.54
+    ],
+    "Desvios": [
+      2.02,
+      1.84,
+      1.73,
+      2.63,
+      1.66,
+      1.92,
+      1.64,
+      1.58,
+      1.6,
+      1.64
+    ],
+    "Componentes": {
+      "COM0303 - LINGUAGEM PUBLICITARIA": {
+        "Notas": [
+          9.21,
+          9.32,
+          9.54
+        ],
+        "Desvios": [
+          2.02,
+          1.66,
+          1.6
+        ],
+        "DesvioDeNotas": 0.13719410418171046,
+        "MediaDeNotas": 9.356666666666667,
+        "MediaDeDesvios": 1.7599999999999998,
+        "NotaMediana": 9.32
+      },
+      "COM0325 - PROJETO EXPERIMENTAL I": {
+        "Notas": [
+          8.63,
+          8.94,
+          8.95
+        ],
+        "Desvios": [
+          1.84,
+          1.64,
+          1.64
+        ],
+        "DesvioDeNotas": 0.14854853303438062,
+        "MediaDeNotas": 8.839999999999998,
+        "MediaDeDesvios": 1.7066666666666668,
+        "NotaMediana": 8.94
+      },
+      "COM0314 - PUBLICIDADE E CIDADANIA": {
+        "Notas": [
+          9.38
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.38
+      },
+      "COM0284 - ESTUDOS DIRIGIDOS EM PUBLICIDADE": {
+        "Notas": [
+          8.03
+        ],
+        "Desvios": [
+          2.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.03,
+        "MediaDeDesvios": 2.63,
+        "NotaMediana": 8.03
+      },
+      "COM0320 - PROJETO DE PESQUISA I": {
+        "Notas": [
+          9.06
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.06
+      },
+      "COM0043 - COMUNICACAO PUBLICITARIA": {
+        "Notas": [
+          8.93
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.93,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 8.93
+      }
+    },
+    "DesvioDeNotas": 0.4092541997341018,
+    "MediaDeNotas": 8.999,
+    "MediaDeDesvios": 1.826,
+    "NotaMediana": 9.06
+  },
+  "JUCIANO DE SOUSA LACERDA": {
+    "Notas": [
+      8.57,
+      8.89,
+      9.03,
+      9.38
+    ],
+    "Desvios": [
+      2.3,
+      2.01,
+      2.08,
+      1.82
+    ],
+    "Componentes": {
+      "COM0202 - HISTÓRIA E TEORIAS DA COMUNICAÇÃO": {
+        "Notas": [
+          8.57
+        ],
+        "Desvios": [
+          2.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.57,
+        "MediaDeDesvios": 2.3,
+        "NotaMediana": 8.57
+      },
+      "COM0261 - TEORIA E HISTÓRIA DA COMUNICAÇÃO I": {
+        "Notas": [
+          9.03,
+          9.38
+        ],
+        "Desvios": [
+          2.01,
+          1.82
+        ],
+        "DesvioDeNotas": 0.1750000000000007,
+        "MediaDeNotas": 9.205,
+        "MediaDeDesvios": 1.915,
+        "NotaMediana": 9.38
+      },
+      "COM0163 - PESQUISA EM COMUNICAÇÃO": {
+        "Notas": [
+          8.89
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.89,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 8.89
+      }
+    },
+    "DesvioDeNotas": 0.29072108626654525,
+    "MediaDeNotas": 8.967500000000001,
+    "MediaDeDesvios": 2.0524999999999998,
+    "NotaMediana": 9.03
+  },
+  "KENIA BEATRIZ FERREIRA MAIA": {
+    "Notas": [
+      7.28,
+      7.67,
+      8.67,
+      9.06,
+      9.4,
+      9.82
+    ],
+    "Desvios": [
+      3.29,
+      1.43,
+      2.08,
+      3.32,
+      0.73,
+      1.64
+    ],
+    "Componentes": {
+      "COM0212 - TEORIAS DO JORNALISMO": {
+        "Notas": [
+          7.28,
+          7.67,
+          8.67,
+          9.06
+        ],
+        "Desvios": [
+          3.29,
+          2.08,
+          3.32,
+          1.64
+        ],
+        "DesvioDeNotas": 0.7218379319487167,
+        "MediaDeNotas": 8.17,
+        "MediaDeDesvios": 2.5825,
+        "NotaMediana": 8.67
+      },
+      "COM0283 - ESTUDOS DIRIGIDOS EM JORNALISMO": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.4
+      },
+      "COM0089 - PESQUISA EM COMUNICACAO": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          0.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 0.73,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.9071199847135256,
+    "MediaDeNotas": 8.65,
+    "MediaDeDesvios": 2.0816666666666666,
+    "NotaMediana": 9.06
+  },
+  "LEILA SALIM LEAL": {
+    "Notas": [
+      9.05,
+      9.5,
+      9.77,
+      9.8
+    ],
+    "Desvios": [
+      1.36,
+      1.24,
+      1.68,
+      2.12
+    ],
+    "Componentes": {
+      "COM0228 - COMUNICAÇÃO POLÍTICA": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.77
+      },
+      "COM0229 - EMPREENDEDORISMO E GESTÃO EM COMUNICAÇÃO E JORNALISMO": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.8
+      },
+      "COM0226 - LABORATÓRIO DE AUDIOVISUAL": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.68
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.68,
+        "NotaMediana": 9.5
+      },
+      "COM0216 - TECNOLOGIAS DIGITAIS": {
+        "Notas": [
+          9.05
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 9.05
+      }
+    },
+    "DesvioDeNotas": 0.3007490648364511,
+    "MediaDeNotas": 9.530000000000001,
+    "MediaDeDesvios": 1.6,
+    "NotaMediana": 9.77
+  },
+  "LILIAN CARLA MUNEIRO": {
+    "Notas": [
+      8.07,
+      8.7,
+      8.73,
+      8.98,
+      8.98,
+      9.16,
+      9.18,
+      9.25,
+      9.3,
+      9.36,
+      9.41,
+      9.51
+    ],
+    "Desvios": [
+      1.91,
+      1.98,
+      2.23,
+      2.14,
+      1.58,
+      1.89,
+      1.74,
+      1.7,
+      1.93,
+      2.14,
+      1.75,
+      1.38
+    ],
+    "Componentes": {
+      "COM0306 - ESTÉTICA E PUBLICIDADE": {
+        "Notas": [
+          8.07,
+          8.98,
+          9.18
+        ],
+        "Desvios": [
+          1.91,
+          1.74,
+          2.14
+        ],
+        "DesvioDeNotas": 0.4830688931773142,
+        "MediaDeNotas": 8.743333333333334,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 8.98
+      },
+      "COM0320 - PROJETO DE PESQUISA I": {
+        "Notas": [
+          8.7,
+          8.98
+        ],
+        "Desvios": [
+          1.98,
+          2.14
+        ],
+        "DesvioDeNotas": 0.14000000000000057,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 2.06,
+        "NotaMediana": 8.98
+      },
+      "COM0262 - TEORIA E HISTÓRIA DA COMUNICAÇÃO II": {
+        "Notas": [
+          8.73
+        ],
+        "Desvios": [
+          2.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.73,
+        "MediaDeDesvios": 2.23,
+        "NotaMediana": 8.73
+      },
+      "COM0090 - SEMIOTICA DA COMUNICACAO": {
+        "Notas": [
+          9.51
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.51,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.51
+      },
+      "COM0039 - SEMIOTICA E ESTET.COMUNICACAO": {
+        "Notas": [
+          9.16,
+          9.25,
+          9.41
+        ],
+        "Desvios": [
+          1.89,
+          1.7,
+          1.75
+        ],
+        "DesvioDeNotas": 0.10338708279513882,
+        "MediaDeNotas": 9.273333333333333,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.25
+      },
+      "COM0506 - TEORIA DA COMUNICAÇÃO": {
+        "Notas": [
+          9.3,
+          9.36
+        ],
+        "Desvios": [
+          1.93,
+          1.38
+        ],
+        "DesvioDeNotas": 0.02999999999999936,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.6549999999999998,
+        "NotaMediana": 9.36
+      }
+    },
+    "DesvioDeNotas": 0.3833867716375548,
+    "MediaDeNotas": 9.052499999999998,
+    "MediaDeDesvios": 1.8641666666666667,
+    "NotaMediana": 9.18
+  },
+  "LIVIA CIRNE DE AZEVEDO PEREIRA": {
+    "Notas": [
+      6.89,
+      7.61,
+      8.31,
+      8.86,
+      9.08
+    ],
+    "Desvios": [
+      2.15,
+      2.5,
+      2.71,
+      2.82,
+      1.9
+    ],
+    "Componentes": {
+      "COM0219 - PROGRAMAÇÃO PARA MÍDIAS INTERATIVAS": {
+        "Notas": [
+          9.08
+        ],
+        "Desvios": [
+          2.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.08,
+        "MediaDeDesvios": 2.15,
+        "NotaMediana": 9.08
+      },
+      "COM0232 - REPORTAGEM MULTIMÍDIA": {
+        "Notas": [
+          8.31
+        ],
+        "Desvios": [
+          2.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.31,
+        "MediaDeDesvios": 2.5,
+        "NotaMediana": 8.31
+      },
+      "COM0226 - LABORATÓRIO DE AUDIOVISUAL": {
+        "Notas": [
+          7.61
+        ],
+        "Desvios": [
+          2.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.61,
+        "MediaDeDesvios": 2.71,
+        "NotaMediana": 7.61
+      },
+      "COM0223 - LABORATÓRIO DE TELEJORNALISMO": {
+        "Notas": [
+          6.89
+        ],
+        "Desvios": [
+          2.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.89,
+        "MediaDeDesvios": 2.82,
+        "NotaMediana": 6.89
+      },
+      "COM0216 - TECNOLOGIAS DIGITAIS": {
+        "Notas": [
+          8.86
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.86,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 8.86
+      }
+    },
+    "DesvioDeNotas": 0.8091724167320584,
+    "MediaDeNotas": 8.15,
+    "MediaDeDesvios": 2.416,
+    "NotaMediana": 8.31
+  },
+  "LUIS ROBERTO ROSSI DEL CARRATORE": {
+    "Notas": [
+      9.2,
+      9.33,
+      9.39,
+      9.4,
+      9.4,
+      9.43,
+      9.44,
+      9.48,
+      9.66
+    ],
+    "Desvios": [
+      1.79,
+      1.7,
+      1.59,
+      1.93,
+      1.85,
+      1.95,
+      2.26,
+      2.3,
+      1.63
+    ],
+    "Componentes": {
+      "COM0316 - EMPREENDEDORISMO E PUBLICIDADE E PROPAGANDA": {
+        "Notas": [
+          9.33,
+          9.4,
+          9.43
+        ],
+        "Desvios": [
+          1.79,
+          1.93,
+          2.26
+        ],
+        "DesvioDeNotas": 0.041899350299921694,
+        "MediaDeNotas": 9.386666666666667,
+        "MediaDeDesvios": 1.9933333333333332,
+        "NotaMediana": 9.4
+      },
+      "COM0321 - PROJETO DE PESQUISA II": {
+        "Notas": [
+          9.4,
+          9.48
+        ],
+        "Desvios": [
+          1.7,
+          1.85
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.440000000000001,
+        "MediaDeDesvios": 1.775,
+        "NotaMediana": 9.48
+      },
+      "COM0154 - TECNICAS DE VEICULACAO": {
+        "Notas": [
+          9.39,
+          9.44,
+          9.66
+        ],
+        "Desvios": [
+          1.59,
+          1.95,
+          1.63
+        ],
+        "DesvioDeNotas": 0.11728408057172784,
+        "MediaDeNotas": 9.496666666666666,
+        "MediaDeDesvios": 1.7233333333333334,
+        "NotaMediana": 9.44
+      },
+      "COM0301 - HISTÓRIA DA PROPAGANDA": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          2.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 2.3,
+        "NotaMediana": 9.2
+      }
+    },
+    "DesvioDeNotas": 0.115288152143624,
+    "MediaDeNotas": 9.414444444444445,
+    "MediaDeDesvios": 1.8888888888888884,
+    "NotaMediana": 9.4
+  },
+  "LUIZ FERNANDO DAL PIAN NOBRE": {
+    "Notas": [
+      9.48,
+      9.52,
+      9.55,
+      9.6,
+      9.61,
+      9.66,
+      9.72,
+      9.73,
+      9.8,
+      9.87,
+      9.89,
+      9.96
+    ],
+    "Desvios": [
+      1.38,
+      1.38,
+      1.33,
+      1.19,
+      1.21,
+      1.63,
+      1.02,
+      1.37,
+      1.65,
+      1.5,
+      0.96,
+      1.52
+    ],
+    "Componentes": {
+      "COM0302 - CRIAÇÃO PUBLICITÁRIA": {
+        "Notas": [
+          9.73,
+          9.8,
+          9.87,
+          9.96
+        ],
+        "Desvios": [
+          1.38,
+          1.19,
+          1.02,
+          1.5
+        ],
+        "DesvioDeNotas": 0.08514693182963201,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.2725,
+        "NotaMediana": 9.87
+      },
+      "COM0300 - DIREÇÃO DE ARTE EM PUBLICIDADE E PROPAGANDA": {
+        "Notas": [
+          9.6,
+          9.66,
+          9.72,
+          9.89
+        ],
+        "Desvios": [
+          1.38,
+          1.21,
+          1.37,
+          0.96
+        ],
+        "DesvioDeNotas": 0.10825317547305513,
+        "MediaDeNotas": 9.717500000000001,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.72
+      },
+      "COM0325 - PROJETO EXPERIMENTAL I": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.52
+      },
+      "COM0505 - SOCIOLOGIA DA COMUNICAÇÃO": {
+        "Notas": [
+          9.48,
+          9.55,
+          9.61
+        ],
+        "Desvios": [
+          1.63,
+          1.65,
+          1.52
+        ],
+        "DesvioDeNotas": 0.05312459150169704,
+        "MediaDeNotas": 9.546666666666667,
+        "MediaDeDesvios": 1.5999999999999999,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.14913407465171152,
+    "MediaDeNotas": 9.699166666666667,
+    "MediaDeDesvios": 1.3449999999999998,
+    "NotaMediana": 9.72
+  },
+  "MARCELA COSTA DA CUNHA CHACEL": {
+    "Notas": [
+      9.6,
+      9.63,
+      9.71,
+      9.72,
+      9.73,
+      9.75,
+      9.82,
+      9.84,
+      9.89,
+      9.89,
+      9.89,
+      9.93
+    ],
+    "Desvios": [
+      1.45,
+      1.42,
+      1.46,
+      1.34,
+      1.08,
+      1.46,
+      1.67,
+      1.32,
+      0.98,
+      1.13,
+      0.96,
+      1.11
+    ],
+    "Componentes": {
+      "COM0328 - LEGISLAÇÃO E ÉTICA DE PUBLICIDADE E PROPAGANDA": {
+        "Notas": [
+          9.6,
+          9.72,
+          9.73
+        ],
+        "Desvios": [
+          1.45,
+          1.34,
+          1.67
+        ],
+        "DesvioDeNotas": 0.059066817155564916,
+        "MediaDeNotas": 9.683333333333335,
+        "MediaDeDesvios": 1.4866666666666666,
+        "NotaMediana": 9.72
+      },
+      "COM0317 - PLANEJAMENTO DE CAMPANHAS": {
+        "Notas": [
+          9.63,
+          9.71,
+          9.89,
+          9.89
+        ],
+        "Desvios": [
+          1.42,
+          1.08,
+          1.32,
+          0.96
+        ],
+        "DesvioDeNotas": 0.11357816691600536,
+        "MediaDeNotas": 9.780000000000001,
+        "MediaDeDesvios": 1.195,
+        "NotaMediana": 9.89
+      },
+      "COM0505 - SOCIOLOGIA DA COMUNICAÇÃO": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          1.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.89
+      },
+      "COM0308 - REDAÇÃO PUBLICITÁRIA NA MIDIA SONORA": {
+        "Notas": [
+          9.75,
+          9.82,
+          9.93
+        ],
+        "Desvios": [
+          1.46,
+          0.98,
+          1.11
+        ],
+        "DesvioDeNotas": 0.07408703590297609,
+        "MediaDeNotas": 9.833333333333334,
+        "MediaDeDesvios": 1.1833333333333333,
+        "NotaMediana": 9.82
+      },
+      "COM0318 - ADMINISTRAÇÃO DE AGÊNCIAS DE PUBLICIDADE": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.10434983894999014,
+    "MediaDeNotas": 9.783333333333333,
+    "MediaDeDesvios": 1.281666666666667,
+    "NotaMediana": 9.82
+  },
+  "MARCELO BOLSHAW GOMES": {
+    "Notas": [
+      8.49,
+      8.52,
+      8.54,
+      9.04,
+      9.07,
+      9.1,
+      9.28,
+      9.49
+    ],
+    "Desvios": [
+      1.7,
+      1.99,
+      1.93,
+      2.25,
+      2.43,
+      2.09,
+      1.57,
+      1.28
+    ],
+    "Componentes": {
+      "COM0239 - CULTURA DA IMAGEM NA CONTEMPORANEIDADE": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.49
+      },
+      "COM0280 - OFICINA DE REDAÇÃO CRIATIVA": {
+        "Notas": [
+          8.52
+        ],
+        "Desvios": [
+          1.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.52,
+        "MediaDeDesvios": 1.99,
+        "NotaMediana": 8.52
+      },
+      "COM0601 - CULTURA BRASILEIRA": {
+        "Notas": [
+          9.28
+        ],
+        "Desvios": [
+          1.93
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.28,
+        "MediaDeDesvios": 1.93,
+        "NotaMediana": 9.28
+      },
+      "COM0202 - HISTÓRIA E TEORIAS DA COMUNICAÇÃO": {
+        "Notas": [
+          8.49,
+          9.04
+        ],
+        "Desvios": [
+          2.25,
+          2.09
+        ],
+        "DesvioDeNotas": 0.27499999999999947,
+        "MediaDeNotas": 8.765,
+        "MediaDeDesvios": 2.17,
+        "NotaMediana": 9.04
+      },
+      "COM0186 - HISTÓRIA E TEORIA DA COMUNICAÇÃO II": {
+        "Notas": [
+          8.54,
+          9.07
+        ],
+        "Desvios": [
+          2.43,
+          1.57
+        ],
+        "DesvioDeNotas": 0.26500000000000057,
+        "MediaDeNotas": 8.805,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 9.07
+      },
+      "COM0001 - TEORIA DA COMUNICACAO I": {
+        "Notas": [
+          9.1
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.1,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.1
+      }
+    },
+    "DesvioDeNotas": 0.35522660021456737,
+    "MediaDeNotas": 8.94125,
+    "MediaDeDesvios": 1.905,
+    "NotaMediana": 9.07
+  },
+  "MARIA ANGELA PAVAN": {
+    "Notas": [
+      8.85,
+      9.11,
+      9.22,
+      9.37
+    ],
+    "Desvios": [
+      2.36,
+      2.05,
+      1.85,
+      1.77
+    ],
+    "Componentes": {
+      "COM0179 - TV I": {
+        "Notas": [
+          8.85,
+          9.11,
+          9.22,
+          9.37
+        ],
+        "Desvios": [
+          2.36,
+          2.05,
+          1.85,
+          1.77
+        ],
+        "DesvioDeNotas": 0.189917745353087,
+        "MediaDeNotas": 9.1375,
+        "MediaDeDesvios": 2.0075,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0.189917745353087,
+    "MediaDeNotas": 9.1375,
+    "MediaDeDesvios": 2.0075,
+    "NotaMediana": 9.22
+  },
+  "MARIA DO SOCORRO FURTADO VELOSO": {
+    "Notas": [
+      9.49,
+      9.56,
+      9.59,
+      9.63,
+      9.64,
+      9.74,
+      9.88,
+      9.9,
+      9.91
+    ],
+    "Desvios": [
+      1.65,
+      1.86,
+      0.96,
+      1.81,
+      1.42,
+      1.14,
+      1.58,
+      1.33,
+      1.42
+    ],
+    "Componentes": {
+      "COM0206 - HISTÓRIA E LEGISLAÇÃO DO JORNALISMO": {
+        "Notas": [
+          9.56,
+          9.59,
+          9.64,
+          9.88
+        ],
+        "Desvios": [
+          1.65,
+          1.81,
+          1.14,
+          1.33
+        ],
+        "DesvioDeNotas": 0.12597122687344142,
+        "MediaDeNotas": 9.6675,
+        "MediaDeDesvios": 1.4825,
+        "NotaMediana": 9.64
+      },
+      "COM0205 - LABORATÓRIO DE LINGUAGEM JORNALÍSTICA": {
+        "Notas": [
+          9.49,
+          9.63,
+          9.74,
+          9.91
+        ],
+        "Desvios": [
+          1.86,
+          1.42,
+          1.58,
+          1.42
+        ],
+        "DesvioDeNotas": 0.15368392889303675,
+        "MediaDeNotas": 9.6925,
+        "MediaDeDesvios": 1.57,
+        "NotaMediana": 9.74
+      },
+      "COM0060 - LEGISLACAO JORNALISTICA": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          0.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.96,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.14989708403591162,
+    "MediaDeNotas": 9.704444444444444,
+    "MediaDeDesvios": 1.4633333333333334,
+    "NotaMediana": 9.64
+  },
+  "MIRIAN MOEMA FILGUEIRA PINHEIRO": {
+    "Notas": [
+      8.97,
+      9.15,
+      9.15,
+      9.27,
+      9.39,
+      9.57,
+      9.57,
+      9.62,
+      9.66,
+      9.66,
+      9.66,
+      9.72
+    ],
+    "Desvios": [
+      1.49,
+      1.75,
+      2,
+      1.79,
+      1.67,
+      1.54,
+      1.85,
+      2.26,
+      1.51,
+      1.1,
+      0.96,
+      1.35
+    ],
+    "Componentes": {
+      "COM0183 - DRAMATURGIA E ROTEIRO": {
+        "Notas": [
+          9.15,
+          9.15,
+          9.62,
+          9.66
+        ],
+        "Desvios": [
+          1.49,
+          1.79,
+          1.85,
+          1.1
+        ],
+        "DesvioDeNotas": 0.2454078238361602,
+        "MediaDeNotas": 9.395,
+        "MediaDeDesvios": 1.5575,
+        "NotaMediana": 9.62
+      },
+      "COM0223 - LABORATÓRIO DE TELEJORNALISMO": {
+        "Notas": [
+          8.97,
+          9.27,
+          9.39,
+          9.57,
+          9.57,
+          9.66,
+          9.72
+        ],
+        "Desvios": [
+          1.75,
+          2,
+          1.67,
+          1.54,
+          2.26,
+          1.51,
+          0.96
+        ],
+        "DesvioDeNotas": 0.24266378857529255,
+        "MediaDeNotas": 9.450000000000001,
+        "MediaDeDesvios": 1.6699999999999997,
+        "NotaMediana": 9.57
+      },
+      "COM0146 - PRODUCAO EM TV": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.2431206262103009,
+    "MediaDeNotas": 9.449166666666668,
+    "MediaDeDesvios": 1.6058333333333332,
+    "NotaMediana": 9.57
+  },
+  "RODRIGO ALMEIDA FERREIRA": {
+    "Notas": [
+      9.25,
+      9.32,
+      9.4,
+      9.44,
+      9.57,
+      9.75
+    ],
+    "Desvios": [
+      1.87,
+      1.69,
+      1.3,
+      1.67,
+      1.88,
+      1.78
+    ],
+    "Componentes": {
+      "COM0188 - EDIÇÃO E MONTAGEM NO AUDIOVISUAL": {
+        "Notas": [
+          9.32,
+          9.44
+        ],
+        "Desvios": [
+          1.87,
+          1.88
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.379999999999999,
+        "MediaDeDesvios": 1.875,
+        "NotaMediana": 9.44
+      },
+      "COM0167 - FOTOGRAFIA": {
+        "Notas": [
+          9.4
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.4,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.4
+      },
+      "COM0185 - TEORIAS DAS IMAGENS": {
+        "Notas": [
+          9.57,
+          9.75
+        ],
+        "Desvios": [
+          1.3,
+          1.78
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.75
+      },
+      "COM0190 - ECONOMIA POLÍTICA DO AUDIOVISUAL": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.25
+      }
+    },
+    "DesvioDeNotas": 0.16520189667999172,
+    "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 1.6983333333333333,
+    "NotaMediana": 9.44
+  },
+  "RODRIGO PARRON SANTOS": {
+    "Notas": [
+      7.97,
+      8.94,
+      9.16,
+      9.19,
+      9.23,
+      9.25,
+      9.51,
+      9.56,
+      9.73,
+      9.73,
+      9.74,
+      9.88
+    ],
+    "Desvios": [
+      1.66,
+      2.01,
+      1.43,
+      1.73,
+      1.26,
+      1.82,
+      1.12,
+      2.09,
+      2.82,
+      1.69,
+      1.09,
+      1.2
+    ],
+    "Componentes": {
+      "COM0105 - COMUNICACAO E MARKETING": {
+        "Notas": [
+          9.23,
+          9.25,
+          9.51,
+          9.73
+        ],
+        "Desvios": [
+          1.66,
+          1.73,
+          1.12,
+          1.69
+        ],
+        "DesvioDeNotas": 0.20542638584174142,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.5499999999999998,
+        "NotaMediana": 9.51
+      },
+      "COM0263 - REDAÇÃO PUBLICITÁRIA I": {
+        "Notas": [
+          9.19
+        ],
+        "Desvios": [
+          2.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.19,
+        "MediaDeDesvios": 2.01,
+        "NotaMediana": 9.19
+      },
+      "COM0360 - REDAÇÃO PUBLICITÁRIA NA MIDIA ELETRÔNICA": {
+        "Notas": [
+          7.97,
+          8.94,
+          9.56,
+          9.74
+        ],
+        "Desvios": [
+          1.43,
+          1.82,
+          2.82,
+          1.09
+        ],
+        "DesvioDeNotas": 0.6918589090269781,
+        "MediaDeNotas": 9.0525,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 9.56
+      },
+      "COM0043 - COMUNICACAO PUBLICITARIA": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.88
+      },
+      "COM0089 - PESQUISA EM COMUNICACAO": {
+        "Notas": [
+          9.16
+        ],
+        "Desvios": [
+          2.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 9.16
+      },
+      "COM0154 - TECNICAS DE VEICULACAO": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.4951507907249627,
+    "MediaDeNotas": 9.324166666666667,
+    "MediaDeDesvios": 1.6600000000000001,
+    "NotaMediana": 9.51
+  },
+  "RONALDO MENDES NEVES": {
+    "Notas": [
+      8.77,
+      9.15,
+      9.28,
+      9.3,
+      9.41,
+      9.49,
+      9.51,
+      9.66,
+      9.68,
+      9.72,
+      9.81
+    ],
+    "Desvios": [
+      1.49,
+      1.66,
+      1.15,
+      1.45,
+      1.93,
+      1.6,
+      0.87,
+      1.41,
+      1.67,
+      1.21,
+      1.4
+    ],
+    "Componentes": {
+      "COM0229 - EMPREENDEDORISMO E GESTÃO EM COMUNICAÇÃO E JORNALISMO": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.66
+      },
+      "COM0117 - GESTAO EM COMUNICACAO": {
+        "Notas": [
+          8.77,
+          9.28,
+          9.3,
+          9.41,
+          9.49,
+          9.51,
+          9.81
+        ],
+        "Desvios": [
+          1.66,
+          1.45,
+          1.93,
+          1.41,
+          1.67,
+          1.21,
+          1.4
+        ],
+        "DesvioDeNotas": 0.2932923595378261,
+        "MediaDeNotas": 9.367142857142857,
+        "MediaDeDesvios": 1.5328571428571431,
+        "NotaMediana": 9.41
+      },
+      "COM0325 - PROJETO EXPERIMENTAL I": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.72
+      },
+      "COM0314 - PUBLICIDADE E CIDADANIA": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.15
+      },
+      "COM0222 - DIRECAO E INTERPRETACAO": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          0.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 0.87,
+        "NotaMediana": 9.68
+      }
+    },
+    "DesvioDeNotas": 0.2872238163195335,
+    "MediaDeNotas": 9.434545454545455,
+    "MediaDeDesvios": 1.4399999999999997,
+    "NotaMediana": 9.49
+  },
+  "RUY ALKMIM ROCHA FILHO": {
+    "Notas": [
+      8.85,
+      8.88,
+      8.98,
+      8.98,
+      9.06,
+      9.17,
+      9.17,
+      9.25,
+      9.3,
+      9.35,
+      9.67,
+      9.72
+    ],
+    "Desvios": [
+      2.23,
+      2.36,
+      2.17,
+      1.59,
+      1.92,
+      1.94,
+      1.3,
+      1.93,
+      2.1,
+      1.06,
+      1.9,
+      1.8
+    ],
+    "Componentes": {
+      "COM0189 - DOCUMENTÁRIO": {
+        "Notas": [
+          8.85,
+          8.88,
+          8.98,
+          9.3
+        ],
+        "Desvios": [
+          2.23,
+          1.59,
+          1.93,
+          1.9
+        ],
+        "DesvioDeNotas": 0.17837810964353246,
+        "MediaDeNotas": 9.0025,
+        "MediaDeDesvios": 1.9125,
+        "NotaMediana": 8.98
+      },
+      "COM0245 - LINGUAGEM AUDIOVISUAL": {
+        "Notas": [
+          9.35
+        ],
+        "Desvios": [
+          2.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 2.36,
+        "NotaMediana": 9.35
+      },
+      "COM0182 - TV II": {
+        "Notas": [
+          8.98,
+          9.06,
+          9.17,
+          9.25
+        ],
+        "Desvios": [
+          2.17,
+          1.92,
+          2.1,
+          1.8
+        ],
+        "DesvioDeNotas": 0.1030776406404413,
+        "MediaDeNotas": 9.115000000000002,
+        "MediaDeDesvios": 1.9974999999999998,
+        "NotaMediana": 9.17
+      },
+      "COM0066 - COMUNICAÇÃO PÚBLICA": {
+        "Notas": [
+          9.17
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.17,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.17
+      },
+      "COM0109 - DIRECAO DE PROGRAMAS DE TV": {
+        "Notas": [
+          9.67,
+          9.72
+        ],
+        "Desvios": [
+          1.3,
+          1.06
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.695,
+        "MediaDeDesvios": 1.1800000000000002,
+        "NotaMediana": 9.72
+      }
+    },
+    "DesvioDeNotas": 0.26916021664098544,
+    "MediaDeNotas": 9.198333333333334,
+    "MediaDeDesvios": 1.8583333333333332,
+    "NotaMediana": 9.17
+  },
+  "SEBASTIAO GUILHERME ALBANO DA COSTA": {
+    "Notas": [
+      7.62,
+      7.74,
+      8.24,
+      8.3,
+      8.73,
+      9.22,
+      9.42
+    ],
+    "Desvios": [
+      2.75,
+      2.6,
+      2.4,
+      2.09,
+      1.5,
+      2.56,
+      2.21
+    ],
+    "Componentes": {
+      "COM0178 - HISTÓRIA E TEORIA DA COMUNICAÇÃO I": {
+        "Notas": [
+          7.62,
+          9.22
+        ],
+        "Desvios": [
+          2.75,
+          2.09
+        ],
+        "DesvioDeNotas": 0.8000000000000003,
+        "MediaDeNotas": 8.42,
+        "MediaDeDesvios": 2.42,
+        "NotaMediana": 9.22
+      },
+      "COM0186 - HISTÓRIA E TEORIA DA COMUNICAÇÃO II": {
+        "Notas": [
+          8.24,
+          9.42
+        ],
+        "Desvios": [
+          2.6,
+          1.5
+        ],
+        "DesvioDeNotas": 0.5899999999999999,
+        "MediaDeNotas": 8.83,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 9.42
+      },
+      "COM0255 - JORNALISMO LITERÁRIO": {
+        "Notas": [
+          8.73
+        ],
+        "Desvios": [
+          2.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.73,
+        "MediaDeDesvios": 2.4,
+        "NotaMediana": 8.73
+      },
+      "COM0037 - COMUNICACAO COMPARADA": {
+        "Notas": [
+          7.74
+        ],
+        "Desvios": [
+          2.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.74,
+        "MediaDeDesvios": 2.56,
+        "NotaMediana": 7.74
+      },
+      "COM0038 - COMUNICACAO E OPINIAO PUBLICA": {
+        "Notas": [
+          8.3
+        ],
+        "Desvios": [
+          2.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.3,
+        "MediaDeDesvios": 2.21,
+        "NotaMediana": 8.3
+      }
+    },
+    "DesvioDeNotas": 0.640283738124062,
+    "MediaDeNotas": 8.467142857142859,
+    "MediaDeDesvios": 2.301428571428571,
+    "NotaMediana": 8.3
+  },
+  "TACIANA DE LIMA BURGOS": {
+    "Notas": [
+      7.31,
+      9.33,
+      9.53
+    ],
+    "Desvios": [
+      2.71,
+      1.34,
+      1.5
+    ],
+    "Componentes": {
+      "COM0504 - MÍDIA DIGITAL": {
+        "Notas": [
+          7.31
+        ],
+        "Desvios": [
+          2.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.31,
+        "MediaDeDesvios": 2.71,
+        "NotaMediana": 7.31
+      },
+      "COM0313 - PUBLICIDADE ON-LINE": {
+        "Notas": [
+          9.53
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.53,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.53
+      },
+      "COM0001 - TEORIA DA COMUNICACAO I": {
+        "Notas": [
+          9.33
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.33,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.33
+      }
+    },
+    "DesvioDeNotas": 1.002707445979246,
+    "MediaDeNotas": 8.723333333333334,
+    "MediaDeDesvios": 1.8499999999999999,
+    "NotaMediana": 9.33
+  },
+  "VALQUIRIA APARECIDA PASSOS KNEIPP": {
+    "Notas": [
+      9.05,
+      9.23,
+      9.26,
+      9.26,
+      9.3,
+      9.32,
+      9.49
+    ],
+    "Desvios": [
+      1.89,
+      0.95,
+      2.04,
+      1.51,
+      2.14,
+      1.37,
+      1.67
+    ],
+    "Componentes": {
+      "COM0199 - COMUNICAÇÃO, CULTURA E SOCIEDADE": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.49
+      },
+      "COM0157 - TEMAS ESPECIAIS EM JORNALISMO": {
+        "Notas": [
+          9.26,
+          9.3
+        ],
+        "Desvios": [
+          0.95,
+          2.14
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.280000000000001,
+        "MediaDeDesvios": 1.545,
+        "NotaMediana": 9.3
+      },
+      "COM0921 - TOPICOS ESPECIAIS EM TV": {
+        "Notas": [
+          9.26
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.26,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 9.26
+      },
+      "COM0060 - LEGISLACAO JORNALISTICA": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.32
+      },
+      "COM0223 - LABORATÓRIO DE TELEJORNALISMO": {
+        "Notas": [
+          9.05,
+          9.23
+        ],
+        "Desvios": [
+          1.37,
+          1.67
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.23
+      }
+    },
+    "DesvioDeNotas": 0.12067835475395917,
+    "MediaDeNotas": 9.272857142857143,
+    "MediaDeDesvios": 1.6528571428571426,
+    "NotaMediana": 9.26
+  },
+  "YGOR FELIPE PINTO": {
+    "Notas": [
+      8.85,
+      9.04,
+      9.18,
+      9.32,
+      9.48,
+      9.49,
+      9.52,
+      9.58,
+      9.59,
+      9.63,
+      9.67,
+      9.8
+    ],
+    "Desvios": [
+      1.64,
+      2.16,
+      1.61,
+      1.8,
+      1.49,
+      2.09,
+      1.66,
+      1.66,
+      1.43,
+      1.88,
+      1.45,
+      1.25
+    ],
+    "Componentes": {
+      "COM0117 - GESTAO EM COMUNICACAO": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.52
+      },
+      "COM0181 - RÁDIO I": {
+        "Notas": [
+          8.85
+        ],
+        "Desvios": [
+          2.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.85,
+        "MediaDeDesvios": 2.16,
+        "NotaMediana": 8.85
+      },
+      "COM0184 - RÁDIO II": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.48
+      },
+      "COM0197 - TRILHA SONORA": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.18
+      },
+      "COM0108 - DIRECAO DE PROGRAMAS RADIOFONICOS": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.63
+      },
+      "COM0110 - EDICAO EM RADIO": {
+        "Notas": [
+          9.59,
+          9.67
+        ],
+        "Desvios": [
+          2.09,
+          1.43
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.629999999999999,
+        "MediaDeDesvios": 1.7599999999999998,
+        "NotaMediana": 9.67
+      },
+      "COM0188 - EDIÇÃO E MONTAGEM NO AUDIOVISUAL": {
+        "Notas": [
+          9.32,
+          9.49
+        ],
+        "Desvios": [
+          1.66,
+          1.88
+        ],
+        "DesvioDeNotas": 0.08499999999999996,
+        "MediaDeNotas": 9.405000000000001,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.49
+      },
+      "COM0152 - SONOPLASTIA": {
+        "Notas": [
+          9.04
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.04
+      },
+      "COM0178 - HISTÓRIA E TEORIA DA COMUNICAÇÃO I": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.8
+      },
+      "COM0166 - TÓPICOS ESPECIAIS EM TV": {
+        "Notas": [
+          9.58
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.58
+      }
+    },
+    "DesvioDeNotas": 0.2676894448589429,
+    "MediaDeNotas": 9.429166666666667,
+    "MediaDeDesvios": 1.6766666666666665,
+    "NotaMediana": 9.52
+  },
+  "ADRIANO MEDEIROS COSTA": {
+    "Notas": [
+      9.45,
+      9.52,
+      9.63,
+      9.65,
+      9.66,
+      9.7,
+      9.7,
+      9.7,
+      9.8,
+      9.82
+    ],
+    "Desvios": [
+      1.98,
+      1.75,
+      1.64,
+      1.04,
+      1.39,
+      1.24,
+      2.03,
+      1.26,
+      1.51,
+      1.1
+    ],
+    "Componentes": {
+      "COM0084 - COMUNICACAO E ARTES VISUAIS": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.45
+      },
+      "COM0208 - COMUNICAÇÃO E ARTES VISUAIS": {
+        "Notas": [
+          9.63,
+          9.65,
+          9.7,
+          9.82
+        ],
+        "Desvios": [
+          1.75,
+          1.39,
+          1.24,
+          1.51
+        ],
+        "DesvioDeNotas": 0.07382411530116688,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.4725,
+        "NotaMediana": 9.7
+      },
+      "COM0228 - COMUNICAÇÃO POLÍTICA": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.7
+      },
+      "COM0102 - COMUNICACAO E EDUCACAO": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.8
+      },
+      "COM0064 - COMUNICAÇÃO, MÍDIAS E DIREITOS HUMANOS": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          2.03
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 2.03,
+        "NotaMediana": 9.52
+      },
+      "COM0106 - COMUNICACAO POLITICA": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.66
+      },
+      "COM0185 - TEORIAS DAS IMAGENS": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.1070560600806888,
+    "MediaDeNotas": 9.663,
+    "MediaDeDesvios": 1.4939999999999998,
+    "NotaMediana": 9.7
+  },
+  "CARMEN JOAQUINA RIVERA PARRA": {
+    "Notas": [
+      8.84,
+      8.93,
+      9.21,
+      9.41,
+      9.6,
+      9.61,
+      9.67,
+      9.84
+    ],
+    "Desvios": [
+      1.41,
+      1.88,
+      2.24,
+      1.87,
+      1.77,
+      0.73,
+      1.69,
+      1.06
+    ],
+    "Componentes": {
+      "COM0194 - ARTES E TECNOLOGIAS": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.41
+      },
+      "COM0167 - FOTOGRAFIA": {
+        "Notas": [
+          8.84
+        ],
+        "Desvios": [
+          1.88
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.84,
+        "MediaDeDesvios": 1.88,
+        "NotaMediana": 8.84
+      },
+      "COM0187 - HISTÓRIA E TEORIA DO CINEMA": {
+        "Notas": [
+          8.93
+        ],
+        "Desvios": [
+          2.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.93,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 8.93
+      },
+      "COM0179 - TV I": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.21
+      },
+      "COM0038 - COMUNICACAO E OPINIAO PUBLICA": {
+        "Notas": [
+          9.67
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.67
+      },
+      "COM0222 - DIRECAO E INTERPRETACAO": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          0.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 0.73,
+        "NotaMediana": 9.84
+      },
+      "COM0165 - FORMAÇÃO ECONÔMICA, SOCIAL E CULTURAL DO BRASIL": {
+        "Notas": [
+          9.61
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.61
+      },
+      "COM0083 - OFICINA DE TEXTO IV": {
+        "Notas": [
+          9.6
+        ],
+        "Desvios": [
+          1.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.6,
+        "MediaDeDesvios": 1.06,
+        "NotaMediana": 9.6
+      }
+    },
+    "DesvioDeNotas": 0.33916948197029745,
+    "MediaDeNotas": 9.38875,
+    "MediaDeDesvios": 1.58125,
+    "NotaMediana": 9.6
+  },
+  "CEZAR MACEDO BARROS": {
+    "Notas": [
+      9.5,
+      9.65,
+      9.77,
+      9.79,
+      9.82,
+      9.84,
+      9.84,
+      9.88,
+      9.9,
+      9.94,
+      9.94,
+      9.94
+    ],
+    "Desvios": [
+      1.8,
+      1.49,
+      1.07,
+      1.45,
+      1.4,
+      1.42,
+      1.8,
+      1.1,
+      0.77,
+      1.13,
+      1.25,
+      1.13
+    ],
+    "Componentes": {
+      "COM0206 - HISTÓRIA E LEGISLAÇÃO DO JORNALISMO": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.82
+      },
+      "COM0060 - LEGISLACAO JORNALISTICA": {
+        "Notas": [
+          9.79,
+          9.84
+        ],
+        "Desvios": [
+          1.49,
+          1.13
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.815,
+        "MediaDeDesvios": 1.31,
+        "NotaMediana": 9.84
+      },
+      "COM0130 - LEGISLACAO NO RADIALISMO": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          1.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 1.07,
+        "NotaMediana": 9.94
+      },
+      "COM0211 - PROJETO GRÁFICO E EDITORAÇÃO": {
+        "Notas": [
+          9.5,
+          9.65,
+          9.77
+        ],
+        "Desvios": [
+          1.45,
+          1.8,
+          1.13
+        ],
+        "DesvioDeNotas": 0.11045361017187244,
+        "MediaDeNotas": 9.639999999999999,
+        "MediaDeDesvios": 1.46,
+        "NotaMediana": 9.65
+      },
+      "COM0214 - LABORATÓRIO DE RADIOJORNALISMO": {
+        "Notas": [
+          9.88,
+          9.9,
+          9.94
+        ],
+        "Desvios": [
+          1.4,
+          1.1,
+          0.77
+        ],
+        "DesvioDeNotas": 0.02494438257849241,
+        "MediaDeNotas": 9.906666666666666,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.9
+      },
+      "COM0142 - PLANEJAMENTO GRAFICO": {
+        "Notas": [
+          9.84,
+          9.94
+        ],
+        "Desvios": [
+          1.42,
+          1.25
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.335,
+        "NotaMediana": 9.94
+      }
+    },
+    "DesvioDeNotas": 0.12537443918119826,
+    "MediaDeNotas": 9.8175,
+    "MediaDeDesvios": 1.3175,
+    "NotaMediana": 9.84
+  },
+  "EMILY GONZAGA DE ARAUJO": {
+    "Notas": [
+      8.38,
+      8.97,
+      9.09,
+      9.15,
+      9.34,
+      9.36,
+      9.45,
+      9.5,
+      9.63,
+      9.69,
+      9.73
+    ],
+    "Desvios": [
+      1.49,
+      1.67,
+      1.33,
+      1.59,
+      1.36,
+      1.62,
+      1.25,
+      1.82,
+      1.48,
+      1.37,
+      1.15
+    ],
+    "Componentes": {
+      "COM0088 - INTRODUCAO AO JORNALISMO": {
+        "Notas": [
+          8.38,
+          9.63
+        ],
+        "Desvios": [
+          1.49,
+          1.82
+        ],
+        "DesvioDeNotas": 0.625,
+        "MediaDeNotas": 9.005,
+        "MediaDeDesvios": 1.655,
+        "NotaMediana": 9.63
+      },
+      "COM0170 - LINGUAGEM MUSICAL": {
+        "Notas": [
+          8.97,
+          9.09
+        ],
+        "Desvios": [
+          1.67,
+          1.37
+        ],
+        "DesvioDeNotas": 0.05999999999999961,
+        "MediaDeNotas": 9.030000000000001,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.09
+      },
+      "COM0325 - PROJETO EXPERIMENTAL I": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.69
+      },
+      "COM0166 - TÓPICOS ESPECIAIS EM TV": {
+        "Notas": [
+          9.34,
+          9.36
+        ],
+        "Desvios": [
+          1.59,
+          1.25
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.36
+      },
+      "COM0223 - LABORATÓRIO DE TELEJORNALISMO": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.5
+      },
+      "COM0216 - TECNOLOGIAS DIGITAIS": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.45
+      },
+      "COM0209 - LABORATÓRIO DE PLANEJAMENTO E PESQUISA EM JORNALISMO": {
+        "Notas": [
+          9.15
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.15,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.15
+      },
+      "COM0153 - TECNICAS DE APRESENTACAO DE TEXTOS NOS MCM": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.73
+      }
+    },
+    "DesvioDeNotas": 0.37361756201312046,
+    "MediaDeNotas": 9.299090909090909,
+    "MediaDeDesvios": 1.4663636363636363,
+    "NotaMediana": 9.36
+  },
+  "MICHELLE FERRET BADIALI": {
+    "Notas": [
+      9.12,
+      9.18,
+      9.22,
+      9.23,
+      9.25,
+      9.46,
+      9.59,
+      9.62,
+      9.66,
+      9.68,
+      9.75,
+      9.88
+    ],
+    "Desvios": [
+      1.67,
+      1.76,
+      1.64,
+      1.41,
+      1.87,
+      1.74,
+      1.9,
+      2.09,
+      1.28,
+      1.17,
+      1.72,
+      1.15
+    ],
+    "Componentes": {
+      "COM0285 - DIREITOS HUMANOS, DIVERSIDADE CULTURAL E RELAÇÕES ÉTNICO-RACIAIS": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.66
+      },
+      "COM0046 - ESTILOS JORNALISTICOS": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.18
+      },
+      "COM0205 - LABORATÓRIO DE LINGUAGEM JORNALÍSTICA": {
+        "Notas": [
+          9.68
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.68
+      },
+      "COM0231 - TÓPICOS ESPECIAIS EM JORNALISMO": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.46
+      },
+      "COM0084 - COMUNICACAO E ARTES VISUAIS": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.23
+      },
+      "COM0504 - MÍDIA DIGITAL": {
+        "Notas": [
+          9.12
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.12,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 9.12
+      },
+      "COM0280 - OFICINA DE REDAÇÃO CRIATIVA": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.22
+      },
+      "COM0052 - REPORTAGEM PESQ. E ENTREVISTA": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          2.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 9.25
+      },
+      "COM0922 - CENOGRAFIA EM COMUNICACAO": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.59
+      },
+      "COM0118 - ILUMINACAO": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.17,
+        "NotaMediana": 9.62
+      },
+      "COM0138 - OFICINA DE PROD. E REALIZACAO EM RADIO E TV": {
+        "Notas": [
+          9.75
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.75,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.75
+      },
+      "COM0082 - OFICINA DE TEXTO III": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          1.15
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 1.15,
+        "NotaMediana": 9.88
+      }
+    },
+    "DesvioDeNotas": 0.2481263119192858,
+    "MediaDeNotas": 9.47,
+    "MediaDeDesvios": 1.6166666666666665,
+    "NotaMediana": 9.59
+  },
+  "RAFAEL LEITE FREIRE": {
+    "Notas": [
+      9.38,
+      9.43,
+      9.48,
+      9.5,
+      9.54,
+      9.6
+    ],
+    "Desvios": [
+      1.42,
+      1.93,
+      1.52,
+      1.63,
+      1.75,
+      1.78
+    ],
+    "Componentes": {
+      "COM0245 - LINGUAGEM AUDIOVISUAL": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.42,
+        "NotaMediana": 9.54
+      },
+      "COM0181 - RÁDIO I": {
+        "Notas": [
+          9.5,
+          9.6
+        ],
+        "Desvios": [
+          1.93,
+          1.75
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.8399999999999999,
+        "NotaMediana": 9.6
+      },
+      "COM0184 - RÁDIO II": {
+        "Notas": [
+          9.38,
+          9.48
+        ],
+        "Desvios": [
+          1.52,
+          1.78
+        ],
+        "DesvioDeNotas": 0.04999999999999982,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.48
+      },
+      "COM0192 - DIREÇÃO NO AUDIOVISUAL": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          1.63
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.63,
+        "NotaMediana": 9.43
+      }
+    },
+    "DesvioDeNotas": 0.07127801593447662,
+    "MediaDeNotas": 9.488333333333335,
+    "MediaDeDesvios": 1.6716666666666666,
+    "NotaMediana": 9.5
+  },
+  "RAIMUNDA ALINE LUCENA GOMES": {
+    "Notas": [
+      9.11,
+      9.19,
+      9.24,
+      9.26,
+      9.27,
+      9.29,
+      9.3,
+      9.57,
+      9.57,
+      9.78
+    ],
+    "Desvios": [
+      1.97,
+      1.75,
+      0.75,
+      1.91,
+      2.07,
+      1.72,
+      1.43,
+      1.91,
+      1.64,
+      1.43
+    ],
+    "Componentes": {
+      "COM0066 - COMUNICAÇÃO PÚBLICA": {
+        "Notas": [
+          9.19,
+          9.24,
+          9.26
+        ],
+        "Desvios": [
+          1.97,
+          1.91,
+          1.43
+        ],
+        "DesvioDeNotas": 0.02943920288775967,
+        "MediaDeNotas": 9.229999999999999,
+        "MediaDeDesvios": 1.7699999999999998,
+        "NotaMediana": 9.24
+      },
+      "COM0064 - COMUNICAÇÃO, MÍDIAS E DIREITOS HUMANOS": {
+        "Notas": [
+          9.27,
+          9.29,
+          9.3
+        ],
+        "Desvios": [
+          1.75,
+          2.07,
+          1.91
+        ],
+        "DesvioDeNotas": 0.012472191289246839,
+        "MediaDeNotas": 9.286666666666667,
+        "MediaDeDesvios": 1.91,
+        "NotaMediana": 9.29
+      },
+      "COM0114 - ETICA NO RADIALISMO": {
+        "Notas": [
+          9.57,
+          9.78
+        ],
+        "Desvios": [
+          0.75,
+          1.64
+        ],
+        "DesvioDeNotas": 0.10499999999999954,
+        "MediaDeNotas": 9.675,
+        "MediaDeDesvios": 1.1949999999999998,
+        "NotaMediana": 9.78
+      },
+      "COM0164 - ÉTICA E LEGISLAÇÃO DO AUDIOVISUAL": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.11
+      },
+      "COM0130 - LEGISLACAO NO RADIALISMO": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.1992385504865964,
+    "MediaDeNotas": 9.357999999999999,
+    "MediaDeDesvios": 1.6580000000000001,
+    "NotaMediana": 9.29
+  },
+  "RENATA ALVES DE ALBUQUERQUE OTHON": {
+    "Notas": [
+      9.4,
+      9.49,
+      9.51,
+      9.66,
+      9.77,
+      9.82
+    ],
+    "Desvios": [
+      1.25,
+      1.77,
+      1.79,
+      1.36,
+      1.6,
+      1.77
+    ],
+    "Componentes": {
+      "COM0227 - LABORATÓRIO DE MÍDIA DIGITAL": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.25,
+        "NotaMediana": 9.77
+      },
+      "COM0504 - MÍDIA DIGITAL": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.49
+      },
+      "COM0219 - PROGRAMAÇÃO PARA MÍDIAS INTERATIVAS": {
+        "Notas": [
+          9.4,
+          9.51
+        ],
+        "Desvios": [
+          1.79,
+          1.77
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.455,
+        "MediaDeDesvios": 1.78,
+        "NotaMediana": 9.51
+      },
+      "COM0135 - MIDIA DIGITAL": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.36,
+        "NotaMediana": 9.66
+      },
+      "COM0137 - NOVAS TECNOLOGIAS DE COMUNICACAO": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.15312485827657832,
+    "MediaDeNotas": 9.608333333333333,
+    "MediaDeDesvios": 1.59,
+    "NotaMediana": 9.66
+  },
+  "VANESSA STEPHANIE DE AZEVEDO ARRUDA": {
+    "Notas": [
+      6.2,
+      6.6,
+      7.21,
+      9,
+      9.03,
+      9.36,
+      9.38,
+      9.53,
+      9.55,
+      9.56,
+      9.57,
+      9.67,
+      9.86
+    ],
+    "Desvios": [
+      1.5,
+      1.09,
+      1.78,
+      1.09,
+      3.16,
+      2.86,
+      1.41,
+      2.5,
+      1,
+      1.14,
+      1.62,
+      1.44,
+      1.65
+    ],
+    "Componentes": {
+      "COM0137 - NOVAS TECNOLOGIAS DE COMUNICACAO": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.55
+      },
+      "COM0526 - PROJETO EXPERIMENTAL II": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.09,
+        "NotaMediana": 9.57
+      },
+      "COM0315 - PUBLICIDADE NORTE-RIOGRANDENSE": {
+        "Notas": [
+          6.6,
+          9,
+          9.56
+        ],
+        "Desvios": [
+          1.78,
+          2.86,
+          1.65
+        ],
+        "DesvioDeNotas": 1.283882999169144,
+        "MediaDeNotas": 8.386666666666667,
+        "MediaDeDesvios": 2.0966666666666662,
+        "NotaMediana": 9
+      },
+      "COM0304 - REDAÇÃO PUBLICITÁRIA NA MIDIA IMPRESSA": {
+        "Notas": [
+          7.21,
+          9.53
+        ],
+        "Desvios": [
+          1.09,
+          2.5
+        ],
+        "DesvioDeNotas": 1.1599999999999997,
+        "MediaDeNotas": 8.37,
+        "MediaDeDesvios": 1.795,
+        "NotaMediana": 9.53
+      },
+      "COM0194 - ARTES E TECNOLOGIAS": {
+        "Notas": [
+          6.2
+        ],
+        "Desvios": [
+          3.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.2,
+        "MediaDeDesvios": 3.16,
+        "NotaMediana": 6.2
+      },
+      "COM0313 - PUBLICIDADE ON-LINE": {
+        "Notas": [
+          9.38
+        ],
+        "Desvios": [
+          1.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.41,
+        "NotaMediana": 9.38
+      },
+      "COM0038 - COMUNICACAO E OPINIAO PUBLICA": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1,
+        "NotaMediana": 9.86
+      },
+      "COM0316 - EMPREENDEDORISMO E PUBLICIDADE E PROPAGANDA": {
+        "Notas": [
+          9.67
+        ],
+        "Desvios": [
+          1.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.14,
+        "NotaMediana": 9.67
+      },
+      "COM0301 - HISTÓRIA DA PROPAGANDA": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.36
+      },
+      "COM0328 - LEGISLAÇÃO E ÉTICA DE PUBLICIDADE E PROPAGANDA": {
+        "Notas": [
+          9.03
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.03,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.03
+      }
+    },
+    "DesvioDeNotas": 1.2094592659433931,
+    "MediaDeNotas": 8.80923076923077,
+    "MediaDeDesvios": 1.7107692307692308,
+    "NotaMediana": 9.38
+  },
+  "ALISSON GUTEMBERG DA SILVA SOUZA": {
+    "Notas": [
+      8.96,
+      9.15,
+      9.25,
+      9.3,
+      9.45,
+      9.47,
+      9.51,
+      9.77
+    ],
+    "Desvios": [
+      1.69,
+      1.45,
+      1.94,
+      1.94,
+      1.79,
+      1.83,
+      1.3,
+      1.35
+    ],
+    "Componentes": {
+      "COM0190 - ECONOMIA POLÍTICA DO AUDIOVISUAL": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.69
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.69,
+        "NotaMediana": 9.47
+      },
+      "COM0178 - HISTÓRIA E TEORIA DA COMUNICAÇÃO I": {
+        "Notas": [
+          9.15,
+          9.77
+        ],
+        "Desvios": [
+          1.45,
+          1.79
+        ],
+        "DesvioDeNotas": 0.3099999999999996,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.77
+      },
+      "COM0321 - PROJETO DE PESQUISA II": {
+        "Notas": [
+          9.45,
+          9.51
+        ],
+        "Desvios": [
+          1.94,
+          1.35
+        ],
+        "DesvioDeNotas": 0.03000000000000025,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.645,
+        "NotaMediana": 9.51
+      },
+      "COM0001 - TEORIA DA COMUNICACAO I": {
+        "Notas": [
+          8.96
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 8.96
+      },
+      "COM0202 - HISTÓRIA E TEORIAS DA COMUNICAÇÃO": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.25
+      },
+      "COM0137 - NOVAS TECNOLOGIAS DE COMUNICACAO": {
+        "Notas": [
+          9.3
+        ],
+        "Desvios": [
+          1.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.3,
+        "MediaDeDesvios": 1.3,
+        "NotaMediana": 9.3
+      }
+    },
+    "DesvioDeNotas": 0.23198868506890555,
+    "MediaDeNotas": 9.3575,
+    "MediaDeDesvios": 1.66125,
+    "NotaMediana": 9.45
+  },
+  "FERNANDA ARIANE SILVA CARRERA": {
+    "Notas": [
+      9.46,
+      9.5,
+      9.52,
+      9.62,
+      9.72,
+      9.84
+    ],
+    "Desvios": [
+      1.28,
+      1.56,
+      1.65,
+      1.3,
+      1.33,
+      1.55
+    ],
+    "Componentes": {
+      "COM0307 - COMUNICAÇÃO E CULTURA": {
+        "Notas": [
+          9.52,
+          9.84
+        ],
+        "Desvios": [
+          1.28,
+          1.3
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.29,
+        "NotaMediana": 9.84
+      },
+      "COM0303 - LINGUAGEM PUBLICITARIA": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.46
+      },
+      "COM0314 - PUBLICIDADE E CIDADANIA": {
+        "Notas": [
+          9.62,
+          9.72
+        ],
+        "Desvios": [
+          1.65,
+          1.33
+        ],
+        "DesvioDeNotas": 0.05000000000000071,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.72
+      },
+      "COM0304 - REDAÇÃO PUBLICITÁRIA NA MIDIA IMPRESSA": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.5
+      }
+    },
+    "DesvioDeNotas": 0.13403979508588726,
+    "MediaDeNotas": 9.610000000000001,
+    "MediaDeDesvios": 1.445,
+    "NotaMediana": 9.62
+  },
+  "LADY DAYANA SILVA DE OLIVEIRA": {
+    "Notas": [
+      9.21,
+      9.37,
+      9.43,
+      9.49,
+      9.54,
+      9.66,
+      9.71,
+      9.77
+    ],
+    "Desvios": [
+      1.48,
+      1.18,
+      1.39,
+      0.99,
+      1.39,
+      1.55,
+      1.76,
+      1.6
+    ],
+    "Componentes": {
+      "COM0038 - COMUNICACAO E OPINIAO PUBLICA": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.77
+      },
+      "COM0117 - GESTAO EM COMUNICACAO": {
+        "Notas": [
+          9.43,
+          9.54
+        ],
+        "Desvios": [
+          1.18,
+          1.39
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.485,
+        "MediaDeDesvios": 1.285,
+        "NotaMediana": 9.54
+      },
+      "COM0083 - OFICINA DE TEXTO IV": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          0.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 0.99,
+        "NotaMediana": 9.71
+      },
+      "COM0105 - COMUNICACAO E MARKETING": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.49
+      },
+      "COM0320 - PROJETO DE PESQUISA I": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.21
+      },
+      "COM0154 - TECNICAS DE VEICULACAO": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.66
+      },
+      "COM0216 - TECNOLOGIAS DIGITAIS": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.17541023345289744,
+    "MediaDeNotas": 9.5225,
+    "MediaDeDesvios": 1.4175,
+    "NotaMediana": 9.54
+  },
+  "LUCIANA MIRANDA COSTA": {
+    "Notas": [
+      9.15,
+      9.22,
+      9.23,
+      9.31
+    ],
+    "Desvios": [
+      2.04,
+      1.99,
+      1.8,
+      1.68
+    ],
+    "Componentes": {
+      "COM0181 - RÁDIO I": {
+        "Notas": [
+          9.22,
+          9.31
+        ],
+        "Desvios": [
+          2.04,
+          1.8
+        ],
+        "DesvioDeNotas": 0.04499999999999993,
+        "MediaDeNotas": 9.265,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.31
+      },
+      "COM0184 - RÁDIO II": {
+        "Notas": [
+          9.15,
+          9.23
+        ],
+        "Desvios": [
+          1.99,
+          1.68
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.190000000000001,
+        "MediaDeDesvios": 1.835,
+        "NotaMediana": 9.23
+      }
+    },
+    "DesvioDeNotas": 0.05673402858955113,
+    "MediaDeNotas": 9.2275,
+    "MediaDeDesvios": 1.8775,
+    "NotaMediana": 9.23
+  },
+  "LARA OVIDIO DE MEDEIROS RODRIGUES": {
+    "Notas": [
+      9.56,
+      9.57,
+      9.73,
+      9.77
+    ],
+    "Desvios": [
+      1.51,
+      1.48,
+      1.35,
+      1.45
+    ],
+    "Componentes": {
+      "COM0084 - COMUNICACAO E ARTES VISUAIS": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.73
+      },
+      "COM0208 - COMUNICAÇÃO E ARTES VISUAIS": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.57
+      },
+      "COM0214 - LABORATÓRIO DE RADIOJORNALISMO": {
+        "Notas": [
+          9.56,
+          9.77
+        ],
+        "Desvios": [
+          1.35,
+          1.45
+        ],
+        "DesvioDeNotas": 0.10499999999999954,
+        "MediaDeNotas": 9.665,
+        "MediaDeDesvios": 1.4,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.09364160400163997,
+    "MediaDeNotas": 9.6575,
+    "MediaDeDesvios": 1.4475,
+    "NotaMediana": 9.73
+  },
+  "MARIA APARECIDA RAMOS DA SILVA": {
+    "Notas": [
+      8.05,
+      8.74,
+      9.07,
+      9.52
+    ],
+    "Desvios": [
+      1.62,
+      1.58,
+      1.74,
+      2.26
+    ],
+    "Componentes": {
+      "COM0165 - FORMAÇÃO ECONÔMICA, SOCIAL E CULTURAL DO BRASIL": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.07
+      },
+      "COM0135 - MIDIA DIGITAL": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.52
+      },
+      "COM0052 - REPORTAGEM PESQ. E ENTREVISTA": {
+        "Notas": [
+          8.74
+        ],
+        "Desvios": [
+          1.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.74,
+        "MediaDeDesvios": 1.74,
+        "NotaMediana": 8.74
+      },
+      "COM0087 - SISTEMAS DE COMUNICACAO": {
+        "Notas": [
+          8.05
+        ],
+        "Desvios": [
+          2.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.05,
+        "MediaDeDesvios": 2.26,
+        "NotaMediana": 8.05
+      }
+    },
+    "DesvioDeNotas": 0.5360270515561688,
+    "MediaDeNotas": 8.844999999999999,
+    "MediaDeDesvios": 1.8,
+    "NotaMediana": 9.07
+  },
+  "RAFAELA BERNARDAZZI TORRENS LEITE": {
+    "Notas": [
+      9.48,
+      9.69,
+      9.79,
+      9.85,
+      9.94
+    ],
+    "Desvios": [
+      0.9,
+      1.24,
+      1.56,
+      1.1,
+      0.96
+    ],
+    "Componentes": {
+      "COM0110 - EDICAO EM RADIO": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          0.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 0.9,
+        "NotaMediana": 9.69
+      },
+      "COM0111 - EDICAO EM TV": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.79
+      },
+      "COM0188 - EDIÇÃO E MONTAGEM NO AUDIOVISUAL": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 9.48
+      },
+      "COM0145 - PRODUCAO EM RADIO": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.94
+      },
+      "COM0152 - SONOPLASTIA": {
+        "Notas": [
+          9.85
+        ],
+        "Desvios": [
+          0.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.85,
+        "MediaDeDesvios": 0.96,
+        "NotaMediana": 9.85
+      }
+    },
+    "DesvioDeNotas": 0.15760710643876405,
+    "MediaDeNotas": 9.75,
+    "MediaDeDesvios": 1.1520000000000001,
+    "NotaMediana": 9.79
+  }
+}

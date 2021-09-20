@@ -1,0 +1,2322 @@
+{
+  "CIV0417 - HIDRÁULICA": {
+    "Notas": [
+      7.43,
+      9.1,
+      9.16,
+      9.43
+    ],
+    "Desvios": [
+      2.26,
+      2.62,
+      1.73,
+      1.75
+    ],
+    "Docentes": [
+      "ADA CRISTINA SCUDELARI",
+      "LUCIO FLAVIO FERREIRA MOREIRA"
+    ],
+    "DesvioDeNotas": 0.7892718162965152,
+    "MediaDeNotas": 8.780000000000001,
+    "MediaDeDesvios": 2.09,
+    "NotaMediana": 9.16
+  },
+  "CIV1302 - HIDRÁULICA PARA ENGENHARIA AMBIENTAL": {
+    "Notas": [
+      7.92,
+      9,
+      9.01,
+      9.01,
+      9.48,
+      9.91
+    ],
+    "Desvios": [
+      2.12,
+      2.52,
+      0.94,
+      2.31,
+      1.6,
+      1.37
+    ],
+    "Docentes": [
+      "ADA CRISTINA SCUDELARI",
+      "DIEGO SOUZA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.6064857788934545,
+    "MediaDeNotas": 9.055,
+    "MediaDeDesvios": 1.8099999999999998,
+    "NotaMediana": 9.01
+  },
+  "CIV1822 - AUDITORIA E PERÍCIA AMBIENTAL": {
+    "Notas": [
+      9.4,
+      9.61,
+      9.66
+    ],
+    "Desvios": [
+      1.77,
+      1.32,
+      1.32
+    ],
+    "Docentes": [
+      "AMANDA BEZERRA DE SOUSA",
+      "RENATA CRISTINA MEDEIROS TRAJANO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.11264496832477179,
+    "MediaDeNotas": 9.556666666666667,
+    "MediaDeDesvios": 1.47,
+    "NotaMediana": 9.61
+  },
+  "CIV1818 - GERENCIAMENTO DA DRENAGEM URBANA": {
+    "Notas": [
+      9.43,
+      9.82
+    ],
+    "Desvios": [
+      1.36,
+      1.56
+    ],
+    "Docentes": [
+      "AMANDA BEZERRA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.19500000000000028,
+    "MediaDeNotas": 9.625,
+    "MediaDeDesvios": 1.46,
+    "NotaMediana": 9.82
+  },
+  "CIV0051 - HIDRÁULICA APLICADA A AQUICULTURA": {
+    "Notas": [
+      9.66,
+      9.79,
+      9.84
+    ],
+    "Desvios": [
+      1.37,
+      1.29,
+      0.7
+    ],
+    "Docentes": [
+      "AMANDA BEZERRA DE SOUSA",
+      "DIEGO SOUZA DE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.07586537784494007,
+    "MediaDeNotas": 9.763333333333334,
+    "MediaDeDesvios": 1.12,
+    "NotaMediana": 9.79
+  },
+  "CIV0459 - PROJETO DE INSTALAÇÕES HIDROSSANITÁRIAS": {
+    "Notas": [
+      9.38,
+      9.41,
+      9.68,
+      9.86
+    ],
+    "Desvios": [
+      1,
+      1.23,
+      1.38,
+      1.19
+    ],
+    "Docentes": [
+      "AMANDA BEZERRA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.19828956099603381,
+    "MediaDeNotas": 9.5825,
+    "MediaDeDesvios": 1.2,
+    "NotaMediana": 9.68
+  },
+  "CIV0412 - ANÁLISE ESTRUTURAL I": {
+    "Notas": [
+      7.8,
+      9.1,
+      9.38,
+      9.45,
+      9.57,
+      9.6,
+      9.66,
+      9.86,
+      9.87,
+      9.93
+    ],
+    "Desvios": [
+      1.71,
+      1.8,
+      1.87,
+      1.72,
+      1.67,
+      1.87,
+      1.41,
+      1.48,
+      1.2,
+      0.83
+    ],
+    "Docentes": [
+      "ANDERSON ALBINO FERREIRA",
+      "JOSE AIRTON CUNHA COSTA",
+      "PEDRO MEDEIROS PITOMBEIRA CUNHA"
+    ],
+    "DesvioDeNotas": 0.5914355417118589,
+    "MediaDeNotas": 9.422,
+    "MediaDeDesvios": 1.556,
+    "NotaMediana": 9.6
+  },
+  "CIV0436 - ESTRUTURAS METÁLICAS": {
+    "Notas": [
+      9.32,
+      9.34,
+      9.47,
+      9.59,
+      9.65,
+      9.73,
+      9.8,
+      9.82
+    ],
+    "Desvios": [
+      1.43,
+      1.18,
+      1.37,
+      1.55,
+      2.18,
+      1.77,
+      1.13,
+      1.34
+    ],
+    "Docentes": [
+      "ANDERSON ALBINO FERREIRA",
+      "SELMA HISSAE SHIMURA DA NOBREGA",
+      "FRANCISCO ADRIANO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.18371173070873847,
+    "MediaDeNotas": 9.590000000000002,
+    "MediaDeDesvios": 1.49375,
+    "NotaMediana": 9.65
+  },
+  "CIV0411 - RESISTÊNCIA DOS MATERIAIS I": {
+    "Notas": [
+      6.48,
+      6.91,
+      7.04,
+      8.32,
+      8.88,
+      8.9,
+      9.21,
+      9.4
+    ],
+    "Desvios": [
+      1.69,
+      3.49,
+      2.6,
+      3.27,
+      2.49,
+      3.42,
+      2.41,
+      2.06
+    ],
+    "Docentes": [
+      "ANDERSON ALBINO FERREIRA",
+      "ROBERTO JOSE DE MEDEIROS",
+      "FRANCISCO ADRIANO DE ARAUJO",
+      "TERCIO PEREIRA JOVEM"
+    ],
+    "DesvioDeNotas": 1.0821592997336391,
+    "MediaDeNotas": 8.1425,
+    "MediaDeDesvios": 2.67875,
+    "NotaMediana": 8.88
+  },
+  "CIV0420 - MECÂNICA DOS SOLOS II": {
+    "Notas": [
+      8.99,
+      9.04,
+      9.56,
+      9.64,
+      9.72,
+      9.74,
+      9.77,
+      9.81,
+      9.81,
+      9.9
+    ],
+    "Desvios": [
+      1.63,
+      1.53,
+      1.51,
+      1.86,
+      1.7,
+      1.39,
+      0.57,
+      0.84,
+      1.06,
+      1.27
+    ],
+    "Docentes": [
+      "CARINA MAIA LINS COSTA",
+      "ANA PAULA SOBRAL DE FREITAS"
+    ],
+    "DesvioDeNotas": 0.30495245531066006,
+    "MediaDeNotas": 9.598,
+    "MediaDeDesvios": 1.336,
+    "NotaMediana": 9.74
+  },
+  "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL": {
+    "Notas": [
+      9.12,
+      9.35,
+      9.38,
+      9.38,
+      9.5,
+      9.52,
+      9.54,
+      9.59,
+      9.6,
+      9.6,
+      9.66,
+      9.68,
+      9.77,
+      9.84,
+      9.91,
+      9.92
+    ],
+    "Desvios": [
+      1.87,
+      2.19,
+      1.98,
+      1.3,
+      1.29,
+      1.21,
+      1.23,
+      1.29,
+      1.47,
+      1.46,
+      1.53,
+      1.76,
+      1.05,
+      1.21,
+      1.08,
+      1.43
+    ],
+    "Docentes": [
+      "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+      "DIEGO SOUZA DE OLIVEIRA",
+      "GIOVANA CRISTINA SANTOS DE MEDEIROS",
+      "AMANDA BEZERRA DE SOUSA",
+      "MANOEL LUCAS FILHO"
+    ],
+    "DesvioDeNotas": 0.20934421415458324,
+    "MediaDeNotas": 9.584999999999999,
+    "MediaDeDesvios": 1.459375,
+    "NotaMediana": 9.6
+  },
+  "CIV1202 - GESTÃO AMBIENTAL": {
+    "Notas": [
+      9.68,
+      9.71,
+      9.79,
+      9.89
+    ],
+    "Desvios": [
+      1.32,
+      1.01,
+      1.35,
+      1.28
+    ],
+    "Docentes": [
+      "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+      "JOANA DARC FREIRE DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.08135570047636498,
+    "MediaDeNotas": 9.7675,
+    "MediaDeDesvios": 1.24,
+    "NotaMediana": 9.79
+  },
+  "CIV1306 - GESTÃO DE RECURSOS HÍDRICOS": {
+    "Notas": [
+      10,
+      9.03,
+      9.41,
+      9.57,
+      9.77
+    ],
+    "Desvios": [
+      0.86,
+      1.62,
+      1.68,
+      2.19,
+      1.37
+    ],
+    "Docentes": [
+      "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+      "JOANA DARC FREIRE DE MEDEIROS",
+      "ADELENA GONCALVES MAIA"
+    ],
+    "DesvioDeNotas": 0.32897416311923355,
+    "MediaDeNotas": 9.556000000000001,
+    "MediaDeDesvios": 1.544,
+    "NotaMediana": 9.41
+  },
+  "CIV1104 - HIDROLOGIA": {
+    "Notas": [
+      8.8,
+      9.43,
+      9.44,
+      9.48,
+      9.79,
+      9.82
+    ],
+    "Desvios": [
+      1.53,
+      1.42,
+      1.66,
+      2.27,
+      1.46,
+      1.95
+    ],
+    "Docentes": [
+      "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+      "ADELENA GONCALVES MAIA",
+      "JOAO DE CARVALHO FILHO"
+    ],
+    "DesvioDeNotas": 0.33560889936551613,
+    "MediaDeNotas": 9.459999999999999,
+    "MediaDeDesvios": 1.7149999999999999,
+    "NotaMediana": 9.48
+  },
+  "CIV1106 - FUNDAMENTOS DE CARTOGRAFIA E SENSORIAMENTO REMOTO": {
+    "Notas": [
+      9.57,
+      9.78,
+      9.8,
+      9.81,
+      9.83,
+      9.86
+    ],
+    "Desvios": [
+      1.39,
+      1.08,
+      1.02,
+      0.99,
+      1.33,
+      1.34
+    ],
+    "Docentes": [
+      "CARLOS WILMER COSTA",
+      "JOCILENE DANTAS BARROS",
+      "RENATA CRISTINA MEDEIROS TRAJANO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.09499999999999988,
+    "MediaDeNotas": 9.775,
+    "MediaDeDesvios": 1.1916666666666667,
+    "NotaMediana": 9.81
+  },
+  "CIV1101 - GEOLOGIA AMBIENTAL": {
+    "Notas": [
+      9.15,
+      9.4,
+      9.72,
+      9.82,
+      9.87
+    ],
+    "Desvios": [
+      1.51,
+      1.49,
+      1.48,
+      1.47,
+      0.74
+    ],
+    "Docentes": [
+      "CARLOS WILMER COSTA",
+      "JOCILENE DANTAS BARROS",
+      "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+      "RENATA CRISTINA MEDEIROS TRAJANO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.27491089465497703,
+    "MediaDeNotas": 9.592,
+    "MediaDeDesvios": 1.338,
+    "NotaMediana": 9.72
+  },
+  "ARQ0535 - TOPOGRAFIA": {
+    "Notas": [
+      8.83,
+      9.32,
+      9.52,
+      9.71
+    ],
+    "Desvios": [
+      1.44,
+      2.66,
+      1.29,
+      1.65
+    ],
+    "Docentes": [
+      "CIBELE GOUVEIA COSTA CHIANCA"
+    ],
+    "DesvioDeNotas": 0.3277575323314479,
+    "MediaDeNotas": 9.345,
+    "MediaDeDesvios": 1.7599999999999998,
+    "NotaMediana": 9.52
+  },
+  "CIV0106 - TOPOGRAFIA": {
+    "Notas": [
+      7.45,
+      8.23,
+      9.22,
+      9.36,
+      9.38,
+      9.5,
+      9.6,
+      9.8
+    ],
+    "Desvios": [
+      1.29,
+      2.48,
+      1.37,
+      1.5,
+      1.74,
+      2.79,
+      1.34,
+      1.59
+    ],
+    "Docentes": [
+      "CIBELE GOUVEIA COSTA CHIANCA",
+      "VENERANDO EUSTAQUIO AMARO",
+      "PEDRO HENRIQUE PINTO CAMPOS",
+      "LUCAS DA SILVA MORAES"
+    ],
+    "DesvioDeNotas": 0.7526079656766861,
+    "MediaDeNotas": 9.0675,
+    "MediaDeDesvios": 1.7625000000000002,
+    "NotaMediana": 9.38
+  },
+  "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO": {
+    "Notas": [
+      8.45,
+      8.86,
+      9,
+      9.08,
+      9.27,
+      9.57,
+      9.66,
+      9.66,
+      9.7,
+      9.71,
+      9.75,
+      9.81
+    ],
+    "Desvios": [
+      1.82,
+      1.61,
+      2.52,
+      1.56,
+      1.29,
+      1.96,
+      1.31,
+      1.25,
+      2.15,
+      2.01,
+      0.95,
+      1.53
+    ],
+    "Docentes": [
+      "DIANA CARLA SECUNDO DA LUZ",
+      "MARCOS LACERDA ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.41909293586135427,
+    "MediaDeNotas": 9.376666666666665,
+    "MediaDeDesvios": 1.6633333333333338,
+    "NotaMediana": 9.66
+  },
+  "CIV0421 - ESTRUTURAS DE CONCRETO ARMADO I": {
+    "Notas": [
+      7.82,
+      8.32,
+      8.47,
+      8.52,
+      9.16,
+      9.19,
+      9.2,
+      9.65
+    ],
+    "Desvios": [
+      2.3,
+      2.41,
+      1,
+      1.78,
+      2.25,
+      1.87,
+      2.25,
+      1.78
+    ],
+    "Docentes": [
+      "EDMILSON LIRA MADUREIRA",
+      "JOSE AIRTON CUNHA COSTA",
+      "JULIO CESAR TAVARES DE LUCENA"
+    ],
+    "DesvioDeNotas": 0.5636585291645997,
+    "MediaDeNotas": 8.79125,
+    "MediaDeDesvios": 1.9549999999999998,
+    "NotaMediana": 9.16
+  },
+  "CIV0428 - ESTRUTURAS DE CONCRETO ARMADO II": {
+    "Notas": [
+      8.32,
+      8.72,
+      8.85,
+      9.12,
+      9.5,
+      9.55,
+      9.61,
+      9.66
+    ],
+    "Desvios": [
+      2.19,
+      1.61,
+      1.23,
+      1.35,
+      2.48,
+      1.73,
+      1.83,
+      1.15
+    ],
+    "Docentes": [
+      "EDMILSON LIRA MADUREIRA",
+      "JOSE NERES DA SILVA FILHO"
+    ],
+    "DesvioDeNotas": 0.4632477064163404,
+    "MediaDeNotas": 9.16625,
+    "MediaDeDesvios": 1.69625,
+    "NotaMediana": 9.5
+  },
+  "CIV0494 - MÉTODOS ANALÍTICOS E COMPUTACIONAIS": {
+    "Notas": [
+      6.47,
+      6.86,
+      8.41,
+      8.87,
+      9.03,
+      9.13,
+      9.27,
+      9.57
+    ],
+    "Desvios": [
+      3.73,
+      2.11,
+      2.66,
+      2.23,
+      3.45,
+      2.86,
+      1.73,
+      1.52
+    ],
+    "Docentes": [
+      "EDMILSON LIRA MADUREIRA",
+      "FRANCISCO ADRIANO DE ARAUJO"
+    ],
+    "DesvioDeNotas": 1.0812080916733837,
+    "MediaDeNotas": 8.451250000000002,
+    "MediaDeDesvios": 2.53625,
+    "NotaMediana": 9.03
+  },
+  "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL": {
+    "Notas": [
+      7.4,
+      7.94,
+      7.99,
+      8,
+      8.27,
+      8.38,
+      8.49,
+      8.67,
+      8.69,
+      8.91,
+      8.94,
+      9.23,
+      9.5,
+      9.63
+    ],
+    "Desvios": [
+      3.01,
+      3.01,
+      3.02,
+      2.81,
+      2.86,
+      2.85,
+      2.79,
+      2.87,
+      3.16,
+      2.34,
+      1.44,
+      1.24,
+      1.67,
+      1.43
+    ],
+    "Docentes": [
+      "ENILSON MEDEIROS DOS SANTOS",
+      "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+      "RAY DE ARAUJO SOUSA",
+      "CIBELE GOUVEIA COSTA CHIANCA"
+    ],
+    "DesvioDeNotas": 0.6129753465761931,
+    "MediaDeNotas": 8.574285714285715,
+    "MediaDeDesvios": 2.4642857142857144,
+    "NotaMediana": 8.67
+  },
+  "CIV0433 - POLÍTICA E PLANEJAMENTO DE TRANSPORTES": {
+    "Notas": [
+      8.35,
+      8.91,
+      9.04,
+      9.16,
+      9.18,
+      9.49,
+      9.63,
+      9.77
+    ],
+    "Desvios": [
+      2.36,
+      1.52,
+      1.77,
+      1.76,
+      2.89,
+      2.14,
+      1.17,
+      1.68
+    ],
+    "Docentes": [
+      "ENILSON MEDEIROS DOS SANTOS",
+      "ISABEL CRISTINA DE OLIVEIRA MAGALHÃES AMORIM",
+      "LUCIA REJANE DE ALMEIDA XAVIER"
+    ],
+    "DesvioDeNotas": 0.4224167817452334,
+    "MediaDeNotas": 9.19125,
+    "MediaDeDesvios": 1.9112500000000001,
+    "NotaMediana": 9.18
+  },
+  "CIV1301 - FUNDAMENTOS DE GEOTECNIA": {
+    "Notas": [
+      9.67,
+      9.69,
+      9.81,
+      9.82,
+      9.88
+    ],
+    "Desvios": [
+      1.24,
+      1.49,
+      1.4,
+      1.06,
+      1.04
+    ],
+    "Docentes": [
+      "FAGNER ALEXANDRE NUNES DE FRANCA",
+      "WESLEY FEU DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.08064738061462422,
+    "MediaDeNotas": 9.774000000000001,
+    "MediaDeDesvios": 1.246,
+    "NotaMediana": 9.81
+  },
+  "GEO0382 - GEOLOGIA DE ENGENHARIA I": {
+    "Notas": [
+      9.82
+    ],
+    "Desvios": [
+      0.86
+    ],
+    "Docentes": [
+      "FAGNER ALEXANDRE NUNES DE FRANCA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.82,
+    "MediaDeDesvios": 0.86,
+    "NotaMediana": 9.82
+  },
+  "CIV0415 - MECÂNICA DOS SOLOS I": {
+    "Notas": [
+      9.34,
+      9.66,
+      9.7,
+      9.77,
+      9.78,
+      9.79,
+      9.89
+    ],
+    "Desvios": [
+      1.64,
+      1.39,
+      1.42,
+      1.04,
+      0.97,
+      1.32,
+      0.99
+    ],
+    "Docentes": [
+      "FAGNER ALEXANDRE NUNES DE FRANCA",
+      "WESLEY FEU DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.16325765288184746,
+    "MediaDeNotas": 9.704285714285714,
+    "MediaDeDesvios": 1.252857142857143,
+    "NotaMediana": 9.77
+  },
+  "CIV0426 - ANÁLISE ESTRUTURAL II": {
+    "Notas": [
+      9.66,
+      9.79,
+      9.79,
+      9.83,
+      9.86,
+      9.87,
+      9.91,
+      9.98
+    ],
+    "Desvios": [
+      1.76,
+      1.58,
+      1.35,
+      1.24,
+      1.18,
+      0.81,
+      1.3,
+      0.81
+    ],
+    "Docentes": [
+      "FERNANDA RODRIGUES MITTELBACH",
+      "SELMA HISSAE SHIMURA DA NOBREGA"
+    ],
+    "DesvioDeNotas": 0.08887315398926732,
+    "MediaDeNotas": 9.83625,
+    "MediaDeDesvios": 1.2537500000000001,
+    "NotaMediana": 9.86
+  },
+  "CIV0448 - TÓPICOS ESPECIAIS EM CONSTRUÇÃO CIVIL": {
+    "Notas": [
+      9.57,
+      9.75,
+      9.8
+    ],
+    "Desvios": [
+      1.56,
+      1.04,
+      1.57
+    ],
+    "Docentes": [
+      "FERNANDO SANCHEZ RODRIGUEZ"
+    ],
+    "DesvioDeNotas": 0.09877021593352711,
+    "MediaDeNotas": 9.706666666666667,
+    "MediaDeDesvios": 1.39,
+    "NotaMediana": 9.75
+  },
+  "CIV0405 - MECÂNICA TÉCNICA": {
+    "Notas": [
+      8.45,
+      9.07,
+      9.16,
+      9.34,
+      9.42,
+      9.5,
+      9.54,
+      9.55,
+      9.67
+    ],
+    "Desvios": [
+      2.38,
+      1.73,
+      1.87,
+      1.58,
+      2.29,
+      2.06,
+      1.75,
+      1.67,
+      1.59
+    ],
+    "Docentes": [
+      "FRANCISCO ADRIANO DE ARAUJO",
+      "JOSE NERES DA SILVA FILHO",
+      "JULIO CESAR TAVARES DE LUCENA",
+      "ANDERSON ALBINO FERREIRA",
+      "PEDRO MEDEIROS PITOMBEIRA CUNHA"
+    ],
+    "DesvioDeNotas": 0.35087192978508724,
+    "MediaDeNotas": 9.3,
+    "MediaDeDesvios": 1.8800000000000001,
+    "NotaMediana": 9.42
+  },
+  "CIV0418 - RESISTÊNCIA DOS MATERIAIS II": {
+    "Notas": [
+      4.77,
+      6.79,
+      8.32,
+      8.5,
+      9.06,
+      9.46,
+      9.48,
+      9.59
+    ],
+    "Desvios": [
+      2.31,
+      3.74,
+      1.43,
+      2.48,
+      1.86,
+      3.68,
+      1.61,
+      1.84
+    ],
+    "Docentes": [
+      "FRANCISCO ADRIANO DE ARAUJO",
+      "ROBERTO JOSE DE MEDEIROS",
+      "JULIO CESAR TAVARES DE LUCENA",
+      "TERCIO PEREIRA JOVEM"
+    ],
+    "DesvioDeNotas": 1.570747731973534,
+    "MediaDeNotas": 8.24625,
+    "MediaDeDesvios": 2.36875,
+    "NotaMediana": 9.06
+  },
+  "CIV0410 - CONSTRUÇÃO CIVIL I": {
+    "Notas": [
+      9.32,
+      9.32,
+      9.38,
+      9.52,
+      9.53,
+      9.54,
+      9.74,
+      9.78
+    ],
+    "Desvios": [
+      1.68,
+      1.79,
+      2.16,
+      1.77,
+      2.16,
+      1.92,
+      1.4,
+      1.66
+    ],
+    "Docentes": [
+      "FRED GUEDES CUNHA"
+    ],
+    "DesvioDeNotas": 0.16431201264667145,
+    "MediaDeNotas": 9.51625,
+    "MediaDeDesvios": 1.8175000000000001,
+    "NotaMediana": 9.53
+  },
+  "CIV1303 - SANEAMENTO AMBIENTAL": {
+    "Notas": [
+      9.65,
+      9.65,
+      9.76,
+      9.85
+    ],
+    "Desvios": [
+      1.22,
+      1.51,
+      1.4,
+      1.07
+    ],
+    "Docentes": [
+      "GIOVANA CRISTINA SANTOS DE MEDEIROS",
+      "LARISSA CAROLINE SARAIVA FERREIRA"
+    ],
+    "DesvioDeNotas": 0.08377798040057988,
+    "MediaDeNotas": 9.727500000000001,
+    "MediaDeDesvios": 1.3,
+    "NotaMediana": 9.76
+  },
+  "CIV0431 - SANEAMENTO AMBIENTAL": {
+    "Notas": [
+      9.63,
+      9.66,
+      9.74,
+      9.81,
+      9.84,
+      9.84
+    ],
+    "Desvios": [
+      1.51,
+      1.87,
+      1.58,
+      1.25,
+      1.2,
+      1.02
+    ],
+    "Docentes": [
+      "GIOVANA CRISTINA SANTOS DE MEDEIROS",
+      "AMANDA BEZERRA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.08399735445569413,
+    "MediaDeNotas": 9.753333333333334,
+    "MediaDeDesvios": 1.405,
+    "NotaMediana": 9.81
+  },
+  "CIV0440 - ENGENHARIA DE TRAFEGO URBANO": {
+    "Notas": [
+      9.24,
+      9.34,
+      9.5,
+      9.62,
+      9.7,
+      9.71,
+      9.79,
+      9.8
+    ],
+    "Desvios": [
+      1.03,
+      1.62,
+      1.78,
+      1.78,
+      1.41,
+      1.64,
+      1.41,
+      1.33
+    ],
+    "Docentes": [
+      "ISABEL CRISTINA DE OLIVEIRA MAGALHÃES AMORIM",
+      "LUCIA REJANE DE ALMEIDA XAVIER"
+    ],
+    "DesvioDeNotas": 0.19511214723845358,
+    "MediaDeNotas": 9.5875,
+    "MediaDeDesvios": 1.5000000000000002,
+    "NotaMediana": 9.7
+  },
+  "CIV0493 - PROJETO ARQUITETÔNICO": {
+    "Notas": [
+      8.57,
+      9.09,
+      9.25,
+      9.43,
+      9.47,
+      9.5,
+      9.51,
+      9.53,
+      9.59,
+      9.59,
+      9.73,
+      9.76
+    ],
+    "Desvios": [
+      1.64,
+      2.72,
+      1.75,
+      1.45,
+      1.37,
+      1.38,
+      1.21,
+      1.18,
+      1.11,
+      1.43,
+      1.03,
+      1.04
+    ],
+    "Docentes": [
+      "ISAIAS DA SILVA RIBEIRO"
+    ],
+    "DesvioDeNotas": 0.3107741230468771,
+    "MediaDeNotas": 9.418333333333335,
+    "MediaDeDesvios": 1.4425,
+    "NotaMediana": 9.51
+  },
+  "CIV0403 - MATERIAIS DE CONSTRUÇÃO I": {
+    "Notas": [
+      8.32,
+      8.87,
+      9.07,
+      9.11,
+      9.34,
+      9.57,
+      9.66,
+      9.68
+    ],
+    "Desvios": [
+      2.11,
+      2.68,
+      1.53,
+      1.76,
+      1.54,
+      1.26,
+      1.46,
+      1.11
+    ],
+    "Docentes": [
+      "JAQUELIGIA BRITO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.4339858868673036,
+    "MediaDeNotas": 9.2025,
+    "MediaDeDesvios": 1.68125,
+    "NotaMediana": 9.34
+  },
+  "CIV0442 - METODOLOGIA CIENTÍFICA E TECNOLÓGICA": {
+    "Notas": [
+      8.31,
+      9.16,
+      9.25,
+      9.31
+    ],
+    "Desvios": [
+      2.04,
+      1.7,
+      1.63,
+      1.45
+    ],
+    "Docentes": [
+      "JAQUELIGIA BRITO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.40622499923072175,
+    "MediaDeNotas": 9.0075,
+    "MediaDeDesvios": 1.705,
+    "NotaMediana": 9.25
+  },
+  "CIV1404 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS": {
+    "Notas": [
+      9.51,
+      9.59,
+      9.72,
+      9.96,
+      9.98
+    ],
+    "Desvios": [
+      1.72,
+      0.73,
+      0.76,
+      1.28,
+      1.3
+    ],
+    "Docentes": [
+      "JOANA DARC FREIRE DE MEDEIROS",
+      "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR"
+    ],
+    "DesvioDeNotas": 0.19030501832584482,
+    "MediaDeNotas": 9.752,
+    "MediaDeDesvios": 1.158,
+    "NotaMediana": 9.72
+  },
+  "CIV0422 - HIDROLOGIA": {
+    "Notas": [
+      7.47,
+      8.11,
+      8.25,
+      8.74,
+      8.88,
+      9.26,
+      9.39,
+      9.54
+    ],
+    "Desvios": [
+      3.26,
+      2.58,
+      2.93,
+      1.75,
+      2.85,
+      1.98,
+      1.58,
+      1.54
+    ],
+    "Docentes": [
+      "JOAO DE CARVALHO FILHO"
+    ],
+    "DesvioDeNotas": 0.6701305842893608,
+    "MediaDeNotas": 8.705,
+    "MediaDeDesvios": 2.30875,
+    "NotaMediana": 8.88
+  },
+  "CIV0438 - ESTRUTURAS DE CONCRETO ARMADO III": {
+    "Notas": [
+      8.26,
+      8.47,
+      8.65,
+      8.65,
+      9.14,
+      9.26,
+      9.27,
+      9.31
+    ],
+    "Desvios": [
+      1.59,
+      2.13,
+      2.71,
+      1.68,
+      2.94,
+      1.77,
+      2.04,
+      1.42
+    ],
+    "Docentes": [
+      "JOEL ARAUJO DO NASCIMENTO NETO",
+      "JOSE AIRTON CUNHA COSTA",
+      "JULIO CESAR TAVARES DE LUCENA"
+    ],
+    "DesvioDeNotas": 0.3884564808315083,
+    "MediaDeNotas": 8.87625,
+    "MediaDeDesvios": 2.035,
+    "NotaMediana": 9.14
+  },
+  "CIV0485 - DESENHO DE PROJETOS ASSISTIDO POR COMPUTADOR": {
+    "Notas": [
+      8.78,
+      9.59,
+      9.66
+    ],
+    "Desvios": [
+      1.47,
+      0.98,
+      2.27
+    ],
+    "Docentes": [
+      "JOSE EUGENIO SILVA DE MORAIS JUNIOR"
+    ],
+    "DesvioDeNotas": 0.39936060007077456,
+    "MediaDeNotas": 9.343333333333334,
+    "MediaDeDesvios": 1.5733333333333335,
+    "NotaMediana": 9.59
+  },
+  "CIV0445 - FUNDAMENTOS DO PROJETO DE EDIFÍCIOS": {
+    "Notas": [
+      9.3,
+      9.34,
+      9.38,
+      9.56,
+      9.69
+    ],
+    "Desvios": [
+      1.3,
+      1.56,
+      1.38,
+      0.82,
+      0.91
+    ],
+    "Docentes": [
+      "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+      "LUIZ ALESSANDRO PINHEIRO DA CAMARA DE QUEIROZ",
+      "TAMMS MARIA DA CONCEICAO MORAIS CAMPOS"
+    ],
+    "DesvioDeNotas": 0.1477294825009548,
+    "MediaDeNotas": 9.454,
+    "MediaDeDesvios": 1.1940000000000002,
+    "NotaMediana": 9.38
+  },
+  "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL": {
+    "Notas": [
+      9.37,
+      9.49,
+      9.49,
+      9.49,
+      9.53,
+      9.54,
+      9.62,
+      9.62,
+      9.62,
+      9.66,
+      9.71,
+      9.72,
+      9.76,
+      9.85
+    ],
+    "Desvios": [
+      1.51,
+      1.64,
+      0.85,
+      1.59,
+      1.27,
+      1.19,
+      1.67,
+      1.66,
+      1.31,
+      1.5,
+      1.12,
+      1.14,
+      1.37,
+      1.3
+    ],
+    "Docentes": [
+      "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+      "LUIZ ALESSANDRO PINHEIRO DA CAMARA DE QUEIROZ",
+      "TAMMS MARIA DA CONCEICAO MORAIS CAMPOS"
+    ],
+    "DesvioDeNotas": 0.1244272593009381,
+    "MediaDeNotas": 9.605,
+    "MediaDeDesvios": 1.3657142857142859,
+    "NotaMediana": 9.62
+  },
+  "CIV0439 - ESTRUTURAS DE MADEIRA": {
+    "Notas": [
+      7.24,
+      9.06,
+      9.46,
+      9.46,
+      9.51,
+      9.82
+    ],
+    "Desvios": [
+      1.65,
+      1.52,
+      1.77,
+      1.08,
+      2.17,
+      1.47
+    ],
+    "Docentes": [
+      "JOSE NERES DA SILVA FILHO",
+      "TERCIO PEREIRA JOVEM"
+    ],
+    "DesvioDeNotas": 0.8569795148595379,
+    "MediaDeNotas": 9.091666666666667,
+    "MediaDeDesvios": 1.61,
+    "NotaMediana": 9.46
+  },
+  "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO": {
+    "Notas": [
+      8.65,
+      8.82,
+      8.88,
+      8.94,
+      8.96,
+      9.55,
+      9.61,
+      9.83,
+      9.86,
+      9.91
+    ],
+    "Desvios": [
+      1.98,
+      1.07,
+      1.37,
+      1.88,
+      1.04,
+      1.69,
+      1.8,
+      1.94,
+      1.81,
+      1.23
+    ],
+    "Docentes": [
+      "JULIANA DELGADO TINOCO",
+      "PAULO EDUARDO VIEIRA CUNHA"
+    ],
+    "DesvioDeNotas": 0.46900852870710125,
+    "MediaDeNotas": 9.301,
+    "MediaDeDesvios": 1.581,
+    "NotaMediana": 9.55
+  },
+  "CIV1405 - TRATAMENTO DE ÁGUA PARA ABASTECIMENTO": {
+    "Notas": [
+      8.71,
+      8.97,
+      9.5,
+      9.59,
+      9.87
+    ],
+    "Desvios": [
+      2.22,
+      1.32,
+      2.34,
+      1.51,
+      1.18
+    ],
+    "Docentes": [
+      "JULIANA DELGADO TINOCO",
+      "PAULO EDUARDO VIEIRA CUNHA",
+      "SILVÂNIA LUCAS DOS SANTOS",
+      "HELIO RODRIGUES DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.4247540464786645,
+    "MediaDeNotas": 9.328,
+    "MediaDeDesvios": 1.714,
+    "NotaMediana": 9.5
+  },
+  "CIV1203 - PEDOLOGIA": {
+    "Notas": [
+      8.88,
+      9.53,
+      9.57,
+      9.79
+    ],
+    "Desvios": [
+      1.06,
+      1.27,
+      1.27,
+      1.69
+    ],
+    "Docentes": [
+      "KARINA PATRICIA VIEIRA DA CUNHA"
+    ],
+    "DesvioDeNotas": 0.3395125181786374,
+    "MediaDeNotas": 9.4425,
+    "MediaDeDesvios": 1.3225,
+    "NotaMediana": 9.57
+  },
+  "CIV1304 - RECUPERAÇÃO DE ÁREAS DEGRADADAS": {
+    "Notas": [
+      8.34,
+      9.3,
+      9.36,
+      9.49
+    ],
+    "Desvios": [
+      1.62,
+      2.22,
+      1.6,
+      1.43
+    ],
+    "Docentes": [
+      "KARINA PATRICIA VIEIRA DA CUNHA"
+    ],
+    "DesvioDeNotas": 0.45696690252139716,
+    "MediaDeNotas": 9.122499999999999,
+    "MediaDeDesvios": 1.7175,
+    "NotaMediana": 9.36
+  },
+  "CIV0402 - DESENHO BÁSICO": {
+    "Notas": [
+      9.08,
+      9.09,
+      9.33,
+      9.35,
+      9.37,
+      9.43,
+      9.43,
+      9.48,
+      9.56,
+      9.59,
+      9.74,
+      9.77
+    ],
+    "Desvios": [
+      1.73,
+      1.81,
+      2.06,
+      2.36,
+      2.56,
+      2.15,
+      1.89,
+      1.74,
+      2.03,
+      1.54,
+      1.68,
+      1.2
+    ],
+    "Docentes": [
+      "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE"
+    ],
+    "DesvioDeNotas": 0.2070627924084866,
+    "MediaDeNotas": 9.435,
+    "MediaDeDesvios": 1.8958333333333333,
+    "NotaMediana": 9.43
+  },
+  "CIV0416 - CONSTRUÇÃO CIVIL II": {
+    "Notas": [
+      7.9,
+      8.59,
+      9.36,
+      9.36,
+      9.4,
+      9.49,
+      9.52,
+      9.63
+    ],
+    "Desvios": [
+      1.28,
+      2.46,
+      1.47,
+      1.75,
+      3.09,
+      1.92,
+      1.35,
+      0.87
+    ],
+    "Docentes": [
+      "LAISE KELLEY LEMOS BARBOSA",
+      "PAULO WALDEMIRO SOARES CUNHA",
+      "RAY DE ARAUJO SOUSA",
+      "WESLEY FEU DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.5600655653581997,
+    "MediaDeNotas": 9.15625,
+    "MediaDeDesvios": 1.77375,
+    "NotaMediana": 9.4
+  },
+  "CIV0490 - LEGISLAÇÃO NA CONSTRUÇÃO CIVIL": {
+    "Notas": [
+      9.22,
+      9.29,
+      9.53,
+      9.68
+    ],
+    "Desvios": [
+      1.28,
+      2.53,
+      1.3,
+      1.49
+    ],
+    "Docentes": [
+      "LAISE KELLEY LEMOS BARBOSA"
+    ],
+    "DesvioDeNotas": 0.18452642087245916,
+    "MediaDeNotas": 9.43,
+    "MediaDeDesvios": 1.65,
+    "NotaMediana": 9.53
+  },
+  "CIV0437 - ESTRUTURAS DE CONTENÇÃO": {
+    "Notas": [
+      6.67,
+      8.47,
+      8.56,
+      8.66,
+      8.73,
+      8.82,
+      8.95,
+      8.99,
+      9.08,
+      9.16,
+      9.29,
+      9.31
+    ],
+    "Desvios": [
+      1.94,
+      1.34,
+      2.67,
+      3.05,
+      1.96,
+      1.55,
+      1.84,
+      1.4,
+      1.92,
+      1.4,
+      1.49,
+      1.57
+    ],
+    "Docentes": [
+      "LEONARDO FLAMARION MARQUES CHAVES",
+      "FLORIANO MEDEIROS DE ANDRADE LIMA",
+      "RAY DE ARAUJO SOUSA"
+    ],
+    "DesvioDeNotas": 0.6724390720024792,
+    "MediaDeNotas": 8.724166666666667,
+    "MediaDeDesvios": 1.8441666666666665,
+    "NotaMediana": 8.95
+  },
+  "CIV0496 - FENÔMENOS DOS TRANSPORTES": {
+    "Notas": [
+      7.79,
+      8.23,
+      8.35,
+      8.57,
+      8.59,
+      8.76,
+      9.05,
+      9.29,
+      9.66
+    ],
+    "Desvios": [
+      2.25,
+      2.51,
+      3.1,
+      2.26,
+      1.6,
+      2.26,
+      1.6,
+      1.46,
+      2.57
+    ],
+    "Docentes": [
+      "LUCIO FLAVIO FERREIRA MOREIRA",
+      "DIEGO SOUZA DE OLIVEIRA",
+      "ADA CRISTINA SCUDELARI"
+    ],
+    "DesvioDeNotas": 0.5371001240084352,
+    "MediaDeNotas": 8.698888888888888,
+    "MediaDeDesvios": 2.178888888888889,
+    "NotaMediana": 8.59
+  },
+  "CIV1403 - GESTÃO DE RESÍDUOS SÓLIDOS": {
+    "Notas": [
+      8.74,
+      8.86,
+      9.23,
+      9.57
+    ],
+    "Desvios": [
+      2.02,
+      1.98,
+      1.91,
+      1.83
+    ],
+    "Docentes": [
+      "MANOEL LUCAS FILHO",
+      "LARISSA CAROLINE SARAIVA FERREIRA"
+    ],
+    "DesvioDeNotas": 0.32596012026013266,
+    "MediaDeNotas": 9.100000000000001,
+    "MediaDeDesvios": 1.935,
+    "NotaMediana": 9.23
+  },
+  "CIV0027 - SANEAMENTO AMBIENTAL": {
+    "Notas": [
+      9.04,
+      9.2,
+      9.3
+    ],
+    "Desvios": [
+      1.99,
+      1.79,
+      1.68
+    ],
+    "Docentes": [
+      "MANOEL LUCAS FILHO",
+      "AMANDA BEZERRA DE SOUSA"
+    ],
+    "DesvioDeNotas": 0.10708252269472733,
+    "MediaDeNotas": 9.18,
+    "MediaDeDesvios": 1.82,
+    "NotaMediana": 9.2
+  },
+  "CIV0429 - SEGURANÇA DO TRABALHO": {
+    "Notas": [
+      7.99,
+      8.55,
+      8.58,
+      8.9,
+      9.04
+    ],
+    "Desvios": [
+      2.62,
+      2.02,
+      2.43,
+      1.83,
+      1.28
+    ],
+    "Docentes": [
+      "MARCOS LACERDA ALMEIDA"
+    ],
+    "DesvioDeNotas": 0.36273406236525374,
+    "MediaDeNotas": 8.611999999999998,
+    "MediaDeDesvios": 2.036,
+    "NotaMediana": 8.58
+  },
+  "CIV0406 - GEOLOGIA": {
+    "Notas": [
+      8.79,
+      9.15,
+      9.25,
+      9.42,
+      9.46,
+      9.47,
+      9.48,
+      9.74
+    ],
+    "Desvios": [
+      1.81,
+      1.45,
+      1.95,
+      1.85,
+      2.36,
+      1.91,
+      1.71,
+      1.51
+    ],
+    "Docentes": [
+      "MARIA DEL PILAR DURANTE INGUNZA"
+    ],
+    "DesvioDeNotas": 0.265471279049166,
+    "MediaDeNotas": 9.344999999999999,
+    "MediaDeDesvios": 1.8187499999999999,
+    "NotaMediana": 9.46
+  },
+  "CIV0435 - INSTALAÇÕES HIDROSSANITÁRIAS": {
+    "Notas": [
+      9.39,
+      9.52,
+      9.62,
+      9.73,
+      9.73,
+      9.75,
+      9.81,
+      9.91
+    ],
+    "Desvios": [
+      1.58,
+      1.67,
+      1.51,
+      1.05,
+      1.39,
+      1.34,
+      1.73,
+      1.02
+    ],
+    "Docentes": [
+      "MICHELINE DAMIAO DIAS MOREIRA"
+    ],
+    "DesvioDeNotas": 0.1553021249049736,
+    "MediaDeNotas": 9.682500000000001,
+    "MediaDeDesvios": 1.41125,
+    "NotaMediana": 9.73
+  },
+  "CIV0425 - ESTRADAS": {
+    "Notas": [
+      8.29,
+      8.8,
+      8.86,
+      8.89,
+      8.92,
+      8.96,
+      9.03,
+      9.3
+    ],
+    "Desvios": [
+      2.17,
+      2.04,
+      2.25,
+      2.5,
+      2.67,
+      1.87,
+      1.82,
+      1.78
+    ],
+    "Docentes": [
+      "MOACIR GUILHERMINO DA SILVA"
+    ],
+    "DesvioDeNotas": 0.26502063598897385,
+    "MediaDeNotas": 8.881250000000001,
+    "MediaDeDesvios": 2.1375,
+    "NotaMediana": 8.92
+  },
+  "CIV0432 - OBRAS DE TERRA": {
+    "Notas": [
+      8.93,
+      9.23,
+      9.34,
+      9.46,
+      9.75,
+      9.76
+    ],
+    "Desvios": [
+      1.64,
+      2.17,
+      1.42,
+      2.01,
+      1.1,
+      1.09
+    ],
+    "Docentes": [
+      "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+      "OSVALDO DE FREITAS NETO"
+    ],
+    "DesvioDeNotas": 0.2910565046325007,
+    "MediaDeNotas": 9.411666666666667,
+    "MediaDeDesvios": 1.5716666666666665,
+    "NotaMediana": 9.46
+  },
+  "CIV0451 - PAVIMENTAÇÃO": {
+    "Notas": [
+      7.54,
+      8.84,
+      9.15
+    ],
+    "Desvios": [
+      3.15,
+      1.93,
+      2.04
+    ],
+    "Docentes": [
+      "OSVALDO DE FREITAS NETO"
+    ],
+    "DesvioDeNotas": 0.6974716242734659,
+    "MediaDeNotas": 8.51,
+    "MediaDeDesvios": 2.3733333333333335,
+    "NotaMediana": 8.84
+  },
+  "CIV0500 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO CIVIL": {
+    "Notas": [
+      8.91,
+      9.25,
+      9.27,
+      9.46,
+      9.56,
+      9.62,
+      9.62,
+      9.77
+    ],
+    "Desvios": [
+      1.95,
+      2.18,
+      1.73,
+      1.68,
+      2.22,
+      2.39,
+      1.73,
+      1.42
+    ],
+    "Docentes": [
+      "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.2583481178565075,
+    "MediaDeNotas": 9.4325,
+    "MediaDeDesvios": 1.9125,
+    "NotaMediana": 9.56
+  },
+  "CIV0495 - MATERIAIS DE CONSTRUÇÃO CIVIL II": {
+    "Notas": [
+      9.12,
+      9.21,
+      9.36,
+      9.41,
+      9.5,
+      9.58,
+      9.59,
+      9.72
+    ],
+    "Desvios": [
+      2.08,
+      2,
+      1.9,
+      1.83,
+      2.6,
+      1.98,
+      1.6,
+      1.31
+    ],
+    "Docentes": [
+      "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.18927080466886612,
+    "MediaDeNotas": 9.43625,
+    "MediaDeDesvios": 1.9125,
+    "NotaMediana": 9.5
+  },
+  "CIV0467 - PATOLOGIA E RECUPERAÇÃO DE EDIFICAÇÕES": {
+    "Notas": [
+      8.36,
+      9.04,
+      9.11
+    ],
+    "Desvios": [
+      2.45,
+      1.2,
+      1.82
+    ],
+    "Docentes": [
+      "PAULO WALDEMIRO SOARES CUNHA",
+      "RAY DE ARAUJO SOUSA"
+    ],
+    "DesvioDeNotas": 0.33826353959926303,
+    "MediaDeNotas": 8.836666666666666,
+    "MediaDeDesvios": 1.8233333333333335,
+    "NotaMediana": 9.04
+  },
+  "CIV1105 - ECOLOGIA APLICADA À ENGENHARIA AMBIENTAL": {
+    "Notas": [
+      9.31,
+      9.31,
+      9.43,
+      9.47
+    ],
+    "Desvios": [
+      1.84,
+      1.81,
+      1.52,
+      1.25
+    ],
+    "Docentes": [
+      "RONALDO ANGELINI"
+    ],
+    "DesvioDeNotas": 0.07141428428542841,
+    "MediaDeNotas": 9.38,
+    "MediaDeDesvios": 1.605,
+    "NotaMediana": 9.43
+  },
+  "CIV0424 - ANÁLISE DE SISTEMAS DE TRANSPORTE": {
+    "Notas": [
+      6.94,
+      8.24,
+      8.51,
+      9.07
+    ],
+    "Desvios": [
+      2.55,
+      2.09,
+      2.91,
+      1.58
+    ],
+    "Docentes": [
+      "RUBENS EUGENIO BARRETO RAMOS"
+    ],
+    "DesvioDeNotas": 0.7813129974600447,
+    "MediaDeNotas": 8.190000000000001,
+    "MediaDeDesvios": 2.2824999999999998,
+    "NotaMediana": 8.51
+  },
+  "CIV0419 - ECONOMIA DA CONSTRUÇÃO E INFRAESTRUTURA": {
+    "Notas": [
+      6.81,
+      8.2,
+      8.66,
+      8.72
+    ],
+    "Desvios": [
+      2.33,
+      2.25,
+      2.93,
+      1.53
+    ],
+    "Docentes": [
+      "RUBENS EUGENIO BARRETO RAMOS"
+    ],
+    "DesvioDeNotas": 0.7700771065289505,
+    "MediaDeNotas": 8.0975,
+    "MediaDeDesvios": 2.26,
+    "NotaMediana": 8.66
+  },
+  "CIV1205 - QUALIDADE DA ÁGUA": {
+    "Notas": [
+      9.31,
+      9.43,
+      9.5,
+      9.6,
+      9.65,
+      9.7,
+      9.85
+    ],
+    "Desvios": [
+      1.97,
+      1.08,
+      1.29,
+      1.7,
+      1.87,
+      1.31,
+      1.19
+    ],
+    "Docentes": [
+      "SILVÂNIA LUCAS DOS SANTOS",
+      "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+      "LARISSA CAROLINE SARAIVA FERREIRA"
+    ],
+    "DesvioDeNotas": 0.166623123563695,
+    "MediaDeNotas": 9.577142857142858,
+    "MediaDeDesvios": 1.487142857142857,
+    "NotaMediana": 9.6
+  },
+  "CIV1401 - TRATAMENTO DE ÁGUAS RESIDUÁRIAS": {
+    "Notas": [
+      8.94,
+      9.07,
+      9.59,
+      9.66
+    ],
+    "Desvios": [
+      2.17,
+      1.4,
+      1.55,
+      2.53
+    ],
+    "Docentes": [
+      "SILVÂNIA LUCAS DOS SANTOS",
+      "HELIO RODRIGUES DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.3143644381923631,
+    "MediaDeNotas": 9.315000000000001,
+    "MediaDeDesvios": 1.9125,
+    "NotaMediana": 9.59
+  },
+  "CIV1305 - LIMNOLOGIA": {
+    "Notas": [
+      9.6,
+      9.68,
+      9.69,
+      9.77
+    ],
+    "Desvios": [
+      0.86,
+      1.35,
+      1.55,
+      1.03
+    ],
+    "Docentes": [
+      "VANESSA BECKER"
+    ],
+    "DesvioDeNotas": 0.060207972893961445,
+    "MediaDeNotas": 9.684999999999999,
+    "MediaDeDesvios": 1.1975,
+    "NotaMediana": 9.69
+  },
+  "CIV1206 - MICROBIOLOGIA AMBIENTAL": {
+    "Notas": [
+      9.53,
+      9.68,
+      9.72,
+      9.9
+    ],
+    "Desvios": [
+      1.21,
+      1.28,
+      0.98,
+      1.27
+    ],
+    "Docentes": [
+      "VANESSA BECKER"
+    ],
+    "DesvioDeNotas": 0.13179055353097238,
+    "MediaDeNotas": 9.7075,
+    "MediaDeDesvios": 1.185,
+    "NotaMediana": 9.72
+  },
+  "CIV1819 - SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS": {
+    "Notas": [
+      9.45,
+      9.7
+    ],
+    "Desvios": [
+      1.39,
+      1.46
+    ],
+    "Docentes": [
+      "VENERANDO EUSTAQUIO AMARO"
+    ],
+    "DesvioDeNotas": 0.125,
+    "MediaDeNotas": 9.575,
+    "MediaDeDesvios": 1.4249999999999998,
+    "NotaMediana": 9.7
+  },
+  "CIV0409 - TOPOGRAFIA": {
+    "Notas": [
+      8.55,
+      8.57,
+      8.57,
+      8.84,
+      8.91,
+      9.57,
+      9.64,
+      9.65,
+      9.67,
+      9.73
+    ],
+    "Desvios": [
+      2.57,
+      2.31,
+      1.35,
+      1.44,
+      1.3,
+      1.73,
+      2.52,
+      2.67,
+      0.88,
+      1.57
+    ],
+    "Docentes": [
+      "VENERANDO EUSTAQUIO AMARO",
+      "DIEGO SOUZA DE OLIVEIRA",
+      "PEDRO HENRIQUE PINTO CAMPOS",
+      "LUCAS DA SILVA MORAES"
+    ],
+    "DesvioDeNotas": 0.495560288965934,
+    "MediaDeNotas": 9.170000000000002,
+    "MediaDeDesvios": 1.834,
+    "NotaMediana": 9.57
+  },
+  "CIV0427 - FUNDAÇÕES": {
+    "Notas": [
+      7.09,
+      7.68,
+      8.09,
+      8.13,
+      8.65,
+      8.8,
+      9.02,
+      9.67,
+      9.72,
+      9.77
+    ],
+    "Desvios": [
+      2.43,
+      2.39,
+      2.65,
+      2.37,
+      3.21,
+      2.62,
+      1.24,
+      1.67,
+      1.11,
+      1.53
+    ],
+    "Docentes": [
+      "YURI DANIEL JATOBA COSTA",
+      "FLORIANO MEDEIROS DE ANDRADE LIMA"
+    ],
+    "DesvioDeNotas": 0.8692617557444939,
+    "MediaDeNotas": 8.662,
+    "MediaDeDesvios": 2.122,
+    "NotaMediana": 8.8
+  },
+  "CIV0483 - PROJETOS DE INFRAESTRUTURA": {
+    "Notas": [
+      8.69
+    ],
+    "Desvios": [
+      2.07
+    ],
+    "Docentes": [
+      "ENILSON MEDEIROS DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.69,
+    "MediaDeDesvios": 2.07,
+    "NotaMediana": 8.69
+  },
+  "CIV0456 - PROJETO DE ESTRUTURAS DE CONCRETO": {
+    "Notas": [
+      8.85,
+      9.27
+    ],
+    "Desvios": [
+      1.65,
+      1.93
+    ],
+    "Docentes": [
+      "JOEL ARAUJO DO NASCIMENTO NETO"
+    ],
+    "DesvioDeNotas": 0.20999999999999996,
+    "MediaDeNotas": 9.059999999999999,
+    "MediaDeDesvios": 1.79,
+    "NotaMediana": 9.27
+  },
+  "CIV0454 - PONTES": {
+    "Notas": [
+      9.25,
+      9.44
+    ],
+    "Desvios": [
+      1.77,
+      1.24
+    ],
+    "Docentes": [
+      "JOSE NERES DA SILVA FILHO"
+    ],
+    "DesvioDeNotas": 0.09499999999999975,
+    "MediaDeNotas": 9.344999999999999,
+    "MediaDeDesvios": 1.505,
+    "NotaMediana": 9.44
+  },
+  "CIV0480 - PROJETO DE INSTALAÇÕES ELÉTRICAS": {
+    "Notas": [
+      9.71,
+      9.81,
+      9.83
+    ],
+    "Desvios": [
+      1.1,
+      1.04,
+      0.81
+    ],
+    "Docentes": [
+      "MICHELINE DAMIAO DIAS MOREIRA"
+    ],
+    "DesvioDeNotas": 0.05249338582674511,
+    "MediaDeNotas": 9.783333333333333,
+    "MediaDeDesvios": 0.9833333333333334,
+    "NotaMediana": 9.81
+  },
+  "CIV0470 - BARRAGENS DE TERRA": {
+    "Notas": [
+      9.07,
+      9.18
+    ],
+    "Desvios": [
+      1.31,
+      1.4
+    ],
+    "Docentes": [
+      "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+      "OSVALDO DE FREITAS NETO"
+    ],
+    "DesvioDeNotas": 0.054999999999999716,
+    "MediaDeNotas": 9.125,
+    "MediaDeDesvios": 1.355,
+    "NotaMediana": 9.18
+  },
+  "CIV0477 - INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS": {
+    "Notas": [
+      9.56
+    ],
+    "Desvios": [
+      1.22
+    ],
+    "Docentes": [
+      "SELMA HISSAE SHIMURA DA NOBREGA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.56,
+    "MediaDeDesvios": 1.22,
+    "NotaMediana": 9.56
+  },
+  "CIV0482 - PROJETOS IMOBILIÁRIOS": {
+    "Notas": [
+      8.66,
+      9.04
+    ],
+    "Desvios": [
+      1.86,
+      1.27
+    ],
+    "Docentes": [
+      "ENILSON MEDEIROS DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.1899999999999995,
+    "MediaDeNotas": 8.85,
+    "MediaDeDesvios": 1.565,
+    "NotaMediana": 9.04
+  },
+  "CIV1811 - ECOTOXICOLOGIA E BIOINDICADORES AMBIENTAIS": {
+    "Notas": [
+      9.18
+    ],
+    "Desvios": [
+      1.11
+    ],
+    "Docentes": [
+      "FABIANA OLIVEIRA DE ARAUJO SILVA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.18,
+    "MediaDeDesvios": 1.11,
+    "NotaMediana": 9.18
+  },
+  "CIV0481 - PROJETO DE GEOTECNIA": {
+    "Notas": [
+      8.61,
+      9.08,
+      9.31
+    ],
+    "Desvios": [
+      1.01,
+      1.51,
+      1.6
+    ],
+    "Docentes": [
+      "LEONARDO FLAMARION MARQUES CHAVES",
+      "RAY DE ARAUJO SOUSA"
+    ],
+    "DesvioDeNotas": 0.2913188402192123,
+    "MediaDeNotas": 9,
+    "MediaDeDesvios": 1.3733333333333333,
+    "NotaMediana": 9.08
+  },
+  "CIV0450 - MECÂNICA DOS SOLOS AVANÇADA": {
+    "Notas": [
+      7.92
+    ],
+    "Desvios": [
+      2.86
+    ],
+    "Docentes": [
+      "OLAVO FRANCISCO DOS SANTOS JUNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 7.92,
+    "MediaDeDesvios": 2.86,
+    "NotaMediana": 7.92
+  },
+  "CIV0466 - PROJETO DE ENGENHARIA DOS TRANSPORTES": {
+    "Notas": [
+      8.77
+    ],
+    "Desvios": [
+      1.71
+    ],
+    "Docentes": [
+      "RUBENS EUGENIO BARRETO RAMOS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.77,
+    "MediaDeDesvios": 1.71,
+    "NotaMediana": 8.77
+  },
+  "GEO0304 - SENSORIAMENTO REMOTO": {
+    "Notas": [
+      9.15
+    ],
+    "Desvios": [
+      1.99
+    ],
+    "Docentes": [
+      "VENERANDO EUSTAQUIO AMARO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.15,
+    "MediaDeDesvios": 1.99,
+    "NotaMediana": 9.15
+  },
+  "CIV0478 - TÓPICOS ESPECIAIS EM RECURSOS HÍDRICOS": {
+    "Notas": [
+      7.8
+    ],
+    "Desvios": [
+      2.32
+    ],
+    "Docentes": [
+      "ADA CRISTINA SCUDELARI"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 7.8,
+    "MediaDeDesvios": 2.32,
+    "NotaMediana": 7.8
+  },
+  "CIV0471 - ALVENARIA ESTRUTURAL": {
+    "Notas": [
+      8.83
+    ],
+    "Desvios": [
+      1.49
+    ],
+    "Docentes": [
+      "JOEL ARAUJO DO NASCIMENTO NETO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.83,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 8.83
+  },
+  "CIV0447 - ANÁLISE MATRICIAL DE ESTRUTURAS": {
+    "Notas": [
+      9.6
+    ],
+    "Desvios": [
+      1.01
+    ],
+    "Docentes": [
+      "SELMA HISSAE SHIMURA DA NOBREGA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.6,
+    "MediaDeDesvios": 1.01,
+    "NotaMediana": 9.6
+  },
+  "GEO0351 - PROCESSAMENTO DIGITAL DE IMAGENS": {
+    "Notas": [
+      8.97
+    ],
+    "Desvios": [
+      1.46
+    ],
+    "Docentes": [
+      "VENERANDO EUSTAQUIO AMARO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.97,
+    "MediaDeDesvios": 1.46,
+    "NotaMediana": 8.97
+  },
+  "GEO0069 - TÓPICOS EM GEOLOGIA PARA ECOLOGIA": {
+    "Notas": [
+      8.29
+    ],
+    "Desvios": [
+      2.29
+    ],
+    "Docentes": [
+      "VENERANDO EUSTAQUIO AMARO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.29,
+    "MediaDeDesvios": 2.29,
+    "NotaMediana": 8.29
+  }
+}

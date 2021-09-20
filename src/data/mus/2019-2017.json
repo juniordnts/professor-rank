@@ -1,0 +1,2360 @@
+[
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS0407 - MUSICA BRASILEIRA I",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "19",
+        "Média Geral": "8.98",
+        "Desvio Padrão Geral": "2.59"
+    },
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS0407 - MUSICA BRASILEIRA I",
+        "Turma": "2",
+        "Horário": "6N34",
+        "Discentes": "19",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2.34"
+    },
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS0409 - MUSICA POPULAR BRASILEIRA I",
+        "Turma": "1",
+        "Horário": "5N34",
+        "Discentes": "19",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "ALEXANDRE DOS SANTOS",
+        "Componente Curricular": "MUS0023 - MUSICA DE CAMARA III",
+        "Turma": "1",
+        "Horário": "6T3456",
+        "Discentes": "13",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "ALEXANDRE JOHNSON DOS ANJOS",
+        "Componente Curricular": "MUS1005 - PRATICA DE FLAUTA DOCE I",
+        "Turma": "1",
+        "Horário": "2N12",
+        "Discentes": "21",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "ALEXANDRE JOHNSON DOS ANJOS",
+        "Componente Curricular": "MUS1005 - PRATICA DE FLAUTA DOCE I",
+        "Turma": "2",
+        "Horário": "2N34",
+        "Discentes": "19",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "ALEXANDRE RECHE E SILVA",
+        "Componente Curricular": "MUS0341 - OFICINA DE COMPOSICAO I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "6",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "ALVARO ALBERTO DE PAIVA BARROS",
+        "Componente Curricular": "MUS4003 - PRÁTICA DE INSTRUMENTO HARMÔNICO VII (VIOLÃO III)",
+        "Turma": "1",
+        "Horário": "5N12",
+        "Discentes": "12",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "ALVARO ALBERTO DE PAIVA BARROS",
+        "Componente Curricular": "MUS4003 - PRÁTICA DE INSTRUMENTO HARMÔNICO VII (VIOLÃO III)",
+        "Turma": "2",
+        "Horário": "5N34",
+        "Discentes": "10",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "AMANDY BANDEIRA DE ARAUJO",
+        "Componente Curricular": "MUS5029 - PRODUÇÃO MUSICAL",
+        "Turma": "1",
+        "Horário": "3M34",
+        "Discentes": "44",
+        "Média Geral": "8.56",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "AMÉLIA MARTINS DIAS SANTA ROSA",
+        "Componente Curricular": "MUS0201 - PRATICA DE CONJUNTO I",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "15",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "ANDRE LUIZ MUNIZ OLIVEIRA",
+        "Componente Curricular": "MUS5043 - PRÁTICA DE CONJUNTO XI",
+        "Turma": "1",
+        "Horário": "4M12 6M45",
+        "Discentes": "9",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "ANGELA MARIA BEZERRA DO NASCIMENTO",
+        "Componente Curricular": "MUS1205 - CANTO CORAL I",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "49",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "ANGELA MARIA BEZERRA DO NASCIMENTO",
+        "Componente Curricular": "MUS0023 - MUSICA DE CAMARA III",
+        "Turma": "4",
+        "Horário": "6M56 6T12",
+        "Discentes": "7",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "0.79"
+    },
+    {
+        "Docente": "CAMILA TORRES MEIRELLES",
+        "Componente Curricular": "MUS5075 - PEDAGOGIA DO INSTRUMENTO I",
+        "Turma": "1",
+        "Horário": "5T34",
+        "Discentes": "30",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "CAMILA TORRES MEIRELLES",
+        "Componente Curricular": "MUS5009 - PREPARAÇÃO PARA O PALCO E PERFORMANCE",
+        "Turma": "1",
+        "Horário": "4T34",
+        "Discentes": "28",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "CAROLINA CHAVES GOMES",
+        "Componente Curricular": "MUS6010 - ATIVIDADES ORIENTADAS I - METODOLOGIA DO ENSINO DA MÚSICA NA EDUCAÇÃO INFANTIL E FUNDAMENTIL E FUNDAMENTAL",
+        "Turma": "1",
+        "Horário": "7T6 3N34 7N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "22",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "CAROLINA CHAVES GOMES",
+        "Componente Curricular": "MUS5015 - ESTÁGIO SUPERVISIONADO I",
+        "Turma": "1",
+        "Horário": "2N12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "CAROLINA CHAVES GOMES",
+        "Componente Curricular": "MUS5015 - ESTÁGIO SUPERVISIONADO I",
+        "Turma": "3",
+        "Horário": "4N12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "5",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "CAROLINA CHAVES GOMES",
+        "Componente Curricular": "MUS5051 - SEMINÁRIO EM EDUCAÇÃO MUSICAL INFANTIL",
+        "Turma": "1",
+        "Horário": "2T56 2N34",
+        "Discentes": "16",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "CATARINA SHIN LIMA DE SOUZA",
+        "Componente Curricular": "MUS5005 - MUSICA E EDUCACAO ESPECIAL",
+        "Turma": "1",
+        "Horário": "3N1234",
+        "Discentes": "28",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "DANILO CESAR GUANAIS DE OLIVEIRA",
+        "Componente Curricular": "MUS2001 - LINGUAGEM E ESTRUTURACAO MUSICAL I",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "38",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "DANILO CESAR GUANAIS DE OLIVEIRA",
+        "Componente Curricular": "MUS2003 - LINGUAGEM E ESTRUTURACAO MUSICAL III",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "30",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0109 - LABORATORIO DE PERFORMANCE XI",
+        "Turma": "12",
+        "Horário": "2T12",
+        "Discentes": "10",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0066 - LABORATÓRIO DE PERFORMANCE III",
+        "Turma": "3",
+        "Horário": "5T12",
+        "Discentes": "10",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0068 - LABORATÓRIO DE PERFORMANCE V",
+        "Turma": "2",
+        "Horário": "5T56",
+        "Discentes": "8",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS5013 - ATIVIDADES ORIENTADAS III - METODOLOGIA DO ENSINO DA MÚSICA PARA ADOLESCENTES E ADULTOS",
+        "Turma": "1",
+        "Horário": "4N34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "35",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS5017 - ESTÁGIO SUPERVISIONADO III",
+        "Turma": "1",
+        "Horário": "2N34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "0.74"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS2331 - MUSICA E COMPUTACAO I",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "10",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS3020 - RECURSOS TECNOLOGICOS NA EDUCACAO MUSICAL",
+        "Turma": "1",
+        "Horário": "3N34",
+        "Discentes": "18",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "ERICKINSON BEZERRA DE LIMA",
+        "Componente Curricular": "MUS5043 - PRÁTICA DE CONJUNTO XI",
+        "Turma": "1",
+        "Horário": "4M12 6M45",
+        "Discentes": "9",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "EZEQUIAS OLIVEIRA LIRA",
+        "Componente Curricular": "MUS0109 - LABORATORIO DE PERFORMANCE XI",
+        "Turma": "23",
+        "Horário": "2M56",
+        "Discentes": "8",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "FERNANDO DIEGO RODRIGUES DOS SANTOS",
+        "Componente Curricular": "MUS5029 - PRODUÇÃO MUSICAL",
+        "Turma": "1",
+        "Horário": "3M34",
+        "Discentes": "44",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "FLAVIO GABRIEL PARRO DA SILVA",
+        "Componente Curricular": "MUS0300 - FUNDAMENTOS DA PRÁTICA DO TROMPETE",
+        "Turma": "1",
+        "Horário": "4T2345",
+        "Discentes": "6",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "FLAVIO GABRIEL PARRO DA SILVA",
+        "Componente Curricular": "MUS0023 - MUSICA DE CAMARA III",
+        "Turma": "2",
+        "Horário": "56T56",
+        "Discentes": "14",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "FREDERICO ARANTES NABLE",
+        "Componente Curricular": "MUS0023 - MUSICA DE CAMARA III",
+        "Turma": "1",
+        "Horário": "6T3456",
+        "Discentes": "13",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "GLEISON COSTA DOS SANTOS",
+        "Componente Curricular": "MUS6010 - ATIVIDADES ORIENTADAS I - METODOLOGIA DO ENSINO DA MÚSICA NA EDUCAÇÃO INFANTIL E FUNDAMENTIL E FUNDAMENTAL",
+        "Turma": "2",
+        "Horário": "7T6 6N12 7N1234 (11/02/2019 - 29/06/2019)",
+        "Discentes": "13",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "GLEISON COSTA DOS SANTOS",
+        "Componente Curricular": "MUS5016 - ESTÁGIO SUPERVISIONADO II",
+        "Turma": "1",
+        "Horário": "4N34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "10",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "GLEISON COSTA DOS SANTOS",
+        "Componente Curricular": "ART0053 - FUNDAMENTOS DA ARTE NA EDUCACAO",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "39",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "HEATHER DEA JENNINGS",
+        "Componente Curricular": "MUS0081 - INTRODUÇÃO À MÚSICA E TECNOLOGIA I",
+        "Turma": "1",
+        "Horário": "5M34",
+        "Discentes": "28",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "HEATHER DEA JENNINGS",
+        "Componente Curricular": "MUS0025 - MUSICA E COMPUTAÇÃO I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "13",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "JOANA CUNHA DE HOLANDA",
+        "Componente Curricular": "MUS1001 - PRATICA DE INSTRUMENTO HARMONICO I",
+        "Turma": "1",
+        "Horário": "3N34",
+        "Discentes": "7",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "JOANA CUNHA DE HOLANDA",
+        "Componente Curricular": "MUS1001 - PRATICA DE INSTRUMENTO HARMONICO I",
+        "Turma": "2",
+        "Horário": "6N12",
+        "Discentes": "8",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "JOANA CUNHA DE HOLANDA",
+        "Componente Curricular": "MUS1001 - PRATICA DE INSTRUMENTO HARMONICO I",
+        "Turma": "3",
+        "Horário": "6N34",
+        "Discentes": "8",
+        "Média Geral": "9.92",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "JOANA CUNHA DE HOLANDA",
+        "Componente Curricular": "MUS1003 - PRATICA DE INSTRUMENTO HARMONICO III",
+        "Turma": "1",
+        "Horário": "5N12",
+        "Discentes": "7",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "0.89"
+    },
+    {
+        "Docente": "JOAO RAONE TAVARES DA SILVA",
+        "Componente Curricular": "MUS0023 - MUSICA DE CAMARA III",
+        "Turma": "2",
+        "Horário": "56T56",
+        "Discentes": "14",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.66"
+    },
+    {
+        "Docente": "JOSE SIMIAO SEVERO",
+        "Componente Curricular": "MUS0206 - IMPROVISACAO I",
+        "Turma": "1",
+        "Horário": "3T45",
+        "Discentes": "28",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "JOSE SIMIAO SEVERO",
+        "Componente Curricular": "MUS4001 - PRÁTICA DE INSTRUMENTO HARMÔNICO V (VIOLÃO I)",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "12",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "JOSE SIMIAO SEVERO",
+        "Componente Curricular": "MUS4001 - PRÁTICA DE INSTRUMENTO HARMÔNICO V (VIOLÃO I)",
+        "Turma": "2",
+        "Horário": "6N34",
+        "Discentes": "12",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "0.92"
+    },
+    {
+        "Docente": "JULIO CESAR DE MELO COLABARDINI",
+        "Componente Curricular": "MUS0083 - LINGUAGEM MUSICAL I",
+        "Turma": "1",
+        "Horário": "3M12",
+        "Discentes": "21",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "JULIO CESAR DE MELO COLABARDINI",
+        "Componente Curricular": "MUS0091 - PERCEPÇÃO MUSICAL I",
+        "Turma": "1",
+        "Horário": "5M12",
+        "Discentes": "22",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "LEONARDO VILACA SALDANHA",
+        "Componente Curricular": "MUS0109 - LABORATORIO DE PERFORMANCE XI",
+        "Turma": "20",
+        "Horário": "2N12",
+        "Discentes": "10",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "MARCUS ANDRE VARELA VASCONCELOS",
+        "Componente Curricular": "MUS0088 - ANÁLISE MUSICAL II",
+        "Turma": "1",
+        "Horário": "5M12",
+        "Discentes": "25",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "MARCUS ANDRE VARELA VASCONCELOS",
+        "Componente Curricular": "MUS0109 - LABORATORIO DE PERFORMANCE XI",
+        "Turma": "22",
+        "Horário": "2M56",
+        "Discentes": "5",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "MARCUS VINICIUS DE FREITAS",
+        "Componente Curricular": "MUS0093 - PERCEPÇÃO MUSICAL III",
+        "Turma": "1",
+        "Horário": "3M12",
+        "Discentes": "30",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "MARIA HELENA GUERRA MARANHAO BARRETO DE MEDEI",
+        "Componente Curricular": "MUS3007 - ORGANIZAÇÃO DE BANDINHA RÍTMICA",
+        "Turma": "1",
+        "Horário": "45N12",
+        "Discentes": "14",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "MARIA HELENA GUERRA MARANHAO BARRETO DE MEDEI",
+        "Componente Curricular": "MUS3007 - ORGANIZAÇÃO DE BANDINHA RÍTMICA",
+        "Turma": "2",
+        "Horário": "45N34",
+        "Discentes": "11",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "MARIA NAZARE ROCHA DE ALMEIDA",
+        "Componente Curricular": "MUS0080 - CONSCIÊNCIA CORPORAL E MÚSICA",
+        "Turma": "1",
+        "Horário": "3M56 5M34",
+        "Discentes": "7",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "MARIO ANDRE WANDERLEY OLIVEIRA",
+        "Componente Curricular": "MUS5029 - PRODUÇÃO MUSICAL",
+        "Turma": "1",
+        "Horário": "3M34",
+        "Discentes": "44",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS0109 - LABORATORIO DE PERFORMANCE XI",
+        "Turma": "15",
+        "Horário": "2T34",
+        "Discentes": "7",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS0064 - LABORATÓRIO DE PERFORMANCE I",
+        "Turma": "1",
+        "Horário": "3T12",
+        "Discentes": "6",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS0066 - LABORATÓRIO DE PERFORMANCE III",
+        "Turma": "1",
+        "Horário": "3T34",
+        "Discentes": "6",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS0070 - LABORATÓRIO DE PERFORMANCE VII",
+        "Turma": "1",
+        "Horário": "5T34",
+        "Discentes": "5",
+        "Média Geral": "8.24",
+        "Desvio Padrão Geral": "2.98"
+    },
+    {
+        "Docente": "POLLYANNA GUIMARAES DA SILVA",
+        "Componente Curricular": "MUS5029 - PRODUÇÃO MUSICAL",
+        "Turma": "1",
+        "Horário": "3M34",
+        "Discentes": "44",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "RADEGUNDIS ARANHA TAVARES FEITOSA",
+        "Componente Curricular": "MUS5029 - PRODUÇÃO MUSICAL",
+        "Turma": "1",
+        "Horário": "3M34",
+        "Discentes": "44",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "RUCKER BEZERRA DE QUEIROZ",
+        "Componente Curricular": "MUS0431 - HISTORIA E LITERATURA DO INSTRUMENTO I",
+        "Turma": "4",
+        "Horário": "4T12",
+        "Discentes": "7",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5017 - ESTÁGIO SUPERVISIONADO III",
+        "Turma": "3",
+        "Horário": "4N34 (11/02/2019 - 29/06/2019)",
+        "Discentes": "8",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.74"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5018 - ESTÁGIO SUPERVISIONADO IV",
+        "Turma": "1",
+        "Horário": "2N12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "11",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS0500 - METODOLOGIA DA PESQUISA EM MUSICA",
+        "Turma": "1",
+        "Horário": "2N34",
+        "Discentes": "25",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "TARCISIO GOMES FILHO",
+        "Componente Curricular": "MUS0432 - HISTORIA E LITERATURA DO INSTRUMENTO II",
+        "Turma": "1",
+        "Horário": "4T12",
+        "Discentes": "6",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.4"
+    },
+    {
+        "Docente": "TARCISIO GOMES FILHO",
+        "Componente Curricular": "MUS0109 - LABORATORIO DE PERFORMANCE XI",
+        "Turma": "21",
+        "Horário": "6M34",
+        "Discentes": "7",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.83"
+    },
+    {
+        "Docente": "TARCISIO GOMES FILHO",
+        "Componente Curricular": "MUS0023 - MUSICA DE CAMARA III",
+        "Turma": "4",
+        "Horário": "6M56 6T12",
+        "Discentes": "7",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "TIAGO DE QUADROS MAIA CARVALHO",
+        "Componente Curricular": "MUS5090 - HISTÓRIA DA MÚSICA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "22",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "TIAGO DE QUADROS MAIA CARVALHO",
+        "Componente Curricular": "MUS3501 - INTRODUÇÃO À METODOLOGIA CIENTÍFICA",
+        "Turma": "1",
+        "Horário": "3N12",
+        "Discentes": "39",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "TIAGO DE QUADROS MAIA CARVALHO",
+        "Componente Curricular": "MUS0500 - METODOLOGIA DA PESQUISA EM MUSICA",
+        "Turma": "2",
+        "Horário": "5M34",
+        "Discentes": "29",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "TIAGO DE QUADROS MAIA CARVALHO",
+        "Componente Curricular": "MUS0413 - SEMINARIO EM MUSICOLOGIA I",
+        "Turma": "1",
+        "Horário": "2N34",
+        "Discentes": "16",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "VILSON ZATTERA",
+        "Componente Curricular": "MUS0027 - MUSICOGRAFIA BRAILLE I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "7",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "WANDER VIEIRA RODRIGUES",
+        "Componente Curricular": "MUS2301 - HARMONIA",
+        "Turma": "1",
+        "Horário": "4N12",
+        "Discentes": "18",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "WANDER VIEIRA RODRIGUES",
+        "Componente Curricular": "MUS0233 - HARMONIA I",
+        "Turma": "1",
+        "Horário": "6M12",
+        "Discentes": "28",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "WANDER VIEIRA RODRIGUES",
+        "Componente Curricular": "MUS0235 - HARMONIA III",
+        "Turma": "1",
+        "Horário": "6M34",
+        "Discentes": "6",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS2401 - HISTÓRIA DA MÚSICA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "30",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS3031 - INTRODUCAO A ETNOMUSICOLOGIA",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "11",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "ALEXANDRE JOHNSON DOS ANJOS",
+        "Componente Curricular": "MUS1006 - PRATICA DE FLAUTA DOCE II",
+        "Turma": "1",
+        "Horário": "4N12",
+        "Discentes": "15",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "ALEXANDRE JOHNSON DOS ANJOS",
+        "Componente Curricular": "MUS1006 - PRATICA DE FLAUTA DOCE II",
+        "Turma": "2",
+        "Horário": "4N34",
+        "Discentes": "15",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "ALVARO ALBERTO DE PAIVA BARROS",
+        "Componente Curricular": "MUS4001 - PRÁTICA DE INSTRUMENTO HARMÔNICO V (VIOLÃO I)",
+        "Turma": "1",
+        "Horário": "2N12",
+        "Discentes": "10",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "AMÉLIA MARTINS DIAS SANTA ROSA",
+        "Componente Curricular": "MUS5012 - ATIVIDADES ORIENTADAS II - METODOLOGIA DO ENSINO DA VOZ E MÚSICA CORAL",
+        "Turma": "1",
+        "Horário": "2N12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "41",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "ANDRE LUIZ MUNIZ OLIVEIRA",
+        "Componente Curricular": "MUS5042 - PRÁTICA DE CONJUNTO X",
+        "Turma": "1",
+        "Horário": "4M23 6M45",
+        "Discentes": "12",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "ANGELA MARIA BEZERRA DO NASCIMENTO",
+        "Componente Curricular": "MUS1206 - CANTO CORAL II",
+        "Turma": "1",
+        "Horário": "25N34",
+        "Discentes": "29",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "ANGELA MARIA BEZERRA DO NASCIMENTO",
+        "Componente Curricular": "MUS0202 - PRATICA DE CONJUNTO II",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "28",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.8"
+    },
+    {
+        "Docente": "CAMILA TORRES MEIRELLES",
+        "Componente Curricular": "MUS5009 - PREPARAÇÃO PARA O PALCO E PERFORMANCE",
+        "Turma": "1",
+        "Horário": "6T45",
+        "Discentes": "7",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "CAROLINA CHAVES GOMES",
+        "Componente Curricular": "MUS5015 - ESTÁGIO SUPERVISIONADO I",
+        "Turma": "2",
+        "Horário": "2N34 (30/07/2018 - 22/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "CAROLINA CHAVES GOMES",
+        "Componente Curricular": "MUS5016 - ESTÁGIO SUPERVISIONADO II",
+        "Turma": "2",
+        "Horário": "4N34 (30/07/2018 - 22/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.79"
+    },
+    {
+        "Docente": "DANILO CESAR GUANAIS DE OLIVEIRA",
+        "Componente Curricular": "MUS2004 - LINGUAGEM E ESTRUTURACAO MUSICAL IV",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "30",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "DANILO CESAR GUANAIS DE OLIVEIRA",
+        "Componente Curricular": "MUS2002 - LINGUAGEM E ESTRUTURAÇÃO MUSICAL II",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "31",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "DANILO CESAR GUANAIS DE OLIVEIRA",
+        "Componente Curricular": "MUS0084 - LINGUAGEM MUSICAL II",
+        "Turma": "1",
+        "Horário": "3M12",
+        "Discentes": "32",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "3",
+        "Horário": "2M45",
+        "Discentes": "13",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.83"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "4",
+        "Horário": "2M23",
+        "Discentes": "8",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "6",
+        "Horário": "6M12",
+        "Discentes": "15",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "7",
+        "Horário": "6M34",
+        "Discentes": "8",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.81"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "15",
+        "Horário": "3T23",
+        "Discentes": "9",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "0.74"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS3011 - APRECIAÇÃO MUSICAL",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "26",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS5014 - ATIVIDADES ORIENTADAS IV - METODOLOGIA DO ENSINO DA MÚSICA EM CONTEXTOS NÃO ESCOLARES",
+        "Turma": "1",
+        "Horário": "4N34 (30/07/2018 - 22/12/2018)",
+        "Discentes": "34",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS5017 - ESTÁGIO SUPERVISIONADO III",
+        "Turma": "2",
+        "Horário": "5N34 (30/07/2018 - 22/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "ERICKINSON BEZERRA DE LIMA",
+        "Componente Curricular": "MUS5042 - PRÁTICA DE CONJUNTO X",
+        "Turma": "1",
+        "Horário": "4M23 6M45",
+        "Discentes": "12",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "ERICKINSON BEZERRA DE LIMA",
+        "Componente Curricular": "MUS1207 - REGENCIA I",
+        "Turma": "1",
+        "Horário": "36N12",
+        "Discentes": "24",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "EUGENIO LIMA DE SOUZA",
+        "Componente Curricular": "MUS4002 - PRATICA DE INSTRUMENTO HARMONICO VI (VIOLÃO II)",
+        "Turma": "1",
+        "Horário": "4N12",
+        "Discentes": "12",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "EZEQUIAS OLIVEIRA LIRA",
+        "Componente Curricular": "MUS5042 - PRÁTICA DE CONJUNTO X",
+        "Turma": "2",
+        "Horário": "3T45 4T12",
+        "Discentes": "18",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "0.83"
+    },
+    {
+        "Docente": "FLAVIO GABRIEL PARRO DA SILVA",
+        "Componente Curricular": "MUS0022 - MUSICA DE CAMARA II",
+        "Turma": "1",
+        "Horário": "6T3456",
+        "Discentes": "19",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "GILVANDO PEREIRA DA SILVA",
+        "Componente Curricular": "MUS5042 - PRÁTICA DE CONJUNTO X",
+        "Turma": "2",
+        "Horário": "3T45 4T12",
+        "Discentes": "18",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "0.83"
+    },
+    {
+        "Docente": "HEATHER DEA JENNINGS",
+        "Componente Curricular": "MUS0009 - CONTRAPONTO I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "16",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "HEATHER DEA JENNINGS",
+        "Componente Curricular": "DIM0532 - TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE II",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "25",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "JOANA CUNHA DE HOLANDA",
+        "Componente Curricular": "MUS1001 - PRATICA DE INSTRUMENTO HARMONICO I",
+        "Turma": "1",
+        "Horário": "2N12",
+        "Discentes": "7",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "JOANA CUNHA DE HOLANDA",
+        "Componente Curricular": "MUS1002 - PRATICA DE INSTRUMENTO HARMONICO II",
+        "Turma": "1",
+        "Horário": "3N34",
+        "Discentes": "7",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "JOANA CUNHA DE HOLANDA",
+        "Componente Curricular": "MUS1002 - PRATICA DE INSTRUMENTO HARMONICO II",
+        "Turma": "2",
+        "Horário": "4N12",
+        "Discentes": "8",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.2"
+    },
+    {
+        "Docente": "JOAO RAONE TAVARES DA SILVA",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "13",
+        "Horário": "6M12",
+        "Discentes": "9",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "JOAO RAONE TAVARES DA SILVA",
+        "Componente Curricular": "MUS0022 - MUSICA DE CAMARA II",
+        "Turma": "3",
+        "Horário": "6M3456",
+        "Discentes": "12",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "JOSE SIMIAO SEVERO",
+        "Componente Curricular": "MUS0234 - HARMONIA II",
+        "Turma": "1",
+        "Horário": "3M34",
+        "Discentes": "28",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "JOSE SIMIAO SEVERO",
+        "Componente Curricular": "MUS4002 - PRATICA DE INSTRUMENTO HARMONICO VI (VIOLÃO II)",
+        "Turma": "2",
+        "Horário": "3N34",
+        "Discentes": "12",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "LEONARDO VILACA SALDANHA",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "2",
+        "Horário": "5T45",
+        "Discentes": "9",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.22"
+    },
+    {
+        "Docente": "MARCUS ANDRE VARELA VASCONCELOS",
+        "Componente Curricular": "MUS0314 - ANALISE MUSICAL IV",
+        "Turma": "2",
+        "Horário": "35M12",
+        "Discentes": "27",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "MARCUS ANDRE VARELA VASCONCELOS",
+        "Componente Curricular": "MUS0087 - ANÁLISE MUSICAL I",
+        "Turma": "1",
+        "Horário": "5M34",
+        "Discentes": "35",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "MARCUS ANDRE VARELA VASCONCELOS",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "7",
+        "Horário": "6M34",
+        "Discentes": "8",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.43"
+    },
+    {
+        "Docente": "MARCUS VINICIUS DE FREITAS",
+        "Componente Curricular": "MUS0092 - PERCEPÇÃO MUSICAL II",
+        "Turma": "1",
+        "Horário": "5M12",
+        "Discentes": "31",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "MARIA CLARA DE ALMEIDA GONZAGA",
+        "Componente Curricular": "MUS0044 - PERCEPCAO MUSICAL IV",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "15",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "MARIA NAZARE ROCHA DE ALMEIDA",
+        "Componente Curricular": "MUS0080 - CONSCIÊNCIA CORPORAL E MÚSICA",
+        "Turma": "1",
+        "Horário": "45M56",
+        "Discentes": "14",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "MARIA NAZARE ROCHA DE ALMEIDA",
+        "Componente Curricular": "MUS0022 - MUSICA DE CAMARA II",
+        "Turma": "3",
+        "Horário": "6M3456",
+        "Discentes": "12",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "8",
+        "Horário": "5T12",
+        "Discentes": "5",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "0.78"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "9",
+        "Horário": "5T34",
+        "Discentes": "6",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "10",
+        "Horário": "5T56",
+        "Discentes": "8",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "11",
+        "Horário": "6T34",
+        "Discentes": "6",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "12",
+        "Horário": "6T56",
+        "Discentes": "7",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "PAULO EDUARDO DA SILVA FRANCA",
+        "Componente Curricular": "MUS0022 - MUSICA DE CAMARA II",
+        "Turma": "1",
+        "Horário": "6T3456",
+        "Discentes": "19",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "RADEGUNDIS ARANHA TAVARES FEITOSA",
+        "Componente Curricular": "MUS0432 - HISTORIA E LITERATURA DO INSTRUMENTO II",
+        "Turma": "4",
+        "Horário": "2T23",
+        "Discentes": "6",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "RONEDILK CAVALCANTE DANTAS",
+        "Componente Curricular": "MUS0432 - HISTORIA E LITERATURA DO INSTRUMENTO II",
+        "Turma": "2",
+        "Horário": "2T56",
+        "Discentes": "5",
+        "Média Geral": "9.99",
+        "Desvio Padrão Geral": "0.43"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5016 - ESTÁGIO SUPERVISIONADO II",
+        "Turma": "3",
+        "Horário": "5N34 (30/07/2018 - 22/12/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "0.63"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5018 - ESTÁGIO SUPERVISIONADO IV",
+        "Turma": "1",
+        "Horário": "5N12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "12",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.66"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5018 - ESTÁGIO SUPERVISIONADO IV",
+        "Turma": "2",
+        "Horário": "4N12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "11",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.51"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5018 - ESTÁGIO SUPERVISIONADO IV",
+        "Turma": "3",
+        "Horário": "3N12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "TARCISIO GOMES FILHO",
+        "Componente Curricular": "MUS0431 - HISTORIA E LITERATURA DO INSTRUMENTO I",
+        "Turma": "1",
+        "Horário": "2T56",
+        "Discentes": "8",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "TARCISIO GOMES FILHO",
+        "Componente Curricular": "MUS0100 - LABORATÓRIO DE PERFORMANCE X",
+        "Turma": "14",
+        "Horário": "6M56",
+        "Discentes": "7",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "TIAGO DE QUADROS MAIA CARVALHO",
+        "Componente Curricular": "MUS2041 - DIDÁTICA MUSICAL",
+        "Turma": "1",
+        "Horário": "36N34",
+        "Discentes": "20",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "TIAGO DE QUADROS MAIA CARVALHO",
+        "Componente Curricular": "MUS5091 - HISTÓRIA DA MÚSICA II",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "28",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "TIAGO DE QUADROS MAIA CARVALHO",
+        "Componente Curricular": "MUS0410 - MUSICA POPULAR BRASILEIRA II",
+        "Turma": "1",
+        "Horário": "2N34",
+        "Discentes": "26",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "VILSON ZATTERA",
+        "Componente Curricular": "MUS5005 - MUSICA E EDUCACAO ESPECIAL",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "13",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "VILSON ZATTERA",
+        "Componente Curricular": "MUS0027 - MUSICOGRAFIA BRAILLE I",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "18",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS5090 - HISTÓRIA DA MÚSICA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "37",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS0407 - MUSICA BRASILEIRA I",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "16",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "2.21"
+    },
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS0407 - MUSICA BRASILEIRA I",
+        "Turma": "2",
+        "Horário": "6N34",
+        "Discentes": "19",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "2.56"
+    },
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS0409 - MUSICA POPULAR BRASILEIRA I",
+        "Turma": "2",
+        "Horário": "3N12",
+        "Discentes": "19",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "ALEXANDRE DOS SANTOS",
+        "Componente Curricular": "MUS0021 - MUSICA DE CAMARA I",
+        "Turma": "1",
+        "Horário": "6T2345",
+        "Discentes": "15",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "2.37"
+    },
+    {
+        "Docente": "ALEXANDRE JOHNSON DOS ANJOS",
+        "Componente Curricular": "MUS1005 - PRATICA DE FLAUTA DOCE I",
+        "Turma": "2",
+        "Horário": "4N34",
+        "Discentes": "16",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "ALEXANDRE JOHNSON DOS ANJOS",
+        "Componente Curricular": "MUS1005 - PRATICA DE FLAUTA DOCE I",
+        "Turma": "3",
+        "Horário": "5N12",
+        "Discentes": "17",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "ALEXANDRE RECHE E SILVA",
+        "Componente Curricular": "MUS0341 - OFICINA DE COMPOSICAO I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "9",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "ALVARO ALBERTO DE PAIVA BARROS",
+        "Componente Curricular": "MUS4003 - PRÁTICA DE INSTRUMENTO HARMÔNICO VII (VIOLÃO III)",
+        "Turma": "1",
+        "Horário": "4N12",
+        "Discentes": "9",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "ALVARO ALBERTO DE PAIVA BARROS",
+        "Componente Curricular": "MUS4003 - PRÁTICA DE INSTRUMENTO HARMÔNICO VII (VIOLÃO III)",
+        "Turma": "2",
+        "Horário": "5N34",
+        "Discentes": "9",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "AMANDY BANDEIRA DE ARAUJO",
+        "Componente Curricular": "MUS0082 - LABORATÓRIO DE PERFORMANCE IX",
+        "Turma": "11",
+        "Horário": "4T45",
+        "Discentes": "6",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "AMÉLIA MARTINS DIAS SANTA ROSA",
+        "Componente Curricular": "MUS1205 - CANTO CORAL I",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "37",
+        "Média Geral": "8.62",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "ANGELA MARIA BEZERRA DO NASCIMENTO",
+        "Componente Curricular": "MUS1205 - CANTO CORAL I",
+        "Turma": "2",
+        "Horário": "5N1234",
+        "Discentes": "16",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "ANGELA MARIA BEZERRA DO NASCIMENTO",
+        "Componente Curricular": "MUS0091 - PERCEPÇÃO MUSICAL I",
+        "Turma": "1",
+        "Horário": "5M12",
+        "Discentes": "38",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "ANGELA MARIA BEZERRA DO NASCIMENTO",
+        "Componente Curricular": "MUS0201 - PRATICA DE CONJUNTO I",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "29",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "0.78"
+    },
+    {
+        "Docente": "CLAUDIA ROBERTA DE OLIVEIRA CUNHA",
+        "Componente Curricular": "MUS0082 - LABORATÓRIO DE PERFORMANCE IX",
+        "Turma": "10",
+        "Horário": "3N12",
+        "Discentes": "6",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "DANILO CESAR GUANAIS DE OLIVEIRA",
+        "Componente Curricular": "MUS2001 - LINGUAGEM E ESTRUTURACAO MUSICAL I",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "32",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "DANILO CESAR GUANAIS DE OLIVEIRA",
+        "Componente Curricular": "MUS2003 - LINGUAGEM E ESTRUTURACAO MUSICAL III",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "30",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "DANILO CESAR GUANAIS DE OLIVEIRA",
+        "Componente Curricular": "MUS0083 - LINGUAGEM MUSICAL I",
+        "Turma": "1",
+        "Horário": "3M12",
+        "Discentes": "41",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0021 - MUSICA DE CAMARA I",
+        "Turma": "3",
+        "Horário": "6M3456",
+        "Discentes": "7",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS5017 - ESTÁGIO SUPERVISIONADO III",
+        "Turma": "1",
+        "Horário": "2N34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "11",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS5017 - ESTÁGIO SUPERVISIONADO III",
+        "Turma": "2",
+        "Horário": "3N34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "9",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS5017 - ESTÁGIO SUPERVISIONADO III",
+        "Turma": "3",
+        "Horário": "4N34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "6",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS2331 - MUSICA E COMPUTACAO I",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "8",
+        "Média Geral": "8.68",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "EDIBERGON VARELA BEZERRA",
+        "Componente Curricular": "MUS3020 - RECURSOS TECNOLOGICOS NA EDUCACAO MUSICAL",
+        "Turma": "1",
+        "Horário": "5N12",
+        "Discentes": "16",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "ERICKINSON BEZERRA DE LIMA",
+        "Componente Curricular": "MUS5041 - PRÁTICA DE CONJUNTO IX",
+        "Turma": "1",
+        "Horário": "4M23 6M45",
+        "Discentes": "12",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "EUGENIO LIMA DE SOUZA",
+        "Componente Curricular": "MUS4001 - PRÁTICA DE INSTRUMENTO HARMÔNICO V (VIOLÃO I)",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "11",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "EUGENIO LIMA DE SOUZA",
+        "Componente Curricular": "MUS4001 - PRÁTICA DE INSTRUMENTO HARMÔNICO V (VIOLÃO I)",
+        "Turma": "2",
+        "Horário": "6N34",
+        "Discentes": "8",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "FERNANDO DIEGO RODRIGUES DOS SANTOS",
+        "Componente Curricular": "MUS0082 - LABORATÓRIO DE PERFORMANCE IX",
+        "Turma": "18",
+        "Horário": "2T45",
+        "Discentes": "5",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "FLAVIO GABRIEL PARRO DA SILVA",
+        "Componente Curricular": "MUS0082 - LABORATÓRIO DE PERFORMANCE IX",
+        "Turma": "17",
+        "Horário": "5M12",
+        "Discentes": "6",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "FLAVIO GABRIEL PARRO DA SILVA",
+        "Componente Curricular": "MUS0021 - MUSICA DE CAMARA I",
+        "Turma": "2",
+        "Horário": "3T1234",
+        "Discentes": "10",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "0.62"
+    },
+    {
+        "Docente": "GABRIEL GAGLIANO PINTO ALBERTO",
+        "Componente Curricular": "MUS0303 - HARMONIA III",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "0",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "0.5"
+    },
+    {
+        "Docente": "HEATHER DEA JENNINGS",
+        "Componente Curricular": "MUS2301 - HARMONIA",
+        "Turma": "2",
+        "Horário": "4N12",
+        "Discentes": "8",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "HEATHER DEA JENNINGS",
+        "Componente Curricular": "MUS0081 - INTRODUÇÃO À MÚSICA E TECNOLOGIA I",
+        "Turma": "1",
+        "Horário": "5M34",
+        "Discentes": "40",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "HEATHER DEA JENNINGS",
+        "Componente Curricular": "MUS0025 - MUSICA E COMPUTAÇÃO I",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "5",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "HEATHER DEA JENNINGS",
+        "Componente Curricular": "MUS0038 - TÓPICOS ESPECIAIS EM PERFORMANCE II",
+        "Turma": "1",
+        "Horário": "2M34",
+        "Discentes": "13",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "JOAO RAONE TAVARES DA SILVA",
+        "Componente Curricular": "MUS0021 - MUSICA DE CAMARA I",
+        "Turma": "3",
+        "Horário": "6M3456",
+        "Discentes": "7",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "MARCUS ANDRE VARELA VASCONCELOS",
+        "Componente Curricular": "MUS0313 - ANALISE MUSICAL III",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "27",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "MARCUS ANDRE VARELA VASCONCELOS",
+        "Componente Curricular": "MUS0233 - HARMONIA I",
+        "Turma": "1",
+        "Horário": "3M34",
+        "Discentes": "39",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "MARCUS VINICIUS DE FREITAS",
+        "Componente Curricular": "MUS3011 - APRECIAÇÃO MUSICAL",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "17",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "MARCUS VINICIUS DE FREITAS",
+        "Componente Curricular": "MUS0082 - LABORATÓRIO DE PERFORMANCE IX",
+        "Turma": "24",
+        "Horário": "2M56",
+        "Discentes": "9",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "MARIA CLARA DE ALMEIDA GONZAGA",
+        "Componente Curricular": "MUS0043 - PERCEPCAO MUSICAL III",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "12",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "MARIA HELENA GUERRA MARANHAO BARRETO DE MEDEI",
+        "Componente Curricular": "MUS3007 - ORGANIZAÇÃO DE BANDINHA RÍTMICA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "18",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "MARIA HELENA GUERRA MARANHAO BARRETO DE MEDEI",
+        "Componente Curricular": "MUS3007 - ORGANIZAÇÃO DE BANDINHA RÍTMICA",
+        "Turma": "3",
+        "Horário": "24N34",
+        "Discentes": "15",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "MARIA NAZARE ROCHA DE ALMEIDA",
+        "Componente Curricular": "MUS0080 - CONSCIÊNCIA CORPORAL E MÚSICA",
+        "Turma": "1",
+        "Horário": "34M56",
+        "Discentes": "10",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "MAURICIO ESLABÃO DA FONSECA",
+        "Componente Curricular": "MUS5005 - MUSICA E EDUCACAO ESPECIAL",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "22",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "MAURICIO ESLABÃO DA FONSECA",
+        "Componente Curricular": "MUS0027 - MUSICOGRAFIA BRAILLE I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "14",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS1001 - PRATICA DE INSTRUMENTO HARMONICO I",
+        "Turma": "1",
+        "Horário": "6N12",
+        "Discentes": "5",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.9"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS1001 - PRATICA DE INSTRUMENTO HARMONICO I",
+        "Turma": "2",
+        "Horário": "6N34",
+        "Discentes": "6",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS1003 - PRATICA DE INSTRUMENTO HARMONICO III",
+        "Turma": "2",
+        "Horário": "5N34",
+        "Discentes": "5",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "PAULO EDUARDO DA SILVA FRANCA",
+        "Componente Curricular": "MUS0021 - MUSICA DE CAMARA I",
+        "Turma": "2",
+        "Horário": "3T1234",
+        "Discentes": "10",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "0.28"
+    },
+    {
+        "Docente": "RADEGUNDIS ARANHA TAVARES FEITOSA",
+        "Componente Curricular": "MUS0082 - LABORATÓRIO DE PERFORMANCE IX",
+        "Turma": "16",
+        "Horário": "3T45",
+        "Discentes": "8",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.5"
+    },
+    {
+        "Docente": "RAQUEL CARMONA TORRES FELIX",
+        "Componente Curricular": "MUS1231 - INSTRUMENTO COMPLEMENTAR I",
+        "Turma": "2",
+        "Horário": "4T56",
+        "Discentes": "6",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "RAQUEL CARMONA TORRES FELIX",
+        "Componente Curricular": "MUS1001 - PRATICA DE INSTRUMENTO HARMONICO I",
+        "Turma": "3",
+        "Horário": "5N12",
+        "Discentes": "5",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.58"
+    },
+    {
+        "Docente": "RONEDILK CAVALCANTE DANTAS",
+        "Componente Curricular": "MUS0082 - LABORATÓRIO DE PERFORMANCE IX",
+        "Turma": "20",
+        "Horário": "2T23",
+        "Discentes": "7",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "0.72"
+    },
+    {
+        "Docente": "RUCKER BEZERRA DE QUEIROZ",
+        "Componente Curricular": "MUS0082 - LABORATÓRIO DE PERFORMANCE IX",
+        "Turma": "5",
+        "Horário": "4T45",
+        "Discentes": "7",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5015 - ESTÁGIO SUPERVISIONADO I",
+        "Turma": "1",
+        "Horário": "2N12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "0.85"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5015 - ESTÁGIO SUPERVISIONADO I",
+        "Turma": "2",
+        "Horário": "3N12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "13",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5015 - ESTÁGIO SUPERVISIONADO I",
+        "Turma": "3",
+        "Horário": "4N12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "7",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS0500 - METODOLOGIA DA PESQUISA EM MUSICA",
+        "Turma": "1",
+        "Horário": "3N34",
+        "Discentes": "45",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "TARCISIO GOMES FILHO",
+        "Componente Curricular": "MUS0082 - LABORATÓRIO DE PERFORMANCE IX",
+        "Turma": "2",
+        "Horário": "5T56",
+        "Discentes": "6",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "0.54"
+    },
+    {
+        "Docente": "WASHINGTON NOGUEIRA DE ABREU",
+        "Componente Curricular": "MUS6010 - ATIVIDADES ORIENTADAS I - METODOLOGIA DO ENSINO DA MÚSICA NA EDUCAÇÃO INFANTIL E FUNDAMENTIL E FUNDAMENTAL",
+        "Turma": "1",
+        "Horário": "7M12345 5N12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "34",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "WASHINGTON NOGUEIRA DE ABREU",
+        "Componente Curricular": "MUS6010 - ATIVIDADES ORIENTADAS I - METODOLOGIA DO ENSINO DA MÚSICA NA EDUCAÇÃO INFANTIL E FUNDAMENTIL E FUNDAMENTAL",
+        "Turma": "2",
+        "Horário": "7M12345 6N12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "WASHINGTON NOGUEIRA DE ABREU",
+        "Componente Curricular": "MUS5013 - ATIVIDADES ORIENTADAS III - METODOLOGIA DO ENSINO DA MÚSICA PARA ADOLESCENTES E ADULTOS",
+        "Turma": "1",
+        "Horário": "4N34 (19/02/2018 - 07/07/2018)",
+        "Discentes": "37",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "WASHINGTON NOGUEIRA DE ABREU",
+        "Componente Curricular": "ART0053 - FUNDAMENTOS DA ARTE NA EDUCACAO",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "37",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "WASHINGTON NOGUEIRA DE ABREU",
+        "Componente Curricular": "MUS3501 - INTRODUÇÃO À METODOLOGIA CIENTÍFICA",
+        "Turma": "1",
+        "Horário": "5N34",
+        "Discentes": "32",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS2401 - HISTÓRIA DA MÚSICA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "31",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "AGOSTINHO JORGE DE LIMA",
+        "Componente Curricular": "MUS2402 - SEMINARIO EM HISTORIA DA MUSICA I",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "10",
+        "Média Geral": "8.22",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "ALEXANDRE JOHNSON DOS ANJOS",
+        "Componente Curricular": "MUS1006 - PRATICA DE FLAUTA DOCE II",
+        "Turma": "1",
+        "Horário": "4N12",
+        "Discentes": "8",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "ALEXANDRE RECHE E SILVA",
+        "Componente Curricular": "MUS0037 - TÓPICOS ESPECIAIS EM PERFORMANCE I",
+        "Turma": "2",
+        "Horário": "4T23",
+        "Discentes": "7",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.63"
+    },
+    {
+        "Docente": "ALVARO ALBERTO DE PAIVA BARROS",
+        "Componente Curricular": "MUS0410 - MUSICA POPULAR BRASILEIRA II",
+        "Turma": "1",
+        "Horário": "2N34",
+        "Discentes": "40",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "ALVARO ALBERTO DE PAIVA BARROS",
+        "Componente Curricular": "MUS4002 - PRATICA DE INSTRUMENTO HARMONICO VI (VIOLÃO II)",
+        "Turma": "1",
+        "Horário": "5N34",
+        "Discentes": "9",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.64"
+    },
+    {
+        "Docente": "ALVARO ALBERTO DE PAIVA BARROS",
+        "Componente Curricular": "MUS4002 - PRATICA DE INSTRUMENTO HARMONICO VI (VIOLÃO II)",
+        "Turma": "2",
+        "Horário": "3N34",
+        "Discentes": "13",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "AMANDY BANDEIRA DE ARAUJO",
+        "Componente Curricular": "MUS0432 - HISTORIA E LITERATURA DO INSTRUMENTO II",
+        "Turma": "2",
+        "Horário": "6M34",
+        "Discentes": "5",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "0.76"
+    },
+    {
+        "Docente": "AMANDY BANDEIRA DE ARAUJO",
+        "Componente Curricular": "MUS0071 - LABORATÓRIO DE PERFORMANCE VIII",
+        "Turma": "9",
+        "Horário": "6M56",
+        "Discentes": "5",
+        "Média Geral": "9.97",
+        "Desvio Padrão Geral": "0.52"
+    },
+    {
+        "Docente": "AMÉLIA MARTINS DIAS SANTA ROSA",
+        "Componente Curricular": "MUS5012 - ATIVIDADES ORIENTADAS II - METODOLOGIA DO ENSINO DA VOZ E MÚSICA CORAL",
+        "Turma": "1",
+        "Horário": "2N12 (24/07/2017 - 16/12/2017)",
+        "Discentes": "38",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "AMÉLIA MARTINS DIAS SANTA ROSA",
+        "Componente Curricular": "MUS1206 - CANTO CORAL II",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "16",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "0.86"
+    },
+    {
+        "Docente": "ANDERSONN HENRIQUE SIMOES DE ARAUJO",
+        "Componente Curricular": "MUS5018 - ESTÁGIO SUPERVISIONADO IV",
+        "Turma": "2",
+        "Horário": "3N34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "11",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "0.93"
+    },
+    {
+        "Docente": "ANDERSONN HENRIQUE SIMOES DE ARAUJO",
+        "Componente Curricular": "MUS3501 - INTRODUÇÃO À METODOLOGIA CIENTÍFICA",
+        "Turma": "2",
+        "Horário": "4N12",
+        "Discentes": "8",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "ANDERSONN HENRIQUE SIMOES DE ARAUJO",
+        "Componente Curricular": "MUS1003 - PRATICA DE INSTRUMENTO HARMONICO III",
+        "Turma": "1",
+        "Horário": "5N12",
+        "Discentes": "7",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "CATARINA SHIN LIMA DE SOUZA",
+        "Componente Curricular": "MUS0042 - PERCEPCAO MUSICAL II",
+        "Turma": "1",
+        "Horário": "25M56",
+        "Discentes": "19",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "DANILO CESAR GUANAIS DE OLIVEIRA",
+        "Componente Curricular": "MUS2004 - LINGUAGEM E ESTRUTURACAO MUSICAL IV",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "34",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "DANILO CESAR GUANAIS DE OLIVEIRA",
+        "Componente Curricular": "MUS2002 - LINGUAGEM E ESTRUTURAÇÃO MUSICAL II",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "36",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0067 - LABORATÓRIO DE PERFORMANCE IV",
+        "Turma": "6",
+        "Horário": "6M56",
+        "Discentes": "7",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "0.73"
+    },
+    {
+        "Docente": "DURVAL DA NOBREGA CESETTI",
+        "Componente Curricular": "MUS0071 - LABORATÓRIO DE PERFORMANCE VIII",
+        "Turma": "11",
+        "Horário": "2N12",
+        "Discentes": "6",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "0.44"
+    },
+    {
+        "Docente": "ELIANE LEAO",
+        "Componente Curricular": "MUS3501 - INTRODUÇÃO À METODOLOGIA CIENTÍFICA",
+        "Turma": "1",
+        "Horário": "4N12",
+        "Discentes": "24",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "ERICKINSON BEZERRA DE LIMA",
+        "Componente Curricular": "MUS5027 - PRÁTICA DE CONJUNTO VII",
+        "Turma": "1",
+        "Horário": "4M12 5T23",
+        "Discentes": "38",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "ERICKINSON BEZERRA DE LIMA",
+        "Componente Curricular": "MUS1207 - REGENCIA I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "39",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "FLAVIO GABRIEL PARRO DA SILVA",
+        "Componente Curricular": "MUS0071 - LABORATÓRIO DE PERFORMANCE VIII",
+        "Turma": "12",
+        "Horário": "6M56",
+        "Discentes": "7",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "0.96"
+    },
+    {
+        "Docente": "FREDERICO ARANTES NABLE",
+        "Componente Curricular": "MUS0099 - DIDÁTICA DO VIOLONCELO",
+        "Turma": "1",
+        "Horário": "6M34",
+        "Discentes": "7",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "0.81"
+    },
+    {
+        "Docente": "FREDERICO ARANTES NABLE",
+        "Componente Curricular": "MUS0067 - LABORATÓRIO DE PERFORMANCE IV",
+        "Turma": "6",
+        "Horário": "6M56",
+        "Discentes": "7",
+        "Média Geral": "9.28",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "GERMANNA FRANCA DA CUNHA",
+        "Componente Curricular": "MUS0431 - HISTORIA E LITERATURA DO INSTRUMENTO I",
+        "Turma": "1",
+        "Horário": "4N34",
+        "Discentes": "9",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.74"
+    },
+    {
+        "Docente": "GERMANNA FRANCA DA CUNHA",
+        "Componente Curricular": "MUS0071 - LABORATÓRIO DE PERFORMANCE VIII",
+        "Turma": "11",
+        "Horário": "2N12",
+        "Discentes": "6",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.5"
+    },
+    {
+        "Docente": "HEATHER DEA JENNINGS",
+        "Componente Curricular": "MUS0010 - CONTRAPONTO II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "8",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.34"
+    },
+    {
+        "Docente": "HEATHER DEA JENNINGS",
+        "Componente Curricular": "MUS0037 - TÓPICOS ESPECIAIS EM PERFORMANCE I",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "27",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "HUGO ROBERTO SHIN LIMA DE SOUZA",
+        "Componente Curricular": "MUS0044 - PERCEPCAO MUSICAL IV",
+        "Turma": "1",
+        "Horário": "36M12",
+        "Discentes": "12",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.68"
+    },
+    {
+        "Docente": "JOSE ESTEVAM DE OLIVEIRA",
+        "Componente Curricular": "MUS0202 - PRATICA DE CONJUNTO II",
+        "Turma": "1",
+        "Horário": "6N1234",
+        "Discentes": "40",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "JOSE ESTEVAM DE OLIVEIRA",
+        "Componente Curricular": "MUS1006 - PRATICA DE FLAUTA DOCE II",
+        "Turma": "2",
+        "Horário": "4N12",
+        "Discentes": "20",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "MARCUS ANDRE VARELA VASCONCELOS",
+        "Componente Curricular": "MUS2312 - ANALISE MUSICAL II",
+        "Turma": "1",
+        "Horário": "25M12",
+        "Discentes": "34",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.82"
+    },
+    {
+        "Docente": "MARCUS ANDRE VARELA VASCONCELOS",
+        "Componente Curricular": "MUS0314 - ANALISE MUSICAL IV",
+        "Turma": "1",
+        "Horário": "36M34",
+        "Discentes": "13",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.78"
+    },
+    {
+        "Docente": "MARCUS ANDRE VARELA VASCONCELOS",
+        "Componente Curricular": "MUS0037 - TÓPICOS ESPECIAIS EM PERFORMANCE I",
+        "Turma": "2",
+        "Horário": "4T23",
+        "Discentes": "7",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "0.68"
+    },
+    {
+        "Docente": "MARIA NAZARE ROCHA DE ALMEIDA",
+        "Componente Curricular": "MUS0071 - LABORATÓRIO DE PERFORMANCE VIII",
+        "Turma": "9",
+        "Horário": "6M56",
+        "Discentes": "5",
+        "Média Geral": "9.95",
+        "Desvio Padrão Geral": "0.48"
+    },
+    {
+        "Docente": "NAN QI",
+        "Componente Curricular": "MUS0069 - LABORATÓRIO DE PERFORMANCE VI",
+        "Turma": "3",
+        "Horário": "6T56",
+        "Discentes": "7",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "0.41"
+    },
+    {
+        "Docente": "PAULO EDUARDO DA SILVA FRANCA",
+        "Componente Curricular": "MUS0067 - LABORATÓRIO DE PERFORMANCE IV",
+        "Turma": "1",
+        "Horário": "6M56",
+        "Discentes": "7",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "0.82"
+    },
+    {
+        "Docente": "PAULO ROBERTO DA SILVA",
+        "Componente Curricular": "MUS0071 - LABORATÓRIO DE PERFORMANCE VIII",
+        "Turma": "7",
+        "Horário": "6M56",
+        "Discentes": "6",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "RONEDILK CAVALCANTE DANTAS",
+        "Componente Curricular": "MUS0067 - LABORATÓRIO DE PERFORMANCE IV",
+        "Turma": "1",
+        "Horário": "6M56",
+        "Discentes": "7",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "0.73"
+    },
+    {
+        "Docente": "RUCKER BEZERRA DE QUEIROZ",
+        "Componente Curricular": "MUS0071 - LABORATÓRIO DE PERFORMANCE VIII",
+        "Turma": "2",
+        "Horário": "6M56",
+        "Discentes": "7",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5016 - ESTÁGIO SUPERVISIONADO II",
+        "Turma": "2",
+        "Horário": "4N34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "0.7"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5016 - ESTÁGIO SUPERVISIONADO II",
+        "Turma": "3",
+        "Horário": "5N34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "10",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS5018 - ESTÁGIO SUPERVISIONADO IV",
+        "Turma": "4",
+        "Horário": "3N34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "14",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "TAMAR GENZ GAULKE",
+        "Componente Curricular": "MUS1207 - REGENCIA I",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "39",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.16"
+    },
+    {
+        "Docente": "TARCISIO GOMES FILHO",
+        "Componente Curricular": "MUS0302 - HARMONIA II",
+        "Turma": "1",
+        "Horário": "25M34",
+        "Discentes": "22",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.73"
+    },
+    {
+        "Docente": "TICIANO MACIEL DAMORE",
+        "Componente Curricular": "MUS4001 - PRÁTICA DE INSTRUMENTO HARMÔNICO V (VIOLÃO I)",
+        "Turma": "1",
+        "Horário": "3N12",
+        "Discentes": "13",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "WASHINGTON NOGUEIRA DE ABREU",
+        "Componente Curricular": "MUS3011 - APRECIAÇÃO MUSICAL",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "23",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "WASHINGTON NOGUEIRA DE ABREU",
+        "Componente Curricular": "MUS5014 - ATIVIDADES ORIENTADAS IV - METODOLOGIA DO ENSINO DA MÚSICA EM CONTEXTOS NÃO ESCOLARES",
+        "Turma": "1",
+        "Horário": "4N34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "38",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "WASHINGTON NOGUEIRA DE ABREU",
+        "Componente Curricular": "MUS2041 - DIDÁTICA MUSICAL",
+        "Turma": "1",
+        "Horário": "35N34",
+        "Discentes": "42",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "WASHINGTON NOGUEIRA DE ABREU",
+        "Componente Curricular": "MUS5018 - ESTÁGIO SUPERVISIONADO IV",
+        "Turma": "3",
+        "Horário": "2N34 (24/07/2017 - 16/12/2017)",
+        "Discentes": "7",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.23"
+    }
+]

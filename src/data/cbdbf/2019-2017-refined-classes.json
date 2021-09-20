@@ -1,0 +1,1155 @@
+{
+  "DBF0014 - BIOFISICA GERAL": {
+    "Notas": [
+      8.68,
+      8.94,
+      8.97,
+      9.14,
+      9.18,
+      9.25,
+      9.26,
+      9.33,
+      9.41,
+      9.43,
+      9.44,
+      9.48,
+      9.5,
+      9.5,
+      9.68,
+      9.69,
+      9.71,
+      9.74,
+      9.77,
+      9.81,
+      9.9,
+      9.91
+    ],
+    "Desvios": [
+      2.2,
+      1.74,
+      2.19,
+      1.74,
+      1.47,
+      1.72,
+      1.28,
+      1.37,
+      1.95,
+      1.94,
+      1.6,
+      2.11,
+      1.3,
+      1.73,
+      1.29,
+      2.26,
+      2.43,
+      2.19,
+      1.36,
+      1.06,
+      1.11,
+      1.53
+    ],
+    "Docentes": [
+      "ALEXANDRE FLAVIO SILVA DE QUEIROZ",
+      "BRUNO LOBAO SOARES",
+      "PAULO RICARDO PORFIRIO DO NASCIMENTO",
+      "FREDERICO LEMOS DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.32034975720632103,
+    "MediaDeNotas": 9.441818181818183,
+    "MediaDeDesvios": 1.7077272727272728,
+    "NotaMediana": 9.48
+  },
+  "DBF0042 - ÉTICA E COMPROMISSO SOCIAL": {
+    "Notas": [
+      8.84,
+      9.19,
+      9.19,
+      9.35,
+      9.62
+    ],
+    "Desvios": [
+      2.15,
+      2.13,
+      2.4,
+      2.25,
+      1.42
+    ],
+    "Docentes": [
+      "ALEXANDRE FLAVIO SILVA DE QUEIROZ"
+    ],
+    "DesvioDeNotas": 0.25356655930938504,
+    "MediaDeNotas": 9.238,
+    "MediaDeDesvios": 2.07,
+    "NotaMediana": 9.19
+  },
+  "DBF0214 - FARMACODINÂMICA": {
+    "Notas": [
+      10,
+      10,
+      9.15,
+      9.27,
+      9.36,
+      9.37,
+      9.4,
+      9.4,
+      9.45,
+      9.46,
+      9.46,
+      9.46,
+      9.46,
+      9.54,
+      9.6,
+      9.61,
+      9.63,
+      9.67,
+      9.69,
+      9.73,
+      9.75,
+      9.78,
+      9.8,
+      9.82,
+      9.82,
+      9.82,
+      9.84,
+      9.85,
+      9.86,
+      9.89,
+      9.89,
+      9.9,
+      9.9,
+      9.9,
+      9.91,
+      9.92,
+      9.92,
+      9.93,
+      9.93,
+      9.94,
+      9.95,
+      9.95,
+      9.95,
+      9.98
+    ],
+    "Desvios": [
+      1.79,
+      1.9,
+      1.36,
+      0.82,
+      1.41,
+      1.56,
+      1.93,
+      1.78,
+      2.03,
+      1.82,
+      1.71,
+      0.88,
+      1.56,
+      2,
+      0.71,
+      0.66,
+      1,
+      1.59,
+      1.51,
+      1.92,
+      0.78,
+      0.72,
+      1.77,
+      1.7,
+      1.34,
+      0.57,
+      0.93,
+      1.47,
+      1.49,
+      1.56,
+      1.43,
+      0.45,
+      1.02,
+      1.01,
+      0.84,
+      0.94,
+      1.24,
+      0.43,
+      1.04,
+      1.17,
+      1.32,
+      0.97,
+      1.24,
+      0.39
+    ],
+    "Docentes": [
+      "AURIGENA ANTUNES DE ARAUJO",
+      "EPIFANIO FERNANDES DA SILVA",
+      "GERLANE COELHO BERNARDO GUERRA",
+      "MANUELA DOS SANTOS CARVALHO SCHIAVON",
+      "VANESSA DE PAULA SOARES RACHETTI",
+      "ELAINE CRISTINA GAVIOLI",
+      "IRIS UCELLA DE MEDEIROS",
+      "EDILSON DANTAS DA SILVA JUNIOR"
+    ],
+    "DesvioDeNotas": 0.2276109982600261,
+    "MediaDeNotas": 9.72522727272727,
+    "MediaDeDesvios": 1.2672727272727278,
+    "NotaMediana": 9.8
+  },
+  "DBF0506 - FARMACOLOGIA APLICADA I": {
+    "Notas": [
+      9.12,
+      9.19,
+      9.32,
+      9.37,
+      9.43,
+      9.47,
+      9.52,
+      9.63,
+      9.68,
+      9.72,
+      9.8,
+      9.83,
+      9.92
+    ],
+    "Desvios": [
+      1.49,
+      1.19,
+      0.8,
+      2.26,
+      1.94,
+      1.03,
+      1.18,
+      1.5,
+      1.29,
+      0.96,
+      1.38,
+      1.49,
+      0.79
+    ],
+    "Docentes": [
+      "AURIGENA ANTUNES DE ARAUJO",
+      "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS",
+      "EDILSON DANTAS DA SILVA JUNIOR",
+      "EPIFANIO FERNANDES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.2401552752138039,
+    "MediaDeNotas": 9.538461538461537,
+    "MediaDeDesvios": 1.3307692307692305,
+    "NotaMediana": 9.52
+  },
+  "DBF0045 - FARMACOLOGIA APLICADA À ODONTOLOGIA": {
+    "Notas": [
+      10,
+      9.35,
+      9.39,
+      9.5,
+      9.55,
+      9.7,
+      9.71,
+      9.79,
+      9.86,
+      9.94
+    ],
+    "Desvios": [
+      1.85,
+      2.06,
+      1.55,
+      1.7,
+      1.16,
+      1.25,
+      0.8,
+      0.07,
+      0.69,
+      0.6
+    ],
+    "Docentes": [
+      "AURIGENA ANTUNES DE ARAUJO"
+    ],
+    "DesvioDeNotas": 0.2140303716765448,
+    "MediaDeNotas": 9.678999999999998,
+    "MediaDeDesvios": 1.173,
+    "NotaMediana": 9.7
+  },
+  "DBF0306 - FARMACOLOGIA BASICA": {
+    "Notas": [
+      9.34,
+      9.44,
+      9.45,
+      9.46,
+      9.46,
+      9.48,
+      9.57,
+      9.61,
+      9.63,
+      9.63,
+      9.64,
+      9.64,
+      9.7,
+      9.81,
+      9.89,
+      9.92
+    ],
+    "Desvios": [
+      2.09,
+      1.87,
+      1.76,
+      1.89,
+      1.47,
+      1.54,
+      1.2,
+      1.52,
+      1.83,
+      1.41,
+      1.01,
+      1.34,
+      1.5,
+      1.31,
+      1.1,
+      1.32
+    ],
+    "Docentes": [
+      "AURIGENA ANTUNES DE ARAUJO",
+      "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS",
+      "EDILSON DANTAS DA SILVA JUNIOR",
+      "GERLANE COELHO BERNARDO GUERRA"
+    ],
+    "DesvioDeNotas": 0.16116640274883604,
+    "MediaDeNotas": 9.604375000000001,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.63
+  },
+  "DBF0038 - FARMACOLOGIA GERAL PARA ODONTOLOGIA": {
+    "Notas": [
+      8.37,
+      8.58,
+      8.71,
+      8.99,
+      9,
+      9.03,
+      9.04,
+      9.04,
+      9.05,
+      9.15,
+      9.23,
+      9.32,
+      9.39,
+      9.42,
+      9.47,
+      9.48,
+      9.56,
+      9.6,
+      9.74,
+      9.74,
+      9.82,
+      9.82,
+      9.9,
+      9.91
+    ],
+    "Desvios": [
+      1.93,
+      1.16,
+      1.96,
+      1.16,
+      1.98,
+      1.21,
+      3.07,
+      3,
+      1.96,
+      2.43,
+      2.23,
+      2.64,
+      2.54,
+      2.28,
+      2.19,
+      1.95,
+      2.35,
+      2.13,
+      1.36,
+      1.84,
+      1.37,
+      1.79,
+      1.39,
+      1.78
+    ],
+    "Docentes": [
+      "AURIGENA ANTUNES DE ARAUJO",
+      "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS",
+      "GERLANE COELHO BERNARDO GUERRA",
+      "EPIFANIO FERNANDES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.4141423534111055,
+    "MediaDeNotas": 9.306666666666667,
+    "MediaDeDesvios": 1.9875000000000005,
+    "NotaMediana": 9.39
+  },
+  "DBF0036 - MODELOS FARMACOLÓGICOS EXPERIMENTAIS: DELINEAMENTO E INSTRUMENTAÇÃO": {
+    "Notas": [
+      9.44,
+      9.5,
+      9.7,
+      9.78,
+      9.82,
+      9.82
+    ],
+    "Desvios": [
+      1.51,
+      1.71,
+      0.76,
+      0.74,
+      1.53,
+      1.58
+    ],
+    "Docentes": [
+      "AURIGENA ANTUNES DE ARAUJO",
+      "GERLANE COELHO BERNARDO GUERRA"
+    ],
+    "DesvioDeNotas": 0.1524977231159718,
+    "MediaDeNotas": 9.676666666666666,
+    "MediaDeDesvios": 1.305,
+    "NotaMediana": 9.78
+  },
+  "DBF0033 - CÁLCULO PARA BIOCIENTISTAS": {
+    "Notas": [
+      8.43,
+      9.25,
+      9.39
+    ],
+    "Desvios": [
+      2.71,
+      1.9,
+      1.79
+    ],
+    "Docentes": [
+      "CARLOS ANTONIO BARBOZA",
+      "GILBERTO CORSO"
+    ],
+    "DesvioDeNotas": 0.42342518688534475,
+    "MediaDeNotas": 9.023333333333333,
+    "MediaDeDesvios": 2.1333333333333333,
+    "NotaMediana": 9.25
+  },
+  "DBF0024 - FÍSICA PARA O ENSINO DE CIÊNCIAS E BIOLOGIA": {
+    "Notas": [
+      8.91,
+      8.94,
+      9.06,
+      9.19,
+      9.21,
+      9.25,
+      9.31,
+      9.42,
+      9.64,
+      9.64,
+      9.66,
+      9.7,
+      9.73,
+      9.84,
+      9.85
+    ],
+    "Desvios": [
+      1.42,
+      1.51,
+      1.81,
+      1.55,
+      2,
+      1.36,
+      1.37,
+      1.27,
+      1.21,
+      1.13,
+      1.69,
+      1.55,
+      2.04,
+      1.77,
+      1.64
+    ],
+    "Docentes": [
+      "CARLOS ANTONIO BARBOZA",
+      "GILBERTO CORSO",
+      "UMBERTO LAINO FULCO"
+    ],
+    "DesvioDeNotas": 0.31071244297939243,
+    "MediaDeNotas": 9.423333333333334,
+    "MediaDeDesvios": 1.5546666666666666,
+    "NotaMediana": 9.42
+  },
+  "DBF0025 - METODOLOGIA CIENTÍFICA": {
+    "Notas": [
+      9.17,
+      9.43,
+      9.45,
+      9.56,
+      9.7
+    ],
+    "Desvios": [
+      2.49,
+      2.33,
+      1.85,
+      2.22,
+      1.25
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO MAIA GOMES"
+    ],
+    "DesvioDeNotas": 0.17474552927042217,
+    "MediaDeNotas": 9.462,
+    "MediaDeDesvios": 2.028,
+    "NotaMediana": 9.45
+  },
+  "DBF0041 - PROCESSOS FÍSICO-QUÍMICOS NAS CIÊNCIAS DA VIDA": {
+    "Notas": [
+      9.2,
+      9.31,
+      9.35,
+      9.54
+    ],
+    "Desvios": [
+      2.2,
+      2.06,
+      1.85,
+      2.22
+    ],
+    "Docentes": [
+      "CARLOS EDUARDO MAIA GOMES"
+    ],
+    "DesvioDeNotas": 0.12267844146385282,
+    "MediaDeNotas": 9.35,
+    "MediaDeDesvios": 2.0825,
+    "NotaMediana": 9.35
+  },
+  "DBF0212 - FARMACOLOGIA III: PROTOCOLOS FARMACOLÓGICOS NA CLÍNICA GERAL E OBSTÉTRICA": {
+    "Notas": [
+      9.18,
+      9.19,
+      9.25,
+      9.3,
+      9.53,
+      9.57,
+      9.57,
+      9.62,
+      9.74,
+      9.78,
+      9.81,
+      9.82,
+      9.82,
+      9.86
+    ],
+    "Desvios": [
+      1.05,
+      0.9,
+      1.14,
+      0.95,
+      1.23,
+      1.38,
+      0.98,
+      1.04,
+      1.78,
+      1.45,
+      1.58,
+      1.49,
+      1.33,
+      1.14
+    ],
+    "Docentes": [
+      "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS",
+      "MANUELA DOS SANTOS CARVALHO SCHIAVON",
+      "EPIFANIO FERNANDES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.24132711308554639,
+    "MediaDeNotas": 9.574285714285717,
+    "MediaDeDesvios": 1.2457142857142856,
+    "NotaMediana": 9.62
+  },
+  "DBF0208 - FARMACOLOGIA I GERAL E FARMACOCINÉTICA": {
+    "Notas": [
+      10,
+      8.88,
+      8.88,
+      9.18,
+      9.24,
+      9.31,
+      9.36,
+      9.46,
+      9.48,
+      9.59,
+      9.69,
+      9.82,
+      9.9,
+      9.93,
+      9.93,
+      9.95
+    ],
+    "Desvios": [
+      1.52,
+      2.01,
+      1.5,
+      2.03,
+      1.22,
+      0.75,
+      1.13,
+      0.7,
+      1.18,
+      1.25,
+      0.82,
+      0.99,
+      1.58,
+      1.74,
+      1.63,
+      1.75
+    ],
+    "Docentes": [
+      "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS",
+      "MANUELA DOS SANTOS CARVALHO SCHIAVON",
+      "EDILSON DANTAS DA SILVA JUNIOR"
+    ],
+    "DesvioDeNotas": 0.3625344811186928,
+    "MediaDeNotas": 9.5375,
+    "MediaDeDesvios": 1.3624999999999998,
+    "NotaMediana": 9.48
+  },
+  "DBF0211 - FARMACOLOGIA II: PROTOCOLOS FARMACOLÓGICOS NA ATENÇÃO BÁSICA À SAÚDE": {
+    "Notas": [
+      9.22,
+      9.25,
+      9.28,
+      9.29,
+      9.31,
+      9.41,
+      9.44,
+      9.49,
+      9.49,
+      9.51,
+      9.53,
+      9.56,
+      9.57,
+      9.59,
+      9.6,
+      9.63,
+      9.69,
+      9.72,
+      9.74,
+      9.83,
+      9.86,
+      9.88
+    ],
+    "Desvios": [
+      1.28,
+      1.07,
+      1.41,
+      1.13,
+      1.79,
+      1.3,
+      1.25,
+      1.19,
+      1.31,
+      1.22,
+      1.25,
+      2.02,
+      1.2,
+      1.8,
+      1.19,
+      2.02,
+      1.33,
+      1.97,
+      0.97,
+      1.03,
+      1.16,
+      1.29
+    ],
+    "Docentes": [
+      "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS",
+      "MANUELA DOS SANTOS CARVALHO SCHIAVON",
+      "EDILSON DANTAS DA SILVA JUNIOR",
+      "EPIFANIO FERNANDES DA SILVA",
+      "IRIS UCELLA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.1924596125927174,
+    "MediaDeNotas": 9.540454545454544,
+    "MediaDeDesvios": 1.371818181818182,
+    "NotaMediana": 9.56
+  },
+  "DBF0213 - FARMACOLOGIA IV: PROTOCOLOS FARMACOLÓGICOS NA CLÍNICA AVANÇADA": {
+    "Notas": [
+      8.2,
+      9.24,
+      9.41,
+      9.42,
+      9.49,
+      9.54,
+      9.58,
+      9.64,
+      9.75,
+      9.87,
+      9.89,
+      9.94
+    ],
+    "Desvios": [
+      1.46,
+      2,
+      1.56,
+      2,
+      1.16,
+      1.59,
+      0.96,
+      1.5,
+      1.17,
+      1.24,
+      1.24,
+      2.11
+    ],
+    "Docentes": [
+      "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS",
+      "MANUELA DOS SANTOS CARVALHO SCHIAVON",
+      "ELAINE CRISTINA GAVIOLI",
+      "EPIFANIO FERNANDES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.44204307859453407,
+    "MediaDeNotas": 9.4975,
+    "MediaDeDesvios": 1.4991666666666668,
+    "NotaMediana": 9.58
+  },
+  "DBF0037 - MODELOS FARMACOLÓGICOS EXPERIMENTAIS: DELINEAMENTO E INSTRUMENTAÇÃO": {
+    "Notas": [
+      10,
+      9.79,
+      9.86,
+      9.94,
+      9.95,
+      9.99
+    ],
+    "Desvios": [
+      0.71,
+      0.53,
+      0.87,
+      0.61,
+      0.47,
+      0.46
+    ],
+    "Docentes": [
+      "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS",
+      "EDILSON DANTAS DA SILVA JUNIOR"
+    ],
+    "DesvioDeNotas": 0.0742555646998185,
+    "MediaDeNotas": 9.921666666666665,
+    "MediaDeDesvios": 0.6083333333333333,
+    "NotaMediana": 9.94
+  },
+  "DBF0207 - FARMACOLOGIA APLICADA III": {
+    "Notas": [
+      9.22,
+      9.59
+    ],
+    "Desvios": [
+      1.57,
+      1.82
+    ],
+    "Docentes": [
+      "EDILSON DANTAS DA SILVA JUNIOR",
+      "MANUELA DOS SANTOS CARVALHO SCHIAVON"
+    ],
+    "DesvioDeNotas": 0.1849999999999996,
+    "MediaDeNotas": 9.405000000000001,
+    "MediaDeDesvios": 1.695,
+    "NotaMediana": 9.59
+  },
+  "DBF0209 - FARMACOLOGIA PARA BIOMEDICINA": {
+    "Notas": [
+      10,
+      10,
+      8.84,
+      9.09,
+      9.14,
+      9.76,
+      9.87,
+      9.89,
+      9.91,
+      9.96
+    ],
+    "Desvios": [
+      1.43,
+      1.23,
+      1.24,
+      1.4,
+      1.22,
+      1.24,
+      1.69,
+      1.55,
+      1.02,
+      1.71
+    ],
+    "Docentes": [
+      "EDILSON DANTAS DA SILVA JUNIOR",
+      "EPIFANIO FERNANDES DA SILVA",
+      "ELAINE CRISTINA GAVIOLI",
+      "VANESSA DE PAULA SOARES RACHETTI",
+      "AURIGENA ANTUNES DE ARAUJO",
+      "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS",
+      "GERLANE COELHO BERNARDO GUERRA"
+    ],
+    "DesvioDeNotas": 0.4190990336424078,
+    "MediaDeNotas": 9.646,
+    "MediaDeDesvios": 1.373,
+    "NotaMediana": 9.76
+  },
+  "DBF0210 - TOXICOLOGIA PARA BIOMEDICINA": {
+    "Notas": [
+      9.66,
+      9.68,
+      9.75,
+      9.75,
+      9.81,
+      9.87,
+      9.89,
+      9.9,
+      9.9,
+      9.96
+    ],
+    "Desvios": [
+      0.62,
+      1.23,
+      0.8,
+      1.15,
+      1.96,
+      1.47,
+      1.99,
+      1.61,
+      1.19,
+      1.05
+    ],
+    "Docentes": [
+      "EPIFANIO FERNANDES DA SILVA",
+      "VANESSA DE PAULA SOARES RACHETTI",
+      "ELAINE CRISTINA GAVIOLI",
+      "IRIS UCELLA DE MEDEIROS"
+    ],
+    "DesvioDeNotas": 0.09737042672187504,
+    "MediaDeNotas": 9.816999999999998,
+    "MediaDeDesvios": 1.307,
+    "NotaMediana": 9.87
+  },
+  "DBF0043 - BIOESTATÍSTICA PARA BIOMEDICINA": {
+    "Notas": [
+      8.75,
+      8.94,
+      9.13,
+      9.23,
+      9.25,
+      9.3,
+      9.32,
+      9.39,
+      9.5
+    ],
+    "Desvios": [
+      2.61,
+      2.26,
+      2.36,
+      2.15,
+      0.94,
+      1.94,
+      1.75,
+      1.97,
+      1.82
+    ],
+    "Docentes": [
+      "EUDENILSON LINS DE ALBUQUERQUE",
+      "UMBERTO LAINO FULCO",
+      "JONAS IVAN NOBRE OLIVEIRA",
+      "GILBERTO CORSO"
+    ],
+    "DesvioDeNotas": 0.21829869671542793,
+    "MediaDeNotas": 9.20111111111111,
+    "MediaDeDesvios": 1.9777777777777774,
+    "NotaMediana": 9.25
+  },
+  "DBF0020 - PRINCIPIOS FISICOS APLICADOS A FARMACIA": {
+    "Notas": [
+      8.33,
+      9.71,
+      9.81,
+      9.97
+    ],
+    "Desvios": [
+      0.48,
+      1.17,
+      1.83,
+      0.93
+    ],
+    "Docentes": [
+      "EUDENILSON LINS DE ALBUQUERQUE",
+      "UMBERTO LAINO FULCO"
+    ],
+    "DesvioDeNotas": 0.6561059365681736,
+    "MediaDeNotas": 9.455,
+    "MediaDeDesvios": 1.1025,
+    "NotaMediana": 9.81
+  },
+  "DBF0017 - BIOFISICA ACUSTICA": {
+    "Notas": [
+      9.45,
+      9.49
+    ],
+    "Desvios": [
+      1.61,
+      1.57
+    ],
+    "Docentes": [
+      "GILBERTO CORSO"
+    ],
+    "DesvioDeNotas": 0.020000000000000462,
+    "MediaDeNotas": 9.469999999999999,
+    "MediaDeDesvios": 1.59,
+    "NotaMediana": 9.49
+  },
+  "DBF0005 - BIOFISICA V": {
+    "Notas": [
+      9.44,
+      9.55,
+      9.57,
+      9.7,
+      9.82
+    ],
+    "Desvios": [
+      1.81,
+      1.6,
+      1.68,
+      1.36,
+      1.22
+    ],
+    "Docentes": [
+      "JONAS IVAN NOBRE OLIVEIRA",
+      "PAULO RICARDO PORFIRIO DO NASCIMENTO",
+      "ALEXANDRE FLAVIO SILVA DE QUEIROZ"
+    ],
+    "DesvioDeNotas": 0.13124023773218338,
+    "MediaDeNotas": 9.616,
+    "MediaDeDesvios": 1.534,
+    "NotaMediana": 9.57
+  },
+  "DBF0019 - IMAGENOLOGIA": {
+    "Notas": [
+      8.79,
+      9.11,
+      9.36,
+      9.41,
+      9.52,
+      9.84
+    ],
+    "Desvios": [
+      0.81,
+      1.7,
+      1.52,
+      1.66,
+      1.72,
+      1.78
+    ],
+    "Docentes": [
+      "JONAS IVAN NOBRE OLIVEIRA"
+    ],
+    "DesvioDeNotas": 0.32738441556609826,
+    "MediaDeNotas": 9.338333333333333,
+    "MediaDeDesvios": 1.5316666666666665,
+    "NotaMediana": 9.41
+  },
+  "DBF0031 - ACUPUNTURA AVANÇADA E TERAPIAS ALTERNATIVAS": {
+    "Notas": [
+      8.68,
+      9.54
+    ],
+    "Desvios": [
+      1.03,
+      1.95
+    ],
+    "Docentes": [
+      "LUCIA DE FATIMA AMORIM"
+    ],
+    "DesvioDeNotas": 0.4299999999999997,
+    "MediaDeNotas": 9.11,
+    "MediaDeDesvios": 1.49,
+    "NotaMediana": 9.54
+  },
+  "DBF0030 - FUNDAMENTOS DA ACUPUNTURA": {
+    "Notas": [
+      9.01,
+      9.04,
+      9.07,
+      9.08,
+      9.29,
+      9.5
+    ],
+    "Desvios": [
+      2.1,
+      1.65,
+      1.46,
+      1.86,
+      1.49,
+      1.58
+    ],
+    "Docentes": [
+      "LUCIA DE FATIMA AMORIM"
+    ],
+    "DesvioDeNotas": 0.17500000000000002,
+    "MediaDeNotas": 9.165,
+    "MediaDeDesvios": 1.6900000000000002,
+    "NotaMediana": 9.08
+  },
+  "DBF0018 - FARMACOLOGIA APLICADA A NUTRIÇÃO": {
+    "Notas": [
+      10,
+      9.73,
+      9.77,
+      9.79,
+      9.83,
+      9.9,
+      9.96,
+      9.99
+    ],
+    "Desvios": [
+      1.48,
+      1.32,
+      1.31,
+      1.17,
+      0.5,
+      0.47,
+      0,
+      0.71
+    ],
+    "Docentes": [
+      "MANUELA DOS SANTOS CARVALHO SCHIAVON",
+      "CAROLINE ADDISON CARVALHO XAVIER DE MEDEIROS",
+      "EDILSON DANTAS DA SILVA JUNIOR",
+      "EPIFANIO FERNANDES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.09867085435932964,
+    "MediaDeNotas": 9.871250000000002,
+    "MediaDeDesvios": 0.8699999999999999,
+    "NotaMediana": 9.83
+  },
+  "DBF3003 - BIOFÍSICA": {
+    "Notas": [
+      9.4,
+      9.68,
+      9.69,
+      9.81
+    ],
+    "Desvios": [
+      1.32,
+      1.35,
+      2.03,
+      1.28
+    ],
+    "Docentes": [
+      "PAULO RICARDO PORFIRIO DO NASCIMENTO",
+      "FREDERICO LEMOS DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.15041608956491317,
+    "MediaDeNotas": 9.645,
+    "MediaDeDesvios": 1.4949999999999999,
+    "NotaMediana": 9.69
+  },
+  "DBF0012 - BIOFISICA BASICA": {
+    "Notas": [
+      9.61,
+      9.62,
+      9.75,
+      9.84,
+      9.89
+    ],
+    "Desvios": [
+      1.18,
+      1.86,
+      1.27,
+      1.1,
+      1.17
+    ],
+    "Docentes": [
+      "ALEXANDRE FLAVIO SILVA DE QUEIROZ",
+      "CARLOS EDUARDO MAIA GOMES"
+    ],
+    "DesvioDeNotas": 0.11303096920755876,
+    "MediaDeNotas": 9.741999999999999,
+    "MediaDeDesvios": 1.316,
+    "NotaMediana": 9.75
+  },
+  "DBF0103 - FISICA GERAL E EXPERIMENTAL II": {
+    "Notas": [
+      9.07,
+      9.16,
+      9.62,
+      9.75,
+      9.94,
+      9.99
+    ],
+    "Desvios": [
+      1.47,
+      1.73,
+      1.58,
+      1.6,
+      1.22,
+      1.15
+    ],
+    "Docentes": [
+      "EUDENILSON LINS DE ALBUQUERQUE",
+      "UMBERTO LAINO FULCO"
+    ],
+    "DesvioDeNotas": 0.35690412655999854,
+    "MediaDeNotas": 9.588333333333333,
+    "MediaDeDesvios": 1.4583333333333333,
+    "NotaMediana": 9.75
+  },
+  "DBF0021 - BIOFISICA AMBIENTAL": {
+    "Notas": [
+      9.25,
+      9.38,
+      9.51,
+      9.54,
+      9.63,
+      9.7,
+      9.8,
+      9.9
+    ],
+    "Desvios": [
+      1.47,
+      1.48,
+      1.67,
+      1.91,
+      1.38,
+      1.63,
+      1.58,
+      1.63
+    ],
+    "Docentes": [
+      "GILBERTO CORSO",
+      "PAULO RICARDO PORFIRIO DO NASCIMENTO",
+      "FREDERICO LEMOS DOS SANTOS"
+    ],
+    "DesvioDeNotas": 0.20077583893486795,
+    "MediaDeNotas": 9.58875,
+    "MediaDeDesvios": 1.59375,
+    "NotaMediana": 9.63
+  },
+  "DFS0048 - BASES BIOLÓGICAS DA RESPOSTA AO ESTRESSE": {
+    "Notas": [
+      9.23
+    ],
+    "Desvios": [
+      1.77
+    ],
+    "Docentes": [
+      "BRUNO LOBAO SOARES"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.23,
+    "MediaDeDesvios": 1.77,
+    "NotaMediana": 9.23
+  },
+  "DBF0029 - PROGRAMAÇÃO PARA BIOCIENTISTAS": {
+    "Notas": [
+      9.59
+    ],
+    "Desvios": [
+      1.29
+    ],
+    "Docentes": [
+      "GILBERTO CORSO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.59,
+    "MediaDeDesvios": 1.29,
+    "NotaMediana": 9.59
+  }
+}

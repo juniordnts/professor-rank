@@ -1,0 +1,4554 @@
+{
+  "ALEXEY KUZMIN": {
+    "Notas": [
+      6.87,
+      7.57,
+      8.36,
+      8.61,
+      9.03,
+      9.22,
+      9.46
+    ],
+    "Desvios": [
+      3.17,
+      3.47,
+      1.2,
+      2.38,
+      2.61,
+      2.2,
+      1.8
+    ],
+    "Componentes": {
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          7.57
+        ],
+        "Desvios": [
+          3.17
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.57,
+        "MediaDeDesvios": 3.17,
+        "NotaMediana": 7.57
+      },
+      "MAT1510 - INTRODUÇÃO A MATEMÁTICA DISCRETA": {
+        "Notas": [
+          6.87
+        ],
+        "Desvios": [
+          3.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.87,
+        "MediaDeDesvios": 3.47,
+        "NotaMediana": 6.87
+      },
+      "MAT1514 - TEORIA DOS NÚMEROS": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.46
+      },
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          9.03
+        ],
+        "Desvios": [
+          2.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.03,
+        "MediaDeDesvios": 2.38,
+        "NotaMediana": 9.03
+      },
+      "MAT0314 - MATEMATICA PARA ENGENHARIA III": {
+        "Notas": [
+          8.61
+        ],
+        "Desvios": [
+          2.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.61,
+        "MediaDeDesvios": 2.61,
+        "NotaMediana": 8.61
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          8.36
+        ],
+        "Desvios": [
+          2.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.36,
+        "MediaDeDesvios": 2.2,
+        "NotaMediana": 8.36
+      },
+      "MAT0312 - MATEMATICA PARA ENGENHARIA II": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.8
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.8,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0.8663364101261152,
+    "MediaDeNotas": 8.445714285714285,
+    "MediaDeDesvios": 2.4042857142857144,
+    "NotaMediana": 8.61
+  },
+  "ALVARO FREIRE DAMASCENO": {
+    "Notas": [
+      5.14,
+      7.19,
+      8.19,
+      8.25,
+      8.26,
+      8.69,
+      8.77
+    ],
+    "Desvios": [
+      3.75,
+      3.28,
+      2.28,
+      3.09,
+      2.66,
+      2.4,
+      2.11
+    ],
+    "Componentes": {
+      "MAT0340 - CALCULO FUNDAMENTAL I": {
+        "Notas": [
+          5.14
+        ],
+        "Desvios": [
+          3.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 5.14,
+        "MediaDeDesvios": 3.75,
+        "NotaMediana": 5.14
+      },
+      "MAT0314 - MATEMATICA PARA ENGENHARIA III": {
+        "Notas": [
+          7.19,
+          8.69
+        ],
+        "Desvios": [
+          3.28,
+          2.28
+        ],
+        "DesvioDeNotas": 0.7499999999999996,
+        "MediaDeNotas": 7.9399999999999995,
+        "MediaDeDesvios": 2.78,
+        "NotaMediana": 8.69
+      },
+      "MAT0342 - CALCULO FUNDAMENTAL III": {
+        "Notas": [
+          8.26
+        ],
+        "Desvios": [
+          3.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.26,
+        "MediaDeDesvios": 3.09,
+        "NotaMediana": 8.26
+      },
+      "MAT0312 - MATEMATICA PARA ENGENHARIA II": {
+        "Notas": [
+          8.19
+        ],
+        "Desvios": [
+          2.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.19,
+        "MediaDeDesvios": 2.66,
+        "NotaMediana": 8.19
+      },
+      "MAT0341 - CALCULO FUNDAMENTAL II": {
+        "Notas": [
+          8.77
+        ],
+        "Desvios": [
+          2.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.77,
+        "MediaDeDesvios": 2.4,
+        "NotaMediana": 8.77
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          8.25
+        ],
+        "Desvios": [
+          2.11
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.25,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 8.25
+      }
+    },
+    "DesvioDeNotas": 1.179901414076098,
+    "MediaDeNotas": 7.784285714285714,
+    "MediaDeDesvios": 2.7957142857142854,
+    "NotaMediana": 8.25
+  },
+  "ANA PAULA PEREIRA DO NASCIMENTO SILVA": {
+    "Notas": [
+      9.19,
+      9.63,
+      9.63,
+      9.74,
+      9.78,
+      9.86
+    ],
+    "Desvios": [
+      1.51,
+      1.81,
+      2.09,
+      1.53,
+      0.98,
+      1.39
+    ],
+    "Componentes": {
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          9.63,
+          9.74
+        ],
+        "Desvios": [
+          1.51,
+          1.53
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.685,
+        "MediaDeDesvios": 1.52,
+        "NotaMediana": 9.74
+      },
+      "MAT0322 - CALCULO BASICO III": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.81
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.81,
+        "NotaMediana": 9.63
+      },
+      "MAT0344 - CALCULO PARA BIOCIENCIAS": {
+        "Notas": [
+          9.19
+        ],
+        "Desvios": [
+          2.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.19,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 9.19
+      },
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.86
+      },
+      "MAT1508 - LABORATÓRIO DE ENSINO DA MATEMÁTICA I": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.78
+      }
+    },
+    "DesvioDeNotas": 0.21628813087073356,
+    "MediaDeNotas": 9.638333333333334,
+    "MediaDeDesvios": 1.5516666666666667,
+    "NotaMediana": 9.74
+  },
+  "ANDRE GUSTAVO CAMPOS PEREIRA": {
+    "Notas": [
+      9.06,
+      9.23,
+      9.63,
+      9.66
+    ],
+    "Desvios": [
+      2.04,
+      1.18,
+      2.38,
+      1.6
+    ],
+    "Componentes": {
+      "MAT1501 - MATEMÁTICA BÁSICA": {
+        "Notas": [
+          9.23,
+          9.63
+        ],
+        "Desvios": [
+          2.04,
+          1.6
+        ],
+        "DesvioDeNotas": 0.20000000000000018,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 9.63
+      },
+      "MAT1507 - ÁLGEBRA LINEAR I": {
+        "Notas": [
+          9.66
+        ],
+        "Desvios": [
+          1.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.66,
+        "MediaDeDesvios": 1.18,
+        "NotaMediana": 9.66
+      },
+      "MAT0032 - FUNDAMENTOS DA MATEMÁTICA": {
+        "Notas": [
+          9.06
+        ],
+        "Desvios": [
+          2.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 2.38,
+        "NotaMediana": 9.06
+      }
+    },
+    "DesvioDeNotas": 0.2573421846491554,
+    "MediaDeNotas": 9.395000000000001,
+    "MediaDeDesvios": 1.7999999999999998,
+    "NotaMediana": 9.63
+  },
+  "ARKADY TSURKOV": {
+    "Notas": [
+      8.43,
+      8.95,
+      9.06,
+      9.07,
+      9.16,
+      9.25,
+      9.46,
+      9.57
+    ],
+    "Desvios": [
+      2.3,
+      2,
+      2.44,
+      2.6,
+      3.08,
+      2.59,
+      1.65,
+      1.23
+    ],
+    "Componentes": {
+      "MAT0343 - ALGEBRA LINEAR": {
+        "Notas": [
+          9.25
+        ],
+        "Desvios": [
+          2.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.25,
+        "MediaDeDesvios": 2.3,
+        "NotaMediana": 9.25
+      },
+      "MAT1511 - ÁLGEBRA LINEAR II": {
+        "Notas": [
+          8.95
+        ],
+        "Desvios": [
+          2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 8.95
+      },
+      "MAT0009 - ALGEBRA I": {
+        "Notas": [
+          9.16
+        ],
+        "Desvios": [
+          2.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 2.44,
+        "NotaMediana": 9.16
+      },
+      "MAT0313 - ALGEBRA LINEAR APLICADA": {
+        "Notas": [
+          9.06
+        ],
+        "Desvios": [
+          2.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.06,
+        "MediaDeDesvios": 2.6,
+        "NotaMediana": 9.06
+      },
+      "MAT1525 - ÁLGEBRA I": {
+        "Notas": [
+          8.43,
+          9.57
+        ],
+        "Desvios": [
+          3.08,
+          1.23
+        ],
+        "DesvioDeNotas": 0.5700000000000003,
+        "MediaDeNotas": 9,
+        "MediaDeDesvios": 2.1550000000000002,
+        "NotaMediana": 9.57
+      },
+      "MAT0309 - ALGEBRA LINEAR PARA COMPUTAÇÃO": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          2.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2.59,
+        "NotaMediana": 9.07
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.46
+      }
+    },
+    "DesvioDeNotas": 0.32551641663670383,
+    "MediaDeNotas": 9.11875,
+    "MediaDeDesvios": 2.23625,
+    "NotaMediana": 9.16
+  },
+  "BRUNO DOS SANTOS GOIS": {
+    "Notas": [
+      6.62,
+      6.66,
+      7.69,
+      8.27,
+      8.32,
+      8.45,
+      8.65,
+      9.11,
+      9.63
+    ],
+    "Desvios": [
+      2.91,
+      3.08,
+      2.51,
+      3.62,
+      2.88,
+      3.22,
+      1.61,
+      2,
+      2.07
+    ],
+    "Componentes": {
+      "MAT0318 - CALCULO BASICO I": {
+        "Notas": [
+          8.27
+        ],
+        "Desvios": [
+          2.91
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.27,
+        "MediaDeDesvios": 2.91,
+        "NotaMediana": 8.27
+      },
+      "MAT0024 - CÁLCULO II PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          7.69
+        ],
+        "Desvios": [
+          3.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.69,
+        "MediaDeDesvios": 3.08,
+        "NotaMediana": 7.69
+      },
+      "MAT0343 - ALGEBRA LINEAR": {
+        "Notas": [
+          8.32
+        ],
+        "Desvios": [
+          2.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.32,
+        "MediaDeDesvios": 2.51,
+        "NotaMediana": 8.32
+      },
+      "MAT0314 - MATEMATICA PARA ENGENHARIA III": {
+        "Notas": [
+          6.66
+        ],
+        "Desvios": [
+          3.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 6.66,
+        "MediaDeDesvios": 3.62,
+        "NotaMediana": 6.66
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          6.62,
+          8.45,
+          8.65
+        ],
+        "Desvios": [
+          2.88,
+          3.22,
+          2
+        ],
+        "DesvioDeNotas": 0.9134671434825786,
+        "MediaDeNotas": 7.906666666666666,
+        "MediaDeDesvios": 2.6999999999999997,
+        "NotaMediana": 8.45
+      },
+      "MAT1537 - TEORIA INGÊNUA DOS CONJUNTOS": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.63
+      },
+      "MAT1538 - TÓPICOS EM COMBINATÓRIA": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          2.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 2.07,
+        "NotaMediana": 9.11
+      }
+    },
+    "DesvioDeNotas": 0.9584491073385298,
+    "MediaDeNotas": 8.155555555555557,
+    "MediaDeDesvios": 2.6555555555555554,
+    "NotaMediana": 8.32
+  },
+  "CARLOS ALEXANDRE GOMES DA SILVA": {
+    "Notas": [
+      9.52,
+      9.77,
+      9.78,
+      9.87,
+      9.88
+    ],
+    "Desvios": [
+      1.4,
+      2.3,
+      2.18,
+      2.09,
+      1.07
+    ],
+    "Componentes": {
+      "MAT0080 - TEORIA DOS NUMEROS": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.4,
+        "NotaMediana": 9.78
+      },
+      "MAT1504 - TUTORIA I": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          2.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 2.3,
+        "NotaMediana": 9.52
+      },
+      "MAT1501 - MATEMÁTICA BÁSICA": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          2.18
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 2.18,
+        "NotaMediana": 9.88
+      },
+      "MAT1534 - TOPOLOGIA DOS ESPAÇOS MÉTRICOS": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          2.09
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 2.09,
+        "NotaMediana": 9.77
+      },
+      "MAT1536 - RESOLUÇÃO DE PROBLEMAS": {
+        "Notas": [
+          9.87
+        ],
+        "Desvios": [
+          1.07
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.87,
+        "MediaDeDesvios": 1.07,
+        "NotaMediana": 9.87
+      }
+    },
+    "DesvioDeNotas": 0.13001538370516022,
+    "MediaDeNotas": 9.764,
+    "MediaDeDesvios": 1.8079999999999998,
+    "NotaMediana": 9.78
+  },
+  "DANIEL TEIXEIRA DOS SANTOS": {
+    "Notas": [
+      9.19,
+      9.5,
+      9.52,
+      9.66,
+      9.69,
+      9.75,
+      9.77,
+      9.88,
+      9.94,
+      9.98
+    ],
+    "Desvios": [
+      2.15,
+      2.54,
+      1.44,
+      1.69,
+      1.45,
+      2.22,
+      1.91,
+      1.04,
+      1.15,
+      1.05
+    ],
+    "Componentes": {
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          9.75,
+          9.98
+        ],
+        "Desvios": [
+          2.15,
+          1.15
+        ],
+        "DesvioDeNotas": 0.11500000000000021,
+        "MediaDeNotas": 9.865,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.98
+      },
+      "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          9.19
+        ],
+        "Desvios": [
+          2.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.19,
+        "MediaDeDesvios": 2.54,
+        "NotaMediana": 9.19
+      },
+      "MAT0031 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          9.5
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.5,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.5
+      },
+      "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          9.66,
+          9.88
+        ],
+        "Desvios": [
+          1.69,
+          1.91
+        ],
+        "DesvioDeNotas": 0.11000000000000032,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.7999999999999998,
+        "NotaMediana": 9.88
+      },
+      "MAT1506 - FUNDAMENTOS DE GEOMETRIA II": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.69
+      },
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          2.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 2.22,
+        "NotaMediana": 9.52
+      },
+      "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS": {
+        "Notas": [
+          9.94
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.94,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.94
+      },
+      "MAT0314 - MATEMATICA PARA ENGENHARIA III": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.77
+      }
+    },
+    "DesvioDeNotas": 0.22551274908527918,
+    "MediaDeNotas": 9.687999999999999,
+    "MediaDeDesvios": 1.6639999999999997,
+    "NotaMediana": 9.75
+  },
+  "DAVID ARMANDO ZAVALETA VILLANUEVA": {
+    "Notas": [
+      8.55,
+      8.64,
+      9.19,
+      9.27,
+      9.47,
+      9.48,
+      9.62,
+      9.69
+    ],
+    "Desvios": [
+      2.27,
+      2.04,
+      2.08,
+      2.85,
+      2.96,
+      2.26,
+      2.12,
+      1.35
+    ],
+    "Componentes": {
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          9.69
+        ],
+        "Desvios": [
+          2.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 2.27,
+        "NotaMediana": 9.69
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          8.55,
+          8.64,
+          9.27,
+          9.47
+        ],
+        "Desvios": [
+          2.04,
+          2.85,
+          2.26,
+          2.12
+        ],
+        "DesvioDeNotas": 0.39518192013299375,
+        "MediaDeNotas": 8.9825,
+        "MediaDeDesvios": 2.3175,
+        "NotaMediana": 9.27
+      },
+      "MAT0309 - ALGEBRA LINEAR PARA COMPUTAÇÃO": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 9.62
+      },
+      "MAT0005 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          9.19
+        ],
+        "Desvios": [
+          2.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.19,
+        "MediaDeDesvios": 2.96,
+        "NotaMediana": 9.19
+      },
+      "MAT1523 - VARIÁVEIS COMPLEXAS": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          1.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 1.35,
+        "NotaMediana": 9.48
+      }
+    },
+    "DesvioDeNotas": 0.4026300255817985,
+    "MediaDeNotas": 9.23875,
+    "MediaDeDesvios": 2.24125,
+    "NotaMediana": 9.47
+  },
+  "DEBORA BORGES FERREIRA": {
+    "Notas": [
+      9.47,
+      9.53,
+      9.55,
+      9.74
+    ],
+    "Desvios": [
+      2.08,
+      2.08,
+      1.71,
+      1.71
+    ],
+    "Componentes": {
+      "MAT0032 - FUNDAMENTOS DA MATEMÁTICA": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 9.55
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 9.47
+      },
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          9.53,
+          9.74
+        ],
+        "Desvios": [
+          1.71,
+          1.71
+        ],
+        "DesvioDeNotas": 0.10500000000000043,
+        "MediaDeNotas": 9.635,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.74
+      }
+    },
+    "DesvioDeNotas": 0.10108783309577861,
+    "MediaDeNotas": 9.572500000000002,
+    "MediaDeDesvios": 1.895,
+    "NotaMediana": 9.55
+  },
+  "DIEGO FERRAZ DE SOUZA": {
+    "Notas": [
+      9.08,
+      9.47,
+      9.54,
+      9.71
+    ],
+    "Desvios": [
+      1.43,
+      2.2,
+      2.04,
+      2.3
+    ],
+    "Componentes": {
+      "MAT1518 - CÁLCULO IV": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.71
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          2.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 2.2,
+        "NotaMediana": 9.47
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          2.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 2.04,
+        "NotaMediana": 9.54
+      },
+      "MAT0318 - CALCULO BASICO I": {
+        "Notas": [
+          9.08
+        ],
+        "Desvios": [
+          2.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.08,
+        "MediaDeDesvios": 2.3,
+        "NotaMediana": 9.08
+      }
+    },
+    "DesvioDeNotas": 0.23075961518428667,
+    "MediaDeNotas": 9.45,
+    "MediaDeDesvios": 1.9925,
+    "NotaMediana": 9.54
+  },
+  "EDGAR SILVA PEREIRA": {
+    "Notas": [
+      9.21,
+      9.46,
+      9.52,
+      9.71,
+      9.84,
+      9.89
+    ],
+    "Desvios": [
+      1.16,
+      1.87,
+      1.93,
+      1.47,
+      1.41,
+      1.11
+    ],
+    "Componentes": {
+      "MAT0341 - CALCULO FUNDAMENTAL II": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          1.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.16,
+        "NotaMediana": 9.89
+      },
+      "MAT0024 - CÁLCULO II PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.46
+      },
+      "MAT0312 - MATEMATICA PARA ENGENHARIA II": {
+        "Notas": [
+          9.52,
+          9.84
+        ],
+        "Desvios": [
+          1.93,
+          1.47
+        ],
+        "DesvioDeNotas": 0.16000000000000014,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.84
+      },
+      "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          9.21,
+          9.71
+        ],
+        "Desvios": [
+          1.41,
+          1.11
+        ],
+        "DesvioDeNotas": 0.25,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0.23514180118955155,
+    "MediaDeNotas": 9.605,
+    "MediaDeDesvios": 1.4916666666666665,
+    "NotaMediana": 9.71
+  },
+  "ELAINE GOUVEA PIMENTEL": {
+    "Notas": [
+      9.12,
+      9.28,
+      9.48,
+      9.9
+    ],
+    "Desvios": [
+      2.05,
+      1.89,
+      1.71,
+      1.7
+    ],
+    "Componentes": {
+      "MAT1502 - FUNDAMENTOS DE GEOMETRIA I": {
+        "Notas": [
+          9.48
+        ],
+        "Desvios": [
+          2.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.48,
+        "MediaDeDesvios": 2.05,
+        "NotaMediana": 9.48
+      },
+      "MAT1510 - INTRODUÇÃO A MATEMÁTICA DISCRETA": {
+        "Notas": [
+          9.12
+        ],
+        "Desvios": [
+          1.89
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.12,
+        "MediaDeDesvios": 1.89,
+        "NotaMediana": 9.12
+      },
+      "MAT0309 - ALGEBRA LINEAR PARA COMPUTAÇÃO": {
+        "Notas": [
+          9.28
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.28,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.28
+      },
+      "MAT0013 - TOPOLOGIA": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.7
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.7,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0.29201883500897724,
+    "MediaDeNotas": 9.445,
+    "MediaDeDesvios": 1.8375,
+    "NotaMediana": 9.48
+  },
+  "FABIAN ARLEY POSADA BALVIN": {
+    "Notas": [
+      7.71,
+      9.09,
+      9.15,
+      9.45,
+      9.48,
+      9.57,
+      9.6,
+      9.66,
+      9.93
+    ],
+    "Desvios": [
+      3.46,
+      1.91,
+      1.95,
+      1.43,
+      1.98,
+      1.97,
+      2.33,
+      1.44,
+      1.07
+    ],
+    "Componentes": {
+      "MAT1522 - DIDÁTICA DA MATEMÁTICA II": {
+        "Notas": [
+          7.71,
+          9.48
+        ],
+        "Desvios": [
+          3.46,
+          1.97
+        ],
+        "DesvioDeNotas": 0.8850000000000002,
+        "MediaDeNotas": 8.595,
+        "MediaDeDesvios": 2.715,
+        "NotaMediana": 9.48
+      },
+      "MAT1512 - INFORMÁTICA NO ENSINO DA MATEMÁTICA": {
+        "Notas": [
+          9.09,
+          9.45
+        ],
+        "Desvios": [
+          1.91,
+          2.33
+        ],
+        "DesvioDeNotas": 0.17999999999999972,
+        "MediaDeNotas": 9.27,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 9.45
+      },
+      "MAT1516 - DIDÁTICA DA MATEMÁTICA I": {
+        "Notas": [
+          9.57,
+          9.6
+        ],
+        "Desvios": [
+          1.95,
+          1.44
+        ],
+        "DesvioDeNotas": 0.01499999999999968,
+        "MediaDeNotas": 9.585,
+        "MediaDeDesvios": 1.6949999999999998,
+        "NotaMediana": 9.6
+      },
+      "MAT1508 - LABORATÓRIO DE ENSINO DA MATEMÁTICA I": {
+        "Notas": [
+          9.15,
+          9.66,
+          9.93
+        ],
+        "Desvios": [
+          1.43,
+          1.98,
+          1.07
+        ],
+        "DesvioDeNotas": 0.32341923257592436,
+        "MediaDeNotas": 9.58,
+        "MediaDeDesvios": 1.4933333333333334,
+        "NotaMediana": 9.66
+      }
+    },
+    "DesvioDeNotas": 0.6090612083818469,
+    "MediaDeNotas": 9.293333333333335,
+    "MediaDeDesvios": 1.9488888888888891,
+    "NotaMediana": 9.48
+  },
+  "FAGNER LEMOS DE SANTANA": {
+    "Notas": [
+      9.11,
+      9.45,
+      9.5,
+      9.64,
+      9.7
+    ],
+    "Desvios": [
+      2.34,
+      2.02,
+      2.09,
+      1.81,
+      1.47
+    ],
+    "Componentes": {
+      "MAT0313 - ALGEBRA LINEAR APLICADA": {
+        "Notas": [
+          9.45,
+          9.5,
+          9.7
+        ],
+        "Desvios": [
+          2.34,
+          2.09,
+          1.47
+        ],
+        "DesvioDeNotas": 0.10801234497346422,
+        "MediaDeNotas": 9.549999999999999,
+        "MediaDeDesvios": 1.9666666666666666,
+        "NotaMediana": 9.5
+      },
+      "MAT0343 - ALGEBRA LINEAR": {
+        "Notas": [
+          9.11,
+          9.64
+        ],
+        "Desvios": [
+          2.02,
+          1.81
+        ],
+        "DesvioDeNotas": 0.26500000000000057,
+        "MediaDeNotas": 9.375,
+        "MediaDeDesvios": 1.915,
+        "NotaMediana": 9.64
+      }
+    },
+    "DesvioDeNotas": 0.2060097085090896,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 1.9460000000000002,
+    "NotaMediana": 9.5
+  },
+  "FERNANDO GUEDES CURY": {
+    "Notas": [
+      9.07,
+      9.23,
+      9.56,
+      9.68,
+      9.7,
+      9.7,
+      9.8,
+      9.84,
+      9.86,
+      9.87
+    ],
+    "Desvios": [
+      2.12,
+      2.12,
+      1.05,
+      1.56,
+      1.5,
+      1.77,
+      0.95,
+      1.19,
+      1.09,
+      0.76
+    ],
+    "Componentes": {
+      "MAT1512 - INFORMÁTICA NO ENSINO DA MATEMÁTICA": {
+        "Notas": [
+          9.07,
+          9.87
+        ],
+        "Desvios": [
+          2.12,
+          0.95
+        ],
+        "DesvioDeNotas": 0.39999999999999947,
+        "MediaDeNotas": 9.469999999999999,
+        "MediaDeDesvios": 1.5350000000000001,
+        "NotaMediana": 9.87
+      },
+      "MAT1504 - TUTORIA I": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 9.23
+      },
+      "MAT1521 - TÓPICOS DE HISTÓRIA DA MATEMÁTICA": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.05
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.84
+      },
+      "MAT1526 - HISTÓRIA DA EDUCAÇÃO MATEMÁTICA": {
+        "Notas": [
+          9.56,
+          9.7
+        ],
+        "Desvios": [
+          1.56,
+          1.09
+        ],
+        "DesvioDeNotas": 0.0699999999999994,
+        "MediaDeNotas": 9.629999999999999,
+        "MediaDeDesvios": 1.3250000000000002,
+        "NotaMediana": 9.7
+      },
+      "MAT1517 - LABORATÓRIO DE ENSINO DA MATEMÁTICA II": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.86
+      },
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          9.68,
+          9.7
+        ],
+        "Desvios": [
+          1.77,
+          1.19
+        ],
+        "DesvioDeNotas": 0.009999999999999787,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.7
+      },
+      "MAT3018 - TIC NO ENSINO DA MATEMÁTICA": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.76,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.259670945621569,
+    "MediaDeNotas": 9.631,
+    "MediaDeDesvios": 1.4109999999999998,
+    "NotaMediana": 9.7
+  },
+  "GABRIELA LUCHEZE DE OLIVEIRA LOPES": {
+    "Notas": [
+      9.54,
+      9.8,
+      9.81,
+      9.82,
+      9.84,
+      9.9,
+      9.9,
+      9.97
+    ],
+    "Desvios": [
+      1.21,
+      0.72,
+      1.26,
+      1.22,
+      1.71,
+      1.26,
+      1.45,
+      1.23
+    ],
+    "Componentes": {
+      "MAT1509 - CÁLCULO II": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.21
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.21,
+        "NotaMediana": 9.9
+      },
+      "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          0.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 0.72,
+        "NotaMediana": 9.97
+      },
+      "MAT1530 - PROJETO DE ENSINO E PESQUISA": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.84
+      },
+      "MAT1526 - HISTÓRIA DA EDUCAÇÃO MATEMÁTICA": {
+        "Notas": [
+          9.81
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.81,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.81
+      },
+      "MAT0314 - MATEMATICA PARA ENGENHARIA III": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.54
+      },
+      "MAT1504 - TUTORIA I": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.82
+      },
+      "MAT1513 - CÁLCULO III": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.45,
+        "NotaMediana": 9.9
+      },
+      "MAT1516 - DIDÁTICA DA MATEMÁTICA I": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.23
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.23,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.11966097943774358,
+    "MediaDeNotas": 9.8225,
+    "MediaDeDesvios": 1.2575,
+    "NotaMediana": 9.84
+  },
+  "GEILSON FERREIRA GERMANO": {
+    "Notas": [
+      7.77,
+      9.57,
+      9.72,
+      9.82,
+      9.89
+    ],
+    "Desvios": [
+      0.48,
+      3.14,
+      2.01,
+      1.58,
+      1.04
+    ],
+    "Componentes": {
+      "MAT1518 - CÁLCULO IV": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          0.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 0.48,
+        "NotaMediana": 9.89
+      },
+      "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS": {
+        "Notas": [
+          7.77
+        ],
+        "Desvios": [
+          3.14
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.77,
+        "MediaDeDesvios": 3.14,
+        "NotaMediana": 7.77
+      },
+      "MAT0314 - MATEMATICA PARA ENGENHARIA III": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          2.01
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 2.01,
+        "NotaMediana": 9.57
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.82
+      },
+      "MAT0312 - MATEMATICA PARA ENGENHARIA II": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.72
+      }
+    },
+    "DesvioDeNotas": 0.7992646620488113,
+    "MediaDeNotas": 9.354,
+    "MediaDeDesvios": 1.65,
+    "NotaMediana": 9.72
+  },
+  "GISELLE COSTA DE SOUSA": {
+    "Notas": [
+      10,
+      9.79,
+      9.8,
+      9.85,
+      9.86,
+      9.88,
+      9.9,
+      9.96,
+      9.98,
+      9.98
+    ],
+    "Desvios": [
+      1.62,
+      0.32,
+      0.3,
+      1.32,
+      1.12,
+      1.41,
+      1.79,
+      1.71,
+      0.99,
+      1.27
+    ],
+    "Componentes": {
+      "MAT1512 - INFORMÁTICA NO ENSINO DA MATEMÁTICA": {
+        "Notas": [
+          9.88
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.88,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.88
+      },
+      "PEC4010 - RESIDÊNCIA PEDAGÓGICA I": {
+        "Notas": [
+          9.98
+        ],
+        "Desvios": [
+          0.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.98,
+        "MediaDeDesvios": 0.32,
+        "NotaMediana": 9.98
+      },
+      "PEC4020 - RESIDÊNCIA PEDAGÓGICA II": {
+        "Notas": [
+          9.98
+        ],
+        "Desvios": [
+          0.3
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.98,
+        "MediaDeDesvios": 0.3,
+        "NotaMediana": 9.98
+      },
+      "MAT1521 - TÓPICOS DE HISTÓRIA DA MATEMÁTICA": {
+        "Notas": [
+          9.79,
+          9.9
+        ],
+        "Desvios": [
+          1.32,
+          1.71
+        ],
+        "DesvioDeNotas": 0.055000000000000604,
+        "MediaDeNotas": 9.844999999999999,
+        "MediaDeDesvios": 1.5150000000000001,
+        "NotaMediana": 9.9
+      },
+      "MAT1516 - DIDÁTICA DA MATEMÁTICA I": {
+        "Notas": [
+          9.96
+        ],
+        "Desvios": [
+          1.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.96,
+        "MediaDeDesvios": 1.12,
+        "NotaMediana": 9.96
+      },
+      "MAT1517 - LABORATÓRIO DE ENSINO DA MATEMÁTICA II": {
+        "Notas": [
+          9.85,
+          9.86
+        ],
+        "Desvios": [
+          1.41,
+          1.27
+        ],
+        "DesvioDeNotas": 0.004999999999999893,
+        "MediaDeNotas": 9.855,
+        "MediaDeDesvios": 1.3399999999999999,
+        "NotaMediana": 9.86
+      },
+      "MAT1522 - DIDÁTICA DA MATEMÁTICA II": {
+        "Notas": [
+          10
+        ],
+        "Desvios": [
+          1.79
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 10,
+        "MediaDeDesvios": 1.79,
+        "NotaMediana": 10
+      },
+      "MAT1508 - LABORATÓRIO DE ENSINO DA MATEMÁTICA I": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.99
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.99,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.07280109889280542,
+    "MediaDeNotas": 9.899999999999999,
+    "MediaDeDesvios": 1.185,
+    "NotaMediana": 9.88
+  },
+  "HERICA PRISCILA DE ARAUJO CARNEIRO": {
+    "Notas": [
+      8.02,
+      8.64,
+      9.02,
+      9.05,
+      9.07,
+      9.22,
+      9.43,
+      9.89
+    ],
+    "Desvios": [
+      2.65,
+      2.1,
+      2.87,
+      1.39,
+      2.19,
+      1.7,
+      2.28,
+      1.94
+    ],
+    "Componentes": {
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          8.64
+        ],
+        "Desvios": [
+          2.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.64,
+        "MediaDeDesvios": 2.65,
+        "NotaMediana": 8.64
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          9.43
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.43,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.43
+      },
+      "MAT0023 - CÁLCULO I PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          8.02
+        ],
+        "Desvios": [
+          2.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.02,
+        "MediaDeDesvios": 2.87,
+        "NotaMediana": 8.02
+      },
+      "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL": {
+        "Notas": [
+          9.89
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.89,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.89
+      },
+      "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS": {
+        "Notas": [
+          9.05
+        ],
+        "Desvios": [
+          2.19
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.05,
+        "MediaDeDesvios": 2.19,
+        "NotaMediana": 9.05
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          9.02,
+          9.07
+        ],
+        "Desvios": [
+          1.7,
+          2.28
+        ],
+        "DesvioDeNotas": 0.025000000000000355,
+        "MediaDeNotas": 9.045,
+        "MediaDeDesvios": 1.9899999999999998,
+        "NotaMediana": 9.07
+      },
+      "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          9.22
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.22,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.22
+      }
+    },
+    "DesvioDeNotas": 0.5134138194478214,
+    "MediaDeNotas": 9.0425,
+    "MediaDeDesvios": 2.1399999999999997,
+    "NotaMediana": 9.07
+  },
+  "IESUS CARVALHO DINIZ": {
+    "Notas": [
+      8.23,
+      8.65,
+      8.77,
+      9.43,
+      9.65,
+      9.66,
+      9.71,
+      9.86
+    ],
+    "Desvios": [
+      2.48,
+      2.16,
+      2.49,
+      1.73,
+      2.75,
+      1.59,
+      1.59,
+      1.01
+    ],
+    "Componentes": {
+      "MAT0023 - CÁLCULO I PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          8.77
+        ],
+        "Desvios": [
+          2.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.77,
+        "MediaDeDesvios": 2.48,
+        "NotaMediana": 8.77
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          9.43,
+          9.65,
+          9.66,
+          9.86
+        ],
+        "Desvios": [
+          2.16,
+          1.73,
+          1.59,
+          1.01
+        ],
+        "DesvioDeNotas": 0.1521512405470293,
+        "MediaDeNotas": 9.65,
+        "MediaDeDesvios": 1.6225,
+        "NotaMediana": 9.66
+      },
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          8.65
+        ],
+        "Desvios": [
+          2.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 2.49,
+        "NotaMediana": 8.65
+      },
+      "MAT0318 - CALCULO BASICO I": {
+        "Notas": [
+          8.23
+        ],
+        "Desvios": [
+          2.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.23,
+        "MediaDeDesvios": 2.75,
+        "NotaMediana": 8.23
+      },
+      "MAT0340 - CALCULO FUNDAMENTAL I": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.59
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.59,
+        "NotaMediana": 9.71
+      }
+    },
+    "DesvioDeNotas": 0.5673182528352141,
+    "MediaDeNotas": 9.245000000000001,
+    "MediaDeDesvios": 1.975,
+    "NotaMediana": 9.65
+  },
+  "JAQUES SILVEIRA LOPES": {
+    "Notas": [
+      8.77,
+      9.18,
+      9.41,
+      9.59,
+      9.64
+    ],
+    "Desvios": [
+      2.1,
+      2.41,
+      1.97,
+      2.22,
+      1.65
+    ],
+    "Componentes": {
+      "MAT0340 - CALCULO FUNDAMENTAL I": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 9.64
+      },
+      "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          8.77
+        ],
+        "Desvios": [
+          2.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.77,
+        "MediaDeDesvios": 2.41,
+        "NotaMediana": 8.77
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.97,
+        "NotaMediana": 9.59
+      },
+      "MAT0228 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          9.41
+        ],
+        "Desvios": [
+          2.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.41,
+        "MediaDeDesvios": 2.22,
+        "NotaMediana": 9.41
+      },
+      "MAT0312 - MATEMATICA PARA ENGENHARIA II": {
+        "Notas": [
+          9.18
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.18,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.18
+      }
+    },
+    "DesvioDeNotas": 0.3179559717948386,
+    "MediaDeNotas": 9.318,
+    "MediaDeDesvios": 2.07,
+    "NotaMediana": 9.41
+  },
+  "JOSE QUERGINALDO BEZERRA": {
+    "Notas": [
+      8.6,
+      8.78,
+      8.79,
+      8.81,
+      8.92,
+      9.11,
+      9.21
+    ],
+    "Desvios": [
+      2.51,
+      2.49,
+      2.28,
+      2.17,
+      2,
+      2.16,
+      1.57
+    ],
+    "Componentes": {
+      "MAT1502 - FUNDAMENTOS DE GEOMETRIA I": {
+        "Notas": [
+          8.78,
+          8.79,
+          8.81
+        ],
+        "Desvios": [
+          2.51,
+          2,
+          2.16
+        ],
+        "DesvioDeNotas": 0.012472191289246997,
+        "MediaDeNotas": 8.793333333333333,
+        "MediaDeDesvios": 2.223333333333333,
+        "NotaMediana": 8.79
+      },
+      "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          8.92
+        ],
+        "Desvios": [
+          2.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.92,
+        "MediaDeDesvios": 2.49,
+        "NotaMediana": 8.92
+      },
+      "MAT1506 - FUNDAMENTOS DE GEOMETRIA II": {
+        "Notas": [
+          8.6
+        ],
+        "Desvios": [
+          2.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.6,
+        "MediaDeDesvios": 2.28,
+        "NotaMediana": 8.6
+      },
+      "MAT1514 - TEORIA DOS NÚMEROS": {
+        "Notas": [
+          9.11,
+          9.21
+        ],
+        "Desvios": [
+          2.17,
+          1.57
+        ],
+        "DesvioDeNotas": 0.05000000000000071,
+        "MediaDeNotas": 9.16,
+        "MediaDeDesvios": 1.87,
+        "NotaMediana": 9.21
+      }
+    },
+    "DesvioDeNotas": 0.19430672155336373,
+    "MediaDeNotas": 8.888571428571428,
+    "MediaDeDesvios": 2.1685714285714286,
+    "NotaMediana": 8.81
+  },
+  "JUAN ALBERTO ROJAS CRUZ": {
+    "Notas": [
+      9.29,
+      9.47,
+      9.48,
+      9.84,
+      9.84,
+      9.84,
+      9.99
+    ],
+    "Desvios": [
+      0.49,
+      1.91,
+      2.32,
+      0.76,
+      2.04,
+      1.59,
+      0.48
+    ],
+    "Componentes": {
+      "MAT0312 - MATEMATICA PARA ENGENHARIA II": {
+        "Notas": [
+          9.47,
+          9.48,
+          9.84
+        ],
+        "Desvios": [
+          0.49,
+          2.04,
+          1.59
+        ],
+        "DesvioDeNotas": 0.17211107524567415,
+        "MediaDeNotas": 9.596666666666668,
+        "MediaDeDesvios": 1.3733333333333333,
+        "NotaMediana": 9.48
+      },
+      "MAT0314 - MATEMATICA PARA ENGENHARIA III": {
+        "Notas": [
+          9.29,
+          9.84,
+          9.99
+        ],
+        "Desvios": [
+          1.91,
+          0.76,
+          0.48
+        ],
+        "DesvioDeNotas": 0.30092450142113025,
+        "MediaDeNotas": 9.706666666666667,
+        "MediaDeDesvios": 1.05,
+        "NotaMediana": 9.84
+      },
+      "MAT0342 - CALCULO FUNDAMENTAL III": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          2.32
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 2.32,
+        "NotaMediana": 9.84
+      }
+    },
+    "DesvioDeNotas": 0.24174535430185756,
+    "MediaDeNotas": 9.678571428571429,
+    "MediaDeDesvios": 1.3699999999999999,
+    "NotaMediana": 9.84
+  },
+  "JULIA VICTORIA TOLEDO BENAVIDES": {
+    "Notas": [
+      8.68,
+      8.82,
+      8.96,
+      9.14,
+      9.23,
+      9.42,
+      9.47,
+      9.8
+    ],
+    "Desvios": [
+      1.94,
+      1.8,
+      1.66,
+      1.9,
+      2.48,
+      2.34,
+      1.76,
+      1.13
+    ],
+    "Componentes": {
+      "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL": {
+        "Notas": [
+          9.14
+        ],
+        "Desvios": [
+          1.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 1.94,
+        "NotaMediana": 9.14
+      },
+      "MAT1501 - MATEMÁTICA BÁSICA": {
+        "Notas": [
+          9.42,
+          9.8
+        ],
+        "Desvios": [
+          1.8,
+          1.13
+        ],
+        "DesvioDeNotas": 0.1900000000000004,
+        "MediaDeNotas": 9.61,
+        "MediaDeDesvios": 1.4649999999999999,
+        "NotaMediana": 9.8
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.47
+      },
+      "MAT0025 - ÁLGEBRA LINEAR PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          9.23
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.23,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.23
+      },
+      "MAT0318 - CALCULO BASICO I": {
+        "Notas": [
+          8.68
+        ],
+        "Desvios": [
+          2.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.68,
+        "MediaDeDesvios": 2.48,
+        "NotaMediana": 8.68
+      },
+      "MAT0023 - CÁLCULO I PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          8.96
+        ],
+        "Desvios": [
+          2.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.96,
+        "MediaDeDesvios": 2.34,
+        "NotaMediana": 8.96
+      },
+      "MAT0024 - CÁLCULO II PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          8.82
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.82,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 8.82
+      }
+    },
+    "DesvioDeNotas": 0.34594074637139827,
+    "MediaDeNotas": 9.190000000000001,
+    "MediaDeDesvios": 1.8762500000000002,
+    "NotaMediana": 9.23
+  },
+  "LILIANE DOS SANTOS GUTIERRE": {
+    "Notas": [
+      9.63,
+      9.77,
+      9.8,
+      9.9
+    ],
+    "Desvios": [
+      0.71,
+      1.67,
+      1.38,
+      1.6
+    ],
+    "Componentes": {
+      "MAT1522 - DIDÁTICA DA MATEMÁTICA II": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          0.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 0.71,
+        "NotaMediana": 9.9
+      },
+      "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS": {
+        "Notas": [
+          9.77,
+          9.8
+        ],
+        "Desvios": [
+          1.67,
+          1.38
+        ],
+        "DesvioDeNotas": 0.015000000000000568,
+        "MediaDeNotas": 9.785,
+        "MediaDeDesvios": 1.525,
+        "NotaMediana": 9.8
+      },
+      "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          9.63
+        ],
+        "Desvios": [
+          1.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.63,
+        "MediaDeDesvios": 1.6,
+        "NotaMediana": 9.63
+      }
+    },
+    "DesvioDeNotas": 0.0965660395791397,
+    "MediaDeNotas": 9.775,
+    "MediaDeDesvios": 1.3399999999999999,
+    "NotaMediana": 9.8
+  },
+  "LUIZ CARLOS RADTKE": {
+    "Notas": [
+      7.83,
+      8.67,
+      8.94,
+      9.12,
+      9.16,
+      9.2,
+      9.27,
+      9.3,
+      9.38,
+      9.61
+    ],
+    "Desvios": [
+      1.95,
+      1.93,
+      1.55,
+      2.81,
+      2.44,
+      2.05,
+      2.09,
+      1.52,
+      1.49,
+      1.28
+    ],
+    "Componentes": {
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          8.94
+        ],
+        "Desvios": [
+          1.95
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.94,
+        "MediaDeDesvios": 1.95,
+        "NotaMediana": 8.94
+      },
+      "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL": {
+        "Notas": [
+          9.3,
+          9.38
+        ],
+        "Desvios": [
+          1.93,
+          1.52
+        ],
+        "DesvioDeNotas": 0.040000000000000036,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.725,
+        "NotaMediana": 9.38
+      },
+      "MAT1527 - MÉTODOS NUMÉRICOS I": {
+        "Notas": [
+          7.83,
+          8.67,
+          9.12,
+          9.16,
+          9.27,
+          9.61
+        ],
+        "Desvios": [
+          1.55,
+          2.81,
+          2.05,
+          2.09,
+          1.49,
+          1.28
+        ],
+        "DesvioDeNotas": 0.5691416539159843,
+        "MediaDeNotas": 8.943333333333333,
+        "MediaDeDesvios": 1.8783333333333332,
+        "NotaMediana": 9.16
+      },
+      "MAT0344 - CALCULO PARA BIOCIENCIAS": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          2.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 2.44,
+        "NotaMediana": 9.2
+      }
+    },
+    "DesvioDeNotas": 0.4709309928216659,
+    "MediaDeNotas": 9.047999999999998,
+    "MediaDeDesvios": 1.911,
+    "NotaMediana": 9.2
+  },
+  "MANUEL CLAUDEMIR SILVA CALDAS": {
+    "Notas": [
+      7.7,
+      8.29,
+      8.79,
+      8.8,
+      9,
+      9.07,
+      9.51,
+      9.8
+    ],
+    "Desvios": [
+      1.46,
+      1.88,
+      2.22,
+      1.42,
+      2.87,
+      1.56,
+      1.71,
+      1.58
+    ],
+    "Componentes": {
+      "MAT0009 - ALGEBRA I": {
+        "Notas": [
+          7.7,
+          8.29,
+          9
+        ],
+        "Desvios": [
+          1.46,
+          2.22,
+          2.87
+        ],
+        "DesvioDeNotas": 0.5314759323494025,
+        "MediaDeNotas": 8.33,
+        "MediaDeDesvios": 2.1833333333333336,
+        "NotaMediana": 8.29
+      },
+      "MAT1536 - RESOLUÇÃO DE PROBLEMAS": {
+        "Notas": [
+          8.79,
+          9.51
+        ],
+        "Desvios": [
+          1.88,
+          1.42
+        ],
+        "DesvioDeNotas": 0.3600000000000003,
+        "MediaDeNotas": 9.149999999999999,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.51
+      },
+      "MAT1514 - TEORIA DOS NÚMEROS": {
+        "Notas": [
+          8.8,
+          9.8
+        ],
+        "Desvios": [
+          1.56,
+          1.71
+        ],
+        "DesvioDeNotas": 0.5,
+        "MediaDeNotas": 9.3,
+        "MediaDeDesvios": 1.635,
+        "NotaMediana": 9.8
+      },
+      "MAT1525 - ÁLGEBRA I": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.07
+      }
+    },
+    "DesvioDeNotas": 0.6172519744804388,
+    "MediaDeNotas": 8.870000000000001,
+    "MediaDeDesvios": 1.8375000000000001,
+    "NotaMediana": 9
+  },
+  "MARCELO GOMES PEREIRA": {
+    "Notas": [
+      8.25,
+      8.49,
+      8.56,
+      9.4
+    ],
+    "Desvios": [
+      2.38,
+      2.42,
+      2.41,
+      2.35
+    ],
+    "Componentes": {
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          8.56,
+          9.4
+        ],
+        "Desvios": [
+          2.38,
+          2.41
+        ],
+        "DesvioDeNotas": 0.41999999999999993,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 2.395,
+        "NotaMediana": 9.4
+      },
+      "MAT0005 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          8.25
+        ],
+        "Desvios": [
+          2.42
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.25,
+        "MediaDeDesvios": 2.42,
+        "NotaMediana": 8.25
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          8.49
+        ],
+        "Desvios": [
+          2.35
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.49,
+        "MediaDeDesvios": 2.35,
+        "NotaMediana": 8.49
+      }
+    },
+    "DesvioDeNotas": 0.434079485808763,
+    "MediaDeNotas": 8.675,
+    "MediaDeDesvios": 2.39,
+    "NotaMediana": 8.56
+  },
+  "MARCIA MARIA DE CASTRO CRUZ": {
+    "Notas": [
+      8.4,
+      8.74,
+      8.74,
+      8.75,
+      8.84,
+      9.11,
+      9.5,
+      9.61
+    ],
+    "Desvios": [
+      2.42,
+      2.63,
+      2.75,
+      1.57,
+      2.29,
+      2.35,
+      1.77,
+      1.31
+    ],
+    "Componentes": {
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          8.74,
+          8.74,
+          8.75,
+          8.84,
+          9.11
+        ],
+        "Desvios": [
+          2.42,
+          2.63,
+          2.29,
+          2.35,
+          1.77
+        ],
+        "DesvioDeNotas": 0.14207040508142404,
+        "MediaDeNotas": 8.836,
+        "MediaDeDesvios": 2.292,
+        "NotaMediana": 8.75
+      },
+      "MAT0321 - CALCULO BASICO II": {
+        "Notas": [
+          8.4
+        ],
+        "Desvios": [
+          2.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.4,
+        "MediaDeDesvios": 2.75,
+        "NotaMediana": 8.4
+      },
+      "MAT1515 - LABORATÓRIO DE APOIO COMPUTACIONAL": {
+        "Notas": [
+          9.5,
+          9.61
+        ],
+        "Desvios": [
+          1.57,
+          1.31
+        ],
+        "DesvioDeNotas": 0.054999999999999716,
+        "MediaDeNotas": 9.555,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.61
+      }
+    },
+    "DesvioDeNotas": 0.3881828660567076,
+    "MediaDeNotas": 8.96125,
+    "MediaDeDesvios": 2.13625,
+    "NotaMediana": 8.84
+  },
+  "MARCONIO SILVA DOS SANTOS": {
+    "Notas": [
+      8.88,
+      9.07,
+      9.14,
+      9.14,
+      9.37,
+      9.46,
+      9.46,
+      9.55,
+      9.79,
+      9.9
+    ],
+    "Desvios": [
+      2.24,
+      2.4,
+      1.54,
+      1.83,
+      1.62,
+      1.9,
+      1.77,
+      1.34,
+      1.27,
+      1.24
+    ],
+    "Componentes": {
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          8.88
+        ],
+        "Desvios": [
+          2.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.88,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 8.88
+      },
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          9.07
+        ],
+        "Desvios": [
+          2.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.07,
+        "MediaDeDesvios": 2.4,
+        "NotaMediana": 9.07
+      },
+      "MAT1502 - FUNDAMENTOS DE GEOMETRIA I": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.54
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.54,
+        "NotaMediana": 9.79
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          9.46
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.46,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 9.46
+      },
+      "MAT0318 - CALCULO BASICO I": {
+        "Notas": [
+          9.46,
+          9.9
+        ],
+        "Desvios": [
+          1.62,
+          1.34
+        ],
+        "DesvioDeNotas": 0.21999999999999975,
+        "MediaDeNotas": 9.68,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.9
+      },
+      "MAT0024 - CÁLCULO II PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          9.14
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.14
+      },
+      "MAT1504 - TUTORIA I": {
+        "Notas": [
+          9.14
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.14,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.14
+      },
+      "MAT1505 - CÁLCULO I": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.55
+      },
+      "MAT1507 - ÁLGEBRA LINEAR I": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.3068289425722415,
+    "MediaDeNotas": 9.376000000000001,
+    "MediaDeDesvios": 1.7150000000000003,
+    "NotaMediana": 9.46
+  },
+  "MARIO OTAVIO SALLES": {
+    "Notas": [
+      8.74,
+      9.35,
+      9.54,
+      9.67,
+      9.77,
+      9.84
+    ],
+    "Desvios": [
+      1.77,
+      1.49,
+      1.48,
+      1.68,
+      1.65,
+      1.92
+    ],
+    "Componentes": {
+      "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS": {
+        "Notas": [
+          9.67
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.67,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.67
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          9.54,
+          9.84
+        ],
+        "Desvios": [
+          1.49,
+          1.68
+        ],
+        "DesvioDeNotas": 0.15000000000000036,
+        "MediaDeNotas": 9.69,
+        "MediaDeDesvios": 1.585,
+        "NotaMediana": 9.84
+      },
+      "MAT0312 - MATEMATICA PARA ENGENHARIA II": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.48
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.48,
+        "NotaMediana": 9.77
+      },
+      "MAT0321 - CALCULO BASICO II": {
+        "Notas": [
+          9.35
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.35,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.35
+      },
+      "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          8.74
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.74,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 8.74
+      }
+    },
+    "DesvioDeNotas": 0.36917701264659825,
+    "MediaDeNotas": 9.485000000000001,
+    "MediaDeDesvios": 1.665,
+    "NotaMediana": 9.67
+  },
+  "MARTA FIGUEREDO DOS ANJOS": {
+    "Notas": [
+      9.34,
+      9.55,
+      9.64,
+      9.75,
+      9.77,
+      9.8,
+      9.8,
+      9.8,
+      9.91,
+      9.96
+    ],
+    "Desvios": [
+      1.34,
+      1.07,
+      0.75,
+      0.97,
+      1.27,
+      1.33,
+      0.85,
+      1.28,
+      1.13,
+      1.51
+    ],
+    "Componentes": {
+      "MAT0360 - FUNDAMENTOS EPISTEMOLOGICO DA MATEMATICA": {
+        "Notas": [
+          9.91
+        ],
+        "Desvios": [
+          1.34
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.91,
+        "MediaDeDesvios": 1.34,
+        "NotaMediana": 9.91
+      },
+      "MAT1530 - PROJETO DE ENSINO E PESQUISA": {
+        "Notas": [
+          9.64,
+          9.75,
+          9.8
+        ],
+        "Desvios": [
+          1.07,
+          1.27,
+          1.33
+        ],
+        "DesvioDeNotas": 0.0668331255192114,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.2233333333333334,
+        "NotaMediana": 9.75
+      },
+      "MAT1521 - TÓPICOS DE HISTÓRIA DA MATEMÁTICA": {
+        "Notas": [
+          9.96
+        ],
+        "Desvios": [
+          0.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.96,
+        "MediaDeDesvios": 0.75,
+        "NotaMediana": 9.96
+      },
+      "MAT1512 - INFORMÁTICA NO ENSINO DA MATEMÁTICA": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.97
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.97,
+        "NotaMediana": 9.8
+      },
+      "MAT3021 - DIDÁTICA DA MATEMÁTICA": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.85
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.85,
+        "NotaMediana": 9.8
+      },
+      "MAT1526 - HISTÓRIA DA EDUCAÇÃO MATEMÁTICA": {
+        "Notas": [
+          9.34
+        ],
+        "Desvios": [
+          1.28
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.28,
+        "NotaMediana": 9.34
+      },
+      "MAT1508 - LABORATÓRIO DE ENSINO DA MATEMÁTICA I": {
+        "Notas": [
+          9.77
+        ],
+        "Desvios": [
+          1.13
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.77,
+        "MediaDeDesvios": 1.13,
+        "NotaMediana": 9.77
+      },
+      "MAT1517 - LABORATÓRIO DE ENSINO DA MATEMÁTICA II": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.51
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.51,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.1716275036233996,
+    "MediaDeNotas": 9.732,
+    "MediaDeDesvios": 1.15,
+    "NotaMediana": 9.8
+  },
+  "ODIRLEI SILVA JESUS": {
+    "Notas": [
+      8.98,
+      9.38,
+      9.63,
+      9.7,
+      9.7,
+      9.82,
+      9.82,
+      9.84,
+      9.99
+    ],
+    "Desvios": [
+      2.2,
+      1.79,
+      0.94,
+      0.74,
+      1.66,
+      1.04,
+      1.33,
+      0.83,
+      1.22
+    ],
+    "Componentes": {
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          8.98,
+          9.63
+        ],
+        "Desvios": [
+          2.2,
+          1.79
+        ],
+        "DesvioDeNotas": 0.3250000000000002,
+        "MediaDeNotas": 9.305,
+        "MediaDeDesvios": 1.995,
+        "NotaMediana": 9.63
+      },
+      "MAT1519 - ANÁLISE REAL I": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          0.94
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 0.94,
+        "NotaMediana": 9.84
+      },
+      "MAT1509 - CÁLCULO II": {
+        "Notas": [
+          9.99
+        ],
+        "Desvios": [
+          0.74
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.99,
+        "MediaDeDesvios": 0.74,
+        "NotaMediana": 9.99
+      },
+      "MAT1518 - CÁLCULO IV": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.66
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.66,
+        "NotaMediana": 9.82
+      },
+      "MAT1521 - TÓPICOS DE HISTÓRIA DA MATEMÁTICA": {
+        "Notas": [
+          9.38
+        ],
+        "Desvios": [
+          1.04
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.38,
+        "MediaDeDesvios": 1.04,
+        "NotaMediana": 9.38
+      },
+      "MAT1513 - CÁLCULO III": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.33
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.33,
+        "NotaMediana": 9.7
+      },
+      "MAT3019 - INTRODUÇÃO À ÁLGEBRA LINEAR": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          0.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 0.83,
+        "NotaMediana": 9.82
+      },
+      "MAT1537 - TEORIA INGÊNUA DOS CONJUNTOS": {
+        "Notas": [
+          9.7
+        ],
+        "Desvios": [
+          1.22
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.22,
+        "NotaMediana": 9.7
+      }
+    },
+    "DesvioDeNotas": 0.28610194160063684,
+    "MediaDeNotas": 9.651111111111112,
+    "MediaDeDesvios": 1.3055555555555558,
+    "NotaMediana": 9.7
+  },
+  "PAULO ROBERTO FERREIRA DOS SANTOS SILVA": {
+    "Notas": [
+      8.02,
+      8.94,
+      8.94,
+      9.14,
+      9.44,
+      9.53,
+      9.55,
+      9.56,
+      9.57,
+      9.61,
+      9.62,
+      9.74,
+      9.75,
+      9.8,
+      9.85
+    ],
+    "Desvios": [
+      1.35,
+      1.52,
+      1.73,
+      1.68,
+      1.92,
+      1.27,
+      2.25,
+      2.08,
+      2,
+      1.82,
+      1.36,
+      1.73,
+      0.76,
+      1.47,
+      0.96
+    ],
+    "Componentes": {
+      "MAT1519 - ANÁLISE REAL I": {
+        "Notas": [
+          8.94,
+          9.53
+        ],
+        "Desvios": [
+          1.35,
+          1.52
+        ],
+        "DesvioDeNotas": 0.29499999999999993,
+        "MediaDeNotas": 9.235,
+        "MediaDeDesvios": 1.435,
+        "NotaMediana": 9.53
+      },
+      "MAT1504 - TUTORIA I": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.73,
+        "NotaMediana": 9.55
+      },
+      "MAT1505 - CÁLCULO I": {
+        "Notas": [
+          9.44,
+          9.56,
+          9.61,
+          9.75
+        ],
+        "Desvios": [
+          1.68,
+          1.92,
+          1.36,
+          1.73
+        ],
+        "DesvioDeNotas": 0.11113055385446445,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.6724999999999999,
+        "NotaMediana": 9.61
+      },
+      "MAT1537 - TEORIA INGÊNUA DOS CONJUNTOS": {
+        "Notas": [
+          9.74
+        ],
+        "Desvios": [
+          1.27
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.74,
+        "MediaDeDesvios": 1.27,
+        "NotaMediana": 9.74
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          8.02,
+          8.94,
+          9.14
+        ],
+        "Desvios": [
+          2.25,
+          2.08,
+          2
+        ],
+        "DesvioDeNotas": 0.4877157642179171,
+        "MediaDeNotas": 8.700000000000001,
+        "MediaDeDesvios": 2.11,
+        "NotaMediana": 8.94
+      },
+      "MAT1511 - ÁLGEBRA LINEAR II": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.82
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.82,
+        "NotaMediana": 9.57
+      },
+      "MAT3020 - CÁLCULO II": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          0.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 0.76,
+        "NotaMediana": 9.8
+      },
+      "MAT1502 - FUNDAMENTOS DE GEOMETRIA I": {
+        "Notas": [
+          9.62
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.62,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.62
+      },
+      "MAT1507 - ÁLGEBRA LINEAR I": {
+        "Notas": [
+          9.85
+        ],
+        "Desvios": [
+          0.96
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.85,
+        "MediaDeDesvios": 0.96,
+        "NotaMediana": 9.85
+      }
+    },
+    "DesvioDeNotas": 0.46069223276861687,
+    "MediaDeNotas": 9.403999999999998,
+    "MediaDeDesvios": 1.5933333333333333,
+    "NotaMediana": 9.56
+  },
+  "ROBERTO TEODORO GURGEL DE OLIVEIRA": {
+    "Notas": [
+      9.37,
+      9.57,
+      9.72,
+      9.73,
+      9.78,
+      9.86
+    ],
+    "Desvios": [
+      1.47,
+      1.67,
+      1.16,
+      1.26,
+      1.98,
+      1.1
+    ],
+    "Componentes": {
+      "MAT1509 - CÁLCULO II": {
+        "Notas": [
+          9.78
+        ],
+        "Desvios": [
+          1.47
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.78,
+        "MediaDeDesvios": 1.47,
+        "NotaMediana": 9.78
+      },
+      "MAT0312 - MATEMATICA PARA ENGENHARIA II": {
+        "Notas": [
+          9.73
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.73,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.73
+      },
+      "MAT1507 - ÁLGEBRA LINEAR I": {
+        "Notas": [
+          9.86
+        ],
+        "Desvios": [
+          1.16
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.86,
+        "MediaDeDesvios": 1.16,
+        "NotaMediana": 9.86
+      },
+      "MAT1519 - ANÁLISE REAL I": {
+        "Notas": [
+          9.72
+        ],
+        "Desvios": [
+          1.26
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.72,
+        "MediaDeDesvios": 1.26,
+        "NotaMediana": 9.72
+      },
+      "MAT1504 - TUTORIA I": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.98,
+        "NotaMediana": 9.37
+      },
+      "MAT1514 - TEORIA DOS NÚMEROS": {
+        "Notas": [
+          9.57
+        ],
+        "Desvios": [
+          1.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.57,
+        "MediaDeDesvios": 1.1,
+        "NotaMediana": 9.57
+      }
+    },
+    "DesvioDeNotas": 0.16035550782211666,
+    "MediaDeNotas": 9.671666666666665,
+    "MediaDeDesvios": 1.4399999999999997,
+    "NotaMediana": 9.73
+  },
+  "RONALDO FREIRE DE LIMA": {
+    "Notas": [
+      9.9
+    ],
+    "Desvios": [
+      1.72
+    ],
+    "Componentes": {
+      "MAT1528 - ANÁLISE NO RN": {
+        "Notas": [
+          9.9
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.9,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 9.9
+      }
+    },
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.9,
+    "MediaDeDesvios": 1.72,
+    "NotaMediana": 9.9
+  },
+  "ROOSEWELT FONSECA SOARES": {
+    "Notas": [
+      8.78,
+      8.81,
+      8.89,
+      8.98,
+      9.04,
+      9.25,
+      9.43,
+      9.52
+    ],
+    "Desvios": [
+      2.67,
+      1.91,
+      2.54,
+      2.44,
+      2.29,
+      2.6,
+      1.26,
+      1.86
+    ],
+    "Componentes": {
+      "MAT0318 - CALCULO BASICO I": {
+        "Notas": [
+          8.98
+        ],
+        "Desvios": [
+          2.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.98,
+        "MediaDeDesvios": 2.67,
+        "NotaMediana": 8.98
+      },
+      "MAT0342 - CALCULO FUNDAMENTAL III": {
+        "Notas": [
+          8.78,
+          9.52
+        ],
+        "Desvios": [
+          1.91,
+          1.86
+        ],
+        "DesvioDeNotas": 0.3700000000000001,
+        "MediaDeNotas": 9.149999999999999,
+        "MediaDeDesvios": 1.885,
+        "NotaMediana": 9.52
+      },
+      "MAT0340 - CALCULO FUNDAMENTAL I": {
+        "Notas": [
+          8.81,
+          9.04
+        ],
+        "Desvios": [
+          2.54,
+          2.6
+        ],
+        "DesvioDeNotas": 0.11499999999999932,
+        "MediaDeNotas": 8.925,
+        "MediaDeDesvios": 2.5700000000000003,
+        "NotaMediana": 9.04
+      },
+      "MAT0341 - CALCULO FUNDAMENTAL II": {
+        "Notas": [
+          8.89
+        ],
+        "Desvios": [
+          2.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.89,
+        "MediaDeDesvios": 2.44,
+        "NotaMediana": 8.89
+      },
+      "MAT0343 - ALGEBRA LINEAR": {
+        "Notas": [
+          9.25,
+          9.43
+        ],
+        "Desvios": [
+          2.29,
+          1.26
+        ],
+        "DesvioDeNotas": 0.08999999999999986,
+        "MediaDeNotas": 9.34,
+        "MediaDeDesvios": 1.775,
+        "NotaMediana": 9.43
+      }
+    },
+    "DesvioDeNotas": 0.26342693484152285,
+    "MediaDeNotas": 9.0875,
+    "MediaDeDesvios": 2.19625,
+    "NotaMediana": 9.04
+  },
+  "SANTOS DEMETRIO MIRANDA BORJAS": {
+    "Notas": [
+      7.21,
+      8.39,
+      8.43,
+      8.62,
+      8.81,
+      8.9,
+      8.95,
+      9.11,
+      9.45
+    ],
+    "Desvios": [
+      2.41,
+      2.46,
+      2.61,
+      1.43,
+      2.52,
+      3.5,
+      2.87,
+      1.9,
+      1.56
+    ],
+    "Componentes": {
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          8.81
+        ],
+        "Desvios": [
+          2.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.81,
+        "MediaDeDesvios": 2.41,
+        "NotaMediana": 8.81
+      },
+      "MAT1527 - MÉTODOS NUMÉRICOS I": {
+        "Notas": [
+          8.62
+        ],
+        "Desvios": [
+          2.46
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.62,
+        "MediaDeDesvios": 2.46,
+        "NotaMediana": 8.62
+      },
+      "MAT1513 - CÁLCULO III": {
+        "Notas": [
+          8.43
+        ],
+        "Desvios": [
+          2.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.43,
+        "MediaDeDesvios": 2.61,
+        "NotaMediana": 8.43
+      },
+      "MAT0312 - MATEMATICA PARA ENGENHARIA II": {
+        "Notas": [
+          9.45
+        ],
+        "Desvios": [
+          1.43
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.45,
+        "MediaDeDesvios": 1.43,
+        "NotaMediana": 9.45
+      },
+      "MAT0321 - CALCULO BASICO II": {
+        "Notas": [
+          8.95
+        ],
+        "Desvios": [
+          2.52
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 2.52,
+        "NotaMediana": 8.95
+      },
+      "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS": {
+        "Notas": [
+          7.21
+        ],
+        "Desvios": [
+          3.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.21,
+        "MediaDeDesvios": 3.5,
+        "NotaMediana": 7.21
+      },
+      "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          8.39
+        ],
+        "Desvios": [
+          2.87
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.39,
+        "MediaDeDesvios": 2.87,
+        "NotaMediana": 8.39
+      },
+      "MAT0031 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          9.11
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.11,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 9.11
+      },
+      "MAT0025 - ÁLGEBRA LINEAR PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          8.9
+        ],
+        "Desvios": [
+          1.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.9,
+        "MediaDeDesvios": 1.56,
+        "NotaMediana": 8.9
+      }
+    },
+    "DesvioDeNotas": 0.5981597292767167,
+    "MediaDeNotas": 8.652222222222223,
+    "MediaDeDesvios": 2.362222222222222,
+    "NotaMediana": 8.81
+  },
+  "SERGIO PEREIRA DE FARIAS": {
+    "Notas": [
+      4.52,
+      7.44,
+      7.57,
+      7.82,
+      7.85,
+      8.32,
+      8.64,
+      8.66,
+      9.03
+    ],
+    "Desvios": [
+      2.56,
+      2.45,
+      3.73,
+      2.36,
+      2.71,
+      2.4,
+      2.24,
+      1.9,
+      1.29
+    ],
+    "Componentes": {
+      "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          7.82
+        ],
+        "Desvios": [
+          2.56
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.82,
+        "MediaDeDesvios": 2.56,
+        "NotaMediana": 7.82
+      },
+      "MAT0340 - CALCULO FUNDAMENTAL I": {
+        "Notas": [
+          8.64
+        ],
+        "Desvios": [
+          2.45
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.64,
+        "MediaDeDesvios": 2.45,
+        "NotaMediana": 8.64
+      },
+      "MAT1513 - CÁLCULO III": {
+        "Notas": [
+          4.52
+        ],
+        "Desvios": [
+          3.73
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 4.52,
+        "MediaDeDesvios": 3.73,
+        "NotaMediana": 4.52
+      },
+      "MAT0221 - GEOMETRIA ANALITICA E ALGEBRA LINEAR": {
+        "Notas": [
+          8.66,
+          9.03
+        ],
+        "Desvios": [
+          2.36,
+          1.29
+        ],
+        "DesvioDeNotas": 0.1849999999999996,
+        "MediaDeNotas": 8.844999999999999,
+        "MediaDeDesvios": 1.825,
+        "NotaMediana": 9.03
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          7.57
+        ],
+        "Desvios": [
+          2.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.57,
+        "MediaDeDesvios": 2.71,
+        "NotaMediana": 7.57
+      },
+      "MAT0344 - CALCULO PARA BIOCIENCIAS": {
+        "Notas": [
+          7.85
+        ],
+        "Desvios": [
+          2.4
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.85,
+        "MediaDeDesvios": 2.4,
+        "NotaMediana": 7.85
+      },
+      "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL": {
+        "Notas": [
+          7.44
+        ],
+        "Desvios": [
+          2.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.44,
+        "MediaDeDesvios": 2.24,
+        "NotaMediana": 7.44
+      },
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          8.32
+        ],
+        "Desvios": [
+          1.9
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.32,
+        "MediaDeDesvios": 1.9,
+        "NotaMediana": 8.32
+      }
+    },
+    "DesvioDeNotas": 1.254267776163044,
+    "MediaDeNotas": 7.76111111111111,
+    "MediaDeDesvios": 2.4044444444444437,
+    "NotaMediana": 7.85
+  },
+  "SIDARTA ARAUJO DE LIMA": {
+    "Notas": [
+      8.25,
+      8.41,
+      9.39,
+      9.71
+    ],
+    "Desvios": [
+      1.64,
+      2.6,
+      1.62,
+      2.1
+    ],
+    "Componentes": {
+      "MAT0321 - CALCULO BASICO II": {
+        "Notas": [
+          9.39
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.39,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.39
+      },
+      "MAT0025 - ÁLGEBRA LINEAR PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          8.25
+        ],
+        "Desvios": [
+          2.6
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.25,
+        "MediaDeDesvios": 2.6,
+        "NotaMediana": 8.25
+      },
+      "MAT0322 - CALCULO BASICO III": {
+        "Notas": [
+          9.71
+        ],
+        "Desvios": [
+          1.62
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.71,
+        "MediaDeDesvios": 1.62,
+        "NotaMediana": 9.71
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          8.41
+        ],
+        "Desvios": [
+          2.1
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.41,
+        "MediaDeDesvios": 2.1,
+        "NotaMediana": 8.41
+      }
+    },
+    "DesvioDeNotas": 0.6229767250869012,
+    "MediaDeNotas": 8.940000000000001,
+    "MediaDeDesvios": 1.9900000000000002,
+    "NotaMediana": 9.39
+  },
+  "SILVIO JOSE BEZERRA": {
+    "Notas": [
+      8.84,
+      8.86,
+      8.97,
+      9.03,
+      9.27,
+      9.32,
+      9.46,
+      9.49
+    ],
+    "Desvios": [
+      1.97,
+      2.23,
+      2.28,
+      2.42,
+      2.35,
+      1.81,
+      1.64,
+      1.42
+    ],
+    "Componentes": {
+      "MAT0312 - MATEMATICA PARA ENGENHARIA II": {
+        "Notas": [
+          8.84,
+          8.86,
+          8.97,
+          9.03,
+          9.27,
+          9.32,
+          9.46,
+          9.49
+        ],
+        "Desvios": [
+          1.97,
+          2.23,
+          2.28,
+          2.42,
+          2.35,
+          1.81,
+          1.64,
+          1.42
+        ],
+        "DesvioDeNotas": 0.24540782383616078,
+        "MediaDeNotas": 9.155,
+        "MediaDeDesvios": 2.015,
+        "NotaMediana": 9.27
+      }
+    },
+    "DesvioDeNotas": 0.24540782383616078,
+    "MediaDeNotas": 9.155,
+    "MediaDeDesvios": 2.015,
+    "NotaMediana": 9.27
+  },
+  "VIVIANE KLEIN": {
+    "Notas": [
+      9.2,
+      9.36,
+      9.54,
+      9.68,
+      9.72
+    ],
+    "Desvios": [
+      2.25,
+      1.46,
+      1.64,
+      2.01,
+      1.53
+    ],
+    "Componentes": {
+      "MAT1527 - MÉTODOS NUMÉRICOS I": {
+        "Notas": [
+          9.2
+        ],
+        "Desvios": [
+          2.25
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.2,
+        "MediaDeDesvios": 2.25,
+        "NotaMediana": 9.2
+      },
+      "MAT0311 - MATEMATICA PARA ENGENHARIA I": {
+        "Notas": [
+          9.68,
+          9.72
+        ],
+        "Desvios": [
+          1.46,
+          2.01
+        ],
+        "DesvioDeNotas": 0.020000000000000462,
+        "MediaDeNotas": 9.7,
+        "MediaDeDesvios": 1.7349999999999999,
+        "NotaMediana": 9.72
+      },
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.64
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.64,
+        "NotaMediana": 9.54
+      },
+      "MAT0314 - MATEMATICA PARA ENGENHARIA III": {
+        "Notas": [
+          9.36
+        ],
+        "Desvios": [
+          1.53
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.36,
+        "MediaDeDesvios": 1.53,
+        "NotaMediana": 9.36
+      }
+    },
+    "DesvioDeNotas": 0.19595917942265462,
+    "MediaDeNotas": 9.5,
+    "MediaDeDesvios": 1.7779999999999998,
+    "NotaMediana": 9.54
+  },
+  "VIVIANE SIMIOLI MEDEIROS CAMPOS": {
+    "Notas": [
+      8.03,
+      9.52,
+      9.59,
+      9.79,
+      9.82
+    ],
+    "Desvios": [
+      2.06,
+      1.76,
+      3.41,
+      1.58,
+      1.61
+    ],
+    "Componentes": {
+      "MAT0228 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          9.52
+        ],
+        "Desvios": [
+          2.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.52,
+        "MediaDeDesvios": 2.06,
+        "NotaMediana": 9.52
+      },
+      "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          9.59
+        ],
+        "Desvios": [
+          1.76
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.59,
+        "MediaDeDesvios": 1.76,
+        "NotaMediana": 9.59
+      },
+      "MAT0220 - CALCULO DIFERENCIAL E INTEGRAL": {
+        "Notas": [
+          8.03
+        ],
+        "Desvios": [
+          3.41
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.03,
+        "MediaDeDesvios": 3.41,
+        "NotaMediana": 8.03
+      },
+      "MAT1509 - CÁLCULO II": {
+        "Notas": [
+          9.79
+        ],
+        "Desvios": [
+          1.58
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.79,
+        "MediaDeDesvios": 1.58,
+        "NotaMediana": 9.79
+      },
+      "MAT1518 - CÁLCULO IV": {
+        "Notas": [
+          9.82
+        ],
+        "Desvios": [
+          1.61
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.82,
+        "MediaDeDesvios": 1.61,
+        "NotaMediana": 9.82
+      }
+    },
+    "DesvioDeNotas": 0.6698358007750856,
+    "MediaDeNotas": 9.35,
+    "MediaDeDesvios": 2.084,
+    "NotaMediana": 9.59
+  },
+  "AILTON RODRIGUES DA SILVA": {
+    "Notas": [
+      9.21,
+      9.84,
+      9.97
+    ],
+    "Desvios": [
+      1.49,
+      1.77,
+      0.98
+    ],
+    "Componentes": {
+      "MAT1524 - ANÁLISE REAL II": {
+        "Notas": [
+          9.97
+        ],
+        "Desvios": [
+          1.49
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.97,
+        "MediaDeDesvios": 1.49,
+        "NotaMediana": 9.97
+      },
+      "MAT1519 - ANÁLISE REAL I": {
+        "Notas": [
+          9.84
+        ],
+        "Desvios": [
+          1.77
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.84,
+        "MediaDeDesvios": 1.77,
+        "NotaMediana": 9.84
+      },
+      "MAT0011 - ANALISE MATEMATICA I": {
+        "Notas": [
+          9.21
+        ],
+        "Desvios": [
+          0.98
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.21,
+        "MediaDeDesvios": 0.98,
+        "NotaMediana": 9.21
+      }
+    },
+    "DesvioDeNotas": 0.3318969050105099,
+    "MediaDeNotas": 9.673333333333334,
+    "MediaDeDesvios": 1.4133333333333333,
+    "NotaMediana": 9.84
+  },
+  "ANTONIO DJACKSON ALVES DA SILVA": {
+    "Notas": [
+      8.65,
+      9.31
+    ],
+    "Desvios": [
+      1.83,
+      1.5
+    ],
+    "Componentes": {
+      "MAT0321 - CALCULO BASICO II": {
+        "Notas": [
+          8.65
+        ],
+        "Desvios": [
+          1.83
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.65,
+        "MediaDeDesvios": 1.83,
+        "NotaMediana": 8.65
+      },
+      "MAT1506 - FUNDAMENTOS DE GEOMETRIA II": {
+        "Notas": [
+          9.31
+        ],
+        "Desvios": [
+          1.5
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.31,
+        "MediaDeDesvios": 1.5,
+        "NotaMediana": 9.31
+      }
+    },
+    "DesvioDeNotas": 0.33000000000000007,
+    "MediaDeNotas": 8.98,
+    "MediaDeDesvios": 1.665,
+    "NotaMediana": 9.31
+  },
+  "JULY HERBERT DA SILVA MARIANO": {
+    "Notas": [
+      8.19,
+      8.63,
+      8.83,
+      9.37,
+      9.37,
+      9.5,
+      9.64,
+      9.68,
+      9.89
+    ],
+    "Desvios": [
+      2.12,
+      2.14,
+      2.04,
+      1.67,
+      2.12,
+      1.75,
+      0.67,
+      1.3,
+      1.33
+    ],
+    "Componentes": {
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          8.63
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.63,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 8.63
+      },
+      "MAT0321 - CALCULO BASICO II": {
+        "Notas": [
+          8.19,
+          9.89
+        ],
+        "Desvios": [
+          2.14,
+          0.67
+        ],
+        "DesvioDeNotas": 0.8500000000000004,
+        "MediaDeNotas": 9.04,
+        "MediaDeDesvios": 1.405,
+        "NotaMediana": 9.89
+      },
+      "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          8.83,
+          9.5,
+          9.68
+        ],
+        "Desvios": [
+          2.04,
+          1.3,
+          1.33
+        ],
+        "DesvioDeNotas": 0.36572606627851323,
+        "MediaDeNotas": 9.336666666666666,
+        "MediaDeDesvios": 1.5566666666666666,
+        "NotaMediana": 9.5
+      },
+      "MAT0345 - CALCULO DIFERENCIAL E INTEGRAL I": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.67
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.67,
+        "NotaMediana": 9.64
+      },
+      "MAT0340 - CALCULO FUNDAMENTAL I": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          2.12
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 2.12,
+        "NotaMediana": 9.37
+      },
+      "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          9.37
+        ],
+        "Desvios": [
+          1.75
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.37,
+        "MediaDeDesvios": 1.75,
+        "NotaMediana": 9.37
+      }
+    },
+    "DesvioDeNotas": 0.5291292637699958,
+    "MediaDeNotas": 9.233333333333333,
+    "MediaDeDesvios": 1.6822222222222223,
+    "NotaMediana": 9.37
+  },
+  "EDUARDO RANGEL GOMES": {
+    "Notas": [
+      8.95,
+      9.09,
+      9.49,
+      9.64,
+      9.8
+    ],
+    "Desvios": [
+      2.38,
+      2.36,
+      1.71,
+      1.39,
+      1.2
+    ],
+    "Componentes": {
+      "MAT1503 - GEOMETRIA ANALÍTICA E VETORIAL": {
+        "Notas": [
+          8.95
+        ],
+        "Desvios": [
+          2.38
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.95,
+        "MediaDeDesvios": 2.38,
+        "NotaMediana": 8.95
+      },
+      "MAT1501 - MATEMÁTICA BÁSICA": {
+        "Notas": [
+          9.09
+        ],
+        "Desvios": [
+          2.36
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.09,
+        "MediaDeDesvios": 2.36,
+        "NotaMediana": 9.09
+      },
+      "MAT0318 - CALCULO BASICO I": {
+        "Notas": [
+          9.64
+        ],
+        "Desvios": [
+          1.71
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.64,
+        "MediaDeDesvios": 1.71,
+        "NotaMediana": 9.64
+      },
+      "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          9.49
+        ],
+        "Desvios": [
+          1.39
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.49,
+        "MediaDeDesvios": 1.39,
+        "NotaMediana": 9.49
+      },
+      "MAT1506 - FUNDAMENTOS DE GEOMETRIA II": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.2,
+        "NotaMediana": 9.8
+      }
+    },
+    "DesvioDeNotas": 0.3237653471265885,
+    "MediaDeNotas": 9.394,
+    "MediaDeDesvios": 1.8079999999999998,
+    "NotaMediana": 9.49
+  },
+  "CAMILA NASCIMENTO DA SILVA": {
+    "Notas": [
+      9.32,
+      9.54,
+      9.76,
+      9.8
+    ],
+    "Desvios": [
+      1.37,
+      1.65,
+      1.24,
+      1.92
+    ],
+    "Componentes": {
+      "MAT0319 - ALGEBRA LINEAR BASICA I": {
+        "Notas": [
+          9.54
+        ],
+        "Desvios": [
+          1.37
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.54,
+        "MediaDeDesvios": 1.37,
+        "NotaMediana": 9.54
+      },
+      "MAT0321 - CALCULO BASICO II": {
+        "Notas": [
+          9.8
+        ],
+        "Desvios": [
+          1.65
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.8,
+        "MediaDeDesvios": 1.65,
+        "NotaMediana": 9.8
+      },
+      "MAT0040 - MATEMATICA PARA CIENCIAS CONTABEIS": {
+        "Notas": [
+          9.76
+        ],
+        "Desvios": [
+          1.24
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.76,
+        "MediaDeDesvios": 1.24,
+        "NotaMediana": 9.76
+      },
+      "MAT0041 - MATEMÁTICA PARA ADMINISTRAÇÃO": {
+        "Notas": [
+          9.32
+        ],
+        "Desvios": [
+          1.92
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.32,
+        "MediaDeDesvios": 1.92,
+        "NotaMediana": 9.32
+      }
+    },
+    "DesvioDeNotas": 0.1920286436967153,
+    "MediaDeNotas": 9.605,
+    "MediaDeDesvios": 1.545,
+    "NotaMediana": 9.76
+  },
+  "JOSIMARA TATIANE DA SILVA": {
+    "Notas": [
+      8.36,
+      8.76,
+      9.47
+    ],
+    "Desvios": [
+      2,
+      1.72,
+      1.44
+    ],
+    "Componentes": {
+      "MAT0344 - CALCULO PARA BIOCIENCIAS": {
+        "Notas": [
+          8.36
+        ],
+        "Desvios": [
+          2
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.36,
+        "MediaDeDesvios": 2,
+        "NotaMediana": 8.36
+      },
+      "MAT0023 - CÁLCULO I PARA ENGENHARIA DE PRODUÇÃO": {
+        "Notas": [
+          8.76
+        ],
+        "Desvios": [
+          1.72
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.76,
+        "MediaDeDesvios": 1.72,
+        "NotaMediana": 8.76
+      },
+      "MAT1506 - FUNDAMENTOS DE GEOMETRIA II": {
+        "Notas": [
+          9.47
+        ],
+        "Desvios": [
+          1.44
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.47,
+        "MediaDeDesvios": 1.44,
+        "NotaMediana": 9.47
+      }
+    },
+    "DesvioDeNotas": 0.4590085934804373,
+    "MediaDeNotas": 8.863333333333332,
+    "MediaDeDesvios": 1.72,
+    "NotaMediana": 8.76
+  },
+  "MARCELO FERREIRA SIQUEIRA": {
+    "Notas": [
+      7.43,
+      8.5,
+      9.55
+    ],
+    "Desvios": [
+      3.06,
+      2.08,
+      1.55
+    ],
+    "Componentes": {
+      "MAT0321 - CALCULO BASICO II": {
+        "Notas": [
+          7.43
+        ],
+        "Desvios": [
+          3.06
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 7.43,
+        "MediaDeDesvios": 3.06,
+        "NotaMediana": 7.43
+      },
+      "MAT0346 - CALCULO DIFERENCIAL E INTEGRAL II": {
+        "Notas": [
+          8.5
+        ],
+        "Desvios": [
+          2.08
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 8.5,
+        "MediaDeDesvios": 2.08,
+        "NotaMediana": 8.5
+      },
+      "MAT1506 - FUNDAMENTOS DE GEOMETRIA II": {
+        "Notas": [
+          9.55
+        ],
+        "Desvios": [
+          1.55
+        ],
+        "DesvioDeNotas": 0,
+        "MediaDeNotas": 9.55,
+        "MediaDeDesvios": 1.55,
+        "NotaMediana": 9.55
+      }
+    },
+    "DesvioDeNotas": 0.8654992136847321,
+    "MediaDeNotas": 8.493333333333334,
+    "MediaDeDesvios": 2.23,
+    "NotaMediana": 8.5
+  }
+}

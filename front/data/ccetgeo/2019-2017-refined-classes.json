@@ -1,0 +1,1511 @@
+{
+  "GEO0042 - ELEMENTOS DE GEOLOGIA": {
+    "Notas": [
+      5.56,
+      6.43,
+      7.32,
+      7.53,
+      7.97,
+      8.02,
+      8.31,
+      8.48,
+      8.82,
+      9.1,
+      9.19,
+      9.19,
+      9.47,
+      9.61,
+      9.62,
+      9.63,
+      9.7,
+      9.78
+    ],
+    "Desvios": [
+      1.61,
+      1.74,
+      1.54,
+      2.06,
+      2.52,
+      2.94,
+      1.13,
+      2.98,
+      3.01,
+      1.79,
+      2.06,
+      1.79,
+      2.21,
+      3.08,
+      2.29,
+      2.33,
+      2.1,
+      1.85
+    ],
+    "Docentes": [
+      "ALEX FRANCISCO ANTUNES",
+      "DAVID LOPES DE CASTRO",
+      "DEBORA DO CARMO SOUSA",
+      "JOSE BRAZ DINIZ FILHO",
+      "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+      "VANILDO PEREIRA DA FONSECA",
+      "MICHAEL VANDESTEEN SILVA SOUTO"
+    ],
+    "DesvioDeNotas": 1.1779760053310944,
+    "MediaDeNotas": 8.540555555555555,
+    "MediaDeDesvios": 2.1683333333333334,
+    "NotaMediana": 9.1
+  },
+  "GEO0306 - GEOLOGIA ESTRUTURAL I": {
+    "Notas": [
+      9.15,
+      9.47,
+      9.66,
+      9.73
+    ],
+    "Desvios": [
+      1.43,
+      1.18,
+      2.2,
+      1.67
+    ],
+    "Docentes": [
+      "ALEX FRANCISCO ANTUNES",
+      "EMANUEL FERRAZ JARDIM DE SA"
+    ],
+    "DesvioDeNotas": 0.2246525094451428,
+    "MediaDeNotas": 9.5025,
+    "MediaDeDesvios": 1.62,
+    "NotaMediana": 9.66
+  },
+  "GEO0401 - INTRODUCAO AOS METODOS SISMICOS": {
+    "Notas": [
+      9.72,
+      9.9
+    ],
+    "Desvios": [
+      1.13,
+      0.63
+    ],
+    "Docentes": [
+      "ALEX FRANCISCO ANTUNES"
+    ],
+    "DesvioDeNotas": 0.08999999999999986,
+    "MediaDeNotas": 9.81,
+    "MediaDeDesvios": 0.8799999999999999,
+    "NotaMediana": 9.9
+  },
+  "GEO0424 - GEOLOGIA DAS BACIAS SEDIMENTARES BRASILEIRAS": {
+    "Notas": [
+      8.25,
+      9.1
+    ],
+    "Desvios": [
+      2.73,
+      1.56
+    ],
+    "Docentes": [
+      "DEBORA DO CARMO SOUSA"
+    ],
+    "DesvioDeNotas": 0.4249999999999998,
+    "MediaDeNotas": 8.675,
+    "MediaDeDesvios": 2.145,
+    "NotaMediana": 9.1
+  },
+  "GEO0416 - GEOLOGIA DE CAMPO III": {
+    "Notas": [
+      8.91,
+      9.02,
+      9.52,
+      9.85,
+      9.99
+    ],
+    "Desvios": [
+      0.99,
+      1.58,
+      1.94,
+      0.64,
+      1.01
+    ],
+    "Docentes": [
+      "EMANUEL FERRAZ JARDIM DE SA",
+      "FERNANDO CESAR ALVES DA SILVA",
+      "LAECIO CUNHA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.4318981361386039,
+    "MediaDeNotas": 9.457999999999998,
+    "MediaDeDesvios": 1.2319999999999998,
+    "NotaMediana": 9.52
+  },
+  "GEO0327 - GEOTECTONICA E GEOCRONOLOGIA": {
+    "Notas": [
+      7.86,
+      8.25,
+      9.29,
+      9.56
+    ],
+    "Desvios": [
+      1.6,
+      1.42,
+      2.59,
+      3.15
+    ],
+    "Docentes": [
+      "FERNANDO CESAR ALVES DA SILVA",
+      "ZORANO SERGIO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.7052304587863458,
+    "MediaDeNotas": 8.74,
+    "MediaDeDesvios": 2.19,
+    "NotaMediana": 9.29
+  },
+  "GEO0610 - FUNDAMENTOS DE GEOLOGIA ESTRUTURAL": {
+    "Notas": [
+      6.64,
+      7.19,
+      8.75,
+      8.79
+    ],
+    "Desvios": [
+      2.08,
+      1.95,
+      3,
+      2.77
+    ],
+    "Docentes": [
+      "FRANCISCO HILARIO REGO BEZERRA",
+      "FRANCISCO OLIVEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.9477704099622438,
+    "MediaDeNotas": 7.8425,
+    "MediaDeDesvios": 2.45,
+    "NotaMediana": 8.75
+  },
+  "GEO0304 - SENSORIAMENTO REMOTO": {
+    "Notas": [
+      8,
+      8.46,
+      8.67,
+      9.22,
+      9.36
+    ],
+    "Desvios": [
+      1.51,
+      2.12,
+      1.22,
+      1.56,
+      2.5
+    ],
+    "Docentes": [
+      "FRANCISCO HILARIO REGO BEZERRA",
+      "MICHAEL VANDESTEEN SILVA SOUTO"
+    ],
+    "DesvioDeNotas": 0.49913525221126176,
+    "MediaDeNotas": 8.742,
+    "MediaDeDesvios": 1.782,
+    "NotaMediana": 8.67
+  },
+  "GEO0419 - GEOLOGIA DE CAMPO V": {
+    "Notas": [
+      8.54,
+      8.67,
+      8.78,
+      8.99,
+      9.34,
+      9.36
+    ],
+    "Desvios": [
+      1.6,
+      1.12,
+      1.72,
+      1.92,
+      1.95,
+      1.49
+    ],
+    "Docentes": [
+      "FRANCISCO OLIVEIRA DA SILVA",
+      "HEITOR NEVES MAIA",
+      "LAECIO CUNHA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.3154714285354892,
+    "MediaDeNotas": 8.946666666666667,
+    "MediaDeDesvios": 1.6333333333333335,
+    "NotaMediana": 8.99
+  },
+  "GEO0442 - GEOLOGIA GERAL I": {
+    "Notas": [
+      9.04,
+      9.24,
+      9.33,
+      9.4,
+      9.43,
+      9.63
+    ],
+    "Desvios": [
+      2.07,
+      1.69,
+      2.3,
+      1.7,
+      1.8,
+      1.81
+    ],
+    "Docentes": [
+      "FRANCISCO OLIVEIRA DA SILVA",
+      "FRANCISCO PINHEIRO LIMA FILHO",
+      "VANILDO PEREIRA DA FONSECA"
+    ],
+    "DesvioDeNotas": 0.18062391868188485,
+    "MediaDeNotas": 9.345,
+    "MediaDeDesvios": 1.8950000000000002,
+    "NotaMediana": 9.4
+  },
+  "GEO0447 - RECURSOS MINERAIS METÁLICOS": {
+    "Notas": [
+      9.02,
+      9.41
+    ],
+    "Desvios": [
+      1.29,
+      2.05
+    ],
+    "Docentes": [
+      "FRANCISCO OLIVEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.19500000000000028,
+    "MediaDeNotas": 9.215,
+    "MediaDeDesvios": 1.67,
+    "NotaMediana": 9.41
+  },
+  "GEO0445 - TÓPICOS ESPECIAIS EM GEOLOGIA I": {
+    "Notas": [
+      8.18,
+      8.39,
+      9.58
+    ],
+    "Desvios": [
+      1.28,
+      2.31,
+      1.98
+    ],
+    "Docentes": [
+      "FRANCISCO PINHEIRO LIMA FILHO",
+      "RICARDO GUIMARAES SALLET"
+    ],
+    "DesvioDeNotas": 0.6164594246357357,
+    "MediaDeNotas": 8.716666666666667,
+    "MediaDeDesvios": 1.8566666666666667,
+    "NotaMediana": 8.39
+  },
+  "GEO0422 - INTRODUÇÃO A MINERALOGIA E PETROGRAFIA": {
+    "Notas": [
+      9.48,
+      9.59,
+      9.7,
+      9.88
+    ],
+    "Desvios": [
+      2.2,
+      1.43,
+      2.12,
+      1.69
+    ],
+    "Docentes": [
+      "FREDERICO CASTRO JOBIM VILALVA"
+    ],
+    "DesvioDeNotas": 0.14771171246722462,
+    "MediaDeNotas": 9.662500000000001,
+    "MediaDeDesvios": 1.8599999999999999,
+    "NotaMediana": 9.7
+  },
+  "GEO0371 - PETROLOGIA IGNEA II": {
+    "Notas": [
+      10,
+      9.73,
+      9.85,
+      9.91
+    ],
+    "Desvios": [
+      0.17,
+      0.53,
+      0.82,
+      1.2
+    ],
+    "Docentes": [
+      "FREDERICO CASTRO JOBIM VILALVA",
+      "MARCOS ANTONIO LEITE DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.09807522622966504,
+    "MediaDeNotas": 9.872499999999999,
+    "MediaDeDesvios": 0.6799999999999999,
+    "NotaMediana": 9.85
+  },
+  "GEO0407 - GEOQUÍMICA": {
+    "Notas": [
+      7.84,
+      8.48,
+      9.65
+    ],
+    "Desvios": [
+      2.6,
+      1.09,
+      3.25
+    ],
+    "Docentes": [
+      "GERMANO MELO JUNIOR",
+      "RICARDO GUIMARAES SALLET"
+    ],
+    "DesvioDeNotas": 0.7494145863420477,
+    "MediaDeNotas": 8.656666666666668,
+    "MediaDeDesvios": 2.3133333333333335,
+    "NotaMediana": 8.48
+  },
+  "GEO0448 - GEOLOGIA INTRODUTÓRIA": {
+    "Notas": [
+      8.77,
+      9.23
+    ],
+    "Desvios": [
+      2.1,
+      2.15
+    ],
+    "Docentes": [
+      "HEITOR NEVES MAIA"
+    ],
+    "DesvioDeNotas": 0.23000000000000043,
+    "MediaDeNotas": 9,
+    "MediaDeDesvios": 2.125,
+    "NotaMediana": 9.23
+  },
+  "GEO0580 - GEOLOGIA MARINHA": {
+    "Notas": [
+      9.57,
+      9.65
+    ],
+    "Desvios": [
+      1.29,
+      1.36
+    ],
+    "Docentes": [
+      "HELENICE VITAL",
+      "MOAB PRAXEDES GOMES"
+    ],
+    "DesvioDeNotas": 0.040000000000000036,
+    "MediaDeNotas": 9.61,
+    "MediaDeDesvios": 1.3250000000000002,
+    "NotaMediana": 9.65
+  },
+  "GEO0450 - TÓPICOS ESPECIAIS EM GEOLOGIA II": {
+    "Notas": [
+      8.48,
+      9.37,
+      9.51,
+      9.57,
+      9.7,
+      9.77
+    ],
+    "Desvios": [
+      1.14,
+      2.84,
+      1.46,
+      1.39,
+      0.98,
+      1.35
+    ],
+    "Docentes": [
+      "HELENICE VITAL",
+      "GERMANO MELO JUNIOR",
+      "VANILDO PEREIRA DA FONSECA",
+      "PAULO ROBERTO CORDEIRO DE FARIAS"
+    ],
+    "DesvioDeNotas": 0.4311225657126595,
+    "MediaDeNotas": 9.4,
+    "MediaDeDesvios": 1.5266666666666664,
+    "NotaMediana": 9.57
+  },
+  "GEO0382 - GEOLOGIA DE ENGENHARIA I": {
+    "Notas": [
+      8.72,
+      8.98,
+      9.02,
+      9.06,
+      9.17,
+      9.2,
+      9.22,
+      9.25,
+      9.52,
+      9.55,
+      9.63
+    ],
+    "Desvios": [
+      1.25,
+      1.54,
+      1.22,
+      1.1,
+      0.95,
+      1.65,
+      1.5,
+      1.51,
+      1.52,
+      1.81,
+      1.4
+    ],
+    "Docentes": [
+      "JOSE BRAZ DINIZ FILHO",
+      "RICARDO FARIAS DO AMARAL",
+      "VANILDO PEREIRA DA FONSECA",
+      "HEITOR NEVES MAIA"
+    ],
+    "DesvioDeNotas": 0.2599109828542543,
+    "MediaDeNotas": 9.210909090909091,
+    "MediaDeDesvios": 1.4045454545454545,
+    "NotaMediana": 9.2
+  },
+  "DGE0230 - GEOQUIMICA PARA AMBIENTES EXOGENOS": {
+    "Notas": [
+      8.46,
+      9.12
+    ],
+    "Desvios": [
+      1.76,
+      2.08
+    ],
+    "Docentes": [
+      "LAECIO CUNHA DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.3299999999999992,
+    "MediaDeNotas": 8.79,
+    "MediaDeDesvios": 1.92,
+    "NotaMediana": 9.12
+  },
+  "GEO0601 - FUNDAMENTOS DE PETROLOGIA": {
+    "Notas": [
+      9.52,
+      9.82
+    ],
+    "Desvios": [
+      1.5,
+      1.58
+    ],
+    "Docentes": [
+      "MARCOS ANTONIO LEITE DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.15000000000000036,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.54,
+    "NotaMediana": 9.82
+  },
+  "GEO0449 - TÓPICOS AVANÇADOS EM GEOLOGIA I": {
+    "Notas": [
+      8.72,
+      9.18,
+      9.94
+    ],
+    "Desvios": [
+      0.31,
+      1.73,
+      1.53
+    ],
+    "Docentes": [
+      "MARCOS ANTONIO LEITE DO NASCIMENTO",
+      "ZORANO SERGIO DE SOUZA",
+      "JOSE BRAZ DINIZ FILHO"
+    ],
+    "DesvioDeNotas": 0.503057319464359,
+    "MediaDeNotas": 9.28,
+    "MediaDeDesvios": 1.1900000000000002,
+    "NotaMediana": 9.18
+  },
+  "GEO0451 - TÓPICOS AVANÇADOS EM GEOLOGIA II": {
+    "Notas": [
+      8.05,
+      9.3,
+      9.37
+    ],
+    "Desvios": [
+      1.42,
+      1.56,
+      1.81
+    ],
+    "Docentes": [
+      "MARCOS ANTONIO LEITE DO NASCIMENTO",
+      "HELENICE VITAL"
+    ],
+    "DesvioDeNotas": 0.6064285246882398,
+    "MediaDeNotas": 8.906666666666668,
+    "MediaDeDesvios": 1.5966666666666667,
+    "NotaMediana": 9.3
+  },
+  "GEO0351 - PROCESSAMENTO DIGITAL DE IMAGENS": {
+    "Notas": [
+      8.74,
+      9.22
+    ],
+    "Desvios": [
+      1.91,
+      1.75
+    ],
+    "Docentes": [
+      "MICHAEL VANDESTEEN SILVA SOUTO"
+    ],
+    "DesvioDeNotas": 0.2400000000000002,
+    "MediaDeNotas": 8.98,
+    "MediaDeDesvios": 1.83,
+    "NotaMediana": 9.22
+  },
+  "GEO0361 - BIOESTRATIGRAFIA": {
+    "Notas": [
+      8.84,
+      9.02
+    ],
+    "Desvios": [
+      1.2,
+      1.62
+    ],
+    "Docentes": [
+      "NARENDRA KUMAR SRIVASTAVA"
+    ],
+    "DesvioDeNotas": 0.08999999999999986,
+    "MediaDeNotas": 8.93,
+    "MediaDeDesvios": 1.4100000000000001,
+    "NotaMediana": 9.02
+  },
+  "GEO0043 - MINERALOGIA APLICADA": {
+    "Notas": [
+      8.07,
+      8.35,
+      9.56,
+      9.85,
+      9.85,
+      9.86,
+      9.92
+    ],
+    "Desvios": [
+      2.45,
+      1.6,
+      1.43,
+      1.51,
+      1.54,
+      0.87,
+      1.12
+    ],
+    "Docentes": [
+      "ORLANDO AUGUSTO DE FIGUEIREDO FILHO",
+      "RAQUEL FRANCO DE SOUZA",
+      "FREDERICO CASTRO JOBIM VILALVA"
+    ],
+    "DesvioDeNotas": 0.7336295011093535,
+    "MediaDeNotas": 9.351428571428572,
+    "MediaDeDesvios": 1.502857142857143,
+    "NotaMediana": 9.85
+  },
+  "GEO0023 - PEDOLOGIA": {
+    "Notas": [
+      5.57,
+      7.74
+    ],
+    "Desvios": [
+      2.62,
+      2.58
+    ],
+    "Docentes": [
+      "ORLANDO AUGUSTO DE FIGUEIREDO FILHO"
+    ],
+    "DesvioDeNotas": 1.085,
+    "MediaDeNotas": 6.655,
+    "MediaDeDesvios": 2.6,
+    "NotaMediana": 7.74
+  },
+  "GEO0354 - MINERALOGIA DE MINERAIS OPACOS": {
+    "Notas": [
+      9.04,
+      9.46,
+      9.59,
+      9.87,
+      9.89
+    ],
+    "Desvios": [
+      1.06,
+      1.93,
+      1.58,
+      0.73,
+      0.89
+    ],
+    "Docentes": [
+      "RAQUEL FRANCO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.3117049887313325,
+    "MediaDeNotas": 9.569999999999999,
+    "MediaDeDesvios": 1.238,
+    "NotaMediana": 9.59
+  },
+  "GEO0311 - GEOMORFOLOGIA": {
+    "Notas": [
+      6.85,
+      8.38,
+      8.62,
+      8.68
+    ],
+    "Desvios": [
+      1.81,
+      2.85,
+      2.18,
+      2.23
+    ],
+    "Docentes": [
+      "RICARDO FARIAS DO AMARAL",
+      "VANILDO PEREIRA DA FONSECA"
+    ],
+    "DesvioDeNotas": 0.7489117104171893,
+    "MediaDeNotas": 8.1325,
+    "MediaDeDesvios": 2.2675,
+    "NotaMediana": 8.62
+  },
+  "GEO0016 - RECURSOS ENERGETICOS": {
+    "Notas": [
+      8.03,
+      8.32
+    ],
+    "Desvios": [
+      2.36,
+      2.17
+    ],
+    "Docentes": [
+      "RICARDO GUIMARAES SALLET"
+    ],
+    "DesvioDeNotas": 0.14500000000000046,
+    "MediaDeNotas": 8.175,
+    "MediaDeDesvios": 2.2649999999999997,
+    "NotaMediana": 8.32
+  },
+  "GEO0446 - RECURSOS MINERAIS INDUSTRIAIS": {
+    "Notas": [
+      8.09,
+      8.22
+    ],
+    "Desvios": [
+      2.61,
+      2.26
+    ],
+    "Docentes": [
+      "RICARDO GUIMARAES SALLET"
+    ],
+    "DesvioDeNotas": 0.06500000000000039,
+    "MediaDeNotas": 8.155000000000001,
+    "MediaDeDesvios": 2.4349999999999996,
+    "NotaMediana": 8.22
+  },
+  "GEO0312 - ESTRATIGRAFIA": {
+    "Notas": [
+      9.18,
+      9.55
+    ],
+    "Desvios": [
+      1.3,
+      1.77
+    ],
+    "Docentes": [
+      "VALERIA CENTURION CORDOBA"
+    ],
+    "DesvioDeNotas": 0.1850000000000005,
+    "MediaDeNotas": 9.365,
+    "MediaDeDesvios": 1.5350000000000001,
+    "NotaMediana": 9.55
+  },
+  "GEO0394 - GESTAO AMBIENTAL": {
+    "Notas": [
+      8.97
+    ],
+    "Desvios": [
+      1.85
+    ],
+    "Docentes": [
+      "VANILDO PEREIRA DA FONSECA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 8.97,
+    "MediaDeDesvios": 1.85,
+    "NotaMediana": 8.97
+  },
+  "GEO0004 - OTICA CRISTALINA": {
+    "Notas": [
+      9.02,
+      9.25,
+      9.26,
+      9.34,
+      9.41
+    ],
+    "Desvios": [
+      1.9,
+      1.5,
+      1.84,
+      1.81,
+      1.99
+    ],
+    "Docentes": [
+      "ZORANO SERGIO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.13154466921924293,
+    "MediaDeNotas": 9.256,
+    "MediaDeDesvios": 1.8080000000000003,
+    "NotaMediana": 9.26
+  },
+  "GEO0406 - DESENHO GEOLÓGICO": {
+    "Notas": [
+      9.2,
+      9.56
+    ],
+    "Desvios": [
+      1.34,
+      1.79
+    ],
+    "Docentes": [
+      "ALEX FRANCISCO ANTUNES"
+    ],
+    "DesvioDeNotas": 0.1800000000000006,
+    "MediaDeNotas": 9.379999999999999,
+    "MediaDeDesvios": 1.565,
+    "NotaMediana": 9.56
+  },
+  "GEO0608 - DESENHO GEOLÓGICO": {
+    "Notas": [
+      9.15,
+      9.56,
+      9.57
+    ],
+    "Desvios": [
+      2.43,
+      2.04,
+      1.33
+    ],
+    "Docentes": [
+      "ALEX FRANCISCO ANTUNES",
+      "MARCELA MARQUES VIEIRA"
+    ],
+    "DesvioDeNotas": 0.19567546828585564,
+    "MediaDeNotas": 9.426666666666668,
+    "MediaDeDesvios": 1.9333333333333336,
+    "NotaMediana": 9.56
+  },
+  "GEO0609 - GEOLOGIA DE CAMPO": {
+    "Notas": [
+      8.55,
+      8.99,
+      9.16,
+      9.45,
+      9.69
+    ],
+    "Desvios": [
+      2.35,
+      1.76,
+      1,
+      1.67,
+      1.7
+    ],
+    "Docentes": [
+      "ALEX FRANCISCO ANTUNES",
+      "DEBORA DO CARMO SOUSA",
+      "MARCELA MARQUES VIEIRA"
+    ],
+    "DesvioDeNotas": 0.3913259510944804,
+    "MediaDeNotas": 9.167999999999997,
+    "MediaDeDesvios": 1.6960000000000002,
+    "NotaMediana": 9.16
+  },
+  "GEO0410 - GEOFÍSICA": {
+    "Notas": [
+      8.95,
+      9.11
+    ],
+    "Desvios": [
+      2.1,
+      1.96
+    ],
+    "Docentes": [
+      "DAVID LOPES DE CASTRO"
+    ],
+    "DesvioDeNotas": 0.08000000000000007,
+    "MediaDeNotas": 9.03,
+    "MediaDeDesvios": 2.0300000000000002,
+    "NotaMediana": 9.11
+  },
+  "GEO0334 - PROSPECCAO": {
+    "Notas": [
+      8.11,
+      8.17,
+      8.57,
+      8.91,
+      9.56,
+      9.58
+    ],
+    "Desvios": [
+      2.5,
+      2.54,
+      2.66,
+      1.32,
+      1.36,
+      1.61
+    ],
+    "Docentes": [
+      "DAVID LOPES DE CASTRO",
+      "FRANCISCO OLIVEIRA DA SILVA",
+      "GERMANO MELO JUNIOR",
+      "HEITOR NEVES MAIA"
+    ],
+    "DesvioDeNotas": 0.5947455104683199,
+    "MediaDeNotas": 8.816666666666668,
+    "MediaDeDesvios": 1.998333333333333,
+    "NotaMediana": 8.91
+  },
+  "GEO0602 - FUNDAMENTOS DE SEDIMENTOLOGIA E ESTRATIGRAFIA": {
+    "Notas": [
+      9.48,
+      9.61,
+      9.68,
+      9.72
+    ],
+    "Desvios": [
+      1.38,
+      1.52,
+      1.16,
+      1.03
+    ],
+    "Docentes": [
+      "DEBORA DO CARMO SOUSA",
+      "MARCELA MARQUES VIEIRA"
+    ],
+    "DesvioDeNotas": 0.09120718173477348,
+    "MediaDeNotas": 9.622499999999999,
+    "MediaDeDesvios": 1.2725,
+    "NotaMediana": 9.68
+  },
+  "GEO0021 - GEOLOGIA DO BRASIL": {
+    "Notas": [
+      8.5,
+      8.55,
+      8.91,
+      9.38
+    ],
+    "Desvios": [
+      2.16,
+      2.35,
+      1.68,
+      1.52
+    ],
+    "Docentes": [
+      "DEBORA DO CARMO SOUSA",
+      "FERNANDO CESAR ALVES DA SILVA"
+    ],
+    "DesvioDeNotas": 0.35217183305880684,
+    "MediaDeNotas": 8.835,
+    "MediaDeDesvios": 1.9274999999999998,
+    "NotaMediana": 8.91
+  },
+  "GEO0363 - SISTEMAS DEPOSICIONAIS": {
+    "Notas": [
+      7.79,
+      8.5,
+      8.82,
+      9.1,
+      9.29
+    ],
+    "Desvios": [
+      1.96,
+      1.7,
+      1.72,
+      1.64,
+      1.3
+    ],
+    "Docentes": [
+      "DEBORA DO CARMO SOUSA",
+      "VALERIA CENTURION CORDOBA"
+    ],
+    "DesvioDeNotas": 0.5273708372672874,
+    "MediaDeNotas": 8.7,
+    "MediaDeDesvios": 1.6640000000000001,
+    "NotaMediana": 8.82
+  },
+  "GEO0444 - GEOLOGIA DE CAMPO II": {
+    "Notas": [
+      10,
+      8.97,
+      9.09,
+      9.44,
+      9.54
+    ],
+    "Desvios": [
+      1.09,
+      0.28,
+      0.95,
+      1.61,
+      1.54
+    ],
+    "Docentes": [
+      "EMANUEL FERRAZ JARDIM DE SA",
+      "MARCELA MARQUES VIEIRA",
+      "FRANCISCO HILARIO REGO BEZERRA",
+      "FRANCISCO PINHEIRO LIMA FILHO",
+      "NARENDRA KUMAR SRIVASTAVA"
+    ],
+    "DesvioDeNotas": 0.36383512749595776,
+    "MediaDeNotas": 9.407999999999998,
+    "MediaDeDesvios": 1.094,
+    "NotaMediana": 9.09
+  },
+  "GEO0418 - GEOLOGIA DE CAMPO IV": {
+    "Notas": [
+      7.13,
+      8.98,
+      9,
+      9.23,
+      9.37,
+      9.39
+    ],
+    "Desvios": [
+      2.43,
+      1.74,
+      2.42,
+      1.19,
+      1.61,
+      1.08
+    ],
+    "Docentes": [
+      "FERNANDO CESAR ALVES DA SILVA",
+      "FRANCISCO OLIVEIRA DA SILVA",
+      "ZORANO SERGIO DE SOUZA",
+      "JAZIEL MARTINS SA"
+    ],
+    "DesvioDeNotas": 0.7857268397265469,
+    "MediaDeNotas": 8.85,
+    "MediaDeDesvios": 1.7449999999999999,
+    "NotaMediana": 9.23
+  },
+  "GEO0443 - GEOLOGIA GERAL II": {
+    "Notas": [
+      6.77,
+      7.21,
+      9.15,
+      9.4
+    ],
+    "Desvios": [
+      2.88,
+      2.62,
+      1.4,
+      1.59
+    ],
+    "Docentes": [
+      "FRANCISCO OLIVEIRA DA SILVA",
+      "VANILDO PEREIRA DA FONSECA"
+    ],
+    "DesvioDeNotas": 1.156424986758761,
+    "MediaDeNotas": 8.1325,
+    "MediaDeDesvios": 2.1225,
+    "NotaMediana": 9.15
+  },
+  "GEO0352 - GEOQUIMICA DE MINERALIZACOES HIDROTERMAIS": {
+    "Notas": [
+      8.43,
+      9.07
+    ],
+    "Desvios": [
+      2.1,
+      1.51
+    ],
+    "Docentes": [
+      "FRANCISCO OLIVEIRA DA SILVA"
+    ],
+    "DesvioDeNotas": 0.3200000000000003,
+    "MediaDeNotas": 8.75,
+    "MediaDeDesvios": 1.8050000000000002,
+    "NotaMediana": 9.07
+  },
+  "GEO0320 - SEDIMENTOLOGIA": {
+    "Notas": [
+      8.4,
+      8.82
+    ],
+    "Desvios": [
+      1.52,
+      2.14
+    ],
+    "Docentes": [
+      "FRANCISCO PINHEIRO LIMA FILHO"
+    ],
+    "DesvioDeNotas": 0.20999999999999996,
+    "MediaDeNotas": 8.61,
+    "MediaDeDesvios": 1.83,
+    "NotaMediana": 8.82
+  },
+  "GEO0404 - MINERALOGIA": {
+    "Notas": [
+      10,
+      9.8,
+      9.84,
+      9.97,
+      9.97,
+      9.97,
+      9.98,
+      9.99
+    ],
+    "Desvios": [
+      0.77,
+      0.71,
+      1.07,
+      0.72,
+      0.76,
+      0.76,
+      0.8,
+      0.86
+    ],
+    "Docentes": [
+      "FREDERICO CASTRO JOBIM VILALVA",
+      "RAQUEL FRANCO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.07071067811865475,
+    "MediaDeNotas": 9.94,
+    "MediaDeDesvios": 0.8062499999999999,
+    "NotaMediana": 9.97
+  },
+  "GEO0325 - PETROLOGIA IGNEA I": {
+    "Notas": [
+      9.44,
+      9.51,
+      9.6,
+      9.7,
+      9.88,
+      9.91,
+      9.92
+    ],
+    "Desvios": [
+      1.15,
+      1.19,
+      0.57,
+      0.81,
+      0.75,
+      1.04,
+      1.48
+    ],
+    "Docentes": [
+      "FREDERICO CASTRO JOBIM VILALVA",
+      "MARCOS ANTONIO LEITE DO NASCIMENTO",
+      "ZORANO SERGIO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0.18442408979837555,
+    "MediaDeNotas": 9.708571428571428,
+    "MediaDeDesvios": 0.9985714285714286,
+    "NotaMediana": 9.7
+  },
+  "GEO0423 - GEOQUÍMICA DO PETRÓLEO": {
+    "Notas": [
+      8.46,
+      9.78
+    ],
+    "Desvios": [
+      2.65,
+      1.29
+    ],
+    "Docentes": [
+      "GERMANO MELO JUNIOR"
+    ],
+    "DesvioDeNotas": 0.6599999999999993,
+    "MediaDeNotas": 9.120000000000001,
+    "MediaDeDesvios": 1.97,
+    "NotaMediana": 9.78
+  },
+  "GEO0408 - GEOLOGIA DE CAMPO I": {
+    "Notas": [
+      9.07,
+      9.4,
+      9.63,
+      9.66,
+      9.77,
+      9.78
+    ],
+    "Desvios": [
+      1.4,
+      1.47,
+      1.17,
+      0.91,
+      1.07,
+      1.25
+    ],
+    "Docentes": [
+      "HEITOR NEVES MAIA",
+      "LAECIO CUNHA DE SOUZA",
+      "NARENDRA KUMAR SRIVASTAVA"
+    ],
+    "DesvioDeNotas": 0.24922658142519383,
+    "MediaDeNotas": 9.551666666666668,
+    "MediaDeDesvios": 1.2116666666666667,
+    "NotaMediana": 9.66
+  },
+  "GEO0308 - GEOLOGIA AMBIENTAL I": {
+    "Notas": [
+      9.22,
+      9.48,
+      9.55
+    ],
+    "Desvios": [
+      1.57,
+      1.11,
+      1.53
+    ],
+    "Docentes": [
+      "HELENICE VITAL",
+      "RICARDO FARIAS DO AMARAL"
+    ],
+    "DesvioDeNotas": 0.141970262926979,
+    "MediaDeNotas": 9.416666666666668,
+    "MediaDeDesvios": 1.4033333333333333,
+    "NotaMediana": 9.48
+  },
+  "GEO0415 - HIDROGEOLOGIA": {
+    "Notas": [
+      8.07,
+      9.09,
+      9.51,
+      9.99
+    ],
+    "Desvios": [
+      0.95,
+      2.75,
+      1.43,
+      1.15
+    ],
+    "Docentes": [
+      "JOSE BRAZ DINIZ FILHO",
+      "JOSE GERALDO DE MELO"
+    ],
+    "DesvioDeNotas": 0.7078665128398149,
+    "MediaDeNotas": 9.165,
+    "MediaDeDesvios": 1.5699999999999998,
+    "NotaMediana": 9.51
+  },
+  "GEO0069 - TÓPICOS EM GEOLOGIA PARA ECOLOGIA": {
+    "Notas": [
+      7.59,
+      7.78,
+      8.3
+    ],
+    "Desvios": [
+      2.72,
+      3.01,
+      2.05
+    ],
+    "Docentes": [
+      "JOSE BRAZ DINIZ FILHO",
+      "MICHAEL VANDESTEEN SILVA SOUTO",
+      "RICARDO FARIAS DO AMARAL"
+    ],
+    "DesvioDeNotas": 0.30011109054259705,
+    "MediaDeNotas": 7.890000000000001,
+    "MediaDeDesvios": 2.5933333333333333,
+    "NotaMediana": 7.78
+  },
+  "GEO0405 - PETROGRAFIA": {
+    "Notas": [
+      8.11,
+      9.04,
+      9.09,
+      9.18,
+      9.18,
+      9.22,
+      9.38,
+      9.4,
+      9.44,
+      9.44,
+      9.47,
+      9.69,
+      9.74,
+      9.88,
+      9.93
+    ],
+    "Desvios": [
+      1.07,
+      1.75,
+      1.55,
+      1.43,
+      1.06,
+      1.44,
+      1.32,
+      2.13,
+      1.28,
+      1.48,
+      1.21,
+      0.99,
+      0.87,
+      1.65,
+      1.69
+    ],
+    "Docentes": [
+      "LAECIO CUNHA DE SOUZA",
+      "MARCELA MARQUES VIEIRA",
+      "MARCOS ANTONIO LEITE DO NASCIMENTO",
+      "ZORANO SERGIO DE SOUZA",
+      "JAZIEL MARTINS SA"
+    ],
+    "DesvioDeNotas": 0.4238521754888924,
+    "MediaDeNotas": 9.346,
+    "MediaDeDesvios": 1.3946666666666665,
+    "NotaMediana": 9.4
+  },
+  "GEO0326 - PETROLOGIA METAMORFICA I": {
+    "Notas": [
+      7.78,
+      8.05,
+      9.15,
+      9.63,
+      9.91
+    ],
+    "Desvios": [
+      1.61,
+      1.13,
+      2.42,
+      1.97,
+      0.42
+    ],
+    "Docentes": [
+      "LAECIO CUNHA DE SOUZA",
+      "MARCOS ANTONIO LEITE DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0.8476225575101219,
+    "MediaDeNotas": 8.904,
+    "MediaDeDesvios": 1.51,
+    "NotaMediana": 9.15
+  },
+  "GEO0524 - GEODIVERSIDADE E GEOCONSERVAÇÃO": {
+    "Notas": [
+      9.42
+    ],
+    "Desvios": [
+      1.69
+    ],
+    "Docentes": [
+      "MARCOS ANTONIO LEITE DO NASCIMENTO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.42,
+    "MediaDeDesvios": 1.69,
+    "NotaMediana": 9.42
+  },
+  "GEO0365 - ANALISE DE BACIAS": {
+    "Notas": [
+      9.67
+    ],
+    "Desvios": [
+      1.14
+    ],
+    "Docentes": [
+      "PAULO ROBERTO CORDEIRO DE FARIAS"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.67,
+    "MediaDeDesvios": 1.14,
+    "NotaMediana": 9.67
+  },
+  "GEO0032 - GEOLOGIA DO PETROLEO": {
+    "Notas": [
+      8.92,
+      9.75
+    ],
+    "Desvios": [
+      1.79,
+      1.58
+    ],
+    "Docentes": [
+      "PAULO ROBERTO CORDEIRO DE FARIAS"
+    ],
+    "DesvioDeNotas": 0.41500000000000004,
+    "MediaDeNotas": 9.335,
+    "MediaDeDesvios": 1.685,
+    "NotaMediana": 9.75
+  },
+  "GEO0364 - GEOLOGIA DAS ARGILAS": {
+    "Notas": [
+      8.2,
+      8.63
+    ],
+    "Desvios": [
+      1.67,
+      1.78
+    ],
+    "Docentes": [
+      "RICARDO GUIMARAES SALLET"
+    ],
+    "DesvioDeNotas": 0.21500000000000075,
+    "MediaDeNotas": 8.415,
+    "MediaDeDesvios": 1.725,
+    "NotaMediana": 8.63
+  },
+  "GEO0045 - TOPICOS ESPECIAIS EM GEOLOGIA": {
+    "Notas": [
+      9.03,
+      9.11
+    ],
+    "Desvios": [
+      1.71,
+      1.44
+    ],
+    "Docentes": [
+      "RICARDO GUIMARAES SALLET",
+      "RICARDO FARIAS DO AMARAL"
+    ],
+    "DesvioDeNotas": 0.040000000000000036,
+    "MediaDeNotas": 9.07,
+    "MediaDeDesvios": 1.575,
+    "NotaMediana": 9.11
+  },
+  "GEO0403 - ESTRATIGRAFIA DE SEQUENCIAS": {
+    "Notas": [
+      8.99,
+      9.63
+    ],
+    "Desvios": [
+      1.09,
+      1.19
+    ],
+    "Docentes": [
+      "VALERIA CENTURION CORDOBA"
+    ],
+    "DesvioDeNotas": 0.3200000000000003,
+    "MediaDeNotas": 9.31,
+    "MediaDeDesvios": 1.1400000000000001,
+    "NotaMediana": 9.63
+  },
+  "GEO0357 - PROSPECCAO GEOQUIMICA": {
+    "Notas": [
+      9.32
+    ],
+    "Desvios": [
+      1.99
+    ],
+    "Docentes": [
+      "GERMANO MELO JUNIOR"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.32,
+    "MediaDeDesvios": 1.99,
+    "NotaMediana": 9.32
+  },
+  "GEO0383 - GEOLOGIA DE CAMPO VI": {
+    "Notas": [
+      7.98,
+      8.78,
+      8.82,
+      8.89
+    ],
+    "Desvios": [
+      1.96,
+      2.22,
+      2.78,
+      2.27
+    ],
+    "Docentes": [
+      "HEITOR NEVES MAIA",
+      "JOSE BRAZ DINIZ FILHO",
+      "RICARDO FARIAS DO AMARAL",
+      "VANILDO PEREIRA DA FONSECA"
+    ],
+    "DesvioDeNotas": 0.3701604381886318,
+    "MediaDeNotas": 8.6175,
+    "MediaDeDesvios": 2.3074999999999997,
+    "NotaMediana": 8.82
+  },
+  "GEO0604 - GEOFÍSICA MARINHA": {
+    "Notas": [
+      8.99,
+      9.02
+    ],
+    "Desvios": [
+      2.33,
+      2.26
+    ],
+    "Docentes": [
+      "HELENICE VITAL",
+      "MOAB PRAXEDES GOMES"
+    ],
+    "DesvioDeNotas": 0.01499999999999968,
+    "MediaDeNotas": 9.004999999999999,
+    "MediaDeDesvios": 2.295,
+    "NotaMediana": 9.02
+  },
+  "GEO0044 - HIDROGEOLOGIA AVANCADA": {
+    "Notas": [
+      6.6
+    ],
+    "Desvios": [
+      3.21
+    ],
+    "Docentes": [
+      "JOSE GERALDO DE MELO"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 6.6,
+    "MediaDeDesvios": 3.21,
+    "NotaMediana": 6.6
+  },
+  "GEO0367 - PETROLOGIA SEDIMENTAR": {
+    "Notas": [
+      9.28,
+      9.64
+    ],
+    "Desvios": [
+      2.03,
+      1.12
+    ],
+    "Docentes": [
+      "MARCELA MARQUES VIEIRA"
+    ],
+    "DesvioDeNotas": 0.1800000000000006,
+    "MediaDeNotas": 9.46,
+    "MediaDeDesvios": 1.575,
+    "NotaMediana": 9.64
+  },
+  "GEO0391 - SISTEMA DE INFORMACOES GEOGRAFICAS I": {
+    "Notas": [
+      9.23,
+      9.73
+    ],
+    "Desvios": [
+      1.15,
+      1.18
+    ],
+    "Docentes": [
+      "RICARDO FARIAS DO AMARAL"
+    ],
+    "DesvioDeNotas": 0.25,
+    "MediaDeNotas": 9.48,
+    "MediaDeDesvios": 1.165,
+    "NotaMediana": 9.73
+  },
+  "GEO0420 - PROJETO EM GEOLOGIA": {
+    "Notas": [
+      9.86
+    ],
+    "Desvios": [
+      0.68
+    ],
+    "Docentes": [
+      "ZORANO SERGIO DE SOUZA"
+    ],
+    "DesvioDeNotas": 0,
+    "MediaDeNotas": 9.86,
+    "MediaDeDesvios": 0.68,
+    "NotaMediana": 9.86
+  },
+  "GEO0370 - GEOLOGIA ESTRUTURAL II": {
+    "Notas": [
+      10,
+      9.9
+    ],
+    "Desvios": [
+      0.71,
+      0.75
+    ],
+    "Docentes": [
+      "ALEX FRANCISCO ANTUNES",
+      "EMANUEL FERRAZ JARDIM DE SA"
+    ],
+    "DesvioDeNotas": 0.04999999999999982,
+    "MediaDeNotas": 9.95,
+    "MediaDeDesvios": 0.73,
+    "NotaMediana": 9.9
+  }
+}

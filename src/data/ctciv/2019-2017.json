@@ -1,0 +1,4682 @@
+﻿[
+    {
+        "Docente": "ADA CRISTINA SCUDELARI",
+        "Componente Curricular": "CIV0417 - HIDRÁULICA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "27",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "ADA CRISTINA SCUDELARI",
+        "Componente Curricular": "CIV1302 - HIDRÁULICA PARA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "43",
+        "Média Geral": "9.01",
+        "Desvio Padrão Geral": "2.12"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV1822 - AUDITORIA E PERÍCIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "6M345",
+        "Discentes": "33",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV1818 - GERENCIAMENTO DA DRENAGEM URBANA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "21",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.36"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0051 - HIDRÁULICA APLICADA A AQUICULTURA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "23",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0459 - PROJETO DE INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "8",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0412 - ANÁLISE ESTRUTURAL I",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "27",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0436 - ESTRUTURAS METÁLICAS",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "22",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0411 - RESISTÊNCIA DOS MATERIAIS I",
+        "Turma": "4",
+        "Horário": "24N12",
+        "Discentes": "43",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "CARINA MAIA LINS COSTA",
+        "Componente Curricular": "CIV0420 - MECÂNICA DOS SOLOS II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "18",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "CARINA MAIA LINS COSTA",
+        "Componente Curricular": "CIV0420 - MECÂNICA DOS SOLOS II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "13",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "16",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+        "Componente Curricular": "CIV1202 - GESTÃO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "42",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+        "Componente Curricular": "CIV1306 - GESTÃO DE RECURSOS HÍDRICOS",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "36",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.86"
+    },
+    {
+        "Docente": "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+        "Componente Curricular": "CIV1104 - HIDROLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "49",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "CARLOS WILMER COSTA",
+        "Componente Curricular": "CIV1106 - FUNDAMENTOS DE CARTOGRAFIA E SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "18",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "CARLOS WILMER COSTA",
+        "Componente Curricular": "CIV1106 - FUNDAMENTOS DE CARTOGRAFIA E SENSORIAMENTO REMOTO",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "21",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "CARLOS WILMER COSTA",
+        "Componente Curricular": "CIV1101 - GEOLOGIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "44",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "ARQ0535 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "26M12",
+        "Discentes": "20",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "CIV0106 - TOPOGRAFIA",
+        "Turma": "2",
+        "Horário": "6T2345",
+        "Discentes": "25",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "DIANA CARLA SECUNDO DA LUZ",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "33",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "DIANA CARLA SECUNDO DA LUZ",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "3",
+        "Horário": "24N12",
+        "Discentes": "38",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "24",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "16",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0051 - HIDRÁULICA APLICADA A AQUICULTURA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "23",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0421 - ESTRUTURAS DE CONCRETO ARMADO I",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "15",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "2.3"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0428 - ESTRUTURAS DE CONCRETO ARMADO II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "14",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0494 - MÉTODOS ANALÍTICOS E COMPUTACIONAIS",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "38",
+        "Média Geral": "6.47",
+        "Desvio Padrão Geral": "3.73"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "35",
+        "Média Geral": "8.27",
+        "Desvio Padrão Geral": "3.01"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "2",
+        "Horário": "2T56",
+        "Discentes": "17",
+        "Média Geral": "8.69",
+        "Desvio Padrão Geral": "3.01"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0433 - POLÍTICA E PLANEJAMENTO DE TRANSPORTES",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "27",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.36"
+    },
+    {
+        "Docente": "FAGNER ALEXANDRE NUNES DE FRANCA",
+        "Componente Curricular": "CIV1301 - FUNDAMENTOS DE GEOTECNIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "43",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "FAGNER ALEXANDRE NUNES DE FRANCA",
+        "Componente Curricular": "GEO0382 - GEOLOGIA DE ENGENHARIA I",
+        "Turma": "1",
+        "Horário": "2M45 4N12",
+        "Discentes": "10",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "0.86"
+    },
+    {
+        "Docente": "FAGNER ALEXANDRE NUNES DE FRANCA",
+        "Componente Curricular": "CIV0415 - MECÂNICA DOS SOLOS I",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "31",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "FERNANDA RODRIGUES MITTELBACH",
+        "Componente Curricular": "CIV0426 - ANÁLISE ESTRUTURAL II",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "31",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "FERNANDO SANCHEZ RODRIGUEZ",
+        "Componente Curricular": "CIV0448 - TÓPICOS ESPECIAIS EM CONSTRUÇÃO CIVIL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "11",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0405 - MECÂNICA TÉCNICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "38",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2.38"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0494 - MÉTODOS ANALÍTICOS E COMPUTACIONAIS",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "14",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0418 - RESISTÊNCIA DOS MATERIAIS II",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "11",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "FRED GUEDES CUNHA",
+        "Componente Curricular": "CIV0410 - CONSTRUÇÃO CIVIL I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "29",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "FRED GUEDES CUNHA",
+        "Componente Curricular": "CIV0410 - CONSTRUÇÃO CIVIL I",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "14",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "GIOVANA CRISTINA SANTOS DE MEDEIROS",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "24",
+        "Média Geral": "9.92",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "GIOVANA CRISTINA SANTOS DE MEDEIROS",
+        "Componente Curricular": "CIV1303 - SANEAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "26T56",
+        "Discentes": "26",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "GIOVANA CRISTINA SANTOS DE MEDEIROS",
+        "Componente Curricular": "CIV0431 - SANEAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "27",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "GIOVANA CRISTINA SANTOS DE MEDEIROS",
+        "Componente Curricular": "CIV0431 - SANEAMENTO AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "16",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "ISABEL CRISTINA DE OLIVEIRA MAGALHÃES AMORIM",
+        "Componente Curricular": "CIV0440 - ENGENHARIA DE TRAFEGO URBANO",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "17",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "ISABEL CRISTINA DE OLIVEIRA MAGALHÃES AMORIM",
+        "Componente Curricular": "CIV0440 - ENGENHARIA DE TRAFEGO URBANO",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "ISABEL CRISTINA DE OLIVEIRA MAGALHÃES AMORIM",
+        "Componente Curricular": "CIV0433 - POLÍTICA E PLANEJAMENTO DE TRANSPORTES",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "19",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "1",
+        "Horário": "3M345 (11/02/2019 - 29/06/2019)",
+        "Discentes": "20",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "2",
+        "Horário": "5T123 (11/02/2019 - 29/06/2019)",
+        "Discentes": "7",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "2.72"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "3",
+        "Horário": "6M345 (11/02/2019 - 29/06/2019)",
+        "Discentes": "18",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0403 - MATERIAIS DE CONSTRUÇÃO I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "30",
+        "Média Geral": "8.87",
+        "Desvio Padrão Geral": "2.11"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0403 - MATERIAIS DE CONSTRUÇÃO I",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "13",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "2.68"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0442 - METODOLOGIA CIENTÍFICA E TECNOLÓGICA",
+        "Turma": "1",
+        "Horário": "3N12",
+        "Discentes": "34",
+        "Média Geral": "8.31",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "JOANA DARC FREIRE DE MEDEIROS",
+        "Componente Curricular": "CIV1404 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "32",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "JOANA DARC FREIRE DE MEDEIROS",
+        "Componente Curricular": "CIV1306 - GESTÃO DE RECURSOS HÍDRICOS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "6",
+        "Média Geral": "10",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "JOAO DE CARVALHO FILHO",
+        "Componente Curricular": "CIV0422 - HIDROLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "18",
+        "Média Geral": "7.47",
+        "Desvio Padrão Geral": "3.26"
+    },
+    {
+        "Docente": "JOAO DE CARVALHO FILHO",
+        "Componente Curricular": "CIV0422 - HIDROLOGIA",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "13",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "2.58"
+    },
+    {
+        "Docente": "JOEL ARAUJO DO NASCIMENTO NETO",
+        "Componente Curricular": "CIV0438 - ESTRUTURAS DE CONCRETO ARMADO III",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "17",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "JOSE AIRTON CUNHA COSTA",
+        "Componente Curricular": "CIV0412 - ANÁLISE ESTRUTURAL I",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "12",
+        "Média Geral": "7.8",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "JOSE AIRTON CUNHA COSTA",
+        "Componente Curricular": "CIV0421 - ESTRUTURAS DE CONCRETO ARMADO I",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "30",
+        "Média Geral": "7.82",
+        "Desvio Padrão Geral": "2.41"
+    },
+    {
+        "Docente": "JOSE AIRTON CUNHA COSTA",
+        "Componente Curricular": "CIV0438 - ESTRUTURAS DE CONCRETO ARMADO III",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "32",
+        "Média Geral": "8.47",
+        "Desvio Padrão Geral": "2.13"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0485 - DESENHO DE PROJETOS ASSISTIDO POR COMPUTADOR",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "21",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0445 - FUNDAMENTOS DO PROJETO DE EDIFÍCIOS",
+        "Turma": "1",
+        "Horário": "6T3456",
+        "Discentes": "19",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "3",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "4",
+        "Horário": "24M34",
+        "Discentes": "31",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0428 - ESTRUTURAS DE CONCRETO ARMADO II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "29",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0439 - ESTRUTURAS DE MADEIRA",
+        "Turma": "3",
+        "Horário": "6M34",
+        "Discentes": "54",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0405 - MECÂNICA TÉCNICA",
+        "Turma": "3",
+        "Horário": "35T34",
+        "Discentes": "15",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "JULIANA DELGADO TINOCO",
+        "Componente Curricular": "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO",
+        "Turma": "2",
+        "Horário": "246T34",
+        "Discentes": "26",
+        "Média Geral": "8.96",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "JULIANA DELGADO TINOCO",
+        "Componente Curricular": "CIV1405 - TRATAMENTO DE ÁGUA PARA ABASTECIMENTO",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "42",
+        "Média Geral": "8.71",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "KARINA PATRICIA VIEIRA DA CUNHA",
+        "Componente Curricular": "CIV1203 - PEDOLOGIA",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "37",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "KARINA PATRICIA VIEIRA DA CUNHA",
+        "Componente Curricular": "CIV1304 - RECUPERAÇÃO DE ÁREAS DEGRADADAS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "28",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.62"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "17",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "18",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "3",
+        "Horário": "24T34",
+        "Discentes": "15",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "LAISE KELLEY LEMOS BARBOSA",
+        "Componente Curricular": "CIV0416 - CONSTRUÇÃO CIVIL II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "11",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "LAISE KELLEY LEMOS BARBOSA",
+        "Componente Curricular": "CIV0490 - LEGISLAÇÃO NA CONSTRUÇÃO CIVIL",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "15",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "LEONARDO FLAMARION MARQUES CHAVES",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "23",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "LEONARDO FLAMARION MARQUES CHAVES",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "26",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "LUCIO FLAVIO FERREIRA MOREIRA",
+        "Componente Curricular": "CIV0496 - FENÔMENOS DOS TRANSPORTES",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "24",
+        "Média Geral": "8.35",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "LUCIO FLAVIO FERREIRA MOREIRA",
+        "Componente Curricular": "CIV0496 - FENÔMENOS DOS TRANSPORTES",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "21",
+        "Média Geral": "8.23",
+        "Desvio Padrão Geral": "2.51"
+    },
+    {
+        "Docente": "LUIZ ALESSANDRO PINHEIRO DA CAMARA DE QUEIROZ",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "4",
+        "Horário": "24M34",
+        "Discentes": "31",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "0.85"
+    },
+    {
+        "Docente": "MANOEL LUCAS FILHO",
+        "Componente Curricular": "CIV1403 - GESTÃO DE RESÍDUOS SÓLIDOS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "43",
+        "Média Geral": "8.74",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "MANOEL LUCAS FILHO",
+        "Componente Curricular": "CIV0027 - SANEAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "3N123",
+        "Discentes": "15",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "MANOEL LUCAS FILHO",
+        "Componente Curricular": "CIV0027 - SANEAMENTO AMBIENTAL",
+        "Turma": "2",
+        "Horário": "2T123",
+        "Discentes": "16",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.79"
+    },
+    {
+        "Docente": "MARCOS LACERDA ALMEIDA",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "50",
+        "Média Geral": "8.45",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "MARCOS LACERDA ALMEIDA",
+        "Componente Curricular": "CIV0429 - SEGURANÇA DO TRABALHO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "26",
+        "Média Geral": "7.99",
+        "Desvio Padrão Geral": "2.62"
+    },
+    {
+        "Docente": "MARIA DEL PILAR DURANTE INGUNZA",
+        "Componente Curricular": "CIV0406 - GEOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "22",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "MARIA DEL PILAR DURANTE INGUNZA",
+        "Componente Curricular": "CIV0406 - GEOLOGIA",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "7",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0435 - INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "52",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0435 - INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "33",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "MOACIR GUILHERMINO DA SILVA",
+        "Componente Curricular": "CIV0425 - ESTRADAS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "27",
+        "Média Geral": "8.92",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "MOACIR GUILHERMINO DA SILVA",
+        "Componente Curricular": "CIV0425 - ESTRADAS",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "26",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV0432 - OBRAS DE TERRA",
+        "Turma": "3",
+        "Horário": "24M34",
+        "Discentes": "33",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "OSVALDO DE FREITAS NETO",
+        "Componente Curricular": "CIV0432 - OBRAS DE TERRA",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "21",
+        "Média Geral": "8.93",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "OSVALDO DE FREITAS NETO",
+        "Componente Curricular": "CIV0451 - PAVIMENTAÇÃO",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "17",
+        "Média Geral": "7.54",
+        "Desvio Padrão Geral": "3.15"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0500 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO CIVIL",
+        "Turma": "1",
+        "Horário": "6M12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "19",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0500 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO CIVIL",
+        "Turma": "2",
+        "Horário": "6T12 (11/02/2019 - 29/06/2019)",
+        "Discentes": "19",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0495 - MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "29",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "2.08"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0495 - MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "23",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "2"
+    },
+    {
+        "Docente": "PAULO EDUARDO VIEIRA CUNHA",
+        "Componente Curricular": "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "52",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "PAULO WALDEMIRO SOARES CUNHA",
+        "Componente Curricular": "CIV0416 - CONSTRUÇÃO CIVIL II",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "31",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "2.46"
+    },
+    {
+        "Docente": "PAULO WALDEMIRO SOARES CUNHA",
+        "Componente Curricular": "CIV0467 - PATOLOGIA E RECUPERAÇÃO DE EDIFICAÇÕES",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "13",
+        "Média Geral": "8.36",
+        "Desvio Padrão Geral": "2.45"
+    },
+    {
+        "Docente": "ROBERTO JOSE DE MEDEIROS",
+        "Componente Curricular": "CIV0411 - RESISTÊNCIA DOS MATERIAIS I",
+        "Turma": "3",
+        "Horário": "24T56",
+        "Discentes": "18",
+        "Média Geral": "7.04",
+        "Desvio Padrão Geral": "3.49"
+    },
+    {
+        "Docente": "ROBERTO JOSE DE MEDEIROS",
+        "Componente Curricular": "CIV0418 - RESISTÊNCIA DOS MATERIAIS II",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "31",
+        "Média Geral": "4.77",
+        "Desvio Padrão Geral": "3.74"
+    },
+    {
+        "Docente": "RONALDO ANGELINI",
+        "Componente Curricular": "CIV1105 - ECOLOGIA APLICADA À ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "39",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "RUBENS EUGENIO BARRETO RAMOS",
+        "Componente Curricular": "CIV0424 - ANÁLISE DE SISTEMAS DE TRANSPORTE",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "41",
+        "Média Geral": "8.24",
+        "Desvio Padrão Geral": "2.55"
+    },
+    {
+        "Docente": "RUBENS EUGENIO BARRETO RAMOS",
+        "Componente Curricular": "CIV0419 - ECONOMIA DA CONSTRUÇÃO E INFRAESTRUTURA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "37",
+        "Média Geral": "8.2",
+        "Desvio Padrão Geral": "2.33"
+    },
+    {
+        "Docente": "SELMA HISSAE SHIMURA DA NOBREGA",
+        "Componente Curricular": "CIV0426 - ANÁLISE ESTRUTURAL II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "31",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "SELMA HISSAE SHIMURA DA NOBREGA",
+        "Componente Curricular": "CIV0436 - ESTRUTURAS METÁLICAS",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "29",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "SILVÂNIA LUCAS DOS SANTOS",
+        "Componente Curricular": "CIV1205 - QUALIDADE DA ÁGUA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "36",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.97"
+    },
+    {
+        "Docente": "SILVÂNIA LUCAS DOS SANTOS",
+        "Componente Curricular": "CIV1401 - TRATAMENTO DE ÁGUAS RESIDUÁRIAS",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "37",
+        "Média Geral": "8.94",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "VANESSA BECKER",
+        "Componente Curricular": "CIV1305 - LIMNOLOGIA",
+        "Turma": "1",
+        "Horário": "4T56 6T12",
+        "Discentes": "27",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "0.86"
+    },
+    {
+        "Docente": "VANESSA BECKER",
+        "Componente Curricular": "CIV1206 - MICROBIOLOGIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "5M3456 (11/02/2019 - 29/06/2019)",
+        "Discentes": "29",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "VENERANDO EUSTAQUIO AMARO",
+        "Componente Curricular": "CIV1819 - SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+        "Turma": "1",
+        "Horário": "3T345",
+        "Discentes": "24",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "VENERANDO EUSTAQUIO AMARO",
+        "Componente Curricular": "CIV0409 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "26",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "2.57"
+    },
+    {
+        "Docente": "VENERANDO EUSTAQUIO AMARO",
+        "Componente Curricular": "CIV0409 - TOPOGRAFIA",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "18",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "YURI DANIEL JATOBA COSTA",
+        "Componente Curricular": "CIV0427 - FUNDAÇÕES",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "27",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "2.43"
+    },
+    {
+        "Docente": "YURI DANIEL JATOBA COSTA",
+        "Componente Curricular": "CIV0427 - FUNDAÇÕES",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "23",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "ADA CRISTINA SCUDELARI",
+        "Componente Curricular": "CIV0417 - HIDRÁULICA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "40",
+        "Média Geral": "7.43",
+        "Desvio Padrão Geral": "2.62"
+    },
+    {
+        "Docente": "ADA CRISTINA SCUDELARI",
+        "Componente Curricular": "CIV1302 - HIDRÁULICA PARA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "38",
+        "Média Geral": "7.92",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV1822 - AUDITORIA E PERÍCIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "6M345",
+        "Discentes": "34",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24M12",
+        "Discentes": "31",
+        "Média Geral": "9.52",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV1818 - GERENCIAMENTO DA DRENAGEM URBANA",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "32",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0459 - PROJETO DE INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "3",
+        "Horário": "35T12",
+        "Discentes": "20",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "ANA PAULA SOBRAL DE FREITAS",
+        "Componente Curricular": "CIV0420 - MECÂNICA DOS SOLOS II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "32",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "ANA PAULA SOBRAL DE FREITAS",
+        "Componente Curricular": "CIV0420 - MECÂNICA DOS SOLOS II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "20",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0412 - ANÁLISE ESTRUTURAL I",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "39",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0412 - ANÁLISE ESTRUTURAL I",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "11",
+        "Média Geral": "9.93",
+        "Desvio Padrão Geral": "1.72"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0436 - ESTRUTURAS METÁLICAS",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "18",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+        "Componente Curricular": "CIV1404 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "17",
+        "Média Geral": "9.96",
+        "Desvio Padrão Geral": "0.73"
+    },
+    {
+        "Docente": "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+        "Componente Curricular": "CIV1202 - GESTÃO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "46",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+        "Componente Curricular": "CIV1104 - HIDROLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "46",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "CARLOS ALBERTO NASCIMENTO DA ROCHA JUNIOR",
+        "Componente Curricular": "CIV1205 - QUALIDADE DA ÁGUA",
+        "Turma": "1",
+        "Horário": "36M34",
+        "Discentes": "26",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "CARLOS WILMER COSTA",
+        "Componente Curricular": "CIV1106 - FUNDAMENTOS DE CARTOGRAFIA E SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "23",
+        "Média Geral": "9.78",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "CARLOS WILMER COSTA",
+        "Componente Curricular": "CIV1106 - FUNDAMENTOS DE CARTOGRAFIA E SENSORIAMENTO REMOTO",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "18",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "CARLOS WILMER COSTA",
+        "Componente Curricular": "CIV1101 - GEOLOGIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "45",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "CIV0106 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "39",
+        "Média Geral": "8.23",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "ARQ0535 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "26M12",
+        "Discentes": "22",
+        "Média Geral": "8.83",
+        "Desvio Padrão Geral": "2.66"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "CIV0106 - TOPOGRAFIA",
+        "Turma": "2",
+        "Horário": "6T1234",
+        "Discentes": "28",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "DIANA CARLA SECUNDO DA LUZ",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "36",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "DIANA CARLA SECUNDO DA LUZ",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "3",
+        "Horário": "24N12",
+        "Discentes": "45",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "21",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV1302 - HIDRÁULICA PARA ENGENHARIA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "17",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "0.94"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0409 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "9",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0409 - TOPOGRAFIA",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "29",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0421 - ESTRUTURAS DE CONCRETO ARMADO I",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "9",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0428 - ESTRUTURAS DE CONCRETO ARMADO II",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "19",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0494 - MÉTODOS ANALÍTICOS E COMPUTACIONAIS",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "31",
+        "Média Geral": "8.41",
+        "Desvio Padrão Geral": "2.66"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "26",
+        "Média Geral": "8.38",
+        "Desvio Padrão Geral": "3.02"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "2",
+        "Horário": "2T56",
+        "Discentes": "35",
+        "Média Geral": "7.94",
+        "Desvio Padrão Geral": "2.81"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0433 - POLÍTICA E PLANEJAMENTO DE TRANSPORTES",
+        "Turma": "2",
+        "Horário": "35M56",
+        "Discentes": "27",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0483 - PROJETOS DE INFRAESTRUTURA",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "12",
+        "Média Geral": "8.69",
+        "Desvio Padrão Geral": "2.07"
+    },
+    {
+        "Docente": "FAGNER ALEXANDRE NUNES DE FRANCA",
+        "Componente Curricular": "CIV1301 - FUNDAMENTOS DE GEOTECNIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "54",
+        "Média Geral": "9.69",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "FAGNER ALEXANDRE NUNES DE FRANCA",
+        "Componente Curricular": "CIV0415 - MECÂNICA DOS SOLOS I",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "13",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "FERNANDA RODRIGUES MITTELBACH",
+        "Componente Curricular": "CIV0426 - ANÁLISE ESTRUTURAL II",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "20",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "FERNANDO SANCHEZ RODRIGUEZ",
+        "Componente Curricular": "CIV0448 - TÓPICOS ESPECIAIS EM CONSTRUÇÃO CIVIL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "9",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "FLORIANO MEDEIROS DE ANDRADE LIMA",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "22",
+        "Média Geral": "8.47",
+        "Desvio Padrão Geral": "2.67"
+    },
+    {
+        "Docente": "FLORIANO MEDEIROS DE ANDRADE LIMA",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "15",
+        "Média Geral": "6.67",
+        "Desvio Padrão Geral": "3.05"
+    },
+    {
+        "Docente": "FLORIANO MEDEIROS DE ANDRADE LIMA",
+        "Componente Curricular": "CIV0427 - FUNDAÇÕES",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "30",
+        "Média Geral": "7.68",
+        "Desvio Padrão Geral": "2.65"
+    },
+    {
+        "Docente": "FLORIANO MEDEIROS DE ANDRADE LIMA",
+        "Componente Curricular": "CIV0427 - FUNDAÇÕES",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "25",
+        "Média Geral": "8.13",
+        "Desvio Padrão Geral": "2.37"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0405 - MECÂNICA TÉCNICA",
+        "Turma": "2",
+        "Horário": "35M12",
+        "Discentes": "18",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0494 - MÉTODOS ANALÍTICOS E COMPUTACIONAIS",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "33",
+        "Média Geral": "9.13",
+        "Desvio Padrão Geral": "2.23"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0411 - RESISTÊNCIA DOS MATERIAIS I",
+        "Turma": "2",
+        "Horário": "24M34",
+        "Discentes": "39",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "2.6"
+    },
+    {
+        "Docente": "FRED GUEDES CUNHA",
+        "Componente Curricular": "CIV0410 - CONSTRUÇÃO CIVIL I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "33",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "FRED GUEDES CUNHA",
+        "Componente Curricular": "CIV0410 - CONSTRUÇÃO CIVIL I",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "15",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "1",
+        "Horário": "3M345 (30/07/2018 - 22/12/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "2",
+        "Horário": "6M345 (30/07/2018 - 22/12/2018)",
+        "Discentes": "19",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "3",
+        "Horário": "5T123 (30/07/2018 - 22/12/2018)",
+        "Discentes": "13",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0403 - MATERIAIS DE CONSTRUÇÃO I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "36",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0403 - MATERIAIS DE CONSTRUÇÃO I",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "19",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0442 - METODOLOGIA CIENTÍFICA E TECNOLÓGICA",
+        "Turma": "1",
+        "Horário": "3N12",
+        "Discentes": "44",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "JOANA DARC FREIRE DE MEDEIROS",
+        "Componente Curricular": "CIV1404 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "17",
+        "Média Geral": "9.98",
+        "Desvio Padrão Geral": "0.76"
+    },
+    {
+        "Docente": "JOANA DARC FREIRE DE MEDEIROS",
+        "Componente Curricular": "CIV1306 - GESTÃO DE RECURSOS HÍDRICOS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "47",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "JOAO DE CARVALHO FILHO",
+        "Componente Curricular": "CIV0422 - HIDROLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "27",
+        "Média Geral": "8.11",
+        "Desvio Padrão Geral": "2.93"
+    },
+    {
+        "Docente": "JOAO DE CARVALHO FILHO",
+        "Componente Curricular": "CIV0422 - HIDROLOGIA",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "7",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "JOEL ARAUJO DO NASCIMENTO NETO",
+        "Componente Curricular": "CIV0438 - ESTRUTURAS DE CONCRETO ARMADO III",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "14",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "2.71"
+    },
+    {
+        "Docente": "JOEL ARAUJO DO NASCIMENTO NETO",
+        "Componente Curricular": "CIV0456 - PROJETO DE ESTRUTURAS DE CONCRETO",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "8",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0485 - DESENHO DE PROJETOS ASSISTIDO POR COMPUTADOR",
+        "Turma": "1",
+        "Horário": "5N1234",
+        "Discentes": "20",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0445 - FUNDAMENTOS DO PROJETO DE EDIFÍCIOS",
+        "Turma": "1",
+        "Horário": "6T3456",
+        "Discentes": "16",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.56"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "43",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "33",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0428 - ESTRUTURAS DE CONCRETO ARMADO II",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "29",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0439 - ESTRUTURAS DE MADEIRA",
+        "Turma": "1",
+        "Horário": "6M12",
+        "Discentes": "50",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0454 - PONTES",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "16",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "JULIANA DELGADO TINOCO",
+        "Componente Curricular": "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "38",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "JULIANA DELGADO TINOCO",
+        "Componente Curricular": "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO",
+        "Turma": "2",
+        "Horário": "246T34",
+        "Discentes": "13",
+        "Média Geral": "8.94",
+        "Desvio Padrão Geral": "1.88"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0421 - ESTRUTURAS DE CONCRETO ARMADO I",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "32",
+        "Média Geral": "9.19",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0438 - ESTRUTURAS DE CONCRETO ARMADO III",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "18",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0405 - MECÂNICA TÉCNICA",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "31",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0418 - RESISTÊNCIA DOS MATERIAIS II",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "43",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "KARINA PATRICIA VIEIRA DA CUNHA",
+        "Componente Curricular": "CIV1203 - PEDOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "37",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "KARINA PATRICIA VIEIRA DA CUNHA",
+        "Componente Curricular": "CIV1304 - RECUPERAÇÃO DE ÁREAS DEGRADADAS",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "39",
+        "Média Geral": "8.34",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "14",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "2.36"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "15",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "2.56"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "3",
+        "Horário": "35M34",
+        "Discentes": "17",
+        "Média Geral": "9.33",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "LAISE KELLEY LEMOS BARBOSA",
+        "Componente Curricular": "CIV0416 - CONSTRUÇÃO CIVIL II",
+        "Turma": "3",
+        "Horário": "35T34",
+        "Discentes": "18",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "LAISE KELLEY LEMOS BARBOSA",
+        "Componente Curricular": "CIV0490 - LEGISLAÇÃO NA CONSTRUÇÃO CIVIL",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "9",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "LARISSA CAROLINE SARAIVA FERREIRA",
+        "Componente Curricular": "CIV1205 - QUALIDADE DA ÁGUA",
+        "Turma": "1",
+        "Horário": "36M34",
+        "Discentes": "26",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "LARISSA CAROLINE SARAIVA FERREIRA",
+        "Componente Curricular": "CIV1205 - QUALIDADE DA ÁGUA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "25",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "LARISSA CAROLINE SARAIVA FERREIRA",
+        "Componente Curricular": "CIV1303 - SANEAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "41",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "LEONARDO FLAMARION MARQUES CHAVES",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "22",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "LEONARDO FLAMARION MARQUES CHAVES",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "15",
+        "Média Geral": "8.73",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "LUCIA REJANE DE ALMEIDA XAVIER",
+        "Componente Curricular": "CIV0440 - ENGENHARIA DE TRAFEGO URBANO",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "19",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "LUCIA REJANE DE ALMEIDA XAVIER",
+        "Componente Curricular": "CIV0440 - ENGENHARIA DE TRAFEGO URBANO",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "28",
+        "Média Geral": "9.24",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "LUCIA REJANE DE ALMEIDA XAVIER",
+        "Componente Curricular": "CIV0433 - POLÍTICA E PLANEJAMENTO DE TRANSPORTES",
+        "Turma": "3",
+        "Horário": "24T56",
+        "Discentes": "11",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "LUCIO FLAVIO FERREIRA MOREIRA",
+        "Componente Curricular": "CIV0496 - FENÔMENOS DOS TRANSPORTES",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "33",
+        "Média Geral": "7.79",
+        "Desvio Padrão Geral": "3.1"
+    },
+    {
+        "Docente": "LUCIO FLAVIO FERREIRA MOREIRA",
+        "Componente Curricular": "CIV0496 - FENÔMENOS DOS TRANSPORTES",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "20",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "LUIZ ALESSANDRO PINHEIRO DA CAMARA DE QUEIROZ",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "2",
+        "Horário": "24N12",
+        "Discentes": "33",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "MANOEL LUCAS FILHO",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "21",
+        "Média Geral": "9.35",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "MANOEL LUCAS FILHO",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24M12",
+        "Discentes": "31",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "MANOEL LUCAS FILHO",
+        "Componente Curricular": "CIV1403 - GESTÃO DE RESÍDUOS SÓLIDOS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "37",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "MARCOS LACERDA ALMEIDA",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "48",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "1.96"
+    },
+    {
+        "Docente": "MARCOS LACERDA ALMEIDA",
+        "Componente Curricular": "CIV0429 - SEGURANÇA DO TRABALHO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "29",
+        "Média Geral": "8.58",
+        "Desvio Padrão Geral": "2.02"
+    },
+    {
+        "Docente": "MARIA DEL PILAR DURANTE INGUNZA",
+        "Componente Curricular": "CIV0406 - GEOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "33",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "MARIA DEL PILAR DURANTE INGUNZA",
+        "Componente Curricular": "CIV0406 - GEOLOGIA",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "24",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.85"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0435 - INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "35",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0435 - INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "18",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0480 - PROJETO DE INSTALAÇÕES ELÉTRICAS",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "27",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "MOACIR GUILHERMINO DA SILVA",
+        "Componente Curricular": "CIV0425 - ESTRADAS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "41",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "MOACIR GUILHERMINO DA SILVA",
+        "Componente Curricular": "CIV0425 - ESTRADAS",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "16",
+        "Média Geral": "8.89",
+        "Desvio Padrão Geral": "2.5"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV0470 - BARRAGENS DE TERRA",
+        "Turma": "1",
+        "Horário": "4T3456",
+        "Discentes": "8",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "26",
+        "Média Geral": "8.49",
+        "Desvio Padrão Geral": "2.86"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "2",
+        "Horário": "2T56",
+        "Discentes": "35",
+        "Média Geral": "8",
+        "Desvio Padrão Geral": "2.85"
+    },
+    {
+        "Docente": "OSVALDO DE FREITAS NETO",
+        "Componente Curricular": "CIV0432 - OBRAS DE TERRA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "42",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "OSVALDO DE FREITAS NETO",
+        "Componente Curricular": "CIV0451 - PAVIMENTAÇÃO",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "31",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0500 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO CIVIL",
+        "Turma": "1",
+        "Horário": "6M12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0500 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO CIVIL",
+        "Turma": "2",
+        "Horário": "6T12 (30/07/2018 - 22/12/2018)",
+        "Discentes": "8",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0495 - MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "19",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.9"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0495 - MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "31",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "PAULO EDUARDO VIEIRA CUNHA",
+        "Componente Curricular": "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "38",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "PAULO EDUARDO VIEIRA CUNHA",
+        "Componente Curricular": "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO",
+        "Turma": "4",
+        "Horário": "246N12",
+        "Discentes": "12",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "PAULO EDUARDO VIEIRA CUNHA",
+        "Componente Curricular": "CIV1405 - TRATAMENTO DE ÁGUA PARA ABASTECIMENTO",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "36",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "RAY DE ARAUJO SOUSA",
+        "Componente Curricular": "CIV0416 - CONSTRUÇÃO CIVIL II",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "23",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "RAY DE ARAUJO SOUSA",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "26",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.79"
+    },
+    {
+        "Docente": "RAY DE ARAUJO SOUSA",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "2",
+        "Horário": "2T56",
+        "Discentes": "35",
+        "Média Geral": "7.99",
+        "Desvio Padrão Geral": "2.87"
+    },
+    {
+        "Docente": "RAY DE ARAUJO SOUSA",
+        "Componente Curricular": "CIV0467 - PATOLOGIA E RECUPERAÇÃO DE EDIFICAÇÕES",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "14",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "ROBERTO JOSE DE MEDEIROS",
+        "Componente Curricular": "CIV0411 - RESISTÊNCIA DOS MATERIAIS I",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "16",
+        "Média Geral": "6.48",
+        "Desvio Padrão Geral": "3.27"
+    },
+    {
+        "Docente": "ROBERTO JOSE DE MEDEIROS",
+        "Componente Curricular": "CIV0418 - RESISTÊNCIA DOS MATERIAIS II",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "6",
+        "Média Geral": "8.5",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "RONALDO ANGELINI",
+        "Componente Curricular": "CIV1105 - ECOLOGIA APLICADA À ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "41",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "RUBENS EUGENIO BARRETO RAMOS",
+        "Componente Curricular": "CIV0424 - ANÁLISE DE SISTEMAS DE TRANSPORTE",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "44",
+        "Média Geral": "8.51",
+        "Desvio Padrão Geral": "2.09"
+    },
+    {
+        "Docente": "RUBENS EUGENIO BARRETO RAMOS",
+        "Componente Curricular": "CIV0419 - ECONOMIA DA CONSTRUÇÃO E INFRAESTRUTURA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "35",
+        "Média Geral": "8.72",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "SELMA HISSAE SHIMURA DA NOBREGA",
+        "Componente Curricular": "CIV0426 - ANÁLISE ESTRUTURAL II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "36",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "SELMA HISSAE SHIMURA DA NOBREGA",
+        "Componente Curricular": "CIV0436 - ESTRUTURAS METÁLICAS",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "27",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "SELMA HISSAE SHIMURA DA NOBREGA",
+        "Componente Curricular": "CIV0477 - INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "19",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "1.22"
+    },
+    {
+        "Docente": "SILVÂNIA LUCAS DOS SANTOS",
+        "Componente Curricular": "CIV1205 - QUALIDADE DA ÁGUA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "25",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "SILVÂNIA LUCAS DOS SANTOS",
+        "Componente Curricular": "CIV1405 - TRATAMENTO DE ÁGUA PARA ABASTECIMENTO",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "36",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "2.34"
+    },
+    {
+        "Docente": "SILVÂNIA LUCAS DOS SANTOS",
+        "Componente Curricular": "CIV1401 - TRATAMENTO DE ÁGUAS RESIDUÁRIAS",
+        "Turma": "4",
+        "Horário": "35T34",
+        "Discentes": "30",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "VANESSA BECKER",
+        "Componente Curricular": "CIV1305 - LIMNOLOGIA",
+        "Turma": "1",
+        "Horário": "4T56 6T12",
+        "Discentes": "40",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "VANESSA BECKER",
+        "Componente Curricular": "CIV1206 - MICROBIOLOGIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "5M3456 (30/07/2018 - 22/12/2018)",
+        "Discentes": "24",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "VENERANDO EUSTAQUIO AMARO",
+        "Componente Curricular": "CIV0106 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "39",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "VENERANDO EUSTAQUIO AMARO",
+        "Componente Curricular": "CIV0409 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "9",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "VENERANDO EUSTAQUIO AMARO",
+        "Componente Curricular": "CIV0409 - TOPOGRAFIA",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "29",
+        "Média Geral": "8.84",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "ADA CRISTINA SCUDELARI",
+        "Componente Curricular": "CIV1302 - HIDRÁULICA PARA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "46",
+        "Média Geral": "9.01",
+        "Desvio Padrão Geral": "2.31"
+    },
+    {
+        "Docente": "ADELENA GONCALVES MAIA",
+        "Componente Curricular": "CIV1306 - GESTÃO DE RECURSOS HÍDRICOS",
+        "Turma": "1",
+        "Horário": "3T12 6T34",
+        "Discentes": "36",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "2.19"
+    },
+    {
+        "Docente": "ADELENA GONCALVES MAIA",
+        "Componente Curricular": "CIV1104 - HIDROLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "43",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "10",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "13",
+        "Média Geral": "9.91",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0459 - PROJETO DE INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "22",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0431 - SANEAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "16",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0431 - SANEAMENTO AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "12",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0027 - SANEAMENTO AMBIENTAL",
+        "Turma": "2",
+        "Horário": "3N123",
+        "Discentes": "11",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "ANA PAULA SOBRAL DE FREITAS",
+        "Componente Curricular": "CIV0420 - MECÂNICA DOS SOLOS II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "26",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.7"
+    },
+    {
+        "Docente": "ANA PAULA SOBRAL DE FREITAS",
+        "Componente Curricular": "CIV0420 - MECÂNICA DOS SOLOS II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "24",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0412 - ANÁLISE ESTRUTURAL I",
+        "Turma": "1",
+        "Horário": "24T56",
+        "Discentes": "17",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0412 - ANÁLISE ESTRUTURAL I",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "30",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0436 - ESTRUTURAS METÁLICAS",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "35",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "2.18"
+    },
+    {
+        "Docente": "CARINA MAIA LINS COSTA",
+        "Componente Curricular": "CIV0420 - MECÂNICA DOS SOLOS II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "26",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.57"
+    },
+    {
+        "Docente": "CARINA MAIA LINS COSTA",
+        "Componente Curricular": "CIV0420 - MECÂNICA DOS SOLOS II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "24",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "0.84"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "CIV0106 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "6T2345",
+        "Discentes": "30",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "ARQ0535 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "26M12",
+        "Discentes": "11",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.29"
+    },
+    {
+        "Docente": "DIANA CARLA SECUNDO DA LUZ",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "1",
+        "Horário": "24N34",
+        "Discentes": "28",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "DIANA CARLA SECUNDO DA LUZ",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "3",
+        "Horário": "24N12",
+        "Discentes": "32",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0496 - FENÔMENOS DOS TRANSPORTES",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "29",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "10",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "13",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.76"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0051 - HIDRÁULICA APLICADA A AQUICULTURA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "16",
+        "Média Geral": "9.84",
+        "Desvio Padrão Geral": "0.7"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0421 - ESTRUTURAS DE CONCRETO ARMADO I",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "21",
+        "Média Geral": "8.47",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0428 - ESTRUTURAS DE CONCRETO ARMADO II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "11",
+        "Média Geral": "8.85",
+        "Desvio Padrão Geral": "2.48"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0494 - MÉTODOS ANALÍTICOS E COMPUTACIONAIS",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "42",
+        "Média Geral": "6.86",
+        "Desvio Padrão Geral": "3.45"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0433 - POLÍTICA E PLANEJAMENTO DE TRANSPORTES",
+        "Turma": "3",
+        "Horário": "35M56",
+        "Discentes": "16",
+        "Média Geral": "8.35",
+        "Desvio Padrão Geral": "2.89"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0482 - PROJETOS IMOBILIÁRIOS",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "12",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "FABIANA OLIVEIRA DE ARAUJO SILVA",
+        "Componente Curricular": "CIV1811 - ECOTOXICOLOGIA E BIOINDICADORES AMBIENTAIS",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "9",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "FAGNER ALEXANDRE NUNES DE FRANCA",
+        "Componente Curricular": "CIV1301 - FUNDAMENTOS DE GEOTECNIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "48",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "FAGNER ALEXANDRE NUNES DE FRANCA",
+        "Componente Curricular": "CIV0415 - MECÂNICA DOS SOLOS I",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "34",
+        "Média Geral": "9.89",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "FERNANDA RODRIGUES MITTELBACH",
+        "Componente Curricular": "CIV0426 - ANÁLISE ESTRUTURAL II",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "40",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "FERNANDO SANCHEZ RODRIGUEZ",
+        "Componente Curricular": "CIV0448 - TÓPICOS ESPECIAIS EM CONSTRUÇÃO CIVIL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "18",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "FLORIANO MEDEIROS DE ANDRADE LIMA",
+        "Componente Curricular": "CIV0427 - FUNDAÇÕES",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "27",
+        "Média Geral": "7.09",
+        "Desvio Padrão Geral": "3.21"
+    },
+    {
+        "Docente": "FLORIANO MEDEIROS DE ANDRADE LIMA",
+        "Componente Curricular": "CIV0427 - FUNDAÇÕES",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "17",
+        "Média Geral": "8.09",
+        "Desvio Padrão Geral": "2.62"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0405 - MECÂNICA TÉCNICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "33",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0494 - MÉTODOS ANALÍTICOS E COMPUTACIONAIS",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "27",
+        "Média Geral": "9.03",
+        "Desvio Padrão Geral": "2.86"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0411 - RESISTÊNCIA DOS MATERIAIS I",
+        "Turma": "3",
+        "Horário": "24M34",
+        "Discentes": "29",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "2.49"
+    },
+    {
+        "Docente": "FRED GUEDES CUNHA",
+        "Componente Curricular": "CIV0410 - CONSTRUÇÃO CIVIL I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "16",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "2.16"
+    },
+    {
+        "Docente": "FRED GUEDES CUNHA",
+        "Componente Curricular": "CIV0410 - CONSTRUÇÃO CIVIL I",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "23",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "HELIO RODRIGUES DOS SANTOS",
+        "Componente Curricular": "CIV1405 - TRATAMENTO DE ÁGUA PARA ABASTECIMENTO",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "34",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "HELIO RODRIGUES DOS SANTOS",
+        "Componente Curricular": "CIV1401 - TRATAMENTO DE ÁGUAS RESIDUÁRIAS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "39",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "1",
+        "Horário": "3M345 (19/02/2018 - 07/07/2018)",
+        "Discentes": "19",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "2",
+        "Horário": "6M345 (19/02/2018 - 07/07/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "3",
+        "Horário": "5T123 (19/02/2018 - 07/07/2018)",
+        "Discentes": "10",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0403 - MATERIAIS DE CONSTRUÇÃO I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "39",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0403 - MATERIAIS DE CONSTRUÇÃO I",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "10",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.26"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0442 - METODOLOGIA CIENTÍFICA E TECNOLÓGICA",
+        "Turma": "1",
+        "Horário": "3N12",
+        "Discentes": "41",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.63"
+    },
+    {
+        "Docente": "JOANA DARC FREIRE DE MEDEIROS",
+        "Componente Curricular": "CIV1404 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "21",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "JOANA DARC FREIRE DE MEDEIROS",
+        "Componente Curricular": "CIV1202 - GESTÃO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "45",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "JOAO DE CARVALHO FILHO",
+        "Componente Curricular": "CIV0422 - HIDROLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "26",
+        "Média Geral": "8.25",
+        "Desvio Padrão Geral": "2.85"
+    },
+    {
+        "Docente": "JOAO DE CARVALHO FILHO",
+        "Componente Curricular": "CIV0422 - HIDROLOGIA",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "18",
+        "Média Geral": "8.74",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "JOAO DE CARVALHO FILHO",
+        "Componente Curricular": "CIV1104 - HIDROLOGIA",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "20",
+        "Média Geral": "8.8",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "JOCILENE DANTAS BARROS",
+        "Componente Curricular": "CIV1106 - FUNDAMENTOS DE CARTOGRAFIA E SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "45",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "JOCILENE DANTAS BARROS",
+        "Componente Curricular": "CIV1101 - GEOLOGIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "48",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "JOEL ARAUJO DO NASCIMENTO NETO",
+        "Componente Curricular": "CIV0438 - ESTRUTURAS DE CONCRETO ARMADO III",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "23",
+        "Média Geral": "8.26",
+        "Desvio Padrão Geral": "2.94"
+    },
+    {
+        "Docente": "JOEL ARAUJO DO NASCIMENTO NETO",
+        "Componente Curricular": "CIV0456 - PROJETO DE ESTRUTURAS DE CONCRETO",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "16",
+        "Média Geral": "8.85",
+        "Desvio Padrão Geral": "1.93"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0485 - DESENHO DE PROJETOS ASSISTIDO POR COMPUTADOR",
+        "Turma": "1",
+        "Horário": "2N1234",
+        "Discentes": "21",
+        "Média Geral": "8.78",
+        "Desvio Padrão Geral": "2.27"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0445 - FUNDAMENTOS DO PROJETO DE EDIFÍCIOS",
+        "Turma": "1",
+        "Horário": "4T3456",
+        "Discentes": "13",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.38"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "43",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "JOSE EUGENIO SILVA DE MORAIS JUNIOR",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "3",
+        "Horário": "35T34",
+        "Discentes": "36",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0428 - ESTRUTURAS DE CONCRETO ARMADO II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "24",
+        "Média Geral": "9.61",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0439 - ESTRUTURAS DE MADEIRA",
+        "Turma": "1",
+        "Horário": "6M34",
+        "Discentes": "21",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0439 - ESTRUTURAS DE MADEIRA",
+        "Turma": "3",
+        "Horário": "6T34",
+        "Discentes": "7",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "JULIANA DELGADO TINOCO",
+        "Componente Curricular": "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "42",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "1.8"
+    },
+    {
+        "Docente": "JULIANA DELGADO TINOCO",
+        "Componente Curricular": "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO",
+        "Turma": "2",
+        "Horário": "246T34",
+        "Discentes": "42",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "1.94"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0421 - ESTRUTURAS DE CONCRETO ARMADO I",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "37",
+        "Média Geral": "8.52",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0438 - ESTRUTURAS DE CONCRETO ARMADO III",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "42",
+        "Média Geral": "9.14",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0405 - MECÂNICA TÉCNICA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "26",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0418 - RESISTÊNCIA DOS MATERIAIS II",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "34",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.86"
+    },
+    {
+        "Docente": "KARINA PATRICIA VIEIRA DA CUNHA",
+        "Componente Curricular": "CIV1203 - PEDOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "44",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "KARINA PATRICIA VIEIRA DA CUNHA",
+        "Componente Curricular": "CIV1304 - RECUPERAÇÃO DE ÁREAS DEGRADADAS",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "34",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "16",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.89"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "21",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.74"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "3",
+        "Horário": "35M12",
+        "Discentes": "17",
+        "Média Geral": "9.56",
+        "Desvio Padrão Geral": "2.03"
+    },
+    {
+        "Docente": "LAISE KELLEY LEMOS BARBOSA",
+        "Componente Curricular": "CIV0416 - CONSTRUÇÃO CIVIL II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "13",
+        "Média Geral": "7.9",
+        "Desvio Padrão Geral": "3.09"
+    },
+    {
+        "Docente": "LAISE KELLEY LEMOS BARBOSA",
+        "Componente Curricular": "CIV0490 - LEGISLAÇÃO NA CONSTRUÇÃO CIVIL",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "18",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "LARISSA CAROLINE SARAIVA FERREIRA",
+        "Componente Curricular": "CIV1403 - GESTÃO DE RESÍDUOS SÓLIDOS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "37",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "LARISSA CAROLINE SARAIVA FERREIRA",
+        "Componente Curricular": "CIV1205 - QUALIDADE DA ÁGUA",
+        "Turma": "1",
+        "Horário": "36M34",
+        "Discentes": "45",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "LARISSA CAROLINE SARAIVA FERREIRA",
+        "Componente Curricular": "CIV1303 - SANEAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "49",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "LEONARDO FLAMARION MARQUES CHAVES",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "20",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "LEONARDO FLAMARION MARQUES CHAVES",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "21",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "LEONARDO FLAMARION MARQUES CHAVES",
+        "Componente Curricular": "CIV0481 - PROJETO DE GEOTECNIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "11",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "LUCIA REJANE DE ALMEIDA XAVIER",
+        "Componente Curricular": "CIV0440 - ENGENHARIA DE TRAFEGO URBANO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "26",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "LUCIA REJANE DE ALMEIDA XAVIER",
+        "Componente Curricular": "CIV0440 - ENGENHARIA DE TRAFEGO URBANO",
+        "Turma": "2",
+        "Horário": "24M12",
+        "Discentes": "15",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.64"
+    },
+    {
+        "Docente": "LUCIA REJANE DE ALMEIDA XAVIER",
+        "Componente Curricular": "CIV0433 - POLÍTICA E PLANEJAMENTO DE TRANSPORTES",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "32",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "2.14"
+    },
+    {
+        "Docente": "LUCIO FLAVIO FERREIRA MOREIRA",
+        "Componente Curricular": "CIV0496 - FENÔMENOS DOS TRANSPORTES",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "11",
+        "Média Geral": "8.76",
+        "Desvio Padrão Geral": "2.26"
+    },
+    {
+        "Docente": "LUCIO FLAVIO FERREIRA MOREIRA",
+        "Componente Curricular": "CIV0417 - HIDRÁULICA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "31",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "LUIZ ALESSANDRO PINHEIRO DA CAMARA DE QUEIROZ",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "43",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "LUIZ ALESSANDRO PINHEIRO DA CAMARA DE QUEIROZ",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "3",
+        "Horário": "35T34",
+        "Discentes": "36",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.5"
+    },
+    {
+        "Docente": "MARCOS LACERDA ALMEIDA",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "2",
+        "Horário": "35M34",
+        "Discentes": "50",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "2.15"
+    },
+    {
+        "Docente": "MARCOS LACERDA ALMEIDA",
+        "Componente Curricular": "CIV0429 - SEGURANÇA DO TRABALHO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "17",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.43"
+    },
+    {
+        "Docente": "MARIA DEL PILAR DURANTE INGUNZA",
+        "Componente Curricular": "CIV0406 - GEOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "35",
+        "Média Geral": "8.79",
+        "Desvio Padrão Geral": "2.36"
+    },
+    {
+        "Docente": "MARIA DEL PILAR DURANTE INGUNZA",
+        "Componente Curricular": "CIV0406 - GEOLOGIA",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "27",
+        "Média Geral": "9.42",
+        "Desvio Padrão Geral": "1.91"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0435 - INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "43",
+        "Média Geral": "9.81",
+        "Desvio Padrão Geral": "1.39"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0435 - INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "37",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0480 - PROJETO DE INSTALAÇÕES ELÉTRICAS",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "19",
+        "Média Geral": "9.71",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "MOACIR GUILHERMINO DA SILVA",
+        "Componente Curricular": "CIV0425 - ESTRADAS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "41",
+        "Média Geral": "8.29",
+        "Desvio Padrão Geral": "2.67"
+    },
+    {
+        "Docente": "MOACIR GUILHERMINO DA SILVA",
+        "Componente Curricular": "CIV0425 - ESTRADAS",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "23",
+        "Média Geral": "8.86",
+        "Desvio Padrão Geral": "1.87"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "1",
+        "Horário": "2M56",
+        "Discentes": "31",
+        "Média Geral": "7.4",
+        "Desvio Padrão Geral": "3.16"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "2",
+        "Horário": "2T56",
+        "Discentes": "26",
+        "Média Geral": "8.67",
+        "Desvio Padrão Geral": "2.34"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV0450 - MECÂNICA DOS SOLOS AVANÇADA",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "11",
+        "Média Geral": "7.92",
+        "Desvio Padrão Geral": "2.86"
+    },
+    {
+        "Docente": "OSVALDO DE FREITAS NETO",
+        "Componente Curricular": "CIV0432 - OBRAS DE TERRA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "34",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "OSVALDO DE FREITAS NETO",
+        "Componente Curricular": "CIV0451 - PAVIMENTAÇÃO",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "23",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0500 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO CIVIL",
+        "Turma": "1",
+        "Horário": "6M12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "18",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "2.22"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0500 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO CIVIL",
+        "Turma": "2",
+        "Horário": "6T12 (19/02/2018 - 07/07/2018)",
+        "Discentes": "9",
+        "Média Geral": "8.91",
+        "Desvio Padrão Geral": "2.39"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0495 - MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "29",
+        "Média Geral": "9.12",
+        "Desvio Padrão Geral": "2.6"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0495 - MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "22",
+        "Média Geral": "9.21",
+        "Desvio Padrão Geral": "1.98"
+    },
+    {
+        "Docente": "PEDRO HENRIQUE PINTO CAMPOS",
+        "Componente Curricular": "CIV0409 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "29",
+        "Média Geral": "8.57",
+        "Desvio Padrão Geral": "2.52"
+    },
+    {
+        "Docente": "PEDRO HENRIQUE PINTO CAMPOS",
+        "Componente Curricular": "CIV0106 - TOPOGRAFIA",
+        "Turma": "2",
+        "Horário": "35M12",
+        "Discentes": "21",
+        "Média Geral": "7.45",
+        "Desvio Padrão Geral": "2.79"
+    },
+    {
+        "Docente": "PEDRO HENRIQUE PINTO CAMPOS",
+        "Componente Curricular": "CIV0409 - TOPOGRAFIA",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "19",
+        "Média Geral": "8.55",
+        "Desvio Padrão Geral": "2.67"
+    },
+    {
+        "Docente": "RAY DE ARAUJO SOUSA",
+        "Componente Curricular": "CIV0416 - CONSTRUÇÃO CIVIL II",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "26",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "RAY DE ARAUJO SOUSA",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "20",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.92"
+    },
+    {
+        "Docente": "RAY DE ARAUJO SOUSA",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "21",
+        "Média Geral": "8.99",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "RAY DE ARAUJO SOUSA",
+        "Componente Curricular": "CIV0467 - PATOLOGIA E RECUPERAÇÃO DE EDIFICAÇÕES",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "20",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "RAY DE ARAUJO SOUSA",
+        "Componente Curricular": "CIV0481 - PROJETO DE GEOTECNIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "11",
+        "Média Geral": "9.08",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "ROBERTO JOSE DE MEDEIROS",
+        "Componente Curricular": "CIV0411 - RESISTÊNCIA DOS MATERIAIS I",
+        "Turma": "4",
+        "Horário": "35T56",
+        "Discentes": "12",
+        "Média Geral": "6.91",
+        "Desvio Padrão Geral": "3.42"
+    },
+    {
+        "Docente": "ROBERTO JOSE DE MEDEIROS",
+        "Componente Curricular": "CIV0418 - RESISTÊNCIA DOS MATERIAIS II",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "24",
+        "Média Geral": "6.79",
+        "Desvio Padrão Geral": "3.68"
+    },
+    {
+        "Docente": "RONALDO ANGELINI",
+        "Componente Curricular": "CIV1105 - ECOLOGIA APLICADA À ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "41",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "RUBENS EUGENIO BARRETO RAMOS",
+        "Componente Curricular": "CIV0424 - ANÁLISE DE SISTEMAS DE TRANSPORTE",
+        "Turma": "2",
+        "Horário": "6M2345",
+        "Discentes": "43",
+        "Média Geral": "6.94",
+        "Desvio Padrão Geral": "2.91"
+    },
+    {
+        "Docente": "RUBENS EUGENIO BARRETO RAMOS",
+        "Componente Curricular": "CIV0419 - ECONOMIA DA CONSTRUÇÃO E INFRAESTRUTURA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "29",
+        "Média Geral": "6.81",
+        "Desvio Padrão Geral": "2.93"
+    },
+    {
+        "Docente": "RUBENS EUGENIO BARRETO RAMOS",
+        "Componente Curricular": "CIV0466 - PROJETO DE ENGENHARIA DOS TRANSPORTES",
+        "Turma": "1",
+        "Horário": "2T3456",
+        "Discentes": "11",
+        "Média Geral": "8.77",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "SELMA HISSAE SHIMURA DA NOBREGA",
+        "Componente Curricular": "CIV0426 - ANÁLISE ESTRUTURAL II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "24",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "0.81"
+    },
+    {
+        "Docente": "SELMA HISSAE SHIMURA DA NOBREGA",
+        "Componente Curricular": "CIV0436 - ESTRUTURAS METÁLICAS",
+        "Turma": "2",
+        "Horário": "24M34",
+        "Discentes": "25",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.77"
+    },
+    {
+        "Docente": "VANESSA BECKER",
+        "Componente Curricular": "CIV1305 - LIMNOLOGIA",
+        "Turma": "1",
+        "Horário": "4T56 6T12",
+        "Discentes": "41",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.55"
+    },
+    {
+        "Docente": "VANESSA BECKER",
+        "Componente Curricular": "CIV1206 - MICROBIOLOGIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "5M3456 (19/02/2018 - 07/07/2018)",
+        "Discentes": "20",
+        "Média Geral": "9.9",
+        "Desvio Padrão Geral": "0.98"
+    },
+    {
+        "Docente": "VENERANDO EUSTAQUIO AMARO",
+        "Componente Curricular": "GEO0304 - SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "2M34 4T3456",
+        "Discentes": "14",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.99"
+    },
+    {
+        "Docente": "YURI DANIEL JATOBA COSTA",
+        "Componente Curricular": "CIV0427 - FUNDAÇÕES",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "27",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "YURI DANIEL JATOBA COSTA",
+        "Componente Curricular": "CIV0427 - FUNDAÇÕES",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "17",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "ADA CRISTINA SCUDELARI",
+        "Componente Curricular": "CIV0496 - FENÔMENOS DOS TRANSPORTES",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "28",
+        "Média Geral": "9.05",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "ADA CRISTINA SCUDELARI",
+        "Componente Curricular": "CIV1302 - HIDRÁULICA PARA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "44",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "ADA CRISTINA SCUDELARI",
+        "Componente Curricular": "CIV0478 - TÓPICOS ESPECIAIS EM RECURSOS HÍDRICOS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "12",
+        "Média Geral": "7.8",
+        "Desvio Padrão Geral": "2.32"
+    },
+    {
+        "Docente": "ADELENA GONCALVES MAIA",
+        "Componente Curricular": "CIV1306 - GESTÃO DE RECURSOS HÍDRICOS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "39",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "ADELENA GONCALVES MAIA",
+        "Componente Curricular": "CIV1104 - HIDROLOGIA",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "42",
+        "Média Geral": "9.43",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "10",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.05"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "32",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.21"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0459 - PROJETO DE INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "1",
+        "Horário": "35T12",
+        "Discentes": "17",
+        "Média Geral": "9.41",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0431 - SANEAMENTO AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "32",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "AMANDA BEZERRA DE SOUSA",
+        "Componente Curricular": "CIV0431 - SANEAMENTO AMBIENTAL",
+        "Turma": "3",
+        "Horário": "24M56",
+        "Discentes": "20",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0412 - ANÁLISE ESTRUTURAL I",
+        "Turma": "1",
+        "Horário": "24T65",
+        "Discentes": "21",
+        "Média Geral": "9.1",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0412 - ANÁLISE ESTRUTURAL I",
+        "Turma": "2",
+        "Horário": "35M43",
+        "Discentes": "27",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.48"
+    },
+    {
+        "Docente": "ANDERSON ALBINO FERREIRA",
+        "Componente Curricular": "CIV0405 - MECÂNICA TÉCNICA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "39",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "CARINA MAIA LINS COSTA",
+        "Componente Curricular": "CIV0420 - MECÂNICA DOS SOLOS II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "10",
+        "Média Geral": "9.74",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "CARINA MAIA LINS COSTA",
+        "Componente Curricular": "CIV0420 - MECÂNICA DOS SOLOS II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "29",
+        "Média Geral": "9.64",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "1",
+        "Horário": "2M65",
+        "Discentes": "32",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.44"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "2",
+        "Horário": "2T65",
+        "Discentes": "25",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "CIV0106 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "26M34",
+        "Discentes": "34",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "CIBELE GOUVEIA COSTA CHIANCA",
+        "Componente Curricular": "ARQ0535 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "26M12",
+        "Discentes": "20",
+        "Média Geral": "9.32",
+        "Desvio Padrão Geral": "1.65"
+    },
+    {
+        "Docente": "DIANA CARLA SECUNDO DA LUZ",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "2",
+        "Horário": "24N34",
+        "Discentes": "32",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "2.01"
+    },
+    {
+        "Docente": "DIANA CARLA SECUNDO DA LUZ",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "3",
+        "Horário": "24N12",
+        "Discentes": "42",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "0.95"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0496 - FENÔMENOS DOS TRANSPORTES",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "28",
+        "Média Geral": "9.29",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "10",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.08"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV0430 - FUNDAMENTOS DA ENGENHARIA AMBIENTAL",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "32",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "DIEGO SOUZA DE OLIVEIRA",
+        "Componente Curricular": "CIV1302 - HIDRÁULICA PARA ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "44",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0421 - ESTRUTURAS DE CONCRETO ARMADO I",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "16",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "2.25"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0428 - ESTRUTURAS DE CONCRETO ARMADO II",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "30",
+        "Média Geral": "8.72",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "EDMILSON LIRA MADUREIRA",
+        "Componente Curricular": "CIV0494 - MÉTODOS ANALÍTICOS E COMPUTACIONAIS",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "23",
+        "Média Geral": "9.27",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0433 - POLÍTICA E PLANEJAMENTO DE TRANSPORTES",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "13",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "1.17"
+    },
+    {
+        "Docente": "ENILSON MEDEIROS DOS SANTOS",
+        "Componente Curricular": "CIV0482 - PROJETOS IMOBILIÁRIOS",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "29",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "FAGNER ALEXANDRE NUNES DE FRANCA",
+        "Componente Curricular": "CIV1301 - FUNDAMENTOS DE GEOTECNIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "37",
+        "Média Geral": "9.88",
+        "Desvio Padrão Geral": "1.06"
+    },
+    {
+        "Docente": "FAGNER ALEXANDRE NUNES DE FRANCA",
+        "Componente Curricular": "CIV0415 - MECÂNICA DOS SOLOS I",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "38",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "FAGNER ALEXANDRE NUNES DE FRANCA",
+        "Componente Curricular": "CIV0415 - MECÂNICA DOS SOLOS I",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "11",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "0.97"
+    },
+    {
+        "Docente": "FERNANDA RODRIGUES MITTELBACH",
+        "Componente Curricular": "CIV0426 - ANÁLISE ESTRUTURAL II",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "34",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0436 - ESTRUTURAS METÁLICAS",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "19",
+        "Média Geral": "9.8",
+        "Desvio Padrão Geral": "1.13"
+    },
+    {
+        "Docente": "FRANCISCO ADRIANO DE ARAUJO",
+        "Componente Curricular": "CIV0494 - MÉTODOS ANALÍTICOS E COMPUTACIONAIS",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "28",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.52"
+    },
+    {
+        "Docente": "FRED GUEDES CUNHA",
+        "Componente Curricular": "CIV0410 - CONSTRUÇÃO CIVIL I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "20",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "FRED GUEDES CUNHA",
+        "Componente Curricular": "CIV0410 - CONSTRUÇÃO CIVIL I",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "24",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.66"
+    },
+    {
+        "Docente": "HELIO RODRIGUES DOS SANTOS",
+        "Componente Curricular": "CIV1405 - TRATAMENTO DE ÁGUA PARA ABASTECIMENTO",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "33",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.18"
+    },
+    {
+        "Docente": "HELIO RODRIGUES DOS SANTOS",
+        "Componente Curricular": "CIV1401 - TRATAMENTO DE ÁGUAS RESIDUÁRIAS",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "12",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "2.53"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "1",
+        "Horário": "3M345 (24/07/2017 - 16/12/2017)",
+        "Discentes": "21",
+        "Média Geral": "9.53",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "2",
+        "Horário": "5T123 (24/07/2017 - 16/12/2017)",
+        "Discentes": "9",
+        "Média Geral": "9.51",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "ISAIAS DA SILVA RIBEIRO",
+        "Componente Curricular": "CIV0493 - PROJETO ARQUITETÔNICO",
+        "Turma": "3",
+        "Horário": "6M345 (24/07/2017 - 16/12/2017)",
+        "Discentes": "14",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0403 - MATERIAIS DE CONSTRUÇÃO I",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "30",
+        "Média Geral": "9.11",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0403 - MATERIAIS DE CONSTRUÇÃO I",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "20",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "JAQUELIGIA BRITO DA SILVA",
+        "Componente Curricular": "CIV0442 - METODOLOGIA CIENTÍFICA E TECNOLÓGICA",
+        "Turma": "1",
+        "Horário": "3N12",
+        "Discentes": "51",
+        "Média Geral": "9.31",
+        "Desvio Padrão Geral": "1.45"
+    },
+    {
+        "Docente": "JOANA DARC FREIRE DE MEDEIROS",
+        "Componente Curricular": "CIV1404 - AVALIAÇÃO DE IMPACTOS AMBIENTAIS",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "17",
+        "Média Geral": "9.59",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "JOANA DARC FREIRE DE MEDEIROS",
+        "Componente Curricular": "CIV1202 - GESTÃO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "46",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "JOAO DE CARVALHO FILHO",
+        "Componente Curricular": "CIV0422 - HIDROLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "16",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "JOAO DE CARVALHO FILHO",
+        "Componente Curricular": "CIV0422 - HIDROLOGIA",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "16",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "JOAO DE CARVALHO FILHO",
+        "Componente Curricular": "CIV1104 - HIDROLOGIA",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "27",
+        "Média Geral": "9.44",
+        "Desvio Padrão Geral": "1.95"
+    },
+    {
+        "Docente": "JOEL ARAUJO DO NASCIMENTO NETO",
+        "Componente Curricular": "CIV0471 - ALVENARIA ESTRUTURAL",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "16",
+        "Média Geral": "8.83",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "JOEL ARAUJO DO NASCIMENTO NETO",
+        "Componente Curricular": "CIV0438 - ESTRUTURAS DE CONCRETO ARMADO III",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "32",
+        "Média Geral": "8.65",
+        "Desvio Padrão Geral": "2.04"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0428 - ESTRUTURAS DE CONCRETO ARMADO II",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "30",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "1.15"
+    },
+    {
+        "Docente": "JOSE NERES DA SILVA FILHO",
+        "Componente Curricular": "CIV0454 - PONTES",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "15",
+        "Média Geral": "9.25",
+        "Desvio Padrão Geral": "1.24"
+    },
+    {
+        "Docente": "JULIANA DELGADO TINOCO",
+        "Componente Curricular": "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO",
+        "Turma": "1",
+        "Horário": "246M56",
+        "Discentes": "44",
+        "Média Geral": "8.82",
+        "Desvio Padrão Geral": "1.81"
+    },
+    {
+        "Docente": "JULIANA DELGADO TINOCO",
+        "Componente Curricular": "CIV0434 - SISTEMAS URBANOS DE ÁGUA E ESGOTO",
+        "Turma": "2",
+        "Horário": "246T34",
+        "Discentes": "38",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.23"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0421 - ESTRUTURAS DE CONCRETO ARMADO I",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "11",
+        "Média Geral": "9.2",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0438 - ESTRUTURAS DE CONCRETO ARMADO III",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "29",
+        "Média Geral": "9.26",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "JULIO CESAR TAVARES DE LUCENA",
+        "Componente Curricular": "CIV0405 - MECÂNICA TÉCNICA",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "11",
+        "Média Geral": "8.45",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "KARINA PATRICIA VIEIRA DA CUNHA",
+        "Componente Curricular": "CIV1203 - PEDOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "39",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "1.69"
+    },
+    {
+        "Docente": "KARINA PATRICIA VIEIRA DA CUNHA",
+        "Componente Curricular": "CIV1304 - RECUPERAÇÃO DE ÁREAS DEGRADADAS",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "35",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "18",
+        "Média Geral": "9.09",
+        "Desvio Padrão Geral": "1.54"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "17",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "KARLA SUSANNA CORREIA CAVALCANTI DE ALBUQUERQUE",
+        "Componente Curricular": "CIV0402 - DESENHO BÁSICO",
+        "Turma": "3",
+        "Horário": "35M12",
+        "Discentes": "16",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "LAISE KELLEY LEMOS BARBOSA",
+        "Componente Curricular": "CIV0416 - CONSTRUÇÃO CIVIL II",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "17",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.35"
+    },
+    {
+        "Docente": "LAISE KELLEY LEMOS BARBOSA",
+        "Componente Curricular": "CIV0490 - LEGISLAÇÃO NA CONSTRUÇÃO CIVIL",
+        "Turma": "2",
+        "Horário": "24M56",
+        "Discentes": "31",
+        "Média Geral": "9.22",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "LARISSA CAROLINE SARAIVA FERREIRA",
+        "Componente Curricular": "CIV1403 - GESTÃO DE RESÍDUOS SÓLIDOS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "35",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "LARISSA CAROLINE SARAIVA FERREIRA",
+        "Componente Curricular": "CIV1205 - QUALIDADE DA ÁGUA",
+        "Turma": "1",
+        "Horário": "36M34",
+        "Discentes": "46",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.19"
+    },
+    {
+        "Docente": "LARISSA CAROLINE SARAIVA FERREIRA",
+        "Componente Curricular": "CIV1303 - SANEAMENTO AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T34",
+        "Discentes": "30",
+        "Média Geral": "9.85",
+        "Desvio Padrão Geral": "1.07"
+    },
+    {
+        "Docente": "LEONARDO FLAMARION MARQUES CHAVES",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "32",
+        "Média Geral": "8.56",
+        "Desvio Padrão Geral": "1.49"
+    },
+    {
+        "Docente": "LEONARDO FLAMARION MARQUES CHAVES",
+        "Componente Curricular": "CIV0437 - ESTRUTURAS DE CONTENÇÃO",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "28",
+        "Média Geral": "8.95",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "LEONARDO FLAMARION MARQUES CHAVES",
+        "Componente Curricular": "CIV0481 - PROJETO DE GEOTECNIA",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "14",
+        "Média Geral": "8.61",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "LUCAS DA SILVA MORAES",
+        "Componente Curricular": "CIV0409 - TOPOGRAFIA",
+        "Turma": "1",
+        "Horário": "3M3456",
+        "Discentes": "11",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "0.88"
+    },
+    {
+        "Docente": "LUCAS DA SILVA MORAES",
+        "Componente Curricular": "CIV0409 - TOPOGRAFIA",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "32",
+        "Média Geral": "9.65",
+        "Desvio Padrão Geral": "1.57"
+    },
+    {
+        "Docente": "LUCAS DA SILVA MORAES",
+        "Componente Curricular": "CIV0106 - TOPOGRAFIA",
+        "Turma": "2",
+        "Horário": "24M34",
+        "Discentes": "48",
+        "Média Geral": "9.36",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "LUCIA REJANE DE ALMEIDA XAVIER",
+        "Componente Curricular": "CIV0440 - ENGENHARIA DE TRAFEGO URBANO",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "30",
+        "Média Geral": "9.5",
+        "Desvio Padrão Geral": "1.41"
+    },
+    {
+        "Docente": "LUCIA REJANE DE ALMEIDA XAVIER",
+        "Componente Curricular": "CIV0440 - ENGENHARIA DE TRAFEGO URBANO",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "21",
+        "Média Geral": "9.7",
+        "Desvio Padrão Geral": "1.33"
+    },
+    {
+        "Docente": "LUCIA REJANE DE ALMEIDA XAVIER",
+        "Componente Curricular": "CIV0433 - POLÍTICA E PLANEJAMENTO DE TRANSPORTES",
+        "Turma": "2",
+        "Horário": "24T56",
+        "Discentes": "32",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.68"
+    },
+    {
+        "Docente": "LUCIO FLAVIO FERREIRA MOREIRA",
+        "Componente Curricular": "CIV0496 - FENÔMENOS DOS TRANSPORTES",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "18",
+        "Média Geral": "8.59",
+        "Desvio Padrão Geral": "2.57"
+    },
+    {
+        "Docente": "LUCIO FLAVIO FERREIRA MOREIRA",
+        "Componente Curricular": "CIV0417 - HIDRÁULICA",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "32",
+        "Média Geral": "9.16",
+        "Desvio Padrão Geral": "1.75"
+    },
+    {
+        "Docente": "LUIZ ALESSANDRO PINHEIRO DA CAMARA DE QUEIROZ",
+        "Componente Curricular": "CIV0445 - FUNDAMENTOS DO PROJETO DE EDIFÍCIOS",
+        "Turma": "1",
+        "Horário": "4T3456",
+        "Discentes": "8",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "0.82"
+    },
+    {
+        "Docente": "LUIZ ALESSANDRO PINHEIRO DA CAMARA DE QUEIROZ",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "42",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.12"
+    },
+    {
+        "Docente": "LUIZ ALESSANDRO PINHEIRO DA CAMARA DE QUEIROZ",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "29",
+        "Média Geral": "9.49",
+        "Desvio Padrão Geral": "1.14"
+    },
+    {
+        "Docente": "MARCOS LACERDA ALMEIDA",
+        "Componente Curricular": "CIV0348 - LEGISLACAO E SEGURANCA DO TRABALHO",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "47",
+        "Média Geral": "9",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "MARCOS LACERDA ALMEIDA",
+        "Componente Curricular": "CIV0429 - SEGURANÇA DO TRABALHO",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "23",
+        "Média Geral": "9.04",
+        "Desvio Padrão Geral": "1.83"
+    },
+    {
+        "Docente": "MARCOS LACERDA ALMEIDA",
+        "Componente Curricular": "CIV0429 - SEGURANÇA DO TRABALHO",
+        "Turma": "2",
+        "Horário": "35N12",
+        "Discentes": "23",
+        "Média Geral": "8.9",
+        "Desvio Padrão Geral": "1.28"
+    },
+    {
+        "Docente": "MARIA DEL PILAR DURANTE INGUNZA",
+        "Componente Curricular": "CIV0406 - GEOLOGIA",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "27",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.71"
+    },
+    {
+        "Docente": "MARIA DEL PILAR DURANTE INGUNZA",
+        "Componente Curricular": "CIV0406 - GEOLOGIA",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "21",
+        "Média Geral": "9.46",
+        "Desvio Padrão Geral": "1.51"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0435 - INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "53",
+        "Média Geral": "9.39",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0435 - INSTALAÇÕES HIDROSSANITÁRIAS",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "32",
+        "Média Geral": "9.73",
+        "Desvio Padrão Geral": "1.02"
+    },
+    {
+        "Docente": "MICHELINE DAMIAO DIAS MOREIRA",
+        "Componente Curricular": "CIV0480 - PROJETO DE INSTALAÇÕES ELÉTRICAS",
+        "Turma": "1",
+        "Horário": "35M34",
+        "Discentes": "14",
+        "Média Geral": "9.83",
+        "Desvio Padrão Geral": "0.81"
+    },
+    {
+        "Docente": "MOACIR GUILHERMINO DA SILVA",
+        "Componente Curricular": "CIV0425 - ESTRADAS",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "30",
+        "Média Geral": "9.3",
+        "Desvio Padrão Geral": "1.82"
+    },
+    {
+        "Docente": "MOACIR GUILHERMINO DA SILVA",
+        "Componente Curricular": "CIV0425 - ESTRADAS",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "31",
+        "Média Geral": "8.96",
+        "Desvio Padrão Geral": "1.78"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV1101 - GEOLOGIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "49",
+        "Média Geral": "9.15",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "1",
+        "Horário": "2M65",
+        "Discentes": "32",
+        "Média Geral": "8.94",
+        "Desvio Padrão Geral": "1.67"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV0401 - INTRODUÇÃO À ENGENHARIA CIVIL",
+        "Turma": "2",
+        "Horário": "2T65",
+        "Discentes": "25",
+        "Média Geral": "9.23",
+        "Desvio Padrão Geral": "1.43"
+    },
+    {
+        "Docente": "OLAVO FRANCISCO DOS SANTOS JUNIOR",
+        "Componente Curricular": "CIV0432 - OBRAS DE TERRA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "49",
+        "Média Geral": "9.76",
+        "Desvio Padrão Geral": "1.1"
+    },
+    {
+        "Docente": "OSVALDO DE FREITAS NETO",
+        "Componente Curricular": "CIV0470 - BARRAGENS DE TERRA",
+        "Turma": "2",
+        "Horário": "3M3456",
+        "Discentes": "11",
+        "Média Geral": "9.18",
+        "Desvio Padrão Geral": "1.4"
+    },
+    {
+        "Docente": "OSVALDO DE FREITAS NETO",
+        "Componente Curricular": "CIV0432 - OBRAS DE TERRA",
+        "Turma": "1",
+        "Horário": "24N12",
+        "Discentes": "49",
+        "Média Geral": "9.75",
+        "Desvio Padrão Geral": "1.09"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0500 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO CIVIL",
+        "Turma": "1",
+        "Horário": "6M12 (24/07/2017 - 16/12/2017)",
+        "Discentes": "20",
+        "Média Geral": "9.62",
+        "Desvio Padrão Geral": "1.73"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0500 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO CIVIL",
+        "Turma": "2",
+        "Horário": "6T12 (24/07/2017 - 16/12/2017)",
+        "Discentes": "15",
+        "Média Geral": "9.77",
+        "Desvio Padrão Geral": "1.42"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0495 - MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "23",
+        "Média Geral": "9.58",
+        "Desvio Padrão Geral": "1.6"
+    },
+    {
+        "Docente": "PAULO ALYSSON BRILHANTE FAHEINA DE SOUZA",
+        "Componente Curricular": "CIV0495 - MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "17",
+        "Média Geral": "9.72",
+        "Desvio Padrão Geral": "1.31"
+    },
+    {
+        "Docente": "PEDRO MEDEIROS PITOMBEIRA CUNHA",
+        "Componente Curricular": "CIV0412 - ANÁLISE ESTRUTURAL I",
+        "Turma": "1",
+        "Horário": "24T65",
+        "Discentes": "21",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "1.2"
+    },
+    {
+        "Docente": "PEDRO MEDEIROS PITOMBEIRA CUNHA",
+        "Componente Curricular": "CIV0412 - ANÁLISE ESTRUTURAL I",
+        "Turma": "2",
+        "Horário": "35M43",
+        "Discentes": "27",
+        "Média Geral": "9.86",
+        "Desvio Padrão Geral": "0.83"
+    },
+    {
+        "Docente": "PEDRO MEDEIROS PITOMBEIRA CUNHA",
+        "Componente Curricular": "CIV0405 - MECÂNICA TÉCNICA",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "39",
+        "Média Geral": "9.55",
+        "Desvio Padrão Geral": "1.59"
+    },
+    {
+        "Docente": "RENATA CRISTINA MEDEIROS TRAJANO DE ARAUJO",
+        "Componente Curricular": "CIV1822 - AUDITORIA E PERÍCIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "4T65 4N1",
+        "Discentes": "25",
+        "Média Geral": "9.4",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "RENATA CRISTINA MEDEIROS TRAJANO DE ARAUJO",
+        "Componente Curricular": "CIV1106 - FUNDAMENTOS DE CARTOGRAFIA E SENSORIAMENTO REMOTO",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "47",
+        "Média Geral": "9.57",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "RENATA CRISTINA MEDEIROS TRAJANO DE ARAUJO",
+        "Componente Curricular": "CIV1101 - GEOLOGIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "35T56",
+        "Discentes": "49",
+        "Média Geral": "9.87",
+        "Desvio Padrão Geral": "0.74"
+    },
+    {
+        "Docente": "ROBERTO JOSE DE MEDEIROS",
+        "Componente Curricular": "CIV0411 - RESISTÊNCIA DOS MATERIAIS I",
+        "Turma": "2",
+        "Horário": "35T34",
+        "Discentes": "25",
+        "Média Geral": "8.88",
+        "Desvio Padrão Geral": "2.41"
+    },
+    {
+        "Docente": "ROBERTO JOSE DE MEDEIROS",
+        "Componente Curricular": "CIV0418 - RESISTÊNCIA DOS MATERIAIS II",
+        "Turma": "1",
+        "Horário": "24M56",
+        "Discentes": "34",
+        "Média Geral": "9.48",
+        "Desvio Padrão Geral": "1.61"
+    },
+    {
+        "Docente": "RONALDO ANGELINI",
+        "Componente Curricular": "CIV1105 - ECOLOGIA APLICADA À ENGENHARIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "24T34",
+        "Discentes": "47",
+        "Média Geral": "9.47",
+        "Desvio Padrão Geral": "1.25"
+    },
+    {
+        "Docente": "RUBENS EUGENIO BARRETO RAMOS",
+        "Componente Curricular": "CIV0424 - ANÁLISE DE SISTEMAS DE TRANSPORTE",
+        "Turma": "1",
+        "Horário": "6M3456",
+        "Discentes": "42",
+        "Média Geral": "9.07",
+        "Desvio Padrão Geral": "1.58"
+    },
+    {
+        "Docente": "RUBENS EUGENIO BARRETO RAMOS",
+        "Componente Curricular": "CIV0419 - ECONOMIA DA CONSTRUÇÃO E INFRAESTRUTURA",
+        "Turma": "1",
+        "Horário": "35M56",
+        "Discentes": "38",
+        "Média Geral": "8.66",
+        "Desvio Padrão Geral": "1.53"
+    },
+    {
+        "Docente": "SELMA HISSAE SHIMURA DA NOBREGA",
+        "Componente Curricular": "CIV0426 - ANÁLISE ESTRUTURAL II",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "9",
+        "Média Geral": "9.79",
+        "Desvio Padrão Geral": "0.81"
+    },
+    {
+        "Docente": "SELMA HISSAE SHIMURA DA NOBREGA",
+        "Componente Curricular": "CIV0447 - ANÁLISE MATRICIAL DE ESTRUTURAS",
+        "Turma": "1",
+        "Horário": "6M1234",
+        "Discentes": "18",
+        "Média Geral": "9.6",
+        "Desvio Padrão Geral": "1.01"
+    },
+    {
+        "Docente": "SELMA HISSAE SHIMURA DA NOBREGA",
+        "Componente Curricular": "CIV0436 - ESTRUTURAS METÁLICAS",
+        "Turma": "1",
+        "Horário": "24M34",
+        "Discentes": "41",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.34"
+    },
+    {
+        "Docente": "TAMMS MARIA DA CONCEICAO MORAIS CAMPOS",
+        "Componente Curricular": "CIV0445 - FUNDAMENTOS DO PROJETO DE EDIFÍCIOS",
+        "Turma": "1",
+        "Horário": "4T3456",
+        "Discentes": "8",
+        "Média Geral": "9.38",
+        "Desvio Padrão Geral": "0.91"
+    },
+    {
+        "Docente": "TAMMS MARIA DA CONCEICAO MORAIS CAMPOS",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "1",
+        "Horário": "35N12",
+        "Discentes": "42",
+        "Média Geral": "9.37",
+        "Desvio Padrão Geral": "1.37"
+    },
+    {
+        "Docente": "TAMMS MARIA DA CONCEICAO MORAIS CAMPOS",
+        "Componente Curricular": "CIV0414 - PLANEJAMENTO URBANO E TERRITORIAL",
+        "Turma": "2",
+        "Horário": "35T56",
+        "Discentes": "29",
+        "Média Geral": "9.54",
+        "Desvio Padrão Geral": "1.3"
+    },
+    {
+        "Docente": "TERCIO PEREIRA JOVEM",
+        "Componente Curricular": "CIV0439 - ESTRUTURAS DE MADEIRA",
+        "Turma": "1",
+        "Horário": "6M12",
+        "Discentes": "34",
+        "Média Geral": "7.24",
+        "Desvio Padrão Geral": "2.17"
+    },
+    {
+        "Docente": "TERCIO PEREIRA JOVEM",
+        "Componente Curricular": "CIV0439 - ESTRUTURAS DE MADEIRA",
+        "Turma": "2",
+        "Horário": "6T12",
+        "Discentes": "30",
+        "Média Geral": "9.06",
+        "Desvio Padrão Geral": "1.47"
+    },
+    {
+        "Docente": "TERCIO PEREIRA JOVEM",
+        "Componente Curricular": "CIV0411 - RESISTÊNCIA DOS MATERIAIS I",
+        "Turma": "1",
+        "Horário": "46M34",
+        "Discentes": "28",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "2.06"
+    },
+    {
+        "Docente": "TERCIO PEREIRA JOVEM",
+        "Componente Curricular": "CIV0418 - RESISTÊNCIA DOS MATERIAIS II",
+        "Turma": "2",
+        "Horário": "24T34",
+        "Discentes": "26",
+        "Média Geral": "8.32",
+        "Desvio Padrão Geral": "1.84"
+    },
+    {
+        "Docente": "VANESSA BECKER",
+        "Componente Curricular": "CIV1305 - LIMNOLOGIA",
+        "Turma": "1",
+        "Horário": "4T56 6T12",
+        "Discentes": "19",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.03"
+    },
+    {
+        "Docente": "VANESSA BECKER",
+        "Componente Curricular": "CIV1206 - MICROBIOLOGIA AMBIENTAL",
+        "Turma": "1",
+        "Horário": "5M3456 (24/07/2017 - 16/12/2017)",
+        "Discentes": "43",
+        "Média Geral": "9.68",
+        "Desvio Padrão Geral": "1.27"
+    },
+    {
+        "Docente": "VENERANDO EUSTAQUIO AMARO",
+        "Componente Curricular": "GEO0351 - PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Turma": "1",
+        "Horário": "2T123",
+        "Discentes": "15",
+        "Média Geral": "8.97",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "VENERANDO EUSTAQUIO AMARO",
+        "Componente Curricular": "CIV1819 - SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+        "Turma": "1",
+        "Horário": "3T345",
+        "Discentes": "22",
+        "Média Geral": "9.45",
+        "Desvio Padrão Geral": "1.46"
+    },
+    {
+        "Docente": "VENERANDO EUSTAQUIO AMARO",
+        "Componente Curricular": "GEO0069 - TÓPICOS EM GEOLOGIA PARA ECOLOGIA",
+        "Turma": "1",
+        "Horário": "2N12",
+        "Discentes": "33",
+        "Média Geral": "8.29",
+        "Desvio Padrão Geral": "2.29"
+    },
+    {
+        "Docente": "WESLEY FEU DOS SANTOS",
+        "Componente Curricular": "CIV0416 - CONSTRUÇÃO CIVIL II",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "30",
+        "Média Geral": "9.63",
+        "Desvio Padrão Geral": "0.87"
+    },
+    {
+        "Docente": "WESLEY FEU DOS SANTOS",
+        "Componente Curricular": "CIV1301 - FUNDAMENTOS DE GEOTECNIA",
+        "Turma": "1",
+        "Horário": "24T12",
+        "Discentes": "37",
+        "Média Geral": "9.82",
+        "Desvio Padrão Geral": "1.04"
+    },
+    {
+        "Docente": "WESLEY FEU DOS SANTOS",
+        "Componente Curricular": "CIV0415 - MECÂNICA DOS SOLOS I",
+        "Turma": "1",
+        "Horário": "24M12",
+        "Discentes": "38",
+        "Média Geral": "9.34",
+        "Desvio Padrão Geral": "1.32"
+    },
+    {
+        "Docente": "WESLEY FEU DOS SANTOS",
+        "Componente Curricular": "CIV0415 - MECÂNICA DOS SOLOS I",
+        "Turma": "2",
+        "Horário": "24T12",
+        "Discentes": "11",
+        "Média Geral": "9.66",
+        "Desvio Padrão Geral": "0.99"
+    },
+    {
+        "Docente": "YURI DANIEL JATOBA COSTA",
+        "Componente Curricular": "CIV0427 - FUNDAÇÕES",
+        "Turma": "1",
+        "Horário": "35M12",
+        "Discentes": "24",
+        "Média Geral": "9.67",
+        "Desvio Padrão Geral": "1.11"
+    },
+    {
+        "Docente": "YURI DANIEL JATOBA COSTA",
+        "Componente Curricular": "CIV0427 - FUNDAÇÕES",
+        "Turma": "2",
+        "Horário": "35T12",
+        "Discentes": "34",
+        "Média Geral": "9.02",
+        "Desvio Padrão Geral": "1.53"
+    }
+]
