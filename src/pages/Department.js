@@ -45,7 +45,10 @@ function Department({}) {
   };
 
   const getJsonData = async () => {
-    const jsonFilePath = `/data/${departmentKey}/2019-2017-refined.json`;
+    let jsonFilePath = `/data/${departmentKey}/2019-2017-refined.json`;
+    if (process.env.NODE_ENV !== "development") {
+      jsonFilePath = `/professor-rank/front/data/${departmentKey}/2019-2017-refined.json`;
+    }
     fetch(jsonFilePath)
       .then(async (res) => {
         let resData = await res.json();
