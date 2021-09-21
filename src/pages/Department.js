@@ -65,7 +65,7 @@ function Department({}) {
 
   React.useEffect(() => {
     firebase.analytics().logEvent("select_content", {
-      department: departmentKey,
+      name: departmentKey,
     });
 
     getJsonData();
