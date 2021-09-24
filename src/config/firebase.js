@@ -11,8 +11,10 @@ if (firebase.apps.length === 0) {
     storageBucket: "circular-ufrn.appspot.com",
     messagingSenderId: "188902688357",
     appId: "1:188902688357:web:599605bf988a91e6c0a88c",
-    measurementId: "G-MYVKFBMTKT"
+    measurementId: "G-MYVKFBMTKT",
   });
+
+  firebase.analytics();
 }
 
 export default firebase;

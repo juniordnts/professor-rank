@@ -36,7 +36,7 @@ function Home() {
                 ficou comprometida. Acredito que consigo colocar os dados atualizados somente em
                 2021.1
               </p>
-              <hr />
+              <hr className="with-border" />
               <p className="text-primary text-center">Escolha um departamento:</p>
             </small>
 

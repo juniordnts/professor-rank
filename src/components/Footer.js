@@ -6,7 +6,7 @@ function Footer() {
 
   return (
     <footer className="text-muted">
-      <hr className="featurette-divider" />
+      <hr className="with-border" />
       {/* <p className="float-right">
           <a href="https://play.google.com/store/apps/details?id=com.circular.ufrn" target="_blank">
             <img src="./assets/css/white_icon.png" width="80" />

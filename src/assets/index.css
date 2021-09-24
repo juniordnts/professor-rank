@@ -36,7 +36,8 @@ th button {
 
 #professores > div,
 #disciplinas > div,
-#geral > div {
+#geral > div,
+.bg-div-dark {
   background-color: var(--main-bg-light);
 }
 
@@ -96,8 +97,12 @@ th button {
   padding: 0 5px;
 }
 
-hr:last-child {
+/* hr:last-child {
   display: none;
+} */
+
+hr.with-border {
+  border-color: #dee2e627;
 }
 
 tbody tr,

@@ -1,9 +1,9 @@
 import React from "react";
 import { Link, useParams, useHistory } from "react-router-dom";
 
-import { Button, Popover, PopoverHeader, PopoverBody } from "reactstrap";
+import { PopoverHeader, PopoverBody, UncontrolledPopover } from "reactstrap";
 
-function Professor({ professorInfo, professorName, search }) {
+function Professor({ professorInfo, professorName, search, parametros }) {
   const [popoverOpen, setPopoverOpen] = React.useState(false);
   const toggle = () => setPopoverOpen(!popoverOpen);
 
@@ -11,9 +11,15 @@ function Professor({ professorInfo, professorName, search }) {
   const toggleDis = () => setPopoverOpenDis(!popoverOpenDis);
 
   const avalNota = (infoAval) => {
-    if (infoAval.MediaDeNotas >= 9.2 && infoAval.MediaDeDesvios <= 1.9) {
+    if (
+      infoAval.MediaDeNotas >= parametros.notaVer &&
+      infoAval.MediaDeDesvios <= parametros.desvioVer
+    ) {
       return "text-success";
-    } else if (infoAval.MediaDeNotas >= 8.7 && infoAval.MediaDeDesvios <= 2.2) {
+    } else if (
+      infoAval.MediaDeNotas >= parametros.notaAma &&
+      infoAval.MediaDeDesvios <= parametros.desvioAma
+    ) {
       return "text-warning";
     }
     return "text-danger";
@@ -30,7 +36,7 @@ function Professor({ professorInfo, professorName, search }) {
     return true;
   };
 
-  React.useEffect(() => {}, []);
+  React.useEffect(() => {}, [parametros]);
 
   return (
     <tr className={handleSearchShow() ? "" : "d-none"}>
@@ -38,10 +44,12 @@ function Professor({ professorInfo, professorName, search }) {
         <button
           id={"pointpopover-" + professorName.replace(/[^a-zA-Z0-9]/g, "_")}
           className="btn-transparent"
+          onClick={(e) => e.currentTarget.focus()}
         >
           <i className={"fas fa-circle " + avalNota(professorInfo)}></i>
         </button>
-        <Popover
+        <UncontrolledPopover
+          trigger="focus"
           placement="top"
           isOpen={popoverOpen}
           target={"pointpopover-" + professorName.replace(/[^a-zA-Z0-9]/g, "_")}
@@ -50,21 +58,24 @@ function Professor({ professorInfo, professorName, search }) {
           <PopoverHeader>Pontuação</PopoverHeader>
           <PopoverBody>
             <b>
-              <i className="fas fa-chart-bar" /> 8.54 &nbsp;&nbsp;&nbsp;&nbsp;
-              <i className="fab fa-deviantart" /> 2.17
+              <i className="fas fa-chart-bar" /> {professorInfo.MediaDeNotas.toFixed(2)}
+              &nbsp;&nbsp;&nbsp;&nbsp;
+              <i className="fab fa-deviantart" /> {professorInfo.MediaDeDesvios.toFixed(2)}
             </b>
           </PopoverBody>
-        </Popover>
+        </UncontrolledPopover>
       </th>
       <td>{professorName}</td>
       <td>
         <button
           id={"dispopover-" + professorName.replace(/[^a-zA-Z0-9]/g, "_")}
           className="btn-transparent"
+          onClick={(e) => e.currentTarget.focus()}
         >
           <i className="fas fa-chalkboard-teacher"></i>
         </button>
-        <Popover
+        <UncontrolledPopover
+          trigger="focus"
           placement="top"
           isOpen={popoverOpenDis}
           target={"dispopover-" + professorName.replace(/[^a-zA-Z0-9]/g, "_")}
@@ -86,7 +97,7 @@ function Professor({ professorInfo, professorName, search }) {
               </React.Fragment>
             ))}
           </PopoverBody>
-        </Popover>
+        </UncontrolledPopover>
       </td>
     </tr>
   );

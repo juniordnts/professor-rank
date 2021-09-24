@@ -2,6 +2,7 @@ import React from "react";
 import { Link, useParams, useHistory } from "react-router-dom";
 
 import data from "../assets/data";
+import ParamsForm from "../components/ParamsForm";
 import Professor from "../components/Professor";
 
 import firebase from "../config/firebase";
@@ -13,6 +14,13 @@ function Department({}) {
   const [jsonData, setJsonData] = React.useState({});
   const [loader, setLoader] = React.useState(true);
   const [name, setName] = React.useState("");
+
+  const [parametros, setParametros] = React.useState({
+    notaVer: 9.2,
+    desvioVer: 1.9,
+    notaAma: 8.7,
+    desvioAma: 2.2,
+  });
 
   const [search, setSeach] = React.useState("");
 
@@ -85,34 +93,38 @@ function Department({}) {
       <div className="container">
         <div className="tab-content text-white">
           <div className="container text-center mt-4">
-            <h5 id="dep-name" className="text-primary font-weight-light">
+            <h3 id="dep-name" className="text-primary font-weight-light">
               {name}
-            </h5>
+            </h3>
+          </div>
+
+          <div className="bg-div-dark rounded mt-3">
+            <div className="p-3">
+              <p className="mb-0">
+                <small className="text-muted">
+                  Você pode clicar em "<i className="fas fa-chalkboard-teacher"></i>" para ver a
+                  avaliação desse professor nas turmas que ele lecionou. A nota final dele é um
+                  média destas.
+                </small>
+              </p>
+            </div>
           </div>
 
           {/* <!-- Ver Professores --> */}
           <div className="tab-pane fade show active" id="geral">
+            {/* <p className="text-muted mb-0 mt-3">Parâmetros de filtragem:</p> */}
             <input
               type="text"
-              className="form-control mt-4 buscar-professor w-100"
+              className="form-control buscar-professor w-100 mt-3"
               placeholder="Buscar Professor"
               value={search}
               onChange={(e) => setSeach(e.target.value)}
             />
-            <div className="container mt-5 p-2 rounded">
-              <div className="text-center d-none">Sem resultados para a busca</div>
-              <div className="p-3">
-                <p className="mb-1">
-                  <small className="text-muted"> A lista está em ordem alfabética. </small>
-                </p>
-                <p>
-                  <small className="text-muted">
-                    Você pode clicar em "<i className="fas fa-chalkboard-teacher"></i>" para ver a
-                    avaliação desse professor nas turmas que ele lecionou. A nota final dele é um
-                    média destas.
-                  </small>
-                </p>
-              </div>
+
+            <ParamsForm setParametros={setParametros} />
+
+            <div className="container mt-3 p-2 rounded">
+              {/* <div className="text-center">Sem resultados para a busca</div> */}
 
               {loader && (
                 <h1 className="text-center h1" id="loader">
@@ -128,64 +140,17 @@ function Department({}) {
                       professorInfo={jsonData[professor]}
                       professorName={professor}
                       search={search}
+                      parametros={parametros}
                     />
                   ))}
                 </tbody>
               </table>
             </div>
           </div>
-
-          {/* <!-- Comparar Professores --> */}
-          <div className="tab-pane fade" id="professores">
-            <input
-              type="text"
-              className="form-control mx-auto mt-5 buscar-professor"
-              placeholder="Buscar Professor"
-            />
-            <div className="quadro-resultados rounded">
-              <small>
-                <div className="container mt-4 p-2 rounded">
-                  <div className="text-center pb-2">
-                    <span>QUADRO DE COMPARAÇÃO</span>
-                    <button
-                      className="btn-transparent ajuda"
-                      data-toggle="tooltip"
-                      data-placement="top"
-                      title="Clique para ver ajuda"
-                    >
-                      <i className="fas fa-question-circle"></i>
-                    </button>
-                  </div>
-                  <table
-                    className="table table-hover mb-0 mx-auto"
-                    style={{ tableLayout: "fixed" }}
-                  >
-                    <tbody id="table-comparacao" className="w-100"></tbody>
-                  </table>
-                </div>
-              </small>
-            </div>
-            <br />
-            <p>
-              <small className="text-muted">Clique duas vezes para adicionar ou remover</small>
-            </p>
-            <div className="container p-2 rounded quadro-normal">
-              <div className="text-center d-none">SEM RESULTADOS PARA A BUSCA</div>
-              <table className="table table-hover mb-0" style={{ tableLayout: "fixed" }}>
-                <tbody id="table-professores"></tbody>
-              </table>
-            </div>
-          </div>
+          {/*  */}
 
           {/* <!-- Comparar Disciplinas --> */}
           <div className="tab-pane fade" id="disciplinas">
-            <input
-              type="text"
-              className="form-control mx-auto mt-5 buscar-professor"
-              id="buscar-professor"
-              placeholder="Buscar Disciplina"
-            />
-
             <div className="quadro-resultados rounded">
               <small>
                 <div className="container mt-4 p-3 rounded">
@@ -242,18 +207,6 @@ function Department({}) {
                             <i className="fas fa-chalkboard-teacher"></i>
                           </button>
                         </td>
-                        <td>
-                          <button
-                            className="btn-transparent"
-                            data-toggle="popover"
-                            title="Um amorzinho"
-                            data-trigger="focus"
-                            data-placement="top"
-                            data-content="Não tem nem o que falar 😊"
-                          >
-                            <i className="fas fa-heart text-success"></i>
-                          </button>
-                        </td>
                       </tr>
 
                       <tr>
@@ -283,18 +236,6 @@ function Department({}) {
                             data-content="<i class='fas fa-circle text-success'></i> ECT2414 - ELETRICIDADE APLICADA"
                           >
                             <i className="fas fa-chalkboard-teacher"></i>
-                          </button>
-                        </td>
-                        <td>
-                          <button
-                            className="btn-transparent"
-                            data-toggle="popover"
-                            title="Tenha cuidado"
-                            data-trigger="focus"
-                            data-placement="top"
-                            data-content="Talvez seja melhor procurar outro professor 😐"
-                          >
-                            <i className="fas fa-exclamation-circle text-warning"></i>
                           </button>
                         </td>
                       </tr>
@@ -328,18 +269,6 @@ function Department({}) {
                             <i className="fas fa-chalkboard-teacher"></i>
                           </button>
                         </td>
-                        <td>
-                          <button
-                            className="btn-transparent"
-                            data-toggle="popover"
-                            title="Vixi"
-                            data-trigger="focus"
-                            data-placement="top"
-                            data-content="Se é sua unica opção, boa sorte 😥<hr class='m-2'/>Esse professor(a) varia o 'humor' de semestre para semestre"
-                          >
-                            <i className="fas fa-radiation text-danger"></i>
-                          </button>
-                        </td>
                       </tr>
                     </tbody>
                   </table>
@@ -350,94 +279,12 @@ function Department({}) {
             <div className="container mt-4 p-2 rounded quadro-normal">
               <div className="text-center d-none">SEM RESULTADOS PARA A BUSCA</div>
               <table className="table table-hover mb-0" style={{ tableLayout: "fixed" }}>
-                <tbody>
-                  <tr>
-                    <th scope="row">
-                      <button
-                        className="btn-transparent"
-                        data-toggle="popover"
-                        title="Pontuação"
-                        data-trigger="focus"
-                        data-placement="top"
-                        data-content="<b><i class='fas fa-chart-bar'/> 9.51 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.38</b>"
-                      >
-                        <i className="fas fa-circle text-success"></i>
-                      </button>
-                    </th>
-                    <td>ECT2540 - PROGRAMAÇÃO ORIENTADA A OBJETOS</td>
-                    <td>
-                      <button
-                        className="btn-transparent"
-                        data-toggle="popover"
-                        title="Um amorzinho"
-                        data-trigger="focus"
-                        data-placement="top"
-                        data-content="Não tem nem o que falar 😊"
-                      >
-                        <i className="fas fa-heart text-success"></i>
-                      </button>
-                    </td>
-                  </tr>
-
-                  <tr>
-                    <th scope="row">
-                      <button
-                        className="btn-transparent"
-                        data-toggle="popover"
-                        title="Pontuação"
-                        data-trigger="focus"
-                        data-placement="top"
-                        data-content="<b><i class='fas fa-chart-bar'/> 9.32 &nbsp&nbsp <i class='fab fa-deviantart'/> 1.95</b>"
-                      >
-                        <i className="fas fa-circle text-warning"></i>
-                      </button>
-                    </th>
-                    <td>ECT2206 - GESTÃO E ECONOMIA DA CIÊNCIA</td>
-                    <td>
-                      <button
-                        className="btn-transparent"
-                        data-toggle="popover"
-                        title="Tenha cuidado"
-                        data-trigger="focus"
-                        data-placement="top"
-                        data-content="Talvez seja melhor procurar outro professor 😐"
-                      >
-                        <i className="fas fa-exclamation-circle text-warning"></i>
-                      </button>
-                    </td>
-                  </tr>
-
-                  <tr>
-                    <th scope="row">
-                      <button
-                        className="btn-transparent"
-                        data-toggle="popover"
-                        title="Pontuação"
-                        data-trigger="focus"
-                        data-placement="top"
-                        data-content="<b><i class='fas fa-chart-bar'/> 8.95 &nbsp&nbsp <i class='fab fa-deviantart'/> 3.57</b>"
-                      >
-                        <i className="fas fa-circle text-danger"></i>
-                      </button>
-                    </th>
-                    <td>ECT2105 - PRÁTICAS DE LEITURA E ESCRITA I</td>
-                    <td>
-                      <button
-                        className="btn-transparent"
-                        data-toggle="popover"
-                        title="Vixi"
-                        data-trigger="focus"
-                        data-placement="top"
-                        data-content="Se é sua unica opção, boa sorte 😥<hr class='m-2'/>Esse professor(a) varia o 'humor' de semestre para semestre"
-                      >
-                        <i className="fas fa-radiation text-danger"></i>
-                      </button>
-                    </td>
-                  </tr>
-                </tbody>
+                <tbody>{/* MAP */}</tbody>
               </table>
             </div>
           </div>
+
+          {/*  */}
         </div>
       </div>
     </div>
