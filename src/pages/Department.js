@@ -2,6 +2,7 @@ import React from "react";
 import { Link, useParams, useHistory } from "react-router-dom";
 
 import data from "../assets/data";
+import Materia from "../components/Materia";
 import ParamsForm from "../components/ParamsForm";
 import Professor from "../components/Professor";
 
@@ -11,7 +12,11 @@ function Department({}) {
   let history = useHistory();
   let { departmentKey } = useParams();
 
-  const [jsonData, setJsonData] = React.useState({});
+  const [activeShow, setActiveShow] = React.useState("prof");
+
+  const [jsonDataProf, setJsonDataProf] = React.useState({});
+  const [jsonDataClass, setJsonDataClass] = React.useState({});
+
   const [loader, setLoader] = React.useState(true);
   const [name, setName] = React.useState("");
 
@@ -52,7 +57,7 @@ function Department({}) {
       }, {});
   };
 
-  const getJsonData = async () => {
+  const getJsonDataProf = async () => {
     let jsonFilePath = `/data/${departmentKey}/2019-2017-refined.json`;
     if (process.env.NODE_ENV !== "development") {
       jsonFilePath = `/professor-rank/front/data/${departmentKey}/2019-2017-refined.json`;
@@ -61,7 +66,26 @@ function Department({}) {
       .then(async (res) => {
         let resData = await res.json();
         let ordered = orderedObject(resData);
-        setJsonData(ordered);
+        setJsonDataProf(ordered);
+      })
+      .catch((err) => {
+        alert("Erro ao carregar dados");
+      })
+      .finally(() => {
+        setLoader(false);
+      });
+  };
+
+  const getJsonDataClass = async () => {
+    let jsonFilePath = `/data/${departmentKey}/2019-2017-refined-classes.json`;
+    if (process.env.NODE_ENV !== "development") {
+      jsonFilePath = `/professor-rank/front/data/${departmentKey}/2019-2017-refined-classes.json`;
+    }
+    fetch(jsonFilePath)
+      .then(async (res) => {
+        let resData = await res.json();
+        let ordered = orderedObject(resData);
+        setJsonDataClass(ordered);
       })
       .catch((err) => {
         alert("Erro ao carregar dados");
@@ -76,7 +100,9 @@ function Department({}) {
       department: departmentKey,
     });
 
-    getJsonData();
+    getJsonDataProf();
+    getJsonDataClass();
+
     handleSetName();
   }, []);
 
@@ -98,8 +124,40 @@ function Department({}) {
             </h3>
           </div>
 
-          <div className="bg-div-dark rounded mt-3">
+          <div className="row mt-3 p-0">
+            <div className="col-md-6 mb-3 mx-0">
+              <button
+                className={
+                  "py-1 mx-1 nav-item nav-link btn btn-outline-primary w-100 " +
+                  (activeShow === "prof" ? "active" : "")
+                }
+                onClick={() => setActiveShow("prof")}
+              >
+                Professores
+              </button>
+            </div>
+            <div className="col-md-6 mb-3">
+              <button
+                className={
+                  "py-1 mx-1 nav-item nav-link btn btn-outline-primary w-100 " +
+                  (activeShow !== "prof" ? "active" : "")
+                }
+                onClick={() => setActiveShow("class")}
+              >
+                Matérias
+              </button>
+            </div>
+          </div>
+
+          <div className="bg-div-dark rounded">
             <div className="p-3">
+              <p className="mb-3">
+                <small className="text-muted">
+                  Clicando em "Matérias" você vê a classificação de cada matéria e de seus
+                  professores. Parte da nota da Avaliação Semestral é influenciada pela percepção do
+                  aluno com a matéria, isso acaba pressionando a nota para cima ou para baixo.
+                </small>
+              </p>
               <p className="mb-0">
                 <small className="text-muted">
                   Você pode clicar em "<i className="fas fa-chalkboard-teacher"></i>" para ver a
@@ -116,7 +174,7 @@ function Department({}) {
             <input
               type="text"
               className="form-control buscar-professor w-100 mt-3"
-              placeholder="Buscar Professor"
+              placeholder="Buscar"
               value={search}
               onChange={(e) => setSeach(e.target.value)}
             />
@@ -133,17 +191,32 @@ function Department({}) {
               )}
 
               <table className="table table-hover mb-0" style={{ tableLayout: "fixed" }}>
-                <tbody id="table-geral">
-                  {Object.keys(jsonData).map((professor) => (
-                    <Professor
-                      key={professor}
-                      professorInfo={jsonData[professor]}
-                      professorName={professor}
-                      search={search}
-                      parametros={parametros}
-                    />
-                  ))}
-                </tbody>
+                {activeShow === "prof" ? (
+                  <tbody id="table-geral">
+                    {Object.keys(jsonDataProf).map((professor) => (
+                      <Professor
+                        key={professor}
+                        professorInfo={jsonDataProf[professor]}
+                        professorName={professor}
+                        search={search}
+                        parametros={parametros}
+                      />
+                    ))}
+                  </tbody>
+                ) : (
+                  <tbody id="table-geral">
+                    {Object.keys(jsonDataClass).map((materia) => (
+                      <Materia
+                        profData={jsonDataProf}
+                        key={materia}
+                        materiaInfo={jsonDataClass[materia]}
+                        materiaName={materia}
+                        search={search}
+                        parametros={parametros}
+                      />
+                    ))}
+                  </tbody>
+                )}
               </table>
             </div>
           </div>

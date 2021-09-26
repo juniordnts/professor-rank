@@ -3,7 +3,7 @@ import { Link, useParams, useHistory } from "react-router-dom";
 
 import { PopoverHeader, PopoverBody, UncontrolledPopover } from "reactstrap";
 
-function Professor({ professorInfo, professorName, search, parametros }) {
+function Materia({ materiaInfo, materiaName, search, parametros, profData }) {
   const [popoverOpen, setPopoverOpen] = React.useState(false);
   const toggle = () => setPopoverOpen(!popoverOpen);
 
@@ -11,23 +11,27 @@ function Professor({ professorInfo, professorName, search, parametros }) {
   const toggleDis = () => setPopoverOpenDis(!popoverOpenDis);
 
   const avalNota = (infoAval) => {
-    if (
-      infoAval.MediaDeNotas >= parametros.notaVer &&
-      infoAval.MediaDeDesvios <= parametros.desvioVer
-    ) {
-      return "text-success";
-    } else if (
-      infoAval.MediaDeNotas >= parametros.notaAma &&
-      infoAval.MediaDeDesvios <= parametros.desvioAma
-    ) {
-      return "text-warning";
+    try {
+      if (
+        infoAval.MediaDeNotas >= parametros.notaVer &&
+        infoAval.MediaDeDesvios <= parametros.desvioVer
+      ) {
+        return "text-success";
+      } else if (
+        infoAval.MediaDeNotas >= parametros.notaAma &&
+        infoAval.MediaDeDesvios <= parametros.desvioAma
+      ) {
+        return "text-warning";
+      }
+      return "text-danger";
+    } catch (error) {
+      return "";
     }
-    return "text-danger";
   };
 
   const handleSearchShow = () => {
     if (search !== "") {
-      if (professorName.toUpperCase().includes(search.toUpperCase())) {
+      if (materiaName.toUpperCase().includes(search.toUpperCase())) {
         return true;
       } else {
         return false;
@@ -42,33 +46,33 @@ function Professor({ professorInfo, professorName, search, parametros }) {
     <tr className={handleSearchShow() ? "" : "d-none"}>
       <th scope="row">
         <button
-          id={"pointpopover-" + professorName.replace(/[^a-zA-Z0-9]/g, "_")}
+          id={"pointpopover-" + materiaName.replace(/[^a-zA-Z0-9]/g, "_")}
           className="btn-transparent"
           onClick={(e) => e.currentTarget.focus()}
         >
-          <i className={"fas fa-circle " + avalNota(professorInfo)}></i>
+          <i className={"fas fa-circle " + avalNota(materiaInfo)}></i>
         </button>
         <UncontrolledPopover
           trigger="focus"
           placement="top"
           isOpen={popoverOpen}
-          target={"pointpopover-" + professorName.replace(/[^a-zA-Z0-9]/g, "_")}
+          target={"pointpopover-" + materiaName.replace(/[^a-zA-Z0-9]/g, "_")}
           toggle={toggle}
         >
           <PopoverHeader>Pontuação</PopoverHeader>
           <PopoverBody>
             <b>
-              <i className="fas fa-chart-bar" /> {professorInfo.MediaDeNotas.toFixed(2)}
+              <i className="fas fa-chart-bar" /> {materiaInfo.MediaDeNotas.toFixed(2)}
               &nbsp;&nbsp;&nbsp;&nbsp;
-              <i className="fab fa-deviantart" /> {professorInfo.MediaDeDesvios.toFixed(2)}
+              <i className="fab fa-deviantart" /> {materiaInfo.MediaDeDesvios.toFixed(2)}
             </b>
           </PopoverBody>
         </UncontrolledPopover>
       </th>
-      <td>{professorName}</td>
-      <td className="hide-last-divider">
+      <td>{materiaName}</td>
+      <td>
         <button
-          id={"dispopover-" + professorName.replace(/[^a-zA-Z0-9]/g, "_")}
+          id={"dispopover-" + materiaName.replace(/[^a-zA-Z0-9]/g, "_")}
           className="btn-transparent"
           onClick={(e) => e.currentTarget.focus()}
         >
@@ -78,20 +82,16 @@ function Professor({ professorInfo, professorName, search, parametros }) {
           trigger="focus"
           placement="top"
           isOpen={popoverOpenDis}
-          target={"dispopover-" + professorName.replace(/[^a-zA-Z0-9]/g, "_")}
+          target={"dispopover-" + materiaName.replace(/[^a-zA-Z0-9]/g, "_")}
           toggle={toggleDis}
         >
-          <PopoverHeader>Disciplinas</PopoverHeader>
+          <PopoverHeader>Professores</PopoverHeader>
           <PopoverBody>
-            {Object.keys(professorInfo.Componentes).map((componentName) => (
-              <React.Fragment key={componentName}>
+            {materiaInfo.Docentes.map((docenteName) => (
+              <React.Fragment key={docenteName}>
                 <small>
-                  <i
-                    className={
-                      "fas fa-circle " + avalNota(professorInfo.Componentes[componentName])
-                    }
-                  ></i>{" "}
-                  {componentName}
+                  <i className={"fas fa-circle " + avalNota(profData[docenteName])}></i>{" "}
+                  {docenteName}
                 </small>
                 <hr className="my-1" />
               </React.Fragment>
@@ -103,4 +103,4 @@ function Professor({ professorInfo, professorName, search, parametros }) {
   );
 }
 
-export default Professor;
+export default Materia;

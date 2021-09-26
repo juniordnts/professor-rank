@@ -101,6 +101,10 @@ th button {
   display: none;
 } */
 
+.hide-last-divider:last-child hr {
+  display: none;
+}
+
 hr.with-border {
   border-color: #dee2e627;
 }
