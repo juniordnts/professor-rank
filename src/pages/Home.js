@@ -5,6 +5,7 @@ import Footer from "../components/Footer";
 
 import data from "./../assets/data";
 import firebase from "./../config/firebase";
+import NewVersionBanner from "../components/NewVersionBanner";
 
 function Home() {
   const [value, setValue] = React.useState(false);
@@ -36,7 +37,11 @@ function Home() {
                 ficou comprometida. Acredito que consigo colocar os dados atualizados somente em
                 2021.1
               </p>
+
+              <NewVersionBanner />
+
               <hr className="with-border" />
+
               <p className="text-primary text-center">Escolha um departamento:</p>
             </small>
 

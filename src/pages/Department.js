@@ -7,6 +7,7 @@ import ParamsForm from "../components/ParamsForm";
 import Professor from "../components/Professor";
 
 import firebase from "../config/firebase";
+import NewVersionBanner from "../components/NewVersionBanner";
 
 function Department({}) {
   let history = useHistory();
@@ -131,7 +132,12 @@ function Department({}) {
                   "py-1 mx-1 nav-item nav-link btn btn-outline-primary w-100 " +
                   (activeShow === "prof" ? "active" : "")
                 }
-                onClick={() => setActiveShow("prof")}
+                onClick={() => {
+                  setActiveShow("prof");
+                  firebase.analytics().logEvent("set_active", {
+                    window: "prof",
+                  });
+                }}
               >
                 Professores
               </button>
@@ -142,14 +148,19 @@ function Department({}) {
                   "py-1 mx-1 nav-item nav-link btn btn-outline-primary w-100 " +
                   (activeShow !== "prof" ? "active" : "")
                 }
-                onClick={() => setActiveShow("class")}
+                onClick={() => {
+                  setActiveShow("class");
+                  firebase.analytics().logEvent("set_active", {
+                    window: "class",
+                  });
+                }}
               >
                 Matérias
               </button>
             </div>
           </div>
 
-          <div className="bg-div-dark rounded">
+          <div className="bg-div-dark rounded mb-2">
             <div className="p-3">
               <p className="mb-3">
                 <small className="text-muted">
@@ -167,6 +178,8 @@ function Department({}) {
               </p>
             </div>
           </div>
+
+          <NewVersionBanner />
 
           {/* <!-- Ver Professores --> */}
           <div className="tab-pane fade show active" id="geral">
