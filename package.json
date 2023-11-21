@@ -16,7 +16,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && rm -rf front && mv build front",
+    "build": "react-scripts build",
+    "buildAndMove": "react-scripts build && rm -rf front && mv build front",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
