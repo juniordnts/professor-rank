@@ -7,7 +7,7 @@ function NewVersionBanner() {
   return (
     <div className="bg-primary rounded px-2 py-4 text-center">
       <p className="text-white h5">
-        Uma nova versão com dados atualizado e um interface melhor está disponível em:
+        Uma nova versão com dados atualizado e uma interface melhor está disponível em:
       </p>
 
       <a
